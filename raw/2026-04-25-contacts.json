@@ -1,18 +1,7 @@
 [
   {
-    "id": "zhiyongkaiwu",
-    "name": "智用开物",
-    "contacts": {
-      "fetchedAt": "2026-04-25",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "xieyue",
-    "name": "斜跃智能",
+    "name": "杭州斜跃智能科技有限公司",
     "contacts": {
       "fetchedAt": "2026-04-25",
       "website": {},
@@ -23,7 +12,7 @@
   },
   {
     "id": "anyuaixin",
-    "name": "安宇艾心",
+    "name": "安宇艾心（北京）医疗科技有限公司",
     "contacts": {
       "fetchedAt": "2026-04-25",
       "website": {},
@@ -44,43 +33,11 @@
     }
   },
   {
-    "id": "cohere",
-    "name": "Cohere",
-    "contacts": {
-      "fetchedAt": "2026-04-25",
-      "website": {
-        "website": "https://cohere.com",
-        "emails": [
-          "support@cohere.com"
-        ],
-        "socials": {
-          "twitter": "cohere",
-          "linkedin": "cohere-ai"
-        },
-        "careerPage": "https://cohere.com/careers",
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "aleph-alpha",
+    "id": "alephalpha",
     "name": "Aleph Alpha",
     "contacts": {
       "fetchedAt": "2026-04-25",
-      "website": {
-        "website": "https://aleph-alpha.com",
-        "emails": [],
-        "socials": {
-          "twitter": "Aleph__Alpha",
-          "linkedin": "aleph-alpha",
-          "github": "Aleph-Alpha"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -98,49 +55,19 @@
     }
   },
   {
+    "id": "xenergy",
+    "name": "X-energy",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "comfyui",
     "name": "ComfyUI",
-    "contacts": {
-      "fetchedAt": "2026-04-25",
-      "website": {
-        "website": "https://comfyui.com",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "deepseek",
-    "name": "DeepSeek",
-    "contacts": {
-      "fetchedAt": "2026-04-25",
-      "website": {
-        "website": "https://deepseek.com",
-        "emails": [
-          "service@deepseek.com",
-          "security@deepseek.com"
-        ],
-        "socials": {
-          "twitter": "deepseek_ai",
-          "github": "deepseek-ai",
-          "wechat": "QRCodeImageLink"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "deepseek",
-    "name": "DeepSeek",
     "contacts": {
       "fetchedAt": "2026-04-25",
       "website": {},
@@ -161,11 +88,17 @@
     }
   },
   {
-    "id": "alephalpha",
-    "name": "Aleph Alpha",
+    "id": "quickswms",
+    "name": "QuickSWMS",
     "contacts": {
       "fetchedAt": "2026-04-25",
-      "website": {},
+      "website": {
+        "website": "https://quickswms.co",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -194,7 +127,7 @@
     }
   },
   {
-    "id": "exe-dev",
+    "id": "exedev",
     "name": "Exe.dev",
     "contacts": {
       "fetchedAt": "2026-04-25",
@@ -209,6 +142,101 @@
         },
         "careerPage": "https://exe.dev/jobs",
         "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "huashu-design",
+    "name": "Huashu Design",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://github.com/alchaincyf/huashu-design",
+        "emails": [],
+        "socials": {
+          "twitter": "AlchainHust",
+          "github": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "kami",
+    "name": "Kami",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://github.com/tw93/Kami",
+        "emails": [],
+        "socials": {
+          "twitter": "HiTw93",
+          "github": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
       },
       "github": {},
       "hiring": [],
@@ -235,23 +263,12 @@
     }
   },
   {
-    "id": "fermi",
-    "name": "Fermi",
-    "contacts": {
-      "fetchedAt": "2026-04-25",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "deepseek",
-    "name": "DeepSeek",
+    "name": "DeepSeek AI",
     "contacts": {
       "fetchedAt": "2026-04-25",
       "website": {
-        "website": "https://github.com/deepseek-ai",
+        "website": "https://github.com/deepseek-ai/TileKernels",
         "emails": [],
         "socials": {
           "github": "github",
