@@ -1,65 +1,210 @@
 {
   "projects": [
     {
-      "id": "x-energy",
-      "name": "X-energy",
-      "desc": "核能初创公司，亚马逊投资，IPO融资10亿美元，上市首日涨27%",
-      "track": "hardtech",
-      "stage": "b+",
+      "id": "series",
+      "name": "Series",
+      "desc": "在iMessage内构建AI社交网络的校园应用",
+      "track": "consumer",
+      "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "核能",
-        "IPO",
-        "数据中心"
+        "AI社交",
+        "iMessage",
+        "校园"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "IPO融资10亿美元，亚马逊参投",
+      "funding": "$5.1M pre-seed",
       "scores": {
         "tech": 50,
         "growth": 70,
-        "team": 50,
-        "market": 80
+        "team": 40,
+        "market": 50
       },
-      "score": 62,
+      "score": 54,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 2
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
     },
     {
       "id": "comfyui",
       "name": "ComfyUI",
-      "desc": "AI媒体生成工具，提供图像、视频、音频生成控制，估值5亿美元",
+      "desc": "赋予创作者更高控制权的AI图像、视频、音频生成工具",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI",
-        "图像生成",
-        "视频生成",
-        "控制"
+        "AI生成",
+        "创意工具",
+        "开源"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "融资3000万美元，估值5亿美元",
+      "funding": "$30M raised at $500M valuation",
       "scores": {
-        "tech": 70,
-        "growth": 75,
+        "tech": 80,
+        "growth": 70,
         "team": 50,
-        "market": 80
+        "market": 70
       },
-      "score": 70,
+      "score": 69,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
     },
     {
       "id": "deepseek",
       "name": "DeepSeek",
-      "desc": "中国AI大模型初创，发布V4开源模型，支持百万token上下文",
+      "desc": "开源AI大模型公司，发布DeepSeek-V4预览版",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "大模型",
+        "开源",
+        "AI"
+      ],
+      "team": [],
+      "product": "https://deepseek.com",
+      "founded": "2023-07",
+      "funding": "",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 70,
+        "market": 80
+      },
+      "score": 81,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 4,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://deepseek.com",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "desc": "专注于通用人工智能（AGI）的AI公司，开发大语言模型",
       "track": "ai",
       "stage": "b+",
       "city": "hangzhou",
+      "tags": [
+        "AI",
+        "大模型",
+        "AGI",
+        "开源"
+      ],
+      "team": [
+        {
+          "name": "梁文锋",
+          "role": "创始人",
+          "bg": "幻方量化创始人"
+        }
+      ],
+      "product": "https://www.deepseek.com/",
+      "founded": "2023-05",
+      "funding": "已完成多轮融资，2024年估值超30亿美元",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 80,
+        "market": 80
+      },
+      "score": 84,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 4,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://www.deepseek.com/",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "splatica",
+      "name": "Splatica",
+      "desc": "与Insta360合作的英国初创，提供360度相机高斯散射技术。",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "360相机",
+        "3D重建",
+        "高斯散射"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "深度求索 (DeepSeek)",
+      "desc": "专注AI大模型研发与开源，推出高性能模型和工具",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
       "tags": [
         "AI",
         "大模型",
@@ -67,252 +212,37 @@
       ],
       "team": [],
       "product": "https://deepseek.com",
-      "founded": "2023-05",
-      "funding": "",
-      "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 85,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 3
-    },
-    {
-      "id": "deepseek",
-      "name": "深度求索（DeepSeek）",
-      "desc": "研发大模型DeepSeek系列，V4版本即将发布",
-      "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "大模型",
-        "AI",
-        "开源"
-      ],
-      "team": [],
-      "product": "https://www.deepseek.com",
       "founded": "2023-07",
-      "funding": "已获数亿元融资",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 80,
-        "market": 90
-      },
-      "score": 86,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 3
-    },
-    {
-      "id": "splatica",
-      "name": "Splatica",
-      "desc": "UK-based 12-person startup partnering with Insta360 for 360-degree camera Gaussian splats technology.",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "360-degree",
-        "Gaussian splats",
-        "3D reconstruction"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
       "funding": "",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 70,
+        "growth": 80,
         "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "quickswms",
-      "name": "QuickSWMS",
-      "desc": "AI generator for Australian construction safety documents",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "ai",
-        "construction",
-        "safety",
-        "australia"
-      ],
-      "team": [],
-      "product": "https://quickswms.co",
-      "founded": "2026-01",
-      "funding": "$100 startup",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "fragment",
-      "name": "Fragment",
-      "desc": "YC-backed AI startup acquired by Sierra",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "ai",
-        "yc",
-        "acquired"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2023-01",
-      "funding": "YC-backed, acquired by Sierra in 2026",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "delve",
-      "name": "Delve",
-      "desc": "Troubled startup that suffered a security incident",
-      "track": "saas",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "security",
-        "troubled",
-        "saas"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2024-01",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "exe-dev",
-      "name": "Exe.dev",
-      "desc": "Developer tools startup that raised $35M Series A",
-      "track": "saas",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "developer-tools",
-        "funding"
-      ],
-      "team": [],
-      "product": "https://exe.dev",
-      "founded": "2022-06",
-      "funding": "$35M Series A in April 2026",
-      "scores": {
-        "tech": 50,
-        "growth": 70,
-        "team": 50,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "awiser",
-      "name": "Awiser",
-      "desc": "早期项目推广平台，免费在社交媒体推广初创项目",
-      "track": "saas",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "startup promotion",
-        "early stage",
-        "marketing"
-      ],
-      "team": [],
-      "product": "https://awiser.co",
-      "founded": "unknown",
-      "funding": "unknown",
-      "scores": {
-        "tech": 30,
-        "growth": 50,
-        "team": 30,
-        "market": 50
-      },
-      "score": 40,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "fermi",
-      "name": "Fermi",
-      "desc": "AI核能初创公司，CEO和CFO突然离职",
-      "track": "hardtech",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "nuclear",
-        "energy startup"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "unknown",
-      "scores": {
-        "tech": 50,
-        "growth": 30,
-        "team": 30,
-        "market": 50
-      },
-      "score": 40,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "deepseek",
-      "name": "DeepSeek",
-      "desc": "中国AI大模型初创公司，关注国产芯片适配",
-      "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "AI",
-        "large language model",
-        "chip adaptation",
-        "open source"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2023-05",
-      "funding": "多轮融资，总金额超10亿美元",
-      "scores": {
-        "tech": 80,
-        "growth": 85,
-        "team": 75,
         "market": 80
       },
-      "score": 80,
+      "score": 71,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 3
+      "discussionCount": 4,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://deepseek.com",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
     }
   ]
 }

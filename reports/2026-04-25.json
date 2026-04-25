@@ -1,65 +1,210 @@
 {
   "projects": [
     {
-      "id": "x-energy",
-      "name": "X-energy",
-      "desc": "核能初创公司，亚马逊投资，IPO融资10亿美元，上市首日涨27%",
-      "track": "hardtech",
-      "stage": "b+",
+      "id": "series",
+      "name": "Series",
+      "desc": "在iMessage内构建AI社交网络的校园应用",
+      "track": "consumer",
+      "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "核能",
-        "IPO",
-        "数据中心"
+        "AI社交",
+        "iMessage",
+        "校园"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "IPO融资10亿美元，亚马逊参投",
+      "funding": "$5.1M pre-seed",
       "scores": {
         "tech": 50,
         "growth": 70,
-        "team": 50,
-        "market": 80
+        "team": 40,
+        "market": 50
       },
-      "score": 62,
+      "score": 54,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 2
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
     },
     {
       "id": "comfyui",
       "name": "ComfyUI",
-      "desc": "AI媒体生成工具，提供图像、视频、音频生成控制，估值5亿美元",
+      "desc": "赋予创作者更高控制权的AI图像、视频、音频生成工具",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI",
-        "图像生成",
-        "视频生成",
-        "控制"
+        "AI生成",
+        "创意工具",
+        "开源"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "融资3000万美元，估值5亿美元",
+      "funding": "$30M raised at $500M valuation",
       "scores": {
-        "tech": 70,
-        "growth": 75,
+        "tech": 80,
+        "growth": 70,
         "team": 50,
-        "market": 80
+        "market": 70
       },
-      "score": 70,
+      "score": 69,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
     },
     {
       "id": "deepseek",
       "name": "DeepSeek",
-      "desc": "中国AI大模型初创，发布V4开源模型，支持百万token上下文",
+      "desc": "开源AI大模型公司，发布DeepSeek-V4预览版",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "大模型",
+        "开源",
+        "AI"
+      ],
+      "team": [],
+      "product": "https://deepseek.com",
+      "founded": "2023-07",
+      "funding": "",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 70,
+        "market": 80
+      },
+      "score": 81,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 4,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://deepseek.com",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "desc": "专注于通用人工智能（AGI）的AI公司，开发大语言模型",
       "track": "ai",
       "stage": "b+",
       "city": "hangzhou",
+      "tags": [
+        "AI",
+        "大模型",
+        "AGI",
+        "开源"
+      ],
+      "team": [
+        {
+          "name": "梁文锋",
+          "role": "创始人",
+          "bg": "幻方量化创始人"
+        }
+      ],
+      "product": "https://www.deepseek.com/",
+      "founded": "2023-05",
+      "funding": "已完成多轮融资，2024年估值超30亿美元",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 80,
+        "market": 80
+      },
+      "score": 84,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 4,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://www.deepseek.com/",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "splatica",
+      "name": "Splatica",
+      "desc": "与Insta360合作的英国初创，提供360度相机高斯散射技术。",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "360相机",
+        "3D重建",
+        "高斯散射"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "深度求索 (DeepSeek)",
+      "desc": "专注AI大模型研发与开源，推出高性能模型和工具",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
       "tags": [
         "AI",
         "大模型",
@@ -67,265 +212,50 @@
       ],
       "team": [],
       "product": "https://deepseek.com",
-      "founded": "2023-05",
-      "funding": "",
-      "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 85,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 3
-    },
-    {
-      "id": "deepseek",
-      "name": "深度求索（DeepSeek）",
-      "desc": "研发大模型DeepSeek系列，V4版本即将发布",
-      "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "大模型",
-        "AI",
-        "开源"
-      ],
-      "team": [],
-      "product": "https://www.deepseek.com",
       "founded": "2023-07",
-      "funding": "已获数亿元融资",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 80,
-        "market": 90
-      },
-      "score": 86,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 3
-    },
-    {
-      "id": "splatica",
-      "name": "Splatica",
-      "desc": "UK-based 12-person startup partnering with Insta360 for 360-degree camera Gaussian splats technology.",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "360-degree",
-        "Gaussian splats",
-        "3D reconstruction"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
       "funding": "",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 70,
+        "growth": 80,
         "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "quickswms",
-      "name": "QuickSWMS",
-      "desc": "AI generator for Australian construction safety documents",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "ai",
-        "construction",
-        "safety",
-        "australia"
-      ],
-      "team": [],
-      "product": "https://quickswms.co",
-      "founded": "2026-01",
-      "funding": "$100 startup",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "fragment",
-      "name": "Fragment",
-      "desc": "YC-backed AI startup acquired by Sierra",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "ai",
-        "yc",
-        "acquired"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2023-01",
-      "funding": "YC-backed, acquired by Sierra in 2026",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "delve",
-      "name": "Delve",
-      "desc": "Troubled startup that suffered a security incident",
-      "track": "saas",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "security",
-        "troubled",
-        "saas"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2024-01",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "exe-dev",
-      "name": "Exe.dev",
-      "desc": "Developer tools startup that raised $35M Series A",
-      "track": "saas",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "developer-tools",
-        "funding"
-      ],
-      "team": [],
-      "product": "https://exe.dev",
-      "founded": "2022-06",
-      "funding": "$35M Series A in April 2026",
-      "scores": {
-        "tech": 50,
-        "growth": 70,
-        "team": 50,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "awiser",
-      "name": "Awiser",
-      "desc": "早期项目推广平台，免费在社交媒体推广初创项目",
-      "track": "saas",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "startup promotion",
-        "early stage",
-        "marketing"
-      ],
-      "team": [],
-      "product": "https://awiser.co",
-      "founded": "unknown",
-      "funding": "unknown",
-      "scores": {
-        "tech": 30,
-        "growth": 50,
-        "team": 30,
-        "market": 50
-      },
-      "score": 40,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "fermi",
-      "name": "Fermi",
-      "desc": "AI核能初创公司，CEO和CFO突然离职",
-      "track": "hardtech",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "nuclear",
-        "energy startup"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "unknown",
-      "scores": {
-        "tech": 50,
-        "growth": 30,
-        "team": 30,
-        "market": 50
-      },
-      "score": 40,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1
-    },
-    {
-      "id": "deepseek",
-      "name": "DeepSeek",
-      "desc": "中国AI大模型初创公司，关注国产芯片适配",
-      "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "AI",
-        "large language model",
-        "chip adaptation",
-        "open source"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2023-05",
-      "funding": "多轮融资，总金额超10亿美元",
-      "scores": {
-        "tech": 80,
-        "growth": 85,
-        "team": 75,
         "market": 80
       },
-      "score": 80,
+      "score": 71,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 3
+      "discussionCount": 4,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://deepseek.com",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
     }
   ],
   "discussions": [
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
-      "url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
-      "snippet": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
+      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "snippet": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
       "date": "2026-04-24",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "x-energy"
+      "relatedProject": "series"
     },
     {
       "source": "TechCrunch",
@@ -337,17 +267,6 @@
       "likes": 0,
       "comments": 0,
       "relatedProject": "comfyui"
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
-      "url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
-      "snippet": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
-      "date": "2026-04-24",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "x-energy"
     },
     {
       "source": "TechNode",
@@ -365,7 +284,7 @@
       "sourceIcon": "TN",
       "title": "DeepSeek V4 may launch this month, test interface suggests Vision and Expert modes",
       "url": "https://technode.com/2026/04/08/deepseek-v4-may-launch-this-month-test-interface-suggests-vision-and-expert-modes/",
-      "snippet": "DeepSeek V4测试界面显示视觉和专家模式，预计本月正式发布，市场期待度高。",
+      "snippet": "DeepSeek V4可能本月发布，测试界面显示视觉和专家模式，市场推测系统异常为压力测试。",
       "date": "2026-04-08",
       "likes": 0,
       "comments": 0,
@@ -376,220 +295,11 @@
       "sourceIcon": "VG",
       "title": "360-degree cameras have a new superpower",
       "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-      "snippet": "Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators create walkable Gaussian splats from 360-degree video.",
+      "snippet": "Insta360与12人英国初创Splatica合作，实现类似Google街景但DIY的360度相机3D漫游。",
       "date": "2026-04-24",
       "likes": 0,
       "comments": 0,
       "relatedProject": "splatica"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Cloudflare Email Service is a deliverability bet dressed as an agents launch",
-      "url": "https://news.ycombinator.com/item?id=47893690",
-      "snippet": "Article URL: https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html Comments URL: https://news.ycombinator.com/item?id=47893690 Points: 1 # Comments: 0",
-      "date": "2026-04-24",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Amazon-Backed Hollywood Production Startup Deploys AI for Speed and Cost-Cutting [video]",
-      "url": "https://news.ycombinator.com/item?id=47890934",
-      "snippet": "Article URL: https://www.youtube.com/watch?v=D5Ylmvn_D6g Comments URL: https://news.ycombinator.com/item?id=47890934 Points: 3 # Comments: 0",
-      "date": "2026-04-24",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Canada's AI Startup Cohere Buys Germany's Aleph Alpha to Expand in Europe",
-      "url": "https://news.ycombinator.com/item?id=47887383",
-      "snippet": "Article URL: https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=47887383 Points: 3 # Comments: 0",
-      "date": "2026-04-24",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "QuickSWMS – AI generator for Australian construction safety docs ($100 startup)",
-      "url": "https://news.ycombinator.com/item?id=47886964",
-      "snippet": "Article URL: https://quickswms.co Comments URL: https://news.ycombinator.com/item?id=47886964 Points: 1 # Comments: 0",
-      "date": "2026-04-24",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "quickswms"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Bret Taylor's Sierra Buys YC-Backed AI Startup Fragment",
-      "url": "https://news.ycombinator.com/item?id=47884586",
-      "snippet": "Article URL: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/ Comments URL: https://news.ycombinator.com/item?id=47884586 Points: 1 # Comments: 0",
-      "date": "2026-04-24",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "fragment"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "url": "https://news.ycombinator.com/item?id=47882771",
-      "snippet": "Article URL: https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/ Comments URL: https://news.ycombinator.com/item?id=47882771 Points: 3 # Comments: 0",
-      "date": "2026-04-23",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": "delve"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Why You Should Work at a Startup in 2026",
-      "url": "https://news.ycombinator.com/item?id=47878433",
-      "snippet": "Article URL: https://dharmasamu.com/blog/why-work-at-a-startup-2026 Comments URL: https://news.ycombinator.com/item?id=47878433 Points: 2 # Comments: 1",
-      "date": "2026-04-23",
-      "likes": 2,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Series A for Exe.dev – $35M in Funding",
-      "url": "https://news.ycombinator.com/item?id=47877872",
-      "snippet": "Article URL: https://blog.exe.dev/series-a Comments URL: https://news.ycombinator.com/item?id=47877872 Points: 5 # Comments: 1",
-      "date": "2026-04-23",
-      "likes": 5,
-      "comments": 1,
-      "relatedProject": "exe-dev"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "AI agent designs complete RISC-V CPU from a 219-word spec, startup claims",
-      "url": "https://news.ycombinator.com/item?id=47875538",
-      "snippet": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours Comments URL: https://news.ycombinator.com/item?id=47875538 Points: 3 # Comments: 0",
-      "date": "2026-04-23",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Tim Cook Calls Apple Maps Launch His 'First Big Mistake' as CEO",
-      "url": "https://news.ycombinator.com/item?id=47875537",
-      "snippet": "Article URL: https://www.macrumors.com/2026/04/23/tim-cook-apple-maps-launch-his-really-big-mistake/ Comments URL: https://news.ycombinator.com/item?id=47875537 Points: 7 # Comments: 6",
-      "date": "2026-04-23",
-      "likes": 7,
-      "comments": 6,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "China backs orbital data center startup with $8.4B in credit lines",
-      "url": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
-      "snippet": "China backs orbital data center startup with $8.4B in credit lines",
-      "date": "2026-04-23",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "CATL to launch sodium-ion batteries in EVs in 2026, aiming for 370 miles range",
-      "url": "https://electrek.co/2026/04/22/catl-launching-sodium-ion-batteries-evs-2026/",
-      "snippet": "CATL to launch sodium-ion batteries in EVs in 2026, aiming for 370 miles range",
-      "date": "2026-04-22",
-      "likes": 8,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Jeff Bezos Nears $10B Funding Round for Project Prometheus",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says",
-      "snippet": "Jeff Bezos Nears $10B Funding Round for Project Prometheus",
-      "date": "2026-04-22",
-      "likes": 6,
-      "comments": 2,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Pace of NIH Funding Slows Further in Trump's Second Year",
-      "url": "https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html",
-      "snippet": "Pace of NIH Funding Slows Further in Trump's Second Year",
-      "date": "2026-04-22",
-      "likes": 7,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Sauce Co Prego Sparks Privacy Concerns After Device Launch to Record Mealtimes",
-      "url": "https://www.inkl.com/news/prego-sparks-privacy-concerns-after-launching-a-device-designed-to-record-mealtime-conversations",
-      "snippet": "Sauce Co Prego Sparks Privacy Concerns After Device Launch to Record Mealtimes",
-      "date": "2026-04-22",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "For its launch, Awiser will promote early projects",
-      "url": "https://news.ycombinator.com/item?id=47866276",
-      "snippet": "Add you project to Awiser.co and be promoted on various social networks surch as Instagram, X, Linkedin. All free of charge.",
-      "date": "2026-04-22",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "awiser"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "snippet": "Alberta startup sells no-tech tractors for half price",
-      "date": "2026-04-22",
-      "likes": 2260,
-      "comments": 769,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "CEO and CFO suddenly depart AI nuclear power startup Fermi",
-      "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-      "snippet": "CEO and CFO suddenly depart AI nuclear power startup Fermi",
-      "date": "2026-04-22",
-      "likes": 6,
-      "comments": 1,
-      "relatedProject": "fermi"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Ask HN: Are startup job titles evolving in the agentic era?",
-      "url": "https://news.ycombinator.com/item?id=47865757",
-      "snippet": "I’m curious if founders and engineering leaders feel that traditional job titles no longer accurately describe what an early team actually does in an AI-native workflow...",
-      "date": "2026-04-22",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
     },
     {
       "source": "B站",
@@ -607,10 +317,10 @@
       "sourceIcon": "V2",
       "title": "我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现",
       "url": "https://www.v2ex.com/t/1208365",
-      "snippet": "最近在折腾本地大模型，发现一个核心问题：Ollama 和 LM Studio 能让模型跑起来，但参数全靠猜——上下文长度、KV cache 类型、MoE expert 放哪、ubatch 多大……用默认参数基本是在浪费显卡。 于是做了个工具自动找最优配置，过程中踩了不少坑，记录一下。",
+      "snippet": "最近在折腾本地大模型，发现一个核心问题：Ollama 和 LM Studio 能让模型跑起来，但参数全靠猜——上下文长度、KV cache 类型、MoE expert 放哪、ubatch 多大……用默认参数基本是在浪费显卡。 于是做了个工具自动找最优配置，过程中踩了不少坑，记录一下。 --- ## 核心发现 ### 1. MoE 模型的 offload 策略决定了一切 Qwen3-30B-A3B 是 MoE 架构，在 8GB 显卡上： - LM Studio 默认把所有层塞进显存 → 7549MB （ 93%），3 tok/s - 只把 attention",
       "date": "2026-04-25",
       "likes": 0,
-      "comments": 51,
+      "comments": 53,
       "relatedProject": null
     },
     {
@@ -618,7 +328,7 @@
       "sourceIcon": "GH",
       "title": "alchaincyf/huashu-design",
       "url": "https://github.com/alchaincyf/huashu-design",
-      "snippet": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+      "snippet": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的 design skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
       "date": "2026-04-19",
       "likes": 0,
       "comments": 0,
@@ -655,7 +365,7 @@
       "date": "2026-04-22",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "deepseek"
     }
   ]
 }

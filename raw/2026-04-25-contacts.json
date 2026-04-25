@@ -1,0 +1,107 @@
+[
+  {
+    "id": "series",
+    "name": "Series",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://deepseek.com",
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "QRCodeImageLink"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://www.deepseek.com/",
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "QRCodeImageLink"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "splatica",
+    "name": "Splatica",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "深度求索 (DeepSeek)",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://deepseek.com",
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "QRCodeImageLink"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  }
+]
