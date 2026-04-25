@@ -1,5 +1,92 @@
 [
   {
+    "id": "zhiyongkaiwu",
+    "name": "智用开物",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xieyue",
+    "name": "斜跃智能",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anyuaixin",
+    "name": "安宇艾心",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pronto",
+    "name": "Pronto",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://cohere.com",
+        "emails": [
+          "support@cohere.com"
+        ],
+        "socials": {
+          "twitter": "cohere",
+          "linkedin": "cohere-ai"
+        },
+        "careerPage": "https://cohere.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "aleph-alpha",
+    "name": "Aleph Alpha",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://aleph-alpha.com",
+        "emails": [],
+        "socials": {
+          "twitter": "Aleph__Alpha",
+          "linkedin": "aleph-alpha",
+          "github": "Aleph-Alpha"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "series",
     "name": "Series",
     "contacts": {
@@ -15,7 +102,13 @@
     "name": "ComfyUI",
     "contacts": {
       "fetchedAt": "2026-04-25",
-      "website": {},
+      "website": {
+        "website": "https://comfyui.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -50,20 +143,7 @@
     "name": "DeepSeek",
     "contacts": {
       "fetchedAt": "2026-04-25",
-      "website": {
-        "website": "https://www.deepseek.com/",
-        "emails": [
-          "service@deepseek.com",
-          "security@deepseek.com"
-        ],
-        "socials": {
-          "twitter": "deepseek_ai",
-          "github": "deepseek-ai",
-          "wechat": "QRCodeImageLink"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -81,23 +161,126 @@
     }
   },
   {
-    "id": "deepseek",
-    "name": "深度求索 (DeepSeek)",
+    "id": "alephalpha",
+    "name": "Aleph Alpha",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fragment",
+    "name": "Fragment",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "delve",
+    "name": "Delve",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "exe-dev",
+    "name": "Exe.dev",
     "contacts": {
       "fetchedAt": "2026-04-25",
       "website": {
-        "website": "https://deepseek.com",
+        "website": "https://exe.dev",
         "emails": [
-          "service@deepseek.com",
-          "security@deepseek.com"
+          "support@exe.dev"
         ],
         "socials": {
-          "twitter": "deepseek_ai",
-          "github": "deepseek-ai",
-          "wechat": "QRCodeImageLink"
+          "twitter": "ssh_exe_dev",
+          "linkedin": "crawshaw"
         },
-        "careerPage": null,
+        "careerPage": "https://exe.dev/jobs",
         "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "awiser",
+    "name": "Awiser",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://awiser.co",
+        "emails": [
+          "support@awiser.co"
+        ],
+        "socials": {},
+        "careerPage": "https://awiser.co/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fermi",
+    "name": "Fermi",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-04-25",
+      "website": {
+        "website": "https://github.com/deepseek-ai",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
       },
       "github": {},
       "hiring": [],

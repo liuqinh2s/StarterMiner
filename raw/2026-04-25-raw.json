@@ -72,9 +72,19 @@
   {
     "source": "36氪",
     "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-    "summary": "文｜周鑫雨 编辑｜杨轩 一句话介绍 Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。 好比“视频版的PhotoShop”，用户只需下达自然语言指令，就能驱动Agent对视频进行背景去除、光线修正、产品替换、背景/视角更改等编辑操作。 团队介绍 “感知阶跃”创始人兼CEO Ella Zhang（张诗莹），曾在苹果、Oculus VR、Google负责核心产品。 在苹果��间，她曾为AirPods产品线创始团队核心成员，负责产品的系统集成和全周期设计落地，包括音频产品的架构设计、元器件选型、原理图绘制、版图设计、验证以及大规模生产。 此后，张诗莹又在Google担任AR产品的系统架构师，负责Glass、Reflector等产品的算法和架构研发。 “感知阶跃”其余核心成员，来自Adobe、小米、商汤等公司。 融资进展 近期，“感知阶跃”完成了新一轮融资， 金额超过2000万美元，领投方为Redpoint（红点创投）。 深渡资本担任本轮独家财务顾问。 产品及业务 在张诗莹看来，随着视频生成",
+    "summary": "文｜周鑫雨 编辑｜杨轩 一句话介绍 Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。 好比“视频版的PhotoShop”，用户只需下达自然语言指令，就能驱动Agent对视频进行背景去除、光线修正、产品替换、背景/视角更改等编辑操作。 团队介绍 “感知阶跃”创始人兼CEO Ella Zhang（张诗莹），曾在苹果、Oculus VR、Google负责核心产品。 在苹果期间，她曾为AirPods产品线创始团队核心成员，负责产品的系统集成和全周期设计落地，包括音频产品的架构设计、元器件选型、原理图绘制、版图设计、验证以及大规模生产。 此后，张诗莹又在Google担任AR产品的系统架构师，负责Glass、Reflector等产品的算法和架构研发。 “感知阶跃”其余核心成员，来自Adobe、小米、商汤等公司。 融资进展 近期，“感知阶跃”完成了新一轮融资， 金额超过2000万美元，领投方为Redpoint（红点创投）。 深渡资本担任本轮独家财务顾问。 产品及业务 在张诗莹看来，随着视频生成模",
     "url": "https://36kr.com/p/3780352721851397?f=rss",
     "published": "2026-04-24 12:58:37  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-25"
+  },
+  {
+    "source": "36氪",
+    "title": "潘功胜：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
+    "summary": "36氪获悉，据中国人民银行网站消息，中国人民银行、国家外汇局召开全系统警示教育会暨树立和践行正确政绩观学习教育推进会。中国人民银行党委书记、行长潘功胜同志指出，推动央行事业高质量发展。立足中国人民银行职责，深入分析经济金融问题背后的政绩观问题，从严从实落实中央巡视、审计等整改，持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”，积极稳妥推动地方政府融资平台债务和中小金融机构风险化解，对相关领域非法金融活动保持高压打击态势，持续优化央行县域金融管理和服务。",
+    "url": "https://36kr.com/newsflashes/3781734984473856?f=rss",
+    "published": "2026-04-25 12:19:45  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-25"
@@ -672,7 +682,7 @@
   {
     "source": "Hacker News",
     "title": "Alberta startup sells no-tech tractors for half price",
-    "summary": "Article URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/ Comments URL: https://news.ycombinator.com/item?id=47865868 Points: 2262 # Comments: 769",
+    "summary": "Article URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/ Comments URL: https://news.ycombinator.com/item?id=47865868 Points: 2264 # Comments: 769",
     "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
     "published": "Wed, 22 Apr 2026 16:29:25 +0000",
     "lang": "en",
@@ -736,7 +746,7 @@
     "type": "signal",
     "fetchedAt": "2026-04-25",
     "meta": {
-      "stars": 6140,
+      "stars": 6150,
       "forks": 946,
       "language": "HTML",
       "createdDaysAgo": 5
@@ -752,7 +762,7 @@
     "type": "signal",
     "fetchedAt": "2026-04-25",
     "meta": {
-      "stars": 3068,
+      "stars": 3073,
       "forks": 152,
       "language": "HTML",
       "createdDaysAgo": 4
@@ -768,7 +778,7 @@
     "type": "signal",
     "fetchedAt": "2026-04-25",
     "meta": {
-      "stars": 2077,
+      "stars": 2105,
       "forks": 252,
       "language": "HTML",
       "createdDaysAgo": 1
@@ -784,8 +794,8 @@
     "type": "signal",
     "fetchedAt": "2026-04-25",
     "meta": {
-      "stars": 1084,
-      "forks": 80,
+      "stars": 1086,
+      "forks": 82,
       "language": "Python",
       "createdDaysAgo": 2
     }
