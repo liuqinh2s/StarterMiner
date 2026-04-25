@@ -1,0 +1,12 @@
+{
+    "name": "startup-radar",
+    "version": "1.0.0",
+    "description": "AI 驱动的初创公司发现平台",
+    "scripts": {
+        "dev": "npx live-server site --port=8080",
+        "serve": "npx http-server site -p 8080 -c-1"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}

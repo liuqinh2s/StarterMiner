@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StartupRadar - 初创公司发现平台</title>
+  <meta name="description" content="发现最具潜力的早期初创公司和团队，AI 驱动的增长评分，全网讨论聚合">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- 顶部导航 -->
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">🚀 StartupRadar</a>
+      <nav class="nav">
+        <a href="#hot" class="nav-link active" data-section="hot">热门项目</a>
+        <a href="#explore" class="nav-link" data-section="explore">探索</a>
+        <a href="#discussions" class="nav-link" data-section="discussions">全网讨论</a>
+      </nav>
+      <button class="theme-toggle" id="themeToggle" aria-label="切换主题">🌙</button>
+    </div>
+  </header>
+
+  <!-- 主内容区 -->
+  <main class="main container">
+
+    <!-- 热门项目区 -->
+    <section id="hot" class="section">
+      <h2 class="section-title">🔥 近期热门初创项目</h2>
+      <p class="section-desc">AI 自动从全网发现并评分的高潜力早期项目</p>
+      <div class="cards" id="hotCards">
+        <div class="loading">加载中...</div>
+      </div>
+    </section>
+
+    <!-- 探索区（筛选） -->
+    <section id="explore" class="section">
+      <h2 class="section-title">🔍 探索项目库</h2>
+      <div class="filters">
+        <div class="filter-group">
+          <label>赛道</label>
+          <select id="filterTrack">
+            <option value="">全部赛道</option>
+            <option value="ai">AI / 人工智能</option>
+            <option value="saas">企业 SaaS</option>
+            <option value="web3">Web3 / 区块链</option>
+            <option value="ecommerce">跨境电商</option>
+            <option value="hardtech">硬科技</option>
+            <option value="consumer">消费互联网</option>
+            <option value="biotech">生物医药</option>
+            <option value="fintech">金融科技</option>
+            <option value="other">其他</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label>阶段</label>
+          <select id="filterStage">
+            <option value="">全部阶段</option>
+            <option value="idea">概念期</option>
+            <option value="pre-seed">Pre-Seed</option>
+            <option value="seed">种子轮</option>
+            <option value="angel">天使轮</option>
+            <option value="pre-a">Pre-A</option>
+            <option value="a">A 轮</option>
+            <option value="b+">B 轮及以上</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label>城市</label>
+          <select id="filterCity">
+            <option value="">全部城市</option>
+            <option value="beijing">北京</option>
+            <option value="shanghai">上海</option>
+            <option value="shenzhen">深圳</option>
+            <option value="hangzhou">杭州</option>
+            <option value="guangzhou">广州</option>
+            <option value="chengdu">成都</option>
+            <option value="overseas">海外</option>
+            <option value="other">其他</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label>排序</label>
+          <select id="filterSort">
+            <option value="score">增长评分</option>
+            <option value="newest">最新发现</option>
+            <option value="discussed">讨论最多</option>
+          </select>
+        </div>
+      </div>
+      <div class="project-list" id="projectList">
+        <div class="loading">加载中...</div>
+      </div>
+      <div class="pagination" id="pagination"></div>
+    </section>
+
+    <!-- 全网讨论区 -->
+    <section id="discussions" class="section">
+      <h2 class="section-title">💬 全网讨论</h2>
+      <p class="section-desc">自动聚合知乎、微博、36氪、Twitter 等平台关于初创公司的讨论</p>
+      <div class="discussion-list" id="discussionList">
+        <div class="loading">加载中...</div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 项目详情弹窗 -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="projectModal">
+      <button class="modal-close" id="modalClose" aria-label="关闭">&times;</button>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <div class="container">
+      <p>StartupRadar · AI 驱动的初创公司发现平台</p>
+      <p class="footer-sub">数据每日自动更新 · <span id="lastUpdate">--</span></p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
