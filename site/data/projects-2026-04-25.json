@@ -1,41 +1,141 @@
 {
   "projects": [
     {
+      "id": "zhiyongkaiwu",
+      "name": "智用开物",
+      "desc": "工业智能体及高价值应用公司，通过工业语义引擎降低AI落地门槛",
+      "track": "ai",
+      "stage": "angel",
+      "city": "guangzhou",
+      "tags": [
+        "工业智能体",
+        "工业语义引擎",
+        "AI落地",
+        "微软基因"
+      ],
+      "team": [
+        {
+          "name": "管震",
+          "role": "CEO",
+          "bg": "曾任微软中国首席技术顾问"
+        },
+        {
+          "name": "赵铭",
+          "role": "COO",
+          "bg": "曾任微软全球CTO办公室首席架构师"
+        },
+        {
+          "name": "张善友",
+          "role": "CTO",
+          "bg": "连续20届微软最有价值专家"
+        }
+      ],
+      "product": "",
+      "founded": "2024-01",
+      "funding": "完成近亿元天使+轮融资，老股东瑞枫资本领投，创享投资跟投，立讯精密家族办公室及高管战略投资",
+      "scores": {
+        "tech": 85,
+        "growth": 75,
+        "team": 90,
+        "market": 80
+      },
+      "score": 82,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "desc": "AI编程IDE，付费用户超100万，估值293亿美元",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI编程",
+        "代码生成",
+        "IDE",
+        "MIT辍学创业"
+      ],
+      "team": [
+        {
+          "name": "创始人",
+          "role": "创始人",
+          "bg": "四位MIT辍学生"
+        }
+      ],
+      "product": "https://cursor.com",
+      "founded": "2022-01",
+      "funding": "SpaceX获得以600亿美元收购选择权",
+      "scores": {
+        "tech": 90,
+        "growth": 95,
+        "team": 85,
+        "market": 90
+      },
+      "score": 90,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {
+          "website": "https://cursor.com",
+          "emails": [],
+          "socials": {
+            "twitter": "cursor_ai",
+            "linkedin": "cursorai"
+          },
+          "careerPage": "https://cursor.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
       "id": "xieyue",
       "name": "杭州斜跃智能科技有限公司",
-      "desc": "专注家庭具身智能机器人研发，由理想汽车前高管创立",
+      "desc": "研发家庭具身智能机器人，将AI从数字世界延伸至物理世界。",
       "track": "hardtech",
       "stage": "seed",
       "city": "hangzhou",
       "tags": [
         "具身智能",
         "家庭机器人",
-        "AI"
+        "大模型",
+        "AI硬件"
       ],
       "team": [
         {
           "name": "陈伟",
           "role": "创始人",
-          "bg": "前理想汽车AI首席科学家"
+          "bg": "前理想汽车AI首席科学家，主导理想同学及VLA模型研发"
         },
         {
           "name": "张骁",
           "role": "创始人",
-          "bg": "前理想汽车产品线总裁"
+          "bg": "前理想汽车产品线总裁，主导理想ONE和L9产品定义"
         }
       ],
       "product": "",
-      "founded": "2026-04",
-      "funding": "首轮融资由元璟资本和理想汽车联合投资，金额未披露",
+      "founded": "2026-01",
+      "funding": "首轮融资，元璟资本和理想汽车联合投资，金额未披露",
       "scores": {
-        "tech": 80,
-        "growth": 50,
+        "tech": 70,
+        "growth": 30,
         "team": 85,
         "market": 70
       },
-      "score": 70,
+      "score": 61,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {},
@@ -47,28 +147,62 @@
     {
       "id": "anyuaixin",
       "name": "安宇艾心（北京）医疗科技有限公司",
-      "desc": "研发基于全光学超声技术的介入超声成像系统",
+      "desc": "专注于全光学超声介入成像系统研发，颠覆传统血管造影技术。",
       "track": "biotech",
       "stage": "a",
       "city": "beijing",
       "tags": [
-        "全光学超声",
-        "介入成像",
-        "医疗设备"
+        "介入超声",
+        "全光学",
+        "医疗影像",
+        "器械创新"
       ],
       "team": [],
       "product": "",
       "founded": "2022-08",
-      "funding": "新一轮数千万人民币融资，北京市医药健康产业投资基金领投，中关村资本、通政基金、君领投资跟投",
+      "funding": "新一轮数千万人民币融资，北京市医药健康产业投资基金领投",
       "scores": {
-        "tech": 85,
-        "growth": 50,
+        "tech": 80,
+        "growth": 40,
         "team": 50,
         "market": 70
       },
-      "score": 64,
+      "score": 60,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 0,
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "snabbit",
+      "name": "Snabbit",
+      "desc": "India's on-demand household service platform, rapidly scaling.",
+      "track": "consumer",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "on-demand services",
+        "household help",
+        "india"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Seeking fresh funding at $400M valuation; crossed 1M jobs in March 2026.",
+      "scores": {
+        "tech": 30,
+        "growth": 80,
+        "team": 50,
+        "market": 70
+      },
+      "score": 57,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {},
@@ -80,28 +214,28 @@
     {
       "id": "pronto",
       "name": "Pronto",
-      "desc": "印度家政服务平台，快速增长中",
+      "desc": "India-based house-help startup scaling fast, backed by Lachy Groom.",
       "track": "consumer",
       "stage": "a",
       "city": "overseas",
       "tags": [
-        "家政服务",
-        "印度",
-        "平台"
+        "household services",
+        "india",
+        "fast-growing"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "Lachy Groom参与投资，估值约2亿美元",
+      "funding": "Raising at $200M valuation; previous valuation doubled in weeks.",
       "scores": {
         "tech": 30,
         "growth": 80,
-        "team": 50,
-        "market": 75
+        "team": 60,
+        "market": 70
       },
-      "score": 58,
+      "score": 59,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {},
@@ -113,28 +247,28 @@
     {
       "id": "alephalpha",
       "name": "Aleph Alpha",
-      "desc": "德国AI系统公司，为企业与政府构建AI系统",
+      "desc": "German AI startup building enterprise AI systems, merging with Cohere.",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI",
-        "企业AI",
-        "德国"
+        "enterprise AI",
+        "Germany",
+        "AI safety"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "被Cohere收购，合并为跨大西洋AI公司",
+      "funding": "Merged with Cohere; prior funding details not provided.",
       "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
+        "tech": 85,
+        "growth": 60,
+        "team": 70,
         "market": 75
       },
-      "score": 70,
+      "score": 72,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {},
@@ -146,123 +280,35 @@
     {
       "id": "series",
       "name": "Series",
-      "desc": "AI社交网络应用，内置于iMessage，在大学校园流行",
+      "desc": "AI social network built on iMessage, popular on college campuses.",
       "track": "ai",
       "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "AI社交",
+        "AI social",
         "iMessage",
-        "大学生创业"
+        "college"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "Founder 1",
+          "role": "Co-founder",
+          "bg": "College student"
+        },
+        {
+          "name": "Founder 2",
+          "role": "Co-founder",
+          "bg": "College student"
+        }
+      ],
       "product": "",
-      "founded": "",
-      "funding": "510万美元pre-seed轮",
+      "founded": "2025-04",
+      "funding": "$5.1M pre-seed from prominent investors.",
       "scores": {
         "tech": 60,
         "growth": 70,
         "team": 55,
-        "market": 75
-      },
-      "score": 65,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xenergy",
-      "name": "X-energy",
-      "desc": "核能初创公司，专注于小型模块化反应堆，已IPO",
-      "track": "hardtech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "核能",
-        "清洁能源",
-        "IPO"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "IPO融资10亿美元，估值超50亿",
-      "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 75,
-        "market": 85
-      },
-      "score": 84,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 2,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "comfyui",
-      "name": "ComfyUI",
-      "desc": "AI图像、视频、音频生成工具，提供创作者更多控制权",
-      "track": "ai",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI媒体生成",
-        "创作者工具",
-        "开源"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "3000万美元融资，估值5亿美元",
-      "scores": {
-        "tech": 80,
-        "growth": 85,
-        "team": 70,
-        "market": 80
-      },
-      "score": 80,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "splatica",
-      "name": "Splatica",
-      "desc": "12人英国初创公司，开发高斯泼溅技术，与Insta360合作",
-      "track": "hardtech",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "高斯泼溅",
-        "3D重建",
-        "360相机"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 75,
-        "growth": 50,
-        "team": 60,
-        "market": 65
+        "market": 60
       },
       "score": 62,
       "discoveredAt": "2026-04-25",
@@ -276,36 +322,76 @@
       }
     },
     {
-      "id": "quickswms",
-      "name": "QuickSWMS",
-      "desc": "AI generator for Australian construction safety documents",
+      "id": "comfyui",
+      "name": "ComfyUI",
+      "desc": "AI media generation tools giving creators control over images, video, audio.",
       "track": "ai",
-      "stage": "pre-seed",
+      "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI",
-        "construction",
-        "safety"
+        "AI creativity",
+        "image generation",
+        "video generation"
       ],
       "team": [],
-      "product": "https://quickswms.co",
+      "product": "",
       "founded": "",
-      "funding": "Bootstrapped",
+      "funding": "$30M raised; $500M valuation.",
       "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
+        "tech": 80,
+        "growth": 75,
+        "team": 60,
+        "market": 80
       },
-      "score": 50,
+      "score": 74,
       "discoveredAt": "2026-04-25",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-25",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "desc": "Chinese AI lab releasing open-source large language models.",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "LLM",
+        "open-source",
+        "China"
+      ],
+      "team": [],
+      "product": "https://deepseek.com",
+      "founded": "2023-05",
+      "funding": "Not disclosed; well-funded by Chinese investors.",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 80,
+        "market": 80
+      },
+      "score": 84,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 3,
+      "contacts": {
+        "fetchedAt": "2026-04-25",
         "website": {
-          "website": "https://quickswms.co",
-          "emails": [],
-          "socials": {},
+          "website": "https://deepseek.com",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -315,139 +401,30 @@
       }
     },
     {
-      "id": "fragment",
-      "name": "Fragment",
-      "desc": "YC-backed AI startup acquired by Sierra",
-      "track": "ai",
-      "stage": "pre-a",
-      "city": "other",
-      "tags": [
-        "AI",
-        "YC",
-        "acquired"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "Acquired by Sierra",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "delve",
-      "name": "Delve",
-      "desc": "Troubled startup with security incidents",
-      "track": "other",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "security",
-        "troubled"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "Unknown",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "exedev",
-      "name": "Exe.dev",
-      "desc": "Developer platform securing $35M Series A",
-      "track": "saas",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "developer tools",
-        "series a",
-        "funding"
-      ],
-      "team": [],
-      "product": "https://exe.dev",
-      "founded": "",
-      "funding": "$35M Series A",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {
-          "website": "https://exe.dev",
-          "emails": [
-            "support@exe.dev"
-          ],
-          "socials": {
-            "twitter": "ssh_exe_dev",
-            "linkedin": "crawshaw"
-          },
-          "careerPage": "https://exe.dev/jobs",
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "deepseek",
-      "name": "DeepSeek",
-      "desc": "专注于人工智能大模型研发的中国初创公司",
+      "name": "深度求索（DeepSeek）",
+      "desc": "中国AI大模型初创公司，专注于基础模型研发，即将发布DeepSeek V4。",
       "track": "ai",
       "stage": "b+",
       "city": "other",
       "tags": [
         "大模型",
         "AI",
-        "国产芯片适配"
+        "开源"
       ],
       "team": [],
       "product": "",
       "founded": "2023-05",
-      "funding": "",
+      "funding": "未披露",
       "scores": {
         "tech": 85,
         "growth": 80,
-        "team": 70,
-        "market": 90
+        "team": 50,
+        "market": 75
       },
-      "score": 82,
+      "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 2,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {},
@@ -457,158 +434,19 @@
       }
     },
     {
-      "id": "huashu-design",
-      "name": "Huashu Design",
-      "desc": "HTML原生设计技能，用于Claude Code的AI设计工具",
-      "track": "saas",
-      "stage": "idea",
-      "city": "other",
-      "tags": [
-        "设计工具",
-        "AI",
-        "开源"
-      ],
-      "team": [
-        {
-          "name": "alchaincyf",
-          "role": "创始人",
-          "bg": "独立开发者"
-        }
-      ],
-      "product": "https://github.com/alchaincyf/huashu-design",
-      "founded": "2026-04",
-      "funding": "",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 50,
-        "market": 50
-      },
-      "score": 59,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {
-          "website": "https://github.com/alchaincyf/huashu-design",
-          "emails": [],
-          "socials": {
-            "twitter": "AlchainHust",
-            "github": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "kami",
-      "name": "Kami",
-      "desc": "好内容值得好纸张，内容呈现平台",
-      "track": "consumer",
-      "stage": "idea",
-      "city": "other",
-      "tags": [
-        "内容平台",
-        "开源"
-      ],
-      "team": [
-        {
-          "name": "tw93",
-          "role": "创始人",
-          "bg": "独立开发者"
-        }
-      ],
-      "product": "https://github.com/tw93/Kami",
-      "founded": "2026-04",
-      "funding": "",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 53,
-      "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-25",
-        "website": {
-          "website": "https://github.com/tw93/Kami",
-          "emails": [],
-          "socials": {
-            "twitter": "HiTw93",
-            "github": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "awiser",
-      "name": "Awiser",
-      "desc": "早期项目推广平台，帮助项目在社交媒体上获得曝光",
+      "id": "buildhop",
+      "name": "BuildHop",
+      "desc": "StumbleUpon-like platform for startup landing pages",
       "track": "saas",
       "stage": "seed",
       "city": "other",
       "tags": [
-        "推广",
-        "平台",
-        "早期项目"
+        "startup discovery",
+        "landing pages",
+        "random discovery"
       ],
       "team": [],
-      "product": "https://awiser.co",
+      "product": "https://buildhop.io",
       "founded": "",
       "funding": "",
       "scores": {
@@ -623,12 +461,12 @@
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {
-          "website": "https://awiser.co",
-          "emails": [
-            "support@awiser.co"
-          ],
-          "socials": {},
-          "careerPage": "https://awiser.co/careers",
+          "website": "https://buildhop.io",
+          "emails": [],
+          "socials": {
+            "twitter": "tinytechfox"
+          },
+          "careerPage": null,
           "jobListings": []
         },
         "github": {},
@@ -639,28 +477,28 @@
     {
       "id": "deepseek",
       "name": "DeepSeek AI",
-      "desc": "AI公司，开源内核库TileKernels，用tilelang编写",
+      "desc": "专注于AI大模型研发与开源，推出TileKernels内核库",
       "track": "ai",
       "stage": "b+",
-      "city": "other",
+      "city": "hangzhou",
       "tags": [
-        "AI",
+        "大模型",
         "开源",
-        "内核库"
+        "内核"
       ],
       "team": [],
       "product": "https://github.com/deepseek-ai/TileKernels",
-      "founded": "2023-07",
-      "funding": "多轮融资，估值超数十亿美元",
+      "founded": "2023-05",
+      "funding": "多轮融资，估值超百亿美元",
       "scores": {
-        "tech": 80,
-        "growth": 85,
-        "team": 70,
-        "market": 70
+        "tech": 90,
+        "growth": 80,
+        "team": 85,
+        "market": 95
       },
-      "score": 78,
+      "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 2,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-04-25",
         "website": {
