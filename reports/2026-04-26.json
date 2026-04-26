@@ -41,7 +41,7 @@
       },
       "score": 82,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {},
@@ -457,7 +457,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {
@@ -539,33 +539,187 @@
       }
     },
     {
-      "id": "x-energy",
-      "name": "X-energy",
-      "desc": "核能初创公司，已上市，首日股价涨27%",
-      "track": "newenergy",
-      "stage": "b+",
+      "id": "nuvacore",
+      "name": "Nuvacore",
+      "desc": "由Qualcomm、Apple和Nuvia校友创立的CPU初创公司，旨在重新定义硅片设计规则。",
+      "track": "semiconductor",
+      "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "nuclear power",
-        "IPO",
-        "energy"
+        "CPU",
+        "半导体",
+        "芯片设计"
+      ],
+      "team": [
+        {
+          "name": "未公开",
+          "role": "创始人",
+          "bg": "Qualcomm、Apple、Nuvia校友"
+        }
+      ],
+      "product": "",
+      "founded": "2026-04",
+      "funding": "未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 30,
+        "team": 90,
+        "market": 70
+      },
+      "score": 66,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "quickswms",
+      "name": "QuickSWMS",
+      "desc": "AI生成澳大利亚建筑安全文档的工具",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "construction",
+        "safety",
+        "document generation",
+        "ai"
+      ],
+      "team": [],
+      "product": "https://quickswms.co",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {
+          "website": "https://quickswms.co",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fragment",
+      "name": "Fragment",
+      "desc": "YC支持的AI初创公司，被Sierra收购",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "ai",
+        "ycombinator",
+        "acquired"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "已IPO，融资规模未披露",
+      "funding": "被Sierra收购",
       "scores": {
-        "tech": 70,
-        "growth": 70,
+        "tech": 50,
+        "growth": 50,
         "team": 50,
-        "market": 80
+        "market": 50
       },
-      "score": 68,
+      "score": 50,
       "discoveredAt": "2026-04-26",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "delve",
+      "name": "Delve",
+      "desc": "Troubled startup suffered a big security incident affecting a customer.",
+      "track": "other",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "security",
+        "incident"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "exe-dev",
+      "name": "Exe.dev",
+      "desc": "Developer tools startup raised $35M in Series A funding.",
+      "track": "saas",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "developer tools",
+        "funding"
+      ],
+      "team": [],
+      "product": "https://exe.dev",
+      "founded": "",
+      "funding": "Series A: $35M",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {
+          "website": "https://exe.dev",
+          "emails": [
+            "support@exe.dev"
+          ],
+          "socials": {
+            "twitter": "ssh_exe_dev",
+            "linkedin": "crawshaw"
+          },
+          "careerPage": "https://exe.dev/jobs",
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -948,143 +1102,11 @@
       "relatedProject": "deepseek"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36",
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "url": "https://36kr.com/p/3782960065108996?f=rss",
-      "snippet": "佛山市增广智能科技有限公司成立于2018年，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业，产品已大规模量产。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36",
-      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "url": "https://36kr.com/p/3781548853533959?f=rss",
-      "snippet": "智用开物完成近亿元天使+轮融资，核心团队来自微软，专注工业语义引擎及多智能体系统，降低AI在工业场景的落地门槛。",
-      "date": "2026-04-25",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "zhiyongkaiwu"
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "申万宏源：一季度公募持仓聚焦科技硬件，增配能源安全产业链",
-      "url": "https://36kr.com/newsflashes/3783130507025673?f=rss",
-      "snippet": "申万宏源分析2026Q1公募持仓，聚焦科技硬件和能源安全产业链，新能源电池和电网设备受加仓。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "亿纬锂能、龙净环保合资公司完成工商登记 注册资本9亿",
-      "url": "http://",
-      "snippet": "亿纬锂能与龙净环保合资成立福建亿纬锂能有限公司，投资60亿元建设60GWh储能电池工厂。",
-      "date": "2026-04-24",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中",
-      "url": "http://www.cyzone.cn/article/831032.html",
-      "snippet": "RA Capital与启明创投联合主办S2S中国研讨会，面向高校征集生物科技创业提案，截止4月30日。",
-      "date": "2026-04-21",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "融资丨阿迈特医疗完成超2亿元D轮融资",
-      "url": "http://www.cyzone.cn/article/829807.html",
-      "snippet": "阿迈特医疗完成超2亿元D轮融资，用于全降解支架等产品研发及全球推广。公司成立于2011年，专注3D打印血管植介入器械。",
-      "date": "2026-04-09",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "杨植麟离“追光的月亮”还有多少个Token？",
-      "url": "https://www.tmtpost.com/7967688.html",
-      "snippet": "对比DeepSeek V4和Kimi K2.6发布，分析中国大模型双雄竞争。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "地平线不只做芯片了，但车企会接受新的“底座”吗？",
-      "url": "https://www.tmtpost.com/7967585.html",
-      "snippet": "地平线在北京车展发布新一代舱驾融合芯片和操作系统，探索新业务模式。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "DeepSeek V4炸场背后：硅谷在“造墙”，中国在“修路”",
-      "url": "https://www.tmtpost.com/7967484.html",
-      "snippet": "分析DeepSeek V4发布引发的开源与闭源趋势对比。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "对话 Momenta CEO曹旭东：自动驾驶是物理AI的序章",
-      "url": "https://www.tmtpost.com/7967422.html",
-      "snippet": "Momenta CEO曹旭东认为自动驾驶是物理AI的门票，需要现金流业务支撑。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛",
-      "title": "A股“疯狂扫货”，120亿芯片大佬欲跨界“抄底”？",
-      "url": "https://www.tmtpost.com/7967307.html",
-      "snippet": "短短几天密集出手，蒋学明开启扫货模式。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛",
-      "title": "华人CEO为什么“带飞”芯片巨头",
-      "url": "https://www.tmtpost.com/7967314.html",
-      "snippet": "AI时代把芯片产业推成了全球算力基础设施生意，而这一代华人及亚裔背景的工程师型管理者，恰好是最早同时横跨美国技术体系、亚洲制造体系和全球客户体系的一批人。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
       "source": "爱范儿",
       "sourceIcon": "爱范",
       "title": "扒完 DeepSeek V4 报告，我翻出了这个隐藏彩蛋",
       "url": "https://www.ifanr.com/1663840?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "你的 MLA 是我的基础，我的 Muon 是你的加速器。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "snippet": "你的 MLA 是我的基础，我的 Muon 是你的加速器。",
       "date": "2026-04-24",
       "likes": 0,
       "comments": 0,
@@ -1095,7 +1117,7 @@
       "sourceIcon": "爱范",
       "title": "定了，DeepSeek V4首发华为芯片！国产AI开始打破英伟达「垄断」",
       "url": "https://www.ifanr.com/1663704?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "百万长上下文，榨干每一个 token #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "snippet": "百万长上下文，榨干每一个 token",
       "date": "2026-04-24",
       "likes": 0,
       "comments": 0,
@@ -1106,7 +1128,7 @@
       "sourceIcon": "爱范",
       "title": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
       "url": "https://www.ifanr.com/1663686?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "· Google 发布第八代 TPU：博通做训练，联发科做推理 · 曝微软曾考虑收购 Cursor · 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "snippet": "Google 发布第八代 TPU；曝微软曾考虑收购 Cursor；曝美团副总裁夏华夏已离职",
       "date": "2026-04-24",
       "likes": 0,
       "comments": 0,
@@ -1117,7 +1139,7 @@
       "sourceIcon": "动点",
       "title": "“我的科研路线是研究帕金森，我的变现方向是预测面粉出粉率”",
       "url": "https://cn.technode.com/post/2026-04-24/tech-odyssey-episode-6-inesc-tec-uptec/",
-      "snippet": "这也正是葡萄牙创业景象里的常见缩影",
+      "snippet": "葡萄牙创业景象里的常见缩影",
       "date": "2026-04-24",
       "likes": 0,
       "comments": 0,
@@ -1128,7 +1150,7 @@
       "sourceIcon": "TC",
       "title": "The climate tech IPO window could finally be cracking open",
       "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
-      "snippet": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+      "snippet": "Nuclear startup X-energy went public, geothermal startup Fervo is about to.",
       "date": "2026-04-25",
       "likes": 0,
       "comments": 0,
@@ -1139,7 +1161,7 @@
       "sourceIcon": "TC",
       "title": "Why Cohere is merging with Aleph Alpha",
       "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl's owner.",
       "date": "2026-04-25",
       "likes": 0,
       "comments": 0,
@@ -1150,7 +1172,7 @@
       "sourceIcon": "TC",
       "title": "Why Tokyo is the most important tech destination of 2026",
       "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "snippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "snippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains.",
       "date": "2026-04-25",
       "likes": 0,
       "comments": 0,
@@ -1161,31 +1183,218 @@
       "sourceIcon": "TC",
       "title": "Apps to distract you from the endless cycle of doomscrolling",
       "url": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "snippet": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "snippet": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help.",
       "date": "2026-04-25",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Honor to unveil HONOR WIN gaming laptop next month in push back into high-end segment",
+      "url": "https://technode.com/2026/04/07/honor-to-unveil-honor-win-gaming-laptop-next-month-in-push-back-into-high-end-segment/",
+      "snippet": "中国科技公司荣耀宣布将于4月23日发布HONOR WIN游戏笔记本，重返高端游戏笔记本市场。该机型注重性能和散热效率，将竞争联想Legion Y9000P至尊版。",
+      "date": "2026-04-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Doubao surpasses 120 trillion daily tokens as usage doubles in three months",
+      "url": "https://technode.com/2026/04/07/doubao-surpasses-120-trillion-daily-tokens-as-usage-doubles-in-three-months/",
+      "snippet": "火山引擎的Seedance 2.0 API进入企业公测。截至3月，字节跳动AI大模型豆包日token使用量超120万亿，三个月翻倍，较2024年5月发布增长1000倍。",
+      "date": "2026-04-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Doubao 2 AI smartphone tipped for Q2 debut, two top Chinese phone makers in talks",
+      "url": "https://technode.com/2026/04/03/doubao-2-ai-smartphone-tipped-for-q2-debut-two-top-chinese-phone-makers-in-talks/",
+      "snippet": "第二代豆包AI智能手机预计Q2发布，字节跳动深化移动端系统级AI布局，继续与中兴努比亚合作，并与两家顶级手机制造商洽谈。",
+      "date": "2026-04-03",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Xiaomi's CEO showcases new-gen SU7 in teardown livestream, says orders exceed 40,000",
+      "url": "https://technode.com/2026/04/03/xiaomis-ceo-showcases-new-gen-su7-in-teardown-livestream-says-orders-exceed-40000/",
+      "snippet": "雷军在北京亦庄工厂进行新一代SU7拆解直播，订单超4万辆。",
+      "date": "2026-04-03",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "OpenClaw launches official China mirror with infrastructure support from ByteDance",
+      "url": "https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/",
+      "snippet": "OpenClaw宣布推出ClawHub中国镜像，由字节跳动支持，提升中国用户访问稳定性。",
+      "date": "2026-04-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
       "source": "The Verge",
-      "sourceIcon": "TV",
+      "sourceIcon": "VG",
       "title": "Trump fires the entire National Science Board",
       "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
-      "snippet": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding.",
+      "snippet": "特朗普政府解雇了国家科学委员会全体成员，该委员会就国家科学基金会向总统和国会提供建议。",
       "date": "2026-04-25",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "The Verge",
-      "sourceIcon": "TV",
-      "title": "Xbox’s weirdest studio is on a roll",
-      "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
-      "snippet": "For a while there, it seemed like Double Fine might be struggling under the Microsoft corporate umbrella. The game studio led by Tim Schafer is beloved for offbeat titles like Brütal Legend and Broken Age, but after being acquired by Microsoft in 2019, its only new release for years was a long-awaited sequel to Psychonauts.",
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Show HN: Startup Equity Adventure Game",
+      "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+      "snippet": "一个半游戏化的方式帮助人们了解初创公司股权。",
+      "date": "2026-04-26",
+      "likes": 5,
+      "comments": 3,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "From 14 Browser Tabs to 10k Jobs: How I Turned Web Scraping into a Startup",
+      "url": "https://www.ismatsamadov.com/blog/from-browser-tabs-to-startup-birjob",
+      "snippet": "作者分享如何从网页抓取创建求职平台Birjob。",
+      "date": "2026-04-26",
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup – Nuvacore",
+      "url": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
+      "snippet": "Qualcomm、Apple和Nuvia资深校友组建新的CPU初创公司Nuvacore，承诺重写硅片规则。",
+      "date": "2026-04-26",
+      "likes": 4,
+      "comments": 0,
+      "relatedProject": "nuvacore"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The reporters at this news site are AI bots. OpenAI's super PAC is funding it",
+      "url": "https://twitter.com/TheMidasProj/status/2047692328396034490",
+      "snippet": "新闻网站记者是AI机器人，OpenAI的超级政治行动委员会提供资金。",
+      "date": "2026-04-26",
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Someone recreated StumbleUpon but for Startup landing pages",
+      "url": "https://buildhop.io",
+      "snippet": "Article URL: https://buildhop.io Comments URL: https://news.ycombinator.com/item?id=47902123 Points: 2 # Comments: 0",
       "date": "2026-04-25",
-      "likes": 0,
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": "buildhop"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "QuickSWMS – AI generator for Australian construction safety docs ($100 startup)",
+      "url": "https://quickswms.co",
+      "snippet": "Article URL: https://quickswms.co Comments URL: https://news.ycombinator.com/item?id=47886964 Points: 1 # Comments: 0",
+      "date": "2026-04-24",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "quickswms"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Bret Taylor's Sierra Buys YC-Backed AI Startup Fragment",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "snippet": "Article URL: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/ Comments URL: https://news.ycombinator.com/item?id=47884586 Points: 1 # Comments: 0",
+      "date": "2026-04-24",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "fragment"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "snippet": "Delve, a troubled startup, experienced another security incident affecting one of its customers.",
+      "date": "2026-04-23",
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": "delve"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Why You Should Work at a Startup in 2026",
+      "url": "https://dharmasamu.com/blog/why-work-at-a-startup-2026",
+      "snippet": "A general opinion piece about working at startups in 2026.",
+      "date": "2026-04-23",
+      "likes": 2,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Series A for Exe.dev – $35M in Funding",
+      "url": "https://blog.exe.dev/series-a",
+      "snippet": "Exe.dev announced its Series A funding round of $35 million.",
+      "date": "2026-04-23",
+      "likes": 6,
+      "comments": 1,
+      "relatedProject": "exe-dev"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "AI agent designs complete RISC-V CPU from a 219-word spec, startup claims",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
+      "snippet": "A startup claims its AI agent can design a complete RISC-V CPU from a 219-word specification.",
+      "date": "2026-04-23",
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Tim Cook Calls Apple Maps Launch His 'First Big Mistake' as CEO",
+      "url": "https://www.macrumors.com/2026/04/23/tim-cook-apple-maps-launch-his-really-big-mistake/",
+      "snippet": "Tim Cook reflects on the Apple Maps launch as his first major mistake as CEO.",
+      "date": "2026-04-23",
+      "likes": 8,
+      "comments": 6,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China backs orbital data center startup with $8.4B in credit lines",
+      "url": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
+      "snippet": "China provides $8.4 billion in credit lines to an unnamed orbital data center startup.",
+      "date": "2026-04-23",
+      "likes": 3,
       "comments": 0,
       "relatedProject": null
     },
@@ -1194,21 +1403,20 @@
       "sourceIcon": "V2EX",
       "title": "谷歌十年",
       "url": "https://www.v2ex.com/t/1208570",
-      "snippet": "入职谷歌十年，经历了程序员从兴盛到裁员潮，见证谷歌发展，分享个人职业与投资感悟。",
-      "date": "2026-04-26",
+      "snippet": "A personal reflection on a decade at Google, discussing career changes and the tech industry.",
+      "date": "2026-04-23",
       "likes": 0,
-      "comments": 44,
+      "comments": 58,
       "relatedProject": null
     },
     {
-      "source": "GitHub新星",
-      "sourceIcon": "GitHub",
+      "source": "GitHub",
+      "sourceIcon": "GH",
       "title": "cosmicstack-labs/mercury-agent",
-      "summary": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access.",
       "url": "https://github.com/cosmicstack-labs/mercury-agent",
-      "snippet": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "snippet": "Soul-driven AI agent with multi-channel access.",
       "date": "2026-04-20",
-      "likes": 1277,
+      "likes": 1404,
       "comments": 0,
       "relatedProject": null
     }

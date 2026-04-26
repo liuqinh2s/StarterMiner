@@ -41,7 +41,7 @@
       },
       "score": 82,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {},
@@ -457,7 +457,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {
@@ -539,33 +539,187 @@
       }
     },
     {
-      "id": "x-energy",
-      "name": "X-energy",
-      "desc": "核能初创公司，已上市，首日股价涨27%",
-      "track": "newenergy",
-      "stage": "b+",
+      "id": "nuvacore",
+      "name": "Nuvacore",
+      "desc": "由Qualcomm、Apple和Nuvia校友创立的CPU初创公司，旨在重新定义硅片设计规则。",
+      "track": "semiconductor",
+      "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "nuclear power",
-        "IPO",
-        "energy"
+        "CPU",
+        "半导体",
+        "芯片设计"
+      ],
+      "team": [
+        {
+          "name": "未公开",
+          "role": "创始人",
+          "bg": "Qualcomm、Apple、Nuvia校友"
+        }
+      ],
+      "product": "",
+      "founded": "2026-04",
+      "funding": "未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 30,
+        "team": 90,
+        "market": 70
+      },
+      "score": 66,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "quickswms",
+      "name": "QuickSWMS",
+      "desc": "AI生成澳大利亚建筑安全文档的工具",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "construction",
+        "safety",
+        "document generation",
+        "ai"
+      ],
+      "team": [],
+      "product": "https://quickswms.co",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {
+          "website": "https://quickswms.co",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fragment",
+      "name": "Fragment",
+      "desc": "YC支持的AI初创公司，被Sierra收购",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "ai",
+        "ycombinator",
+        "acquired"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "已IPO，融资规模未披露",
+      "funding": "被Sierra收购",
       "scores": {
-        "tech": 70,
-        "growth": 70,
+        "tech": 50,
+        "growth": 50,
         "team": 50,
-        "market": 80
+        "market": 50
       },
-      "score": 68,
+      "score": 50,
       "discoveredAt": "2026-04-26",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "delve",
+      "name": "Delve",
+      "desc": "Troubled startup suffered a big security incident affecting a customer.",
+      "track": "other",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "security",
+        "incident"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "exe-dev",
+      "name": "Exe.dev",
+      "desc": "Developer tools startup raised $35M in Series A funding.",
+      "track": "saas",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "developer tools",
+        "funding"
+      ],
+      "team": [],
+      "product": "https://exe.dev",
+      "founded": "",
+      "funding": "Series A: $35M",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-26",
+        "website": {
+          "website": "https://exe.dev",
+          "emails": [
+            "support@exe.dev"
+          ],
+          "socials": {
+            "twitter": "ssh_exe_dev",
+            "linkedin": "crawshaw"
+          },
+          "careerPage": "https://exe.dev/jobs",
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
