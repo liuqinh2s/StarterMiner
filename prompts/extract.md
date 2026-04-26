@@ -10,9 +10,9 @@
       "id": "公司英文简称-小写",
       "name": "公司全名",
       "desc": "一句话描述（50字以内）",
-      "track": "赛道（ai/saas/web3/ecommerce/hardtech/consumer/biotech/fintech/other）",
+      "track": "赛道（ai/saas/web3/ecommerce/hardtech/consumer/biotech/fintech/robotics/newenergy/semiconductor/aerospace/other）",
       "stage": "阶段（idea/pre-seed/seed/angel/pre-a/a/b+）",
-      "city": "城市（beijing/shanghai/shenzhen/hangzhou/guangzhou/chengdu/overseas/other）",
+      "city": "城市（beijing/shanghai/shenzhen/hangzhou/guangzhou/chengdu/wuhan/nanjing/suzhou/xiamen/changsha/hefei/overseas/other）",
       "tags": ["标签1", "标签2", "标签3"],
       "team": [
         {"name": "姓名", "role": "职位", "bg": "背景"}
@@ -57,5 +57,7 @@
 4. 同一公司出现多次时合并信息
 5. 讨论数据保留原始来源和链接
 6. 返回纯 JSON，不要其他文字
+7. 优先关注中国初创公司，对中国公司的信息提取要更详细
+8. city 字段尽量精确到中国城市（如 beijing/shanghai/shenzhen/hangzhou/guangzhou/chengdu/wuhan/nanjing/suzhou/xiamen 等），海外公司统一用 overseas
 
 ## 待分析数据

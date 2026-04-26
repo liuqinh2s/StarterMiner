@@ -75,6 +75,14 @@ STARTUP_KEYWORDS_ZH = [
     "新锐", "新兴", "早期项目", "AI创业", "大模型", "AGI", "AIGC",
     "开源项目", "SaaS", "Web3", "硬科技", "生物医药", "芯片",
     "新一轮", "领投", "跟投", "战略投资", "数千万", "数亿",
+    # ── 中国创投生态补充 ──
+    "国产替代", "信创", "出海", "下沉市场", "新消费", "新能源",
+    "智能制造", "自动驾驶", "具身智能", "人形机器人", "低空经济",
+    "合成生物", "脑机接口", "量子计算", "商业航天",
+    "红杉", "高瓴", "经纬", "IDG", "真格", "源码", "五源",
+    "深创投", "达晨", "君联", "北极光", "GGV", "光速",
+    "中关村", "张江", "南山", "前海", "天府", "光谷",
+    "科创板", "北交所", "专精特新", "小巨人", "瞪羚企业",
 ]
 
 STARTUP_KEYWORDS_EN = [
@@ -123,13 +131,17 @@ def make_entry(source, title, summary, url, published, lang="zh", entry_type="ne
 # ============================================================
 
 RSS_FEEDS = [
-    # ── 国内创投媒体 ──
-    {"name": "36氪",     "url": "https://36kr.com/feed",                "lang": "zh"},
-    {"name": "虎嗅",     "url": "https://www.huxiu.com/rss/0.xml",     "lang": "zh"},
-    {"name": "少数派",   "url": "https://sspai.com/feed",               "lang": "zh"},
-    {"name": "铅笔道",   "url": "https://www.pencilnews.cn/feed",      "lang": "zh"},
-    {"name": "创业邦",   "url": "https://www.cyzone.cn/rss/",          "lang": "zh"},
-    {"name": "投资界",   "url": "https://www.pedaily.cn/rss/rss.xml",  "lang": "zh"},
+    # ── 国内创投媒体（主力源）──
+    {"name": "36氪",       "url": "https://36kr.com/feed",                "lang": "zh"},
+    {"name": "虎嗅",       "url": "https://www.huxiu.com/rss/0.xml",     "lang": "zh"},
+    {"name": "少数派",     "url": "https://sspai.com/feed",               "lang": "zh"},
+    {"name": "铅笔道",     "url": "https://www.pencilnews.cn/feed",      "lang": "zh"},
+    {"name": "创业邦",     "url": "https://www.cyzone.cn/rss/",          "lang": "zh"},
+    {"name": "投资界",     "url": "https://www.pedaily.cn/rss/rss.xml",  "lang": "zh"},
+    {"name": "钛媒体",     "url": "https://www.tmtpost.com/rss.xml",     "lang": "zh"},
+    {"name": "极客公园",   "url": "https://www.geekpark.net/rss",        "lang": "zh"},
+    {"name": "爱范儿",     "url": "https://www.ifanr.com/feed",          "lang": "zh"},
+    {"name": "动点科技",   "url": "https://cn.technode.com/feed/",       "lang": "zh"},
     # ── 海外科技媒体 ──
     {"name": "TechCrunch",  "url": "https://techcrunch.com/feed/",     "lang": "en"},
     {"name": "TechNode",    "url": "https://technode.com/feed/",       "lang": "en"},
