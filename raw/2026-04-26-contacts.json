@@ -204,83 +204,11 @@
     }
   },
   {
-    "id": "lingchu",
-    "name": "灵初智能",
+    "id": "x-energy",
+    "name": "X-energy",
     "contacts": {
       "fetchedAt": "2026-04-26",
       "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "quickswms",
-    "name": "QuickSWMS",
-    "contacts": {
-      "fetchedAt": "2026-04-26",
-      "website": {
-        "website": "https://quickswms.co",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "sierra",
-    "name": "Sierra",
-    "contacts": {
-      "fetchedAt": "2026-04-26",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "fragment",
-    "name": "Fragment",
-    "contacts": {
-      "fetchedAt": "2026-04-26",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "delve",
-    "name": "Delve",
-    "contacts": {
-      "fetchedAt": "2026-04-26",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "exedev",
-    "name": "Exe.dev",
-    "contacts": {
-      "fetchedAt": "2026-04-26",
-      "website": {
-        "website": "https://exe.dev",
-        "emails": [
-          "support@exe.dev"
-        ],
-        "socials": {
-          "twitter": "ssh_exe_dev",
-          "linkedin": "crawshaw"
-        },
-        "careerPage": "https://exe.dev/jobs",
-        "jobListings": []
-      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

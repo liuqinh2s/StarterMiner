@@ -1,29 +1,28 @@
 {
-  "totalProjects": 19,
-  "totalDiscussions": 49,
+  "totalProjects": 14,
+  "totalDiscussions": 58,
   "byTrack": {
-    "ai": 11,
+    "ai": 8,
     "hardtech": 1,
     "biotech": 1,
     "consumer": 2,
-    "saas": 2,
-    "robotics": 1,
-    "other": 1
+    "saas": 1,
+    "newenergy": 1
   },
   "byStage": {
     "angel": 1,
     "b+": 7,
-    "seed": 6,
-    "a": 4,
+    "seed": 2,
+    "a": 3,
     "pre-seed": 1
   },
   "byCity": {
     "guangzhou": 1,
-    "overseas": 11,
+    "overseas": 7,
     "hangzhou": 2,
     "beijing": 2,
-    "other": 3
+    "other": 2
   },
-  "avgScore": 65.7,
+  "avgScore": 70.0,
   "lastUpdate": "2026-04-26"
 }

@@ -41,7 +41,7 @@
       },
       "score": 82,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {},
@@ -539,220 +539,33 @@
       }
     },
     {
-      "id": "lingchu",
-      "name": "灵初智能",
-      "desc": "以物流场景验证具身智能商业化，提供数据基础设施",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "具身智能",
-        "数据",
-        "物流"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2026-01",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-26",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "quickswms",
-      "name": "QuickSWMS",
-      "desc": "AI generator for Australian construction safety docs",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "construction",
-        "safety"
-      ],
-      "team": [],
-      "product": "https://quickswms.co",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-26",
-        "website": {
-          "website": "https://quickswms.co",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "sierra",
-      "name": "Sierra",
-      "desc": "AI conversational platform founded by Bret Taylor",
-      "track": "ai",
+      "id": "x-energy",
+      "name": "X-energy",
+      "desc": "核能初创公司，已上市，首日股价涨27%",
+      "track": "newenergy",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI",
-        "conversational AI",
-        "customer service"
-      ],
-      "team": [
-        {
-          "name": "Bret Taylor",
-          "role": "CEO",
-          "bg": "former Salesforce co-CEO"
-        }
-      ],
-      "product": "",
-      "founded": "2023-01",
-      "funding": "Acquired Fragment; prior funding rounds",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 90,
-        "market": 80
-      },
-      "score": 79,
-      "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-26",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fragment",
-      "name": "Fragment",
-      "desc": "YC-backed AI startup acquired by Sierra",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "YC"
+        "nuclear power",
+        "IPO",
+        "energy"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "Acquired by Sierra",
+      "funding": "已IPO，融资规模未披露",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 70,
+        "growth": 70,
         "team": 50,
-        "market": 50
+        "market": 80
       },
-      "score": 50,
+      "score": 68,
       "discoveredAt": "2026-04-26",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-26",
         "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "delve",
-      "name": "Delve",
-      "desc": "Troubled startup with security incident affecting customers",
-      "track": "other",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "security",
-        "data",
-        "startup"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-26",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "exedev",
-      "name": "Exe.dev",
-      "desc": "开发者工具平台，获得3500万美元A轮融资",
-      "track": "saas",
-      "stage": "a",
-      "city": "overseas",
-      "tags": [
-        "developer tools",
-        "series a",
-        "funding"
-      ],
-      "team": [],
-      "product": "https://exe.dev",
-      "founded": "",
-      "funding": "Series A: $35M",
-      "scores": {
-        "tech": 50,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 57,
-      "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-26",
-        "website": {
-          "website": "https://exe.dev",
-          "emails": [
-            "support@exe.dev"
-          ],
-          "socials": {
-            "twitter": "ssh_exe_dev",
-            "linkedin": "crawshaw"
-          },
-          "careerPage": "https://exe.dev/jobs",
-          "jobListings": []
-        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
