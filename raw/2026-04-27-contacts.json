@@ -1,0 +1,309 @@
+[
+  {
+    "id": "zhiyongkaiwu",
+    "name": "智用开物",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://cursor.com",
+        "emails": [],
+        "socials": {
+          "twitter": "cursor_ai",
+          "linkedin": "cursorai"
+        },
+        "careerPage": "https://cursor.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xieyue",
+    "name": "杭州斜跃智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anyuaixin",
+    "name": "安宇艾心（北京）医疗科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "snabbit",
+    "name": "Snabbit",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pronto",
+    "name": "Pronto",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "alephalpha",
+    "name": "Aleph Alpha",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "series",
+    "name": "Series",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://deepseek.com",
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "QRCodeImageLink"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "深度求索（DeepSeek）",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "buildhop",
+    "name": "BuildHop",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://buildhop.io",
+        "emails": [],
+        "socials": {
+          "twitter": "tinytechfox"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek AI",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://github.com/deepseek-ai/TileKernels",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuvacore",
+    "name": "Nuvacore",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "quickswms",
+    "name": "QuickSWMS",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://quickswms.co",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fragment",
+    "name": "Fragment",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "delve",
+    "name": "Delve",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "exe-dev",
+    "name": "Exe.dev",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://exe.dev",
+        "emails": [
+          "support@exe.dev"
+        ],
+        "socials": {
+          "twitter": "ssh_exe_dev",
+          "linkedin": "crawshaw"
+        },
+        "careerPage": "https://exe.dev/jobs",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "birjob",
+    "name": "BIRJOB",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {
+        "website": "https://www.ismatsamadov.com/blog/from-browser-tabs-to-startup-birjob",
+        "emails": [],
+        "socials": {
+          "github": "orgs",
+          "linkedin": "ismatsamadov"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "sierra",
+    "name": "Sierra",
+    "contacts": {
+      "fetchedAt": "2026-04-27",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  }
+]

@@ -1,0 +1,788 @@
+[
+  {
+    "source": "36氪",
+    "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
+    "summary": "作者丨欧雪 编辑丨袁斯来 2025年黑五，美国游戏主机市场有些不同寻常。 根据追踪美国游戏主机与软件销售的Circana统计数据，在黑色星期五当周，PS5以47%的市场份额领跑，任天堂Switch2占据24%，而一款名为Nex Playground的体感游戏机，则以14%的市占率冲上第三名——将Xbox挤出了前三位置。 当游戏主机市场固化多年后，没人想到还会有年轻公司杀出重围。 更让人意外的是，这家公司诞生于香港。其创始人李景辉（David Lee）曾在苹果工作8年，2017年离职创立了NEX Team Inc.。 Nex成立最初几年并无太大声量，主要是做了一款篮球体感应用HomeCourt。2023年，他们推出了硬件产品Nex Playground，定价249美元。这是一台没有手柄、无需教学、站上去就能挥臂的游戏体感盒子，由创维数字合作生产，面向海外发行。 头一年，Nex Playground只卖出5000台，但第二年销量就飙升了30倍，到2025年已经达到60万台。 据华尔街日报消息称，Nex Playground预计2025年营收超过1.5亿美元。而根据硬氪了解，2026年，Ne",
+    "url": "https://36kr.com/p/3783828639571203?f=rss",
+    "published": "2026-04-27 09:15:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+    "summary": "作者丨欧雪 编辑丨袁斯来 在具身智能行业普遍沉迷双足人形和仿真训练的当下，有一家公司选择了一条不太一样的路径：聚焦仓储物流场景，用“轮式底盘+双臂”死磕占人力成本60%的“拿放”动作。这是一家由中科南京软件技术研究院孵化出来的具身智能企业——智往未来。 智往未来2025年11月成立于南京，创始人孙浚凯曾在地平线担任智能座舱产品线总经理，推动百万终端量产，具备从0到1的产品设计与量产经验。公司早期以“具身智能课题组”在中科系旗下孵化两年，2025年底独立注册。 具身智能在真实环境中的泛化难题，核心在于Sim2Real鸿沟。传统离线强化学习依赖仿真数据，部署成功率低；在线强化学习精度高，但学习周期长，难以在SKU达百万级的电商仓落地。 智往未来创新性地引入 Human-in-the-Loop 在线强化学习方法，将人工的即时纠偏能力与统一的强化学习目标深度融合，打通了从模仿学习到自主探索的关键路径。基于该方法，仅需少量演示数据和短时间在线学习，即可显著提升任务成功率，在样本效率上相比传统范式实现数量级提升。 公司初代智能机器人Armstrong已在国内头部物流企业实地验证，二代机型Armst",
+    "url": "https://36kr.com/p/3783824870317312?f=rss",
+    "published": "2026-04-27 09:10:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
+    "summary": "文｜邱晓芬 编辑｜苏建勋 2026年，全球的具身智能机器人创业者不约而同将目光方向调转向深水区：家庭。 点燃这份热情的，是近期行业里闪烁着的一丝丝Scaling Law苗头—— 先是硅谷具身智能公司Generalist AI在GEN-1模型上验证了确定性，当他们给机器人喂进海量数据后，精细操作任务成功率竟从64%提升到了惊人的99%； 随后，硅谷当红的具身智能独角兽公司Sunday Robotics也试图解决家庭场景数据难关，不仅推出Umi手套数据采集方案，还直接将机器人Memo送进家庭做家务（收拾餐做、冲咖啡、叠衣服），因此吸引了大量的资本押注。 在大洋彼岸的中国，近期闯入家庭机器人领域的创业者中，还有一个熟悉的身影——许华哲。 “两年内，中国将会出现可用的家庭机器人”，他对于行业的判断，同样乐观且激进。 作为“伯克利归国四子之一”、清华大学交叉信息研究院助理教授，2023年，许华哲曾加入「星海图」任前首席科学家兼联合创始人，一起将这家公司打造成中国具身智能领域的明星公司。 不过，在这家公司估值冲破200亿、融资近30亿的巅峰时刻，许华哲又选择“单飞”并创办了全新的具身智能公司「破壳",
+    "url": "https://36kr.com/p/3784365164322055?f=rss",
+    "published": "2026-04-27 09:00:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
+    "summary": "今日热点导览 美国白宫记者晚宴大厅发生枪击事件 王传福夫妇坐地铁参加北京车展被偶遇 DeepSeekV4成OpenClaw默认模型 2025年全国大型演唱会票房295.58亿 OpenAI首席执行官就未通报枪击案嫌疑人道歉 TOP3大新闻 豆包提前查到2026山东事业编成绩？最新回应 4月23日晚间，有网友发帖称，“豆包查到2026山东事业编成绩了”，并附上一张成绩单，但成绩部分涂掉了。“不过好像只有济南槐荫区的能查，是不是属实咱也不知道，到底啥情况呀？”4月24日，记者联系上该网友了解到，帖子内容来自其他网友，但目前原帖网友已经删除了帖子。有网友表示，AI搜集信息的能力很强大，“链接做好了还没公布，被AI爬出来了。” 记者拨打报名政策咨询电话，工作人员向记者解释了其中原委。“因为今天要发布笔试成绩，所以昨晚工作人员在测试成绩查询端口的时候，有网民无意中点进去了。”对方表示，“发现之后我们就及时关闭了测试的端口，并且今天上午我们已经将向社会发布了成绩公告，没有造成什么不良影响，谢谢大家的关注，也请大家理解和体谅，不要引起不必要的猜测。”（扬子晚报） 俞敏洪回应东方甄选主播集体离职：是平",
+    "url": "https://36kr.com/p/3784311487945735?f=rss",
+    "published": "2026-04-27 08:03:45  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+    "summary": "作者丨欧雪 编辑丨袁斯来 在传统工厂里，流水线像是被固定在铁轨上的火车——高效但僵硬。这种“效率与柔性不可兼得”的痛点，正被一家中国公司用“磁悬浮”技术破解。 佛山市增广智能科技有限公司（下称“增广智能”）成立于2018年，总部位于佛山，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业。 “这个技术涉及面很广——通信、控制、操作系统、磁场仿真，每个点想做到完美很难。”公司创始人黄安杰回忆。经过5年研发，增广智能在2023年正式对外发布磁悬浮产品，并在随后的2年内成功实现大规模量产销售。 增广智能的核心产品——平面磁悬浮智能输送系统（磁悬浮魔毯），看起来像一张由正方形定子方块拼成的“桌面”。产品动子（载板）可以在桌面上无接触悬浮，并以最高2G的加速度、微米级的定位精度自由运动。 由方块定子拼接成的“桌面型”产线（图源/企业） 与传统传送带的“铁路模式”不同，磁悬浮魔毯实现了“公路模式”：动子可以独立超车、汇入、旋转，甚至一边输送一边完成涂胶、组装、力控检测等工艺动作。每块动子本身也是一个天然的六维力传感器。 “传统产线提高效率往往要牺牲柔性，而磁悬浮在物理层解决了这个问题",
+    "url": "https://36kr.com/p/3782960065108996?f=rss",
+    "published": "2026-04-26 09:06:18  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+    "summary": "4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。 当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS+知润·端侧模型为核心，打造自主可控的国产AI智能基座，赋能车端、移动端、AI智能硬件、具身智能四大赛道。润芯微提及，将与合作伙伴一起推动智能向出行、工业制造等场景延伸，通过技术复用与生态协同实现场景智能规模化落地，致力成为中立开放的产业连接器。 润芯微董事长刘青在致辞中表示，当前汽车产业进入智能驱动、自主可控新阶段，“核心技术卡脖子、价格内卷、供应链不稳”等行业痛点亟待破解，国产全栈技术的突破与规模化应用是产业发展关键。润芯微将依",
+    "url": "https://36kr.com/p/3782901034785801?f=rss",
+    "published": "2026-04-26 08:08:39  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元",
+    "summary": "4月24日，2026北京国际汽车展览会在京正式开幕。京东汽车与深蓝汽车联合推出的国民好车2.0——深蓝L06增程版登陆深蓝汽车展台，以行业首创会员购车折扣、车展专属权益及越级产品实力，吸引更多汽车用户关注。 官方图片 京东汽车联合深蓝汽车共同推出京东PLUS会员购车可享整车95折权益，将平台会员价值从日常消费延伸至整车购买、用车全链路，开创“电商+车企”合作新范式。深蓝L06增程版推出245Ultra激光版、245Ultra+激光版两款配置，官方指导价分别为 134900元、146900元。叠加京东 PLUS会员95折后，两款车型折后价分别低至127155元、138555元，高配车型至高直降7345元，优惠金额可覆盖用户全年油费与基础保养支出，真正实现高配不溢价。即日起至6月20日，用户下单99元限时首发权益且在6月20日前支付“深蓝L06增程版”定金，还可限时享1000元尾款抵扣权益，多重优惠叠加，进一步降低购车成本。 官方图片 为回馈车展观众，京东汽车与深蓝汽车特别推出北京车展专属权益。现场扫码预约深蓝L06增程版0元试驾，即可免费领取定制七鲜咖啡或京东JOY玩偶。所有北京车展观众",
+    "url": "https://36kr.com/p/3782437007039488?f=rss",
+    "published": "2026-04-26 00:13:59  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "A股三大指数午间休盘涨跌不一，汽车股领涨",
+    "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.15%，深成指涨0.52%，创业板指跌0.2%；半导体、汽车、通信设备板块领涨，东芯股份涨超13%，北汽蓝谷、长飞光纤涨超5%，白酒、互联网、贵金属板块跌幅居前，贵州茅台跌超3%，首都在线跌超2%，紫金矿业跌超1%。",
+    "url": "https://36kr.com/newsflashes/3784519385095176?f=rss",
+    "published": "2026-04-27 11:32:12  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "中赋科技：计划以10亿元对价收购军科正源87%股权",
+    "summary": "36氪获悉，创业板公司中赋科技公告，计划以10亿元对价收购国家级专精特新小巨人企业军科正源87%股权，正式拿下国内生物样本分析领域头部CRO平台。本次整合后，中赋源创将快速构建“临床前+临床”一体化服务能力，为创新药企业提供端到端、全链条、数据统一的一站式解决方案。",
+    "url": "https://36kr.com/newsflashes/3784501634407433?f=rss",
+    "published": "2026-04-27 11:14:08  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "灵光App将世界模型搬上移动端",
+    "summary": "36氪获悉，蚂蚁灵光App今日上线“体验世界模型”功能。据其介绍这是业界首个可在移动端体验世界模型的AGI产品。用户只需上传一张图片，即可在手机上最长60秒探索3D世界，并且用手游操控视角，像玩游戏一样在里面走动探索，从触发指令到开始探索，仅需秒级。",
+    "url": "https://36kr.com/newsflashes/3784492331638022?f=rss",
+    "published": "2026-04-27 11:04:40  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
+    "title": "B站举办首届AI造物联赛，AI智能体搜索增长超500%",
+    "summary": "36氪获悉，4月27日，哔哩哔哩对外宣布开启《硅碳合战·S1——首届bilibili AI造物联赛》，并开放报名通道。据披露，2026年， AI 泛智能体（AI Agent）、AI创业等关键词在B站的搜索量同比增长超500%。",
+    "url": "https://36kr.com/newsflashes/3784476665617673?f=rss",
+    "published": "2026-04-27 10:48:44  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "创业邦",
+    "title": "亿纬锂能、龙净环保合资公司完成工商登记 注册资本9亿",
+    "summary": "天眼查App显示，近日，福建亿纬锂能有限公司成立，法定代表人为马成勇，注册资本9亿人民币，经营范围包括电池制造、电池销售、新兴能源技术研发、新材料技术研发、汽车零部件及配件制造、电子专用设备销售、电力电子元器件销售、新能源汽车换电设施销售等。股东信息显示，该公司由亿纬锂能（300014）、龙净环保（600388）共同持股。 据媒体报道，4月7日晚间，龙净环保发布公告称，拟与锂电龙头亿纬锂能设立合资公司，总投资60亿元建设60GWh大容量储能电池工厂，切入储能电芯制造核心环节。",
+    "url": "http://",
+    "published": "Fri, 24 Apr 2026 06:00:29 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "创业邦",
+    "title": "连接世界级的科学与顶级的投资者，首届S2S中国研讨会创业提案第二次征集进行中",
+    "summary": "由全球顶尖的风险投资机构RA Capital Management与启明创投联合主办的首届S2S（Science2Startup）中国研讨会将于2026年10月15日在浙江杭州隆重举行。作为生物科技领域的顶级创业赛事，日前，首届S2S中国研讨会面向中国顶尖高校及研究机构的创业提案的第二次征集（https://www.s2schina.com/）已进入倒计时（截止日期：2026年4月30日）。ATLATL飞镖加速器作为首选合作伙伴，动脉网、医学界·药创新、医药魔方为媒体战略合作伙伴，将全程助力和支持本次S2S研讨会在中国成功举办。 S2S（Science2Startup）是全球知名的生命科学创业孵化平台，起源于2018年，由F-Prime Capital、SV Health 和Atlas Venture共同创立，现已发展成为全球生物科技创新的核心引擎。S2S中国由RA Capital Management和启明创投共同发起。RA Capital Management是全球生命科学与医疗健康领域最活跃的资产管理公司之一，启明创投在医疗创新领域的投资具有前瞻性和引领性，全球排名持续保持在TO",
+    "url": "http://www.cyzone.cn/article/831032.html",
+    "published": "Tue, 21 Apr 2026 00:54:06 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "创业邦",
+    "title": "融资丨阿迈特医疗完成超2亿元D轮融资",
+    "summary": "4月9日，作为泛血管植介入领域备受瞩目的创新标杆，阿迈特医疗器械（北京）股份有限公司（以下简称“阿迈特医疗”）宣布完成超2亿元D轮融资，本轮融资由浙生协同生命健康基金领投，河南重点知识产权基金、环球对冲基金管理有限公司等机构跟投。资金将用于加速核心产品（包括已商业化的二氧化碳无肾毒性造影装置及在研全降解支架）的研发、全球市场推广与国际战略布局。 阿迈特医疗成立于2011年，是一家利用全球领先自主3D多轴精密打印平台技术，同步攻克血管疾病诊疗中的关键诊断瓶颈（无肾毒性造影）与治疗痛点（永久金属植入物），构建从精准诊断到创新治疗完整闭环解决方案的高科技平台技术企业，系北京市首批生物医药G20企业、北京市专精特新企业以及国家高新技术企业，同时设有院士专家工作站和博士后科研工作站。公司在2023年成功入选工信部“生物医用材料创新任务揭榜挂帅项目”揭榜单位及工信部2023年增材制造典型应用场景名单，在2024年成功获批国家“十四五”重点研发计划重大专项牵头单位。 公司在血管造影诊断领域的重要战略产品——星落雨ÒJetfallÒ二氧化碳造影压力注射套装，可适用于向肾动脉、髂动脉、下肢动脉、前臂静脉",
+    "url": "http://www.cyzone.cn/article/829807.html",
+    "published": "Thu, 09 Apr 2026 01:09:00 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "创业邦",
+    "title": "斜跃智能获元璟资本与理想汽车联合投资，聚焦家庭具身智能机器人",
+    "summary": "近日，由理想汽车前 AI 首席科学家陈伟、前产品线总裁张骁共同创办的杭州斜跃智能科技有限公司（下称 “斜跃智能 ”）正式亮相。 公司立足于具身智能技术研发，致力于打造服务全球用户的家庭机器人产品。通过将人工智能从数字世界延伸至物理世界，把前沿 AI 技术转化为具备感知、理解与行动能力的家庭智能体，打造可持续学习、可信赖、真正融入家庭生活的下一代智能终端。 目前，斜跃智能已完成首轮融资工商变更，由元璟资本和理想汽车联合投资，为企业技术研发与产品落地注入强劲动力。 核心团队：理想双核心联手，AI + 产品深度耦合，锚定家庭具身智能 斜跃智能创始团队产业背景深厚。创始人陈伟作为理想汽车 AI 领域核心带头人，曾任理想汽车 AI 首席科学家、基座模型部门负责人，长期深耕具身智能、语言与多模智能及智能体系统等领域，曾主导理想同学研发体系建设及自动驾驶 VLA 基础模型研发与落地，是理想 AI 从数字世界走向物理世界的重要推动者之一； 创始人张骁作为理想汽车早期核心成员，曾任理想汽车产品负责人、第二产品线总裁，主导理想 ONE 和理想 L9 等多款现象级车型的产品定义与规模化落地，在用户需求理解、",
+    "url": "http://www.cyzone.cn/article/829803.html",
+    "published": "Wed, 08 Apr 2026 09:49:00 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "创业邦",
+    "title": "融资丨安宇艾心完成新一轮融资",
+    "summary": "安宇艾心（北京）医疗科技有限公司（以下简称“安宇艾心”）正式宣布，已完成新一轮数千万人民币的融资。本轮融资由北京市医药健康产业投资基金领投，中关村资本、通政基金和君领投资等知名机构跟投。所募资金将主要用于加速公司核心产品——基于全光学超声技术的介入超声成像系统的研发迭代、临床试验、注册申报及商业化布局。 01资本赋能，加速颠覆性技术落地 本轮融资的顺利完成，标志着安宇艾心的颠覆性技术——全光学超声成像技术获得了政府引导基金与市场化资本的双重认可。 作为本轮领投方，北京市医药健康产业投资基金是北京市为加速医药健康产业创新、推动新质生产力发展而设立的市级政府投资基金，重点投向创新药、创新医疗器械等关键领域。此次投资，不仅是对安宇艾心技术实力和商业前景的肯定，更是北京市布局高端医疗器械前沿赛道、支持本土创新企业发展的战略性举措。 安宇艾心-致力于成为全球全光学介入超声成像技术的定义者与领跑者 安宇艾心成立于2022年8月，是一家专注于泛血管介入精准诊疗领域的高科技企业，致力于构建基于全光学超声原理的下一代介入影像平台。公司立足北京中关村，辐射全球市场，旨在通过颠覆性的技术路线革新，解决传统血",
+    "url": "http://www.cyzone.cn/article/829748.html",
+    "published": "Wed, 08 Apr 2026 05:43:10 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "千里科技：背靠吉利，AI拔高估值，真实成色几何？",
+    "summary": "近日，华勤技术（03296.HK）、胜宏科技（02476.HK）双双登陆港股，顺利完成“A+H”两地上市布局。",
+    "url": "https://www.tmtpost.com/7968224.html",
+    "published": "Mon, 27 Apr 2026 12:16:21 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？",
+    "summary": "“GPT时刻”解决的是技术能不能的问题，而“iPhone时刻”解决的是商业能不能的问题——前者决定能不能起步，后者决定能走多远。",
+    "url": "https://www.tmtpost.com/7967849.html",
+    "published": "Mon, 27 Apr 2026 11:09:31 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "大模型的“雅尔塔时刻”",
+    "summary": "站队的时刻到了。",
+    "url": "https://www.tmtpost.com/7968014.html",
+    "published": "Mon, 27 Apr 2026 09:15:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "旗天科技“易主”七彩虹悬案：定增卡壳之疑与四方资本局 | 深度",
+    "summary": "旗天科技易主事件如何在21个月后落入僵局，审核如何演变为创业板再融资历史上最诡异的卡壳样本，答案的寻找需要厘清各方参与者的动作与算计；这场资本操纵游戏的经典展演将以何种方式收场，则取决于资本贪欲与监管边界的碰撞与博弈。",
+    "url": "https://www.tmtpost.com/7967998.html",
+    "published": "Mon, 27 Apr 2026 09:11:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Edge AI Daily 早报（4月27日）",
+    "summary": "OpenAI启动GPT-5.5生物安全漏洞赏金计划，强化高风险领域防护能力。微软AI业务面临能源供给挑战，与核聚变企业Helion Energy合作探索零碳电力解决方案。英伟达将8%投资组合配置于边缘AI芯片公司，瞄准2000亿美元企业级市场。半导体行业受AI需求驱动，费城指数实现18连胜。佐治亚州110亿美元AI投资引发能源消耗与监管争议。",
+    "url": "https://www.tmtpost.com/7967966.html",
+    "published": "Mon, 27 Apr 2026 08:20:42 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "爱范儿",
+    "title": "扒完 DeepSeek V4 报告，我翻出了这个隐藏彩蛋",
+    "summary": "你的 MLA 是我的基础，我的 Muon 是你的加速器。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1663840?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Fri, 24 Apr 2026 11:18:37 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "爱范儿",
+    "title": "定了，DeepSeek V4首发华为芯片！国产AI开始打破英伟达「垄断」",
+    "summary": "百万长上下文，榨干每一个 token #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1663704?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Fri, 24 Apr 2026 06:15:26 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "爱范儿",
+    "title": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+    "summary": "· Google 发布第八代 TPU：博通做训练，联发科做推理 · 曝微软曾考虑收购 Cursor · 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1663686?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Fri, 24 Apr 2026 00:20:58 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "动点科技",
+    "title": "“我的科研路线是研究帕金森，我的变现方向是预测面粉出粉率”",
+    "summary": "这也正是葡萄牙创业景象里的常见缩影",
+    "url": "https://cn.technode.com/post/2026-04-24/tech-odyssey-episode-6-inesc-tec-uptec/",
+    "published": "Fri, 24 Apr 2026 13:07:59 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The climate tech IPO window could finally be cracking open",
+    "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+    "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+    "published": "Sat, 25 Apr 2026 16:33:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "published": "Sat, 25 Apr 2026 15:03:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apps to distract you from the endless cycle of doomscrolling",
+    "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+    "url": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+    "published": "Sat, 25 Apr 2026 15:00:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
+    "summary": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest.",
+    "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
+    "published": "Sat, 25 Apr 2026 14:57:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+    "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+    "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+    "published": "Sat, 25 Apr 2026 03:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+    "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+    "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+    "published": "Fri, 24 Apr 2026 23:32:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+    "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
+    "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+    "published": "Fri, 24 Apr 2026 21:35:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek V4 becomes default model for OpenClaw",
+    "summary": "The global open source agent framework OpenClaw released its 2026.4.24 version on Sunday, bringing both DeepSeek V4 models into its core ecosystem. V4 Flash, designed with 284 billion parameters and 13 billion activated parameters, is now the default model, delivering Max mode inference performance close to the 1.6 trillion parameter V4 Pro. Meanwhile, V4 Pro, […]",
+    "url": "https://technode.com/2026/04/27/deepseek-v4-becomes-default-model-for-openclaw/",
+    "published": "Mon, 27 Apr 2026 01:48:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek-V4 preview now available with open-source access",
+    "summary": "DeepSeek released a preview version of its new V4 model series and made it open source. The model supports an ultra-long context of up to one million tokens and shows improvements in agent capabilities, knowledge coverage, and reasoning performance. The V4 series comes in two versions: Pro and Flash. The Pro version targets high-performance use […]",
+    "url": "https://technode.com/2026/04/24/deepseek-v4-preview-now-available-with-open-source-access/",
+    "published": "Fri, 24 Apr 2026 07:23:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tech Odyssey Series: From Parkinson’s research to flour analytics, how Porto turns lab work into startups",
+    "summary": "Previous on Tech Odyssey: In our last episode, we visited Omniflow and saw how the company turned a streetlight pole into a standardized piece of urban infrastructure with charging, connectivity, and sensing built in. This time, we head to the University of Porto to look at where companies like that can come from. At the […]",
+    "url": "https://technode.com/2026/04/23/tech-odyssey-series-from-parkinsons-research-to-flour-analytics-how-porto-turns-lab-work-into-startups/",
+    "published": "Thu, 23 Apr 2026 09:48:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent’s QClaw opens international beta",
+    "summary": "QClaw, a consumer AI agent developed by the Tencent PC Manager team, has opened its international beta. The product is designed to let non-technical users deploy and interact with AI agents through messaging apps such as WhatsApp and Telegram without command-line setup or API configuration. The company said the international version was built in five […]",
+    "url": "https://technode.com/2026/04/21/tencents-qclaw-opens-international-beta/",
+    "published": "Tue, 21 Apr 2026 03:17:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei launches HarmonyOS AI smart glasses with camera and translation",
+    "summary": "Huawei today launched its first HarmonyOS-powered AI smart glasses, which come with a 12MP camera and support quick image capture in 0.7 seconds. They also offer AI-assisted framing and first-person video recording. The device includes Huawei’s Xiaoyi AI assistant that provides real-time video interaction and simultaneous translation in 42 languages. The frame uses aerospace-grade titanium […]",
+    "url": "https://technode.com/2026/04/20/huawei-launches-harmonyos-ai-smart-glasses-with-camera-and-real-time-translation/",
+    "published": "Mon, 20 Apr 2026 09:32:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi miclaw among first approved in China CAICT Claw evaluation",
+    "summary": "Xiaomi said its Xiaomi miclaw mobile intelligent agent has become one of the first systems to pass the China Academy of Information and Communications Technology (CAICT) Claw smartphone intelligent assistant evaluation, marking a regulatory approval for advanced on-device AI systems. The Chinese smartphone maker said Xiaomi miclaw is powered by its in-house Xiaomi MiMo large […]",
+    "url": "https://technode.com/2026/04/20/xiaomi-miclaw-becomes-one-of-the-first-to-pass-chinas-caict-mobile-intelligent-assistant-claw-evaluation/",
+    "published": "Mon, 20 Apr 2026 03:54:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "JD.com launches robot ambulance service, plans expansion to 50+ cities across China",
+    "summary": "JD.com on Wednesday launched its robot ambulance service, offering maintenance and repair solutions for humanoid robots, quadruped robots, AI companion robots, and more. The service covers basic repairs, fault diagnosis, battery replacement and recharging, testing and certification, cosmetic maintenance, and equipment recycling. Currently, JD.com’s robot ambulance is available in the Beijing area. Over the next […]",
+    "url": "https://technode.com/2026/04/16/jd-com-launches-robot-ambulance-service-plans-expansion-to-50-cities-across-china/",
+    "published": "Thu, 16 Apr 2026 02:06:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "DJI to launch Lito X1 series on April 23, likely to feature 360-degree obstacle avoidance system",
+    "summary": "Chinese drone maker DJI said it will launch its Lito X1 series on April 23, marking the debut of what is expected to be its first new consumer drone line this year. The model, which has appeared in filings with the FCC under the code SS3-DGP14, is widely expected to succeed the Mini 5 Pro […]",
+    "url": "https://technode.com/2026/04/15/dji-to-launch-lito-x1-series-on-april-23-likely-to-feature-360-degree-obstacle-avoidance-system/",
+    "published": "Wed, 15 Apr 2026 05:59:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba’s Amap to launch first embodied robot, starting with robotic dog",
+    "summary": "Alibaba’s subsidiary Amap (Gaode) is set to release its first product from its embodied intelligence division—a quadruped robot. This is reportedly the first embodied robot product introduced by Alibaba Group. According to insiders, humanoid robots and robotic dogs are both key directions being explored by Amap’s embodied intelligence team. The company has also built what […]",
+    "url": "https://technode.com/2026/04/15/alibabas-amap-to-launch-first-embodied-robot-starting-with-robotic-dog/",
+    "published": "Wed, 15 Apr 2026 01:53:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Honor denies talks with ByteDance on Doubao AI phone collaboration",
+    "summary": "Some media outlets recently reported that Honor is in discussions with ByteDance regarding potential cooperation on a Doubao AI smartphone. According to the reports, before partnering with ZTE to launch the first-generation Doubao phone, ByteDance had initially approached Honor. However, Honor was said to have taken a cautious stance at the time, believing that such […]",
+    "url": "https://technode.com/2026/04/14/honor-denies-talks-with-bytedance-on-doubao-ai-phone-collaboration/",
+    "published": "Tue, 14 Apr 2026 02:05:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei to launch Pura X Max, its first wide foldable phone, next week",
+    "summary": "Huawei said it will launch its Pura X Max, which it describes as the industry’s first horizontally wide foldable smartphone, on April 20. The device is expected to feature a book-style folding design, with a 7.69-inch WQHD+ inner display and a 5.5-inch outer screen. Its 16:10 aspect ratio is also tipped to balance a tablet-like […]",
+    "url": "https://technode.com/2026/04/13/huawei-to-launch-pura-x-max-its-first-wide-foldable-phone-next-week/",
+    "published": "Mon, 13 Apr 2026 07:50:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Elon Musk to launch XChat as part of push to build WeChat-like super app",
+    "summary": "Elon Musk’s social media platform X (formerly Twitter) said its instant messaging app XChat will launch on Apple App Store on April 17, as Musk pushes ahead with plans to build a super app similar to China’s WeChat. An Android release date has yet to be announced. Musk, who acquired Twitter in 2022, has repeatedly […]",
+    "url": "https://technode.com/2026/04/13/elon-musk-to-launch-xchat-as-part-of-push-to-build-wechat-like-super-app/",
+    "published": "Mon, 13 Apr 2026 05:57:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "JD.com plans to launch ride-hailing service in mobility push, sources say",
+    "summary": "JD.com is reportedly set to launch a ride-hailing service, according to Sina Tech, marking a potential move into the mobility sector. A source familiar with the matter said the service, internally referred to as “Open Ride Service,” is expected to go live soon. Its in-app interface is said to closely resemble mainstream ride-hailing platforms, with […]",
+    "url": "https://technode.com/2026/04/10/jd-com-plans-to-launch-ride-hailing-service-in-mobility-push-sources-say/",
+    "published": "Fri, 10 Apr 2026 07:04:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "DJI to launch Osmo Pocket 4 action camera series next week with 1-inch sensor",
+    "summary": "DJI said on Thursday it will launch its highly anticipated Osmo Pocket 4 series action cameras on April 16. The standard model retains the line’s signature design and features a 1-inch sensor, offering 14 stops of dynamic range and improved low-light and HDR video performance. It is expected to support 6K video recording at 60 […]",
+    "url": "https://technode.com/2026/04/10/dji-to-launch-osmo-pocket-4-action-camera-series-next-week-with-1-inch-sensor/",
+    "published": "Fri, 10 Apr 2026 02:23:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei hints at AI glasses launch",
+    "summary": "Huawei Consumer Business Group CEO He Gang on Tuesday shared a photo carrying a “HUAWEI AI Glasses” watermark, hinting that the company may be preparing to launch a new AI glasses product. The device is rumored to debut in the first half of the year with support for photography, audio, HarmonyOS-based cross-device integration, and live […]",
+    "url": "https://technode.com/2026/04/09/huawei-hints-at-ai-glasses-launch/",
+    "published": "Thu, 09 Apr 2026 06:35:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek V4 may launch this month, test interface suggests Vision and Expert modes",
+    "summary": "In China’s domestic large model sector, DeepSeek V4 is undoubtedly one of the most highly anticipated releases in recent months. Since the launch of its test version in February, users have been eagerly awaiting the official release. Coupled with a recent surge in system crashes and anomalies, the market speculates that these may be stress […]",
+    "url": "https://technode.com/2026/04/08/deepseek-v4-may-launch-this-month-test-interface-suggests-vision-and-expert-modes/",
+    "published": "Wed, 08 Apr 2026 02:57:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Amazon to cut 14,000 jobs globally, China operations may face deep impact",
+    "summary": "Amazon plans to launch a new round of global layoffs in May 2026, with about 14,000 employees expected to be affected. The cuts will span several core business units, including AWS cloud services, retail, and human resources, while some teams in China could face complete shutdowns. The most controversial aspect of the layoffs is that […]",
+    "url": "https://technode.com/2026/04/08/amazon-to-cut-14000-jobs-globally-china-operations-may-face-deep-impact/",
+    "published": "Wed, 08 Apr 2026 02:16:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Foxconn begins trial production of Apple’s first foldable iPhone, expected to be its priciest ever",
+    "summary": "Foxconn has begun trial production of Apple’s first foldable iPhone, sources familiar with the matter said, with the device expected to launch in the second half of 2026. The phone will feature a horizontal “book-style” foldable design, a 7.7–8 inch 4K-level inner display, and an outer screen with a punch-hole front camera. Apple has combined […]",
+    "url": "https://technode.com/2026/04/07/foxconn-begins-trial-production-of-apples-first-foldable-iphone-expected-to-be-its-priciest-ever/",
+    "published": "Tue, 07 Apr 2026 05:55:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Honor to unveil HONOR WIN gaming laptop next month in push back into high-end segment",
+    "summary": "Chinese tech firm Honor said on Tuesday it will launch its new HONOR WIN gaming laptop on April 23, marking its return to the high-end gaming notebook segment. The model will focus on both performance and thermal efficiency, and will compete with Lenovo’s Legion Y9000P Supreme Edition. According to sources, the top-end version is expected […]",
+    "url": "https://technode.com/2026/04/07/honor-to-unveil-honor-win-gaming-laptop-next-month-in-push-back-into-high-end-segment/",
+    "published": "Tue, 07 Apr 2026 05:25:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Doubao surpasses 120 trillion daily tokens as usage doubles in three months",
+    "summary": "According to Volcano Engine, the Seedance 2.0 API has entered public beta for enterprise users. As of March this year, Doubao—an AI large model developed by ByteDance—has seen its daily token usage exceed 120 trillion, doubling over the past three months and increasing 1,000-fold compared to its launch in May 2024. Currently, the number of […]",
+    "url": "https://technode.com/2026/04/07/doubao-surpasses-120-trillion-daily-tokens-as-usage-doubles-in-three-months/",
+    "published": "Tue, 07 Apr 2026 01:59:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Doubao 2 AI smartphone tipped for Q2 debut, two top Chinese phone makers in talks",
+    "summary": "The second-generation Doubao AI smartphone is expected to launch in the second quarter of this year, according to tech bloggers, as ByteDance deepens its push into system-level AI on mobile devices. The device continues ByteDance’s partnership with ZTE’s Nubia brand and will focus on system-level AI and cross-application autonomous operations, aiming to enable a new […]",
+    "url": "https://technode.com/2026/04/03/doubao-2-ai-smartphone-tipped-for-q2-debut-two-top-chinese-phone-makers-in-talks/",
+    "published": "Fri, 03 Apr 2026 05:48:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi’s CEO showcases new-gen SU7 in teardown livestream, says orders exceed 40,000",
+    "summary": "Lei Jun, founder of Xiaomi, hosted a livestream that lasted more than three hours at the company’s auto factory in Beijing’s Yizhuang district and offered a detailed teardown of the new-generation SU7 sedan. During the broadcast, Lei, alongside automotive safety expert Zhu Xichan, examined the vehicle component by component, covering exterior paintwork, forged wheels, interior […]",
+    "url": "https://technode.com/2026/04/03/xiaomis-ceo-showcases-new-gen-su7-in-teardown-livestream-says-orders-exceed-40000/",
+    "published": "Fri, 03 Apr 2026 02:21:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "OpenClaw launches official China mirror with infrastructure support from ByteDance",
+    "summary": "OpenClaw announced on April 1 that it has launched an official China mirror for ClawHub, allowing users to search for skills through a localized access point aimed at improving stability and access speed for users in China. According to the site description, the mirror is a localized skills site built on top of ClawHub and […]",
+    "url": "https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/",
+    "published": "Thu, 02 Apr 2026 02:51:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "The Verge",
+    "title": "Trump fires the entire National Science Board",
+    "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in […]",
+    "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+    "published": "2026-04-25T15:20:15-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Roast My Startup: Aluqos",
+    "summary": "Article URL: https://www.aluqos.com/ Comments URL: https://news.ycombinator.com/item?id=47917628 Points: 1 # Comments: 1",
+    "url": "https://www.aluqos.com/",
+    "published": "Mon, 27 Apr 2026 04:13:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Paper Millionaire – A Startup Stock Option Horror Roguelike",
+    "summary": "Article URL: https://paper-millionaire.pagey.site/ Comments URL: https://news.ycombinator.com/item?id=47917521 Points: 2 # Comments: 0",
+    "url": "https://paper-millionaire.pagey.site/",
+    "published": "Mon, 27 Apr 2026 03:45:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+    "summary": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47916519 Points: 21 # Comments: 1",
+    "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+    "published": "Mon, 27 Apr 2026 00:50:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Startup Equity Adventure Game",
+    "summary": "I put this together (with Claude) as a semi-gamified way for folks to learn about startup equity. Take a look, and share your scorecard :) Comments URL: https://news.ycombinator.com/item?id=47915274 Points: 23 # Comments: 7",
+    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "published": "Sun, 26 Apr 2026 22:14:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "From 14 Browser Tabs to 10k Jobs: How I Turned Web Scraping into a Startup",
+    "summary": "Article URL: https://www.ismatsamadov.com/blog/from-browser-tabs-to-startup-birjob Comments URL: https://news.ycombinator.com/item?id=47912613 Points: 3 # Comments: 0",
+    "url": "https://www.ismatsamadov.com/blog/from-browser-tabs-to-startup-birjob",
+    "published": "Sun, 26 Apr 2026 18:31:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup – Nuvacore",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon Comments URL: https://news.ycombinator.com/item?id=47911137 Points: 4 # Comments: 0",
+    "url": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
+    "published": "Sun, 26 Apr 2026 15:35:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The reporters at this news site are AI bots. OpenAI's super PAC is funding it",
+    "summary": "Article URL: https://twitter.com/TheMidasProj/status/2047692328396034490 Comments URL: https://news.ycombinator.com/item?id=47907960 Points: 3 # Comments: 0",
+    "url": "https://twitter.com/TheMidasProj/status/2047692328396034490",
+    "published": "Sun, 26 Apr 2026 06:43:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Congrats on failing to launch; weirdfriends log 1",
+    "summary": "Article URL: https://c0n0.com/posts/weirdfriends-log-1/ Comments URL: https://news.ycombinator.com/item?id=47903879 Points: 3 # Comments: 0",
+    "url": "https://c0n0.com/posts/weirdfriends-log-1/",
+    "published": "Sat, 25 Apr 2026 19:29:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Someone recreated StumbleUpon but for Startup landing pages",
+    "summary": "Article URL: https://buildhop.io Comments URL: https://news.ycombinator.com/item?id=47902123 Points: 2 # Comments: 0",
+    "url": "https://buildhop.io",
+    "published": "Sat, 25 Apr 2026 15:16:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple to Launch 'MacBook Ultra' with These Six New Features",
+    "summary": "Article URL: https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/ Comments URL: https://news.ycombinator.com/item?id=47899876 Points: 3 # Comments: 1",
+    "url": "https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/",
+    "published": "Sat, 25 Apr 2026 08:59:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple's New CEO Must Launch 5 Product Ecosystems or Miss the Next iPhone Moment",
+    "summary": "Article URL: https://greentic-ai.medium.com/apples-next-ceo-must-launch-these-5-product-ecosystems-or-miss-the-next-iphone-moment-68599533a491 Comments URL: https://news.ycombinator.com/item?id=47899561 Points: 3 # Comments: 0",
+    "url": "https://greentic-ai.medium.com/apples-next-ceo-must-launch-these-5-product-ecosystems-or-miss-the-next-iphone-moment-68599533a491",
+    "published": "Sat, 25 Apr 2026 07:49:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "'Startup Cowboys' Are Making This Texas Town the New Tech Hotspot",
+    "summary": "Article URL: https://www.wsj.com/business/entrepreneurship/lockhart-texas-tech-hub-fd1bf380 Comments URL: https://news.ycombinator.com/item?id=47894250 Points: 4 # Comments: 2",
+    "url": "https://www.wsj.com/business/entrepreneurship/lockhart-texas-tech-hub-fd1bf380",
+    "published": "Fri, 24 Apr 2026 18:43:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cloudflare Email Service is a deliverability bet dressed as an agents launch",
+    "summary": "Article URL: https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html Comments URL: https://news.ycombinator.com/item?id=47893690 Points: 1 # Comments: 0",
+    "url": "https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html",
+    "published": "Fri, 24 Apr 2026 17:58:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Amazon-Backed Hollywood Production Startup Deploys AI for Speed and Cost-Cutting [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=D5Ylmvn_D6g Comments URL: https://news.ycombinator.com/item?id=47890934 Points: 3 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=D5Ylmvn_D6g",
+    "published": "Fri, 24 Apr 2026 14:39:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Canada's AI Startup Cohere Buys Germany's Aleph Alpha to Expand in Europe",
+    "summary": "Article URL: https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=47887383 Points: 3 # Comments: 0",
+    "url": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/",
+    "published": "Fri, 24 Apr 2026 08:35:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "QuickSWMS – AI generator for Australian construction safety docs ($100 startup)",
+    "summary": "Article URL: https://quickswms.co Comments URL: https://news.ycombinator.com/item?id=47886964 Points: 1 # Comments: 0",
+    "url": "https://quickswms.co",
+    "published": "Fri, 24 Apr 2026 07:44:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Bret Taylor's Sierra Buys YC-Backed AI Startup Fragment",
+    "summary": "Article URL: https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/ Comments URL: https://news.ycombinator.com/item?id=47884586 Points: 1 # Comments: 0",
+    "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "published": "Fri, 24 Apr 2026 01:53:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Another customer of troubled startup Delve suffered a big security incident",
+    "summary": "Article URL: https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/ Comments URL: https://news.ycombinator.com/item?id=47882771 Points: 3 # Comments: 0",
+    "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+    "published": "Thu, 23 Apr 2026 22:07:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why You Should Work at a Startup in 2026",
+    "summary": "Article URL: https://dharmasamu.com/blog/why-work-at-a-startup-2026 Comments URL: https://news.ycombinator.com/item?id=47878433 Points: 2 # Comments: 1",
+    "url": "https://dharmasamu.com/blog/why-work-at-a-startup-2026",
+    "published": "Thu, 23 Apr 2026 17:16:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Series A for Exe.dev – $35M in Funding",
+    "summary": "Article URL: https://blog.exe.dev/series-a Comments URL: https://news.ycombinator.com/item?id=47877872 Points: 6 # Comments: 1",
+    "url": "https://blog.exe.dev/series-a",
+    "published": "Thu, 23 Apr 2026 16:38:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "GitHub新星",
+    "title": "op7418/guizang-ppt-skill",
+    "summary": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "published": "2026-04-23T13:23:07Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-04-27",
+    "meta": {
+      "stars": 3108,
+      "forks": 331,
+      "language": "HTML",
+      "createdDaysAgo": 3
+    }
+  }
+]
