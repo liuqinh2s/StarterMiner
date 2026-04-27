@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
+    "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。 仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅助驾驶芯片有比较大的问题，就是带宽不够。我们意识到这个问题后，在M97设计的时候，把带宽提升了很多。” 辅助驾驶芯片的有效算力由两个因素决定，一是计算单元的数量，另一个就是带宽，也就是读写数据是否足够快。“即便是2000T的算力，如果DDR带宽不够，芯片也发挥不出来2000T的作用。我们的芯片一个非常大的优势就是DDR带宽非常高，可以把算力充分发挥出来，同时，我们的芯片功耗控制的很好，这也是优势。” 为了尽可能发挥出芯片的算力，爱芯元智“",
+    "url": "https://36kr.com/p/3784806758243587?f=rss",
+    "published": "2026-04-28 00:27:19  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "36氪",
     "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
     "summary": "大公司： 谷歌将在韩国新建人工智能园区，韩国总统府证实 韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈萨比斯。韩国科学技术部与谷歌就此人工智能园区项目签署了合作谅解备忘录。 法国汽车零部件供应商Forvia 21亿美元出售汽车内饰业务 法国汽车零部件供应商Forvia达成协议，将旗下汽车内饰业务出售给阿波罗全球管理，含债务在内，该业务板块估值约21亿美元。该内饰业务依托覆盖欧洲、北美、亚洲的全球生产与研发基地网络，为整车厂商供应仪表盘、车门内饰板、中控台等产品。 英国大型企业普遍不清楚自身数据在海外被人工智能如何使用 研究机构Harbr Data的调查显示，英国多数大型企业并不清楚自身敏感数据在海外被人工智能系统处理时的具体用途，凸显出这一快速发展技术带来的风险。该研究针对英国营收超1亿英镑企业的高级技术与数据负责人展开调查，结果显示61%的受访者无法全面掌握数据在海外的处理方式，报告指出这一问题主要困扰企业",
     "url": "https://36kr.com/p/3784957482523648?f=rss",
@@ -51,50 +61,50 @@
   },
   {
     "source": "36氪",
-    "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-    "summary": "作者丨欧雪 编辑丨袁斯来 在传统工厂里，流水线像是被固定在铁轨上的火车——高效但僵硬。这种“效率与柔性不可兼得”的痛点，正被一家中国公司用“磁悬浮”技术破解。 佛山市增广智能科技有限公司（下称“增广智能”）成立于2018年，总部位于佛山，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业。 “这个技术涉及面很广——通信、控制、操作系统、磁场仿真，每个点想做到完美很难。”公司创始人黄安杰回忆。经过5年研发，增广智能在2023年正式对外发布磁悬浮产品，并在随后的2年内成功实现大规模量产销售。 增广智能的核心产品——平面磁悬浮智能输送系统（磁悬浮魔毯），看起来像一张由正方形定子方块拼成的“桌面”。产品动子（载板）可以在桌面上无接触悬浮，并以最高2G的加速度、微米级的定位精度自由运动。 由方块定子拼接成的“桌面型”产线（图源/企业） 与传统传送带的“铁路模式”不同，磁悬浮魔毯实现了“公路模式”：动子可以独立超车、汇入、旋转，甚至一边输送一边完成涂胶、组装、力控检测等工艺动作。每块动子本身也是一个天然的六维力传感器。 “传统产线提高效率往往要牺牲柔性，而磁悬浮在物理层解决了这个问题",
-    "url": "https://36kr.com/p/3782960065108996?f=rss",
-    "published": "2026-04-26 09:06:18  +0800",
+    "title": "英特尔启动债券发行，为回购爱尔兰工厂股权融资",
+    "summary": "英特尔公司于当地时间周六正式启动投资级债券发行，以帮助为其142亿美元回购阿波罗全球管理公司所持爱尔兰Fab 34工厂股权的交易筹措资金。据知情人士透露，英特尔正在营销五个期限批次的债券，期限从5年到40年不等。其中，最长年期债券的初始价格指引为较美国国债收益率高出约1.65个百分点。此次债券发行由花旗集团、摩根大通、巴克莱银行、美国银行和德意志银行担任联合承销商。英特尔计划通过此次债券发行筹集约65亿美元的新债务，其余资金将使用公司手头现金支付。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3785687269809414?f=rss",
+    "published": "2026-04-28 07:20:14  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "36氪",
-    "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-    "summary": "4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。 当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS+知润·端侧模型为核心，打造自主可控的国产AI智能基座，赋能车端、移动端、AI智能硬件、具身智能四大赛道。润芯微提及，将与合作伙伴一起推动智能向出行、工业制造等场景延伸，通过技术复用与生态协同实现场景智能规模化落地，致力成为中立开放的产业连接器。 润芯微董事长刘青在致辞中表示，当前汽车产业进入智能驱动、自主可控新阶段，“核心技术卡脖子、价格内卷、供应链不稳”等行业痛点亟待破解，国产全栈技术的突破与规模化应用是产业发展关键。润芯微将依",
-    "url": "https://36kr.com/p/3782901034785801?f=rss",
-    "published": "2026-04-26 08:08:39  +0800",
+    "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
+    "summary": "德国机器人软件公司Sereact已筹集1.1亿美元的新资金，用于开发其人工智能模型，使机器人更智能，并能适应不同的任务。 Sereact表示，这轮B轮融资由风险投资公司Headline领投，其他新投资者包括Bullhound Capital、Felix Capital和Daphni，以及几位现有支持者。（财联社）",
+    "url": "https://36kr.com/newsflashes/3785684261362951?f=rss",
+    "published": "2026-04-28 07:17:10  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "36氪",
-    "title": "多国央行集体甩卖黄金",
-    "summary": "又有一家央行“甩卖”黄金，今年第一季度，阿塞拜疆国家石油基金出售了约22吨黄金。根据该基金的季度报告，此次出售的黄金储备按当前价格计算价值超过30亿美元，标志着自2012年开始购入黄金以来，该基金首次减持黄金储备。而此前土耳其、俄罗斯、波兰等国央行也采取了类似举动。 (中新经纬)",
-    "url": "https://36kr.com/newsflashes/3784961769479172?f=rss",
-    "published": "2026-04-27 19:20:07  +0800",
+    "title": "印度太阳制药将以117亿美元收购美国制药商欧加农",
+    "summary": "4月27日，印度最大制药商太阳制药工业公司宣布，将以全现金方式收购总部位于美国新泽西州的欧加农公司，该交易对欧加农的估值为117.5亿美元（含债务）。（界面）",
+    "url": "https://36kr.com/newsflashes/3785676516629768?f=rss",
+    "published": "2026-04-28 07:09:17  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "36氪",
-    "title": "中远海能：拟15.85亿元收购大连投资100%股权并吸收合并",
-    "summary": "36氪获悉，中远海能公告，公司全资子公司大连海能拟以现金约15.85亿元收购控股股东中远海运持有的中远海运大连投资有限公司100%股权，并在交易完成后对大连投资实施吸收合并。本次交易构成关联交易，不构成重大资产重组。交易旨在整合能源化工品及氢基绿色能源供应链业务，将大连投资在建VLGC和仓储物流园等优质资产注入上市公司，以减少关联交易、避免同业竞争。大连海能将以40%自有资金和60%外部融资支付对价，其中公司向大连海能增资约6.34亿元。本次交易尚需提交公司股东会审议批准后方可生效。",
-    "url": "https://36kr.com/newsflashes/3784932638546953?f=rss",
-    "published": "2026-04-27 18:38:30  +0800",
+    "title": "Meta达成太阳能电力合作协议",
+    "summary": "Meta已签约，将向太空能源初创企业奥弗维尤能源（Overview Energy）采购最高1吉瓦的太阳能电力。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3785674844806406?f=rss",
+    "published": "2026-04-28 07:07:35  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "36氪",
-    "title": "谷歌将在韩国新建人工智能园区，韩国总统府证实",
-    "summary": "韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈萨比斯。韩国科学技术部与谷歌就此人工智能园区项目签署了合作谅解备忘录。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3784924206750979?f=rss",
-    "published": "2026-04-27 18:24:00  +0800",
+    "title": "北京银行：科技金融贷款“十四五”期间增长178%",
+    "summary": "4月27日晚，北京银行发布2025年年度报告。报告显示，截止2025年末，该行科技金融贷款余额4489.97亿元，较年初增长847.18亿元，增速23.26%，较“十四五”期初增长178%；服务专精特新企业超3万家，为近6万家科技型中小微企业提供信贷资金1.45万亿元；在北京地区服务82%创业板、76%科创板、75%北交所上市企业。",
+    "url": "https://36kr.com/newsflashes/3785091807091972?f=rss",
+    "published": "2026-04-27 21:14:29  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
@@ -151,10 +161,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "给科技总部装“最强大脑”：在新加坡，南洋理工大学正为AI时代企业家搭建决策操作系统",
-    "summary": "如何充分利用新加坡\"科技超级节点\"的地利优势，参与生机蓬勃的科创生态，在离中国文化最近，同时又离全球市场最近的课堂上重建科技商业认知——这正成为新一代出海企业家对新加坡的新预期。",
-    "url": "https://www.tmtpost.com/7966033.html",
-    "published": "Mon, 27 Apr 2026 15:32:45 +0800",
+    "title": "【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定",
+    "summary": "LABUBU冰箱还未正式发售就已溢价3000元；美团小象超市收紧自提，客服回应：部分城市暂停服务；阿波罗将以18.2亿欧元企业价值收购Forvia的汽车内饰业务；丰田汽车3月全球销量同比下降5.8%；互联网公开募捐服务平台管理新规出台，不得插入商业广告；明确募捐信息保存期限，新修订的《公开募捐平台服务管理办法》出台；商务部、国家中医药局等6部门组织开展中医药服务消费和服务贸易融合发展试点；5月1日起，民航两项强制性国家标准实施；QFII一季度新进增持超440余股；多国央行集体甩卖黄金；国家统计局：1—3月份全国规模以上工业企业实现利润总额16960.4亿元，同比增长15.5%；国产开源大模型密集迭代升级，国产开源大模型下载量破100亿次",
+    "url": "https://www.tmtpost.com/7969118.html",
+    "published": "Tue, 28 Apr 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "独家对话清华AIR教授曹婷：具身最被忽视的问题，就是物理智能体",
+    "summary": "曹婷教授及团队正计划孵化一家新公司，专注于可以持续进化的物理智能体，新公司目前仍在筹备阶段。",
+    "url": "https://www.tmtpost.com/7968480.html",
+    "published": "Mon, 27 Apr 2026 21:31:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛",
+    "summary": "GPT-5.5 Pro推理能力达人类前0.1%，但触及知识盲区时，86%的倾向给出错误答案而非承认不知道——同一测试中，Claude Opus 4.7仅为36%。当能力提升伴随可靠性风险，智商竞赛的边际价值正在递减。接下来的竞争，是谁能在可控成本下把模型可靠地跑出来。",
+    "url": "https://www.tmtpost.com/7968585.html",
+    "published": "Mon, 27 Apr 2026 19:34:23 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
@@ -165,16 +195,6 @@
     "summary": "你的 MLA 是我的基础，我的 Muon 是你的加速器。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1663840?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Fri, 24 Apr 2026 11:18:37 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-04-27"
-  },
-  {
-    "source": "爱范儿",
-    "title": "定了，DeepSeek V4首发华为芯片！国产AI开始打破英伟达「垄断」",
-    "summary": "百万长上下文，榨干每一个 token #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1663704?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Fri, 24 Apr 2026 06:15:26 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-27"
@@ -191,70 +211,40 @@
   },
   {
     "source": "TechCrunch",
-    "title": "The climate tech IPO window could finally be cracking open",
-    "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
-    "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
-    "published": "Sat, 25 Apr 2026 16:33:00 +0000",
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "published": "Mon, 27 Apr 2026 17:24:21 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "published": "Mon, 27 Apr 2026 16:13:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "published": "Sat, 25 Apr 2026 15:03:00 +0000",
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
+    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "published": "Mon, 27 Apr 2026 13:08:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Apps to distract you from the endless cycle of doomscrolling",
-    "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-    "url": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-    "published": "Sat, 25 Apr 2026 15:00:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-27"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
-    "summary": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest.",
-    "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-    "published": "Sat, 25 Apr 2026 14:57:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-27"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-    "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
-    "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-    "published": "Sat, 25 Apr 2026 03:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-27"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-    "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
-    "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-    "published": "Fri, 24 Apr 2026 23:32:11 +0000",
+    "title": "Spotify’s next frontier: Fitness content",
+    "summary": "Spotify is adding fitness as its next major category, launching workout videos, playlists, and Peloton classes inside the app for free and Premium users.",
+    "url": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/",
+    "published": "Mon, 27 Apr 2026 12:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-27"
@@ -481,13 +471,237 @@
   },
   {
     "source": "The Verge",
-    "title": "Trump fires the entire National Science Board",
-    "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in […]",
-    "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
-    "published": "2026-04-25T15:20:15-04:00",
+    "title": "Valve launches the Steam Controller without the Steam Machine",
+    "summary": "Last November, Valve introduced the world to its new vision of living room gaming: the Steam Machine and Steam Controller. Then, RAMageddon. Memory shortages forced Valve to delay all its hardware and reset expectations. Now, Valve is releasing the Steam Controller without the Steam Machine. The Steam Controller is officially going on sale May 4th […]",
+    "url": "https://www.theverge.com/games/918622/valve-steam-controller-price-release-date-steam-machine-delay",
+    "published": "2026-04-27T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "The Verge",
+    "title": "We reviewed Valve’s new Steam Controller, ask us anything",
+    "summary": "Hey hey, it's Jay Peters, senior reporter at The Verge. Today, Valve finally announced that the second version of the Steam Controller - and the first piece of Valve's slate of new gaming hardware set to launch this year - is finally going on sale for $99 on May 4th. My colleague Cameron Faulkner and […]",
+    "url": "https://www.theverge.com/games/919157/valve-steam-controller-ask-us-anything-ama",
+    "published": "2026-04-27T13:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 LIVE in ~2hrs",
+    "summary": "Article URL: https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/ Comments URL: https://news.ycombinator.com/item?id=47927921 Points: 1 # Comments: 0",
+    "url": "https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/",
+    "published": "Mon, 27 Apr 2026 21:57:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China blocks Meta from acquiring AI startup Manus",
+    "summary": "Article URL: https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a Comments URL: https://news.ycombinator.com/item?id=47924754 Points: 5 # Comments: 0",
+    "url": "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
+    "published": "Mon, 27 Apr 2026 17:40:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China blocks Meta from acquiring AI startup Manus",
+    "summary": "Article URL: https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus Comments URL: https://news.ycombinator.com/item?id=47922026 Points: 3 # Comments: 0",
+    "url": "https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus",
+    "published": "Mon, 27 Apr 2026 14:21:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket",
+    "summary": "Article URL: https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/ Comments URL: https://news.ycombinator.com/item?id=47921810 Points: 2 # Comments: 0",
+    "url": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+    "published": "Mon, 27 Apr 2026 14:07:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI and Microsoft Reach Deal to Give Startup New Freedom",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-and-microsoft-strike-truce-redrawing-once-tense-partnership-9ae22700 Comments URL: https://news.ycombinator.com/item?id=47921559 Points: 3 # Comments: 2",
+    "url": "https://www.wsj.com/tech/ai/openai-and-microsoft-strike-truce-redrawing-once-tense-partnership-9ae22700",
+    "published": "Mon, 27 Apr 2026 13:51:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
+    "summary": "Article URL: https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/ Comments URL: https://news.ycombinator.com/item?id=47920920 Points: 2 # Comments: 0",
+    "url": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
+    "published": "Mon, 27 Apr 2026 12:49:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920667 Points: 6 # Comments: 0",
+    "url": "https://www.bbc.co.uk/news/articles/cj0v0gr2yz7o",
+    "published": "Mon, 27 Apr 2026 12:23:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Tiny Polish Startup Became the Multi-Billion-Dollar Voice of AI",
+    "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2025/12/01/how-a-tiny-polish-startup-became-the-multi-billion-dollar-voice-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47920512 Points: 5 # Comments: 0",
+    "url": "https://www.forbes.com/sites/iainmartin/2025/12/01/how-a-tiny-polish-startup-became-the-multi-billion-dollar-voice-of-ai/",
+    "published": "Mon, 27 Apr 2026 12:08:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China orders Meta to unwind $2B buy of AI startup Manus",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/ Comments URL: https://news.ycombinator.com/item?id=47920434 Points: 5 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/",
+    "published": "Mon, 27 Apr 2026 11:58:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore... https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 265 # Comments: 168",
+    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+    "published": "Mon, 27 Apr 2026 11:43:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Meta's $2B Deal to Buy AI Startup Manus Blocked by China",
+    "summary": "Article URL: https://www.forbes.com/sites/siladityaray/2026/04/27/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/ Comments URL: https://news.ycombinator.com/item?id=47920043 Points: 4 # Comments: 1",
+    "url": "https://www.forbes.com/sites/siladityaray/2026/04/27/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/",
+    "published": "Mon, 27 Apr 2026 11:04:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Launch Your Product. Get Seen Weekly",
+    "summary": "visit: https://www.scrolllaunch.com/ Comments URL: https://news.ycombinator.com/item?id=47919716 Points: 4 # Comments: 4",
+    "url": "https://news.ycombinator.com/item?id=47919716",
+    "published": "Mon, 27 Apr 2026 10:12:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China blocks Meta's $2B purchase of AI startup Manus",
+    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/china-blocks-foreign-acquisition-ai-082548254.html Comments URL: https://news.ycombinator.com/item?id=47919228 Points: 7 # Comments: 0",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/china-blocks-foreign-acquisition-ai-082548254.html",
+    "published": "Mon, 27 Apr 2026 08:53:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Roast My Startup: Aluqos",
+    "summary": "Article URL: https://www.aluqos.com/ Comments URL: https://news.ycombinator.com/item?id=47917628 Points: 1 # Comments: 1",
+    "url": "https://www.aluqos.com/",
+    "published": "Mon, 27 Apr 2026 04:13:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Paper Millionaire – A Startup Stock Option Horror Roguelike",
+    "summary": "Article URL: https://paper-millionaire.pagey.site/ Comments URL: https://news.ycombinator.com/item?id=47917521 Points: 7 # Comments: 0",
+    "url": "https://paper-millionaire.pagey.site/",
+    "published": "Mon, 27 Apr 2026 03:45:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+    "summary": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47916519 Points: 47 # Comments: 7",
+    "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+    "published": "Mon, 27 Apr 2026 00:50:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Startup Equity Adventure Game",
+    "summary": "I put this together (with Claude) as a semi-gamified way for folks to learn about startup equity. Take a look, and share your scorecard :) Comments URL: https://news.ycombinator.com/item?id=47915274 Points: 31 # Comments: 17",
+    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "published": "Sun, 26 Apr 2026 22:14:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "From 14 Browser Tabs to 10k Jobs: How I Turned Web Scraping into a Startup",
+    "summary": "Article URL: https://www.ismatsamadov.com/blog/from-browser-tabs-to-startup-birjob Comments URL: https://news.ycombinator.com/item?id=47912613 Points: 3 # Comments: 0",
+    "url": "https://www.ismatsamadov.com/blog/from-browser-tabs-to-startup-birjob",
+    "published": "Sun, 26 Apr 2026 18:31:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup – Nuvacore",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon Comments URL: https://news.ycombinator.com/item?id=47911137 Points: 4 # Comments: 0",
+    "url": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
+    "published": "Sun, 26 Apr 2026 15:35:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The reporters at this news site are AI bots. OpenAI's super PAC is funding it",
+    "summary": "Article URL: https://twitter.com/TheMidasProj/status/2047692328396034490 Comments URL: https://news.ycombinator.com/item?id=47907960 Points: 3 # Comments: 0",
+    "url": "https://twitter.com/TheMidasProj/status/2047692328396034490",
+    "published": "Sun, 26 Apr 2026 06:43:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-27"
+  },
+  {
+    "source": "微博",
+    "title": "#国产开源大模型下载量破100亿次#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23国产开源大模型下载量破100亿次%23",
+    "published": "2026-04-27",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-27",
+    "meta": {
+      "hotValue": 465906,
+      "rank": 2
+    }
   },
   {
     "source": "B站",
@@ -504,20 +718,6 @@
   },
   {
     "source": "V2EX",
-    "title": "[物理机自建] 首发适配 GPT-5.5， 0.065 超低倍率！新站开业注册送 $5，回帖留 ID 再送 $5 额度",
-    "summary": "各位 V 友大家好， 最近折腾跑通了一个 AI API 的中转服务。拒绝廉价 VPS 转发，底层是实打实租用物理机服务器搭建的（每月硬扛 100 多刀成本），主打一个极速直连、高并发不掉线。 🚀 **核心亮点：** - **最新模型接入：** 已全面适配最新的 GPT-5.5 ，响应速度非常顶。 - **极致性价比：** 0.065 超低倍率，欢迎对比测速。 - **开发者友好：** 完美兼容 Cursor 、ClaudeCode 、OpenClaw 等各类 AI 自动化开发工具。 🎁 **开业限时福利（两步拿满 $10 ，畅跑大模型）：** 1. **注册填码送",
-    "url": "https://www.v2ex.com/t/1208695",
-    "published": 1777224110,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-04-27",
-    "meta": {
-      "replies": 166,
-      "node": "推广"
-    }
-  },
-  {
-    "source": "V2EX",
     "title": "Gap 半年，人没有变废，但也没有想象中的自由",
     "summary": "Gap 半年，人没有变废，但也没有想象中的自由。 没有环游世界，也没有睡到自然醒。 反而每天 6:40 起床，送孩子上学，比上班时还要规律。 但有一点很明确： 我不再焦虑了。 ## 聊聊我的工作经历 回头看过去的职业路径，总是在“脱离轨道” ### 1. 科研热情的浇灭 从小县城到北京上大学，我选择了生物科学专业。 毕业后进入北京水产科学研究所，做助理研究员。 日常工作，是养鲟鱼，也做一些育种相关的研究。 因为鲟鱼性成熟周期较长，需要通过干预手段提高其经济价值。 我参与的课题，是“促性腺激素在毕赤酵母中的表达”。",
     "url": "https://www.v2ex.com/t/1208778",
@@ -526,7 +726,7 @@
     "type": "community",
     "fetchedAt": "2026-04-27",
     "meta": {
-      "replies": 106,
+      "replies": 118,
       "node": "职场话题"
     }
   },
@@ -540,10 +740,10 @@
     "type": "signal",
     "fetchedAt": "2026-04-27",
     "meta": {
-      "stars": 3308,
-      "forks": 344,
+      "stars": 3428,
+      "forks": 352,
       "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]

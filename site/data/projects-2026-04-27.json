@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 5,
+      "discussionCount": 6,
       "contacts": {
         "fetchedAt": "2026-04-27",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 5,
+      "discussionCount": 6,
       "contacts": {
         "fetchedAt": "2026-04-27",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 5,
+      "discussionCount": 6,
       "contacts": {
         "fetchedAt": "2026-04-27",
         "website": {
@@ -728,33 +728,32 @@
     {
       "id": "zhiwangweilai",
       "name": "智往未来",
-      "desc": "聚焦仓储物流场景的轮式双臂具身智能机器人公司",
+      "desc": "用轮式底盘+双臂机器人解决仓储物流中占人力成本60%的拿放动作",
       "track": "robotics",
       "stage": "seed",
       "city": "nanjing",
       "tags": [
         "具身智能",
-        "轮式机器人",
         "仓储物流",
-        "强化学习"
+        "轮式机器人"
       ],
       "team": [
         {
           "name": "孙浚凯",
           "role": "创始人",
-          "bg": "前地平线智能座舱产品线总经理"
+          "bg": "前地平线智能座舱产品线总经理，推动百万终端量产"
         }
       ],
       "product": "",
       "founded": "2025-11",
-      "funding": "中科南京软件技术研究院孵化，2025年底独立注册",
+      "funding": "",
       "scores": {
-        "tech": 75,
+        "tech": 60,
         "growth": 40,
-        "team": 80,
-        "market": 70
+        "team": 60,
+        "market": 55
       },
-      "score": 64,
+      "score": 53,
       "discoveredAt": "2026-04-27",
       "discussionCount": 1,
       "contacts": {
@@ -766,16 +765,16 @@
       }
     },
     {
-      "id": "pokerobot",
+      "id": "pokejiqi",
       "name": "破壳机器人",
-      "desc": "专注家庭场景的具身智能机器人初创公司",
+      "desc": "由清华教授许华哲创办，致力于两年内做出可用的家庭机器人",
       "track": "robotics",
-      "stage": "idea",
+      "stage": "seed",
       "city": "beijing",
       "tags": [
-        "家庭机器人",
         "具身智能",
-        "清华大学"
+        "家庭机器人",
+        "创始人学术背景"
       ],
       "team": [
         {
@@ -786,14 +785,47 @@
       ],
       "product": "",
       "founded": "2026-01",
-      "funding": "未披露",
+      "funding": "",
       "scores": {
         "tech": 70,
         "growth": 30,
-        "team": 85,
-        "market": 75
+        "team": 70,
+        "market": 60
       },
-      "score": 62,
+      "score": 56,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "sereact",
+      "name": "Sereact",
+      "desc": "德国机器人软件公司，开发AI模型使机器人适应不同任务",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "机器人软件",
+        "AI",
+        "德国"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "B轮1.1亿美元融资，由Headline领投",
+      "scores": {
+        "tech": 60,
+        "growth": 60,
+        "team": 50,
+        "market": 55
+      },
+      "score": 57,
       "discoveredAt": "2026-04-27",
       "discussionCount": 1,
       "contacts": {
@@ -807,29 +839,29 @@
     {
       "id": "xieyuezhineng",
       "name": "杭州斜跃智能科技有限公司",
-      "desc": "聚焦家庭具身智能机器人，由理想汽车前AI首席科学家陈伟等创立，首轮融资获元璟资本和理想汽车联合投资。",
+      "desc": "由理想汽车前高管创立，专注于家庭具身智能机器人研发与产品化",
       "track": "robotics",
       "stage": "seed",
       "city": "hangzhou",
       "tags": [
         "具身智能",
         "家庭机器人",
-        "人工智能"
+        "理想系创业"
       ],
       "team": [
         {
           "name": "陈伟",
           "role": "创始人",
-          "bg": "前理想汽车AI首席科学家，曾任基座模型部门负责人，主导理想同学及VLA模型研发"
+          "bg": "前理想汽车AI首席科学家"
         },
         {
           "name": "张骁",
           "role": "创始人",
-          "bg": "前理想汽车产品线总裁，主导理想ONE、L9等产品定义与落地"
+          "bg": "前理想汽车产品线总裁"
         }
       ],
-      "product": "",
-      "founded": "2026-04",
+      "product": null,
+      "founded": "2026-01",
       "funding": "首轮融资由元璟资本和理想汽车联合投资，金额未披露",
       "scores": {
         "tech": 85,
@@ -849,70 +881,216 @@
       }
     },
     {
-      "id": "guizang-ppt-skill",
-      "name": "guizang-ppt-skill",
-      "desc": "将提示词转换为水平滑动杂志式HTML幻灯片的Claude Code Skill",
+      "id": "ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "desc": "由DeepMind前研究员David Silver创立，开发无需人类数据即可学习的AI系统",
       "track": "ai",
-      "stage": "idea",
-      "city": "other",
+      "stage": "seed",
+      "city": "overseas",
       "tags": [
-        "AI工具",
-        "PPT生成",
-        "开源"
+        "强化学习",
+        "AI基础模型",
+        "大额融资"
       ],
       "team": [
         {
-          "name": "op7418",
-          "role": "创建者",
+          "name": "David Silver",
+          "role": "创始人兼CEO",
+          "bg": "前DeepMind首席科学家，强化学习之父"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "2026年4月获11亿美元融资，估值51亿美元",
+      "scores": {
+        "tech": 95,
+        "growth": 90,
+        "team": 98,
+        "market": 85
+      },
+      "score": 92,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "skye",
+      "name": "Skye / Signull Labs",
+      "desc": "开发AI主屏应用，替代传统iPhone主屏界面",
+      "track": "consumer",
+      "stage": "pre-seed",
+      "city": "overseas",
+      "tags": [
+        "AI应用",
+        "智能手机",
+        "消费者"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "未上市即获机构投资",
+      "scores": {
+        "tech": 60,
+        "growth": 60,
+        "team": 50,
+        "market": 70
+      },
+      "score": 60,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus AI",
+      "desc": "中国AI初创公司，曾被Meta以20亿美元收购但被中国监管机构阻止",
+      "track": "ai",
+      "stage": "b+",
+      "city": "unknown",
+      "tags": [
+        "AI",
+        "大模型",
+        "收购受阻"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "据报道Meta提出20亿美元收购，但被中国监管机构阻止",
+      "scores": {
+        "tech": 80,
+        "growth": 75,
+        "team": 50,
+        "market": 85
+      },
+      "score": 74,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 7,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "desc": "中国AI初创公司，专注于人工智能技术研发与应用",
+      "track": "ai",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "AI",
+        "大模型",
+        "被收购"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Meta拟以20亿美元收购，但被中国监管否决",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 50,
+        "market": 80
+      },
+      "score": 65,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 7,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "aluqos",
+      "name": "Aluqos",
+      "desc": "初创公司，提供产品展示与推广服务",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "产品发布",
+        "营销"
+      ],
+      "team": [],
+      "product": "https://www.aluqos.com/",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 30,
+        "growth": 40,
+        "team": 50,
+        "market": 50
+      },
+      "score": 41,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {
+          "website": "https://www.aluqos.com/",
+          "emails": [
+            "hello@aluqos.ai"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "birjob",
+      "name": "Birjob",
+      "desc": "通过网页抓取技术创建的求职平台",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "求职",
+        "网页抓取"
+      ],
+      "team": [
+        {
+          "name": "Ismat Samadov",
+          "role": "创始人",
           "bg": "未知"
         }
       ],
-      "product": "https://github.com/op7418/guizang-ppt-skill",
-      "founded": "2026-04",
-      "funding": "无",
+      "product": "",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 60,
-        "growth": 80,
-        "team": 50,
-        "market": 60
+        "tech": 40,
+        "growth": 30,
+        "team": 40,
+        "market": 50
       },
-      "score": 64,
+      "score": 39,
       "discoveredAt": "2026-04-27",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-27",
-        "website": {
-          "website": "https://github.com/op7418/guizang-ppt-skill",
-          "emails": [],
-          "socials": {
-            "twitter": "op7418",
-            "github": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}

@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 5,
+      "discussionCount": 6,
       "contacts": {
         "fetchedAt": "2026-04-27",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 5,
+      "discussionCount": 6,
       "contacts": {
         "fetchedAt": "2026-04-27",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 5,
+      "discussionCount": 6,
       "contacts": {
         "fetchedAt": "2026-04-27",
         "website": {
@@ -728,33 +728,32 @@
     {
       "id": "zhiwangweilai",
       "name": "智往未来",
-      "desc": "聚焦仓储物流场景的轮式双臂具身智能机器人公司",
+      "desc": "用轮式底盘+双臂机器人解决仓储物流中占人力成本60%的拿放动作",
       "track": "robotics",
       "stage": "seed",
       "city": "nanjing",
       "tags": [
         "具身智能",
-        "轮式机器人",
         "仓储物流",
-        "强化学习"
+        "轮式机器人"
       ],
       "team": [
         {
           "name": "孙浚凯",
           "role": "创始人",
-          "bg": "前地平线智能座舱产品线总经理"
+          "bg": "前地平线智能座舱产品线总经理，推动百万终端量产"
         }
       ],
       "product": "",
       "founded": "2025-11",
-      "funding": "中科南京软件技术研究院孵化，2025年底独立注册",
+      "funding": "",
       "scores": {
-        "tech": 75,
+        "tech": 60,
         "growth": 40,
-        "team": 80,
-        "market": 70
+        "team": 60,
+        "market": 55
       },
-      "score": 64,
+      "score": 53,
       "discoveredAt": "2026-04-27",
       "discussionCount": 1,
       "contacts": {
@@ -766,16 +765,16 @@
       }
     },
     {
-      "id": "pokerobot",
+      "id": "pokejiqi",
       "name": "破壳机器人",
-      "desc": "专注家庭场景的具身智能机器人初创公司",
+      "desc": "由清华教授许华哲创办，致力于两年内做出可用的家庭机器人",
       "track": "robotics",
-      "stage": "idea",
+      "stage": "seed",
       "city": "beijing",
       "tags": [
-        "家庭机器人",
         "具身智能",
-        "清华大学"
+        "家庭机器人",
+        "创始人学术背景"
       ],
       "team": [
         {
@@ -786,14 +785,47 @@
       ],
       "product": "",
       "founded": "2026-01",
-      "funding": "未披露",
+      "funding": "",
       "scores": {
         "tech": 70,
         "growth": 30,
-        "team": 85,
-        "market": 75
+        "team": 70,
+        "market": 60
       },
-      "score": 62,
+      "score": 56,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "sereact",
+      "name": "Sereact",
+      "desc": "德国机器人软件公司，开发AI模型使机器人适应不同任务",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "机器人软件",
+        "AI",
+        "德国"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "B轮1.1亿美元融资，由Headline领投",
+      "scores": {
+        "tech": 60,
+        "growth": 60,
+        "team": 50,
+        "market": 55
+      },
+      "score": 57,
       "discoveredAt": "2026-04-27",
       "discussionCount": 1,
       "contacts": {
@@ -807,29 +839,29 @@
     {
       "id": "xieyuezhineng",
       "name": "杭州斜跃智能科技有限公司",
-      "desc": "聚焦家庭具身智能机器人，由理想汽车前AI首席科学家陈伟等创立，首轮融资获元璟资本和理想汽车联合投资。",
+      "desc": "由理想汽车前高管创立，专注于家庭具身智能机器人研发与产品化",
       "track": "robotics",
       "stage": "seed",
       "city": "hangzhou",
       "tags": [
         "具身智能",
         "家庭机器人",
-        "人工智能"
+        "理想系创业"
       ],
       "team": [
         {
           "name": "陈伟",
           "role": "创始人",
-          "bg": "前理想汽车AI首席科学家，曾任基座模型部门负责人，主导理想同学及VLA模型研发"
+          "bg": "前理想汽车AI首席科学家"
         },
         {
           "name": "张骁",
           "role": "创始人",
-          "bg": "前理想汽车产品线总裁，主导理想ONE、L9等产品定义与落地"
+          "bg": "前理想汽车产品线总裁"
         }
       ],
-      "product": "",
-      "founded": "2026-04",
+      "product": null,
+      "founded": "2026-01",
       "funding": "首轮融资由元璟资本和理想汽车联合投资，金额未披露",
       "scores": {
         "tech": 85,
@@ -849,70 +881,216 @@
       }
     },
     {
-      "id": "guizang-ppt-skill",
-      "name": "guizang-ppt-skill",
-      "desc": "将提示词转换为水平滑动杂志式HTML幻灯片的Claude Code Skill",
+      "id": "ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "desc": "由DeepMind前研究员David Silver创立，开发无需人类数据即可学习的AI系统",
       "track": "ai",
-      "stage": "idea",
-      "city": "other",
+      "stage": "seed",
+      "city": "overseas",
       "tags": [
-        "AI工具",
-        "PPT生成",
-        "开源"
+        "强化学习",
+        "AI基础模型",
+        "大额融资"
       ],
       "team": [
         {
-          "name": "op7418",
-          "role": "创建者",
+          "name": "David Silver",
+          "role": "创始人兼CEO",
+          "bg": "前DeepMind首席科学家，强化学习之父"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "2026年4月获11亿美元融资，估值51亿美元",
+      "scores": {
+        "tech": 95,
+        "growth": 90,
+        "team": 98,
+        "market": 85
+      },
+      "score": 92,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "skye",
+      "name": "Skye / Signull Labs",
+      "desc": "开发AI主屏应用，替代传统iPhone主屏界面",
+      "track": "consumer",
+      "stage": "pre-seed",
+      "city": "overseas",
+      "tags": [
+        "AI应用",
+        "智能手机",
+        "消费者"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "未上市即获机构投资",
+      "scores": {
+        "tech": 60,
+        "growth": 60,
+        "team": 50,
+        "market": 70
+      },
+      "score": 60,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus AI",
+      "desc": "中国AI初创公司，曾被Meta以20亿美元收购但被中国监管机构阻止",
+      "track": "ai",
+      "stage": "b+",
+      "city": "unknown",
+      "tags": [
+        "AI",
+        "大模型",
+        "收购受阻"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "据报道Meta提出20亿美元收购，但被中国监管机构阻止",
+      "scores": {
+        "tech": 80,
+        "growth": 75,
+        "team": 50,
+        "market": 85
+      },
+      "score": 74,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 7,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "desc": "中国AI初创公司，专注于人工智能技术研发与应用",
+      "track": "ai",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "AI",
+        "大模型",
+        "被收购"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Meta拟以20亿美元收购，但被中国监管否决",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 50,
+        "market": 80
+      },
+      "score": 65,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 7,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "aluqos",
+      "name": "Aluqos",
+      "desc": "初创公司，提供产品展示与推广服务",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "产品发布",
+        "营销"
+      ],
+      "team": [],
+      "product": "https://www.aluqos.com/",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 30,
+        "growth": 40,
+        "team": 50,
+        "market": 50
+      },
+      "score": 41,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-27",
+        "website": {
+          "website": "https://www.aluqos.com/",
+          "emails": [
+            "hello@aluqos.ai"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "birjob",
+      "name": "Birjob",
+      "desc": "通过网页抓取技术创建的求职平台",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "求职",
+        "网页抓取"
+      ],
+      "team": [
+        {
+          "name": "Ismat Samadov",
+          "role": "创始人",
           "bg": "未知"
         }
       ],
-      "product": "https://github.com/op7418/guizang-ppt-skill",
-      "founded": "2026-04",
-      "funding": "无",
+      "product": "",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 60,
-        "growth": 80,
-        "team": 50,
-        "market": 60
+        "tech": 40,
+        "growth": 30,
+        "team": 40,
+        "market": 50
       },
-      "score": 64,
+      "score": 39,
       "discoveredAt": "2026-04-27",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-27",
-        "website": {
-          "website": "https://github.com/op7418/guizang-ppt-skill",
-          "emails": [],
-          "socials": {
-            "twitter": "op7418",
-            "github": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -1616,31 +1794,9 @@
     {
       "source": "36氪",
       "sourceIcon": "36氪",
-      "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
-      "url": "https://36kr.com/p/3784957482523648?f=rss",
-      "snippet": "大公司新闻汇总，无初创公司细节。",
-      "date": "2026-04-27",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
-      "url": "https://36kr.com/p/3783828639571203?f=rss",
-      "snippet": "香港初创公司NEX Team Inc.的体感游戏机Nex Playground销量超过Xbox，2025年营收预计超1.5亿美元。",
-      "date": "2026-04-27",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
       "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
       "url": "https://36kr.com/p/3783824870317312?f=rss",
-      "snippet": "南京初创公司智往未来，聚焦仓储物流轮式双臂机器人，创始人孙浚凯前地平线产品负责人，2025年11月成立。",
+      "snippet": "智往未来2025年11月成立于南京，创始人孙浚凯前地平线产品负责人，聚焦仓储物流，用轮式底盘+双臂机器人死磕拿放动作。",
       "date": "2026-04-27",
       "likes": 0,
       "comments": 0,
@@ -1651,73 +1807,227 @@
       "sourceIcon": "36氪",
       "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
       "url": "https://36kr.com/p/3784365164322055?f=rss",
-      "snippet": "许华哲离开星海图后创办破壳机器人，聚焦家庭机器人领域。",
+      "snippet": "清华教授许华哲创办破壳机器人，专注于家庭场景的具身智能机器人。",
       "date": "2026-04-27",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "pokerobot"
+      "relatedProject": "pokejiqi"
     },
     {
       "source": "36氪",
       "sourceIcon": "36氪",
-      "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-      "url": "https://36kr.com/p/3784311487945735?f=rss",
-      "snippet": "新闻摘要，未涉及初创公司。",
+      "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
+      "url": "https://36kr.com/newsflashes/3785684261362951?f=rss",
+      "snippet": "德国机器人软件公司Sereact完成1.1亿美元B轮融资，用于开发使机器人更智能的AI模型。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "sereact"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "snippet": "Ineffable Intelligence获11亿美元融资，估值51亿",
       "date": "2026-04-27",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "ineffable-intelligence"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "url": "https://36kr.com/p/3782960065108996?f=rss",
-      "snippet": "佛山增广智能科技，2018年成立，磁悬浮输送系统。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-      "url": "https://36kr.com/p/3782901034785801?f=rss",
-      "snippet": "润芯微发布战略体系，提供芯片+操作系统+AI全栈方案。",
-      "date": "2026-04-26",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "多国央行集体甩卖黄金",
-      "url": "https://36kr.com/newsflashes/3784961769479172?f=rss",
-      "snippet": "阿塞拜疆国家石油基金出售黄金，各国央行减持。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "snippet": "Skye的AI主屏应用在发布前获投资者支持",
       "date": "2026-04-27",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "skye"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "中远海能：拟15.85亿元收购大连投资100%股权并吸收合并",
-      "url": "https://36kr.com/newsflashes/3784932638546953?f=rss",
-      "snippet": "中远海能收购大连投资股权，整合能源化工供应链。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "snippet": "分析师称OpenAI可能与联发科等合作造手机",
       "date": "2026-04-27",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "谷歌将在韩国新建人工智能园区，韩国总统府证实",
-      "url": "https://36kr.com/newsflashes/3784924206750979?f=rss",
-      "snippet": "谷歌与韩国政府合作在首尔建人工智能园区。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Spotify’s next frontier: Fitness content",
+      "url": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/",
+      "snippet": "Spotify增加健身内容，推出锻炼视频和歌单",
+      "date": "2026-04-27",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Capcom-licensed Monster Hunter Outlanders mobile game starts test in China on April 29",
+      "url": "https://technode.com/2026/04/27/capcom-licensed-monster-hunter-outlanders-mobile-game-starts-test-in-china-on-april-29/",
+      "snippet": "腾讯TiMi开发的《怪物猎人》手游4月29日测试",
+      "date": "2026-04-27",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "DeepSeek V4 becomes default model for OpenClaw",
+      "url": "https://technode.com/2026/04/27/deepseek-v4-becomes-default-model-for-openclaw/",
+      "snippet": "DeepSeek V4成为开源框架OpenClaw默认模型",
+      "date": "2026-04-27",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "deepseek"
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "DJI to launch Osmo Pocket 4 action camera series next week with 1-inch sensor",
+      "url": "https://technode.com/2026/04/10/dji-to-launch-osmo-pocket-4-action-camera-series-next-week-with-1-inch-sensor/",
+      "snippet": "大疆将于4月16日发布Osmo Pocket 4系列运动相机，标准版配备1英寸传感器，支持6K/60fps视频录制。",
+      "date": "2026-04-10",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China blocks Meta from acquiring AI startup Manus",
+      "url": "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
+      "snippet": "中国阻止Meta收购AI初创公司Manus，涉及国家安全审查。",
+      "date": "2026-04-27",
+      "likes": 5,
+      "comments": 0,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China blocks Meta from acquiring AI startup Manus",
+      "url": "https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus",
+      "snippet": "NPR报道中国阻止Meta收购AI初创公司Manus。",
+      "date": "2026-04-27",
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China blocks Meta's $2B acquisition of AI startup Manus",
+      "url": "https://www.bbc.co.uk/news/articles/cj0v0gr2yz7o",
+      "snippet": "BBC报道中国阻止Meta 20亿美元收购AI初创公司Manus。",
+      "date": "2026-04-27",
+      "likes": 6,
+      "comments": 0,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China orders Meta to unwind $2B buy of AI startup Manus",
+      "url": "https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/",
+      "snippet": "路透社报道中国命令Meta放弃对AI初创公司Manus的20亿美元收购。",
+      "date": "2026-04-27",
+      "likes": 5,
+      "comments": 0,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "snippet": "CNBC报道中国阻止Meta收购AI初创公司Manus，交易估值20亿美元。",
+      "date": "2026-04-27",
+      "likes": 265,
+      "comments": 168,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Meta's $2B Deal to Buy AI Startup Manus Blocked by China",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/04/27/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/",
+      "snippet": "福布斯报道中国阻止Meta 20亿美元收购AI初创公司Manus。",
+      "date": "2026-04-27",
+      "likes": 4,
+      "comments": 1,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Show HN: Launch Your Product. Get Seen Weekly",
+      "url": "https://news.ycombinator.com/item?id=47919716",
+      "snippet": "visit: https://www.scrolllaunch.com/ Comments URL: https://news.ycombinator.com/item?id=47919716 Points: 4 # Comments: 4",
+      "date": "2026-04-27",
+      "likes": 4,
+      "comments": 4,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "China blocks Meta's $2B purchase of AI startup Manus",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/china-blocks-foreign-acquisition-ai-082548254.html",
+      "snippet": "China blocks Meta's $2B purchase of AI startup Manus",
+      "date": "2026-04-27",
+      "likes": 7,
+      "comments": 0,
+      "relatedProject": "manus"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Roast My Startup: Aluqos",
+      "url": "https://www.aluqos.com/",
+      "snippet": "Article URL: https://www.aluqos.com/ Comments URL: https://news.ycombinator.com/item?id=47917628 Points: 1 # Comments: 1",
+      "date": "2026-04-27",
+      "likes": 1,
+      "comments": 1,
+      "relatedProject": "aluqos"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Show HN: Paper Millionaire – A Startup Stock Option Horror Roguelike",
+      "url": "https://paper-millionaire.pagey.site/",
+      "snippet": "Article URL: https://paper-millionaire.pagey.site/ Comments URL: https://news.ycombinator.com/item?id=47917521 Points: 7 # Comments: 0",
+      "date": "2026-04-27",
+      "likes": 7,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+      "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+      "snippet": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+      "date": "2026-04-27",
+      "likes": 47,
+      "comments": 7,
+      "relatedProject": null
+    },
+    {
+      "source": "微博",
+      "sourceIcon": "WB",
+      "title": "#国产开源大模型下载量破100亿次#",
+      "url": "https://s.weibo.com/weibo?q=%23国产开源大模型下载量破100亿次%23",
+      "snippet": "#国产开源大模型下载量破100亿次#",
       "date": "2026-04-27",
       "likes": 0,
       "comments": 0,
