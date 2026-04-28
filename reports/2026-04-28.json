@@ -1,4 +1,1324 @@
 {
+  "projects": [
+    {
+      "id": "zhiyongkaiwu",
+      "name": "智用开物",
+      "desc": "工业智能体及高价值应用公司，通过工业语义引擎降低AI落地门槛",
+      "track": "ai",
+      "stage": "angel",
+      "city": "guangzhou",
+      "tags": [
+        "工业智能体",
+        "工业语义引擎",
+        "AI落地",
+        "微软基因"
+      ],
+      "team": [
+        {
+          "name": "管震",
+          "role": "CEO",
+          "bg": "曾任微软中国首席技术顾问"
+        },
+        {
+          "name": "赵铭",
+          "role": "COO",
+          "bg": "曾任微软全球CTO办公室首席架构师"
+        },
+        {
+          "name": "张善友",
+          "role": "CTO",
+          "bg": "连续20届微软最有价值专家"
+        }
+      ],
+      "product": "",
+      "founded": "2024-01",
+      "funding": "完成近亿元天使+轮融资，老股东瑞枫资本领投，创享投资跟投，立讯精密家族办公室及高管战略投资",
+      "scores": {
+        "tech": 85,
+        "growth": 75,
+        "team": 90,
+        "market": 80
+      },
+      "score": 82,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "desc": "AI编程IDE，付费用户超100万，估值293亿美元",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI编程",
+        "代码生成",
+        "IDE",
+        "MIT辍学创业"
+      ],
+      "team": [
+        {
+          "name": "创始人",
+          "role": "创始人",
+          "bg": "四位MIT辍学生"
+        }
+      ],
+      "product": "https://cursor.com",
+      "founded": "2022-01",
+      "funding": "SpaceX获得以600亿美元收购选择权",
+      "scores": {
+        "tech": 90,
+        "growth": 95,
+        "team": 85,
+        "market": 90
+      },
+      "score": 90,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://cursor.com",
+          "emails": [],
+          "socials": {
+            "twitter": "cursor_ai",
+            "linkedin": "cursorai"
+          },
+          "careerPage": "https://cursor.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xieyue",
+      "name": "杭州斜跃智能科技有限公司",
+      "desc": "研发家庭具身智能机器人，将AI从数字世界延伸至物理世界。",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "hangzhou",
+      "tags": [
+        "具身智能",
+        "家庭机器人",
+        "大模型",
+        "AI硬件"
+      ],
+      "team": [
+        {
+          "name": "陈伟",
+          "role": "创始人",
+          "bg": "前理想汽车AI首席科学家，主导理想同学及VLA模型研发"
+        },
+        {
+          "name": "张骁",
+          "role": "创始人",
+          "bg": "前理想汽车产品线总裁，主导理想ONE和L9产品定义"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "首轮融资，元璟资本和理想汽车联合投资，金额未披露",
+      "scores": {
+        "tech": 70,
+        "growth": 30,
+        "team": 85,
+        "market": 70
+      },
+      "score": 61,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "anyuaixin",
+      "name": "安宇艾心（北京）医疗科技有限公司",
+      "desc": "专注于全光学超声介入成像系统研发，颠覆传统血管造影技术。",
+      "track": "biotech",
+      "stage": "a",
+      "city": "beijing",
+      "tags": [
+        "介入超声",
+        "全光学",
+        "医疗影像",
+        "器械创新"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2022-08",
+      "funding": "新一轮数千万人民币融资，北京市医药健康产业投资基金领投",
+      "scores": {
+        "tech": 80,
+        "growth": 40,
+        "team": 50,
+        "market": 70
+      },
+      "score": 60,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "snabbit",
+      "name": "Snabbit",
+      "desc": "India's on-demand household service platform, rapidly scaling.",
+      "track": "consumer",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "on-demand services",
+        "household help",
+        "india"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Seeking fresh funding at $400M valuation; crossed 1M jobs in March 2026.",
+      "scores": {
+        "tech": 30,
+        "growth": 80,
+        "team": 50,
+        "market": 70
+      },
+      "score": 57,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "pronto",
+      "name": "Pronto",
+      "desc": "India-based house-help startup scaling fast, backed by Lachy Groom.",
+      "track": "consumer",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "household services",
+        "india",
+        "fast-growing"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Raising at $200M valuation; previous valuation doubled in weeks.",
+      "scores": {
+        "tech": 30,
+        "growth": 80,
+        "team": 60,
+        "market": 70
+      },
+      "score": 59,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "alephalpha",
+      "name": "Aleph Alpha",
+      "desc": "German AI startup building enterprise AI systems, merging with Cohere.",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "enterprise AI",
+        "Germany",
+        "AI safety"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Merged with Cohere; prior funding details not provided.",
+      "scores": {
+        "tech": 85,
+        "growth": 60,
+        "team": 70,
+        "market": 75
+      },
+      "score": 72,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "desc": "AI social network built on iMessage, popular on college campuses.",
+      "track": "ai",
+      "stage": "pre-seed",
+      "city": "overseas",
+      "tags": [
+        "AI social",
+        "iMessage",
+        "college"
+      ],
+      "team": [
+        {
+          "name": "Founder 1",
+          "role": "Co-founder",
+          "bg": "College student"
+        },
+        {
+          "name": "Founder 2",
+          "role": "Co-founder",
+          "bg": "College student"
+        }
+      ],
+      "product": "",
+      "founded": "2025-04",
+      "funding": "$5.1M pre-seed from prominent investors.",
+      "scores": {
+        "tech": 60,
+        "growth": 70,
+        "team": 55,
+        "market": 60
+      },
+      "score": 62,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "comfyui",
+      "name": "ComfyUI",
+      "desc": "AI media generation tools giving creators control over images, video, audio.",
+      "track": "ai",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "AI creativity",
+        "image generation",
+        "video generation"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "$30M raised; $500M valuation.",
+      "scores": {
+        "tech": 80,
+        "growth": 75,
+        "team": 60,
+        "market": 80
+      },
+      "score": 74,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "desc": "Chinese AI lab releasing open-source large language models.",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "LLM",
+        "open-source",
+        "China"
+      ],
+      "team": [],
+      "product": "https://deepseek.com",
+      "founded": "2023-05",
+      "funding": "Not disclosed; well-funded by Chinese investors.",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 80,
+        "market": 80
+      },
+      "score": 84,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 6,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://deepseek.com",
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "QRCodeImageLink"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "深度求索（DeepSeek）",
+      "desc": "中国AI大模型初创公司，专注于基础模型研发，即将发布DeepSeek V4。",
+      "track": "ai",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "大模型",
+        "AI",
+        "开源"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-05",
+      "funding": "未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 80,
+        "team": 50,
+        "market": 75
+      },
+      "score": 74,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 6,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "buildhop",
+      "name": "BuildHop",
+      "desc": "StumbleUpon-like platform for startup landing pages",
+      "track": "saas",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "startup discovery",
+        "landing pages",
+        "random discovery"
+      ],
+      "team": [],
+      "product": "https://buildhop.io",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 2,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://buildhop.io",
+          "emails": [],
+          "socials": {
+            "twitter": "tinytechfox"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek AI",
+      "desc": "专注于AI大模型研发与开源，推出TileKernels内核库",
+      "track": "ai",
+      "stage": "b+",
+      "city": "hangzhou",
+      "tags": [
+        "大模型",
+        "开源",
+        "内核"
+      ],
+      "team": [],
+      "product": "https://github.com/deepseek-ai/TileKernels",
+      "founded": "2023-05",
+      "funding": "多轮融资，估值超百亿美元",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 85,
+        "market": 95
+      },
+      "score": 87,
+      "discoveredAt": "2026-04-25",
+      "discussionCount": 6,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://github.com/deepseek-ai/TileKernels",
+          "emails": [],
+          "socials": {
+            "github": "github",
+            "twitter": "github",
+            "linkedin": "github"
+          },
+          "careerPage": "https://github.com/careers",
+          "jobListings": [
+            "Taylor, Engineering",
+            "Developer API",
+            "Product",
+            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+            "var videoData;",
+            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+            "for (var answer of videoWidgetData.answers) {",
+            "videoData = answer;",
+            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+            "window._jibe.models.jobs.paramsImpression.paramsData;",
+            "Candidate Data Privacy",
+            "Write better code with AI",
+            "var xmlRiskyhttp = new XMLHttpRequest();",
+            "var xmlSafehttp = new XMLHttpRequest();",
+            "newText.innerHTML = '';",
+            "window.useHTML4 = true;"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nuvacore",
+      "name": "Nuvacore",
+      "desc": "由Qualcomm、Apple和Nuvia校友创立的CPU初创公司，旨在重新定义硅片设计规则。",
+      "track": "semiconductor",
+      "stage": "pre-seed",
+      "city": "overseas",
+      "tags": [
+        "CPU",
+        "半导体",
+        "芯片设计"
+      ],
+      "team": [
+        {
+          "name": "未公开",
+          "role": "创始人",
+          "bg": "Qualcomm、Apple、Nuvia校友"
+        }
+      ],
+      "product": "",
+      "founded": "2026-04",
+      "funding": "未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 30,
+        "team": 90,
+        "market": 70
+      },
+      "score": 66,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 2,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "quickswms",
+      "name": "QuickSWMS",
+      "desc": "AI生成澳大利亚建筑安全文档的工具",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "construction",
+        "safety",
+        "document generation",
+        "ai"
+      ],
+      "team": [],
+      "product": "https://quickswms.co",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://quickswms.co",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fragment",
+      "name": "Fragment",
+      "desc": "YC支持的AI初创公司，被Sierra收购",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "ai",
+        "ycombinator",
+        "acquired"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "被Sierra收购",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "delve",
+      "name": "Delve",
+      "desc": "Troubled startup suffered a big security incident affecting a customer.",
+      "track": "other",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "security",
+        "incident"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "exe-dev",
+      "name": "Exe.dev",
+      "desc": "Developer tools startup raised $35M in Series A funding.",
+      "track": "saas",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "developer tools",
+        "funding"
+      ],
+      "team": [],
+      "product": "https://exe.dev",
+      "founded": "",
+      "funding": "Series A: $35M",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-26",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://exe.dev",
+          "emails": [
+            "support@exe.dev"
+          ],
+          "socials": {
+            "twitter": "ssh_exe_dev",
+            "linkedin": "crawshaw"
+          },
+          "careerPage": "https://exe.dev/jobs",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "zhiwangweilai",
+      "name": "智往未来",
+      "desc": "用轮式底盘+双臂机器人解决仓储物流中占人力成本60%的拿放动作",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "nanjing",
+      "tags": [
+        "具身智能",
+        "仓储物流",
+        "轮式机器人"
+      ],
+      "team": [
+        {
+          "name": "孙浚凯",
+          "role": "创始人",
+          "bg": "前地平线智能座舱产品线总经理，推动百万终端量产"
+        }
+      ],
+      "product": "",
+      "founded": "2025-11",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 40,
+        "team": 60,
+        "market": 55
+      },
+      "score": 53,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "pokejiqi",
+      "name": "破壳机器人",
+      "desc": "由清华教授许华哲创办，致力于两年内做出可用的家庭机器人",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "家庭机器人",
+        "创始人学术背景"
+      ],
+      "team": [
+        {
+          "name": "许华哲",
+          "role": "创始人",
+          "bg": "清华大学交叉信息研究院助理教授，前星海图联合创始人"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "",
+      "scores": {
+        "tech": 70,
+        "growth": 30,
+        "team": 70,
+        "market": 60
+      },
+      "score": 56,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "sereact",
+      "name": "Sereact",
+      "desc": "德国机器人软件公司，开发AI模型使机器人适应不同任务",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "机器人软件",
+        "AI",
+        "德国"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "B轮1.1亿美元融资，由Headline领投",
+      "scores": {
+        "tech": 60,
+        "growth": 60,
+        "team": 50,
+        "market": 55
+      },
+      "score": 57,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xieyuezhineng",
+      "name": "杭州斜跃智能科技有限公司",
+      "desc": "由理想汽车前高管创立，专注于家庭具身智能机器人研发与产品化",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "hangzhou",
+      "tags": [
+        "具身智能",
+        "家庭机器人",
+        "理想系创业"
+      ],
+      "team": [
+        {
+          "name": "陈伟",
+          "role": "创始人",
+          "bg": "前理想汽车AI首席科学家"
+        },
+        {
+          "name": "张骁",
+          "role": "创始人",
+          "bg": "前理想汽车产品线总裁"
+        }
+      ],
+      "product": null,
+      "founded": "2026-01",
+      "funding": "首轮融资由元璟资本和理想汽车联合投资，金额未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 60,
+        "team": 90,
+        "market": 80
+      },
+      "score": 78,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "desc": "由DeepMind前研究员David Silver创立，开发无需人类数据即可学习的AI系统",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "强化学习",
+        "AI基础模型",
+        "大额融资"
+      ],
+      "team": [
+        {
+          "name": "David Silver",
+          "role": "创始人兼CEO",
+          "bg": "前DeepMind首席科学家，强化学习之父"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "2026年4月获11亿美元融资，估值51亿美元",
+      "scores": {
+        "tech": 95,
+        "growth": 90,
+        "team": 98,
+        "market": 85
+      },
+      "score": 92,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "skye",
+      "name": "Skye / Signull Labs",
+      "desc": "开发AI主屏应用，替代传统iPhone主屏界面",
+      "track": "consumer",
+      "stage": "pre-seed",
+      "city": "overseas",
+      "tags": [
+        "AI应用",
+        "智能手机",
+        "消费者"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "未上市即获机构投资",
+      "scores": {
+        "tech": 60,
+        "growth": 60,
+        "team": 50,
+        "market": 70
+      },
+      "score": 60,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus AI",
+      "desc": "中国AI初创公司，曾被Meta以20亿美元收购但被中国监管机构阻止",
+      "track": "ai",
+      "stage": "b+",
+      "city": "unknown",
+      "tags": [
+        "AI",
+        "大模型",
+        "收购受阻"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "据报道Meta提出20亿美元收购，但被中国监管机构阻止",
+      "scores": {
+        "tech": 80,
+        "growth": 75,
+        "team": 50,
+        "market": 85
+      },
+      "score": 74,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 8,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "desc": "中国AI初创公司，专注于人工智能技术研发与应用",
+      "track": "ai",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "AI",
+        "大模型",
+        "被收购"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "Meta拟以20亿美元收购，但被中国监管否决",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 50,
+        "market": 80
+      },
+      "score": 65,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 8,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "aluqos",
+      "name": "Aluqos",
+      "desc": "初创公司，提供产品展示与推广服务",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "产品发布",
+        "营销"
+      ],
+      "team": [],
+      "product": "https://www.aluqos.com/",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 30,
+        "growth": 40,
+        "team": 50,
+        "market": 50
+      },
+      "score": 41,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://www.aluqos.com/",
+          "emails": [
+            "hello@aluqos.ai"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "birjob",
+      "name": "Birjob",
+      "desc": "通过网页抓取技术创建的求职平台",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "求职",
+        "网页抓取"
+      ],
+      "team": [
+        {
+          "name": "Ismat Samadov",
+          "role": "创始人",
+          "bg": "未知"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 40,
+        "growth": 30,
+        "team": 40,
+        "market": 50
+      },
+      "score": 39,
+      "discoveredAt": "2026-04-27",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "shengshiweisheng",
+      "name": "昇视唯盛",
+      "desc": "专注于焊接垂直场景的具身智能机器人公司",
+      "track": "robotics",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "焊接机器人",
+        "具身智能",
+        "工业自动化"
+      ],
+      "team": [
+        {
+          "name": "王德钊",
+          "role": "创始人",
+          "bg": "机器人及自动化领域十余年产业经验"
+        }
+      ],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "数千万元A+轮融资，由韩国现代、微光创投联合投资",
+      "scores": {
+        "tech": 75,
+        "growth": 80,
+        "team": 70,
+        "market": 65
+      },
+      "score": 74,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xingjihudong",
+      "name": "星迹互动",
+      "desc": "以AI为核心的数字科技文娱公司，专注IP开发与运营",
+      "track": "ai",
+      "stage": "angel",
+      "city": "other",
+      "tags": [
+        "AI IP",
+        "数字人",
+        "文娱"
+      ],
+      "team": [
+        {
+          "name": "张文广",
+          "role": "创始人",
+          "bg": "连续创业者，二更联合创始人、微梦传媒高级副总裁"
+        }
+      ],
+      "product": "",
+      "founded": "2025-01",
+      "funding": "数千万元天使轮融资，投资方包括正大集团、北京大融文化传媒等",
+      "scores": {
+        "tech": 60,
+        "growth": 75,
+        "team": 80,
+        "market": 70
+      },
+      "score": 70,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xunmingshengke",
+      "name": "寻明生科 (Aureka Biotechnologies)",
+      "desc": "生成式抗体药物研发平台，智能体驱动的生物技术公司",
+      "track": "biotech",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "抗体药物",
+        "AI制药",
+        "智能体"
+      ],
+      "team": [
+        {
+          "name": "赵伟安",
+          "role": "创始人兼CEO",
+          "bg": "未详述"
+        }
+      ],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "3500万美元A+轮融资，红杉中国领投，累计近1亿美元",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 65,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "aihuashen",
+      "name": "爱化身科技（北京）有限公司",
+      "desc": "面向超大型企业构建企业级AGI能力体系的一体化智能体平台",
+      "track": "ai",
+      "stage": "seed",
+      "city": "beijing",
+      "tags": [
+        "企业级AGI",
+        "智能体平台",
+        "世界行为模型"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 55,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "kargobot",
+      "name": "卡尔动力",
+      "desc": "L4自动驾驶货运企业，发布KargoBot Inside战略，推动L4货运进入万台时代",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "自动驾驶",
+        "干线物流",
+        "L4"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 80
+      },
+      "score": 71,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "memorax",
+      "name": "深圳忆纪元科技有限公司",
+      "desc": "大模型个性化记忆赛道技术革新引领者，自主研发Agentic RL核心技术",
+      "track": "ai",
+      "stage": "seed",
+      "city": "shenzhen",
+      "tags": [
+        "大模型记忆",
+        "Agentic RL",
+        "个性化"
+      ],
+      "team": [
+        {
+          "name": "郝建业",
+          "role": "创始人",
+          "bg": "天津大学教授、全球前2%科学家"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "千万美金种子轮融资",
+      "scores": {
+        "tech": 85,
+        "growth": 30,
+        "team": 80,
+        "market": 70
+      },
+      "score": 64,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    }
+  ],
   "discussions": [
     {
       "source": "36氪",
