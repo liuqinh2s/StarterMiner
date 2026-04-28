@@ -150,9 +150,7 @@
       "website": {
         "website": "https://buildhop.io",
         "emails": [],
-        "socials": {
-          "twitter": "tinytechfox"
-        },
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
@@ -394,6 +392,17 @@
     }
   },
   {
+    "id": "yuanqizhihui",
+    "name": "缘启智慧",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "shengshiweisheng",
     "name": "昇视唯盛",
     "contacts": {
@@ -417,7 +426,7 @@
   },
   {
     "id": "xunmingshengke",
-    "name": "寻明生科 (Aureka Biotechnologies)",
+    "name": "寻明生科",
     "contacts": {
       "fetchedAt": "2026-04-28",
       "website": {},
@@ -427,7 +436,35 @@
     }
   },
   {
-    "id": "aihuashen",
+    "id": "star-trail",
+    "name": "星迹互动",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati-ai",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ahs",
     "name": "爱化身科技（北京）有限公司",
     "contacts": {
       "fetchedAt": "2026-04-28",
@@ -449,8 +486,150 @@
     }
   },
   {
-    "id": "memorax",
+    "id": "memorax-ai",
     "name": "深圳忆纪元科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zibianliang",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anuttacon",
+    "name": "Anuttacon",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://anuttacon.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "eightsleep",
+    "name": "Eight Sleep",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://eightsleep.com",
+        "emails": [
+          "support@eightsleep.com",
+          "contacto@albaestudio.com",
+          "support@truemed.com",
+          "team@truemed.com"
+        ],
+        "socials": {
+          "twitter": "tryjasononline"
+        },
+        "careerPage": "https://eightsleep.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "meshy",
+    "name": "Meshy",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://meshy.ai",
+        "emails": [
+          "support@meshy.ai",
+          "name@domain.com",
+          "u003eeducation@meshy.ai"
+        ],
+        "socials": {
+          "twitter": "MeshyAI",
+          "linkedin": "meshyai"
+        },
+        "careerPage": "https://meshy.ai/zh/careers",
+        "jobListings": [
+          "职业 - Meshy AIif (\"serviceWorker\" in navigator) {"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "kimi",
+    "name": "月之暗面",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "goldenchild",
+    "name": "Golden Child",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ideavalu",
+    "name": "Ideavalu",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://www.ideavalu.com",
+        "emails": [
+          "sotta.san17@gmail.com",
+          "info@ideavalu.com"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pocketos",
+    "name": "PocketOS",
     "contacts": {
       "fetchedAt": "2026-04-28",
       "website": {},

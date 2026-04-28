@@ -81,7 +81,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {
@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 6,
+      "discussionCount": 9,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 6,
+      "discussionCount": 9,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {},
@@ -463,9 +463,7 @@
         "website": {
           "website": "https://buildhop.io",
           "emails": [],
-          "socials": {
-            "twitter": "tinytechfox"
-          },
+          "socials": {},
           "careerPage": null,
           "jobListings": []
         },
@@ -498,7 +496,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 6,
+      "discussionCount": 9,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {
@@ -568,7 +566,7 @@
       },
       "score": 66,
       "discoveredAt": "2026-04-26",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {},
@@ -976,7 +974,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 8,
+      "discussionCount": 7,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {},
@@ -1009,7 +1007,7 @@
       },
       "score": 65,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 8,
+      "discussionCount": 7,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {},
@@ -1097,36 +1095,76 @@
       }
     },
     {
+      "id": "yuanqizhihui",
+      "name": "缘启智慧",
+      "desc": "AI医疗大模型创业公司，专注于智能诊断与医疗AI应用",
+      "track": "ai",
+      "stage": "seed",
+      "city": "beijing",
+      "tags": [
+        "AI医疗",
+        "大模型",
+        "医疗AI"
+      ],
+      "team": [
+        {
+          "name": "邓江",
+          "role": "创始人兼CEO",
+          "bg": "前百川智能商业化合伙人，20年银行系统后端开发经验"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 70,
+        "market": 70
+      },
+      "score": 64,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
       "id": "shengshiweisheng",
       "name": "昇视唯盛",
-      "desc": "专注于焊接垂直场景的具身智能机器人公司",
+      "desc": "具身智能焊接机器人公司，拥有AI算法、焊接工艺与机器人本体全栈能力",
       "track": "robotics",
-      "stage": "a",
-      "city": "other",
+      "stage": "a+",
+      "city": "shanghai",
       "tags": [
         "焊接机器人",
         "具身智能",
-        "工业自动化"
+        "工业自动化",
+        "AI"
       ],
       "team": [
         {
           "name": "王德钊",
           "role": "创始人",
-          "bg": "机器人及自动化领域十余年产业经验"
+          "bg": "哈尔滨工业大学出身，十余年机器人及自动化产业经验"
         }
       ],
       "product": "",
       "founded": "2020-01",
-      "funding": "数千万元A+轮融资，由韩国现代、微光创投联合投资",
+      "funding": "数千万元A+轮融资，投资方为韩国现代、微光创投",
       "scores": {
-        "tech": 75,
-        "growth": 80,
-        "team": 70,
-        "market": 65
+        "tech": 85,
+        "growth": 70,
+        "team": 80,
+        "market": 80
       },
-      "score": 74,
+      "score": 78,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-28",
         "website": {},
@@ -1138,32 +1176,106 @@
     {
       "id": "xingjihudong",
       "name": "星迹互动",
-      "desc": "以AI为核心的数字科技文娱公司，专注IP开发与运营",
+      "desc": "以AI驱动精品IP开发与运营，涵盖数字人、漫剧、动画等",
       "track": "ai",
       "stage": "angel",
-      "city": "other",
+      "city": "beijing",
       "tags": [
         "AI IP",
         "数字人",
-        "文娱"
+        "动漫",
+        "文娱科技"
       ],
       "team": [
         {
           "name": "张文广",
           "role": "创始人",
-          "bg": "连续创业者，二更联合创始人、微梦传媒高级副总裁"
+          "bg": "连续创业者，前二更联合创始人、微梦传媒高级副总裁"
         }
       ],
       "product": "",
       "founded": "2025-01",
-      "funding": "数千万元天使轮融资，投资方包括正大集团、北京大融文化传媒等",
+      "funding": "数千万元天使轮融资，投资方为正大集团、北京大融文化传媒、禹牧智能、麦迈科技",
       "scores": {
         "tech": 60,
+        "growth": 65,
+        "team": 75,
+        "market": 60
+      },
+      "score": 64,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xunmingshengke",
+      "name": "寻明生科",
+      "desc": "AI制药公司，开发生成式抗体药物设计平台，首个抗体药即将临床",
+      "track": "biotech",
+      "stage": "a+",
+      "city": "shanghai",
+      "tags": [
+        "AI制药",
+        "抗体药物",
+        "生成式AI",
+        "生物技术"
+      ],
+      "team": [
+        {
+          "name": "赵伟安",
+          "role": "创始人兼CEO",
+          "bg": "AI制药领域专家，具有深厚的技术及产业背景"
+        }
+      ],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "3500万美元A+轮融资，红杉中国领投，经纬创投、博远资本跟投；A轮累计近1亿美元",
+      "scores": {
+        "tech": 90,
         "growth": 75,
-        "team": 80,
+        "team": 85,
+        "market": 85
+      },
+      "score": 84,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "star-trail",
+      "name": "星迹互动",
+      "desc": "AI原生的IP全链路开发与运营公司，激活存量IP并创造新IP",
+      "track": "ai",
+      "stage": "angel",
+      "city": "other",
+      "tags": [
+        "AI",
+        "IP开发",
+        "内容生成"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "天使轮数千万人民币，正大集团、大融传媒等投资",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
         "market": 70
       },
-      "score": 70,
+      "score": 54,
       "discoveredAt": "2026-04-28",
       "discussionCount": 1,
       "contacts": {
@@ -1175,31 +1287,211 @@
       }
     },
     {
-      "id": "xunmingshengke",
-      "name": "寻明生科 (Aureka Biotechnologies)",
-      "desc": "生成式抗体药物研发平台，智能体驱动的生物技术公司",
-      "track": "biotech",
-      "stage": "a",
-      "city": "other",
+      "id": "creati-ai",
+      "name": "Creati.ai",
+      "desc": "海外AI创意引擎，专注电商与社交媒体营销",
+      "track": "ai",
+      "stage": "pre-a",
+      "city": "overseas",
       "tags": [
-        "抗体药物",
-        "AI制药",
-        "智能体"
+        "AI视频",
+        "电商营销",
+        "社交媒体",
+        "Buzzy"
+      ],
+      "team": [],
+      "product": "https://www.buzzy.now",
+      "founded": "",
+      "funding": "新一轮融资超2000万美元，Redpoint、创世伙伴创投等投资",
+      "scores": {
+        "tech": 75,
+        "growth": 80,
+        "team": 70,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://www.buzzy.now",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ahs",
+      "name": "爱化身科技（北京）有限公司",
+      "desc": "企业级AGI技术公司，提供一体化智能体平台",
+      "track": "ai",
+      "stage": "pre-a",
+      "city": "beijing",
+      "tags": [
+        "企业级AGI",
+        "智能体",
+        "世界行为模型"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 80,
+        "growth": 50,
+        "team": 60,
+        "market": 70
+      },
+      "score": 65,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "kargobot",
+      "name": "卡尔动力",
+      "desc": "L4自动驾驶货运公司，发布KargoBot Inside战略",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "自动驾驶",
+        "货运",
+        "L4",
+        "KargoBot"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 85,
+        "growth": 80,
+        "team": 70,
+        "market": 85
+      },
+      "score": 80,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "memorax-ai",
+      "name": "深圳忆纪元科技有限公司",
+      "desc": "大模型个性化记忆技术引领者，自主研发Agentic RL架构",
+      "track": "ai",
+      "stage": "seed",
+      "city": "shenzhen",
+      "tags": [
+        "大模型记忆",
+        "Agentic RL",
+        "个性化",
+        "知识管理"
       ],
       "team": [
         {
-          "name": "赵伟安",
-          "role": "创始人兼CEO",
-          "bg": "未详述"
+          "name": "郝建业",
+          "role": "创始人",
+          "bg": "天津大学菁英教授，国家优青，全球前2%科学家，ICML/NeurIPS/ICLR顶会产出全球前十"
         }
       ],
       "product": "",
-      "founded": "2023-01",
-      "funding": "3500万美元A+轮融资，红杉中国领投，累计近1亿美元",
+      "founded": "2026-03",
+      "funding": "千万美金种子轮，钟鼎资本领投",
+      "scores": {
+        "tech": 90,
+        "growth": 60,
+        "team": 85,
+        "market": 75
+      },
+      "score": 77,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "zibianliang",
+      "name": "自变量机器人",
+      "desc": "具身智能机器人公司，研发通用机器人大脑基础模型",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "通用AI"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "创始人&CEO",
+          "bg": "具身智能领域专家"
+        }
+      ],
+      "product": "",
+      "founded": "2023-10",
+      "funding": "已完成B轮融资，投资方包括小米战投、美团、阿里、字节等",
       "scores": {
         "tech": 85,
+        "growth": 80,
+        "team": 80,
+        "market": 85
+      },
+      "score": 82,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "desc": "通用大模型研发商，打造多模态AI应用，与恒星引力合作AI内容",
+      "track": "ai",
+      "stage": "b+",
+      "city": "shanghai",
+      "tags": [
+        "大模型",
+        "AI视频",
+        "内容合作"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2021-12",
+      "funding": "",
+      "scores": {
+        "tech": 80,
         "growth": 70,
-        "team": 65,
+        "team": 75,
         "market": 80
       },
       "score": 76,
@@ -1214,28 +1506,225 @@
       }
     },
     {
-      "id": "aihuashen",
-      "name": "爱化身科技（北京）有限公司",
-      "desc": "面向超大型企业构建企业级AGI能力体系的一体化智能体平台",
+      "id": "anuttacon",
+      "name": "Anuttacon",
+      "desc": "打造让虚拟角色‘活起来’的AI表演引擎",
       "track": "ai",
       "stage": "seed",
+      "city": "other",
+      "tags": [
+        "AI视频生成",
+        "游戏引擎",
+        "虚拟角色"
+      ],
+      "team": [
+        {
+          "name": "蔡浩宇",
+          "role": "创始人",
+          "bg": "米哈游创始人，原米哈游董事长"
+        }
+      ],
+      "product": "https://anuttacon.ai",
+      "founded": "2024-07",
+      "funding": "未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 60,
+        "team": 90,
+        "market": 80
+      },
+      "score": 78,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://anuttacon.ai",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "eightsleep",
+      "name": "Eight Sleep",
+      "desc": "智能床垫品牌，通过温度控制实现主动睡眠干预",
+      "track": "consumer",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "智能睡眠",
+        "健康科技",
+        "温度控制"
+      ],
+      "team": [
+        {
+          "name": "Matteo Franceschetti",
+          "role": "创始人",
+          "bg": "律师、金融从业者、业余运动员"
+        }
+      ],
+      "product": "https://eightsleep.com",
+      "founded": "2014-01",
+      "funding": "估值15亿美元",
+      "scores": {
+        "tech": 70,
+        "growth": 80,
+        "team": 70,
+        "market": 70
+      },
+      "score": 73,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://eightsleep.com",
+          "emails": [
+            "support@eightsleep.com",
+            "contacto@albaestudio.com",
+            "support@truemed.com",
+            "team@truemed.com"
+          ],
+          "socials": {
+            "twitter": "tryjasononline"
+          },
+          "careerPage": "https://eightsleep.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "meshy",
+      "name": "Meshy",
+      "desc": "生成式3D AI平台，ARR超4000万美元",
+      "track": "ai",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "3D生成",
+        "AI建模",
+        "游戏资产"
+      ],
+      "team": [
+        {
+          "name": "胡渊鸣",
+          "role": "创始人",
+          "bg": "清华姚班、MIT博士、Taichi语言作者"
+        }
+      ],
+      "product": "https://meshy.ai",
+      "founded": "2023-03",
+      "funding": "ARR超4000万美元",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 90,
+        "market": 85
+      },
+      "score": 88,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://meshy.ai",
+          "emails": [
+            "support@meshy.ai",
+            "name@domain.com",
+            "u003eeducation@meshy.ai"
+          ],
+          "socials": {
+            "twitter": "MeshyAI",
+            "linkedin": "meshyai"
+          },
+          "careerPage": "https://meshy.ai/zh/careers",
+          "jobListings": [
+            "职业 - Meshy AIif (\"serviceWorker\" in navigator) {"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "kimi",
+      "name": "月之暗面",
+      "desc": "AI大模型公司，发布开源模型Kimi K2.6，Agent能力领先",
+      "track": "ai",
+      "stage": "b+",
       "city": "beijing",
       "tags": [
-        "企业级AGI",
-        "智能体平台",
-        "世界行为模型"
+        "大模型",
+        "开源",
+        "Agent",
+        "Kimi"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "杨植麟",
+          "role": "CEO",
+          "bg": "前旷视科技研究员"
+        }
+      ],
       "product": "",
-      "founded": "",
-      "funding": "",
+      "founded": "2023-04",
+      "funding": "多轮融资，估值超30亿美元",
       "scores": {
-        "tech": 60,
+        "tech": 85,
+        "growth": 70,
+        "team": 80,
+        "market": 70
+      },
+      "score": 76,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 2,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "goldenchild",
+      "name": "Golden Child",
+      "desc": "高端狗粮品牌，主打鲜食和浇头，融资3700万美元",
+      "track": "consumer",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "宠物",
+        "消费",
+        "高端"
+      ],
+      "team": [
+        {
+          "name": "未知",
+          "role": "创始人",
+          "bg": ""
+        }
+      ],
+      "product": "",
+      "founded": "2025-01",
+      "funding": "3700万美元种子轮",
+      "scores": {
+        "tech": 50,
         "growth": 50,
         "team": 50,
         "market": 60
       },
-      "score": 55,
+      "score": 52,
       "discoveredAt": "2026-04-28",
       "discussionCount": 1,
       "contacts": {
@@ -1247,67 +1736,69 @@
       }
     },
     {
-      "id": "kargobot",
-      "name": "卡尔动力",
-      "desc": "L4自动驾驶货运企业，发布KargoBot Inside战略，推动L4货运进入万台时代",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "beijing",
+      "id": "ideavalu",
+      "name": "Ideavalu",
+      "desc": "AI驱动的创业点子生成平台",
+      "track": "ai",
+      "stage": "pre-seed",
+      "city": "overseas",
       "tags": [
-        "自动驾驶",
-        "干线物流",
-        "L4"
+        "AI",
+        "创业点子",
+        "生成"
+      ],
+      "team": [],
+      "product": "https://www.ideavalu.com",
+      "founded": "2025-01",
+      "funding": "未披露",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-04-28",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-28",
+        "website": {
+          "website": "https://www.ideavalu.com",
+          "emails": [
+            "sotta.san17@gmail.com",
+            "info@ideavalu.com"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "pocketos",
+      "name": "PocketOS",
+      "desc": "初创公司，因Cursor-Opus agent导致生产数据库事故",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "事故",
+        "数据库"
       ],
       "team": [],
       "product": "",
-      "founded": "",
-      "funding": "",
+      "founded": "2025-01",
+      "funding": "未披露",
       "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
-        "market": 80
-      },
-      "score": 71,
-      "discoveredAt": "2026-04-28",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-28",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "memorax",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆赛道技术革新引领者，自主研发Agentic RL核心技术",
-      "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "大模型记忆",
-        "Agentic RL",
-        "个性化"
-      ],
-      "team": [
-        {
-          "name": "郝建业",
-          "role": "创始人",
-          "bg": "天津大学教授、全球前2%科学家"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "千万美金种子轮融资",
-      "scores": {
-        "tech": 85,
+        "tech": 50,
         "growth": 30,
-        "team": 80,
-        "market": 70
+        "team": 50,
+        "market": 50
       },
-      "score": 64,
+      "score": 44,
       "discoveredAt": "2026-04-28",
       "discussionCount": 1,
       "contacts": {
