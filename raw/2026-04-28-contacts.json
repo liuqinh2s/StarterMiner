@@ -150,7 +150,9 @@
       "website": {
         "website": "https://buildhop.io",
         "emails": [],
-        "socials": {},
+        "socials": {
+          "twitter": "tinytechfox"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -371,7 +373,9 @@
         "emails": [
           "hello@aluqos.ai"
         ],
-        "socials": {},
+        "socials": {
+          "linkedin": "nicolas2007"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -392,8 +396,8 @@
     }
   },
   {
-    "id": "yuanqizhihui",
-    "name": "缘启智慧",
+    "id": "startrail",
+    "name": "星迹互动（STAR TRAIL）",
     "contacts": {
       "fetchedAt": "2026-04-28",
       "website": {},
@@ -403,51 +407,7 @@
     }
   },
   {
-    "id": "shengshiweisheng",
-    "name": "昇视唯盛",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xingjihudong",
-    "name": "星迹互动",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xunmingshengke",
-    "name": "寻明生科",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "star-trail",
-    "name": "星迹互动",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "creati-ai",
+    "id": "creati",
     "name": "Creati.ai",
     "contacts": {
       "fetchedAt": "2026-04-28",
@@ -464,7 +424,7 @@
     }
   },
   {
-    "id": "ahs",
+    "id": "aihuashen",
     "name": "爱化身科技（北京）有限公司",
     "contacts": {
       "fetchedAt": "2026-04-28",
@@ -475,30 +435,8 @@
     }
   },
   {
-    "id": "kargobot",
-    "name": "卡尔动力",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "memorax-ai",
+    "id": "memorax",
     "name": "深圳忆纪元科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zibianliang",
-    "name": "自变量机器人",
     "contacts": {
       "fetchedAt": "2026-04-28",
       "website": {},
@@ -519,75 +457,8 @@
     }
   },
   {
-    "id": "anuttacon",
-    "name": "Anuttacon",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {
-        "website": "https://anuttacon.ai",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "eightsleep",
-    "name": "Eight Sleep",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {
-        "website": "https://eightsleep.com",
-        "emails": [
-          "support@eightsleep.com",
-          "contacto@albaestudio.com",
-          "support@truemed.com",
-          "team@truemed.com"
-        ],
-        "socials": {
-          "twitter": "tryjasononline"
-        },
-        "careerPage": "https://eightsleep.com/careers",
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "meshy",
-    "name": "Meshy",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {
-        "website": "https://meshy.ai",
-        "emails": [
-          "support@meshy.ai",
-          "name@domain.com",
-          "u003eeducation@meshy.ai"
-        ],
-        "socials": {
-          "twitter": "MeshyAI",
-          "linkedin": "meshyai"
-        },
-        "careerPage": "https://meshy.ai/zh/careers",
-        "jobListings": [
-          "职业 - Meshy AIif (\"serviceWorker\" in navigator) {"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "kimi",
-    "name": "月之暗面",
+    "id": "zibian",
+    "name": "自变量机器人",
     "contacts": {
       "fetchedAt": "2026-04-28",
       "website": {},
@@ -597,8 +468,59 @@
     }
   },
   {
-    "id": "goldenchild",
+    "id": "moonshot",
+    "name": "月之暗面科技",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://kimi.moonshot.cn",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
+        "jobListings": [
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {
+        "website": "https://lovable.dev",
+        "emails": [],
+        "socials": {
+          "twitter": "lovable",
+          "linkedin": "lovable-dev",
+          "github": "lovablelabs"
+        },
+        "careerPage": "https://lovable.dev/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "golden-child",
     "name": "Golden Child",
+    "contacts": {
+      "fetchedAt": "2026-04-28",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pocketos",
+    "name": "PocketOS",
     "contacts": {
       "fetchedAt": "2026-04-28",
       "website": {},
@@ -622,17 +544,6 @@
         "careerPage": null,
         "jobListings": []
       },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "pocketos",
-    "name": "PocketOS",
-    "contacts": {
-      "fetchedAt": "2026-04-28",
-      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
