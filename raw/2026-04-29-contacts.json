@@ -1,0 +1,668 @@
+[
+  {
+    "id": "zhiyongkaiwu",
+    "name": "智用开物",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://cursor.com",
+        "emails": [],
+        "socials": {
+          "twitter": "cursor_ai",
+          "linkedin": "cursorai"
+        },
+        "careerPage": "https://cursor.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xieyue",
+    "name": "杭州斜跃智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anyuaixin",
+    "name": "安宇艾心（北京）医疗科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "snabbit",
+    "name": "Snabbit",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pronto",
+    "name": "Pronto",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "alephalpha",
+    "name": "Aleph Alpha",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "series",
+    "name": "Series",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://deepseek.com",
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "QRCodeImageLink"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "深度求索（DeepSeek）",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "buildhop",
+    "name": "BuildHop",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://buildhop.io",
+        "emails": [],
+        "socials": {
+          "twitter": "tinytechfox"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek AI",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://github.com/deepseek-ai/TileKernels",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuvacore",
+    "name": "Nuvacore",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "quickswms",
+    "name": "QuickSWMS",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://quickswms.co",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fragment",
+    "name": "Fragment",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "delve",
+    "name": "Delve",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "exe-dev",
+    "name": "Exe.dev",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://exe.dev",
+        "emails": [
+          "support@exe.dev"
+        ],
+        "socials": {
+          "twitter": "ssh_exe_dev",
+          "linkedin": "crawshaw"
+        },
+        "careerPage": "https://exe.dev/jobs",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhiwangweilai",
+    "name": "智往未来",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pokejiqi",
+    "name": "破壳机器人",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "sereact",
+    "name": "Sereact",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xieyuezhineng",
+    "name": "杭州斜跃智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ineffable-intelligence",
+    "name": "Ineffable Intelligence",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "skye",
+    "name": "Skye / Signull Labs",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "manus",
+    "name": "Manus AI",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "manus",
+    "name": "Manus",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "aluqos",
+    "name": "Aluqos",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://www.aluqos.com/",
+        "emails": [
+          "hello@aluqos.ai"
+        ],
+        "socials": {
+          "linkedin": "nicolas2007"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "birjob",
+    "name": "Birjob",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "startrail",
+    "name": "星迹互动（STAR TRAIL）",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "aihuashen",
+    "name": "爱化身科技（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "memorax",
+    "name": "深圳忆纪元科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zibian",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "moonshot",
+    "name": "月之暗面科技",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://kimi.moonshot.cn",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
+        "jobListings": [
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://lovable.dev",
+        "emails": [],
+        "socials": {
+          "twitter": "lovable",
+          "linkedin": "lovable-dev",
+          "github": "lovablelabs"
+        },
+        "careerPage": "https://lovable.dev/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "golden-child",
+    "name": "Golden Child",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pocketos",
+    "name": "PocketOS",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ideavalu",
+    "name": "Ideavalu",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://www.ideavalu.com",
+        "emails": [
+          "sotta.san17@gmail.com",
+          "info@ideavalu.com"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "bibster",
+    "name": "比博斯特（上海）汽车科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "leapmind",
+    "name": "LeapMind Growth（上海）科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "shengshiweisheng",
+    "name": "昇视唯盛智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "qingtianzu",
+    "name": "擎天租",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "stari",
+    "name": "星迹互动",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati.ai",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ahs",
+    "name": "爱化身科技（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "kargobot",
+    "name": "卡尔动力",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "leapmind",
+    "name": "LeapMind Growth",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "goldenchild",
+    "name": "Golden Child",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  }
+]
