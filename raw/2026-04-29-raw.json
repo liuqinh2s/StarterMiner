@@ -1,6 +1,26 @@
 [
   {
     "source": "36氪",
+    "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+    "summary": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制 （让模型学会“抓重点”，像人读长文章时会自动关注关键句子一样） MoE架构（混合专家模型，可以理解为“让不同的专家负责不同类型的问题，每次只激活少数专家，省时又省力”） 后训练 （模型初步练成后再针对性地补课强化） 推理系统工程 （优化实际运行时各个环节的效率） 这样做的成果是把V4-Pro在处理百万Token（大约几十万字）长上下文时需要的算力，压低到了上一代V3.2的27%，同时用来临时存储对话上下文的 KV缓存 （可以理解为模型在跟你聊天时“记笔记”的草稿纸）被压缩到了原来的10%。 不过，工程只是工程，榜单只是榜单。 评价一个模型，我们不希望只停留在纸面参数上，而是放到部署、开发、投资的",
+    "url": "https://36kr.com/p/3788151000751364?f=rss",
+    "published": "2026-04-30 01:07:22  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "36氪",
+    "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+    "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季度营收首破800亿元，核心归母净利润同比增长31% 36氪获悉，吉利汽车公布2026年第一季度业绩报告。2026第一季度，录得总销量709358辆，同比增长1%。受益于出口销量的强劲增长及高价值产品销售占比提升，本集团期内收入同比增长15%；核心归母净利润45.6亿元，同比增长31%；当期毛利率17.5%，同比提升11%。截至2026年一季度末，公司总现金水平达602亿元 掌阅科技：2026年将全面推进AI短剧工业化布局 掌阅科技在2025年年度业绩说明会上表示，2026年公司将全面推进AI短剧工业化布局，实现内容生态规模化突破；显著加大资源投入力度，加",
+    "url": "https://36kr.com/p/3787748082293766?f=rss",
+    "published": "2026-04-29 20:44:39  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "36氪",
     "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
     "summary": "2026年4月22日至24日，第20届中国投资年会·年度峰会于北京海淀盛大召开。本届大会以“K型曲线”为主题，由北京市海淀区人民政府指导，投中信息、投中网主办，北京中关村科学城创新发展有限公司协办。本届年会连续第二年扎根北京海淀，双方合作正从初次携手走向深度融合。超千名行业领袖、投资人及创业者齐聚海淀，共同研判中国私募股权市场的结构性变局。 群贤毕至，重磅嘉宾阵容 大会嘉宾阵容星光熠熠，政策、学术、投资与产业的领军人物跨界同席，共同为这场二十年节点上的行业盛会聚力。 大会开场，投中信息首席执行官杨晓磊以“K型曲线”为核心主题，描绘了当前中国创投市场两极分化的整体格局——共识与分歧并存、机遇与困境同在，上行与下行曲线同步演进。他表示，当下创投市场并不缺钱，而是进入了一个机会高度分化的时代。头部项目回报显著，只要能参与，往往就能为基金贡献收益；但同时约70%的存量项目仍未退出，幂律效应十分明显。 杨晓磊指出，如今一级市场正呈现两个平行世界：一边是AI、芯片、生物技术等赛道融资火热、估值走高；另一边则是大量存量企业长期面临融资困难。今年大会的主题，正是对这种向上与向下并存局面的概括。他认为，",
     "url": "https://36kr.com/p/3787806140636420?f=rss",
@@ -11,7 +31,7 @@
   },
   {
     "source": "36氪",
-    "title": "“36氪企业全情���”官方股票舆情交流社群，正式开放招募！",
+    "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
     "summary": "36氪企业全情报官方专属社群现已正式对外开放，正式打造 唯一官方股票舆情情报社群 ，面向所有股民、理财爱好者、个股深度研究者，适配不同投资风格与交易节奏，帮你高效拿捏舆情风向、把握行情先机。 从 股市舆情解读、个股情报拆解 ，到 行情逻辑分析、投资干货交流 ，一站式帮投资者告别信息滞后、看懂涨跌本质。 扫码进入：“36氪企业全情报”官方股票舆情交流社群 为什么要做专属股票舆情交流情报社群？ 炒股早已不是单纯看K线， 舆情、消息、基本面、行业政策 才是涨跌核心逻辑。很多人每天刷新闻、翻股吧、看研报，依旧消息滞后、真假难辨，抓不住行情主线；有人只会跟风买卖，看不懂资金动向与舆情情绪，容易踏空也容易被套。 基于普通股民真实痛点，36氪企业全情报打造官方专属社群，聚焦 股市舆情、个股情报、行业热点、财报解读、避雷预警 ，给每一位投资者一个纯粹、专业、无广告的交流圈层。 36氪企业全情报，能给你什么价值 ✅ 全网舆情实时速递 依托36氪 + 红麦聚信大数据，7×24小时全网采集行情资讯、政策消息、个股公告、平台热议，关键信息不遗漏。 ✅ AI智能行情拆解 融合多款大模型AI算力，自动梳理热点逻辑",
     "url": "https://36kr.com/p/3787661080714497?f=rss",
     "published": "2026-04-29 16:50:02  +0800",
@@ -61,50 +81,10 @@
   },
   {
     "source": "36氪",
-    "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
-    "summary": "2026 年 4 月 29 日，上海讯 —— AI 原生增长 Agent LeapMind Growth 今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。 LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人 马如平（Rubin） 创立，此前也曾在 TikTok 负责用户增长，累计主导规模超 50 亿美元的用户增长项目。公司核心成员均来自字节跳动、米哈游、快手、美团等企业，核心团队兼具超大规模增长管理、AI 系统工程化与全球化发行的复合能力。 公司核心产品为 AI 原生的 自主迭代增长 Agent ——GrowthGPT，旨在以 AI Agent 接管增长执行全链路：用户只需设定目标与边界，GrowthGPT 即可完成后续的策略制定、落地执行与持续优化全流程。 GrowthGPT 覆盖增长执行全链路：从跨平台数据诊断发现问题，到创意洞察驱动内容迭代，再到自动下达执行指令并完成效果优化。系统内置预算安全防护机制，可有效防范超支风险；同",
-    "url": "https://36kr.com/p/3786123369094405?f=rss",
-    "published": "2026-04-29 09:00:00  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "36氪",
-    "title": "独家对谈｜兴辉时代创始人高兴辉，90后小镇女孩离开教培大厂，三年创造2亿GMV的倔强人生",
-    "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） 兴辉，山西人，三次面试新东方才被录用。 转战高途教育后，她与另外三名男同事一同被封为公司的“三王一后”。 如今她已自己创业近三年。带着对教培行业发展水温的好奇，我们拜访了兴辉的公司。 一进门，同事们喊她“辉哥”——这与她外表精瘦，笑起来有虎牙的形象相比，实在让人难以关联。 但当我们听到在整个教培行业最为混沌迷茫的三年里，她带领团队从0开始， 做到了2个亿的GMV ，这一切就不难理解了。 ● 欢迎观看+关注《职场Bonus》旗下原创视频号 以下为访谈实录，部分措辞经《职场Bonus》编辑调整。 请尽情的讨厌我吧 ╱ 一 创业第二个月，我们赚到了600万 ╱ 二 要允许自己坠落 ╱ 三 请尽情地讨厌我吧 麻吉：你是如何克服务自身拼读障碍的？勤奋真能解决99%的问题吗？ 兴辉 ： 我初中才开始学英语，基础差到考全班倒数，作为班长特别没面子。但我咽不下这口气。当时大同只有一个少年宫能学英语，我没条件报名，就天天蹲新华书店，对着中英双语版《哈利波特》和《吸血鬼日记》，跟着店里放的美剧一点点抠。 找对方法、保持兴趣，这才是真正的",
-    "url": "https://36kr.com/p/3786265971334150?f=rss",
-    "published": "2026-04-29 08:57:36  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "36氪",
-    "title": "“华喜航空”完成数千万元种子轮融资",
-    "summary": "36氪获悉，“华喜航空”已完成数千万元种子轮融资，本轮融资由民银国际独家投资，资金将用于核心技术研发、团队扩张、验证机试飞与适航推进、商业化场景落地及市场拓展。",
-    "url": "https://36kr.com/newsflashes/3787785342802948?f=rss",
-    "published": "2026-04-29 18:54:30  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "36氪",
-    "title": "徐工集团回应徐工汽车被曝筹划港股IPO",
-    "summary": "4月29日，有消息称，新能源重卡龙头徐工汽车计划最快于年内登陆港交所，募资规模上限拟定5亿美元，规模和时间等细节的相关讨论仍在进行中。对于上述上市及融资消息，徐工集团方面回应称，徐工汽车上市规划、融资相关事宜均以公司官方公告为准，暂无更多对外披露信息。（中证报）",
-    "url": "https://36kr.com/newsflashes/3787777604852996?f=rss",
-    "published": "2026-04-29 18:46:37  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "36氪",
-    "title": "深圳进一步优化调整房地产相关政策",
-    "summary": "36氪获悉，深圳市住房和建设局印发《关于进一步优化调整本市房地产相关政策的通知》，自2026年4月30日起施行。其中提到，符合本市商品住房购买条件的居民家庭（包括本市户籍居民家庭、自购房之日前在本市连续缴纳社会保险或个人所得税满1年及以上的非本市户籍居民家庭），在执行现有住房限购政策基础上，可在福田区、南山区和宝安区新安街道范围内增购1套商品住房。持有有效深圳经济特区居住证的非本市户籍居民家庭，可在福田区、南山区和宝安区新安街道范围内购买1套商品住房，以满足其在深住房需求。",
-    "url": "https://36kr.com/newsflashes/3787763168599299?f=rss",
-    "published": "2026-04-29 18:31:56  +0800",
+    "title": "Anthropic正考虑以超9000亿美元估值开启新一轮融资",
+    "summary": "知情人士透露，Anthropic正在权衡新一轮融资，此轮融资对这家人工智能开发商的估值将超过9000亿美元。该公司正考虑来自投资者的要约，这些要约将使其当前估值翻倍有余，目前相关考量尚处于早期阶段。Anthropic一直在寻求更多基础设施，以满足其产品日益增长的需求。此次新讨论正值该公司AI软件取得突破性成功、大力推进融资之际。（财联社）",
+    "url": "https://36kr.com/newsflashes/3788499894770947?f=rss",
+    "published": "2026-04-30 07:10:21  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-04-29"
@@ -590,71 +570,81 @@
     "fetchedAt": "2026-04-29"
   },
   {
+    "source": "动点科技",
+    "title": "新加坡AI设计平台FORMAS.AI获得398万美元融资",
+    "summary": "Vertex Ventures Southeast Asia & India领投",
+    "url": "https://cn.technode.com/post/2026-04-29/formas-ai-raises-3-98m-pre-seed-funding/",
+    "published": "Wed, 29 Apr 2026 13:04:59 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+    "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
+    "url": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+    "published": "Wed, 29 Apr 2026 20:53:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "published": "Wed, 29 Apr 2026 18:33:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
+    "summary": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating.",
+    "url": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
+    "published": "Wed, 29 Apr 2026 16:20:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "published": "Wed, 29 Apr 2026 13:10:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+    "summary": "BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.",
+    "url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+    "published": "Wed, 29 Apr 2026 13:10:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Jack Dorsey-backed Vine reboot Divine launches to the public",
+    "summary": "Divine offers access to an archive of roughly 500,000 Vine videos, restored from a backup of the original service, and allows creators to post new Vines once again.",
+    "url": "https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/",
+    "published": "Wed, 29 Apr 2026 12:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-04-29"
+  },
+  {
     "source": "TechCrunch",
     "title": "How one venture firm is investing in an increasingly fragmented world",
     "summary": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
     "url": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
     "published": "Wed, 29 Apr 2026 03:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "published": "Tue, 28 Apr 2026 18:49:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Lovable launches its vibe-coding app on iOS and Android",
-    "summary": "The app allows developers to vibe code web apps and websites on the go.",
-    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-    "published": "Tue, 28 Apr 2026 16:09:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
-    "summary": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight.",
-    "url": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
-    "published": "Tue, 28 Apr 2026 15:33:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-    "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-    "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-    "published": "Tue, 28 Apr 2026 13:19:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Otter’s new feature lets users search across their enterprise tools",
-    "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
-    "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-    "published": "Tue, 28 Apr 2026 12:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Drizzle on top: A new high-end dog food brand is coming for the 1%",
-    "summary": "Golden Child is launching with two \"five-star\" products: a fresh frozen meal system and, more intriguingly, a \"drizzle.\" It has also raised $37 million in funding.",
-    "url": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
-    "published": "Tue, 28 Apr 2026 05:02:04 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-29"
@@ -841,236 +831,38 @@
   },
   {
     "source": "The Verge",
-    "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-    "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-    "published": "2026-04-28T16:46:54-04:00",
+    "title": "Motorola just revealed the Razr Fold’s price and hoo boy",
+    "summary": "2026 is shaping up to be a tough year to launch a high-end phone. The memory crisis has phone prices rising across the board, so an already expensive phone risks becoming a much too expensive phone. That might be what happened to the Razr Fold, which will cost $1,900 when it goes on sale in […]",
+    "url": "https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability",
+    "published": "2026-04-29T12:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-29"
   },
   {
     "source": "The Verge",
-    "title": "Taylor Swift is stepping up the legal war on AI copycats",
-    "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-    "published": "2026-04-28T16:30:00-04:00",
+    "title": "Google Photos launches an AI try-on feature for clothes you already have",
+    "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how […]",
+    "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+    "published": "2026-04-29T12:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-04-29"
   },
   {
-    "source": "Hacker News",
-    "title": "Soft launch of open-source code platform for government",
-    "summary": "Article URL: https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/ Comments URL: https://news.ycombinator.com/item?id=47945918 Points: 117 # Comments: 57",
-    "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-    "published": "Wed, 29 Apr 2026 09:14:37 +0000",
+    "source": "GitHub新星",
+    "title": "nexu-io/open-design",
+    "summary": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+    "url": "https://github.com/nexu-io/open-design",
+    "published": "2026-04-28T04:25:20Z",
     "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Why AI Startup Offices in NYC Are Flashy but Mostly Empty",
-    "summary": "Article URL: https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d Comments URL: https://news.ycombinator.com/item?id=47944068 Points: 1 # Comments: 0",
-    "url": "https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d",
-    "published": "Wed, 29 Apr 2026 04:06:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SubmitYourWork – Submit your startup to directories from one place",
-    "summary": "Article URL: https://github.com/Sketchjar/submityourwork Comments URL: https://news.ycombinator.com/item?id=47942043 Points: 3 # Comments: 1",
-    "url": "https://github.com/Sketchjar/submityourwork",
-    "published": "Tue, 28 Apr 2026 23:03:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-    "summary": "Article URL: https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/ Comments URL: https://news.ycombinator.com/item?id=47936210 Points: 218 # Comments: 138",
-    "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-    "published": "Tue, 28 Apr 2026 15:54:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reporters at this news site are AI bots. OpenAI's appears to be funding it",
-    "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=47935477 Points: 3 # Comments: 0",
-    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-    "published": "Tue, 28 Apr 2026 14:53:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Chip Startup Aims to Shatter AI's Dreaded Memory Wall",
-    "summary": "Article URL: https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563 Comments URL: https://news.ycombinator.com/item?id=47935292 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563",
-    "published": "Tue, 28 Apr 2026 14:39:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Ugly 500: Patterns from 500 startup audited in 2026",
-    "summary": "Article URL: https://vc-brain.com/report Comments URL: https://news.ycombinator.com/item?id=47933972 Points: 3 # Comments: 1",
-    "url": "https://vc-brain.com/report",
-    "published": "Tue, 28 Apr 2026 13:01:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Cursor-Opus agent snuffs out startup's production database",
-    "summary": "Article URL: https://www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/ Comments URL: https://news.ycombinator.com/item?id=47932612 Points: 2 # Comments: 1",
-    "url": "https://www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/",
-    "published": "Tue, 28 Apr 2026 10:38:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ideavalu – AI generates startup ideas based on your esperience",
-    "summary": "Article URL: https://www.ideavalu.com Comments URL: https://news.ycombinator.com/item?id=47930607 Points: 1 # Comments: 1",
-    "url": "https://www.ideavalu.com",
-    "published": "Tue, 28 Apr 2026 05:02:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 LIVE in ~2hrs",
-    "summary": "Article URL: https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/ Comments URL: https://news.ycombinator.com/item?id=47927921 Points: 1 # Comments: 0",
-    "url": "https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/",
-    "published": "Mon, 27 Apr 2026 21:57:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China blocks Meta from acquiring AI startup Manus",
-    "summary": "Article URL: https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a Comments URL: https://news.ycombinator.com/item?id=47924754 Points: 5 # Comments: 0",
-    "url": "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
-    "published": "Mon, 27 Apr 2026 17:40:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China blocks Meta from acquiring AI startup Manus",
-    "summary": "Article URL: https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus Comments URL: https://news.ycombinator.com/item?id=47922026 Points: 3 # Comments: 0",
-    "url": "https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus",
-    "published": "Mon, 27 Apr 2026 14:21:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket",
-    "summary": "Article URL: https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/ Comments URL: https://news.ycombinator.com/item?id=47921810 Points: 2 # Comments: 0",
-    "url": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
-    "published": "Mon, 27 Apr 2026 14:07:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI and Microsoft Reach Deal to Give Startup New Freedom",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-and-microsoft-strike-truce-redrawing-once-tense-partnership-9ae22700 Comments URL: https://news.ycombinator.com/item?id=47921559 Points: 3 # Comments: 2",
-    "url": "https://www.wsj.com/tech/ai/openai-and-microsoft-strike-truce-redrawing-once-tense-partnership-9ae22700",
-    "published": "Mon, 27 Apr 2026 13:51:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
-    "summary": "Article URL: https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/ Comments URL: https://news.ycombinator.com/item?id=47920920 Points: 5 # Comments: 0",
-    "url": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
-    "published": "Mon, 27 Apr 2026 12:49:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China blocks Meta's $2B acquisition of AI startup Manus",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920667 Points: 6 # Comments: 0",
-    "url": "https://www.bbc.co.uk/news/articles/cj0v0gr2yz7o",
-    "published": "Mon, 27 Apr 2026 12:23:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Tiny Polish Startup Became the Multi-Billion-Dollar Voice of AI",
-    "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2025/12/01/how-a-tiny-polish-startup-became-the-multi-billion-dollar-voice-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47920512 Points: 5 # Comments: 0",
-    "url": "https://www.forbes.com/sites/iainmartin/2025/12/01/how-a-tiny-polish-startup-became-the-multi-billion-dollar-voice-of-ai/",
-    "published": "Mon, 27 Apr 2026 12:08:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China orders Meta to unwind $2B buy of AI startup Manus",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/ Comments URL: https://news.ycombinator.com/item?id=47920434 Points: 5 # Comments: 0",
-    "url": "https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/",
-    "published": "Mon, 27 Apr 2026 11:58:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China blocks Meta's acquisition of AI startup Manus",
-    "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore... https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.com/item?id=47920315 Points: 394 # Comments: 322",
-    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "published": "Mon, 27 Apr 2026 11:43:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta's $2B Deal to Buy AI Startup Manus Blocked by China",
-    "summary": "Article URL: https://www.forbes.com/sites/siladityaray/2026/04/27/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/ Comments URL: https://news.ycombinator.com/item?id=47920043 Points: 4 # Comments: 1",
-    "url": "https://www.forbes.com/sites/siladityaray/2026/04/27/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus/",
-    "published": "Mon, 27 Apr 2026 11:04:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-04-29"
-  },
-  {
-    "source": "微博",
-    "title": "#孙杨下沉市场口碑#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23孙杨下沉市场口碑%23",
-    "published": "2026-04-29",
-    "lang": "zh",
-    "type": "news",
+    "type": "signal",
     "fetchedAt": "2026-04-29",
     "meta": {
-      "hotValue": 281251,
-      "rank": 23
+      "stars": 4189,
+      "forks": 510,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -1083,26 +875,10 @@
     "type": "signal",
     "fetchedAt": "2026-04-29",
     "meta": {
-      "stars": 4059,
-      "forks": 408,
+      "stars": 4163,
+      "forks": 415,
       "language": "HTML",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "nexu-io/open-design",
-    "summary": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
-    "url": "https://github.com/nexu-io/open-design",
-    "published": "2026-04-28T04:25:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 2919,
-      "forks": 352,
-      "language": "TypeScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1115,8 +891,8 @@
     "type": "signal",
     "fetchedAt": "2026-04-29",
     "meta": {
-      "stars": 1984,
-      "forks": 327,
+      "stars": 2118,
+      "forks": 344,
       "language": null,
       "createdDaysAgo": 4
     }
@@ -1131,8 +907,8 @@
     "type": "signal",
     "fetchedAt": "2026-04-29",
     "meta": {
-      "stars": 1501,
-      "forks": 74,
+      "stars": 1521,
+      "forks": 75,
       "language": null,
       "createdDaysAgo": 5
     }
@@ -1147,10 +923,10 @@
     "type": "signal",
     "fetchedAt": "2026-04-29",
     "meta": {
-      "stars": 1300,
-      "forks": 141,
+      "stars": 1338,
+      "forks": 144,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1163,233 +939,9 @@
     "type": "signal",
     "fetchedAt": "2026-04-29",
     "meta": {
-      "stars": 1117,
-      "forks": 111,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "GammaLabTechnologies/harmonist",
-    "summary": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "url": "https://github.com/GammaLabTechnologies/harmonist",
-    "published": "2026-04-23T05:42:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 862,
-      "forks": 306,
-      "language": "Python",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "future-agi/future-agi",
-    "summary": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-    "url": "https://github.com/future-agi/future-agi",
-    "published": "2026-04-23T14:11:31Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 723,
+      "stars": 1218,
       "forks": 121,
       "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "epoko77-ai/im-not-ai",
-    "summary": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-    "url": "https://github.com/epoko77-ai/im-not-ai",
-    "published": "2026-04-24T12:48:40Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 616,
-      "forks": 63,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "alash3al/stash",
-    "summary": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "url": "https://github.com/alash3al/stash",
-    "published": "2026-04-24T22:05:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 535,
-      "forks": 21,
-      "language": "Go",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "CookSleep/gpt_image_playground",
-    "summary": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
-    "url": "https://github.com/CookSleep/gpt_image_playground",
-    "published": "2026-04-23T20:18:57Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 486,
-      "forks": 169,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "NullLatency/FlowDriver",
-    "summary": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-    "url": "https://github.com/NullLatency/FlowDriver",
-    "published": "2026-04-23T21:44:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 439,
-      "forks": 46,
-      "language": "Go",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "levelsio/superlevels",
-    "summary": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-    "url": "https://github.com/levelsio/superlevels",
-    "published": "2026-04-23T12:06:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 432,
-      "forks": 44,
-      "language": "JavaScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "NyxTides/ppt-image-first",
-    "summary": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-    "url": "https://github.com/NyxTides/ppt-image-first",
-    "published": "2026-04-26T04:04:15Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 392,
-      "forks": 41,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "chiefautism/privacy-parser",
-    "summary": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.",
-    "url": "https://github.com/chiefautism/privacy-parser",
-    "published": "2026-04-23T16:48:34Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 377,
-      "forks": 32,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Kianmhz/GooseRelayVPN",
-    "summary": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-    "url": "https://github.com/Kianmhz/GooseRelayVPN",
-    "published": "2026-04-26T05:17:43Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 342,
-      "forks": 65,
-      "language": "Go",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "evanklem/evanflow",
-    "summary": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.",
-    "url": "https://github.com/evanklem/evanflow",
-    "published": "2026-04-27T00:48:07Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 340,
-      "forks": 11,
-      "language": "Shell",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "seulee26/mckinsey-pptx",
-    "summary": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필).",
-    "url": "https://github.com/seulee26/mckinsey-pptx",
-    "published": "2026-04-23T23:52:41Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 340,
-      "forks": 66,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "samyns/Unit-3",
-    "summary": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed",
-    "url": "https://github.com/samyns/Unit-3",
-    "published": "2026-04-25T17:25:54Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 321,
-      "forks": 8,
-      "language": "QML",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "machinepulse-ai/world2agent",
-    "summary": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
-    "url": "https://github.com/machinepulse-ai/world2agent",
-    "published": "2026-04-23T08:49:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-04-29",
-    "meta": {
-      "stars": 296,
-      "forks": 8,
-      "language": "TypeScript",
       "createdDaysAgo": 6
     }
   }
