@@ -550,8 +550,8 @@
     }
   },
   {
-    "id": "bibster",
-    "name": "比博斯特（上海）汽车科技有限公司",
+    "id": "huaxi-air",
+    "name": "华喜航空",
     "contacts": {
       "fetchedAt": "2026-04-29",
       "website": {},
@@ -561,8 +561,8 @@
     }
   },
   {
-    "id": "leapmind",
-    "name": "LeapMind Growth（上海）科技有限公司",
+    "id": "biboster",
+    "name": "比博斯特",
     "contacts": {
       "fetchedAt": "2026-04-29",
       "website": {},
@@ -572,8 +572,8 @@
     }
   },
   {
-    "id": "shengshiweisheng",
-    "name": "昇视唯盛智能科技有限公司",
+    "id": "leapmind-growth",
+    "name": "LeapMind Growth",
     "contacts": {
       "fetchedAt": "2026-04-29",
       "website": {},
@@ -583,47 +583,8 @@
     }
   },
   {
-    "id": "qingtianzu",
-    "name": "擎天租",
-    "contacts": {
-      "fetchedAt": "2026-04-29",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "stari",
-    "name": "星迹互动",
-    "contacts": {
-      "fetchedAt": "2026-04-29",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "creati.ai",
-    "name": "Creati.ai",
-    "contacts": {
-      "fetchedAt": "2026-04-29",
-      "website": {
-        "website": "www.buzzy.now",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "ahs",
-    "name": "爱化身科技（北京）有限公司",
+    "id": "xinghui-times",
+    "name": "兴辉时代",
     "contacts": {
       "fetchedAt": "2026-04-29",
       "website": {},
@@ -644,11 +605,86 @@
     }
   },
   {
-    "id": "leapmind",
-    "name": "LeapMind Growth",
+    "id": "zhiyuan",
+    "name": "智元机器人",
     "contacts": {
       "fetchedAt": "2026-04-29",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "meshy",
+    "name": "Meshy",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://www.meshy.ai",
+        "emails": [
+          "support@meshy.ai",
+          "name@domain.com",
+          "u003eeducation@meshy.ai",
+          "careers@meshy.ai"
+        ],
+        "socials": {
+          "twitter": "MeshyAI",
+          "linkedin": "meshyai",
+          "wechat": "Pay"
+        },
+        "careerPage": "https://www.meshy.ai/careers",
+        "jobListings": [
+          "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anuttacon",
+    "name": "Anuttacon",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://anuttacon.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "neurable",
+    "name": "Neurable",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://neurable.com",
+        "emails": [
+          "hello@neurable.com",
+          "careers@neurable.com"
+        ],
+        "socials": {
+          "twitter": "neurable",
+          "linkedin": "neurable"
+        },
+        "careerPage": "https://neurable.com/careers",
+        "jobListings": [
+          "ProductsMW75 Neuro LTNeurable Research KitHOW TO NEURABLECompanyAboutRESEARCHEthicsCareersBlog",
+          "PartnerPartnersNeurable for TeamsAffiliate ProgramPresscontactCompanyScienceProducts",
+          "Important: You will not be able to style for example \"All Links\" in Designer with this CSS applied.",
+          "const formData = new FormData(form);",
+          "const emailVal = formData.get(\"email\") || formData.get(\"email-2\");",
+          "for (let [key, value] of formData.entries()) {"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -660,6 +696,97 @@
     "contacts": {
       "fetchedAt": "2026-04-29",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "gammalab",
+    "name": "GammaLab Technologies",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://github.com/GammaLabTechnologies/harmonist",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "wechat": "-mini-program-developer",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "futureagi",
+    "name": "Future AGI",
+    "contacts": {
+      "fetchedAt": "2026-04-29",
+      "website": {
+        "website": "https://github.com/future-agi/future-agi",
+        "emails": [
+          "sales@futureagi.com",
+          "support@futureagi.com",
+          "u003esupport@futureagi.com",
+          "security@futureagi.com",
+          "u003esecurity@futureagi.com"
+        ],
+        "socials": {
+          "twitter": "FutureAGI_",
+          "github": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
