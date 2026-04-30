@@ -741,7 +741,29 @@
     }
   },
   {
-    "id": "creati-ai",
+    "id": "tianshikefeng",
+    "name": "武汉天石科丰新能源科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ushi-tech",
+    "name": "优时科技",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creatia",
     "name": "Creati.ai",
     "contacts": {
       "fetchedAt": "2026-04-30",
@@ -758,8 +780,8 @@
     }
   },
   {
-    "id": "memorax-ai",
-    "name": "深圳忆纪元科技有限公司",
+    "id": "ahs",
+    "name": "爱化身科技（北京）有限公司",
     "contacts": {
       "fetchedAt": "2026-04-30",
       "website": {},
@@ -769,8 +791,8 @@
     }
   },
   {
-    "id": "modelbest",
-    "name": "面壁智能",
+    "id": "facewall",
+    "name": "北京面壁智能科技有限责任公司",
     "contacts": {
       "fetchedAt": "2026-04-30",
       "website": {},
@@ -802,8 +824,8 @@
     }
   },
   {
-    "id": "cognition",
-    "name": "Cognition",
+    "id": "bioticsai",
+    "name": "BioticsAI",
     "contacts": {
       "fetchedAt": "2026-04-30",
       "website": {},
@@ -813,8 +835,25 @@
     }
   },
   {
+    "id": "xai",
+    "name": "xAI",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {
+        "website": "x.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "assembly",
-    "name": "Assembly Simulator",
+    "name": "Assembly",
     "contacts": {
       "fetchedAt": "2026-04-30",
       "website": {
@@ -832,50 +871,19 @@
     }
   },
   {
-    "id": "submityourwork",
-    "name": "SubmitYourWork",
+    "id": "cognition",
+    "name": "Cognition",
     "contacts": {
       "fetchedAt": "2026-04-30",
-      "website": {
-        "website": "https://github.com/Sketchjar/submityourwork",
-        "emails": [],
-        "socials": {
-          "github": "github",
-          "twitter": "github",
-          "linkedin": "github"
-        },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
     }
   },
   {
-    "id": "nexu-io",
-    "name": "Nexu IO",
+    "id": "nexu",
+    "name": "Nexu",
     "contacts": {
       "fetchedAt": "2026-04-30",
       "website": {

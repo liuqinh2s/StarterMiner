@@ -1233,7 +1233,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
@@ -2081,28 +2081,101 @@
       }
     },
     {
-      "id": "creati-ai",
-      "name": "Creati.ai",
-      "desc": "面向电商与社交媒体营销的AI创意引擎",
-      "track": "ai",
+      "id": "tianshikefeng",
+      "name": "武汉天石科丰新能源科技有限公司",
+      "desc": "硫化物固态电解质粉体材料研发与生产，具有高电导率和空气稳定性。",
+      "track": "newenergy",
+      "stage": "pre-a",
+      "city": "wuhan",
+      "tags": [
+        "固态电池",
+        "硫化物电解质",
+        "新能源材料"
+      ],
+      "team": [
+        {
+          "name": "王硕",
+          "role": "创始人兼首席科学家",
+          "bg": "武汉理工大学副教授，10年硫化物固态电解质研究经验，十余项专利"
+        }
+      ],
+      "product": "",
+      "founded": "2022-12",
+      "funding": "数千万元pre-A轮融资，元禾原点领投，天泓投资跟投，启辰资本担任财务顾问",
+      "scores": {
+        "tech": 80,
+        "growth": 50,
+        "team": 70,
+        "market": 70
+      },
+      "score": 67,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ushi-tech",
+      "name": "优时科技",
+      "desc": "专注于L4低速自动驾驶技术，基于计算机视觉，现延伸至人形机器人。",
+      "track": "robotics",
       "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "自动驾驶",
+        "计算机视觉",
+        "人形机器人",
+        "L4"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2018-06",
+      "funding": "数亿元B2轮融资，前海方舟领投，前海母基金、鲲翎资本、厚天资本等跟投",
+      "scores": {
+        "tech": 75,
+        "growth": 70,
+        "team": 60,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "creatia",
+      "name": "Creati.ai",
+      "desc": "海外AI创意引擎，专注电商与社交媒体营销",
+      "track": "ai",
+      "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI视频",
+        "AI创意",
         "电商营销",
-        "视频编辑"
+        "视频生成"
       ],
       "team": [],
       "product": "https://www.buzzy.now",
       "founded": "",
-      "funding": "新一轮超2000万美元，投资方包括Redpoint、创世伙伴创投等",
+      "funding": "新一轮融资超2000万美元，由Redpoint、创世伙伴创投等投资",
       "scores": {
-        "tech": 75,
-        "growth": 85,
+        "tech": 70,
+        "growth": 80,
         "team": 60,
-        "market": 80
+        "market": 75
       },
-      "score": 76,
+      "score": 72,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2120,36 +2193,36 @@
       }
     },
     {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆赛道的技术引领者",
+      "id": "ahs",
+      "name": "爱化身科技（北京）有限公司",
+      "desc": "企业级AGI平台，面向超大型企业提供数字员工",
       "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
+      "stage": "pre-a",
+      "city": "beijing",
       "tags": [
-        "大模型记忆",
-        "Agentic RL",
-        "企业知识管理"
+        "企业级AGI",
+        "智能体平台",
+        "数字员工"
       ],
       "team": [
         {
-          "name": "郝建业",
+          "name": "",
           "role": "创始人",
-          "bg": "天津大学菁英教授，国家优青，全球前2%科学家，ICML/NeurIPS/ICLR顶会产出排名全球前10，曾先后担任华为、腾讯等公司技术负责人"
+          "bg": "北大系"
         }
       ],
       "product": "",
-      "founded": "2026-03",
-      "funding": "千万美金种子轮，钟鼎资本领投",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 85,
-        "growth": 40,
-        "team": 85,
+        "tech": 65,
+        "growth": 50,
+        "team": 60,
         "market": 70
       },
-      "score": 68,
+      "score": 60,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
@@ -2159,29 +2232,28 @@
       }
     },
     {
-      "id": "modelbest",
-      "name": "面壁智能",
-      "desc": "专注端侧大模型的AI初创公司，推出端侧Agent框架EmbodiedClaw",
+      "id": "facewall",
+      "name": "北京面壁智能科技有限责任公司",
+      "desc": "端侧AI Agent框架及大模型厂商",
       "track": "ai",
-      "stage": "b+",
+      "stage": "pre-a",
       "city": "beijing",
       "tags": [
-        "端侧模型",
+        "端侧AI",
         "Agent",
-        "智能座舱",
         "大模型"
       ],
       "team": [],
-      "product": null,
-      "founded": "2022-06",
-      "funding": "已完成B轮融资",
+      "product": "",
+      "founded": "2022",
+      "funding": "",
       "scores": {
         "tech": 85,
-        "growth": 70,
-        "team": 80,
-        "market": 75
+        "growth": 60,
+        "team": 50,
+        "market": 80
       },
-      "score": 78,
+      "score": 70,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2195,33 +2267,32 @@
     {
       "id": "zibianliang",
       "name": "自变量机器人",
-      "desc": "具身智能初创公司，发布自研基础模型WALL-B，完成B轮融资",
+      "desc": "具身智能公司，专注通用机器人大脑及基础模型",
       "track": "robotics",
       "stage": "b",
-      "city": "beijing",
+      "city": "shenzhen",
       "tags": [
         "具身智能",
-        "机器人",
-        "基础模型",
-        "WALL-B"
+        "机器人基础模型",
+        "AGI"
       ],
       "team": [
         {
           "name": "王潜",
           "role": "创始人&CEO",
-          "bg": "具身智能领域专家"
+          "bg": ""
         }
       ],
-      "product": null,
+      "product": "",
       "founded": "2023-10",
-      "funding": "B轮融资，投资方包括小米战投等",
+      "funding": "B轮融资，小米、美团、阿里、字节等投资",
       "scores": {
-        "tech": 88,
-        "growth": 80,
+        "tech": 90,
+        "growth": 85,
         "team": 85,
-        "market": 85
+        "market": 90
       },
-      "score": 84,
+      "score": 88,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2235,27 +2306,26 @@
     {
       "id": "hypershell",
       "name": "Hypershell",
-      "desc": "Chinese startup developing lightweight lower-limb exoskeletons for outdoor and everyday use.",
+      "desc": "开发轻量级外骨骼用于户外和日常使用的中国初创公司",
       "track": "robotics",
       "stage": "seed",
-      "city": "beijing",
+      "city": "other",
       "tags": [
-        "exoskeleton",
-        "wearable",
-        "robotics",
-        "human augmentation"
+        "外骨骼",
+        "可穿戴",
+        "机器人"
       ],
       "team": [],
       "product": "",
-      "founded": "2021-01",
-      "funding": "Seed round, details undisclosed",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 70,
+        "tech": 75,
         "growth": 50,
-        "team": 50,
-        "market": 60
+        "team": 60,
+        "market": 70
       },
-      "score": 58,
+      "score": 64,
       "discoveredAt": "2026-04-30",
       "discussionCount": 1,
       "contacts": {
@@ -2267,33 +2337,83 @@
       }
     },
     {
-      "id": "cognition",
-      "name": "Cognition",
-      "desc": "AI编码工具公司，正在以250亿美元估值进行融资谈判",
-      "track": "ai",
-      "stage": "b+",
+      "id": "bioticsai",
+      "name": "BioticsAI",
+      "desc": "利用AI技术获得FDA批准的医疗健康初创公司",
+      "track": "biotech",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "AI编码",
-        "开发者工具",
-        "大模型"
+        "医疗AI",
+        "FDA",
+        "健康"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "Robhy Bustami",
+          "role": "CEO",
+          "bg": ""
+        }
+      ],
       "product": "",
-      "founded": "2023-01",
-      "funding": "正在以250亿美元估值融资",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
+        "tech": 70,
+        "growth": 50,
+        "team": 60,
         "market": 80
       },
-      "score": 71,
+      "score": 64,
       "discoveredAt": "2026-04-30",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "desc": "专注于人工智能研究的公司",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "team": [
+        {
+          "name": "Elon Musk",
+          "role": "CEO",
+          "bg": "Tesla, SpaceX founder"
+        }
+      ],
+      "product": "x.ai",
+      "founded": "2023-03",
+      "funding": "已获多轮融资，包括60亿美元",
+      "scores": {
+        "tech": 80,
+        "growth": 90,
+        "team": 90,
+        "market": 85
+      },
+      "score": 86,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 2,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {
+          "website": "x.ai",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -2301,27 +2421,26 @@
     },
     {
       "id": "assembly",
-      "name": "Assembly Simulator",
-      "desc": "为D2C品牌提供发布前的消费者情报服务",
+      "name": "Assembly",
+      "desc": "为D2C品牌提供预发布消费者洞察平台",
       "track": "saas",
       "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "消费者情报",
-        "D2C",
-        "SaaS"
+        "d2c",
+        "consumer-intelligence"
       ],
       "team": [],
       "product": "https://www.assemblysimulator.com/",
-      "founded": "2026-01",
-      "funding": "未公开",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 55,
+        "tech": 50,
         "growth": 50,
         "team": 50,
-        "market": 60
+        "market": 50
       },
-      "score": 54,
+      "score": 50,
       "discoveredAt": "2026-04-30",
       "discussionCount": 1,
       "contacts": {
@@ -2341,88 +2460,58 @@
       }
     },
     {
-      "id": "submityourwork",
-      "name": "SubmitYourWork",
-      "desc": "一键将初创公司提交到多个目录的开源工具",
-      "track": "saas",
-      "stage": "idea",
+      "id": "cognition",
+      "name": "Cognition",
+      "desc": "AI编码初创公司，正在以250亿美元估值进行融资谈判",
+      "track": "ai",
+      "stage": "b+",
       "city": "overseas",
       "tags": [
-        "开源",
-        "目录提交",
-        "工具"
+        "AI",
+        "coding",
+        "funding"
       ],
       "team": [],
-      "product": "https://github.com/Sketchjar/submityourwork",
-      "founded": "2026-01",
-      "funding": "未公开",
+      "product": "",
+      "founded": "",
+      "funding": "正在以250亿美元估值进行融资谈判",
       "scores": {
-        "tech": 40,
-        "growth": 30,
-        "team": 30,
-        "market": 40
+        "tech": 85,
+        "growth": 80,
+        "team": 50,
+        "market": 90
       },
-      "score": 35,
+      "score": 78,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
-        "website": {
-          "website": "https://github.com/Sketchjar/submityourwork",
-          "emails": [],
-          "socials": {
-            "github": "github",
-            "twitter": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
       }
     },
     {
-      "id": "nexu-io",
-      "name": "Nexu IO",
-      "desc": "本地优先的开源设计工具，替代Anthropic的Claude Design，支持多种AI CLI集成。",
+      "id": "nexu",
+      "name": "Nexu",
+      "desc": "本地优先开源设计系统工具，替代Claude Design",
       "track": "ai",
-      "stage": "seed",
+      "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "AI",
-        "open-source",
-        "design-tool"
+        "开源",
+        "设计系统",
+        "本地优先",
+        "AI"
       ],
       "team": [],
       "product": "https://github.com/nexu-io/open-design",
       "founded": null,
       "funding": null,
       "scores": {
-        "tech": 60,
-        "growth": 70,
+        "tech": 70,
+        "growth": 60,
         "team": 50,
         "market": 60
       },
@@ -4000,67 +4089,89 @@
       "relatedProject": "divine"
     },
     {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机",
-      "url": "http://www.geekpark.net/news/363596",
-      "snippet": "OpenAI硬件负责人Richard Ho分享硬件设计理念，暗示手机是模型发展的终点。",
-      "date": "2026-04-29",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
+      "url": "https://36kr.com/p/3789235646094339?f=rss",
+      "snippet": "武汉天石科丰新能源科技有限公司完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投，资金用于产品研发及百吨级产线落地。公司成立于2022年，聚焦硫化物固态电解质粉体材料。",
+      "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "tianshikefeng"
     },
     {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "HappyHorse 1.0在千问首发开启灰测免费体验，重构 AI 视频赛道",
-      "url": "http://www.geekpark.net/news/363406",
-      "snippet": "阿里巴巴ATH事业群发布HappyHorse 1.0模型，在Video Arena榜单曾获第一，免费体验。",
-      "date": "2026-04-29",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+      "url": "https://36kr.com/p/3788687934249989?f=rss",
+      "snippet": "优时科技宣布完成数亿元B2轮融资，由前海方舟领投，多家机构跟投。公司成立于2018年，专注于L4低速自动驾驶，已部署数千台设备，并开始拓展人形机器人业务。",
+      "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "ushi-tech"
     },
     {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "比亚迪天神之眼 B 选装5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归",
-      "url": "http://www.geekpark.net/news/363496",
-      "snippet": "比亚迪天神之眼B涨价，谷歌与五角大楼签AI协议，微信朋友圈改版等。",
-      "date": "2026-04-29",
+      "source": "创业邦",
+      "sourceIcon": "创",
+      "title": "不是又一个“中国版 Palantir”，爱化身走出企业级 AGI 本土化、演进式路径",
+      "url": "http://www.cyzone.cn/article/831811.html",
+      "snippet": "爱化身科技发布企业级AGI平台AHS Agentrix，已与伯克希尔·哈撒韦HomeServices签约。",
+      "date": "2026-04-28",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "ahs"
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "小米最新人形机器人的手，会「出汗」了",
-      "url": "https://www.ifanr.com/1664575",
-      "snippet": "小米人形机器人新进展，手部可出汗散热。",
+      "source": "创业邦",
+      "sourceIcon": "创",
+      "title": "融资丨MemoraX AI完成千万美金种子轮融资",
+      "url": "http://www.cyzone.cn/article/831758.html",
+      "snippet": "MemoraX AI完成千万美金种子轮融资，由钟鼎资本领投，专注大模型个性化记忆。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "memorax"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+      "url": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+      "snippet": "持续亏损的电动汽车公司在美国证券交易委员会调查期间向贾跃亭关联公司支付750万美元",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
-      "url": "https://www.ifanr.com/1664570",
-      "snippet": "含Anthropic估值超9000亿美元等科技新闻。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "snippet": "OpenAI推出ChatGPT账户高级安全选项，包括与Yubico合作",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "ChatGPT 拎包入住云计算一哥，你的下一任好同事可能是 AI",
-      "url": "https://www.ifanr.com/1664406",
-      "snippet": "云计算厂商推动SaaS转型，AI成为新同事。",
-      "date": "2026-04-29",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "snippet": "BioticsAI CEO Robhy Bustami讨论FDA批准、融资和医疗健康创业现实",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "bioticsai"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+      "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
+      "snippet": "风险投资公司137 Ventures筹集7亿美元投资成长阶段初创公司",
+      "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
@@ -4070,7 +4181,7 @@
       "sourceIcon": "TN",
       "title": "Betting on human augmentation, will lightweight exoskeletons go mainstream?",
       "url": "https://technode.com/2026/04/30/betting-on-human-augmentation-will-lightweight-exoskeletons-go-mainstream/",
-      "snippet": "Hypershell is trying to carve out a new category at the intersection of wearables and robotics, focusing on lightweight exoskeletons for outdoor and everyday use.",
+      "snippet": "中国初创公司Hypershell开发轻量级外骨骼，专注于户外和日常使用",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
@@ -4081,7 +4192,7 @@
       "sourceIcon": "TN",
       "title": "Oppo merges OnePlus and realme in major restructuring",
       "url": "https://technode.com/2026/04/30/oppo-merges-oneplus-and-realme-in-major-restructuring/",
-      "snippet": "An internal Oppo announcement revealed a major restructuring: OnePlus and realme have been formally merged to form a new sub-brand business unit.",
+      "snippet": "Oppo内部宣布重大重组，OnePlus和realme合并为新的子品牌业务单元",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
@@ -4092,63 +4203,41 @@
       "sourceIcon": "TN",
       "title": "Dreame Technology unveils rocket-assisted EV concept with 0.9-second acceleration",
       "url": "https://technode.com/2026/04/28/dreame-technology-unveils-rocket-assisted-ev-concept-with-0-9-second-acceleration/",
-      "snippet": "Dreame Technology unveiled a rocket-assisted EV concept, signaling ambitions beyond its core smart home business.",
+      "snippet": "追觅科技发布火箭助推电动汽车概念，0.9秒加速",
       "date": "2026-04-28",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "The Verge",
-      "sourceIcon": "TV",
-      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-      "snippet": "OpenAI will launch GPT-5.5-Cyber, a cybersecurity model available only to trusted 'cyber defenders', not the general public.",
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Elon Musk says his xAI startup's models were partially trained on OpenAI's tech",
+      "url": "https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php",
+      "snippet": "Elon Musk表示其xAI模型的训练部分使用了OpenAI技术。",
       "date": "2026-04-30",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "The Verge",
-      "sourceIcon": "TV",
-      "title": "DJI’s Osmo Pocket 4 is a better camera in every respect",
-      "url": "https://www.theverge.com/gadgets/920547/dji-osmo-pocket-4-review",
-      "snippet": "DJI's Osmo Pocket 4 is an evolutionary upgrade with better camera quality, but not launching in the US.",
-      "date": "2026-04-30",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
+      "likes": 7,
+      "comments": 1,
+      "relatedProject": "xai"
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Musk Says He 'Was a Fool' to Provide OpenAI's Early Funding",
       "url": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
-      "snippet": "马斯克称自己为OpenAI早期提供资金是愚蠢的，相关法律案件持续进行。",
+      "snippet": "Musk在法庭上称其为OpenAI提供早期融资是愚蠢的。",
       "date": "2026-04-30",
       "likes": 6,
       "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Leading Charity Stops Funding Open Access Publishing Because It's Not Working",
-      "url": "https://www.techdirt.com/2026/04/29/leading-cancer-charity-stops-funding-open-access-publishing-because-its-just-not-working/",
-      "snippet": "一家大型慈善机构停止资助开放获取出版，认为其效果不佳。",
-      "date": "2026-04-30",
-      "likes": 2,
-      "comments": 0,
-      "relatedProject": null
+      "relatedProject": "xai"
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Assembly – Pre-launch consumer intelligence for D2C brands",
       "url": "https://www.assemblysimulator.com/",
-      "snippet": "Assembly为D2C品牌提供发布前消费者情报。",
-      "date": "2026-04-30",
+      "snippet": "Assembly为D2C品牌提供发布前消费者洞察服务。",
+      "date": "2026-04-29",
       "likes": 1,
       "comments": 0,
       "relatedProject": "assembly"
@@ -4158,8 +4247,8 @@
       "sourceIcon": "HN",
       "title": "AI Coding Firm Cognition in Funding Talks at $25B Value",
       "url": "https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value",
-      "snippet": "AI编码公司Cognition正以250亿美元估值进行融资谈判。",
-      "date": "2026-04-30",
+      "snippet": "AI编码公司Cognition正在以250亿美元估值进行融资谈判",
+      "date": "2026-04-29",
       "likes": 6,
       "comments": 0,
       "relatedProject": "cognition"
@@ -4169,8 +4258,8 @@
       "sourceIcon": "HN",
       "title": "Put it in pencil: NASA's Artemis III mission to launch no earlier than late 2027",
       "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
-      "snippet": "NASA Artemis III任务最早2027年底发射。",
-      "date": "2026-04-30",
+      "snippet": "NASA Artemis III任务推迟至不早于2027年底",
+      "date": "2026-04-29",
       "likes": 2,
       "comments": 0,
       "relatedProject": null
@@ -4180,8 +4269,8 @@
       "sourceIcon": "HN",
       "title": "New Steam Controller to Launch in May 2026",
       "url": "https://boilingsteam.com/the-new-steam-controller-launches-in-may-2026/",
-      "snippet": "新款Steam控制器将于2026年5月发布。",
-      "date": "2026-04-30",
+      "snippet": "新Steam手柄将于2026年5月发布",
+      "date": "2026-04-29",
       "likes": 2,
       "comments": 0,
       "relatedProject": null
@@ -4191,10 +4280,10 @@
       "sourceIcon": "HN",
       "title": "Soft launch of open-source code platform for government",
       "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "snippet": "荷兰政府开源代码平台软启动。",
-      "date": "2026-04-30",
-      "likes": 542,
-      "comments": 124,
+      "snippet": "政府开源代码平台软启动",
+      "date": "2026-04-29",
+      "likes": 546,
+      "comments": 126,
       "relatedProject": null
     },
     {
@@ -4202,8 +4291,8 @@
       "sourceIcon": "HN",
       "title": "Why AI Startup Offices in NYC Are Flashy but Mostly Empty",
       "url": "https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d",
-      "snippet": "纽约AI初创公司办公室华丽但大多空置。",
-      "date": "2026-04-30",
+      "snippet": "纽约AI初创公司办公室光鲜但空置率高",
+      "date": "2026-04-29",
       "likes": 1,
       "comments": 0,
       "relatedProject": null
@@ -4211,35 +4300,57 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
+      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+      "snippet": "Paramount合并后外资持股49.5%",
+      "date": "2026-04-28",
+      "likes": 222,
+      "comments": 153,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Reporters at this news site are AI bots. OpenAI's appears to be funding it",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "snippet": "新闻网站Model Republic使用AI机器人记者，疑似由OpenAI资助",
+      "date": "2026-04-28",
+      "like": 3,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Chip Startup Aims to Shatter AI's Dreaded Memory Wall",
+      "url": "https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563",
+      "snippet": "芯片初创公司旨在打破AI内存墙",
+      "date": "2026-04-28",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The Ugly 500: Patterns from 500 startup audited in 2026",
+      "url": "https://vc-brain.com/report",
+      "snippet": "2026年审计500家初创公司的模式报告",
+      "date": "2026-04-28",
+      "likes": 3,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
       "title": "Ideavalu – AI generates startup ideas based on your esperience",
       "url": "https://www.ideavalu.com",
-      "snippet": "Ideavalu is an AI tool that generates startup ideas based on your experience and skills.",
+      "snippet": "AI生成创业点子平台，基于用户经验",
       "date": "2026-04-28",
       "likes": 1,
       "comments": 1,
       "relatedProject": "ideavalu"
-    },
-    {
-      "source": "V2EX",
-      "sourceIcon": "V2",
-      "title": "鼻中隔偏曲术后归来，后悔没早点做",
-      "url": "https://www.v2ex.com/t/1209534",
-      "snippet": "#### 0.前序 接上一个帖子[打算下周去做鼻中隔手术了，v 友有啥建议吗 - V2EX]( https://www.v2ex.com/t/1203953#reply59) 我本来以为这个问题的人不多，因为手术的事情和同事们交流了一下， **发现大家有类似交替性鼻塞的人还挺多的**。 简单记录一下这次鼻中隔手术的经历，也给后面有类似困扰的 v 友做个参考。 #### 1.手术过程 一早去医院办理",
-      "date": "2026-04-30",
-      "likes": 0,
-      "comments": 87,
-      "relatedProject": null
-    },
-    {
-      "source": "V2EX",
-      "sourceIcon": "V2",
-      "title": "现在写中文的博客还有意义吗",
-      "url": "https://www.v2ex.com/t/1209554",
-      "snippet": "大约一个月前开始写自己的第一个博客，当时 ai 建议我注意 SEO 我用 semrush 看了看，似乎谷歌什么词中文都没有流量，百度又基本上死了 后面就只能考虑从现有的社交平台上引流到博客了 不过这好像又和一开始我设想的，细水长流获取自然流量有冲突，每次分发都得人力来很累 或许现在博客这种形式在中文互联网上真的只能当作日记本了吗 这是我的[博客]( https://koukyo.site)，主要是写自己的从零",
-      "date": "2026-04-30",
-      "likes": 0,
-      "comments": 67,
-      "relatedProject": null
     }
   ]
 }

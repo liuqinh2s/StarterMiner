@@ -1233,7 +1233,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
@@ -2081,28 +2081,101 @@
       }
     },
     {
-      "id": "creati-ai",
-      "name": "Creati.ai",
-      "desc": "面向电商与社交媒体营销的AI创意引擎",
-      "track": "ai",
+      "id": "tianshikefeng",
+      "name": "武汉天石科丰新能源科技有限公司",
+      "desc": "硫化物固态电解质粉体材料研发与生产，具有高电导率和空气稳定性。",
+      "track": "newenergy",
+      "stage": "pre-a",
+      "city": "wuhan",
+      "tags": [
+        "固态电池",
+        "硫化物电解质",
+        "新能源材料"
+      ],
+      "team": [
+        {
+          "name": "王硕",
+          "role": "创始人兼首席科学家",
+          "bg": "武汉理工大学副教授，10年硫化物固态电解质研究经验，十余项专利"
+        }
+      ],
+      "product": "",
+      "founded": "2022-12",
+      "funding": "数千万元pre-A轮融资，元禾原点领投，天泓投资跟投，启辰资本担任财务顾问",
+      "scores": {
+        "tech": 80,
+        "growth": 50,
+        "team": 70,
+        "market": 70
+      },
+      "score": 67,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ushi-tech",
+      "name": "优时科技",
+      "desc": "专注于L4低速自动驾驶技术，基于计算机视觉，现延伸至人形机器人。",
+      "track": "robotics",
       "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "自动驾驶",
+        "计算机视觉",
+        "人形机器人",
+        "L4"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2018-06",
+      "funding": "数亿元B2轮融资，前海方舟领投，前海母基金、鲲翎资本、厚天资本等跟投",
+      "scores": {
+        "tech": 75,
+        "growth": 70,
+        "team": 60,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "creatia",
+      "name": "Creati.ai",
+      "desc": "海外AI创意引擎，专注电商与社交媒体营销",
+      "track": "ai",
+      "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI视频",
+        "AI创意",
         "电商营销",
-        "视频编辑"
+        "视频生成"
       ],
       "team": [],
       "product": "https://www.buzzy.now",
       "founded": "",
-      "funding": "新一轮超2000万美元，投资方包括Redpoint、创世伙伴创投等",
+      "funding": "新一轮融资超2000万美元，由Redpoint、创世伙伴创投等投资",
       "scores": {
-        "tech": 75,
-        "growth": 85,
+        "tech": 70,
+        "growth": 80,
         "team": 60,
-        "market": 80
+        "market": 75
       },
-      "score": 76,
+      "score": 72,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2120,36 +2193,36 @@
       }
     },
     {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆赛道的技术引领者",
+      "id": "ahs",
+      "name": "爱化身科技（北京）有限公司",
+      "desc": "企业级AGI平台，面向超大型企业提供数字员工",
       "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
+      "stage": "pre-a",
+      "city": "beijing",
       "tags": [
-        "大模型记忆",
-        "Agentic RL",
-        "企业知识管理"
+        "企业级AGI",
+        "智能体平台",
+        "数字员工"
       ],
       "team": [
         {
-          "name": "郝建业",
+          "name": "",
           "role": "创始人",
-          "bg": "天津大学菁英教授，国家优青，全球前2%科学家，ICML/NeurIPS/ICLR顶会产出排名全球前10，曾先后担任华为、腾讯等公司技术负责人"
+          "bg": "北大系"
         }
       ],
       "product": "",
-      "founded": "2026-03",
-      "funding": "千万美金种子轮，钟鼎资本领投",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 85,
-        "growth": 40,
-        "team": 85,
+        "tech": 65,
+        "growth": 50,
+        "team": 60,
         "market": 70
       },
-      "score": 68,
+      "score": 60,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
@@ -2159,29 +2232,28 @@
       }
     },
     {
-      "id": "modelbest",
-      "name": "面壁智能",
-      "desc": "专注端侧大模型的AI初创公司，推出端侧Agent框架EmbodiedClaw",
+      "id": "facewall",
+      "name": "北京面壁智能科技有限责任公司",
+      "desc": "端侧AI Agent框架及大模型厂商",
       "track": "ai",
-      "stage": "b+",
+      "stage": "pre-a",
       "city": "beijing",
       "tags": [
-        "端侧模型",
+        "端侧AI",
         "Agent",
-        "智能座舱",
         "大模型"
       ],
       "team": [],
-      "product": null,
-      "founded": "2022-06",
-      "funding": "已完成B轮融资",
+      "product": "",
+      "founded": "2022",
+      "funding": "",
       "scores": {
         "tech": 85,
-        "growth": 70,
-        "team": 80,
-        "market": 75
+        "growth": 60,
+        "team": 50,
+        "market": 80
       },
-      "score": 78,
+      "score": 70,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2195,33 +2267,32 @@
     {
       "id": "zibianliang",
       "name": "自变量机器人",
-      "desc": "具身智能初创公司，发布自研基础模型WALL-B，完成B轮融资",
+      "desc": "具身智能公司，专注通用机器人大脑及基础模型",
       "track": "robotics",
       "stage": "b",
-      "city": "beijing",
+      "city": "shenzhen",
       "tags": [
         "具身智能",
-        "机器人",
-        "基础模型",
-        "WALL-B"
+        "机器人基础模型",
+        "AGI"
       ],
       "team": [
         {
           "name": "王潜",
           "role": "创始人&CEO",
-          "bg": "具身智能领域专家"
+          "bg": ""
         }
       ],
-      "product": null,
+      "product": "",
       "founded": "2023-10",
-      "funding": "B轮融资，投资方包括小米战投等",
+      "funding": "B轮融资，小米、美团、阿里、字节等投资",
       "scores": {
-        "tech": 88,
-        "growth": 80,
+        "tech": 90,
+        "growth": 85,
         "team": 85,
-        "market": 85
+        "market": 90
       },
-      "score": 84,
+      "score": 88,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2235,27 +2306,26 @@
     {
       "id": "hypershell",
       "name": "Hypershell",
-      "desc": "Chinese startup developing lightweight lower-limb exoskeletons for outdoor and everyday use.",
+      "desc": "开发轻量级外骨骼用于户外和日常使用的中国初创公司",
       "track": "robotics",
       "stage": "seed",
-      "city": "beijing",
+      "city": "other",
       "tags": [
-        "exoskeleton",
-        "wearable",
-        "robotics",
-        "human augmentation"
+        "外骨骼",
+        "可穿戴",
+        "机器人"
       ],
       "team": [],
       "product": "",
-      "founded": "2021-01",
-      "funding": "Seed round, details undisclosed",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 70,
+        "tech": 75,
         "growth": 50,
-        "team": 50,
-        "market": 60
+        "team": 60,
+        "market": 70
       },
-      "score": 58,
+      "score": 64,
       "discoveredAt": "2026-04-30",
       "discussionCount": 1,
       "contacts": {
@@ -2267,33 +2337,83 @@
       }
     },
     {
-      "id": "cognition",
-      "name": "Cognition",
-      "desc": "AI编码工具公司，正在以250亿美元估值进行融资谈判",
-      "track": "ai",
-      "stage": "b+",
+      "id": "bioticsai",
+      "name": "BioticsAI",
+      "desc": "利用AI技术获得FDA批准的医疗健康初创公司",
+      "track": "biotech",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "AI编码",
-        "开发者工具",
-        "大模型"
+        "医疗AI",
+        "FDA",
+        "健康"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "Robhy Bustami",
+          "role": "CEO",
+          "bg": ""
+        }
+      ],
       "product": "",
-      "founded": "2023-01",
-      "funding": "正在以250亿美元估值融资",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
+        "tech": 70,
+        "growth": 50,
+        "team": 60,
         "market": 80
       },
-      "score": 71,
+      "score": 64,
       "discoveredAt": "2026-04-30",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "desc": "专注于人工智能研究的公司",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "team": [
+        {
+          "name": "Elon Musk",
+          "role": "CEO",
+          "bg": "Tesla, SpaceX founder"
+        }
+      ],
+      "product": "x.ai",
+      "founded": "2023-03",
+      "funding": "已获多轮融资，包括60亿美元",
+      "scores": {
+        "tech": 80,
+        "growth": 90,
+        "team": 90,
+        "market": 85
+      },
+      "score": 86,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 2,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {
+          "website": "x.ai",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -2301,27 +2421,26 @@
     },
     {
       "id": "assembly",
-      "name": "Assembly Simulator",
-      "desc": "为D2C品牌提供发布前的消费者情报服务",
+      "name": "Assembly",
+      "desc": "为D2C品牌提供预发布消费者洞察平台",
       "track": "saas",
       "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "消费者情报",
-        "D2C",
-        "SaaS"
+        "d2c",
+        "consumer-intelligence"
       ],
       "team": [],
       "product": "https://www.assemblysimulator.com/",
-      "founded": "2026-01",
-      "funding": "未公开",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 55,
+        "tech": 50,
         "growth": 50,
         "team": 50,
-        "market": 60
+        "market": 50
       },
-      "score": 54,
+      "score": 50,
       "discoveredAt": "2026-04-30",
       "discussionCount": 1,
       "contacts": {
@@ -2341,88 +2460,58 @@
       }
     },
     {
-      "id": "submityourwork",
-      "name": "SubmitYourWork",
-      "desc": "一键将初创公司提交到多个目录的开源工具",
-      "track": "saas",
-      "stage": "idea",
+      "id": "cognition",
+      "name": "Cognition",
+      "desc": "AI编码初创公司，正在以250亿美元估值进行融资谈判",
+      "track": "ai",
+      "stage": "b+",
       "city": "overseas",
       "tags": [
-        "开源",
-        "目录提交",
-        "工具"
+        "AI",
+        "coding",
+        "funding"
       ],
       "team": [],
-      "product": "https://github.com/Sketchjar/submityourwork",
-      "founded": "2026-01",
-      "funding": "未公开",
+      "product": "",
+      "founded": "",
+      "funding": "正在以250亿美元估值进行融资谈判",
       "scores": {
-        "tech": 40,
-        "growth": 30,
-        "team": 30,
-        "market": 40
+        "tech": 85,
+        "growth": 80,
+        "team": 50,
+        "market": 90
       },
-      "score": 35,
+      "score": 78,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-04-30",
-        "website": {
-          "website": "https://github.com/Sketchjar/submityourwork",
-          "emails": [],
-          "socials": {
-            "github": "github",
-            "twitter": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
       }
     },
     {
-      "id": "nexu-io",
-      "name": "Nexu IO",
-      "desc": "本地优先的开源设计工具，替代Anthropic的Claude Design，支持多种AI CLI集成。",
+      "id": "nexu",
+      "name": "Nexu",
+      "desc": "本地优先开源设计系统工具，替代Claude Design",
       "track": "ai",
-      "stage": "seed",
+      "stage": "pre-seed",
       "city": "overseas",
       "tags": [
-        "AI",
-        "open-source",
-        "design-tool"
+        "开源",
+        "设计系统",
+        "本地优先",
+        "AI"
       ],
       "team": [],
       "product": "https://github.com/nexu-io/open-design",
       "founded": null,
       "funding": null,
       "scores": {
-        "tech": 60,
-        "growth": 70,
+        "tech": 70,
+        "growth": 60,
         "team": 50,
         "market": 60
       },
