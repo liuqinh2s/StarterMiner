@@ -741,39 +741,6 @@
     }
   },
   {
-    "id": "youshi",
-    "name": "优时科技",
-    "contacts": {
-      "fetchedAt": "2026-04-30",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "weitao",
-    "name": "微滔生物",
-    "contacts": {
-      "fetchedAt": "2026-04-30",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "figure",
-    "name": "Figure AI",
-    "contacts": {
-      "fetchedAt": "2026-04-30",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "creati-ai",
     "name": "Creati.ai",
     "contacts": {
@@ -791,17 +758,6 @@
     }
   },
   {
-    "id": "ahs",
-    "name": "爱化身科技",
-    "contacts": {
-      "fetchedAt": "2026-04-30",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "memorax-ai",
     "name": "深圳忆纪元科技有限公司",
     "contacts": {
@@ -813,8 +769,113 @@
     }
   },
   {
+    "id": "modelbest",
+    "name": "面壁智能",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zibianliang",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "hypershell",
+    "name": "Hypershell",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cognition",
+    "name": "Cognition",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "assembly",
+    "name": "Assembly Simulator",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {
+        "website": "https://www.assemblysimulator.com/",
+        "emails": [
+          "team@assemblysimulator.com"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "submityourwork",
+    "name": "SubmitYourWork",
+    "contacts": {
+      "fetchedAt": "2026-04-30",
+      "website": {
+        "website": "https://github.com/Sketchjar/submityourwork",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "nexu-io",
-    "name": "Nexu.io",
+    "name": "Nexu IO",
     "contacts": {
       "fetchedAt": "2026-04-30",
       "website": {

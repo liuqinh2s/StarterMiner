@@ -976,7 +976,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 9,
+      "discussionCount": 7,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
@@ -1009,7 +1009,7 @@
       },
       "score": 65,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 9,
+      "discussionCount": 7,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
@@ -2081,139 +2081,28 @@
       }
     },
     {
-      "id": "youshi",
-      "name": "优时科技",
-      "desc": "专注于L4视觉自动驾驶及人形机器人的公司",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "beijing",
-      "tags": [
-        "自动驾驶",
-        "人形机器人",
-        "视觉AI"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2018-06",
-      "funding": "完成数亿元B2轮融资，累计8轮融资",
-      "scores": {
-        "tech": 85,
-        "growth": 70,
-        "team": 60,
-        "market": 80
-      },
-      "score": 74,
-      "discoveredAt": "2026-04-30",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-04-30",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "weitao",
-      "name": "微滔生物",
-      "desc": "专注于体内CAR-T细胞治疗药物研发的生物科技公司",
-      "track": "biotech",
-      "stage": "a",
-      "city": "shanghai",
-      "tags": [
-        "CAR-T",
-        "细胞治疗",
-        "肿瘤免疫"
-      ],
-      "team": [
-        {
-          "name": "刘雅容",
-          "role": "创始人/CEO",
-          "bg": "美国南加州大学博士，10余年CGT领域从业经验"
-        }
-      ],
-      "product": "",
-      "founded": "2025-01",
-      "funding": "A轮及A+轮融资超5000万美元",
-      "scores": {
-        "tech": 90,
-        "growth": 65,
-        "team": 80,
-        "market": 75
-      },
-      "score": 78,
-      "discoveredAt": "2026-04-30",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-04-30",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "figure",
-      "name": "Figure AI",
-      "desc": "人形机器人公司，生产效率大幅提升至每小时1台",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "人形机器人",
-        "AI",
-        "硬件"
-      ],
-      "team": [
-        {
-          "name": "Brett Adcock",
-          "role": "创始人",
-          "bg": "连续创业者"
-        }
-      ],
-      "product": "",
-      "founded": "2022-01",
-      "funding": "多轮融资，估值超百亿美元",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 60,
-        "market": 65
-      },
-      "score": 64,
-      "discoveredAt": "2026-04-30",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-04-30",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "creati-ai",
       "name": "Creati.ai",
-      "desc": "面向电商与社交媒体的AI创意引擎，服务Shein等头部品牌。",
+      "desc": "面向电商与社交媒体营销的AI创意引擎",
       "track": "ai",
-      "stage": "a/b+",
+      "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI创意",
+        "AI视频",
         "电商营销",
-        "视频生成"
+        "视频编辑"
       ],
       "team": [],
       "product": "https://www.buzzy.now",
       "founded": "",
-      "funding": "新一轮超2000万美元，红点创投等投资",
+      "funding": "新一轮超2000万美元，投资方包括Redpoint、创世伙伴创投等",
       "scores": {
-        "tech": 60,
-        "growth": 80,
-        "team": 50,
-        "market": 70
+        "tech": 75,
+        "growth": 85,
+        "team": 60,
+        "market": 80
       },
-      "score": 66,
+      "score": 76,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2231,34 +2120,34 @@
       }
     },
     {
-      "id": "ahs",
-      "name": "爱化身科技",
-      "desc": "企业级AGI平台，基于世界行为模型构建数字员工。",
+      "id": "memorax-ai",
+      "name": "深圳忆纪元科技有限公司",
+      "desc": "大模型个性化记忆赛道的技术引领者",
       "track": "ai",
       "stage": "seed",
-      "city": "beijing",
+      "city": "shenzhen",
       "tags": [
-        "企业级AGI",
-        "智能体平台",
-        "数字员工"
+        "大模型记忆",
+        "Agentic RL",
+        "企业知识管理"
       ],
       "team": [
         {
-          "name": "北大团队",
-          "role": "核心团队",
-          "bg": "北京大学"
+          "name": "郝建业",
+          "role": "创始人",
+          "bg": "天津大学菁英教授，国家优青，全球前2%科学家，ICML/NeurIPS/ICLR顶会产出排名全球前10，曾先后担任华为、腾讯等公司技术负责人"
         }
       ],
       "product": "",
-      "founded": "",
-      "funding": "",
+      "founded": "2026-03",
+      "funding": "千万美金种子轮，钟鼎资本领投",
       "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 60,
+        "tech": 85,
+        "growth": 40,
+        "team": 85,
         "market": 70
       },
-      "score": 62,
+      "score": 68,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
@@ -2270,39 +2159,246 @@
       }
     },
     {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆赛道，通过Agentic RL攻克长期记忆碎片化。",
+      "id": "modelbest",
+      "name": "面壁智能",
+      "desc": "专注端侧大模型的AI初创公司，推出端侧Agent框架EmbodiedClaw",
       "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
+      "stage": "b+",
+      "city": "beijing",
       "tags": [
-        "大模型记忆",
-        "Agentic RL",
-        "个性化AI"
+        "端侧模型",
+        "Agent",
+        "智能座舱",
+        "大模型"
       ],
-      "team": [
-        {
-          "name": "郝建业",
-          "role": "创始人",
-          "bg": "天津大学菁英教授，全球前2%科学家"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "千万美金种子轮，钟鼎资本领投",
+      "team": [],
+      "product": null,
+      "founded": "2022-06",
+      "funding": "已完成B轮融资",
       "scores": {
-        "tech": 80,
-        "growth": 40,
-        "team": 85,
-        "market": 70
+        "tech": 85,
+        "growth": 70,
+        "team": 80,
+        "market": 75
       },
-      "score": 67,
+      "score": 78,
       "discoveredAt": "2026-04-30",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-04-30",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "zibianliang",
+      "name": "自变量机器人",
+      "desc": "具身智能初创公司，发布自研基础模型WALL-B，完成B轮融资",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "基础模型",
+        "WALL-B"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "创始人&CEO",
+          "bg": "具身智能领域专家"
+        }
+      ],
+      "product": null,
+      "founded": "2023-10",
+      "funding": "B轮融资，投资方包括小米战投等",
+      "scores": {
+        "tech": 88,
+        "growth": 80,
+        "team": 85,
+        "market": 85
+      },
+      "score": 84,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "hypershell",
+      "name": "Hypershell",
+      "desc": "Chinese startup developing lightweight lower-limb exoskeletons for outdoor and everyday use.",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "beijing",
+      "tags": [
+        "exoskeleton",
+        "wearable",
+        "robotics",
+        "human augmentation"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2021-01",
+      "funding": "Seed round, details undisclosed",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 58,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cognition",
+      "name": "Cognition",
+      "desc": "AI编码工具公司，正在以250亿美元估值进行融资谈判",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI编码",
+        "开发者工具",
+        "大模型"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "正在以250亿美元估值融资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 80
+      },
+      "score": 71,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "assembly",
+      "name": "Assembly Simulator",
+      "desc": "为D2C品牌提供发布前的消费者情报服务",
+      "track": "saas",
+      "stage": "pre-seed",
+      "city": "overseas",
+      "tags": [
+        "消费者情报",
+        "D2C",
+        "SaaS"
+      ],
+      "team": [],
+      "product": "https://www.assemblysimulator.com/",
+      "founded": "2026-01",
+      "funding": "未公开",
+      "scores": {
+        "tech": 55,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 54,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {
+          "website": "https://www.assemblysimulator.com/",
+          "emails": [
+            "team@assemblysimulator.com"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "submityourwork",
+      "name": "SubmitYourWork",
+      "desc": "一键将初创公司提交到多个目录的开源工具",
+      "track": "saas",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "开源",
+        "目录提交",
+        "工具"
+      ],
+      "team": [],
+      "product": "https://github.com/Sketchjar/submityourwork",
+      "founded": "2026-01",
+      "funding": "未公开",
+      "scores": {
+        "tech": 40,
+        "growth": 30,
+        "team": 30,
+        "market": 40
+      },
+      "score": 35,
+      "discoveredAt": "2026-04-30",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-04-30",
+        "website": {
+          "website": "https://github.com/Sketchjar/submityourwork",
+          "emails": [],
+          "socials": {
+            "github": "github",
+            "twitter": "github",
+            "linkedin": "github"
+          },
+          "careerPage": "https://github.com/careers",
+          "jobListings": [
+            "Taylor, Engineering",
+            "Developer API",
+            "Product",
+            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+            "var videoData;",
+            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+            "for (var answer of videoWidgetData.answers) {",
+            "videoData = answer;",
+            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+            "window._jibe.models.jobs.paramsImpression.paramsData;",
+            "Candidate Data Privacy",
+            "Write better code with AI",
+            "var xmlRiskyhttp = new XMLHttpRequest();",
+            "var xmlSafehttp = new XMLHttpRequest();",
+            "newText.innerHTML = '';",
+            "window.useHTML4 = true;"
+          ]
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -2310,24 +2406,23 @@
     },
     {
       "id": "nexu-io",
-      "name": "Nexu.io",
-      "desc": "开源本地优先设计工具，替代Anthropic的Claude Design，支持HTML/PDF/PPTX导出",
+      "name": "Nexu IO",
+      "desc": "本地优先的开源设计工具，替代Anthropic的Claude Design，支持多种AI CLI集成。",
       "track": "ai",
-      "stage": "idea",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "开源",
-        "设计工具",
-        "本地优先",
-        "AI辅助"
+        "AI",
+        "open-source",
+        "design-tool"
       ],
       "team": [],
       "product": "https://github.com/nexu-io/open-design",
-      "founded": "",
-      "funding": "",
+      "founded": null,
+      "funding": null,
       "scores": {
-        "tech": 70,
-        "growth": 60,
+        "tech": 60,
+        "growth": 70,
         "team": 50,
         "market": 60
       },
@@ -3905,23 +4000,67 @@
       "relatedProject": "divine"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "Figure：生产效率大幅提升，可每小时生产1台机器人",
-      "url": "https://36kr.com/newsflashes/3788779581299719?f=rss",
-      "snippet": "Figure创始人布雷特·阿德科克称过去120天生产效率扩大24倍，从每天1台提升到每小时1台，本周生产55台人形机器人。",
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机",
+      "url": "http://www.geekpark.net/news/363596",
+      "snippet": "OpenAI硬件负责人Richard Ho分享硬件设计理念，暗示手机是模型发展的终点。",
+      "date": "2026-04-29",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "HappyHorse 1.0在千问首发开启灰测免费体验，重构 AI 视频赛道",
+      "url": "http://www.geekpark.net/news/363406",
+      "snippet": "阿里巴巴ATH事业群发布HappyHorse 1.0模型，在Video Arena榜单曾获第一，免费体验。",
+      "date": "2026-04-29",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "比亚迪天神之眼 B 选装5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归",
+      "url": "http://www.geekpark.net/news/363496",
+      "snippet": "比亚迪天神之眼B涨价，谷歌与五角大楼签AI协议，微信朋友圈改版等。",
+      "date": "2026-04-29",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范",
+      "title": "小米最新人形机器人的手，会「出汗」了",
+      "url": "https://www.ifanr.com/1664575",
+      "snippet": "小米人形机器人新进展，手部可出汗散热。",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "figure"
+      "relatedProject": null
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "snippet": "Claude制造商Anthropic可能以9000亿美元估值融资500亿美元。",
+      "source": "爱范儿",
+      "sourceIcon": "爱范",
+      "title": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+      "url": "https://www.ifanr.com/1664570",
+      "snippet": "含Anthropic估值超9000亿美元等科技新闻。",
       "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范",
+      "title": "ChatGPT 拎包入住云计算一哥，你的下一任好同事可能是 AI",
+      "url": "https://www.ifanr.com/1664406",
+      "snippet": "云计算厂商推动SaaS转型，AI成为新同事。",
+      "date": "2026-04-29",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
@@ -3929,9 +4068,20 @@
     {
       "source": "TechNode",
       "sourceIcon": "TN",
+      "title": "Betting on human augmentation, will lightweight exoskeletons go mainstream?",
+      "url": "https://technode.com/2026/04/30/betting-on-human-augmentation-will-lightweight-exoskeletons-go-mainstream/",
+      "snippet": "Hypershell is trying to carve out a new category at the intersection of wearables and robotics, focusing on lightweight exoskeletons for outdoor and everyday use.",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "hypershell"
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
       "title": "Oppo merges OnePlus and realme in major restructuring",
       "url": "https://technode.com/2026/04/30/oppo-merges-oneplus-and-realme-in-major-restructuring/",
-      "snippet": "Oppo内部宣布重组，一加和真我合并形成新的子品牌业务单元。",
+      "snippet": "An internal Oppo announcement revealed a major restructuring: OnePlus and realme have been formally merged to form a new sub-brand business unit.",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
@@ -3942,8 +4092,30 @@
       "sourceIcon": "TN",
       "title": "Dreame Technology unveils rocket-assisted EV concept with 0.9-second acceleration",
       "url": "https://technode.com/2026/04/28/dreame-technology-unveils-rocket-assisted-ev-concept-with-0-9-second-acceleration/",
-      "snippet": "追觅科技推出火箭助推电动车概念Nebula Next 01 JET Edition。",
+      "snippet": "Dreame Technology unveiled a rocket-assisted EV concept, signaling ambitions beyond its core smart home business.",
       "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "The Verge",
+      "sourceIcon": "TV",
+      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+      "snippet": "OpenAI will launch GPT-5.5-Cyber, a cybersecurity model available only to trusted 'cyber defenders', not the general public.",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "The Verge",
+      "sourceIcon": "TV",
+      "title": "DJI’s Osmo Pocket 4 is a better camera in every respect",
+      "url": "https://www.theverge.com/gadgets/920547/dji-osmo-pocket-4-review",
+      "snippet": "DJI's Osmo Pocket 4 is an evolutionary upgrade with better camera quality, but not launching in the US.",
+      "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
@@ -3951,35 +4123,123 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "China blocks Meta from acquiring AI startup Manus",
-      "url": "https://news.ycombinator.com/item?id=47924754",
-      "snippet": "China blocks Meta from acquiring AI startup Manus (apnews.com)",
-      "date": "2026-04-27",
-      "likes": 5,
+      "title": "Musk Says He 'Was a Fool' to Provide OpenAI's Early Funding",
+      "url": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+      "snippet": "马斯克称自己为OpenAI早期提供资金是愚蠢的，相关法律案件持续进行。",
+      "date": "2026-04-30",
+      "likes": 6,
       "comments": 0,
-      "relatedProject": "manus"
+      "relatedProject": null
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "China blocks Meta from acquiring AI startup Manus",
-      "url": "https://news.ycombinator.com/item?id=47922026",
-      "snippet": "China blocks Meta from acquiring AI startup Manus (npr.org)",
-      "date": "2026-04-27",
-      "likes": 3,
+      "title": "Leading Charity Stops Funding Open Access Publishing Because It's Not Working",
+      "url": "https://www.techdirt.com/2026/04/29/leading-cancer-charity-stops-funding-open-access-publishing-because-its-just-not-working/",
+      "snippet": "一家大型慈善机构停止资助开放获取出版，认为其效果不佳。",
+      "date": "2026-04-30",
+      "likes": 2,
       "comments": 0,
-      "relatedProject": "manus"
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Assembly – Pre-launch consumer intelligence for D2C brands",
+      "url": "https://www.assemblysimulator.com/",
+      "snippet": "Assembly为D2C品牌提供发布前消费者情报。",
+      "date": "2026-04-30",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "assembly"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "AI Coding Firm Cognition in Funding Talks at $25B Value",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value",
+      "snippet": "AI编码公司Cognition正以250亿美元估值进行融资谈判。",
+      "date": "2026-04-30",
+      "likes": 6,
+      "comments": 0,
+      "relatedProject": "cognition"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Put it in pencil: NASA's Artemis III mission to launch no earlier than late 2027",
+      "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+      "snippet": "NASA Artemis III任务最早2027年底发射。",
+      "date": "2026-04-30",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "New Steam Controller to Launch in May 2026",
+      "url": "https://boilingsteam.com/the-new-steam-controller-launches-in-may-2026/",
+      "snippet": "新款Steam控制器将于2026年5月发布。",
+      "date": "2026-04-30",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "snippet": "荷兰政府开源代码平台软启动。",
+      "date": "2026-04-30",
+      "likes": 542,
+      "comments": 124,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Why AI Startup Offices in NYC Are Flashy but Mostly Empty",
+      "url": "https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d",
+      "snippet": "纽约AI初创公司办公室华丽但大多空置。",
+      "date": "2026-04-30",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": null
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Ideavalu – AI generates startup ideas based on your esperience",
-      "url": "https://news.ycombinator.com/item?id=47930607",
-      "snippet": "Ideavalu – AI generates startup ideas based on your experience (ideavalu.com)",
+      "url": "https://www.ideavalu.com",
+      "snippet": "Ideavalu is an AI tool that generates startup ideas based on your experience and skills.",
       "date": "2026-04-28",
       "likes": 1,
       "comments": 1,
       "relatedProject": "ideavalu"
+    },
+    {
+      "source": "V2EX",
+      "sourceIcon": "V2",
+      "title": "鼻中隔偏曲术后归来，后悔没早点做",
+      "url": "https://www.v2ex.com/t/1209534",
+      "snippet": "#### 0.前序 接上一个帖子[打算下周去做鼻中隔手术了，v 友有啥建议吗 - V2EX]( https://www.v2ex.com/t/1203953#reply59) 我本来以为这个问题的人不多，因为手术的事情和同事们交流了一下， **发现大家有类似交替性鼻塞的人还挺多的**。 简单记录一下这次鼻中隔手术的经历，也给后面有类似困扰的 v 友做个参考。 #### 1.手术过程 一早去医院办理",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 87,
+      "relatedProject": null
+    },
+    {
+      "source": "V2EX",
+      "sourceIcon": "V2",
+      "title": "现在写中文的博客还有意义吗",
+      "url": "https://www.v2ex.com/t/1209554",
+      "snippet": "大约一个月前开始写自己的第一个博客，当时 ai 建议我注意 SEO 我用 semrush 看了看，似乎谷歌什么词中文都没有流量，百度又基本上死了 后面就只能考虑从现有的社交平台上引流到博客了 不过这好像又和一开始我设想的，细水长流获取自然流量有冲突，每次分发都得人力来很累 或许现在博客这种形式在中文互联网上真的只能当作日记本了吗 这是我的[博客]( https://koukyo.site)，主要是写自己的从零",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 67,
+      "relatedProject": null
     }
   ]
 }
