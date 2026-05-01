@@ -935,83 +935,16 @@
     }
   },
   {
-    "id": "creati-ai",
-    "name": "Creati.ai",
+    "id": "nexu-io",
+    "name": "nexu-io",
     "contacts": {
       "fetchedAt": "2026-05-01",
       "website": {
-        "website": "www.buzzy.now",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "memorax-ai",
-    "name": "深圳忆纪元科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "modelbest",
-    "name": "面壁智能（ModelBest）",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {
-        "website": "https://modelbest.com",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zizhuliang",
-    "name": "自变量机器人",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "cmblu",
-    "name": "CMBlu",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "submityourwork",
-    "name": "SubmitYourWork",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {
-        "website": "https://github.com/Sketchjar/submityourwork",
+        "website": "https://github.com/nexu-io/open-design",
         "emails": [],
         "socials": {
+          "twitter": "claudeai",
           "github": "github",
-          "twitter": "github",
           "linkedin": "github"
         },
         "careerPage": "https://github.com/careers",
@@ -1037,25 +970,6 @@
           "newText.innerHTML = '';",
           "window.useHTML4 = true;"
         ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "modelrepublic",
-    "name": "Model Republic",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {
-        "website": "https://www.modelrepublic.org/",
-        "emails": [
-          "your@email.com"
-        ],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
       },
       "github": {},
       "hiring": [],

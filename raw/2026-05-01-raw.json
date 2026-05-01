@@ -251,6 +251,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "4月车市分化加深，规模、出口和新能源转型决定座次",
+    "summary": "价格战仍在继续，只是从降价表变成了产品配置表，而增长则开始向少数体系型车企集中。",
+    "url": "https://www.tmtpost.com/7975063.html",
+    "published": "Fri, 01 May 2026 21:04:53 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-01"
+  },
+  {
+    "source": "钛媒体",
     "title": "蓝莓价格“崩盘”，谁在抢占下沉红利？",
     "summary": "蓝莓价格虽大幅下行，却借下沉市场打开大众化的全新增长通道。",
     "url": "https://www.tmtpost.com/7974479.html",
@@ -641,6 +651,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "published": "Fri, 01 May 2026 22:13:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-01"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
     "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
     "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
@@ -685,26 +705,6 @@
     "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
     "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
     "published": "Thu, 30 Apr 2026 18:20:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-    "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
-    "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
-    "published": "Thu, 30 Apr 2026 17:53:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-    "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
-    "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
-    "published": "Thu, 30 Apr 2026 15:29:49 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-01"
@@ -891,20 +891,60 @@
   },
   {
     "source": "The Verge",
-    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-    "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing […]",
-    "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-    "published": "2026-05-01T07:18:54-04:00",
+    "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
+    "summary": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in California this week, though both had previously been revealed in China in […]",
+    "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+    "published": "2026-05-01T13:55:08-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-01"
   },
   {
-    "source": "The Verge",
-    "title": "Dyson put someone else’s motor in its robot vacuum",
-    "summary": "Dyson, a company built on engineering high-speed motors, has confirmed to The Verge that its newest robot vacuum doesn't use a Dyson motor. The recently launched Spot & Scrub Ai robot vacuum and mop was \"co-engineered,\" Nathan Lawson McLean, senior design manager at Dyson, told The Verge. According to Lawson McLean, the device merges \"new […]",
-    "url": "https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea",
-    "published": "2026-05-01T07:00:00-04:00",
+    "source": "Hacker News",
+    "title": "Numbers and the launch algorithm of an indie game that was featured on itch.io",
+    "summary": "Article URL: https://blog.luden.io/how-we-stayed-on-the-front-page-of-itch-io-for-over-a-month-8e0d0cf1cc17 Comments URL: https://news.ycombinator.com/item?id=47978657 Points: 4 # Comments: 2",
+    "url": "https://blog.luden.io/how-we-stayed-on-the-front-page-of-itch-io-for-over-a-month-8e0d0cf1cc17",
+    "published": "Fri, 01 May 2026 18:58:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Running hackathons: startup&scaleup edition",
+    "summary": "Article URL: https://matloka.com/blog/internal-hackathon-playbook Comments URL: https://news.ycombinator.com/item?id=47978259 Points: 2 # Comments: 1",
+    "url": "https://matloka.com/blog/internal-hackathon-playbook",
+    "published": "Fri, 01 May 2026 18:29:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup's new mechanistic interpretability tool lets you debug LLMs",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/ Comments URL: https://news.ycombinator.com/item?id=47975983 Points: 1 # Comments: 0",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "published": "Fri, 01 May 2026 15:33:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+    "summary": "Article URL: https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/ Comments URL: https://news.ycombinator.com/item?id=47975357 Points: 5 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+    "published": "Fri, 01 May 2026 14:43:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A16Z hold funding event exclusively for Israelis",
+    "summary": "Article URL: https://twitter.com/tkexpress11/status/2049849280266141840 Comments URL: https://news.ycombinator.com/item?id=47975215 Points: 3 # Comments: 0",
+    "url": "https://twitter.com/tkexpress11/status/2049849280266141840",
+    "published": "Fri, 01 May 2026 14:29:37 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-01"
@@ -912,7 +952,7 @@
   {
     "source": "Hacker News",
     "title": "US lawmakers vote to reduce NSF funding by 20%",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01427-6 Comments URL: https://news.ycombinator.com/item?id=47972133 Points: 10 # Comments: 0",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01427-6 Comments URL: https://news.ycombinator.com/item?id=47972133 Points: 12 # Comments: 2",
     "url": "https://www.nature.com/articles/d41586-026-01427-6",
     "published": "Fri, 01 May 2026 07:32:19 +0000",
     "lang": "en",
@@ -922,7 +962,7 @@
   {
     "source": "Hacker News",
     "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-    "summary": "Article URL: https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/ Comments URL: https://news.ycombinator.com/item?id=47971977 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/ Comments URL: https://news.ycombinator.com/item?id=47971977 Points: 3 # Comments: 0",
     "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
     "published": "Fri, 01 May 2026 07:03:16 +0000",
     "lang": "en",
@@ -932,7 +972,7 @@
   {
     "source": "Hacker News",
     "title": "German energy tech startup becomes Europe's latest unicorn following €50M raise",
-    "summary": "Article URL: https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures Comments URL: https://news.ycombinator.com/item?id=47969903 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures Comments URL: https://news.ycombinator.com/item?id=47969903 Points: 2 # Comments: 0",
     "url": "https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures",
     "published": "Fri, 01 May 2026 00:03:21 +0000",
     "lang": "en",
@@ -962,19 +1002,9 @@
   {
     "source": "Hacker News",
     "title": "House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds",
-    "summary": "Article URL: https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote Comments URL: https://news.ycombinator.com/item?id=47965535 Points: 40 # Comments: 3",
+    "summary": "Article URL: https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote Comments URL: https://news.ycombinator.com/item?id=47965535 Points: 41 # Comments: 6",
     "url": "https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote",
     "published": "Thu, 30 Apr 2026 17:16:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup's new mechanistic interpretability tool lets you debug LLMs",
-    "summary": "Article URL: https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/ Comments URL: https://news.ycombinator.com/item?id=47965343 Points: 3 # Comments: 2",
-    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "published": "Thu, 30 Apr 2026 17:02:48 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-01"
@@ -1052,7 +1082,7 @@
   {
     "source": "Hacker News",
     "title": "Soft launch of open-source code platform for government",
-    "summary": "Article URL: https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/ Comments URL: https://news.ycombinator.com/item?id=47945918 Points: 550 # Comments: 126",
+    "summary": "Article URL: https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/ Comments URL: https://news.ycombinator.com/item?id=47945918 Points: 553 # Comments: 126",
     "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
     "published": "Wed, 29 Apr 2026 09:14:37 +0000",
     "lang": "en",
@@ -1060,69 +1090,49 @@
     "fetchedAt": "2026-05-01"
   },
   {
-    "source": "Hacker News",
-    "title": "Why AI Startup Offices in NYC Are Flashy but Mostly Empty",
-    "summary": "Article URL: https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d Comments URL: https://news.ycombinator.com/item?id=47944068 Points: 1 # Comments: 0",
-    "url": "https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d",
-    "published": "Wed, 29 Apr 2026 04:06:56 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#王菊卖700万房子给男友创业这段#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23王菊卖700万房子给男友创业这段%23",
+    "published": "2026-05-01",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SubmitYourWork – Submit your startup to directories from one place",
-    "summary": "Article URL: https://github.com/Sketchjar/submityourwork Comments URL: https://news.ycombinator.com/item?id=47942043 Points: 3 # Comments: 1",
-    "url": "https://github.com/Sketchjar/submityourwork",
-    "published": "Tue, 28 Apr 2026 23:03:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-    "summary": "Article URL: https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/ Comments URL: https://news.ycombinator.com/item?id=47936210 Points: 222 # Comments: 154",
-    "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-    "published": "Tue, 28 Apr 2026 15:54:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reporters at this news site are AI bots. OpenAI's appears to be funding it",
-    "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=47935477 Points: 3 # Comments: 0",
-    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-    "published": "Tue, 28 Apr 2026 14:53:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Chip Startup Aims to Shatter AI's Dreaded Memory Wall",
-    "summary": "Article URL: https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563 Comments URL: https://news.ycombinator.com/item?id=47935292 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563",
-    "published": "Tue, 28 Apr 2026 14:39:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-01"
+    "fetchedAt": "2026-05-01",
+    "meta": {
+      "hotValue": 73096,
+      "rank": 25
+    }
   },
   {
     "source": "GitHub新星",
     "title": "nexu-io/open-design",
-    "summary": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+    "summary": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / Op",
     "url": "https://github.com/nexu-io/open-design",
     "published": "2026-04-28T04:25:20Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-01",
     "meta": {
-      "stars": 9682,
-      "forks": 1076,
+      "stars": 11605,
+      "forks": 1304,
       "language": "TypeScript",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "freestylefly/awesome-gpt-image-2",
+    "summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "published": "2026-04-25T09:19:13Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-01",
+    "meta": {
+      "stars": 2961,
+      "forks": 447,
+      "language": null,
+      "createdDaysAgo": 6
     }
   }
 ]

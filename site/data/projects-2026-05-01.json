@@ -2442,7 +2442,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {
@@ -2483,7 +2483,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {},
@@ -2560,113 +2560,34 @@
     {
       "id": "dahangyueqian",
       "name": "上海大航跃迁航天科技有限公司",
-      "desc": "国内首家落地“筷子夹”塔架回收技术的商业航天公司，专注液氧甲烷火箭研制。",
+      "desc": "国内首家落地‘筷子夹’塔架回收技术的商业航天公司",
       "track": "aerospace",
-      "stage": "seed",
+      "stage": "a",
       "city": "shanghai",
       "tags": [
         "商业航天",
         "火箭回收",
-        "液氧甲烷发动机"
+        "塔架回收"
       ],
       "team": [
         {
           "name": "陈曙光",
           "role": "创始人",
-          "bg": "中国运载火箭技术研究院出身，曾任某头部火箭企业副总经理及技术负责人"
+          "bg": "前中国运载火箭技术研究院，曾任某头部火箭企业副总经理及技术负责人"
         }
       ],
       "product": "",
       "founded": "2024-02",
       "funding": "5亿元融资，前海方舟、厚纪资本、普华资本领投",
       "scores": {
-        "tech": 80,
-        "growth": 60,
-        "team": 85,
-        "market": 75
-      },
-      "score": 74,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "creati-ai",
-      "name": "Creati.ai",
-      "desc": "专注电商与社交媒体营销的海外AI创意引擎，已服务Shein等头部品牌，ARR超千万美元。",
-      "track": "ai",
-      "stage": "a",
-      "city": "overseas",
-      "tags": [
-        "AI创意",
-        "电商营销",
-        "视频生成"
-      ],
-      "team": [],
-      "product": "www.buzzy.now",
-      "founded": "2025-01",
-      "funding": "2026年完成超2000万美元融资，由红点创投、创世伙伴领投。",
-      "scores": {
-        "tech": 70,
-        "growth": 85,
-        "team": 50,
-        "market": 80
-      },
-      "score": 72,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {
-          "website": "www.buzzy.now",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆赛道技术引领者，通过Agentic RL攻克长期记忆碎片化痛点。",
-      "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "大模型",
-        "记忆",
-        "Agentic RL",
-        "企业知识管理"
-      ],
-      "team": [
-        {
-          "name": "郝建业",
-          "role": "创始人",
-          "bg": "天津大学菁英教授、国家优青、全球前2%科学家，顶会成果全球前10，谷歌学术引用超1.5万次。"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "2026年4月完成千万美金种子轮融资，钟鼎资本领投。",
-      "scores": {
         "tech": 85,
         "growth": 60,
-        "team": 90,
-        "market": 70
+        "team": 80,
+        "market": 85
       },
       "score": 76,
       "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {},
@@ -2676,149 +2597,38 @@
       }
     },
     {
-      "id": "modelbest",
-      "name": "面壁智能（ModelBest）",
-      "desc": "端侧AI Agent框架开发商，推出EmbodiedClaw端侧智能体",
+      "id": "nexu-io",
+      "name": "nexu-io",
+      "desc": "本地优先、开源的设计工具，替代Claude Design，支持多种输出格式和AI模型",
       "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "端侧AI",
-        "Agent",
-        "智能座舱"
-      ],
-      "team": [],
-      "product": "https://modelbest.com",
-      "founded": "2022-08",
-      "funding": "未公开",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {
-          "website": "https://modelbest.com",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zizhuliang",
-      "name": "自变量机器人",
-      "desc": "具身智能基础模型研发商，获阿里美团字节小米投资",
-      "track": "robotics",
-      "stage": "b",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "基础模型"
-      ],
-      "team": [
-        {
-          "name": "王潜",
-          "role": "创始人&CEO",
-          "bg": "未知"
-        }
-      ],
-      "product": "",
-      "founded": "2023-10",
-      "funding": "已获美团、阿里、字节、小米等战略投资",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "cmblu",
-      "name": "CMBlu",
-      "desc": "德国能源技术初创公司，开发储能解决方案，最新估值达独角兽。",
-      "track": "newenergy",
-      "stage": "b+",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "储能",
-        "能源技术",
-        "独角兽"
+        "open-source",
+        "design",
+        "AI"
       ],
       "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年获得三星风投5000万欧元融资",
-      "scores": {
-        "tech": 70,
-        "growth": 80,
-        "team": 60,
-        "market": 80
-      },
-      "score": 73,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "submityourwork",
-      "name": "SubmitYourWork",
-      "desc": "Tool to submit startups to directories from one place",
-      "track": "saas",
-      "stage": "idea",
-      "city": "other",
-      "tags": [
-        "startup directories",
-        "submission tool",
-        "open source"
-      ],
-      "team": [],
-      "product": "https://github.com/Sketchjar/submityourwork",
-      "founded": "",
+      "product": "https://github.com/nexu-io/open-design",
+      "founded": "2026-04",
       "funding": "",
       "scores": {
-        "tech": 40,
-        "growth": 20,
+        "tech": 80,
+        "growth": 90,
         "team": 50,
-        "market": 35
+        "market": 70
       },
-      "score": 35,
+      "score": 75,
       "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {
-          "website": "https://github.com/Sketchjar/submityourwork",
+          "website": "https://github.com/nexu-io/open-design",
           "emails": [],
           "socials": {
+            "twitter": "claudeai",
             "github": "github",
-            "twitter": "github",
             "linkedin": "github"
           },
           "careerPage": "https://github.com/careers",
@@ -2844,47 +2654,6 @@
             "newText.innerHTML = '';",
             "window.useHTML4 = true;"
           ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "modelrepublic",
-      "name": "Model Republic",
-      "desc": "AI-generated news site reportedly funded by OpenAI",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI news",
-        "generated content",
-        "propaganda"
-      ],
-      "team": [],
-      "product": "https://www.modelrepublic.org/",
-      "founded": "",
-      "funding": "Reportedly funded by OpenAI",
-      "scores": {
-        "tech": 55,
-        "growth": 40,
-        "team": 50,
-        "market": 50
-      },
-      "score": 48,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {
-          "website": "https://www.modelrepublic.org/",
-          "emails": [
-            "your@email.com"
-          ],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
         },
         "github": {},
         "hiring": [],

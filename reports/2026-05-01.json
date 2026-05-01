@@ -2442,7 +2442,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {
@@ -2483,7 +2483,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {},
@@ -2560,113 +2560,34 @@
     {
       "id": "dahangyueqian",
       "name": "上海大航跃迁航天科技有限公司",
-      "desc": "国内首家落地“筷子夹”塔架回收技术的商业航天公司，专注液氧甲烷火箭研制。",
+      "desc": "国内首家落地‘筷子夹’塔架回收技术的商业航天公司",
       "track": "aerospace",
-      "stage": "seed",
+      "stage": "a",
       "city": "shanghai",
       "tags": [
         "商业航天",
         "火箭回收",
-        "液氧甲烷发动机"
+        "塔架回收"
       ],
       "team": [
         {
           "name": "陈曙光",
           "role": "创始人",
-          "bg": "中国运载火箭技术研究院出身，曾任某头部火箭企业副总经理及技术负责人"
+          "bg": "前中国运载火箭技术研究院，曾任某头部火箭企业副总经理及技术负责人"
         }
       ],
       "product": "",
       "founded": "2024-02",
       "funding": "5亿元融资，前海方舟、厚纪资本、普华资本领投",
       "scores": {
-        "tech": 80,
-        "growth": 60,
-        "team": 85,
-        "market": 75
-      },
-      "score": 74,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "creati-ai",
-      "name": "Creati.ai",
-      "desc": "专注电商与社交媒体营销的海外AI创意引擎，已服务Shein等头部品牌，ARR超千万美元。",
-      "track": "ai",
-      "stage": "a",
-      "city": "overseas",
-      "tags": [
-        "AI创意",
-        "电商营销",
-        "视频生成"
-      ],
-      "team": [],
-      "product": "www.buzzy.now",
-      "founded": "2025-01",
-      "funding": "2026年完成超2000万美元融资，由红点创投、创世伙伴领投。",
-      "scores": {
-        "tech": 70,
-        "growth": 85,
-        "team": 50,
-        "market": 80
-      },
-      "score": 72,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {
-          "website": "www.buzzy.now",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆赛道技术引领者，通过Agentic RL攻克长期记忆碎片化痛点。",
-      "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "大模型",
-        "记忆",
-        "Agentic RL",
-        "企业知识管理"
-      ],
-      "team": [
-        {
-          "name": "郝建业",
-          "role": "创始人",
-          "bg": "天津大学菁英教授、国家优青、全球前2%科学家，顶会成果全球前10，谷歌学术引用超1.5万次。"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "2026年4月完成千万美金种子轮融资，钟鼎资本领投。",
-      "scores": {
         "tech": 85,
         "growth": 60,
-        "team": 90,
-        "market": 70
+        "team": 80,
+        "market": 85
       },
       "score": 76,
       "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {},
@@ -2676,149 +2597,38 @@
       }
     },
     {
-      "id": "modelbest",
-      "name": "面壁智能（ModelBest）",
-      "desc": "端侧AI Agent框架开发商，推出EmbodiedClaw端侧智能体",
+      "id": "nexu-io",
+      "name": "nexu-io",
+      "desc": "本地优先、开源的设计工具，替代Claude Design，支持多种输出格式和AI模型",
       "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "端侧AI",
-        "Agent",
-        "智能座舱"
-      ],
-      "team": [],
-      "product": "https://modelbest.com",
-      "founded": "2022-08",
-      "funding": "未公开",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {
-          "website": "https://modelbest.com",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zizhuliang",
-      "name": "自变量机器人",
-      "desc": "具身智能基础模型研发商，获阿里美团字节小米投资",
-      "track": "robotics",
-      "stage": "b",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "基础模型"
-      ],
-      "team": [
-        {
-          "name": "王潜",
-          "role": "创始人&CEO",
-          "bg": "未知"
-        }
-      ],
-      "product": "",
-      "founded": "2023-10",
-      "funding": "已获美团、阿里、字节、小米等战略投资",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "cmblu",
-      "name": "CMBlu",
-      "desc": "德国能源技术初创公司，开发储能解决方案，最新估值达独角兽。",
-      "track": "newenergy",
-      "stage": "b+",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "储能",
-        "能源技术",
-        "独角兽"
+        "open-source",
+        "design",
+        "AI"
       ],
       "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年获得三星风投5000万欧元融资",
-      "scores": {
-        "tech": 70,
-        "growth": 80,
-        "team": 60,
-        "market": 80
-      },
-      "score": 73,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "submityourwork",
-      "name": "SubmitYourWork",
-      "desc": "Tool to submit startups to directories from one place",
-      "track": "saas",
-      "stage": "idea",
-      "city": "other",
-      "tags": [
-        "startup directories",
-        "submission tool",
-        "open source"
-      ],
-      "team": [],
-      "product": "https://github.com/Sketchjar/submityourwork",
-      "founded": "",
+      "product": "https://github.com/nexu-io/open-design",
+      "founded": "2026-04",
       "funding": "",
       "scores": {
-        "tech": 40,
-        "growth": 20,
+        "tech": 80,
+        "growth": 90,
         "team": 50,
-        "market": 35
+        "market": 70
       },
-      "score": 35,
+      "score": 75,
       "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-01",
         "website": {
-          "website": "https://github.com/Sketchjar/submityourwork",
+          "website": "https://github.com/nexu-io/open-design",
           "emails": [],
           "socials": {
+            "twitter": "claudeai",
             "github": "github",
-            "twitter": "github",
             "linkedin": "github"
           },
           "careerPage": "https://github.com/careers",
@@ -2844,47 +2654,6 @@
             "newText.innerHTML = '';",
             "window.useHTML4 = true;"
           ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "modelrepublic",
-      "name": "Model Republic",
-      "desc": "AI-generated news site reportedly funded by OpenAI",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI news",
-        "generated content",
-        "propaganda"
-      ],
-      "team": [],
-      "product": "https://www.modelrepublic.org/",
-      "founded": "",
-      "funding": "Reportedly funded by OpenAI",
-      "scores": {
-        "tech": 55,
-        "growth": 40,
-        "team": 50,
-        "market": 50
-      },
-      "score": 48,
-      "discoveredAt": "2026-05-01",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-01",
-        "website": {
-          "website": "https://www.modelrepublic.org/",
-          "emails": [
-            "your@email.com"
-          ],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
         },
         "github": {},
         "hiring": [],
@@ -4691,132 +4460,44 @@
       "sourceIcon": "36Kr",
       "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
       "url": "https://36kr.com/p/3790141500366085?f=rss",
-      "snippet": "大航跃迁完成5亿元融资，由前海方舟、厚纪资本、普华资本领投，用于“跃迁一号”火箭研制与首飞。",
+      "snippet": "硬氪获悉，近日，上海大航跃迁航天科技有限公司完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投...",
       "date": "2026-05-01",
       "likes": 0,
       "comments": 0,
       "relatedProject": "dahangyueqian"
     },
     {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "OpenAI 硬件负责人的闭门分享...",
-      "url": "http://www.geekpark.net/news/363596",
-      "snippet": "你必须为模型将要去的方向设计硬件，而不是为今天的模型。",
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds",
+      "url": "https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote",
+      "snippet": "Article URL: https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote Comments URL: https://news.ycombinator.com/item?id=47965535 Points: 41 # Comments: 6",
+      "date": "2026-04-30",
+      "likes": 41,
+      "comments": 6,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Leading Charity Stops Funding Open Access Publishing Because It's Not Working",
+      "url": "https://www.techdirt.com/2026/04/29/leading-cancer-charity-stops-funding-open-access-publishing-because-its-just-not-working/",
+      "snippet": "Article URL: https://www.techdirt.com/2026/04/29/leading-cancer-charity-stops-funding-open-access-publishing-because-its-just-not-working/ Comments URL: https://news.ycombinator.com/item?id=47956218 Points: 3 # Comments: 0",
       "date": "2026-04-29",
-      "likes": 0,
+      "likes": 3,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "HappyHorse 1.0在千问首发开启灰测免费体验",
-      "url": "http://www.geekpark.net/news/363406",
-      "snippet": "一款名为 HappyHorse 1.0 的模型以匿名形式空降评测榜单，后由阿里官宣认领。",
-      "date": "2026-04-29",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "比亚迪天神之眼 B 选装5月1日开始涨价",
-      "url": "http://www.geekpark.net/news/363496",
-      "snippet": "受存储成本上涨影响，比亚迪天神之眼 B 选装价格上调。",
-      "date": "2026-04-29",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "The Verge",
-      "sourceIcon": "TV",
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "snippet": "Microsoft launches Legal Agent AI in Word for legal teams, handling document edits, negotiation history, and contract reviews using structured legal workflows.",
+      "source": "微博",
+      "sourceIcon": "WB",
+      "title": "#王菊卖700万房子给男友创业这段#",
+      "url": "https://s.weibo.com/weibo?q=%23王菊卖700万房子给男友创业这段%23",
+      "snippet": "",
       "date": "2026-05-01",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
-    },
-    {
-      "source": "Impact Loop",
-      "sourceIcon": "IL",
-      "title": "German energy tech startup becomes Europe's latest unicorn following €50M raise",
-      "url": "https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures",
-      "snippet": "德国能源技术初创公司CMBlu获得三星风投5000万欧元融资，成为欧洲最新独角兽。",
-      "date": "2026-04-30",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "cmblu"
-    },
-    {
-      "source": "MIT Technology Review",
-      "sourceIcon": "TR",
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-      "snippet": "独家电子书揭秘一家隐秘初创公司，推销无脑人类克隆技术。",
-      "date": "2026-04-30",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "MIT Technology Review",
-      "sourceIcon": "TR",
-      "title": "Startup's new mechanistic interpretability tool lets you debug LLMs",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "snippet": "一家初创公司推出新的机制可解释性工具，用于调试大语言模型。",
-      "date": "2026-04-30",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Assembly – Pre-launch consumer intelligence for D2C brands",
-      "url": "https://news.ycombinator.com/item?id=47953192",
-      "snippet": "Show HN: Assembly – Pre-launch consumer intelligence for D2C brands",
-      "date": "2026-04-29",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "assembly"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "AI Coding Firm Cognition in Funding Talks at $25B Value",
-      "url": "https://news.ycombinator.com/item?id=47950904",
-      "snippet": "AI coding firm Cognition in funding talks at $25 billion valuation",
-      "date": "2026-04-29",
-      "likes": 6,
-      "comments": 0,
-      "relatedProject": "cognition"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "SubmitYourWork – Submit your startup to directories from one place",
-      "url": "https://news.ycombinator.com/item?id=47942043",
-      "snippet": "Show HN: SubmitYourWork – Submit your startup to directories from one place",
-      "date": "2026-04-28",
-      "likes": 3,
-      "comments": 1,
-      "relatedProject": "submityourwork"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Reporters at this news site are AI bots. OpenAI's appears to be funding it",
-      "url": "https://news.ycombinator.com/item?id=47935477",
-      "snippet": "Reporters at this news site are AI bots; OpenAI's super PAC appears to be using it",
-      "date": "2026-04-28",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": "modelrepublic"
     }
   ]
 }
