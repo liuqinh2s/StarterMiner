@@ -924,12 +924,23 @@
     }
   },
   {
-    "id": "creatiai",
+    "id": "dahangyueqian",
+    "name": "上海大航跃迁航天科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-01",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati-ai",
     "name": "Creati.ai",
     "contacts": {
       "fetchedAt": "2026-05-01",
       "website": {
-        "website": "https://www.buzzy.now",
+        "website": "www.buzzy.now",
         "emails": [],
         "socials": {},
         "careerPage": null,
@@ -941,8 +952,8 @@
     }
   },
   {
-    "id": "ihs",
-    "name": "爱化身科技（北京）有限公司",
+    "id": "memorax-ai",
+    "name": "深圳忆纪元科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-01",
       "website": {},
@@ -952,41 +963,25 @@
     }
   },
   {
-    "id": "eight-sleep",
-    "name": "Eight Sleep",
+    "id": "modelbest",
+    "name": "面壁智能（ModelBest）",
     "contacts": {
       "fetchedAt": "2026-05-01",
-      "website": {},
+      "website": {
+        "website": "https://modelbest.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
     }
   },
   {
-    "id": "cata",
-    "name": "Cata",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "skio",
-    "name": "Skio",
-    "contacts": {
-      "fetchedAt": "2026-05-01",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "legora",
-    "name": "Legora",
+    "id": "zizhuliang",
+    "name": "自变量机器人",
     "contacts": {
       "fetchedAt": "2026-05-01",
       "website": {},
@@ -997,10 +992,71 @@
   },
   {
     "id": "cmblu",
-    "name": "CMBLU",
+    "name": "CMBlu",
     "contacts": {
       "fetchedAt": "2026-05-01",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "submityourwork",
+    "name": "SubmitYourWork",
+    "contacts": {
+      "fetchedAt": "2026-05-01",
+      "website": {
+        "website": "https://github.com/Sketchjar/submityourwork",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "modelrepublic",
+    "name": "Model Republic",
+    "contacts": {
+      "fetchedAt": "2026-05-01",
+      "website": {
+        "website": "https://www.modelrepublic.org/",
+        "emails": [
+          "your@email.com"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
