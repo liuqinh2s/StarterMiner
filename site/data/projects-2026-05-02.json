@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 10,
+      "discussionCount": 9,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 10,
+      "discussionCount": 9,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 10,
+      "discussionCount": 9,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -1766,7 +1766,7 @@
       },
       "score": 80,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -2404,7 +2404,7 @@
       },
       "score": 86,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 2,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -2661,220 +2661,21 @@
       }
     },
     {
-      "id": "dahang-yueqian",
-      "name": "上海大航跃迁航天科技有限公司",
-      "desc": "国内首家落地“筷子夹”塔架回收技术的商业航天公司，研制“跃迁一号”火箭。",
-      "track": "aerospace",
-      "stage": "a",
-      "city": "shanghai",
-      "tags": [
-        "商业航天",
-        "火箭回收",
-        "塔架回收",
-        "液氧甲烷发动机"
-      ],
-      "team": [
-        {
-          "name": "陈曙光",
-          "role": "创始人",
-          "bg": "早期任职于中国运载火箭技术研究院，2016年加入商业航天，曾任某头部火箭企业副总经理及技术负责人"
-        }
-      ],
-      "product": "",
-      "founded": "2024-02",
-      "funding": "完成5亿元融资，由前海方舟、厚纪资本、普华资本领投",
-      "scores": {
-        "tech": 80,
-        "growth": 60,
-        "team": 75,
-        "market": 70
-      },
-      "score": 71,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "tianshi-kefeng",
-      "name": "武汉天石科丰新能源科技有限公司",
-      "desc": "硫化物固态电解质粉体材料研发生产，实现高电导率与空气稳定性兼得。",
-      "track": "newenergy",
-      "stage": "pre-a",
-      "city": "wuhan",
-      "tags": [
-        "固态电池",
-        "硫化物电解质",
-        "新能源材料"
-      ],
-      "team": [
-        {
-          "name": "王硕",
-          "role": "创始人兼首席科学家",
-          "bg": "武汉理工大学副教授，研究硫化物固态电解质10年"
-        }
-      ],
-      "product": "",
-      "founded": "2022-12",
-      "funding": "完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投",
-      "scores": {
-        "tech": 85,
-        "growth": 65,
-        "team": 70,
-        "market": 80
-      },
-      "score": 75,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "assured-robot-intelligence",
-      "name": "Assured Robot Intelligence",
-      "desc": "专注于为机器人开发AI模型，使机器人能在复杂动态环境中理解并适应人类行为。",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "机器人AI",
-        "人形机器人",
-        "收购"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2022-01",
-      "funding": "被Meta收购，金额未披露",
-      "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 2,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "creati-ai",
-      "name": "Creati.ai",
-      "desc": "面向电商与社交媒体的AI创意引擎",
-      "track": "ai",
-      "stage": "a",
-      "city": "overseas",
-      "tags": [
-        "AI视频",
-        "电商营销",
-        "出海"
-      ],
-      "team": [],
-      "product": "https://www.buzzy.now",
-      "founded": "",
-      "funding": "新一轮融资超2000万美元，Redpoint、创世伙伴创投等投资",
-      "scores": {
-        "tech": 75,
-        "growth": 80,
-        "team": 70,
-        "market": 80
-      },
-      "score": 76,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {
-          "website": "https://www.buzzy.now",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "modelbest",
-      "name": "面壁智能",
-      "desc": "端侧AI Agent及大模型初创公司，展示EmbodiedClaw框架",
-      "track": "ai",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "端侧AI",
-        "Agent",
-        "智能座舱"
-      ],
-      "team": [],
-      "product": "https://modelbest.cn",
-      "founded": "2022-06",
-      "funding": "",
-      "scores": {
-        "tech": 65,
-        "growth": 55,
-        "team": 50,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {
-          "website": "https://modelbest.cn",
-          "emails": [
-            "business@modelbest.cn",
-            "pr@modelbest.cn",
-            "ir@modelbest.cn",
-            "career@modelbest.cn"
-          ],
-          "socials": {
-            "github": "OpenBMB"
-          },
-          "careerPage": "https://modelbest.cn/careers",
-          "jobListings": [
-            "高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。"
-          ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "cata",
       "name": "Cata",
-      "desc": "新加坡白标SaaS平台，帮助企业快速搭建在线服务",
+      "desc": "新加坡白标SaaS平台，提供可定制SaaS解决方案",
       "track": "saas",
       "stage": "seed",
       "city": "overseas",
       "tags": [
         "白标",
         "SaaS",
-        "东南亚"
+        "新加坡"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "530万美元种子轮融资",
+      "funding": "获530万美元种子轮融资",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -2895,7 +2696,7 @@
     {
       "id": "assured-robot-intelligence",
       "name": "Assured Robot Intelligence",
-      "desc": "人形机器人初创公司，被Meta收购以增强AI机器人模型",
+      "desc": "人形机器人初创，被Meta收购以强化AI模型",
       "track": "robotics",
       "stage": "b+",
       "city": "overseas",
@@ -2907,47 +2708,14 @@
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "被Meta收购，未公开金额",
-      "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 2,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "skio",
-      "name": "Skio",
-      "desc": "订阅计费金融科技公司，以1.05亿美元现金出售给Recharge",
-      "track": "fintech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "订阅计费",
-        "金融科技",
-        "退出"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "累计融资800万美元，以1.05亿美元现金出售",
+      "funding": "被Meta收购，金额未披露",
       "scores": {
         "tech": 50,
-        "growth": 60,
+        "growth": 50,
         "team": 50,
-        "market": 70
+        "market": 50
       },
-      "score": 57,
+      "score": 50,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
       "contacts": {
@@ -2966,23 +2734,88 @@
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "legal tech",
-        "AI",
-        "NLP"
+        "法律AI",
+        "法律科技",
+        "AI"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "估值56亿美元",
+      "funding": "估值达56亿美元",
       "scores": {
-        "tech": 80,
-        "growth": 85,
-        "team": 60,
-        "market": 80
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
       },
-      "score": 78,
+      "score": 50,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cmblu",
+      "name": "cmblu",
+      "desc": "德国能源科技初创公司，研发有机液流电池储能技术，成为欧洲最新独角兽。",
+      "track": "newenergy",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "储能",
+        "液流电池",
+        "独角兽"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "获三星风投5000万欧元融资",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 50,
+        "market": 80
+      },
+      "score": 65,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cognition-ai",
+      "name": "Cognition AI",
+      "desc": "AI编码初创公司，估值250亿美元",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI coding",
+        "software development"
+      ],
+      "team": [],
+      "product": null,
+      "founded": "2023",
+      "funding": "融资谈判中，估值250亿美元",
+      "scores": {
+        "tech": 85,
+        "growth": 90,
+        "team": 85,
+        "market": 80
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},

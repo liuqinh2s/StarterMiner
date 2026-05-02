@@ -977,82 +977,6 @@
     }
   },
   {
-    "id": "dahang-yueqian",
-    "name": "上海大航跃迁航天科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-02",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "tianshi-kefeng",
-    "name": "武汉天石科丰新能源科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-02",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "assured-robot-intelligence",
-    "name": "Assured Robot Intelligence",
-    "contacts": {
-      "fetchedAt": "2026-05-02",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "creati-ai",
-    "name": "Creati.ai",
-    "contacts": {
-      "fetchedAt": "2026-05-02",
-      "website": {
-        "website": "https://www.buzzy.now",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "modelbest",
-    "name": "面壁智能",
-    "contacts": {
-      "fetchedAt": "2026-05-02",
-      "website": {
-        "website": "https://modelbest.cn",
-        "emails": [
-          "business@modelbest.cn",
-          "pr@modelbest.cn",
-          "ir@modelbest.cn",
-          "career@modelbest.cn"
-        ],
-        "socials": {
-          "github": "OpenBMB"
-        },
-        "careerPage": "https://modelbest.cn/careers",
-        "jobListings": [
-          "高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "cata",
     "name": "Cata",
     "contacts": {
@@ -1075,8 +999,8 @@
     }
   },
   {
-    "id": "skio",
-    "name": "Skio",
+    "id": "legora",
+    "name": "Legora",
     "contacts": {
       "fetchedAt": "2026-05-02",
       "website": {},
@@ -1086,8 +1010,19 @@
     }
   },
   {
-    "id": "legora",
-    "name": "Legora",
+    "id": "cmblu",
+    "name": "cmblu",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cognition-ai",
+    "name": "Cognition AI",
     "contacts": {
       "fetchedAt": "2026-05-02",
       "website": {},
