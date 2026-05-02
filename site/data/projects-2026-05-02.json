@@ -568,7 +568,7 @@
       },
       "score": 66,
       "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -1766,7 +1766,7 @@
       },
       "score": 80,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -2404,7 +2404,7 @@
       },
       "score": 86,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 3,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -2442,7 +2442,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -2661,21 +2661,243 @@
       }
     },
     {
-      "id": "cata",
-      "name": "Cata",
-      "desc": "新加坡白标SaaS平台，提供可定制SaaS解决方案",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
+      "id": "zhuoyu",
+      "name": "卓驭科技有限公司",
+      "desc": "智能驾驶算法厂商，向物理AI转型，发布多模态基础模型。",
+      "track": "ai",
+      "stage": "b+",
+      "city": "shenzhen",
       "tags": [
-        "白标",
-        "SaaS",
-        "新加坡"
+        "智能驾驶",
+        "物理AI",
+        "多模态模型"
+      ],
+      "team": [
+        {
+          "name": "于贝贝",
+          "role": "副总裁",
+          "bg": "卓驭科技副总裁"
+        }
+      ],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "未披露",
+      "scores": {
+        "tech": 80,
+        "growth": 75,
+        "team": 70,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "magiclab",
+      "name": "魔法原子（MagicLab）",
+      "desc": "具身智能机器人公司，发布世界模型Magic-Mix等产品。",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "具身智能",
+        "人形机器人",
+        "世界模型"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "获530万美元种子轮融资",
+      "funding": "未披露",
+      "scores": {
+        "tech": 80,
+        "growth": 60,
+        "team": 50,
+        "market": 85
+      },
+      "score": 69,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "chaojubian",
+      "name": "超聚变数字技术股份有限公司",
+      "desc": "算力基础设施公司，前身为华为X86服务器业务，独立运营，冲刺IPO。",
+      "track": "hardtech",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "算力",
+        "服务器",
+        "数据中心"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2021-09",
+      "funding": "已完成至少8轮融资，估值超500亿元",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 85,
+        "market": 90
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "creati-ai",
+      "name": "Creati.ai",
+      "desc": "专注电商与社交媒体营销的AI创意引擎，推出全球首款视频版Photoshop产品Buzzy",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI创意",
+        "电商营销",
+        "视频编辑"
+      ],
+      "team": [],
+      "product": "https://www.buzzy.now",
+      "founded": "",
+      "funding": "新一轮融资超2000万美元，投资方包括红点创投、创世伙伴创投等",
+      "scores": {
+        "tech": 80,
+        "growth": 85,
+        "team": 70,
+        "market": 80
+      },
+      "score": 80,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {
+          "website": "https://www.buzzy.now",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "modelbest",
+      "name": "面壁智能",
+      "desc": "专注端侧AI的初创公司，推出端侧Agent框架EmbodiedClaw，展示于2026北京车展",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "端侧AI",
+        "具身智能",
+        "AI Agent"
+      ],
+      "team": [
+        {
+          "name": "李大海",
+          "role": "CEO",
+          "bg": "前知乎CTO"
+        }
+      ],
+      "product": "",
+      "founded": "2022-01",
+      "funding": "未披露，已完成多轮融资",
+      "scores": {
+        "tech": 80,
+        "growth": 60,
+        "team": 70,
+        "market": 75
+      },
+      "score": 71,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "x-auto",
+      "name": "自变量机器人（X-Autonomy）",
+      "desc": "具身智能机器人初创，自研基础模型WALL-B，获阿里、美团等巨头投资",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "通用大脑"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "CEO",
+          "bg": "前清华交叉信息研究院研究员"
+        }
+      ],
+      "product": "",
+      "founded": "2023-10",
+      "funding": "B轮，小米战投，累计11轮融资",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 80,
+        "market": 80
+      },
+      "score": 84,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cata",
+      "name": "Cata",
+      "desc": "新加坡白标SaaS平台，为企业提供定制化软件服务。",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "白标SaaS",
+        "新加坡",
+        "融资"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "530万美元种子轮融资",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -2696,26 +2918,59 @@
     {
       "id": "assured-robot-intelligence",
       "name": "Assured Robot Intelligence",
-      "desc": "人形机器人初创，被Meta收购以强化AI模型",
+      "desc": "被Meta收购的人形机器人初创公司。",
       "track": "robotics",
       "stage": "b+",
       "city": "overseas",
       "tags": [
         "人形机器人",
-        "AI",
-        "收购"
+        "被收购",
+        "Meta"
       ],
       "team": [],
       "product": "",
       "founded": "",
       "funding": "被Meta收购，金额未披露",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 70,
+        "growth": 60,
         "team": 50,
-        "market": 50
+        "market": 70
       },
-      "score": 50,
+      "score": 63,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "skio",
+      "name": "Skio",
+      "desc": "订阅计费金融科技公司，以1.05亿美元出售。",
+      "track": "fintech",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "订阅计费",
+        "YC",
+        "退出"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "累计融资800万美元，以1.05亿美元现金出售给Recharge",
+      "scores": {
+        "tech": 60,
+        "growth": 70,
+        "team": 60,
+        "market": 60
+      },
+      "score": 63,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
       "contacts": {
@@ -2729,26 +2984,26 @@
     {
       "id": "legora",
       "name": "Legora",
-      "desc": "法律AI初创，估值56亿美元，与Harvey竞争",
+      "desc": "法律AI初创公司，估值56亿美元，与Harvey竞争。",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
         "法律AI",
-        "法律科技",
-        "AI"
+        "高估值",
+        "竞争"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "估值达56亿美元",
+      "funding": "估值56亿美元，融资额未披露",
       "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
+        "tech": 75,
+        "growth": 80,
+        "team": 70,
+        "market": 75
       },
-      "score": 50,
+      "score": 76,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
       "contacts": {
@@ -2761,20 +3016,20 @@
     },
     {
       "id": "cmblu",
-      "name": "cmblu",
-      "desc": "德国能源科技初创公司，研发有机液流电池储能技术，成为欧洲最新独角兽。",
+      "name": "CMBlu",
+      "desc": "德国能源科技初创公司，开发有机液流电池，新晋独角兽",
       "track": "newenergy",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "储能",
+        "能源存储",
         "液流电池",
         "独角兽"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "获三星风投5000万欧元融资",
+      "funding": "获得三星风投5000万欧元融资，估值超10亿美元成为独角兽",
       "scores": {
         "tech": 70,
         "growth": 60,
@@ -2784,38 +3039,6 @@
       "score": 65,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "cognition-ai",
-      "name": "Cognition AI",
-      "desc": "AI编码初创公司，估值250亿美元",
-      "track": "ai",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI coding",
-        "software development"
-      ],
-      "team": [],
-      "product": null,
-      "founded": "2023",
-      "funding": "融资谈判中，估值250亿美元",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 85,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},

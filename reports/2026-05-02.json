@@ -568,7 +568,7 @@
       },
       "score": 66,
       "discoveredAt": "2026-04-26",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -1766,7 +1766,7 @@
       },
       "score": 80,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -2404,7 +2404,7 @@
       },
       "score": 86,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 3,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -2442,7 +2442,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {
@@ -2661,21 +2661,243 @@
       }
     },
     {
-      "id": "cata",
-      "name": "Cata",
-      "desc": "新加坡白标SaaS平台，提供可定制SaaS解决方案",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
+      "id": "zhuoyu",
+      "name": "卓驭科技有限公司",
+      "desc": "智能驾驶算法厂商，向物理AI转型，发布多模态基础模型。",
+      "track": "ai",
+      "stage": "b+",
+      "city": "shenzhen",
       "tags": [
-        "白标",
-        "SaaS",
-        "新加坡"
+        "智能驾驶",
+        "物理AI",
+        "多模态模型"
+      ],
+      "team": [
+        {
+          "name": "于贝贝",
+          "role": "副总裁",
+          "bg": "卓驭科技副总裁"
+        }
+      ],
+      "product": "",
+      "founded": "2023-01",
+      "funding": "未披露",
+      "scores": {
+        "tech": 80,
+        "growth": 75,
+        "team": 70,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "magiclab",
+      "name": "魔法原子（MagicLab）",
+      "desc": "具身智能机器人公司，发布世界模型Magic-Mix等产品。",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "具身智能",
+        "人形机器人",
+        "世界模型"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "获530万美元种子轮融资",
+      "funding": "未披露",
+      "scores": {
+        "tech": 80,
+        "growth": 60,
+        "team": 50,
+        "market": 85
+      },
+      "score": 69,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "chaojubian",
+      "name": "超聚变数字技术股份有限公司",
+      "desc": "算力基础设施公司，前身为华为X86服务器业务，独立运营，冲刺IPO。",
+      "track": "hardtech",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "算力",
+        "服务器",
+        "数据中心"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2021-09",
+      "funding": "已完成至少8轮融资，估值超500亿元",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 85,
+        "market": 90
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "creati-ai",
+      "name": "Creati.ai",
+      "desc": "专注电商与社交媒体营销的AI创意引擎，推出全球首款视频版Photoshop产品Buzzy",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI创意",
+        "电商营销",
+        "视频编辑"
+      ],
+      "team": [],
+      "product": "https://www.buzzy.now",
+      "founded": "",
+      "funding": "新一轮融资超2000万美元，投资方包括红点创投、创世伙伴创投等",
+      "scores": {
+        "tech": 80,
+        "growth": 85,
+        "team": 70,
+        "market": 80
+      },
+      "score": 80,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {
+          "website": "https://www.buzzy.now",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "modelbest",
+      "name": "面壁智能",
+      "desc": "专注端侧AI的初创公司，推出端侧Agent框架EmbodiedClaw，展示于2026北京车展",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "端侧AI",
+        "具身智能",
+        "AI Agent"
+      ],
+      "team": [
+        {
+          "name": "李大海",
+          "role": "CEO",
+          "bg": "前知乎CTO"
+        }
+      ],
+      "product": "",
+      "founded": "2022-01",
+      "funding": "未披露，已完成多轮融资",
+      "scores": {
+        "tech": 80,
+        "growth": 60,
+        "team": 70,
+        "market": 75
+      },
+      "score": 71,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "x-auto",
+      "name": "自变量机器人（X-Autonomy）",
+      "desc": "具身智能机器人初创，自研基础模型WALL-B，获阿里、美团等巨头投资",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "通用大脑"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "CEO",
+          "bg": "前清华交叉信息研究院研究员"
+        }
+      ],
+      "product": "",
+      "founded": "2023-10",
+      "funding": "B轮，小米战投，累计11轮融资",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 80,
+        "market": 80
+      },
+      "score": 84,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "cata",
+      "name": "Cata",
+      "desc": "新加坡白标SaaS平台，为企业提供定制化软件服务。",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "白标SaaS",
+        "新加坡",
+        "融资"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "530万美元种子轮融资",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -2696,26 +2918,59 @@
     {
       "id": "assured-robot-intelligence",
       "name": "Assured Robot Intelligence",
-      "desc": "人形机器人初创，被Meta收购以强化AI模型",
+      "desc": "被Meta收购的人形机器人初创公司。",
       "track": "robotics",
       "stage": "b+",
       "city": "overseas",
       "tags": [
         "人形机器人",
-        "AI",
-        "收购"
+        "被收购",
+        "Meta"
       ],
       "team": [],
       "product": "",
       "founded": "",
       "funding": "被Meta收购，金额未披露",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 70,
+        "growth": 60,
         "team": 50,
-        "market": 50
+        "market": 70
       },
-      "score": 50,
+      "score": 63,
+      "discoveredAt": "2026-05-02",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-02",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "skio",
+      "name": "Skio",
+      "desc": "订阅计费金融科技公司，以1.05亿美元出售。",
+      "track": "fintech",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "订阅计费",
+        "YC",
+        "退出"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "累计融资800万美元，以1.05亿美元现金出售给Recharge",
+      "scores": {
+        "tech": 60,
+        "growth": 70,
+        "team": 60,
+        "market": 60
+      },
+      "score": 63,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
       "contacts": {
@@ -2729,26 +2984,26 @@
     {
       "id": "legora",
       "name": "Legora",
-      "desc": "法律AI初创，估值56亿美元，与Harvey竞争",
+      "desc": "法律AI初创公司，估值56亿美元，与Harvey竞争。",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
         "法律AI",
-        "法律科技",
-        "AI"
+        "高估值",
+        "竞争"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "估值达56亿美元",
+      "funding": "估值56亿美元，融资额未披露",
       "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
+        "tech": 75,
+        "growth": 80,
+        "team": 70,
+        "market": 75
       },
-      "score": 50,
+      "score": 76,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
       "contacts": {
@@ -2761,20 +3016,20 @@
     },
     {
       "id": "cmblu",
-      "name": "cmblu",
-      "desc": "德国能源科技初创公司，研发有机液流电池储能技术，成为欧洲最新独角兽。",
+      "name": "CMBlu",
+      "desc": "德国能源科技初创公司，开发有机液流电池，新晋独角兽",
       "track": "newenergy",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "储能",
+        "能源存储",
         "液流电池",
         "独角兽"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "获三星风投5000万欧元融资",
+      "funding": "获得三星风投5000万欧元融资，估值超10亿美元成为独角兽",
       "scores": {
         "tech": 70,
         "growth": 60,
@@ -2784,38 +3039,6 @@
       "score": 65,
       "discoveredAt": "2026-05-02",
       "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-02",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "cognition-ai",
-      "name": "Cognition AI",
-      "desc": "AI编码初创公司，估值250亿美元",
-      "track": "ai",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI coding",
-        "software development"
-      ],
-      "team": [],
-      "product": null,
-      "founded": "2023",
-      "funding": "融资谈判中，估值250亿美元",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 85,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-05-02",
-      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-02",
         "website": {},
@@ -4666,20 +4889,196 @@
     {
       "source": "36氪",
       "sourceIcon": "36氪",
-      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
-      "url": "https://36kr.com/p/3791460373929221?f=rss",
-      "snippet": "马斯克承认xAI的Grok模型蒸馏了ChatGPT，引发舆论哗然。",
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+      "url": "https://36kr.com/p/3789475357400068?f=rss",
+      "snippet": "卓驭科技副总裁于贝贝谈物理AI转型必要性，发布多模态基础模型。",
       "date": "2026-05-02",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "xai"
+      "relatedProject": "zhuoyu"
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+      "url": "https://36kr.com/p/3792155815304450?f=rss",
+      "snippet": "魔法原子MagicLab在硅谷举办全球具身智能创新大会，发布世界模型Magic-Mix。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "magiclab"
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "又一算力独角兽，冲击IPO",
+      "url": "https://36kr.com/p/3791796527602951?f=rss",
+      "snippet": "超聚变数字技术股份有限公司完成IPO辅导，前身为华为X86服务器业务，估值超500亿元。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "chaojubian"
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "创业邦",
+      "title": "KargoBot Inside战略发布，卡尔动力驱动L4自动驾驶货运进入万台时代",
+      "url": "http://www.cyzone.cn/article/831771.html",
+      "snippet": "卡尔动力正式发布面向L4货运下一个十年的核心战略KargoBot Inside，标志着L4自动驾驶货运从技术验证正式迈入全维落地阶段。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "kargobot"
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "价值判断：涨停板的投资机会和风险提示（4月30日）｜证券市场观察",
+      "url": "https://www.tmtpost.com/7975390.html",
+      "snippet": "主要指数本月集体收涨，创业板指涨超15%，科创50指数大涨超25%，沪指站稳4100点。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "曾毓群的能源帝国：每周赚一个独角兽，在下一盘什么棋？",
+      "url": "https://www.tmtpost.com/7975255.html",
+      "snippet": "宁德时代转型新能源操作系统，换电联盟、凝聚态电池、港股配售布局未来。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "Edge AI Daily 早报（5月2日）",
+      "url": "https://www.tmtpost.com/7975180.html",
+      "snippet": "Meta收购Assured Robot Intelligence强化人形机器人战略布局；Alphabet市值逼近5万亿美元；五角大楼与AI巨头达成协议等。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24%",
+      "url": "http://www.geekpark.net/news/363696",
+      "snippet": "iPhone Air激活量勉强破70万台，安卓厂商叫停超薄旗舰；腾讯增持游戏科学至24%。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售",
+      "url": "http://www.geekpark.net/news/363694",
+      "snippet": "DeepSeek发布多模态模型，基于视觉原语的思考框架；小红书组织调整；宇树发布双臂人形机器人。",
+      "date": "2026-05-01",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？",
+      "url": "http://www.geekpark.net/news/363649",
+      "snippet": "奔驰智能化突破，纯电CLA支持城区及高速辅助驾驶，后排娱乐系统部署VLM大模型。",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "AI 走出屏幕，家电变成「机器人」",
+      "url": "http://www.geekpark.net/news/363602",
+      "snippet": "追觅科技发布DREAME NEXT，展望AI+家电未来十年，从清洁机器人扩展到大家电。",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道",
+      "url": "http://www.geekpark.net/news/363594",
+      "snippet": "结束与微软独家合作，OpenAI 模型接入亚马逊 AWS 4 月 29 日，在亚马逊云科技（Amazon Web Services，简称 AWS）新品发布会上，AWS 宣布携手 OpenAI，将 OpenAI 最新大模型接入 Amazon Bedrock，在 Amazon Bedrock 上线 Codex 代码 Agent，并推出由 OpenAI 赋能的 Amazon Bedrock 托管 Agent（以上功能均为有限预览版）。",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机",
+      "url": "http://www.geekpark.net/news/363596",
+      "snippet": "「你必须为模型将要去的方向设计硬件，而不是为今天的模型。」 作者｜张勇毅 编辑｜ 靖宇 昨天，当 OpenAI 做智能手机的具体规格与供应链爆料发布时，我第一反应不是「他们要做手机了」，而是「OpenAI 最终也不得不踏出这一步」，同时想起两周前 Richard Ho 在 Stanford 那场交流。",
+      "date": "2026-04-29",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "HappyHorse 1.0在千问首发开启灰测免费体验，重构 AI 视频赛道",
+      "url": "http://www.geekpark.net/news/363406",
+      "snippet": "前段时间，AI 视频生成赛道迎来了一场无预热的行业震动。 一款名为 HappyHorse 1.0 的模型以匿名形式空降权威第三方评测平台 Artificial Analysis 的 Video Arena 榜单，一度拿下第一。",
+      "date": "2026-04-29",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "比亚迪天神之眼 B 选装5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归",
+      "url": "http://www.geekpark.net/news/363496",
+      "snippet": "谷歌被曝与五角大楼签署机密 AI 协议，条款宽松程度超 OpenAI 当地时间 4 月 27 日，据知情人士透露，谷歌与美国国防部签署了一项机密 AI 协议，允许五角大楼将谷歌 AI 用于任何合法的政府目的。",
+      "date": "2026-04-29",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "动点科技",
+      "sourceIcon": "动点",
+      "title": "消息称苹果已基本放弃Vision Pro，重心转向智能眼镜",
+      "url": "https://cn.technode.com/post/2026-04-30/apple-reportedly-gives-up-on-vision-pro-focuses-on-smart-glasses/",
+      "snippet": "搭载M5芯片的新版Vision Pro未能重新带动市场兴趣",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "动点科技",
+      "sourceIcon": "动点",
+      "title": "消息称Anthropic新一轮融资估值或达8500亿至9000亿美元",
+      "url": "https://cn.technode.com/post/2026-04-30/anthropic-fundraising-valuation-850-to-900-billion/",
+      "snippet": "融资规模预计在400亿至500亿美元之间",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
     },
     {
       "source": "动点科技",
       "sourceIcon": "动点",
       "title": "新加坡白标SaaS平台Cata获得530万美元融资",
       "url": "https://cn.technode.com/post/2026-04-30/cata-raises-5-3m-seed-funding/",
-      "snippet": "动点出海获悉，新加坡白标SaaS平台Ca […]",
+      "snippet": "新加坡白标SaaS平台Ca […]",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
@@ -4688,9 +5087,20 @@
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "snippet": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
       "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
       "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "snippet": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "snippet": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots.",
       "date": "2026-05-01",
       "likes": 0,
       "comments": 0,
@@ -4699,23 +5109,56 @@
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
+      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
+      "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
+      "snippet": "Subscription billing fintech Skio sold to its competitor Recharge.",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "skio"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "snippet": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours.",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
       "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
       "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "snippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+      "snippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf.",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
       "relatedProject": "legora"
     },
     {
-      "source": "The Verge",
-      "sourceIcon": "VG",
-      "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
-      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
-      "snippet": "Dreame, known for robot vacuums, launches smartphones at Next event in California, previously revealed in China.",
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Numbers and the launch algorithm of an indie game that was featured on itch.io",
+      "url": "https://blog.luden.io/how-we-stayed-on-the-front-page-of-itch-io-for-over-a-month-8e0d0cf1cc17",
+      "snippet": "文章讨论了独立游戏在itch.io上保持首页展示的发布算法和策略。",
       "date": "2026-05-01",
-      "likes": 0,
-      "comments": 0,
+      "likes": 5,
+      "comments": 2,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Running hackathons: startup&scaleup edition",
+      "url": "https://matloka.com/blog/internal-hackathon-playbook",
+      "snippet": "提供内部黑客马拉松的运营手册，适用于初创公司和成长期企业。",
+      "date": "2026-05-01",
+      "likes": 2,
+      "comments": 1,
       "relatedProject": null
     },
     {
@@ -4723,7 +5166,7 @@
       "sourceIcon": "HN",
       "title": "Startup's new mechanistic interpretability tool lets you debug LLMs",
       "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "snippet": "一家初创公司推出新的机械可解释性工具，可用于调试大语言模型。",
+      "snippet": "一家初创公司推出了新型机械可解释性工具，可用于调试大语言模型。",
       "date": "2026-05-01",
       "likes": 1,
       "comments": 0,
@@ -4732,9 +5175,42 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
+      "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+      "url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+      "snippet": "俄罗斯在乌克兰目标范围内的航天发射场后隐藏发射计划。",
+      "date": "2026-05-01",
+      "likes": 6,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "A16Z hold funding event exclusively for Israelis",
+      "url": "https://twitter.com/tkexpress11/status/2049849280266141840",
+      "snippet": "A16Z举办仅限以色列创始人的融资活动。",
+      "date": "2026-05-01",
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "US lawmakers vote to reduce NSF funding by 20%",
+      "url": "https://www.nature.com/articles/d41586-026-01427-6",
+      "snippet": "美国立法者投票决定将NSF（国家科学基金会）资金削减20%。",
+      "date": "2026-05-01",
+      "likes": 13,
+      "comments": 2,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
       "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
       "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-      "snippet": "一本电子书揭露一家隐形初创公司推销无脑人类克隆技术。",
+      "snippet": "独家电子书揭秘一家隐秘初创公司，曾推销无脑人类克隆技术。",
       "date": "2026-05-01",
       "likes": 3,
       "comments": 0,
@@ -4745,11 +5221,44 @@
       "sourceIcon": "HN",
       "title": "German energy tech startup becomes Europe's latest unicorn following €50M raise",
       "url": "https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures",
-      "snippet": "德国能源科技初创公司cmblu获三星风投5000万欧元融资，成为欧洲最新独角兽。",
+      "snippet": "德国能源科技初创公司CMBlu获得三星风投5000万欧元融资，成为欧洲最新独角兽。",
       "date": "2026-05-01",
       "likes": 2,
       "comments": 0,
       "relatedProject": "cmblu"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
+      "url": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
+      "snippet": "蓝色起源为新格伦火箭设定了雄心勃勃的发射目标。",
+      "date": "2026-04-30",
+      "likes": 6,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Qualcomm, Apple, and Nuvia alumni form CPU startup – Nuvacore",
+      "url": "https://news.ycombinator.com/item?id=47956838",
+      "snippet": "由高通、苹果和Nuvia前员工组建的新CPU初创公司Nuvacore，承诺重写硅片规则。",
+      "date": "2026-04-30",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": "nuvacore"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Assembly – Pre-launch consumer intelligence for D2C brands",
+      "url": "https://news.ycombinator.com/item?id=47953192",
+      "snippet": "Assembly为D2C品牌提供预售前消费者情报的网站。",
+      "date": "2026-04-29",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "assembly"
     }
   ]
 }

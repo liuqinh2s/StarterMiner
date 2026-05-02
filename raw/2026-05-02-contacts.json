@@ -977,6 +977,78 @@
     }
   },
   {
+    "id": "zhuoyu",
+    "name": "卓驭科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "magiclab",
+    "name": "魔法原子（MagicLab）",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "chaojubian",
+    "name": "超聚变数字技术股份有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati-ai",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "modelbest",
+    "name": "面壁智能",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "x-auto",
+    "name": "自变量机器人（X-Autonomy）",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "cata",
     "name": "Cata",
     "contacts": {
@@ -999,6 +1071,17 @@
     }
   },
   {
+    "id": "skio",
+    "name": "Skio",
+    "contacts": {
+      "fetchedAt": "2026-05-02",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "legora",
     "name": "Legora",
     "contacts": {
@@ -1011,18 +1094,7 @@
   },
   {
     "id": "cmblu",
-    "name": "cmblu",
-    "contacts": {
-      "fetchedAt": "2026-05-02",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "cognition-ai",
-    "name": "Cognition AI",
+    "name": "CMBlu",
     "contacts": {
       "fetchedAt": "2026-05-02",
       "website": {},
