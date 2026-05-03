@@ -2404,7 +2404,7 @@
       },
       "score": 86,
       "discoveredAt": "2026-04-30",
-      "discussionCount": 2,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-03",
         "website": {
@@ -3048,61 +3048,34 @@
       }
     },
     {
-      "id": "upstage",
-      "name": "Upstage",
-      "desc": "韩国AI初创公司，开发AI解决方案和LLM，获韩国政府投资",
+      "id": "zhuyu",
+      "name": "卓驭科技",
+      "desc": "聚焦物理AI和智能驾驶的算法厂商，推出多模态基础模型",
       "track": "ai",
       "stage": "b+",
-      "city": "overseas",
+      "city": "shenzhen",
       "tags": [
-        "LLM",
-        "韩国",
-        "AI独角兽"
+        "智能驾驶",
+        "物理AI",
+        "自动驾驶"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "于贝贝",
+          "role": "副总裁",
+          "bg": "智能驾驶领域专家"
+        }
+      ],
       "product": "",
-      "founded": "2020-01",
-      "funding": "韩国政府投资5600亿韩元（约3.806亿美元）",
+      "founded": "2021-01",
+      "funding": "多轮融资，具体未披露",
       "scores": {
-        "tech": 75,
+        "tech": 85,
         "growth": 70,
-        "team": 50,
-        "market": 65
+        "team": 80,
+        "market": 85
       },
-      "score": 66,
-      "discoveredAt": "2026-05-03",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-03",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "kalldongli",
-      "name": "卡尔动力",
-      "desc": "L4自动驾驶货运企业，发布KargoBot Inside战略",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "自动驾驶",
-        "干线物流",
-        "L4货运"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "未披露",
-      "scores": {
-        "tech": 80,
-        "growth": 75,
-        "team": 50,
-        "market": 70
-      },
-      "score": 70,
+      "score": 80,
       "discoveredAt": "2026-05-03",
       "discussionCount": 0,
       "contacts": {
@@ -3114,28 +3087,218 @@
       }
     },
     {
-      "id": "arknet",
-      "name": "Arknet",
-      "desc": "去中心化AI推理平台，公平启动，单一二进制文件",
+      "id": "upstage",
+      "name": "Upstage",
+      "desc": "韩国AI独角兽，开发AI解决方案和大语言模型",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "LLM",
+        "AI解决方案",
+        "韩国独角兽"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "获韩国政策基金5600亿韩元投资（约3.8亿美元）",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 60,
+        "market": 65
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-03",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-03",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xautonomous",
+      "name": "自变量机器人",
+      "desc": "具身智能基础模型研发商，获阿里、美团、字节、小米等巨头投资",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "基础模型",
+        "WALL-B"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "创始人兼CEO",
+          "bg": "具身智能领域连续创业者"
+        }
+      ],
+      "product": "",
+      "founded": "2023-10",
+      "funding": "已完成B轮融资，投资方包括小米战投；此前获美团、阿里、字节、小米等11轮融资",
+      "scores": {
+        "tech": 85,
+        "growth": 80,
+        "team": 75,
+        "market": 85
+      },
+      "score": 82,
+      "discoveredAt": "2026-05-03",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-03",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "eightsleep",
+      "name": "Eight Sleep",
+      "desc": "智能床垫品牌，通过温控技术主动干预睡眠，获得马斯克、扎克伯格推荐。",
+      "track": "consumer",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "智能睡眠",
+        "健康科技",
+        "硬件"
+      ],
+      "team": [
+        {
+          "name": "Matteo Franceschetti",
+          "role": "创始人",
+          "bg": "律师、金融从业者、业余运动员"
+        }
+      ],
+      "product": "https://www.eightsleep.com/",
+      "founded": "",
+      "funding": "估值15亿美元",
+      "scores": {
+        "tech": 70,
+        "growth": 80,
+        "team": 60,
+        "market": 80
+      },
+      "score": 73,
+      "discoveredAt": "2026-05-03",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-03",
+        "website": {
+          "website": "https://www.eightsleep.com/",
+          "emails": [
+            "support@eightsleep.com",
+            "contacto@albaestudio.com",
+            "support@truemed.com",
+            "team@truemed.com",
+            "privacy@eightsleep.com"
+          ],
+          "socials": {
+            "twitter": "tryjasononline"
+          },
+          "careerPage": "https://www.eightsleep.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "formas",
+      "name": "FORMAS.AI",
+      "desc": "AI设计平台，用于自动生成设计内容",
       "track": "ai",
       "stage": "pre-seed",
       "city": "overseas",
       "tags": [
         "AI",
-        "decentralized",
-        "open-source"
+        "设计",
+        "新加坡"
       ],
       "team": [],
-      "product": "https://github.com/st-hannibal/arknet",
+      "product": "",
+      "founded": "",
+      "funding": "获398万美元Pre-Seed融资",
+      "scores": {
+        "tech": 55,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 52,
+      "discoveredAt": "2026-05-03",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-03",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "artisan",
+      "name": "Artisan",
+      "desc": "AI初创公司，因广告称'停止雇佣人类'而引发争议",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "争议"
+      ],
+      "team": [],
+      "product": "",
       "founded": "",
       "funding": "",
       "scores": {
-        "tech": 60,
-        "growth": 50,
+        "tech": 50,
+        "growth": 40,
         "team": 50,
-        "market": 60
+        "market": 50
       },
-      "score": 55,
+      "score": 47,
+      "discoveredAt": "2026-05-03",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-03",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "arknet",
+      "name": "Arknet",
+      "desc": "去中心化AI推理公平启动平台，单二进制运行",
+      "track": "ai",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "decentralized",
+        "AI inference",
+        "open source"
+      ],
+      "team": [],
+      "product": "https://github.com/st-hannibal/arknet",
+      "founded": "unknown",
+      "funding": "未知",
+      "scores": {
+        "tech": 70,
+        "growth": 30,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
       "discoveredAt": "2026-05-03",
       "discussionCount": 1,
       "contacts": {

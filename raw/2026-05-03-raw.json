@@ -601,6 +601,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "published": "Sun, 03 May 2026 20:16:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-03"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Beyond Lovable and Mistral: 21 European startups to watch",
     "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
     "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
@@ -615,36 +625,6 @@
     "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
     "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
     "published": "Fri, 01 May 2026 22:13:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-    "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
-    "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-    "published": "Thu, 30 Apr 2026 23:58:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "published": "Thu, 30 Apr 2026 23:07:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "published": "Thu, 30 Apr 2026 20:14:47 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-03"
@@ -882,7 +862,7 @@
   {
     "source": "Hacker News",
     "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 113 # Comments: 12",
+    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 134 # Comments: 16",
     "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
     "published": "Sat, 02 May 2026 21:34:49 +0000",
     "lang": "en",
@@ -942,7 +922,7 @@
   {
     "source": "Hacker News",
     "title": "US lawmakers vote to reduce NSF funding by 20%",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01427-6 Comments URL: https://news.ycombinator.com/item?id=47972133 Points: 13 # Comments: 2",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01427-6 Comments URL: https://news.ycombinator.com/item?id=47972133 Points: 15 # Comments: 2",
     "url": "https://www.nature.com/articles/d41586-026-01427-6",
     "published": "Fri, 01 May 2026 07:32:19 +0000",
     "lang": "en",
@@ -962,7 +942,7 @@
   {
     "source": "Hacker News",
     "title": "German energy tech startup becomes Europe's latest unicorn following €50M raise",
-    "summary": "Article URL: https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures Comments URL: https://news.ycombinator.com/item?id=47969903 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures Comments URL: https://news.ycombinator.com/item?id=47969903 Points: 3 # Comments: 0",
     "url": "https://impactloop.com/article/cmblu-becomes-europe-s-latest-energy-tech-unicorn-following-50m-raise-from-samsung-ventures",
     "published": "Fri, 01 May 2026 00:03:21 +0000",
     "lang": "en",
@@ -992,7 +972,7 @@
   {
     "source": "Hacker News",
     "title": "House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds",
-    "summary": "Article URL: https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote Comments URL: https://news.ycombinator.com/item?id=47965535 Points: 41 # Comments: 6",
+    "summary": "Article URL: https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote Comments URL: https://news.ycombinator.com/item?id=47965535 Points: 42 # Comments: 6",
     "url": "https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote",
     "published": "Thu, 30 Apr 2026 17:16:38 +0000",
     "lang": "en",
@@ -1019,8 +999,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-03",
     "meta": {
-      "stars": 17436,
-      "forks": 1965,
+      "stars": 19254,
+      "forks": 2131,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }

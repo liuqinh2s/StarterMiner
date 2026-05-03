@@ -1104,6 +1104,17 @@
     }
   },
   {
+    "id": "zhuyu",
+    "name": "卓驭科技",
+    "contacts": {
+      "fetchedAt": "2026-05-03",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "upstage",
     "name": "Upstage",
     "contacts": {
@@ -1115,8 +1126,55 @@
     }
   },
   {
-    "id": "kalldongli",
-    "name": "卡尔动力",
+    "id": "xautonomous",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-05-03",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "eightsleep",
+    "name": "Eight Sleep",
+    "contacts": {
+      "fetchedAt": "2026-05-03",
+      "website": {
+        "website": "https://www.eightsleep.com/",
+        "emails": [
+          "support@eightsleep.com",
+          "contacto@albaestudio.com",
+          "support@truemed.com",
+          "team@truemed.com",
+          "privacy@eightsleep.com"
+        ],
+        "socials": {
+          "twitter": "tryjasononline"
+        },
+        "careerPage": "https://www.eightsleep.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "formas",
+    "name": "FORMAS.AI",
+    "contacts": {
+      "fetchedAt": "2026-05-03",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "artisan",
+    "name": "Artisan",
     "contacts": {
       "fetchedAt": "2026-05-03",
       "website": {},
