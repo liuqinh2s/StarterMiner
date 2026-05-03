@@ -3048,34 +3048,61 @@
       }
     },
     {
-      "id": "xzr",
-      "name": "自变量机器人",
-      "desc": "自研具身智能基础模型的初创公司，获阿里、美团、字节、小米投资。",
+      "id": "upstage",
+      "name": "Upstage",
+      "desc": "韩国AI初创公司，开发AI解决方案和LLM，获韩国政府投资",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "LLM",
+        "韩国",
+        "AI独角兽"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "韩国政府投资5600亿韩元（约3.806亿美元）",
+      "scores": {
+        "tech": 75,
+        "growth": 70,
+        "team": 50,
+        "market": 65
+      },
+      "score": 66,
+      "discoveredAt": "2026-05-03",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-03",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "kalldongli",
+      "name": "卡尔动力",
+      "desc": "L4自动驾驶货运企业，发布KargoBot Inside战略",
       "track": "robotics",
       "stage": "b+",
-      "city": "beijing",
+      "city": "other",
       "tags": [
-        "具身智能",
-        "机器人基础模型",
-        "WALL-B"
+        "自动驾驶",
+        "干线物流",
+        "L4货运"
       ],
-      "team": [
-        {
-          "name": "王潜",
-          "role": "创始人兼CEO",
-          "bg": "未知"
-        }
-      ],
+      "team": [],
       "product": "",
-      "founded": "2023-10",
-      "funding": "已完成B轮融资，投资方包括小米战投、阿里、美团、字节等互联网巨头。",
+      "founded": "",
+      "funding": "未披露",
       "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 70,
-        "market": 90
+        "tech": 80,
+        "growth": 75,
+        "team": 50,
+        "market": 70
       },
-      "score": 82,
+      "score": 70,
       "discoveredAt": "2026-05-03",
       "discussionCount": 0,
       "contacts": {
@@ -3087,39 +3114,64 @@
       }
     },
     {
-      "id": "faceintelligence",
-      "name": "面壁智能",
-      "desc": "端侧AI Agent框架研发公司，推出EmbodiedClaw。",
+      "id": "arknet",
+      "name": "Arknet",
+      "desc": "去中心化AI推理平台，公平启动，单一二进制文件",
       "track": "ai",
-      "stage": "seed",
-      "city": "beijing",
+      "stage": "pre-seed",
+      "city": "overseas",
       "tags": [
-        "端侧AI",
-        "Agent",
-        "EmbodiedClaw"
+        "AI",
+        "decentralized",
+        "open-source"
       ],
-      "team": [
-        {
-          "name": "李大海",
-          "role": "CEO",
-          "bg": "前知乎CTO"
-        }
-      ],
-      "product": "",
-      "founded": "2022-06",
-      "funding": "已完成天使轮融资。",
+      "team": [],
+      "product": "https://github.com/st-hannibal/arknet",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 75,
-        "growth": 60,
-        "team": 70,
-        "market": 70
+        "tech": 60,
+        "growth": 50,
+        "team": 50,
+        "market": 60
       },
-      "score": 68,
+      "score": 55,
       "discoveredAt": "2026-05-03",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-03",
-        "website": {},
+        "website": {
+          "website": "https://github.com/st-hannibal/arknet",
+          "emails": [],
+          "socials": {
+            "github": "github",
+            "twitter": "github",
+            "linkedin": "github"
+          },
+          "careerPage": "https://github.com/careers",
+          "jobListings": [
+            "Taylor, Engineering",
+            "Developer API",
+            "Product",
+            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+            "var videoData;",
+            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+            "for (var answer of videoWidgetData.answers) {",
+            "videoData = answer;",
+            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+            "window._jibe.models.jobs.paramsImpression.paramsData;",
+            "Candidate Data Privacy",
+            "Write better code with AI",
+            "var xmlRiskyhttp = new XMLHttpRequest();",
+            "var xmlSafehttp = new XMLHttpRequest();",
+            "newText.innerHTML = '';",
+            "window.useHTML4 = true;"
+          ]
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}

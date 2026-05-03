@@ -2212,15 +2212,92 @@
       "relatedProject": "assembly"
     },
     {
-      "source": "微博",
-      "sourceIcon": "微博",
-      "title": "#48小时手搓脑机接口 意念控制轮椅#",
-      "url": "https://s.weibo.com/weibo?q=%2348小时手搓脑机接口 意念控制轮椅%23",
-      "snippet": "新",
-      "date": "2026-05-03",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "周杰伦伙伴，要被卖了",
+      "url": "https://36kr.com/p/3791838183234816?f=rss",
+      "snippet": "环球音乐被收购要约，估值约640亿美元。",
+      "date": "2026-05-02",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://36kr.com/p/3791662444911617?f=rss",
+      "snippet": "苹果官方App意外包含Claude.md，暴露内部使用Claude Code开发。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "9.35万, 威马破产大甩卖",
+      "url": "https://36kr.com/p/3791546608049152?f=rss",
+      "snippet": "威马汽车破产清算，子公司亿元债权以9.35万元拍卖。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+      "url": "https://36kr.com/p/3791460373929221?f=rss",
+      "snippet": "马斯克在法庭上承认xAI的Grok模型蒸馏了ChatGPT。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+      "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
+      "snippet": "韩国政府批准向AI初创Upstage投资5600亿韩元（约3.8亿美元），该公司系估值超1万亿韩元的独角兽。",
+      "date": "2026-05-03",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "upstage"
+    },
+    {
+      "source": "少数派",
+      "sourceIcon": "少数派",
+      "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
+      "url": "https://sspai.com/post/109235",
+      "snippet": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "创业邦",
+      "title": "比亚迪王朝新旗舰大唐开启全球预售，全尺寸SUV市场迎来新标杆",
+      "url": "http://www.cyzone.cn/article/831890.html",
+      "snippet": "比亚迪全尺寸旗舰SUV大唐开启预售，纯电续航950公里，预售价25-32万元。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Arknet – decentralized AI inference, fair launch, one binary",
+      "url": "https://news.ycombinator.com/item?id=47994122",
+      "snippet": "Arknet是一种去中心化的AI推理系统，通过单一二进制文件实现公平启动。",
+      "date": "2026-05-03",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "arknet"
     }
   ]
 }

@@ -71,20 +71,10 @@
   },
   {
     "source": "36氪",
-    "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
-    "summary": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
-    "url": "https://36kr.com/newsflashes/3792810419543301?f=rss",
-    "published": "2026-05-03 09:00:08  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-03"
-  },
-  {
-    "source": "36氪",
-    "title": "科创板向新向优活力蓬勃，2025年净利大增26%",
-    "summary": "截至2026年4月30日，科创板608家公司披露了2025年营收15985.96亿元，同比增长10.3%；净利润586.24亿元，同比增长26.6%；研发投入1892.47亿元，连续7年保持近13%的研发投入强度。（中国经营报）",
-    "url": "https://36kr.com/newsflashes/3791833394027784?f=rss",
-    "published": "2026-05-02 16:28:20  +0800",
+    "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+    "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
+    "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
+    "published": "2026-05-03 17:00:29  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-03"
@@ -841,6 +831,26 @@
   },
   {
     "source": "Hacker News",
+    "title": "Startup request: MCP household appliances",
+    "summary": "Please if one of you guys can make a startup on hardware make appliances that can be interacted through an MCP. Then for normies you can charge a $10-$20/mo subscription and give them a chat interface on their phones to manage them all out of the box; they'd just have to create an account and add the appliance api key or something. Comments URL: https://news.ycombinator.com/item?id=47994959 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=47994959",
+    "published": "Sun, 03 May 2026 09:00:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-03"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Arknet – decentralized AI inference, fair launch, one binary",
+    "summary": "Article URL: https://github.com/st-hannibal/arknet Comments URL: https://news.ycombinator.com/item?id=47994122 Points: 1 # Comments: 0",
+    "url": "https://github.com/st-hannibal/arknet",
+    "published": "Sun, 03 May 2026 06:53:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-03"
+  },
+  {
+    "source": "Hacker News",
     "title": "How to prepare to be a startup founder (2021)",
     "summary": "Article URL: https://letterstoanewdeveloper.com/2021/11/22/how-to-prepare-to-be-a-startup-founder/ Comments URL: https://news.ycombinator.com/item?id=47992476 Points: 1 # Comments: 0",
     "url": "https://letterstoanewdeveloper.com/2021/11/22/how-to-prepare-to-be-a-startup-founder/",
@@ -872,7 +882,7 @@
   {
     "source": "Hacker News",
     "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 63 # Comments: 8",
+    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 113 # Comments: 12",
     "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
     "published": "Sat, 02 May 2026 21:34:49 +0000",
     "lang": "en",
@@ -1000,40 +1010,6 @@
     "fetchedAt": "2026-05-03"
   },
   {
-    "source": "Hacker News",
-    "title": "Qualcomm, Apple, and Nuvia alumni form CPU startup – Nuvacore",
-    "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon Comments URL: https://news.ycombinator.com/item?id=47956838 Points: 2 # Comments: 0",
-    "url": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
-    "published": "Thu, 30 Apr 2026 01:11:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Leading Charity Stops Funding Open Access Publishing Because It's Not Working",
-    "summary": "Article URL: https://www.techdirt.com/2026/04/29/leading-cancer-charity-stops-funding-open-access-publishing-because-its-just-not-working/ Comments URL: https://news.ycombinator.com/item?id=47956218 Points: 4 # Comments: 0",
-    "url": "https://www.techdirt.com/2026/04/29/leading-cancer-charity-stops-funding-open-access-publishing-because-its-just-not-working/",
-    "published": "Wed, 29 Apr 2026 23:51:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-03"
-  },
-  {
-    "source": "微博",
-    "title": "#48小时手搓脑机接口 意念控制轮椅#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%2348小时手搓脑机接口 意念控制轮椅%23",
-    "published": "2026-05-03",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-03",
-    "meta": {
-      "hotValue": 205650,
-      "rank": 26
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "nexu-io/open-design",
     "summary": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / Op",
@@ -1043,8 +1019,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-03",
     "meta": {
-      "stars": 16536,
-      "forks": 1863,
+      "stars": 17436,
+      "forks": 1965,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
