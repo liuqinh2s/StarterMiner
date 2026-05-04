@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "jakobjelling"
+            "twitter": "JacobCounsell"
           },
           "careerPage": null,
           "jobListings": []
@@ -3341,29 +3341,29 @@
       }
     },
     {
-      "id": "xbot",
-      "name": "自变量机器人",
-      "desc": "具身智能机器人公司，专注通用机器人大脑和基础模型",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "beijing",
+      "id": "xingji",
+      "name": "星迹互动",
+      "desc": "AI原生的IP全链路开发与运营公司，打造跨媒介世界观IP。",
+      "track": "ai",
+      "stage": "angel",
+      "city": "other",
       "tags": [
-        "具身智能",
-        "机器人",
         "AI",
-        "融资多轮"
+        "IP",
+        "文娱",
+        "内容创作"
       ],
       "team": [],
       "product": "",
-      "founded": "2023-10",
-      "funding": "已完成B轮融资，投资方包括小米、阿里、字节、美团等，成立以来累计十一轮融资",
+      "founded": "",
+      "funding": "天使轮数千万人民币，投资方包括正大集团、大融传媒等",
       "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 80,
-        "market": 90
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 70
       },
-      "score": 86,
+      "score": 54,
       "discoveredAt": "2026-05-04",
       "discussionCount": 0,
       "contacts": {
@@ -3375,56 +3375,78 @@
       }
     },
     {
-      "id": "taichi-graphics",
-      "name": "太极图形科技有限公司",
-      "desc": "3D生成AI平台Meshy，ARR超4000万美元",
+      "id": "creati_ai",
+      "name": "Creati.ai",
+      "desc": "面向电商与社交媒体的AI创意引擎，产品Buzzy提供像素级AI视频编辑。",
       "track": "ai",
-      "stage": "a+",
-      "city": "beijing",
+      "stage": "a",
+      "city": "overseas",
       "tags": [
-        "3D生成",
-        "AI",
-        "图形学"
+        "AI视频",
+        "电商营销",
+        "创意引擎"
       ],
-      "team": [
-        {
-          "name": "胡渊鸣",
-          "role": "创始人",
-          "bg": "清华姚班、MIT博士、Taichi作者"
-        }
-      ],
-      "product": "https://www.meshy.ai",
-      "founded": "2021-06",
-      "funding": "累计ARR超4000万美元",
+      "team": [],
+      "product": "https://www.buzzy.now",
+      "founded": "",
+      "funding": "新一轮超2000万美元，红点创投等投资",
       "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 95,
+        "tech": 80,
+        "growth": 80,
+        "team": 70,
         "market": 80
       },
-      "score": 88,
+      "score": 78,
       "discoveredAt": "2026-05-04",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {
-          "website": "https://www.meshy.ai",
-          "emails": [
-            "support@meshy.ai",
-            "name@domain.com",
-            "u003eeducation@meshy.ai",
-            "careers@meshy.ai"
-          ],
-          "socials": {
-            "twitter": "MeshyAI",
-            "linkedin": "meshyai",
-            "wechat": "Pay"
-          },
-          "careerPage": "https://www.meshy.ai/careers",
-          "jobListings": [
-            "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
-          ]
+          "website": "https://www.buzzy.now",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
         },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "memoraxai",
+      "name": "深圳忆纪元科技有限公司",
+      "desc": "大模型个性化记忆技术，Agentic RL算法",
+      "track": "ai",
+      "stage": "seed",
+      "city": "shenzhen",
+      "tags": [
+        "大模型记忆",
+        "Agentic RL",
+        "知识管理"
+      ],
+      "team": [
+        {
+          "name": "郝建业",
+          "role": "创始人",
+          "bg": "天津大学菁英教授，全球前2%科学家，顶会产出前十"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "千万美金种子轮，钟鼎资本领投",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 85,
+        "market": 75
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-04",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-04",
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -3433,33 +3455,32 @@
     {
       "id": "ineffable",
       "name": "Ineffable Intelligence",
-      "desc": "由前DeepMind首席科学家David Silver创立的AI初创公司，致力于推动通用人工智能发展。",
+      "desc": "由前DeepMind研究员David Silver创立的AI初创公司，融资11亿美元",
       "track": "ai",
       "stage": "seed",
       "city": "overseas",
       "tags": [
         "AI",
-        "通用人工智能",
-        "种子轮",
-        "DeepMind"
+        "Foundation Model",
+        "DeepMind Alumni"
       ],
       "team": [
         {
           "name": "David Silver",
-          "role": "创始人/CEO",
-          "bg": "前DeepMind首席科学家，强化学习领域权威，AlphaGo核心贡献者"
+          "role": "CEO/Founder",
+          "bg": "前DeepMind研究员，强化学习领域知名科学家"
         }
       ],
       "product": null,
-      "founded": null,
-      "funding": "2026年4月完成创纪录的11亿美元种子轮融资，领投方包括NVIDIA、Google等。",
+      "founded": "2026-04",
+      "funding": "2026年4月种子轮融资11亿美元，领投方包括NVIDIA和Google等",
       "scores": {
-        "tech": 95,
-        "growth": 80,
-        "team": 85,
-        "market": 90
+        "tech": 90,
+        "growth": 70,
+        "team": 95,
+        "market": 85
       },
-      "score": 88,
+      "score": 84,
       "discoveredAt": "2026-05-04",
       "discussionCount": 1,
       "contacts": {

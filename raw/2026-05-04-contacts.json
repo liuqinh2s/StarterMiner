@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "jakobjelling"
+          "twitter": "JacobCounsell"
         },
         "careerPage": null,
         "jobListings": []
@@ -1226,8 +1226,8 @@
     }
   },
   {
-    "id": "xbot",
-    "name": "自变量机器人",
+    "id": "xingji",
+    "name": "星迹互动",
     "contacts": {
       "fetchedAt": "2026-05-04",
       "website": {},
@@ -1237,28 +1237,28 @@
     }
   },
   {
-    "id": "taichi-graphics",
-    "name": "太极图形科技有限公司",
+    "id": "creati_ai",
+    "name": "Creati.ai",
     "contacts": {
       "fetchedAt": "2026-05-04",
       "website": {
-        "website": "https://www.meshy.ai",
-        "emails": [
-          "support@meshy.ai",
-          "name@domain.com",
-          "u003eeducation@meshy.ai",
-          "careers@meshy.ai"
-        ],
-        "socials": {
-          "twitter": "MeshyAI",
-          "linkedin": "meshyai",
-          "wechat": "Pay"
-        },
-        "careerPage": "https://www.meshy.ai/careers",
-        "jobListings": [
-          "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
-        ]
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
       },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "memoraxai",
+    "name": "深圳忆纪元科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-04",
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}

@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "五月，适合想清楚一件事｜幕启",
+    "summary": "图源：公众号「有三思 U Sense」 5月4日，一个被默认为“青年专属”的日期。 但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。 [1] 敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。” 许多年前，我还是一个初入职场的新人，在猎头行业学习如何阅读简历、判断人、理解组织。那时候，我的老板总时不时夸团队里的同学“有Sense”。 “有Sense”是咨询行业爱用的职场黑话，也是一句高度浓缩的赞美。 努力是苦劳，聪明是天赋，而Sense，是前辈不必手把手教你，你也能和他们同频思考的那种东西。 很多年过去，当我转行做科技新闻，开始用另一种方式阅读人和组织，我发现自己依然在寻找那种“有Sense”的状态——并不是指作为老板对下属的期待，而是关于自我要求。 它至少有三重意思。 Information Sense ，在信息过载的噪音中抓住重要信号和异常值。某个人的离职时间恰好对应前公司某次架构调整，一个行业薪资数据出现了反常波动。遇到问题，不只看表面，而是追问终极目的",
+    "url": "https://36kr.com/p/3794961189821698?f=rss",
+    "published": "2026-05-04 20:41:30  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "36氪",
     "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
     "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。 近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性，以及在这场即将开始的淘汰赛中，卓驭又该如何建立护城河。 以下是",
     "url": "https://36kr.com/p/3789475357400068?f=rss",
@@ -641,30 +651,50 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "published": "Mon, 04 May 2026 19:12:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Katie Haun raises $1B for new venture funds",
+    "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+    "url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+    "published": "Mon, 04 May 2026 19:12:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "published": "Mon, 04 May 2026 16:36:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "published": "Mon, 04 May 2026 15:59:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "TechCrunch",
     "title": "‘This is fine’ creator says AI startup stole his art",
     "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
     "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
     "published": "Sun, 03 May 2026 20:16:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-    "summary": "It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
-    "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-    "published": "Sat, 02 May 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "published": "Fri, 01 May 2026 22:13:27 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-04"
@@ -850,9 +880,29 @@
     "fetchedAt": "2026-05-04"
   },
   {
+    "source": "The Verge",
+    "title": "Amazon’s trying to turn its massive shipping operation into another AWS",
+    "summary": "Amazon might have a part in delivering all kinds of stuff to your door soon, as its massive shipping network opens up to other companies outside its marketplace, more directly competing with giants like DHL, UPS, and FedEx. The new Amazon Supply Chain Services (ASCS) will offer freight, distribution, fulfillment, and parcel shipping to businesses […]",
+    "url": "https://www.theverge.com/tech/923013/amazon-supply-chain-services",
+    "published": "2026-05-04T11:16:14-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI startup JuliaHub raises $65M to rival Simulink",
+    "summary": "Article URL: https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering Comments URL: https://news.ycombinator.com/item?id=48014510 Points: 21 # Comments: 1",
+    "url": "https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering",
+    "published": "Mon, 04 May 2026 20:27:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
     "source": "Hacker News",
     "title": "Prototype Fund is a funding program for innovative Open Source Software",
-    "summary": "Article URL: https://www.prototypefund.de/en/ Comments URL: https://news.ycombinator.com/item?id=48006541 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.prototypefund.de/en/ Comments URL: https://news.ycombinator.com/item?id=48006541 Points: 2 # Comments: 0",
     "url": "https://www.prototypefund.de/en/",
     "published": "Mon, 04 May 2026 09:55:01 +0000",
     "lang": "en",
@@ -862,7 +912,7 @@
   {
     "source": "Hacker News",
     "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
-    "summary": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 3 # Comments: 0",
     "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
     "published": "Mon, 04 May 2026 02:24:06 +0000",
     "lang": "en",
@@ -872,7 +922,7 @@
   {
     "source": "Hacker News",
     "title": "Startup request: MCP household appliances",
-    "summary": "Please if one of you guys can make a startup on hardware make appliances that can be interacted through an MCP. Then for normies you can charge a $10-$20/mo subscription and give them a chat interface on their phones to manage them all out of the box; they'd just have to create an account and add the appliance api key or something. Comments URL: https://news.ycombinator.com/item?id=47994959 Points: 1 # Comments: 0",
+    "summary": "Please if one of you guys can make a startup on hardware make appliances that can be interacted through an MCP. Then for normies you can charge a $10-$20/mo subscription and give them a chat interface on their phones to manage them all out of the box; they'd just have to create an account and add the appliance api key or something. Comments URL: https://news.ycombinator.com/item?id=47994959 Points: 2 # Comments: 0",
     "url": "https://news.ycombinator.com/item?id=47994959",
     "published": "Sun, 03 May 2026 09:00:16 +0000",
     "lang": "en",
@@ -882,7 +932,7 @@
   {
     "source": "Hacker News",
     "title": "Arknet – decentralized AI inference, fair launch, one binary",
-    "summary": "Article URL: https://github.com/st-hannibal/arknet Comments URL: https://news.ycombinator.com/item?id=47994122 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/st-hannibal/arknet Comments URL: https://news.ycombinator.com/item?id=47994122 Points: 2 # Comments: 0",
     "url": "https://github.com/st-hannibal/arknet",
     "published": "Sun, 03 May 2026 06:53:20 +0000",
     "lang": "en",
@@ -922,9 +972,19 @@
   {
     "source": "Hacker News",
     "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 135 # Comments: 18",
+    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 139 # Comments: 20",
     "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
     "published": "Sat, 02 May 2026 21:34:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "summary": "Article URL: https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/ Comments URL: https://news.ycombinator.com/item?id=47989767 Points: 5 # Comments: 0",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "published": "Sat, 02 May 2026 19:44:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-04"
@@ -1030,14 +1090,18 @@
     "fetchedAt": "2026-05-04"
   },
   {
-    "source": "Hacker News",
-    "title": "House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds",
-    "summary": "Article URL: https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote Comments URL: https://news.ycombinator.com/item?id=47965535 Points: 42 # Comments: 6",
-    "url": "https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote",
-    "published": "Thu, 30 Apr 2026 17:16:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-04"
+    "source": "V2EX",
+    "title": "关于失业 关于创业",
+    "summary": "2023 年公司倒闭之后就一直自己在单干了，几年下来发现路走的不对，做的是独立游戏。 我发现一个人的精力是有限的，不能自己写代码，自己设计人物，设计规则，交互，写剧本，写动作脚本，调试服务器。。。的同时，自己去宣传，搭资料网站，自己做视频，应付审核，和玩家互动，听取意见。。。 秉持着自己会写代码就能无成本创业这件事是不行的，一个人的能力是有限的，时间是有限的，真走到创业这条路，确实得要团队合作，从选赛道，研究竞品，研究市场，预研框架开始，就得是准备充分的，一股脑扑进去就是会容易失败。想着无成本这件事就是不对的，就比如音乐吧，招个专业的总比门外的自己鼓捣要强很多。当然也有个人独立成功的案",
+    "url": "https://www.v2ex.com/t/1210218",
+    "published": 1777892045,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "replies": 21,
+      "node": "职场话题"
+    }
   },
   {
     "source": "GitHub新星",
@@ -1049,8 +1113,104 @@
     "type": "signal",
     "fetchedAt": "2026-05-04",
     "meta": {
-      "stars": 21630,
-      "forks": 2367,
+      "stars": 23779,
+      "forks": 2571,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "theori-io/copy-fail-CVE-2026-31431",
+    "summary": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
+    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+    "published": "2026-04-29T12:15:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "stars": 3164,
+      "forks": 672,
+      "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "willchen96/mike",
+    "summary": "OSS AI Legal Platform",
+    "url": "https://github.com/willchen96/mike",
+    "published": "2026-04-29T17:41:12Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "stars": 2013,
+      "forks": 530,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "darrylmorley/whatcable",
+    "summary": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "published": "2026-05-01T07:45:10Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "stars": 1692,
+      "forks": 35,
+      "language": "Swift",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "aattaran/deepclaude",
+    "summary": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+    "url": "https://github.com/aattaran/deepclaude",
+    "published": "2026-05-03T21:27:49Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "stars": 1007,
+      "forks": 46,
+      "language": "JavaScript",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "mattpocock/dictionary-of-ai-coding",
+    "summary": "AI coding jargon, explained in plain English.",
+    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "published": "2026-05-01T10:17:05Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "stars": 965,
+      "forks": 122,
+      "language": "TypeScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "b-nnett/codex-plusplus",
+    "summary": "Codex++ tweak system for the Codex desktop app",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "published": "2026-04-28T10:35:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-04",
+    "meta": {
+      "stars": 896,
+      "forks": 43,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }

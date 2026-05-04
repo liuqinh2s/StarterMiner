@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "jakobjelling"
+            "twitter": "JacobCounsell"
           },
           "careerPage": null,
           "jobListings": []
@@ -3341,29 +3341,29 @@
       }
     },
     {
-      "id": "xbot",
-      "name": "自变量机器人",
-      "desc": "具身智能机器人公司，专注通用机器人大脑和基础模型",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "beijing",
+      "id": "xingji",
+      "name": "星迹互动",
+      "desc": "AI原生的IP全链路开发与运营公司，打造跨媒介世界观IP。",
+      "track": "ai",
+      "stage": "angel",
+      "city": "other",
       "tags": [
-        "具身智能",
-        "机器人",
         "AI",
-        "融资多轮"
+        "IP",
+        "文娱",
+        "内容创作"
       ],
       "team": [],
       "product": "",
-      "founded": "2023-10",
-      "funding": "已完成B轮融资，投资方包括小米、阿里、字节、美团等，成立以来累计十一轮融资",
+      "founded": "",
+      "funding": "天使轮数千万人民币，投资方包括正大集团、大融传媒等",
       "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 80,
-        "market": 90
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 70
       },
-      "score": 86,
+      "score": 54,
       "discoveredAt": "2026-05-04",
       "discussionCount": 0,
       "contacts": {
@@ -3375,56 +3375,78 @@
       }
     },
     {
-      "id": "taichi-graphics",
-      "name": "太极图形科技有限公司",
-      "desc": "3D生成AI平台Meshy，ARR超4000万美元",
+      "id": "creati_ai",
+      "name": "Creati.ai",
+      "desc": "面向电商与社交媒体的AI创意引擎，产品Buzzy提供像素级AI视频编辑。",
       "track": "ai",
-      "stage": "a+",
-      "city": "beijing",
+      "stage": "a",
+      "city": "overseas",
       "tags": [
-        "3D生成",
-        "AI",
-        "图形学"
+        "AI视频",
+        "电商营销",
+        "创意引擎"
       ],
-      "team": [
-        {
-          "name": "胡渊鸣",
-          "role": "创始人",
-          "bg": "清华姚班、MIT博士、Taichi作者"
-        }
-      ],
-      "product": "https://www.meshy.ai",
-      "founded": "2021-06",
-      "funding": "累计ARR超4000万美元",
+      "team": [],
+      "product": "https://www.buzzy.now",
+      "founded": "",
+      "funding": "新一轮超2000万美元，红点创投等投资",
       "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 95,
+        "tech": 80,
+        "growth": 80,
+        "team": 70,
         "market": 80
       },
-      "score": 88,
+      "score": 78,
       "discoveredAt": "2026-05-04",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {
-          "website": "https://www.meshy.ai",
-          "emails": [
-            "support@meshy.ai",
-            "name@domain.com",
-            "u003eeducation@meshy.ai",
-            "careers@meshy.ai"
-          ],
-          "socials": {
-            "twitter": "MeshyAI",
-            "linkedin": "meshyai",
-            "wechat": "Pay"
-          },
-          "careerPage": "https://www.meshy.ai/careers",
-          "jobListings": [
-            "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
-          ]
+          "website": "https://www.buzzy.now",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
         },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "memoraxai",
+      "name": "深圳忆纪元科技有限公司",
+      "desc": "大模型个性化记忆技术，Agentic RL算法",
+      "track": "ai",
+      "stage": "seed",
+      "city": "shenzhen",
+      "tags": [
+        "大模型记忆",
+        "Agentic RL",
+        "知识管理"
+      ],
+      "team": [
+        {
+          "name": "郝建业",
+          "role": "创始人",
+          "bg": "天津大学菁英教授，全球前2%科学家，顶会产出前十"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "千万美金种子轮，钟鼎资本领投",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 85,
+        "market": 75
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-04",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-04",
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -3433,33 +3455,32 @@
     {
       "id": "ineffable",
       "name": "Ineffable Intelligence",
-      "desc": "由前DeepMind首席科学家David Silver创立的AI初创公司，致力于推动通用人工智能发展。",
+      "desc": "由前DeepMind研究员David Silver创立的AI初创公司，融资11亿美元",
       "track": "ai",
       "stage": "seed",
       "city": "overseas",
       "tags": [
         "AI",
-        "通用人工智能",
-        "种子轮",
-        "DeepMind"
+        "Foundation Model",
+        "DeepMind Alumni"
       ],
       "team": [
         {
           "name": "David Silver",
-          "role": "创始人/CEO",
-          "bg": "前DeepMind首席科学家，强化学习领域权威，AlphaGo核心贡献者"
+          "role": "CEO/Founder",
+          "bg": "前DeepMind研究员，强化学习领域知名科学家"
         }
       ],
       "product": null,
-      "founded": null,
-      "funding": "2026年4月完成创纪录的11亿美元种子轮融资，领投方包括NVIDIA、Google等。",
+      "founded": "2026-04",
+      "funding": "2026年4月种子轮融资11亿美元，领投方包括NVIDIA和Google等",
       "scores": {
-        "tech": 95,
-        "growth": 80,
-        "team": 85,
-        "market": 90
+        "tech": 90,
+        "growth": 70,
+        "team": 95,
+        "market": 85
       },
-      "score": 88,
+      "score": 84,
       "discoveredAt": "2026-05-04",
       "discussionCount": 1,
       "contacts": {
@@ -5816,78 +5837,133 @@
       "relatedProject": null
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "周杰伦伙伴，要被卖了",
-      "url": "https://36kr.com/p/3791838183234816?f=rss",
-      "snippet": "环球音乐被潘兴广场收购要约估值640亿美元，不涉及初创公司。",
-      "date": "2026-05-02",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "url": "https://36kr.com/p/3791662444911617?f=rss",
-      "snippet": "苹果Apple Support应用误打包Claude.md，泄露内部使用Claude Code开发。",
-      "date": "2026-05-02",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "9.35万, 威马破产大甩卖",
-      "url": "https://36kr.com/p/3791546608049152?f=rss",
-      "snippet": "威马汽车子公司亿元债权以9.35万元拍卖，公司已破产。",
-      "date": "2026-05-02",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值",
-      "url": "https://36kr.com/newsflashes/3794749752728585?f=rss",
-      "snippet": "印度数据中心Yotta在IPO前寻求60亿美元估值。",
-      "date": "2026-05-04",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "一季度末股东户数下降公司排行：16家公司降逾40%",
-      "url": "https://36kr.com/newsflashes/3794443672411144?f=rss",
-      "snippet": "16家A股公司股东户数降幅超40%，富临精工等降幅超50%。",
-      "date": "2026-05-04",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
       "source": "少数派",
-      "sourceIcon": "少数派",
-      "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
-      "url": "https://sspai.com/post/109277",
-      "snippet": "vivo Pad6 Pro平板体验评测，不涉及初创公司。",
-      "date": "2026-05-04",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "少数派",
-      "sourceIcon": "少数派",
+      "sourceIcon": "少数",
       "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
       "url": "https://sspai.com/post/109235",
-      "snippet": "早报摘要，不涉及具体初创公司。",
+      "snippet": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。",
       "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "比亚迪王朝新旗舰大唐开启全球预售，全尺寸SUV市场迎来新标杆",
+      "url": "http://www.cyzone.cn/article/831890.html",
+      "snippet": "比亚迪发布全尺寸旗舰SUV大唐，纯电续航950km，5分钟闪充，预售价25-32万元。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "2026北京车展，“25万级旗舰大满配”就看智己LS8！",
+      "url": "http://www.cyzone.cn/article/831888.html",
+      "snippet": "智己LS8定位25万级旗舰SUV，搭载全线控四轮转向、520线激光雷达、英伟达Thor芯片。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "欣旺达“能量家生活馆”登陆北京车展：用心做好每一块电池",
+      "url": "http://www.cyzone.cn/article/831887.html",
+      "snippet": "欣旺达发布大圆柱全场景电池“欣星环”，展示AI+电池战略及全场景能源方案。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "《2025年中国家庭智能大屏行业发展白皮书》：酷喵月活持续稳居行业第一",
+      "url": "http://www.cyzone.cn/article/831870.html",
+      "snippet": "智能电视终端规模突破4.39亿台，OTT广告收入324亿元，酷喵月活第一。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "厦门士兰集华微电子公司增资至51.1亿 增幅1944%",
+      "url": "http://",
+      "snippet": "士兰微子公司厦门士兰集华微电子注册资本增至51.1亿，新增多家股东。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "蚂蚁集团亮相第九届数字中国建设峰会，Data+AI应用成果首次集中展出",
+      "url": "http://www.cyzone.cn/article/831846.html",
+      "snippet": "蚂蚁集团展示Data+AI技术，聚焦数据智能、产业应用及安全隐私保护。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "智领未来 聚变而升 | 第四届中国汽车产业投资峰会在京举办",
+      "url": "http://www.cyzone.cn/article/831824.html",
+      "snippet": "14家车企CVC齐聚北京，探讨产业资本服务主业、赋能创新。",
+      "date": "2026-04-28",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "擎天租30亿，租机器人的值两成",
+      "url": "https://www.tmtpost.com/7975979.html",
+      "snippet": "擎天租估值30亿，智元两成，平台化正在重定义具身智能的游戏规则。",
+      "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "狂飙与逆风：合成生物学龙头冲刺港股",
+      "url": "https://www.tmtpost.com/7976074.html",
+      "snippet": "华恒生物冲刺A+H双重主要上市，61岁铁娘子郭恒华带队。",
+      "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评",
+      "url": "https://www.tmtpost.com/7976208.html",
+      "snippet": "谁能创造增速更高的GDP，谁就能享受估值溢价。",
+      "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布",
+      "url": "http://www.geekpark.net/news/363701",
+      "snippet": "小米SU7锁单突破7万，微信输入法测试隔空发图，豆包二代AI手机上半年发布。",
+      "date": "2026-05-04",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
@@ -5897,29 +5973,106 @@
       "sourceIcon": "极客公园",
       "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
       "url": "http://www.geekpark.net/news/363699",
-      "snippet": "魔法原子在硅谷举办具身智能创新大会，发布人形机器人MagicBot X1和世界模型Magic-Mix。",
+      "snippet": "魔法原子MagicLab在硅谷举办GEIS大会，发布人形机器人MagicBot X1和世界模型Magic-Mix。",
       "date": "2026-05-03",
       "likes": 0,
       "comments": 0,
       "relatedProject": "magiclab"
     },
     {
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道",
+      "url": "http://www.geekpark.net/news/363698",
+      "snippet": "张雪机车在WSBK匈牙利站夺冠，苹果或进行大型AI收购，OpenAI开放OpenClaw直连。",
+      "date": "2026-05-03",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范",
+      "title": "早报｜苹果：下季度内存成本压力将显著加大/宇树最便宜人形机器发布/5月1日高速车流或创历史纪录",
+      "url": "https://www.ifanr.com/1664760?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "snippet": "三星芯片利润暴涨，宇树发布最便宜人形机器人等",
+      "date": "2026-05-01",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范",
+      "title": "小米最新人形机器人的手，会「出汗」了",
+      "url": "https://www.ifanr.com/1664575?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "snippet": "小米人形机器人手部仿生技术",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范",
+      "title": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+      "url": "https://www.ifanr.com/1664570?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "snippet": "Anthropic估值或破9000亿，Alphabet财报等",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Prototype Fund is a funding program for innovative Open Source Software",
+      "url": "https://www.prototypefund.de/en/",
+      "snippet": "Article URL: https://www.prototypefund.de/en/ Comments URL: https://news.ycombinator.com/item?id=48006541 Points: 2 # Comments: 0",
+      "date": "2026-05-04",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
-      "url": "https://news.ycombinator.com/item?id=48003934",
-      "snippet": "前DeepMind科学家David Silver为其AI初创公司Ineffable Intelligence筹集11亿美元种子轮，投资方包括NVIDIA和Google。",
+      "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+      "snippet": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 3 # Comments: 0",
       "date": "2026-05-04",
-      "likes": 2,
+      "likes": 3,
       "comments": 0,
       "relatedProject": "ineffable"
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
+      "title": "Arknet – decentralized AI inference, fair launch, one binary",
+      "url": "https://github.com/st-hannibal/arknet",
+      "snippet": "Article URL: https://github.com/st-hannibal/arknet Comments URL: https://news.ycombinator.com/item?id=47994122 Points: 2 # Comments: 0",
+      "date": "2026-05-03",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "How to prepare to be a startup founder (2021)",
+      "url": "https://letterstoanewdeveloper.com/2021/11/22/how-to-prepare-to-be-a-startup-founder/",
+      "snippet": "Article URL: https://letterstoanewdeveloper.com/2021/11/22/how-to-prepare-to-be-a-startup-founder/ Comments URL: https://news.ycombinator.com/item?id=47992476 Points: 1 # Comments: 0",
+      "date": "2026-05-03",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
       "title": "Who is funding the future of British defence?",
       "url": "https://vulpesetleo.substack.com/p/who-is-funding-the-future-of-british",
-      "snippet": "Article URL: https://vulpesetleo.substack.com/p/who-is-funding-the-future-of-british Comments URL: https://news.ycombinator",
+      "snippet": "Article URL: https://vulpesetleo.substack.com/p/who-is-funding-the-future-of-british Comments URL: https://news.ycombinator.com/item?id=47991433 Points: 2 # Comments: 0",
       "date": "2026-05-02",
       "likes": 2,
       "comments": 0,
@@ -5930,7 +6083,7 @@
       "sourceIcon": "HN",
       "title": "What Is GStack? Gary Tan's Open-Source Startup Framework for Claude Code",
       "url": "https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework",
-      "snippet": "Article URL: https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework Comments URL: https://news.ycombinator.com",
+      "snippet": "Article URL: https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework Comments URL: https://news.ycombinator.com/item?id=47990960 Points: 2 # Comments: 0",
       "date": "2026-05-02",
       "likes": 2,
       "comments": 0,
@@ -5941,10 +6094,76 @@
       "sourceIcon": "HN",
       "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
       "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
-      "snippet": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item",
+      "snippet": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 139 # Comments: 20",
       "date": "2026-05-02",
-      "likes": 135,
-      "comments": 18,
+      "likes": 139,
+      "comments": 20,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "theori-io/copy-fail-CVE-2026-31431",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+      "snippet": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
+      "date": "2026-04-29",
+      "likes": 3164,
+      "comments": 672,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "willchen96/mike",
+      "url": "https://github.com/willchen96/mike",
+      "snippet": "OSS AI Legal Platform",
+      "date": "2026-04-29",
+      "likes": 2013,
+      "comments": 530,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "darrylmorley/whatcable",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "snippet": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "date": "2026-05-01",
+      "likes": 1692,
+      "comments": 35,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "aattaran/deepclaude",
+      "url": "https://github.com/aattaran/deepclaude",
+      "snippet": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "date": "2026-05-03",
+      "likes": 1007,
+      "comments": 46,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "mattpocock/dictionary-of-ai-coding",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+      "snippet": "AI coding jargon, explained in plain English.",
+      "date": "2026-05-01",
+      "likes": 965,
+      "comments": 122,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "b-nnett/codex-plusplus",
+      "url": "https://github.com/b-nnett/codex-plusplus",
+      "snippet": "Codex++ tweak system for the Codex desktop app",
+      "date": "2026-04-28",
+      "likes": 896,
+      "comments": 43,
       "relatedProject": null
     }
   ]
