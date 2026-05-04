@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "JacobCounsell"
+          "twitter": "jakobjelling"
         },
         "careerPage": null,
         "jobListings": []
@@ -1226,8 +1226,47 @@
     }
   },
   {
-    "id": "superfusion",
-    "name": "超聚变数字技术股份有限公司",
+    "id": "xbot",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-05-04",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "taichi-graphics",
+    "name": "太极图形科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-04",
+      "website": {
+        "website": "https://www.meshy.ai",
+        "emails": [
+          "support@meshy.ai",
+          "name@domain.com",
+          "u003eeducation@meshy.ai",
+          "careers@meshy.ai"
+        ],
+        "socials": {
+          "twitter": "MeshyAI",
+          "linkedin": "meshyai",
+          "wechat": "Pay"
+        },
+        "careerPage": "https://www.meshy.ai/careers",
+        "jobListings": [
+          "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ineffable",
+    "name": "Ineffable Intelligence",
     "contacts": {
       "fetchedAt": "2026-05-04",
       "website": {},

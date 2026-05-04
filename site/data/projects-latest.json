@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "JacobCounsell"
+            "twitter": "jakobjelling"
           },
           "careerPage": null,
           "jobListings": []
@@ -910,7 +910,7 @@
       },
       "score": 92,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {},
@@ -2723,7 +2723,7 @@
       },
       "score": 69,
       "discoveredAt": "2026-05-02",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {},
@@ -3341,30 +3341,127 @@
       }
     },
     {
-      "id": "superfusion",
-      "name": "超聚变数字技术股份有限公司",
-      "desc": "算力基础设施提供商，前身为华为X86服务器业务，估值超500亿元",
-      "track": "semiconductor",
+      "id": "xbot",
+      "name": "自变量机器人",
+      "desc": "具身智能机器人公司，专注通用机器人大脑和基础模型",
+      "track": "robotics",
       "stage": "b+",
-      "city": "zhengzhou",
+      "city": "beijing",
       "tags": [
-        "算力",
-        "服务器",
-        "华为生态"
+        "具身智能",
+        "机器人",
+        "AI",
+        "融资多轮"
       ],
       "team": [],
       "product": "",
-      "founded": "2021-09",
-      "funding": "至少8轮融资，估值500亿元",
+      "founded": "2023-10",
+      "funding": "已完成B轮融资，投资方包括小米、阿里、字节、美团等，成立以来累计十一轮融资",
       "scores": {
-        "tech": 75,
-        "growth": 85,
-        "team": 70,
+        "tech": 85,
+        "growth": 90,
+        "team": 80,
         "market": 90
       },
-      "score": 80,
+      "score": 86,
       "discoveredAt": "2026-05-04",
       "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-04",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "taichi-graphics",
+      "name": "太极图形科技有限公司",
+      "desc": "3D生成AI平台Meshy，ARR超4000万美元",
+      "track": "ai",
+      "stage": "a+",
+      "city": "beijing",
+      "tags": [
+        "3D生成",
+        "AI",
+        "图形学"
+      ],
+      "team": [
+        {
+          "name": "胡渊鸣",
+          "role": "创始人",
+          "bg": "清华姚班、MIT博士、Taichi作者"
+        }
+      ],
+      "product": "https://www.meshy.ai",
+      "founded": "2021-06",
+      "funding": "累计ARR超4000万美元",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 95,
+        "market": 80
+      },
+      "score": 88,
+      "discoveredAt": "2026-05-04",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-04",
+        "website": {
+          "website": "https://www.meshy.ai",
+          "emails": [
+            "support@meshy.ai",
+            "name@domain.com",
+            "u003eeducation@meshy.ai",
+            "careers@meshy.ai"
+          ],
+          "socials": {
+            "twitter": "MeshyAI",
+            "linkedin": "meshyai",
+            "wechat": "Pay"
+          },
+          "careerPage": "https://www.meshy.ai/careers",
+          "jobListings": [
+            "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ineffable",
+      "name": "Ineffable Intelligence",
+      "desc": "由前DeepMind首席科学家David Silver创立的AI初创公司，致力于推动通用人工智能发展。",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "通用人工智能",
+        "种子轮",
+        "DeepMind"
+      ],
+      "team": [
+        {
+          "name": "David Silver",
+          "role": "创始人/CEO",
+          "bg": "前DeepMind首席科学家，强化学习领域权威，AlphaGo核心贡献者"
+        }
+      ],
+      "product": null,
+      "founded": null,
+      "funding": "2026年4月完成创纪录的11亿美元种子轮融资，领投方包括NVIDIA、Google等。",
+      "scores": {
+        "tech": 95,
+        "growth": 80,
+        "team": 85,
+        "market": 90
+      },
+      "score": 88,
+      "discoveredAt": "2026-05-04",
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {},

@@ -61,10 +61,10 @@
   },
   {
     "source": "36氪",
-    "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
-    "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非营利使命」的人，亲口承认自家AI蒸馏了对手模型。 大型双标现场，撕碎了体面 不得不说，这一幕的讽刺含量已经溢出屏幕了。 马斯克在宣誓作证的法庭上，轻飘飘一句话，彻底捅破了窗户纸—— 这是AI行业的标准做法，所有AI公司都在这样做。 马斯克承认Grok模型蒸馏了ChatGPT 蒸馏（Distillation），本质上就是让竞争对手的AI当家教，低成本教出一个差不多水平的学生。 马斯克起诉OpenAI，指控",
-    "url": "https://36kr.com/p/3791460373929221?f=rss",
-    "published": "2026-05-02 09:25:01  +0800",
+    "title": "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值",
+    "summary": "印度数据中心公司Yotta的CEO表示，公司在IPO前寻求60亿美元的估值。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3794749752728585?f=rss",
+    "published": "2026-05-04 17:05:02  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-04"
@@ -80,11 +80,11 @@
     "fetchedAt": "2026-05-04"
   },
   {
-    "source": "36氪",
-    "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
-    "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
-    "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
-    "published": "2026-05-03 17:00:29  +0800",
+    "source": "少数派",
+    "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
+    "summary": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？ 查看全文",
+    "url": "https://sspai.com/post/109277",
+    "published": "Mon, 04 May 2026 15:00:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-04"
@@ -215,6 +215,36 @@
     "summary": "近日，深圳忆纪元科技有限公司（以下简称“MemoraX AI”或“忆纪元”）宣布完成千万美金种子轮融资。本轮钟鼎资本参与领投。 本轮融资将主要用于核心技术Agentic RL的算法迭代与工程化落地，以及内生记忆模块的产品化开发。预计在未来12个月内，MemoraX AI将推出面向B端企业知识管理与C端个性化交互的首批标准化记忆产品，实现记忆训练效率与精准度的指数级提升。此次融资标志着大模型个性化记忆赛道正式从“外挂检索”的浅层探索，迈入“模型内生”的深水区变革，为解决大模型“失忆症”这一关键瓶颈注入了核心动能。 “打过仗”的梦之队：顶会前十科学家×百亿级产业操盘手 MemoraX AI成立于2026年3月，是大模型个性化记忆赛道技术革新引领者。公司通过自主研发的Agentic RL（智能体强化学习） 核心技术架构，攻克了大模型长期记忆碎片化、静态化、难以跨场景迁移的行业痛点。 创始人郝建业，天津大学菁英教授，国家优青，全球前2%科学家，近两年在ICML、NeurIPS、ICLR三大顶会的成果产出全球排名前10，谷歌学术引用超1.5万次。但更关键的是，他并非传统学院派创业者——曾先后担任",
     "url": "http://www.cyzone.cn/article/831758.html",
     "published": "Tue, 28 Apr 2026 01:58:36 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "擎天租30亿，租机器人的值两成",
+    "summary": "擎天租估值30亿，智元两成。平台化正在重定义具身智能的游戏规则。",
+    "url": "https://www.tmtpost.com/7975979.html",
+    "published": "Mon, 04 May 2026 16:16:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "狂飙与逆风：合成生物学龙头冲刺港股",
+    "summary": "61岁“铁娘子”郭恒华，带 领华恒生物冲刺“A+H”双重 主要上市。",
+    "url": "https://www.tmtpost.com/7976074.html",
+    "published": "Mon, 04 May 2026 16:04:45 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评",
+    "summary": "谁能创造增速更高的GDP，谁就能享受估值溢价。",
+    "url": "https://www.tmtpost.com/7976208.html",
+    "published": "Mon, 04 May 2026 15:33:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-04"
@@ -821,6 +851,16 @@
   },
   {
     "source": "Hacker News",
+    "title": "Prototype Fund is a funding program for innovative Open Source Software",
+    "summary": "Article URL: https://www.prototypefund.de/en/ Comments URL: https://news.ycombinator.com/item?id=48006541 Points: 1 # Comments: 0",
+    "url": "https://www.prototypefund.de/en/",
+    "published": "Mon, 04 May 2026 09:55:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-04"
+  },
+  {
+    "source": "Hacker News",
     "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
     "summary": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 2 # Comments: 0",
     "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
@@ -882,7 +922,7 @@
   {
     "source": "Hacker News",
     "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 135 # Comments: 16",
+    "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 135 # Comments: 18",
     "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
     "published": "Sat, 02 May 2026 21:34:49 +0000",
     "lang": "en",
@@ -1009,8 +1049,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-04",
     "meta": {
-      "stars": 20060,
-      "forks": 2222,
+      "stars": 21630,
+      "forks": 2367,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }

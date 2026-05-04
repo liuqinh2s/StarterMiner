@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "JacobCounsell"
+            "twitter": "jakobjelling"
           },
           "careerPage": null,
           "jobListings": []
@@ -910,7 +910,7 @@
       },
       "score": 92,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {},
@@ -2723,7 +2723,7 @@
       },
       "score": 69,
       "discoveredAt": "2026-05-02",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {},
@@ -3341,30 +3341,127 @@
       }
     },
     {
-      "id": "superfusion",
-      "name": "超聚变数字技术股份有限公司",
-      "desc": "算力基础设施提供商，前身为华为X86服务器业务，估值超500亿元",
-      "track": "semiconductor",
+      "id": "xbot",
+      "name": "自变量机器人",
+      "desc": "具身智能机器人公司，专注通用机器人大脑和基础模型",
+      "track": "robotics",
       "stage": "b+",
-      "city": "zhengzhou",
+      "city": "beijing",
       "tags": [
-        "算力",
-        "服务器",
-        "华为生态"
+        "具身智能",
+        "机器人",
+        "AI",
+        "融资多轮"
       ],
       "team": [],
       "product": "",
-      "founded": "2021-09",
-      "funding": "至少8轮融资，估值500亿元",
+      "founded": "2023-10",
+      "funding": "已完成B轮融资，投资方包括小米、阿里、字节、美团等，成立以来累计十一轮融资",
       "scores": {
-        "tech": 75,
-        "growth": 85,
-        "team": 70,
+        "tech": 85,
+        "growth": 90,
+        "team": 80,
         "market": 90
       },
-      "score": 80,
+      "score": 86,
       "discoveredAt": "2026-05-04",
       "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-04",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "taichi-graphics",
+      "name": "太极图形科技有限公司",
+      "desc": "3D生成AI平台Meshy，ARR超4000万美元",
+      "track": "ai",
+      "stage": "a+",
+      "city": "beijing",
+      "tags": [
+        "3D生成",
+        "AI",
+        "图形学"
+      ],
+      "team": [
+        {
+          "name": "胡渊鸣",
+          "role": "创始人",
+          "bg": "清华姚班、MIT博士、Taichi作者"
+        }
+      ],
+      "product": "https://www.meshy.ai",
+      "founded": "2021-06",
+      "funding": "累计ARR超4000万美元",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 95,
+        "market": 80
+      },
+      "score": 88,
+      "discoveredAt": "2026-05-04",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-04",
+        "website": {
+          "website": "https://www.meshy.ai",
+          "emails": [
+            "support@meshy.ai",
+            "name@domain.com",
+            "u003eeducation@meshy.ai",
+            "careers@meshy.ai"
+          ],
+          "socials": {
+            "twitter": "MeshyAI",
+            "linkedin": "meshyai",
+            "wechat": "Pay"
+          },
+          "careerPage": "https://www.meshy.ai/careers",
+          "jobListings": [
+            "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ineffable",
+      "name": "Ineffable Intelligence",
+      "desc": "由前DeepMind首席科学家David Silver创立的AI初创公司，致力于推动通用人工智能发展。",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "通用人工智能",
+        "种子轮",
+        "DeepMind"
+      ],
+      "team": [
+        {
+          "name": "David Silver",
+          "role": "创始人/CEO",
+          "bg": "前DeepMind首席科学家，强化学习领域权威，AlphaGo核心贡献者"
+        }
+      ],
+      "product": null,
+      "founded": null,
+      "funding": "2026年4月完成创纪录的11亿美元种子轮融资，领投方包括NVIDIA、Google等。",
+      "scores": {
+        "tech": 95,
+        "growth": 80,
+        "team": 85,
+        "market": 90
+      },
+      "score": 88,
+      "discoveredAt": "2026-05-04",
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-04",
         "website": {},
@@ -5719,48 +5816,136 @@
       "relatedProject": null
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "早报｜苹果：下季度内存成本压力将显著加大/宇树最便宜人形机器发布/5月1日高速车流或创历史纪录",
-      "url": "https://www.ifanr.com/1664760?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "· 三星 Q1 芯片利润暴涨 49 倍，单部门吃掉全集团 94% 营业利润 · 赛力斯一季度卖出 78500 辆新能源车，研发费用同比增长 70.7% · D 加密反制破解出新招，正版玩家被迫每 14 天联网「打卡」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-05-01",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "周杰伦伙伴，要被卖了",
+      "url": "https://36kr.com/p/3791838183234816?f=rss",
+      "snippet": "环球音乐被潘兴广场收购要约估值640亿美元，不涉及初创公司。",
+      "date": "2026-05-02",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "小米最新人形机器人的手，会「出汗」了",
-      "url": "https://www.ifanr.com/1664575?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "还能跟你比心🫶 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://36kr.com/p/3791662444911617?f=rss",
+      "snippet": "苹果Apple Support应用误打包Claude.md，泄露内部使用Claude Code开发。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "9.35万, 威马破产大甩卖",
+      "url": "https://36kr.com/p/3791546608049152?f=rss",
+      "snippet": "威马汽车子公司亿元债权以9.35万元拍卖，公司已破产。",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "印度数据中心公司Yotta：公司在IPO前寻求60亿美元的估值",
+      "url": "https://36kr.com/newsflashes/3794749752728585?f=rss",
+      "snippet": "印度数据中心Yotta在IPO前寻求60亿美元估值。",
+      "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "一季度末股东户数下降公司排行：16家公司降逾40%",
+      "url": "https://36kr.com/newsflashes/3794443672411144?f=rss",
+      "snippet": "16家A股公司股东户数降幅超40%，富临精工等降幅超50%。",
+      "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "少数派",
+      "sourceIcon": "少数派",
+      "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
+      "url": "https://sspai.com/post/109277",
+      "snippet": "vivo Pad6 Pro平板体验评测，不涉及初创公司。",
+      "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "少数派",
+      "sourceIcon": "少数派",
+      "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
+      "url": "https://sspai.com/post/109235",
+      "snippet": "早报摘要，不涉及具体初创公司。",
       "date": "2026-04-30",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
-      "url": "https://www.ifanr.com/1664570?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "· 新一轮融资在路上，Anthropic 估值或突破 9000 亿美元 · Alphabet Q1 净利润暴增 81%，Google Cloud 首破 200 亿美元大关 · Azure 增速 40%、AI 狂飙 123%，微软云业务全面提速 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-04-30",
+      "source": "极客公园",
+      "sourceIcon": "极客公园",
+      "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
+      "url": "http://www.geekpark.net/news/363699",
+      "snippet": "魔法原子在硅谷举办具身智能创新大会，发布人形机器人MagicBot X1和世界模型Magic-Mix。",
+      "date": "2026-05-03",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "magiclab"
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
       "url": "https://news.ycombinator.com/item?id=48003934",
-      "snippet": "前DeepMind科学家David Silver为AI初创公司Ineffable Intelligence筹集11亿美元种子轮融资，投资者包括Nvidia和Google。",
+      "snippet": "前DeepMind科学家David Silver为其AI初创公司Ineffable Intelligence筹集11亿美元种子轮，投资方包括NVIDIA和Google。",
       "date": "2026-05-04",
       "likes": 2,
       "comments": 0,
-      "relatedProject": "ineffable-intelligence"
+      "relatedProject": "ineffable"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Who is funding the future of British defence?",
+      "url": "https://vulpesetleo.substack.com/p/who-is-funding-the-future-of-british",
+      "snippet": "Article URL: https://vulpesetleo.substack.com/p/who-is-funding-the-future-of-british Comments URL: https://news.ycombinator",
+      "date": "2026-05-02",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "What Is GStack? Gary Tan's Open-Source Startup Framework for Claude Code",
+      "url": "https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework",
+      "snippet": "Article URL: https://www.mindstudio.ai/blog/what-is-gstack-gary-tan-claude-code-framework Comments URL: https://news.ycombinator.com",
+      "date": "2026-05-02",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "snippet": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item",
+      "date": "2026-05-02",
+      "likes": 135,
+      "comments": 18,
+      "relatedProject": null
     }
   ]
 }
