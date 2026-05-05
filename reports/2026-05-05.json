@@ -1530,7 +1530,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-05",
         "website": {
@@ -3492,47 +3492,196 @@
       }
     },
     {
-      "id": "juliahub",
-      "name": "JuliaHub",
-      "desc": "AI startup providing Julia-based enterprise platform for AI and scientific computing, rivaling Simulink",
+      "id": "mini-max",
+      "name": "MiniMax",
+      "desc": "中国头部多模态大模型公司，与恒星引力合作AI内容制作",
+      "track": "ai",
+      "stage": "b+",
+      "city": "shanghai",
+      "tags": [
+        "多模态大模型",
+        "AI视频生成",
+        "内容合作"
+      ],
+      "team": [
+        {
+          "name": "闫俊杰",
+          "role": "CEO",
+          "bg": "前商汤科技副总裁"
+        }
+      ],
+      "product": "https://www.minimax.com",
+      "founded": "2021-12",
+      "funding": "已完成多轮融资，估值超10亿美元",
+      "scores": {
+        "tech": 88,
+        "growth": 82,
+        "team": 85,
+        "market": 90
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {
+          "website": "https://www.minimax.com",
+          "emails": [],
+          "socials": {
+            "twitter": "de",
+            "linkedin": "41399013"
+          },
+          "careerPage": "https://www.minimax.com/career",
+          "jobListings": [
+            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
+            "Data Center",
+            "Data privacy policy"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xgrobot",
+      "name": "自变量机器人",
+      "desc": "具身智能公司，自研WALL-B基础模型，获小米、阿里等投资",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人基础模型",
+        "通用大脑"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "CEO",
+          "bg": "连续创业者"
+        }
+      ],
+      "product": "https://www.xgrobot.com",
+      "founded": "2023-10",
+      "funding": "2026年完成B轮，累计11轮融资，估值超百亿",
+      "scores": {
+        "tech": 92,
+        "growth": 88,
+        "team": 85,
+        "market": 92
+      },
+      "score": 89,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {
+          "website": "https://www.xgrobot.com",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "character-ai",
+      "name": "Character.AI",
+      "desc": "AI聊天机器人平台，用户可创建和互动虚拟角色",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI",
-        "科学计算",
-        "Julia语言",
-        "仿真"
+        "AI聊天",
+        "生成式AI",
+        "虚拟角色"
       ],
       "team": [],
-      "product": "https://juliahub.com",
-      "founded": "unknown",
-      "funding": "$65M raised to rival Simulink",
+      "product": null,
+      "founded": "2021-09",
+      "funding": "已获多轮融资，估值超10亿美元",
       "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 50,
+        "tech": 85,
+        "growth": 60,
+        "team": 80,
         "market": 70
       },
-      "score": 60,
+      "score": 74,
       "discoveredAt": "2026-05-05",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-05",
-        "website": {
-          "website": "https://juliahub.com",
-          "emails": [
-            "support@juliahub.com",
-            "sales@juliahub.com"
-          ],
-          "socials": {
-            "twitter": "JuliaHub",
-            "linkedin": "juliahub",
-            "github": "JuliaComputing"
-          },
-          "careerPage": null,
-          "jobListings": []
-        },
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "copilotkit",
+      "name": "CopilotKit",
+      "desc": "帮助开发者部署应用内AI代理的开发工具",
+      "track": "ai",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "低代码"
+      ],
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": "2026年5月完成2700万美元A轮融资，由Glilot Capital、NFX、SignalFire领投",
+      "scores": {
+        "tech": 75,
+        "growth": 70,
+        "team": 65,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "krutrim",
+      "name": "Krutrim",
+      "desc": "印度首家生成式AI独角兽，转向云服务",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "生成式AI",
+        "云服务",
+        "印度"
+      ],
+      "team": [],
+      "product": null,
+      "founded": "2023",
+      "funding": "已获超10亿美元估值融资",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 65,
+        "market": 60
+      },
+      "score": 61,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -6214,12 +6363,122 @@
       "relatedProject": null
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
-      "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
-      "snippet": "Fervo Energy IPO拟融资13亿美元，估值最高65亿美元。",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "五月，适合想清楚一件事｜幕启",
+      "url": "https://36kr.com/p/3794961189821698?f=rss",
+      "snippet": "关于品牌命名和青年思考的文章，不涉及具体初创公司",
       "date": "2026-05-04",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "周杰伦伙伴，要被卖了",
+      "url": "https://36kr.com/p/3791838183234816?f=rss",
+      "snippet": "环球音乐被收购，不涉及初创公司",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://36kr.com/p/3791662444911617?f=rss",
+      "snippet": "苹果App意外包含Claude配置，不涉及初创公司",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "9.35万, 威马破产大甩卖",
+      "url": "https://36kr.com/p/3791546608049152?f=rss",
+      "snippet": "威马汽车破产拍卖，不涉及初创公司",
+      "date": "2026-05-02",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "AMD：预计到2030年CPU市场年增长超过35%",
+      "url": "https://36kr.com/newsflashes/3797009188855047?f=rss",
+      "snippet": "AMD预测CPU市场增长，不涉及初创公司",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "Alphabet发行欧元和加元债券，合计融资近170亿美元",
+      "url": "https://36kr.com/newsflashes/3797008763919368?f=rss",
+      "snippet": "Alphabet发债，不涉及初创公司",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "Anthropic承诺五年内向谷歌云投资2000亿美元",
+      "url": "https://36kr.com/newsflashes/3796990887795968?f=rss",
+      "snippet": "Anthropic承诺使用谷歌云，涉及AI初创公司",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "anthropic"
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "【钛晨报】2025年全市场上市公司实现营收73.01万亿元，同比增长1.2%；伯克希尔哈撒韦一季度净利润增至101.06亿美元；主要产油国宣布6月增产",
+      "url": "https://www.tmtpost.com/7974508.html",
+      "snippet": "抖音集团副总裁：网传所谓红果短剧收费的消息不实；豆包将在免费模式外新增付费订阅，官方回应；小红书任命柯南为总裁整合三大业务；极越汽车合并重整获受理；马斯克就推特持股披露诉讼与美证监会达成和解；着眼经济转型，阿联酋石油巨头布局550亿美元项目；游戏驿站提出近560亿美元收购eBay；Meta收购机器人AI公司，加速布局人形机器人技术；SpaceX：星舰项目累计投入超150亿美元，计划2026年下半年发射“星链 V3”卫星；成本上涨，消费品巨头联合利华决定提价；OpenAI奥尔特曼：未来几天内将推出前沿网络安全模型GPT-5.5-Cyber；商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施；央行、海关总署：进一步优化黄金及黄金制品进出口准许证“非一批一证”管理；三部门：扩大科技创新和技术改造贷款投放，进一步支持设备更新；AI制药公司剂泰科技启动招股，拟于港交所上市；QFII一季度重仓银行、电子板块；中基协：3月证券期货经营机构共备案私募资管产品2608只，同比增加78.26%；4月份中国大宗商品价格指数为132.1点，同比上涨20.2%；2026五一档票房超去年",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "刚刚，中国最大国产运动医学设备提供商IPO，市值超140亿",
+      "url": "https://www.tmtpost.com/7976704.html",
+      "snippet": "哈工大博士创业8年，在运动医学领域打破外资垄断。",
+      "date": "2026-05-05",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "维琪科技：同股不同价，估值暴拉，坐拥1.3亿理财仍募资2亿｜IPO观察",
+      "url": "https://www.tmtpost.com/7975811.html",
+      "snippet": "上市前夕，维琪科技股权交易乱象频发，同一股东相近时间股权转让出现近乎一倍的价差，同股不同价异常明显；后续相关股权在短短数月内估值接连暴涨、转手溢价数倍，短期套利属性突出，也因此被北交所重点问询。",
+      "date": "2026-05-05",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "Anthropic启动500亿美元IPO前融资，估值剑指9000亿美元",
+      "url": "https://www.tmtpost.com/7976557.html",
+      "snippet": "挑战OpenAI地位的第二极来了。",
+      "date": "2026-05-05",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
@@ -6227,21 +6486,43 @@
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "snippet": "图像AI模型推动应用增长，下载量是聊天机器人的6.5倍。",
-      "date": "2026-05-04",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "snippet": "宾夕法尼亚州起诉Character.AI，称其聊天机器人冒充精神科医生，并伪造行医执照号码。",
+      "date": "2026-05-05",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "character-ai"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "snippet": "西雅图初创公司CopilotKit完成2700万美元A轮融资，帮助开发者部署应用内AI代理。",
+      "date": "2026-05-05",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "copilotkit"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "snippet": "印度首家生成式AI独角兽Krutrim转向云服务，反映构建AI模型的经济挑战。",
+      "date": "2026-05-05",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "krutrim"
     },
     {
       "source": "The Verge",
       "sourceIcon": "VG",
-      "title": "Valve just imported 50 tons of game consoles in two days",
-      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
-      "snippet": "Valve imported approximately 50 tons of game consoles into the US, suggesting imminent launch of Steam Machine or new hardware.",
-      "date": "2026-05-04",
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "snippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its predecessor.",
+      "date": "2026-05-05",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
@@ -6249,20 +6530,9 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "Explosion Rocks SpaceX's Test of Water Deluge System Ahead of Starship Launch",
-      "url": "https://gizmodo.com/explosion-rocks-spacexs-test-of-water-deluge-system-ahead-of-starship-launch-2000754372",
-      "snippet": "An explosion occurred during SpaceX's test of the water deluge system ahead of Starship launch. No injuries reported.",
-      "date": "2026-05-05",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "OpenAI and Anthropic launch ventures to speed enterprise AI adoption",
-      "url": "https://www.sofx.com/openai-and-anthropic-launch-rival-pe-joint-ventures-to-address-enterprise-ai-deployment-gap/",
-      "snippet": "OpenAI and Anthropic launch rival PE joint ventures to address enterprise AI deployment gap.",
+      "title": "Span to launch distributed AI data centers for edge compute",
+      "url": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
+      "snippet": "Article URL: https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/ Comments URL: https://news.ycombinator.com/item?id=48029052 Points: 2 # Comments: 0",
       "date": "2026-05-05",
       "likes": 2,
       "comments": 0,
@@ -6271,20 +6541,9 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "Pgbackrest gets funding and will be maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest/commit/b93a2b8807adabec02ef33cca838e30f109c3eba",
-      "snippet": "Pgbackrest, a PostgreSQL backup tool, receives funding and commits to ongoing maintenance.",
-      "date": "2026-05-05",
-      "likes": 4,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Anthropic, OpenAI launch AI services companies, challenge TCS, Infosys in India",
-      "url": "https://www.indiatoday.in/technology/news/story/anthropic-openai-launch-ai-services-companies-challenge-tcs-and-infosys-in-india-2906776-2026-05-05",
-      "snippet": "Anthropic and OpenAI launch AI services companies in India to compete with TCS and Infosys.",
+      "title": "App I made to make waking up more fun (not an Agentic AI B2B SaaS startup)",
+      "url": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
+      "snippet": "Article URL: https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228 Comments URL: https://news.ycombinator.com/item?id=48024191 Points: 1 # Comments: 0",
       "date": "2026-05-05",
       "likes": 1,
       "comments": 0,
@@ -6295,10 +6554,76 @@
       "sourceIcon": "HN",
       "title": "Peter Thiel backs $1B ocean data centre startup powered by waves",
       "url": "https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39",
-      "snippet": "Peter Thiel backs a $1B ocean data centre startup that uses wave energy to power underwater data centers.",
+      "snippet": "Article URL: https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39 Comments URL: https://news.ycombinator.com/item?id=48023914 Points: 2 # Comments: 1",
       "date": "2026-05-05",
-      "likes": 9,
-      "comments": 3,
+      "likes": 2,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Bash startup config file behavior (diagram)",
+      "url": "https://github.com/rezrov/shellrc/blob/master/bash-startup.png",
+      "snippet": "Article URL: https://github.com/rezrov/shellrc/blob/master/bash-startup.png Comments URL: https://news.ycombinator.com/item?id=48022210 Points: 3 # Comments: 1",
+      "date": "2026-05-05",
+      "likes": 3,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The boring way to build a startup",
+      "url": "https://plausible.io/blog/ignore-startup-advice",
+      "snippet": "Article URL: https://plausible.io/blog/ignore-startup-advice Comments URL: https://news.ycombinator.com/item?id=48021417 Points: 4 # Comments: 2",
+      "date": "2026-05-05",
+      "likes": 4,
+      "comments": 2,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Explosion Rocks SpaceX's Test of Water Deluge System Ahead of Starship Launch",
+      "url": "https://gizmodo.com/explosion-rocks-spacexs-test-of-water-deluge-system-ahead-of-starship-launch-2000754372",
+      "snippet": "Article URL: https://gizmodo.com/explosion-rocks-spacexs-test-of-water-deluge-system-ahead-of-starship-launch-2000754372 Comments URL: https://news.ycombinator.com/item?id=48020846 Points: 1 # Comments: 0",
+      "date": "2026-05-05",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "OpenAI and Anthropic launch ventures to speed enterprise AI adoption",
+      "url": "https://www.sofx.com/openai-and-anthropic-launch-rival-pe-joint-ventures-to-address-enterprise-ai-deployment-gap/",
+      "snippet": "OpenAI和Anthropic推出竞争性PE合资企业，以解决企业AI部署差距",
+      "date": "2026-05-05",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Pgbackrest gets funding and will be maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest/commit/b93a2b8807adabec02ef33cca838e30f109c3eba",
+      "snippet": "开源备份工具pgbackrest获得资金并继续维护",
+      "date": "2026-05-05",
+      "likes": 4,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Anthropic, OpenAI launch AI services companies, challenge TCS, Infosys in India",
+      "url": "https://www.indiatoday.in/technology/news/story/anthropic-openai-launch-ai-services-companies-challenge-tcs-and-infosys-in-india-2906776-2026-05-05",
+      "snippet": "Anthropic和OpenAI在印度推出AI服务公司，挑战TCS和Infosys",
+      "date": "2026-05-05",
+      "likes": 1,
+      "comments": 0,
       "relatedProject": null
     },
     {
@@ -6306,11 +6631,22 @@
       "sourceIcon": "HN",
       "title": "AI startup JuliaHub raises $65M to rival Simulink",
       "url": "https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering",
-      "snippet": "JuliaHub raises $65M to compete with Simulink, offering Julia-based simulation and AI platform.",
+      "snippet": "AI初创公司JuliaHub融资6500万美元，与Simulink竞争",
       "date": "2026-05-04",
-      "likes": 30,
+      "likes": 31,
       "comments": 3,
-      "relatedProject": "juliahub"
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "vercel-labs/deepsec",
+      "url": "https://github.com/vercel-labs/deepsec",
+      "snippet": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+      "date": "2026-04-30",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
     }
   ]
 }

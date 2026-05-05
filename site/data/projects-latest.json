@@ -1530,7 +1530,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-05",
         "website": {
@@ -3492,47 +3492,196 @@
       }
     },
     {
-      "id": "juliahub",
-      "name": "JuliaHub",
-      "desc": "AI startup providing Julia-based enterprise platform for AI and scientific computing, rivaling Simulink",
+      "id": "mini-max",
+      "name": "MiniMax",
+      "desc": "中国头部多模态大模型公司，与恒星引力合作AI内容制作",
+      "track": "ai",
+      "stage": "b+",
+      "city": "shanghai",
+      "tags": [
+        "多模态大模型",
+        "AI视频生成",
+        "内容合作"
+      ],
+      "team": [
+        {
+          "name": "闫俊杰",
+          "role": "CEO",
+          "bg": "前商汤科技副总裁"
+        }
+      ],
+      "product": "https://www.minimax.com",
+      "founded": "2021-12",
+      "funding": "已完成多轮融资，估值超10亿美元",
+      "scores": {
+        "tech": 88,
+        "growth": 82,
+        "team": 85,
+        "market": 90
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {
+          "website": "https://www.minimax.com",
+          "emails": [],
+          "socials": {
+            "twitter": "de",
+            "linkedin": "41399013"
+          },
+          "careerPage": "https://www.minimax.com/career",
+          "jobListings": [
+            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
+            "Data Center",
+            "Data privacy policy"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xgrobot",
+      "name": "自变量机器人",
+      "desc": "具身智能公司，自研WALL-B基础模型，获小米、阿里等投资",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人基础模型",
+        "通用大脑"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "CEO",
+          "bg": "连续创业者"
+        }
+      ],
+      "product": "https://www.xgrobot.com",
+      "founded": "2023-10",
+      "funding": "2026年完成B轮，累计11轮融资，估值超百亿",
+      "scores": {
+        "tech": 92,
+        "growth": 88,
+        "team": 85,
+        "market": 92
+      },
+      "score": 89,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {
+          "website": "https://www.xgrobot.com",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "character-ai",
+      "name": "Character.AI",
+      "desc": "AI聊天机器人平台，用户可创建和互动虚拟角色",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "AI",
-        "科学计算",
-        "Julia语言",
-        "仿真"
+        "AI聊天",
+        "生成式AI",
+        "虚拟角色"
       ],
       "team": [],
-      "product": "https://juliahub.com",
-      "founded": "unknown",
-      "funding": "$65M raised to rival Simulink",
+      "product": null,
+      "founded": "2021-09",
+      "funding": "已获多轮融资，估值超10亿美元",
       "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 50,
+        "tech": 85,
+        "growth": 60,
+        "team": 80,
         "market": 70
       },
-      "score": 60,
+      "score": 74,
       "discoveredAt": "2026-05-05",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-05",
-        "website": {
-          "website": "https://juliahub.com",
-          "emails": [
-            "support@juliahub.com",
-            "sales@juliahub.com"
-          ],
-          "socials": {
-            "twitter": "JuliaHub",
-            "linkedin": "juliahub",
-            "github": "JuliaComputing"
-          },
-          "careerPage": null,
-          "jobListings": []
-        },
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "copilotkit",
+      "name": "CopilotKit",
+      "desc": "帮助开发者部署应用内AI代理的开发工具",
+      "track": "ai",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "AI代理",
+        "开发者工具",
+        "低代码"
+      ],
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": "2026年5月完成2700万美元A轮融资，由Glilot Capital、NFX、SignalFire领投",
+      "scores": {
+        "tech": 75,
+        "growth": 70,
+        "team": 65,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "krutrim",
+      "name": "Krutrim",
+      "desc": "印度首家生成式AI独角兽，转向云服务",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "生成式AI",
+        "云服务",
+        "印度"
+      ],
+      "team": [],
+      "product": null,
+      "founded": "2023",
+      "funding": "已获超10亿美元估值融资",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 65,
+        "market": 60
+      },
+      "score": 61,
+      "discoveredAt": "2026-05-05",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-05",
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}

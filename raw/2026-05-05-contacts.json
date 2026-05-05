@@ -1276,24 +1276,74 @@
     }
   },
   {
-    "id": "juliahub",
-    "name": "JuliaHub",
+    "id": "mini-max",
+    "name": "MiniMax",
     "contacts": {
       "fetchedAt": "2026-05-05",
       "website": {
-        "website": "https://juliahub.com",
-        "emails": [
-          "support@juliahub.com",
-          "sales@juliahub.com"
-        ],
+        "website": "https://www.minimax.com",
+        "emails": [],
         "socials": {
-          "twitter": "JuliaHub",
-          "linkedin": "juliahub",
-          "github": "JuliaComputing"
+          "twitter": "de",
+          "linkedin": "41399013"
         },
+        "careerPage": "https://www.minimax.com/career",
+        "jobListings": [
+          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
+          "Data Center",
+          "Data privacy policy"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xgrobot",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-05-05",
+      "website": {
+        "website": "https://www.xgrobot.com",
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "character-ai",
+    "name": "Character.AI",
+    "contacts": {
+      "fetchedAt": "2026-05-05",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "copilotkit",
+    "name": "CopilotKit",
+    "contacts": {
+      "fetchedAt": "2026-05-05",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "krutrim",
+    "name": "Krutrim",
+    "contacts": {
+      "fetchedAt": "2026-05-05",
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
