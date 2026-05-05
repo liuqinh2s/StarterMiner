@@ -1276,44 +1276,24 @@
     }
   },
   {
-    "id": "memorax-ai",
-    "name": "深圳忆纪元科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-05",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zibot",
-    "name": "自变量机器人",
-    "contacts": {
-      "fetchedAt": "2026-05-05",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "mianbi",
-    "name": "面壁智能",
-    "contacts": {
-      "fetchedAt": "2026-05-05",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "juliahub",
     "name": "JuliaHub",
     "contacts": {
       "fetchedAt": "2026-05-05",
-      "website": {},
+      "website": {
+        "website": "https://juliahub.com",
+        "emails": [
+          "support@juliahub.com",
+          "sales@juliahub.com"
+        ],
+        "socials": {
+          "twitter": "JuliaHub",
+          "linkedin": "juliahub",
+          "github": "JuliaComputing"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

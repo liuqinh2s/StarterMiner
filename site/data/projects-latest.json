@@ -3492,150 +3492,47 @@
       }
     },
     {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆技术公司，自主研发Agentic RL解决大模型失忆症",
-      "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "大模型记忆",
-        "Agentic RL",
-        "强化学习"
-      ],
-      "team": [
-        {
-          "name": "郝建业",
-          "role": "创始人",
-          "bg": "天津大学菁英教授，全球前2%科学家，ICML/NeurIPS/ICLR顶会产出全球前10"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "千万美金种子轮融资，钟鼎资本领投",
-      "scores": {
-        "tech": 85,
-        "growth": 30,
-        "team": 75,
-        "market": 60
-      },
-      "score": 62,
-      "discoveredAt": "2026-05-05",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-05",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zibot",
-      "name": "自变量机器人",
-      "desc": "具身智能基础模型公司，致力于通用机器人大脑研发",
-      "track": "robotics",
-      "stage": "b",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "人形机器人"
-      ],
-      "team": [
-        {
-          "name": "王潜",
-          "role": "CEO",
-          "bg": "具身智能领域专家"
-        }
-      ],
-      "product": "",
-      "founded": "2023-10",
-      "funding": "已获小米、美团、阿里、字节等战略投资，B轮融资",
-      "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 80,
-        "market": 90
-      },
-      "score": 84,
-      "discoveredAt": "2026-05-05",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-05",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "mianbi",
-      "name": "面壁智能",
-      "desc": "端侧大模型和Agent框架提供商，主打EmbodiedClaw",
-      "track": "ai",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "大模型",
-        "端侧AI",
-        "Agent"
-      ],
-      "team": [
-        {
-          "name": "李大海",
-          "role": "CEO",
-          "bg": "前字节跳动AI Lab负责人"
-        }
-      ],
-      "product": "",
-      "founded": "2022-06",
-      "funding": "已完成A轮融资",
-      "scores": {
-        "tech": 75,
-        "growth": 60,
-        "team": 70,
-        "market": 70
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-05",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-05",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "juliahub",
       "name": "JuliaHub",
-      "desc": "AI startup raising $65M to develop simulation software rivaling Simulink",
+      "desc": "AI startup providing Julia-based enterprise platform for AI and scientific computing, rivaling Simulink",
       "track": "ai",
       "stage": "b+",
       "city": "overseas",
       "tags": [
         "AI",
-        "simulation",
-        "engineering"
+        "科学计算",
+        "Julia语言",
+        "仿真"
       ],
       "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "$65 million raised in latest round",
+      "product": "https://juliahub.com",
+      "founded": "unknown",
+      "funding": "$65M raised to rival Simulink",
       "scores": {
         "tech": 70,
         "growth": 50,
         "team": 50,
-        "market": 60
+        "market": 70
       },
-      "score": 58,
+      "score": 60,
       "discoveredAt": "2026-05-05",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-05",
-        "website": {},
+        "website": {
+          "website": "https://juliahub.com",
+          "emails": [
+            "support@juliahub.com",
+            "sales@juliahub.com"
+          ],
+          "socials": {
+            "twitter": "JuliaHub",
+            "linkedin": "juliahub",
+            "github": "JuliaComputing"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
