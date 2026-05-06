@@ -1284,8 +1284,7 @@
         "website": "https://www.minimax.com",
         "emails": [],
         "socials": {
-          "twitter": "de",
-          "linkedin": "41399013"
+          "twitter": "de"
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
@@ -1350,6 +1349,39 @@
     }
   },
   {
+    "id": "fengyun-keji",
+    "name": "丰耘科技（杭州）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuanxin-jia",
+    "name": "杭州暖芯迦电子科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "duneng-keji",
+    "name": "度能科技（厦门）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "recursive-superintelligence",
     "name": "Recursive Superintelligence",
     "contacts": {
@@ -1361,8 +1393,8 @@
     }
   },
   {
-    "id": "xbot",
-    "name": "自变量机器人",
+    "id": "zhangxue-motor",
+    "name": "张雪机车",
     "contacts": {
       "fetchedAt": "2026-05-06",
       "website": {},
@@ -1372,8 +1404,51 @@
     }
   },
   {
-    "id": "ren3",
-    "name": "ReN3",
+    "id": "mianbi",
+    "name": "面壁智能",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {
+        "website": "https://www.modelbest.cn",
+        "emails": [
+          "business@modelbest.cn",
+          "pr@modelbest.cn",
+          "ir@modelbest.cn",
+          "career@modelbest.cn"
+        ],
+        "socials": {
+          "github": "OpenBMB"
+        },
+        "careerPage": "https://www.modelbest.cn/careers",
+        "jobListings": [
+          "高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xavier",
+    "name": "自变量机器人（Xavier Robotics）",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {
+        "website": "https://www.xavier-robotics.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "braintrust",
+    "name": "Braintrust",
     "contacts": {
       "fetchedAt": "2026-05-06",
       "website": {},
@@ -1383,8 +1458,8 @@
     }
   },
   {
-    "id": "qutwo",
-    "name": "QuTwo",
+    "id": "genesis-ai",
+    "name": "Genesis AI",
     "contacts": {
       "fetchedAt": "2026-05-06",
       "website": {},
@@ -1394,8 +1469,27 @@
     }
   },
   {
-    "id": "priorlabs",
-    "name": "Prior Labs",
+    "id": "aisle",
+    "name": "Aisle",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {
+        "website": "https://aisle.com",
+        "emails": [],
+        "socials": {
+          "linkedin": "weareaisle"
+        },
+        "careerPage": "https://aisle.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "arena-one",
+    "name": "Arena One",
     "contacts": {
       "fetchedAt": "2026-05-06",
       "website": {},
@@ -1405,11 +1499,43 @@
     }
   },
   {
-    "id": "characterai",
-    "name": "Character.AI",
+    "id": "pitch-pit",
+    "name": "Pitch-Pit",
     "contacts": {
       "fetchedAt": "2026-05-06",
-      "website": {},
+      "website": {
+        "website": "https://pitchpit.app",
+        "emails": [
+          "hello@pitchpit.app"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "juliahub",
+    "name": "JuliaHub",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {
+        "website": "https://juliahub.com",
+        "emails": [
+          "support@juliahub.com",
+          "sales@juliahub.com"
+        ],
+        "socials": {
+          "twitter": "JuliaHub",
+          "linkedin": "juliahub",
+          "github": "JuliaComputing"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -1420,7 +1546,23 @@
     "name": "Span",
     "contacts": {
       "fetchedAt": "2026-05-06",
-      "website": {},
+      "website": {
+        "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
+        "emails": [
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com"
+        ],
+        "socials": {
+          "twitter": "_LatitudeMedia",
+          "linkedin": "latitude-media-inc"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

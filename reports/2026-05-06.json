@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 9,
+      "discussionCount": 11,
       "contacts": {
         "fetchedAt": "2026-05-06",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 9,
+      "discussionCount": 11,
       "contacts": {
         "fetchedAt": "2026-05-06",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 9,
+      "discussionCount": 11,
       "contacts": {
         "fetchedAt": "2026-05-06",
         "website": {
@@ -1338,7 +1338,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 2,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-06",
         "website": {
@@ -3528,8 +3528,7 @@
           "website": "https://www.minimax.com",
           "emails": [],
           "socials": {
-            "twitter": "de",
-            "linkedin": "41399013"
+            "twitter": "de"
           },
           "careerPage": "https://www.minimax.com/career",
           "jobListings": [
@@ -3688,210 +3687,26 @@
       }
     },
     {
-      "id": "recursive-superintelligence",
-      "name": "Recursive Superintelligence",
-      "desc": "致力于让AI自主研究和进化的AI公司",
+      "id": "fengyun-keji",
+      "name": "丰耘科技（杭州）有限公司",
+      "desc": "以AI技术重构设施农业，实现智能温室控制",
       "track": "ai",
-      "stage": "a",
-      "city": "overseas",
+      "stage": "angel",
+      "city": "hangzhou",
       "tags": [
-        "AI",
-        "AGI",
-        "自主研究",
-        "超级智能"
-      ],
-      "team": [
-        {
-          "name": "Richard Socher",
-          "role": "创始人",
-          "bg": "前Salesforce首席科学家"
-        }
-      ],
-      "product": "",
-      "founded": "2026-01",
-      "funding": "5亿美元融资，GV领投，英伟达跟投，估值40亿美元",
-      "scores": {
-        "tech": 90,
-        "growth": 80,
-        "team": 95,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-06",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xbot",
-      "name": "自变量机器人",
-      "desc": "具身智能基础模型研发，获小米、阿里等投资",
-      "track": "robotics",
-      "stage": "b",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "基础模型"
-      ],
-      "team": [
-        {
-          "name": "王潜",
-          "role": "创始人&CEO",
-          "bg": ""
-        }
-      ],
-      "product": "",
-      "founded": "2023-10",
-      "funding": "B轮融资，投资方包括小米、美团、阿里、字节等",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 80,
-        "market": 90
-      },
-      "score": 86,
-      "discoveredAt": "2026-05-06",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-06",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "ren3",
-      "name": "ReN3",
-      "desc": "新加坡企业文档处理平台，提供AI驱动的文档解决方案",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "文档处理",
-        "AI",
-        "企业服务"
+        "AI农业",
+        "设施农业",
+        "数字孪生"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "2026年5月获得500万美元种子轮融资，由Vertex Ventures Southeast Asia & India领投",
+      "funding": "天使轮融资，由森马集团独家投资",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 75,
+        "growth": 60,
         "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-06",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-06",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "qutwo",
-      "name": "QuTwo",
-      "desc": "芬兰AI实验室，专注AI和量子计算，由前AMD Silo AI CEO创立。",
-      "track": "ai",
-      "stage": "angel",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "量子计算",
-        "欧洲"
-      ],
-      "team": [
-        {
-          "name": "Peter Sarlin",
-          "role": "CEO",
-          "bg": "前AMD Silo AI CEO"
-        }
-      ],
-      "product": null,
-      "founded": null,
-      "funding": "2500万欧元天使轮，估值3.25亿欧元",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 80,
         "market": 70
-      },
-      "score": 75,
-      "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-06",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "priorlabs",
-      "name": "Prior Labs",
-      "desc": "德国AI实验室，专注基础模型，成立18个月即被SAP以11.6亿美元收购。",
-      "track": "ai",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "基础模型",
-        "收购"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": "被SAP以11.6亿美元收购",
-      "scores": {
-        "tech": 80,
-        "growth": 90,
-        "team": 50,
-        "market": 80
-      },
-      "score": 77,
-      "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-06",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "characterai",
-      "name": "Character.AI",
-      "desc": "AI角色扮演聊天平台，用户可创建并对话AI角色。",
-      "track": "ai",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI聊天",
-        "角色扮演",
-        "诉讼"
-      ],
-      "team": [],
-      "product": null,
-      "founded": "2021-09",
-      "funding": "已获多轮融资",
-      "scores": {
-        "tech": 70,
-        "growth": 70,
-        "team": 50,
-        "market": 60
       },
       "score": 64,
       "discoveredAt": "2026-05-06",
@@ -3905,33 +3720,525 @@
       }
     },
     {
-      "id": "span",
-      "name": "Span",
-      "desc": "Building distributed AI data centers for edge computing.",
-      "track": "hardtech",
-      "stage": "seed",
-      "city": "overseas",
+      "id": "nuanxin-jia",
+      "name": "杭州暖芯迦电子科技有限公司",
+      "desc": "视觉脑机接口领军企业，研发视网膜及视皮层路径产品",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "hangzhou",
       "tags": [
-        "edge computing",
-        "AI data centers",
-        "distributed infrastructure"
+        "脑机接口",
+        "视觉重建",
+        "医疗器械"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "Undisclosed",
+      "funding": "3亿元战略融资，君联资本、丰年资本等投资",
       "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 70
+        "tech": 85,
+        "growth": 70,
+        "team": 60,
+        "market": 80
       },
-      "score": 57,
+      "score": 74,
       "discoveredAt": "2026-05-06",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-06",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "duneng-keji",
+      "name": "度能科技（厦门）有限公司",
+      "desc": "聚焦工商业储能，提供智能储能产品与解决方案",
+      "track": "newenergy",
+      "stage": "a",
+      "city": "xiamen",
+      "tags": [
+        "工商储",
+        "AI能源",
+        "欧洲市场"
+      ],
+      "team": [
+        {
+          "name": "创始人",
+          "role": "CEO",
+          "bg": "华为数字能源背景"
+        }
+      ],
+      "product": "",
+      "founded": "2023-09",
+      "funding": "数亿元A轮系列融资，协鑫集团领投",
+      "scores": {
+        "tech": 75,
+        "growth": 80,
+        "team": 80,
+        "market": 85
+      },
+      "score": 80,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "recursive-superintelligence",
+      "name": "Recursive Superintelligence",
+      "desc": "让AI学会自主研究和进化的超级智能公司，4个月估值40亿美元",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "超级智能",
+        "自主研究"
+      ],
+      "team": [
+        {
+          "name": "Richard Socher",
+          "role": "CEO",
+          "bg": "前Salesforce首席科学家"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "5亿美元融资，GV领投，英伟达跟投",
+      "scores": {
+        "tech": 85,
+        "growth": 50,
+        "team": 90,
+        "market": 80
+      },
+      "score": 74,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "zhangxue-motor",
+      "name": "张雪机车",
+      "desc": "中国摩托车制造商，在WSBK世界超级摩托车锦标赛夺冠",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "摩托车",
+        "赛车",
+        "制造业"
+      ],
+      "team": [],
+      "product": "",
+      "founded": null,
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 70,
+        "team": 50,
+        "market": 60
+      },
+      "score": 61,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "mianbi",
+      "name": "面壁智能",
+      "desc": "端侧大模型公司，发布EmbodiedClaw端侧Agent框架",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "端侧AI",
+        "大模型",
+        "Agent"
+      ],
+      "team": [
+        {
+          "name": "李大海",
+          "role": "CEO",
+          "bg": "前知乎CTO"
+        }
+      ],
+      "product": "https://www.modelbest.cn",
+      "founded": "2022-08",
+      "funding": "完成B轮融资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 75,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {
+          "website": "https://www.modelbest.cn",
+          "emails": [
+            "business@modelbest.cn",
+            "pr@modelbest.cn",
+            "ir@modelbest.cn",
+            "career@modelbest.cn"
+          ],
+          "socials": {
+            "github": "OpenBMB"
+          },
+          "careerPage": "https://www.modelbest.cn/careers",
+          "jobListings": [
+            "高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xavier",
+      "name": "自变量机器人（Xavier Robotics）",
+      "desc": "具身智能机器人公司，研发通用机器人大脑",
+      "track": "robotics",
+      "stage": "b",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "AGI"
+      ],
+      "team": [
+        {
+          "name": "王潜",
+          "role": "创始人兼CEO",
+          "bg": "前华为机器人专家"
+        }
+      ],
+      "product": "https://www.xavier-robotics.com",
+      "founded": "2023-10",
+      "funding": "B轮融资，累计11轮，获小米、美团、阿里、字节战投",
+      "scores": {
+        "tech": 88,
+        "growth": 92,
+        "team": 85,
+        "market": 90
+      },
+      "score": 89,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {
+          "website": "https://www.xavier-robotics.com",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "braintrust",
+      "name": "Braintrust",
+      "desc": "AI evaluation startup providing an operating system for engineers building AI software",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "ai",
+        "evaluation",
+        "security"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "No funding details announced",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 58,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "genesis-ai",
+      "name": "Genesis AI",
+      "desc": "Robotics startup building foundational AI for robots, raised $105M seed",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "robotics",
+        "foundational-model",
+        "seed"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "$105 million seed round from Khosla Ventures",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 70,
+        "market": 75
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "aisle",
+      "name": "Aisle",
+      "desc": "Startup that matches Anthropic's Mythos on FreeBSD zero-days",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "cybersecurity",
+        "freebsd",
+        "zero-day"
+      ],
+      "team": [],
+      "product": "https://aisle.com",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 30,
+        "team": 50,
+        "market": 50
+      },
+      "score": 47,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {
+          "website": "https://aisle.com",
+          "emails": [],
+          "socials": {
+            "linkedin": "weareaisle"
+          },
+          "careerPage": "https://aisle.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "arena-one",
+      "name": "Arena One",
+      "desc": "Shared live concert experience platform partnering with AMC Theatres",
+      "track": "consumer",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "live concert",
+        "entertainment",
+        "partnership"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 30,
+        "growth": 40,
+        "team": 50,
+        "market": 60
+      },
+      "score": 43,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "pitch-pit",
+      "name": "Pitch-Pit",
+      "desc": "AI rates your startup idea, crowd votes, top one gets built",
+      "track": "ai",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "crowdsourcing",
+        "startup ideas"
+      ],
+      "team": [],
+      "product": "https://pitchpit.app",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 40,
+        "growth": 20,
+        "team": 50,
+        "market": 50
+      },
+      "score": 38,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {
+          "website": "https://pitchpit.app",
+          "emails": [
+            "hello@pitchpit.app"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "juliahub",
+      "name": "JuliaHub",
+      "desc": "AI驱动的工程仿真平台，对标Simulink",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "simulation",
+        "engineering",
+        "AI"
+      ],
+      "team": [
+        {
+          "name": "Bob Muglia",
+          "role": "CEO",
+          "bg": "前微软高管"
+        }
+      ],
+      "product": "https://juliahub.com",
+      "founded": "2015-01",
+      "funding": "$65M Series B+",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 80,
+        "market": 75
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {
+          "website": "https://juliahub.com",
+          "emails": [
+            "support@juliahub.com",
+            "sales@juliahub.com"
+          ],
+          "socials": {
+            "twitter": "JuliaHub",
+            "linkedin": "juliahub",
+            "github": "JuliaComputing"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "span",
+      "name": "Span",
+      "desc": "分布式AI数据中心提供商，用于边缘计算",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "edge computing",
+        "AI infrastructure",
+        "distributed data centers"
+      ],
+      "team": [],
+      "product": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 70
+      },
+      "score": 60,
+      "discoveredAt": "2026-05-06",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-06",
+        "website": {
+          "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
+          "emails": [
+            "info@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com"
+          ],
+          "socials": {
+            "twitter": "_LatitudeMedia",
+            "linkedin": "latitude-media-inc"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -6899,44 +7206,231 @@
       "relatedProject": null
     },
     {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品",
+      "url": "https://www.tmtpost.com/7978445.html",
+      "snippet": "月之暗面将完成20亿美元新融资，估值破200亿美元；DeepSeek被曝投后估值或达450亿美元。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "moonshot"
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品",
+      "url": "https://www.tmtpost.com/7978445.html",
+      "snippet": "月之暗面将完成20亿美元新融资，估值破200亿美元；DeepSeek被曝投后估值或达450亿美元。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "deepseek"
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "3亿用户扛不住算力账单",
+      "url": "https://www.tmtpost.com/7978182.html",
+      "snippet": "拥有3亿月活的国民级AI，扛不住收费了——那其他家大模型呢？",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
       "source": "极客公园",
-      "sourceIcon": "极客",
+      "sourceIcon": "极",
+      "title": "实测纳逗 Pro：能做专业影视级内容的智能平台长啥样",
+      "url": "http://www.geekpark.net/news/363720",
+      "snippet": "作者｜Cynthia 编辑｜ 郑玄 这个春天，谁的社交媒体，还没有被各种小猫炒菜、小狗做播客，酱板鸭救狐狸的 AI 视频刷屏？",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极",
+      "title": "Anthropic 搞了个全是 AI 的闲鱼群，大模型在里面互割起了韭菜",
+      "url": "http://www.geekpark.net/news/363718",
+      "snippet": "作者｜ Moonshot 编辑｜ 靖宇 试想一个场景。 你在闲鱼上挂出了一辆吃灰两年的旧自行车，并在后台设定了 300 元的心理底价。",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极",
       "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
       "url": "http://www.geekpark.net/news/363719",
-      "snippet": "成立四个月的Recursive Superintelligence获5亿美元融资，估值40亿美元，GV和英伟达押注，目标是让AI自主研究。",
+      "snippet": "作者｜桦林舞王 编辑｜靖宇 1956 年，一批科学家聚在达特茅斯，第一次正式讨论「机器能否思考」。",
       "date": "2026-05-06",
       "likes": 0,
       "comments": 0,
       "relatedProject": "recursive-superintelligence"
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "snippet": "芬兰AI实验室QuTwo估值3.8亿美元，完成2900万美元天使轮融资。",
-      "date": "2026-05-05",
+      "source": "极客公园",
+      "sourceIcon": "极",
+      "title": "AI 大模型的「中文税」：中文比英文更费 Token，为什么？",
+      "url": "http://www.geekpark.net/news/363717",
+      "snippet": "作者｜汤一涛 编辑｜ 靖宇 Opus 4.7 刚发布那几天，X 上怨声载道。有人说一次对话就把她的 session 额度用光了，",
+      "date": "2026-05-06",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "qutwo"
+      "relatedProject": null
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极",
+      "title": "豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道",
+      "url": "http://www.geekpark.net/news/363702",
+      "snippet": "豆包计划新增付费订阅模式 主打生产力场景 5 月 4 日，豆包在 App Store 页面悄然更新了付费版本服务的相关声明。",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "snippet": "SAP计划以11.6亿美元收购德国AI初创公司Prior Labs。",
-      "date": "2026-05-05",
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "snippet": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "date": "2026-05-06",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "priorlabs"
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+      "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+      "snippet": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments.",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "braintrust"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "snippet": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models.",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "deepseek"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "snippet": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5.",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "genesis-ai"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "snippet": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026.",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Telecom giant China Mobile to launch AI-eSIM product",
+      "url": "https://technode.com/2026/05/06/telecom-giant-china-mobile-to-launch-ai-esim-product/",
+      "snippet": "China Mobile said it will unveil its AI-eSIM product at the 2026 Mobile Cloud Conference, as the state-owned telecom giant steps up efforts to integrate AI into connected devices.",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "The Verge",
+      "sourceIcon": "VG",
+      "title": "Nintendo announces a new Star Fox for the Switch 2",
+      "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
+      "snippet": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it's out very soon, launching on June 25th. Nintendo says that it's \"based\" on the […]",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The Anthropic AI / Blender Funding Explained [video]",
+      "url": "https://www.youtube.com/watch?v=dXOS7cuIpP0",
+      "snippet": "Article URL: https://www.youtube.com/watch?v=dXOS7cuIpP0 Comments URL: https://news.ycombinator.com/item?id=48040755 Points: 2 # Comments: 0",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Map showing funding received by U.S. conservation organizations",
+      "url": "https://www.speakforthetrees.com/funding",
+      "snippet": "Article URL: https://www.speakforthetrees.com/funding Comments URL: https://news.ycombinator.com/item?id=48038795 Points: 1 # Comments: 1",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Arena One and AMC Theatres Launch Shared Live Concert Experience Nationwide",
+      "url": "https://investor.amctheatres.com/news-events/press-releases/detail/424/arena-one-and-amc-theatres-launch-a-first-of-its-kind-shared-live-concert-experience-nationwide-beginning-in-june",
+      "snippet": "Article URL: https://investor.amctheatres.com/news-events/press-releases/detail/424/arena-one-and-amc-theatres-launch-a-first-of-its-kind-shared-live-concert-experience-nationwide-beginning-in-june Comments URL: https://news.ycombinator.com/item?id=48038206 Points: 1 # Comments: 0",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "arena-one"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Startup matches Anthropic's Mythos on FreeBSD zero-days",
+      "url": "https://aisle.com/blog/aisle-matches-anthropic-mythos-on-freebsd-zero-days",
+      "snippet": "Article URL: https://aisle.com/blog/aisle-matches-anthropic-mythos-on-freebsd-zero-days Comments URL: https://news.ycombinator.com/item?id=48037200 Points: 1 # Comments: 0",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "aisle"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Pitch-Pit – AI rates your startup idea, crowd votes, top one gets built",
+      "url": "https://pitchpit.app",
+      "snippet": "Article URL: https://pitchpit.app Comments URL: https://news.ycombinator.com/item?id=48035927 Points: 1 # Comments: 0",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "pitch-pit"
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Startup Ignites First Fusion Rocket",
       "url": "https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506",
-      "snippet": "A startup successfully ignited the world's first fusion rocket. (Company name not specified in headline).",
+      "snippet": "Article URL: https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506 Comments URL: https://news.ycombinator.com/item?id=48030876 Points: 5 # Comments: 1",
       "date": "2026-05-06",
       "likes": 5,
       "comments": 1,
@@ -6950,7 +7444,7 @@
       "snippet": "五一节假日期间，有一个同事想本地部署大模型，在群里询问，我们都给他推荐了 Nvidia 的卡，结果他去刷 B 站，选择了 AMD AI MAX+ 395 。 难道小白真的就这样被割韭菜吗？",
       "date": "2026-05-06",
       "likes": 0,
-      "comments": 107,
+      "comments": 119,
       "relatedProject": null
     }
   ]
