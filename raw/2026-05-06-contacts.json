@@ -1350,62 +1350,7 @@
     }
   },
   {
-    "id": "orthogonal",
-    "name": "Orthogonal",
-    "contacts": {
-      "fetchedAt": "2026-05-06",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "shanmu",
-    "name": "杉木SHANMU",
-    "contacts": {
-      "fetchedAt": "2026-05-06",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "nuanxinjia",
-    "name": "暖芯迦",
-    "contacts": {
-      "fetchedAt": "2026-05-06",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "bairhino",
-    "name": "白犀牛",
-    "contacts": {
-      "fetchedAt": "2026-05-06",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "duneng",
-    "name": "度能科技",
-    "contacts": {
-      "fetchedAt": "2026-05-06",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "recursivesuperintelligence",
+    "id": "recursive-superintelligence",
     "name": "Recursive Superintelligence",
     "contacts": {
       "fetchedAt": "2026-05-06",
@@ -1416,7 +1361,7 @@
     }
   },
   {
-    "id": "xparameters",
+    "id": "xbot",
     "name": "自变量机器人",
     "contacts": {
       "fetchedAt": "2026-05-06",
@@ -1427,8 +1372,41 @@
     }
   },
   {
-    "id": "prior-labs",
+    "id": "ren3",
+    "name": "ReN3",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "qutwo",
+    "name": "QuTwo",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "priorlabs",
     "name": "Prior Labs",
+    "contacts": {
+      "fetchedAt": "2026-05-06",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "characterai",
+    "name": "Character.AI",
     "contacts": {
       "fetchedAt": "2026-05-06",
       "website": {},
@@ -1443,30 +1421,6 @@
     "contacts": {
       "fetchedAt": "2026-05-06",
       "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "juliahub",
-    "name": "JuliaHub",
-    "contacts": {
-      "fetchedAt": "2026-05-06",
-      "website": {
-        "website": "https://juliahub.com",
-        "emails": [
-          "support@juliahub.com",
-          "sales@juliahub.com"
-        ],
-        "socials": {
-          "twitter": "JuliaHub",
-          "linkedin": "juliahub",
-          "github": "JuliaComputing"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

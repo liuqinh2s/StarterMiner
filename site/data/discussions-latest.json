@@ -2960,101 +2960,46 @@
       "relatedProject": null
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-      "url": "https://36kr.com/p/3797224394284033?f=rss",
-      "snippet": "“传统工业软件太难用了。” 这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。 “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”， Orthogonal想做的，是把“vibe”的方式带入硬件开发。",
-      "date": "2026-05-06",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "orthogonal"
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
-      "url": "https://36kr.com/p/3682907323150215?f=rss",
-      "snippet": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。",
-      "date": "2026-05-06",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "shanmu"
-    },
-    {
       "source": "极客公园",
-      "sourceIcon": "极客公园",
+      "sourceIcon": "极客",
       "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
       "url": "http://www.geekpark.net/news/363719",
-      "snippet": "Recursive Superintelligence成立四个月获5亿美元融资，估值40亿美元，由GV领投，英伟达跟投，目标是让AI自我研究进化。",
+      "snippet": "成立四个月的Recursive Superintelligence获5亿美元融资，估值40亿美元，GV和英伟达押注，目标是让AI自主研究。",
       "date": "2026-05-06",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "recursivesuperintelligence"
+      "relatedProject": "recursive-superintelligence"
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-      "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-      "snippet": "The Silicon Valley AV startup has not started driverless testing yet.",
-      "date": "2026-05-06",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "snippet": "芬兰AI实验室QuTwo估值3.8亿美元，完成2900万美元天使轮融资。",
+      "date": "2026-05-05",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "qutwo"
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
       "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
       "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "snippet": "SAP plans to buy German AI startup Prior Labs and invest heavily in it.",
+      "snippet": "SAP计划以11.6亿美元收购德国AI初创公司Prior Labs。",
       "date": "2026-05-05",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "prior-labs"
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
-      "url": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
-      "snippet": "a16z crypto's new fund will stay the course despite crypto market cooling.",
-      "date": "2026-05-05",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
-      "url": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
-      "snippet": "Arnell joins Gebbia's National Design Studio under Trump to unify UX across 27,000 federal sites.",
-      "date": "2026-05-05",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "snippet": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience.",
-      "date": "2026-05-05",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
+      "relatedProject": "priorlabs"
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
       "title": "Startup Ignites First Fusion Rocket",
-      "snippet": "Article URL: https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506 Comments URL: https://news.ycombinator.com/item?id=48030876 Points: 4 # Comments: 1",
       "url": "https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506",
-      "date": "2026-05-05",
-      "likes": 4,
+      "snippet": "A startup successfully ignited the world's first fusion rocket. (Company name not specified in headline).",
+      "date": "2026-05-06",
+      "likes": 5,
       "comments": 1,
       "relatedProject": null
     },
@@ -3066,7 +3011,7 @@
       "snippet": "五一节假日期间，有一个同事想本地部署大模型，在群里询问，我们都给他推荐了 Nvidia 的卡，结果他去刷 B 站，选择了 AMD AI MAX+ 395 。 难道小白真的就这样被割韭菜吗？",
       "date": "2026-05-06",
       "likes": 0,
-      "comments": 66,
+      "comments": 107,
       "relatedProject": null
     }
   ]
