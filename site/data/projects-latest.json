@@ -235,7 +235,7 @@
       },
       "score": 59,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 12,
+      "discussionCount": 14,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 12,
+      "discussionCount": 14,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 12,
+      "discussionCount": 14,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -1338,7 +1338,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 3,
+      "discussionCount": 5,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -1493,7 +1493,9 @@
         "fetchedAt": "2026-05-07",
         "website": {
           "website": "https://www.ideavalu.com",
-          "emails": [],
+          "emails": [
+            "soichiro10025016@gmail.com"
+          ],
           "socials": {},
           "careerPage": null,
           "jobListings": []
@@ -4050,7 +4052,7 @@
       },
       "score": 47,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4124,7 +4126,7 @@
       },
       "score": 38,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4217,18 +4219,18 @@
       },
       "score": 60,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com"
+            "careers@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -4243,150 +4245,28 @@
       }
     },
     {
-      "id": "tujian",
-      "name": "途见科技（北京）有限公司",
-      "desc": "聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统",
-      "track": "robotics",
-      "stage": "pre-a",
-      "city": "beijing",
-      "tags": [
-        "柔性电子",
-        "触觉传感器",
-        "具身智能"
-      ],
-      "team": [
-        {
-          "name": "刘建诚",
-          "role": "创始人兼CEO",
-          "bg": "斯坦福大学鲍哲南院士实验室博士后"
-        }
-      ],
-      "product": "",
-      "founded": "2020-01",
-      "funding": "Pre-A轮+Pre-A+轮累计超亿元，投资方包括联想之星、华控基金、元禾璞华等",
-      "scores": {
-        "tech": 85,
-        "growth": 60,
-        "team": 90,
-        "market": 85
-      },
-      "score": 78,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "pixelbloom",
-      "name": "像素绽放PixelBloom",
-      "desc": "从AI PPT工具向AI办公解决方案Agent转型",
+      "id": "fengyun",
+      "name": "丰耘科技（杭州）有限公司",
+      "desc": "以AI技术重构设施农业，提供温室优化设计和智能控制系统",
       "track": "ai",
-      "stage": "b+",
-      "city": "other",
+      "stage": "angel",
+      "city": "hangzhou",
       "tags": [
-        "AI办公",
-        "PPT生成",
-        "Agent"
-      ],
-      "team": [],
-      "product": "https://www.aippt.com",
-      "founded": "",
-      "funding": "C轮融资，国科投资与商汤国香资本联合领投",
-      "scores": {
-        "tech": 65,
-        "growth": 85,
-        "team": 60,
-        "market": 80
-      },
-      "score": 73,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {
-          "website": "https://www.aippt.com",
-          "emails": [
-            "support@aippt.com"
-          ],
-          "socials": {
-            "twitter": "AiPPT_COM",
-            "linkedin": "aippt"
-          },
-          "careerPage": "https://www.aippt.com/careers",
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "orthogonal",
-      "name": "Orthogonal",
-      "desc": "AI原生工业软件，让硬件开发进入vibe时代",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "工业软件",
         "AI",
-        "硬件设计"
-      ],
-      "team": [
-        {
-          "name": "吉洋",
-          "role": "创始人",
-          "bg": "德国宇航局（DLR）资深工程师，参与空客A350等项目"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 80,
-        "growth": 40,
-        "team": 85,
-        "market": 65
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "shanmu",
-      "name": "杉木SHANMU",
-      "desc": "AI原生健康检测硬件，实现无创、连续健康数据采集",
-      "track": "biotech",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "健康检测",
-        "AI硬件",
-        "消费医疗"
+        "设施农业",
+        "数字孪生"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "A轮近亿元，领投方石溪资本，韶音科技等参投",
+      "funding": "天使轮融资，由森马集团独家投资，金额未披露",
       "scores": {
-        "tech": 75,
-        "growth": 60,
-        "team": 75,
-        "market": 80
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 60
       },
-      "score": 72,
+      "score": 58,
       "discoveredAt": "2026-05-07",
       "discussionCount": 1,
       "contacts": {
@@ -4400,32 +4280,32 @@
     {
       "id": "duneng",
       "name": "度能科技（厦门）有限公司",
-      "desc": "聚焦工商业储能，提供AI赋能的储能产品和解决方案",
+      "desc": "聚焦工商业储能场景的储能产品和解决方案服务商",
       "track": "newenergy",
       "stage": "a",
       "city": "xiamen",
       "tags": [
         "工商业储能",
-        "储能系统",
-        "AI能源算法"
+        "AI能源算法",
+        "海外市场"
       ],
       "team": [
         {
-          "name": "核心团队",
-          "role": "创始人",
+          "name": "创始人",
+          "role": "CEO",
           "bg": "华为数字能源背景"
         }
       ],
       "product": "",
       "founded": "2023-09",
-      "funding": "2024年完成Pre-A轮，2025年完成A轮数亿元",
+      "funding": "数亿元A轮系列融资，协鑫集团领投，吴中金控产业基金等跟投",
       "scores": {
-        "tech": 70,
-        "growth": 75,
+        "tech": 65,
+        "growth": 55,
         "team": 70,
-        "market": 80
+        "market": 75
       },
-      "score": 74,
+      "score": 65,
       "discoveredAt": "2026-05-07",
       "discussionCount": 1,
       "contacts": {
@@ -4437,96 +4317,99 @@
       }
     },
     {
-      "id": "kimi",
-      "name": "月之暗面科技有限公司",
-      "desc": "AI大模型创业公司，打造Kimi智能助手，估值超200亿美元。",
+      "id": "recursive",
+      "name": "Recursive Superintelligence",
+      "desc": "研究AI自我进化和科学研究，让AI自己做研究",
       "track": "ai",
-      "stage": "b+",
-      "city": "beijing",
+      "stage": "pre-a",
+      "city": "overseas",
       "tags": [
-        "大模型",
-        "AGI",
-        "Kimi",
-        "融资"
+        "AI自我进化",
+        "科学研究",
+        "AGI"
       ],
-      "team": [],
-      "product": "https://kimi.moonshot.cn",
-      "founded": "2023-04",
-      "funding": "累计超39亿美元，最新一轮20亿美元，美团龙珠领投",
+      "team": [
+        {
+          "name": "Richard Socher",
+          "role": "创始人",
+          "bg": "前Salesforce首席科学家"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "种子轮5亿美元，GV领投，英伟达跟投，估值40亿美元",
       "scores": {
         "tech": 90,
-        "growth": 90,
-        "team": 85,
-        "market": 80
+        "growth": 50,
+        "team": 95,
+        "market": 70
       },
-      "score": 87,
+      "score": 75,
       "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-07",
-        "website": {
-          "website": "https://kimi.moonshot.cn",
-          "emails": [],
-          "socials": {},
-          "careerPage": "https://kimi.moonshot.cn/careers",
-          "jobListings": [
-            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-          ]
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
       }
     },
     {
-      "id": "moonshotai",
-      "name": "Moonshot AI",
-      "desc": "开发Kimi智能助手的大模型初创公司",
-      "track": "ai",
-      "stage": "a",
-      "city": "beijing",
+      "id": "zhangxue",
+      "name": "张雪机车",
+      "desc": "中国摩托车制造商，参加世界超级摩托车锦标赛并夺冠",
+      "track": "other",
+      "stage": "seed",
+      "city": "other",
       "tags": [
-        "大模型",
-        "AI助手",
-        "高估值"
+        "摩托车",
+        "赛车",
+        "制造"
+      ],
+      "team": [
+        {
+          "name": "张雪",
+          "role": "创始人",
+          "bg": "知名摩托车手"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "未披露",
+      "scores": {
+        "tech": 60,
+        "growth": 70,
+        "team": 60,
+        "market": 60
+      },
+      "score": 63,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ren3",
+      "name": "ReN3",
+      "desc": "新加坡企业文档处理平台，提供AI驱动的文档自动化服务。",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "文档处理",
+        "企业服务",
+        "SaaS"
       ],
       "team": [],
       "product": "",
-      "founded": "2023-03",
-      "funding": "接近完成20亿美元融资，估值超200亿美元",
-      "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 85,
-        "market": 85
-      },
-      "score": 84,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "pitchpit",
-      "name": "Pitch-Pit",
-      "desc": "AI评级创业点子的平台，社区投票，最佳想法被构建",
-      "track": "ai",
-      "stage": "idea",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "创业点子",
-        "投票"
-      ],
-      "team": [],
-      "product": "https://pitchpit.app",
-      "founded": "未知",
-      "funding": "未知",
+      "founded": "",
+      "funding": "500万美元种子轮融资，Vertex Ventures Southeast Asia & India领投",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -4535,14 +4418,110 @@
       },
       "score": 50,
       "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "corgi",
+      "name": "Corgi",
+      "desc": "美国保险科技初创公司，提供数字化保险服务。",
+      "track": "fintech",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "保险科技",
+        "Insurtech"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "1.6亿美元B轮融资，估值13亿美元，TCV领投",
+      "scores": {
+        "tech": 50,
+        "growth": 90,
+        "team": 50,
+        "market": 85
+      },
+      "score": 69,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "genesisai",
+      "name": "Genesis AI",
+      "desc": "开发机器人基础AI模型，推出GENE-26.5模型和灵巧手演示",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "机器人基础模型",
+        "灵巧手",
+        "Khosla Ventures"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "2026年完成1.05亿美元种子轮融资，由Khosla Ventures领投",
+      "scores": {
+        "tech": 85,
+        "growth": 80,
+        "team": 50,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-07",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "unsnooze",
+      "name": "Unsnooze",
+      "desc": "让起床更有趣的挑战闹钟应用",
+      "track": "consumer",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "alarm",
+        "mobile",
+        "fun"
+      ],
+      "team": [],
+      "product": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
+      "founded": null,
+      "funding": null,
+      "scores": {
+        "tech": 40,
+        "growth": 20,
+        "team": 30,
+        "market": 30
+      },
+      "score": 30,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
         "website": {
-          "website": "https://pitchpit.app",
-          "emails": [
-            "hello@pitchpit.app"
-          ],
+          "website": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
+          "emails": [],
           "socials": {},
           "careerPage": null,
           "jobListings": []
@@ -4553,33 +4532,130 @@
       }
     },
     {
-      "id": "lumi",
-      "name": "Lumi API",
-      "desc": "提供多模型API服务，支持Claude、GPT等大模型，注册送Token",
+      "id": "xbuilderlab",
+      "name": "XBuilderLAB",
+      "desc": "基于AI的自动内容运营专家，帮助快速获取流量和粉丝",
       "track": "ai",
       "stage": "seed",
-      "city": "other",
+      "city": "overseas",
       "tags": [
-        "AI API",
-        "大模型",
-        "Token赠送"
+        "AI",
+        "content",
+        "social media",
+        "automation"
       ],
       "team": [],
-      "product": "",
+      "product": "https://github.com/XBuilderLAB/cheat-on-content",
       "founded": "",
       "funding": "",
       "scores": {
-        "tech": 50,
-        "growth": 60,
+        "tech": 70,
+        "growth": 80,
         "team": 50,
-        "market": 65
+        "market": 70
       },
-      "score": 56,
+      "score": 69,
       "discoveredAt": "2026-05-07",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
-        "website": {},
+        "website": {
+          "website": "https://github.com/XBuilderLAB/cheat-on-content",
+          "emails": [],
+          "socials": {
+            "github": "github",
+            "twitter": "github",
+            "linkedin": "github"
+          },
+          "careerPage": "https://github.com/careers",
+          "jobListings": [
+            "Taylor, Engineering",
+            "Developer API",
+            "Product",
+            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+            "var videoData;",
+            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+            "for (var answer of videoWidgetData.answers) {",
+            "videoData = answer;",
+            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+            "window._jibe.models.jobs.paramsImpression.paramsData;",
+            "Candidate Data Privacy",
+            "Write better code with AI",
+            "var xmlRiskyhttp = new XMLHttpRequest();",
+            "var xmlSafehttp = new XMLHttpRequest();",
+            "newText.innerHTML = '';",
+            "window.useHTML4 = true;"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "tddworks",
+      "name": "TDD Works",
+      "desc": "Headless iOS模拟器管理工具，支持多指手势和60fps流",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "iOS",
+        "testing",
+        "simulator",
+        "devtools"
+      ],
+      "team": [],
+      "product": "https://github.com/tddworks/baguette",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 75,
+        "growth": 65,
+        "team": 50,
+        "market": 60
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {
+          "website": "https://github.com/tddworks/baguette",
+          "emails": [],
+          "socials": {
+            "github": "github",
+            "twitter": "github",
+            "linkedin": "github"
+          },
+          "careerPage": "https://github.com/careers",
+          "jobListings": [
+            "Taylor, Engineering",
+            "Developer API",
+            "Product",
+            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+            "var videoData;",
+            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+            "for (var answer of videoWidgetData.answers) {",
+            "videoData = answer;",
+            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+            "window._jibe.models.jobs.paramsImpression.paramsData;",
+            "Candidate Data Privacy",
+            "Write better code with AI",
+            "var xmlRiskyhttp = new XMLHttpRequest();",
+            "var xmlSafehttp = new XMLHttpRequest();",
+            "newText.innerHTML = '';",
+            "window.useHTML4 = true;"
+          ]
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}

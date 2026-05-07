@@ -536,7 +536,9 @@
       "fetchedAt": "2026-05-07",
       "website": {
         "website": "https://www.ideavalu.com",
-        "emails": [],
+        "emails": [
+          "soichiro10025016@gmail.com"
+        ],
         "socials": {},
         "careerPage": null,
         "jobListings": []
@@ -1548,11 +1550,11 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com"
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -1567,52 +1569,8 @@
     }
   },
   {
-    "id": "tujian",
-    "name": "途见科技（北京）有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "pixelbloom",
-    "name": "像素绽放PixelBloom",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {
-        "website": "https://www.aippt.com",
-        "emails": [
-          "support@aippt.com"
-        ],
-        "socials": {
-          "twitter": "AiPPT_COM",
-          "linkedin": "aippt"
-        },
-        "careerPage": "https://www.aippt.com/careers",
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "orthogonal",
-    "name": "Orthogonal",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "shanmu",
-    "name": "杉木SHANMU",
+    "id": "fengyun",
+    "name": "丰耘科技（杭州）有限公司",
     "contacts": {
       "fetchedAt": "2026-05-07",
       "website": {},
@@ -1633,27 +1591,8 @@
     }
   },
   {
-    "id": "kimi",
-    "name": "月之暗面科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {
-        "website": "https://kimi.moonshot.cn",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://kimi.moonshot.cn/careers",
-        "jobListings": [
-          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "moonshotai",
-    "name": "Moonshot AI",
+    "id": "recursive",
+    "name": "Recursive Superintelligence",
     "contacts": {
       "fetchedAt": "2026-05-07",
       "website": {},
@@ -1663,15 +1602,57 @@
     }
   },
   {
-    "id": "pitchpit",
-    "name": "Pitch-Pit",
+    "id": "zhangxue",
+    "name": "张雪机车",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ren3",
+    "name": "ReN3",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "corgi",
+    "name": "Corgi",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "genesisai",
+    "name": "Genesis AI",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "unsnooze",
+    "name": "Unsnooze",
     "contacts": {
       "fetchedAt": "2026-05-07",
       "website": {
-        "website": "https://pitchpit.app",
-        "emails": [
-          "hello@pitchpit.app"
-        ],
+        "website": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
+        "emails": [],
         "socials": {},
         "careerPage": null,
         "jobListings": []
@@ -1682,11 +1663,84 @@
     }
   },
   {
-    "id": "lumi",
-    "name": "Lumi API",
+    "id": "xbuilderlab",
+    "name": "XBuilderLAB",
     "contacts": {
       "fetchedAt": "2026-05-07",
-      "website": {},
+      "website": {
+        "website": "https://github.com/XBuilderLAB/cheat-on-content",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "tddworks",
+    "name": "TDD Works",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {
+        "website": "https://github.com/tddworks/baguette",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
