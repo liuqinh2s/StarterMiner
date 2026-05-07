@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+    "summary": "文｜王毓婵 周鑫雨 编辑｜杨轩 “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。 中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。 愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个奇观。由此，在AI视频模型外“套一层壳”，使其更简单易上手的AI视频Agent产品，也迎来了增长奇迹。 一位业内人士对智能涌现透露，头部公司一个月的算力消耗成本应该在百万元以上。 “一部短剧的算力消耗成本约为3万元，工具平台如果一个月能接100部这样的工程，那么消耗量就能达到300万。这没什么难度，只是时间问题。” 在必应上搜索“AI视频生成工具”这样的关键词，能看到不少此类产品的广告。“据我了解，某头部工具平台一天在这个广告上的消耗就",
+    "url": "https://36kr.com/p/3786528811572481?f=rss",
+    "published": "2026-05-07 19:31:32  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "36氪",
     "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
     "summary": "大公司： 腾讯等入股机器人灵巧手研发商临界点 36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创业投资合伙企业（有限合伙）及上述新增股东等共同持股。公开资料显示，该公司由智元机器人将其灵巧手业务拆分而成立，是一家专注于机器人末端执行器，特别是灵巧手研发与生产的全球化科技公司。 宇树UniStore官方共享应用平台正式全面开放 36氪获悉，宇树科技今日发文称，宇树UniStore官方共享应用平台正式全面开放。宇树科技称，这是全球首个人形机器人任务动作应用商店。 壳牌启动30亿美元股票回购计划 5月7日，壳牌公布，2026年第一季度调整后盈利达69.15亿美元，上个季度为32.56亿美元。此外，壳牌宣布启动未来三个月30亿美元的股票回购计划，并将股息提",
     "url": "https://36kr.com/p/3799089350712324?f=rss",
@@ -91,20 +101,50 @@
   },
   {
     "source": "36氪",
-    "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-    "summary": "“传统工业软件太难用了。” 这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。 “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”， Orthogonal想做的，是把“vibe”的方式带入硬件开发。 Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽体客机电气系统的研发，并在库卡、宝马、西门子高速列车、中国商飞、华为、中国航空发动机集团等全球知名企业的合作项目中担任过领导或关键角色。2023年因其在科研和创业领域的贡献，被慕尼黑工业大学授予“TUM Ambassador”荣誉称号。 在他看来，AI带来的不仅是简单的效率提升，更是一次重构工业软件范式的机会，传统工具的复杂性已经成为行业发展的瓶颈。 “AI时代的智能硬件公司，其规模正在变得越来越小，一个人往往需要同时掌握多个领域的技能。对于95%有创新需求的中小企业以及个人爱好者来说，",
-    "url": "https://36kr.com/p/3797224394284033?f=rss",
-    "published": "2026-05-06 10:57:18  +0800",
+    "title": "SpaceX 冲刺上市，资本开支飙升数百亿",
+    "summary": "随着埃隆・马斯克执掌的太空探索技术公司筹备大规模首次公开募股，其资本开支规模正以数十亿美元的幅度持续攀升。 据得州当地政府一份项目公告显示，SpaceX 计划与特斯拉联合打造的太拉晶圆芯片产业园，预估资本投入至少需要550亿美元。这家涉足火箭、卫星及人工智能领域的企业，正持续加码航天相关基建投资，包括佛罗里达州发射场、得州新建太阳能电池工厂。公司还规划未来数年投入更多资金，拟向近地轨道发射多达百万颗人工智能卫星。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3799397980101637?f=rss",
+    "published": "2026-05-08 07:25:10  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-07"
   },
   {
     "source": "36氪",
-    "title": "SpaceX拟在得克萨斯州投资550亿美元建设Terafab芯片工厂",
-    "summary": "SpaceX提交计划，拟在得克萨斯州投资550亿美元建设Terafab芯片工厂。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3799120796212229?f=rss",
-    "published": "2026-05-07 19:05:31  +0800",
+    "title": "苹果公司提高2026年MacBook Neo产量目标至1000万台",
+    "summary": "5月7日消息，据报道，苹果公司已要求供应商将2026年MacBook Neo笔记本电脑产量目标，由最初的500万至600万台大幅上调至1000万台，以缓解当前市场供应紧张局面，即使该公司不得不向台积电支付巨额溢价以确保A18 Pro芯片的供应。（界面）",
+    "url": "https://36kr.com/newsflashes/3799387959942150?f=rss",
+    "published": "2026-05-08 07:22:09  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "36氪",
+    "title": "Neuralink：正研发一种能够到达大脑任何区域的手术机器人",
+    "summary": "当地时间5月6日，马斯克旗下脑机接口公司Neuralink发文称，正在研发一种能够到达大脑任何区域的手术机器人，目标是开发一种通用的神经接口，以帮助解决所有源于大脑的疾病。Neuralink称，设备目前处于研究阶段，尚未获得FDA批准。（界面）",
+    "url": "https://36kr.com/newsflashes/3799233331731717?f=rss",
+    "published": "2026-05-07 21:00:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "36氪",
+    "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
+    "summary": "5月7日，记者从重庆市经济信息委获悉，日前该委联合市公安局、市交委共同印发《重庆市智能网联汽车高速公路测试管理细则（试行）》，进一步补齐高阶自动驾驶高速场景测试制度短板，规范L3级及以上智能网联汽车高速道路测试全流程管理，以安全可控、规范有序助力我市智能网联新能源汽车产业高质量发展，加速自动驾驶技术落地商业化应用。（重庆日报）",
+    "url": "https://36kr.com/newsflashes/3799223284915204?f=rss",
+    "published": "2026-05-07 20:57:50  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "36氪",
+    "title": "广东自贸区南沙、横琴推出两项外汇便利化试点",
+    "summary": "近期，国家外汇管理局广东省分局发布通知，在广东自由贸易试验区广州南沙片区、珠海横琴片区正式启动资本项目结汇资金使用、优化外汇NRA账户（即境外机构的境内外汇账户）退汇资金流程两项改革试点，持续深化跨境投融资便利化，助力粤港澳大湾区开放型经济提质增效。本次试点明确南沙、横琴片区内的非金融企业资本金、外债项下外汇收入及其结汇人民币资金，在真实合规前提下，可用于非关联企业借款，进一步拓宽企业跨境资金使用空间。（央视新闻）",
+    "url": "https://36kr.com/newsflashes/3799211531279368?f=rss",
+    "published": "2026-05-07 20:37:49  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-07"
@@ -275,6 +315,16 @@
     "summary": "近日，深圳忆纪元科技有限公司（以下简称“MemoraX AI”或“忆纪元”）宣布完成千万美金种子轮融资。本轮钟鼎资本参与领投。 本轮融资将主要用于核心技术Agentic RL的算法迭代与工程化落地，以及内生记忆模块的产品化开发。预计在未来12个月内，MemoraX AI将推出面向B端企业知识管理与C端个性化交互的首批标准化记忆产品，实现记忆训练效率与精准度的指数级提升。此次融资标志着大模型个性化记忆赛道正式从“外挂检索”的浅层探索，迈入“模型内生”的深水区变革，为解决大模型“失忆症”这一关键瓶颈注入了核心动能。 “打过仗”的梦之队：顶会前十科学家×百亿级产业操盘手 MemoraX AI成立于2026年3月，是大模型个性化记忆赛道技术革新引领者。公司通过自主研发的Agentic RL（智能体强化学习） 核心技术架构，攻克了大模型长期记忆碎片化、静态化、难以跨场景迁移的行业痛点。 创始人郝建业，天津大学菁英教授，国家优青，全球前2%科学家，近两年在ICML、NeurIPS、ICLR三大顶会的成果产出全球排名前10，谷歌学术引用超1.5万次。但更关键的是，他并非传统学院派创业者——曾先后担任",
     "url": "http://www.cyzone.cn/article/831758.html",
     "published": "Tue, 28 Apr 2026 01:58:36 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "钛媒体",
+    "title": "“中国坐标”全球刻印：联影医疗财报里的出海“升维”战",
+    "summary": "从技术破壁、体系扎根到飞轮转动，联影医疗正在将这盘“棋至中局”的全球棋局，一步步导向有利于自己的大势。",
+    "url": "https://www.tmtpost.com/7979377.html",
+    "published": "Thu, 07 May 2026 21:47:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-07"
@@ -651,60 +701,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-    "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
-    "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-    "published": "Wed, 06 May 2026 22:30:00 +0000",
+    "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+    "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
+    "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+    "published": "Thu, 07 May 2026 23:11:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
   },
   {
     "source": "TechCrunch",
-    "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-    "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
-    "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
-    "published": "Wed, 06 May 2026 20:39:16 +0000",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "published": "Thu, 07 May 2026 22:24:50 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
   },
   {
     "source": "TechCrunch",
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "published": "Wed, 06 May 2026 18:23:54 +0000",
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "published": "Thu, 07 May 2026 21:02:11 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
   },
   {
     "source": "TechCrunch",
-    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-    "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
-    "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-    "published": "Wed, 06 May 2026 18:05:41 +0000",
+    "title": "Kalshi doubles valuation in 5 months, hitting $22B",
+    "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
+    "url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
+    "published": "Thu, 07 May 2026 18:02:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
   },
   {
     "source": "TechCrunch",
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-    "published": "Wed, 06 May 2026 17:20:34 +0000",
+    "title": "Jeff Bezos rep leaves Slate Auto’s board",
+    "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
+    "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+    "published": "Thu, 07 May 2026 17:54:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
   },
   {
     "source": "TechCrunch",
-    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-    "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-    "published": "Wed, 06 May 2026 15:46:38 +0000",
+    "title": "Google’s $9.99-per-month AI health coach launches May 19",
+    "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
+    "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+    "published": "Thu, 07 May 2026 15:35:38 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
@@ -881,10 +931,60 @@
   },
   {
     "source": "The Verge",
-    "title": "Nintendo announces a new Star Fox for the Switch 2",
-    "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it's out very soon, launching on June 25th. Nintendo says that it's \"based\" on the […]",
-    "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
-    "published": "2026-05-06T18:07:46-04:00",
+    "title": "Peak Design is taking up to 50 percent off some of our favorite camera bags",
+    "summary": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s most popular backpacks and bags, as well as a couple of other items, including camera accessories. Many Verge staffers are fans […]",
+    "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
+    "published": "2026-05-07T15:04:30-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
+    "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+    "published": "2026-05-07T14:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Mounting Toll of Multi-Year Funding on American Biomedical Research [pdf]",
+    "summary": "Article URL: https://actfornih.org/wp-content/uploads/2026/05/A4N_Updated-MYF-One-Pager_May-2026_FINAL.pdf Comments URL: https://news.ycombinator.com/item?id=48056224 Points: 2 # Comments: 0",
+    "url": "https://actfornih.org/wp-content/uploads/2026/05/A4N_Updated-MYF-One-Pager_May-2026_FINAL.pdf",
+    "published": "Thu, 07 May 2026 23:01:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "GameStop CEO says eBay shut his account after buyout funding stunt",
+    "summary": "Article URL: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/gamestop-ceo-says-ebay-shut-his-account-after-buyout-funding-stunt Comments URL: https://news.ycombinator.com/item?id=48052967 Points: 4 # Comments: 0",
+    "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/gamestop-ceo-says-ebay-shut-his-account-after-buyout-funding-stunt",
+    "published": "Thu, 07 May 2026 18:27:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
+    "summary": "Article URL: https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/ Comments URL: https://news.ycombinator.com/item?id=48050321 Points: 1 # Comments: 0",
+    "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+    "published": "Thu, 07 May 2026 15:04:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Future of Testing Is Here (Testkube AI Launch)",
+    "summary": "Article URL: https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/testkube-redefines-testing-for-the-ai-era-with-testkube-ai-while-1163715 Comments URL: https://news.ycombinator.com/item?id=48049884 Points: 2 # Comments: 0",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/testkube-redefines-testing-for-the-ai-era-with-testkube-ai-while-1163715",
+    "published": "Thu, 07 May 2026 14:24:53 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
@@ -892,7 +992,7 @@
   {
     "source": "Hacker News",
     "title": "I built a free GPT to test whether an idea is clear before launch",
-    "summary": "Article URL: https://chatgpt.com/g/g-69f11b6a1bdc8191ab1100acf60f40cc-deltdx-free Comments URL: https://news.ycombinator.com/item?id=48047956 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://chatgpt.com/g/g-69f11b6a1bdc8191ab1100acf60f40cc-deltdx-free Comments URL: https://news.ycombinator.com/item?id=48047956 Points: 2 # Comments: 0",
     "url": "https://chatgpt.com/g/g-69f11b6a1bdc8191ab1100acf60f40cc-deltdx-free",
     "published": "Thu, 07 May 2026 11:06:41 +0000",
     "lang": "en",
@@ -905,6 +1005,16 @@
     "summary": "Article URL: https://plausible.io/blog/ignore-startup-advice Comments URL: https://news.ycombinator.com/item?id=48045562 Points: 3 # Comments: 2",
     "url": "https://plausible.io/blog/ignore-startup-advice",
     "published": "Thu, 07 May 2026 05:00:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI evaluation startup Braintrust confirms breach",
+    "summary": "Article URL: https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/ Comments URL: https://news.ycombinator.com/item?id=48042494 Points: 4 # Comments: 1",
+    "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+    "published": "Wed, 06 May 2026 22:03:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-07"
@@ -1020,50 +1130,6 @@
     "fetchedAt": "2026-05-07"
   },
   {
-    "source": "Hacker News",
-    "title": "OpenAI and Anthropic launch ventures to speed enterprise AI adoption",
-    "summary": "Article URL: https://www.sofx.com/openai-and-anthropic-launch-rival-pe-joint-ventures-to-address-enterprise-ai-deployment-gap/ Comments URL: https://news.ycombinator.com/item?id=48019709 Points: 2 # Comments: 0",
-    "url": "https://www.sofx.com/openai-and-anthropic-launch-rival-pe-joint-ventures-to-address-enterprise-ai-deployment-gap/",
-    "published": "Tue, 05 May 2026 08:47:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-07"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Pgbackrest gets funding and will be maintained",
-    "summary": "Article URL: https://github.com/pgbackrest/pgbackrest/commit/b93a2b8807adabec02ef33cca838e30f109c3eba Comments URL: https://news.ycombinator.com/item?id=48019649 Points: 4 # Comments: 1",
-    "url": "https://github.com/pgbackrest/pgbackrest/commit/b93a2b8807adabec02ef33cca838e30f109c3eba",
-    "published": "Tue, 05 May 2026 08:38:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-07"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic, OpenAI launch AI services companies, challenge TCS, Infosys in India",
-    "summary": "Article URL: https://www.indiatoday.in/technology/news/story/anthropic-openai-launch-ai-services-companies-challenge-tcs-and-infosys-in-india-2906776-2026-05-05 Comments URL: https://news.ycombinator.com/item?id=48019546 Points: 1 # Comments: 0",
-    "url": "https://www.indiatoday.in/technology/news/story/anthropic-openai-launch-ai-services-companies-challenge-tcs-and-infosys-in-india-2906776-2026-05-05",
-    "published": "Tue, 05 May 2026 08:26:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-07"
-  },
-  {
-    "source": "微博",
-    "title": "#白鹿卢昱晓 抖音下沉市场#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23白鹿卢昱晓 抖音下沉市场%23",
-    "published": "2026-05-07",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-07",
-    "meta": {
-      "hotValue": 376902,
-      "rank": 12
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "darrylmorley/whatcable",
     "summary": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
@@ -1073,8 +1139,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-07",
     "meta": {
-      "stars": 2080,
-      "forks": 42,
+      "stars": 2104,
+      "forks": 43,
       "language": "Swift",
       "createdDaysAgo": 6
     }
@@ -1089,10 +1155,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-07",
     "meta": {
-      "stars": 1533,
-      "forks": 82,
+      "stars": 1587,
+      "forks": 88,
       "language": "JavaScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1105,73 +1171,9 @@
     "type": "signal",
     "fetchedAt": "2026-05-07",
     "meta": {
-      "stars": 1187,
-      "forks": 141,
+      "stars": 1219,
+      "forks": 144,
       "language": "TypeScript",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "crafter-station/petdex",
-    "summary": "Public gallery of animated Codex pets",
-    "url": "https://github.com/crafter-station/petdex",
-    "published": "2026-05-02T07:51:35Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-07",
-    "meta": {
-      "stars": 892,
-      "forks": 41,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "XBuilderLAB/cheat-on-content",
-    "summary": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
-    "url": "https://github.com/XBuilderLAB/cheat-on-content",
-    "published": "2026-05-05T10:28:33Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-07",
-    "meta": {
-      "stars": 883,
-      "forks": 189,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "vibeforge1111/keep-codex-fast",
-    "summary": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-    "url": "https://github.com/vibeforge1111/keep-codex-fast",
-    "published": "2026-05-02T08:57:24Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-07",
-    "meta": {
-      "stars": 842,
-      "forks": 50,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "jherrodthomas/automotive-skills-suite",
-    "summary": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
-    "url": "https://github.com/jherrodthomas/automotive-skills-suite",
-    "published": "2026-05-01T10:30:37Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-07",
-    "meta": {
-      "stars": 819,
-      "forks": 15,
-      "language": null,
       "createdDaysAgo": 6
     }
   },
@@ -1185,10 +1187,90 @@
     "type": "signal",
     "fetchedAt": "2026-05-07",
     "meta": {
-      "stars": 809,
-      "forks": 111,
+      "stars": 1089,
+      "forks": 163,
       "language": "Python",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "XBuilderLAB/cheat-on-content",
+    "summary": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+    "url": "https://github.com/XBuilderLAB/cheat-on-content",
+    "published": "2026-05-05T10:28:33Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-07",
+    "meta": {
+      "stars": 996,
+      "forks": 207,
+      "language": "Python",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "strukto-ai/mirage",
+    "summary": "A Unified Virtual Filesystem For AI Agents",
+    "url": "https://github.com/strukto-ai/mirage",
+    "published": "2026-05-06T17:00:48Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-07",
+    "meta": {
+      "stars": 951,
+      "forks": 56,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "crafter-station/petdex",
+    "summary": "Public gallery of animated Codex pets",
+    "url": "https://github.com/crafter-station/petdex",
+    "published": "2026-05-02T07:51:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-07",
+    "meta": {
+      "stars": 951,
+      "forks": 43,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "jherrodthomas/automotive-skills-suite",
+    "summary": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
+    "url": "https://github.com/jherrodthomas/automotive-skills-suite",
+    "published": "2026-05-01T10:30:37Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-07",
+    "meta": {
+      "stars": 912,
+      "forks": 15,
+      "language": null,
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "vibeforge1111/keep-codex-fast",
+    "summary": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+    "url": "https://github.com/vibeforge1111/keep-codex-fast",
+    "published": "2026-05-02T08:57:24Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-07",
+    "meta": {
+      "stars": 867,
+      "forks": 50,
+      "language": "Python",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1201,7 +1283,7 @@
     "type": "signal",
     "fetchedAt": "2026-05-07",
     "meta": {
-      "stars": 714,
+      "stars": 736,
       "forks": 27,
       "language": "Swift",
       "createdDaysAgo": 6

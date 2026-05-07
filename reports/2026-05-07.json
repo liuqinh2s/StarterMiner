@@ -235,7 +235,7 @@
       },
       "score": 59,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -1338,7 +1338,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 5,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4052,7 +4052,7 @@
       },
       "score": 47,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4126,7 +4126,7 @@
       },
       "score": 38,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4219,18 +4219,18 @@
       },
       "score": 60,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com"
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -4245,30 +4245,256 @@
       }
     },
     {
-      "id": "fengyun",
+      "id": "limingdian",
+      "name": "上海临界点创新智能科技有限公司",
+      "desc": "专注机器人灵巧手研发与生产的全球化科技公司",
+      "track": "robotics",
+      "stage": "pre-a",
+      "city": "shanghai",
+      "tags": [
+        "机器人",
+        "灵巧手",
+        "具身智能"
+      ],
+      "team": [
+        {
+          "name": "王闯",
+          "role": "法定代表人",
+          "bg": "未知"
+        }
+      ],
+      "product": "",
+      "founded": "2025-01",
+      "funding": "获腾讯、百度等投资，注册资本增至597万人民币",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 40,
+        "market": 70
+      },
+      "score": 55,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "tujiankeji",
+      "name": "途见科技（北京）有限公司",
+      "desc": "聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统",
+      "track": "robotics",
+      "stage": "pre-a",
+      "city": "beijing",
+      "tags": [
+        "柔性电子皮肤",
+        "触觉传感器",
+        "具身智能"
+      ],
+      "team": [
+        {
+          "name": "赖建诚",
+          "role": "创始人兼CEO",
+          "bg": "斯坦福大学鲍哲南院士实验室博士后"
+        }
+      ],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "Pre-A轮及Pre-A+轮累计超亿元，投资方包括联想之星、华控基金等",
+      "scores": {
+        "tech": 75,
+        "growth": 60,
+        "team": 80,
+        "market": 70
+      },
+      "score": 70,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xiangsuzhanfang",
+      "name": "像素绽放PixelBloom",
+      "desc": "AI办公解决方案Agent，核心产品AiPPT.com",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "AI办公",
+        "PPT生成",
+        "Agent"
+      ],
+      "team": [],
+      "product": "https://www.aippt.com",
+      "founded": "2022-06",
+      "funding": "C轮融资，由国科投资与商汤国香资本联合领投",
+      "scores": {
+        "tech": 65,
+        "growth": 70,
+        "team": 50,
+        "market": 60
+      },
+      "score": 62,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {
+          "website": "https://www.aippt.com",
+          "emails": [
+            "support@aippt.com"
+          ],
+          "socials": {
+            "twitter": "AiPPT_COM",
+            "linkedin": "aippt"
+          },
+          "careerPage": "https://www.aippt.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yuezhianmian",
+      "name": "月之暗面（Moonshot AI）",
+      "desc": "AI大模型研发商，旗下产品Kimi智能助手",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "大模型",
+        "AI助手",
+        "Kimi"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-04",
+      "funding": "将完成20亿美元新融资，估值破200亿美元",
+      "scores": {
+        "tech": 80,
+        "growth": 85,
+        "team": 70,
+        "market": 75
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fengyunkj",
       "name": "丰耘科技（杭州）有限公司",
-      "desc": "以AI技术重构设施农业，提供温室优化设计和智能控制系统",
+      "desc": "以AI技术重构设施农业，提供温室优化设计软件和智能控制大脑",
       "track": "ai",
       "stage": "angel",
       "city": "hangzhou",
       "tags": [
         "AI",
+        "农业",
         "设施农业",
-        "数字孪生"
+        "数字孪生",
+        "温室优化"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "天使轮融资，由森马集团独家投资，金额未披露",
+      "funding": "天使轮，由森马集团独家投资，金额未披露",
       "scores": {
-        "tech": 70,
+        "tech": 60,
         "growth": 50,
         "team": 50,
         "market": 60
       },
-      "score": 58,
+      "score": 55,
       "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nuanxinjia",
+      "name": "杭州暖芯迦电子科技有限公司",
+      "desc": "视觉脑机接口领军企业，已发布视网膜和视皮层两条路径的视觉重建产品",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "hangzhou",
+      "tags": [
+        "脑机接口",
+        "视觉重建",
+        "医疗器械",
+        "神经科技"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "3亿元战略融资，君联资本、产业投资机构领投，丰年资本、广发信德、财通资本跟投",
+      "scores": {
+        "tech": 90,
+        "growth": 70,
+        "team": 70,
+        "market": 80
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "baixiniu",
+      "name": "白犀牛",
+      "desc": "L4级自动驾驶无人货运公司，车规级RoboVan全球出征",
+      "track": "robotics",
+      "stage": "c1",
+      "city": "shenzhen",
+      "tags": [
+        "自动驾驶",
+        "无人货运",
+        "L4",
+        "RoboVan",
+        "物流"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "C1轮，全球物流产业资本、深圳南山战新投、元禾厚望等投资，金额未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 75,
+        "team": 70,
+        "market": 80
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -4280,32 +4506,26 @@
     {
       "id": "duneng",
       "name": "度能科技（厦门）有限公司",
-      "desc": "聚焦工商业储能场景的储能产品和解决方案服务商",
+      "desc": "聚焦工商业储能的储能产品与解决方案服务商，集成自研EMS和AI能源算法",
       "track": "newenergy",
       "stage": "a",
       "city": "xiamen",
       "tags": [
         "工商业储能",
         "AI能源算法",
-        "海外市场"
+        "华为系团队"
       ],
-      "team": [
-        {
-          "name": "创始人",
-          "role": "CEO",
-          "bg": "华为数字能源背景"
-        }
-      ],
+      "team": [],
       "product": "",
       "founded": "2023-09",
-      "funding": "数亿元A轮系列融资，协鑫集团领投，吴中金控产业基金等跟投",
+      "funding": "数亿元A轮系列融资，协鑫集团领投，吴中金控等跟投；此前完成Pre-A轮",
       "scores": {
-        "tech": 65,
-        "growth": 55,
+        "tech": 70,
+        "growth": 60,
         "team": 70,
-        "market": 75
+        "market": 80
       },
-      "score": 65,
+      "score": 69,
       "discoveredAt": "2026-05-07",
       "discussionCount": 1,
       "contacts": {
@@ -4317,32 +4537,33 @@
       }
     },
     {
-      "id": "recursive",
-      "name": "Recursive Superintelligence",
-      "desc": "研究AI自我进化和科学研究，让AI自己做研究",
-      "track": "ai",
-      "stage": "pre-a",
-      "city": "overseas",
+      "id": "xbot",
+      "name": "自变量机器人科技（XBot）",
+      "desc": "具身智能基础模型研发公司，获美团阿里字节小米等战略投资",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "beijing",
       "tags": [
-        "AI自我进化",
-        "科学研究",
-        "AGI"
+        "具身智能",
+        "通用机器人大脑",
+        "AGI",
+        "基础模型"
       ],
       "team": [
         {
-          "name": "Richard Socher",
-          "role": "创始人",
-          "bg": "前Salesforce首席科学家"
+          "name": "王潜",
+          "role": "CEO",
+          "bg": ""
         }
       ],
       "product": "",
-      "founded": "2026-01",
-      "funding": "种子轮5亿美元，GV领投，英伟达跟投，估值40亿美元",
+      "founded": "2023-10",
+      "funding": "已完成B轮融资，投资方为小米战投，此前获美团、阿里、字节投资",
       "scores": {
-        "tech": 90,
-        "growth": 50,
-        "team": 95,
-        "market": 70
+        "tech": 80,
+        "growth": 70,
+        "team": 70,
+        "market": 80
       },
       "score": 75,
       "discoveredAt": "2026-05-07",
@@ -4356,36 +4577,30 @@
       }
     },
     {
-      "id": "zhangxue",
-      "name": "张雪机车",
-      "desc": "中国摩托车制造商，参加世界超级摩托车锦标赛并夺冠",
-      "track": "other",
+      "id": "ren3",
+      "name": "ReN3",
+      "desc": "新加坡企业文档处理平台",
+      "track": "saas",
       "stage": "seed",
-      "city": "other",
+      "city": "overseas",
       "tags": [
-        "摩托车",
-        "赛车",
-        "制造"
+        "文档处理",
+        "企业服务",
+        "新加坡"
       ],
-      "team": [
-        {
-          "name": "张雪",
-          "role": "创始人",
-          "bg": "知名摩托车手"
-        }
-      ],
+      "team": [],
       "product": "",
       "founded": "",
-      "funding": "未披露",
+      "funding": "500万美元种子轮融资，Vertex Ventures领投",
       "scores": {
-        "tech": 60,
-        "growth": 70,
-        "team": 60,
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
         "market": 60
       },
-      "score": 63,
+      "score": 52,
       "discoveredAt": "2026-05-07",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -4395,21 +4610,21 @@
       }
     },
     {
-      "id": "ren3",
-      "name": "ReN3",
-      "desc": "新加坡企业文档处理平台，提供AI驱动的文档自动化服务。",
-      "track": "saas",
+      "id": "strukto-ai",
+      "name": "Strukto AI",
+      "desc": "为AI代理提供统一虚拟文件系统",
+      "track": "ai",
       "stage": "seed",
-      "city": "overseas",
+      "city": "other",
       "tags": [
-        "文档处理",
-        "企业服务",
-        "SaaS"
+        "AI",
+        "虚拟文件系统",
+        "代理"
       ],
       "team": [],
-      "product": "",
+      "product": "https://github.com/strukto-ai/mirage",
       "founded": "",
-      "funding": "500万美元种子轮融资，Vertex Ventures Southeast Asia & India领投",
+      "funding": "",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -4421,211 +4636,8 @@
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "corgi",
-      "name": "Corgi",
-      "desc": "美国保险科技初创公司，提供数字化保险服务。",
-      "track": "fintech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "保险科技",
-        "Insurtech"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "1.6亿美元B轮融资，估值13亿美元，TCV领投",
-      "scores": {
-        "tech": 50,
-        "growth": 90,
-        "team": 50,
-        "market": 85
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "genesisai",
-      "name": "Genesis AI",
-      "desc": "开发机器人基础AI模型，推出GENE-26.5模型和灵巧手演示",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "机器人基础模型",
-        "灵巧手",
-        "Khosla Ventures"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年完成1.05亿美元种子轮融资，由Khosla Ventures领投",
-      "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 50,
-        "market": 80
-      },
-      "score": 76,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "unsnooze",
-      "name": "Unsnooze",
-      "desc": "让起床更有趣的挑战闹钟应用",
-      "track": "consumer",
-      "stage": "idea",
-      "city": "overseas",
-      "tags": [
-        "alarm",
-        "mobile",
-        "fun"
-      ],
-      "team": [],
-      "product": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
-      "founded": null,
-      "funding": null,
-      "scores": {
-        "tech": 40,
-        "growth": 20,
-        "team": 30,
-        "market": 30
-      },
-      "score": 30,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
         "website": {
-          "website": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xbuilderlab",
-      "name": "XBuilderLAB",
-      "desc": "基于AI的自动内容运营专家，帮助快速获取流量和粉丝",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "content",
-        "social media",
-        "automation"
-      ],
-      "team": [],
-      "product": "https://github.com/XBuilderLAB/cheat-on-content",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 70,
-        "growth": 80,
-        "team": 50,
-        "market": 70
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {
-          "website": "https://github.com/XBuilderLAB/cheat-on-content",
-          "emails": [],
-          "socials": {
-            "github": "github",
-            "twitter": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "tddworks",
-      "name": "TDD Works",
-      "desc": "Headless iOS模拟器管理工具，支持多指手势和60fps流",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "iOS",
-        "testing",
-        "simulator",
-        "devtools"
-      ],
-      "team": [],
-      "product": "https://github.com/tddworks/baguette",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 75,
-        "growth": 65,
-        "team": 50,
-        "market": 60
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {
-          "website": "https://github.com/tddworks/baguette",
+          "website": "https://github.com/strukto-ai/mirage",
           "emails": [],
           "socials": {
             "github": "github",
@@ -7865,55 +7877,132 @@
       "relatedProject": null
     },
     {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "融资丨丰耘科技完成天使轮融资",
-      "url": "http://www.cyzone.cn/article/832502.html",
-      "snippet": "丰耘科技完成天使轮融资，由森马集团独家投资，资金将用于核心技术迭代、产品商业化落地及团队建设，以AI技术重构设施农业。",
-      "date": "2026-05-06",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "fengyun"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "两轮融资数亿元，工商储新锐度能科技，逐鹿全球千亿市场｜创业邦首发",
-      "url": "http://www.cyzone.cn/article/832443.html",
-      "snippet": "度能科技完成数亿元A轮系列融资，由协鑫集团领投，资金用于产品研发、海外渠道建设和智能制造基地投产。",
-      "date": "2026-05-06",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "duneng"
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板",
-      "url": "http://www.geekpark.net/news/363777",
-      "snippet": "平头哥发布首款智能网卡磐脉920，内置PCIe Switch，支持400Gbps吞吐，应用于万卡智算集群。",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+      "url": "https://36kr.com/p/3786528811572481?f=rss",
+      "snippet": "AI视频生成赛道正经历大厂模型能力增长红利，头部AI视频Agent产品月算力成本超百万。",
       "date": "2026-05-07",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后，星空卫视停播｜极客早知道",
-      "url": "http://www.geekpark.net/news/363775",
-      "snippet": "月之暗面将完成20亿美元融资，投后估值超200亿美元，Kimi K2.6模型开源升级。",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
+      "url": "https://36kr.com/p/3799089350712324?f=rss",
+      "snippet": "腾讯等入股机器人灵巧手研发商临界点；宇树UniStore开放。",
       "date": "2026-05-07",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "moonshot"
+      "relatedProject": "limingdian"
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "最前线|将彩色打印与激光切割合二为一，xTool发布新品",
+      "url": "https://36kr.com/p/3798845086882820?f=rss",
+      "snippet": "xTool发布M2彩色智能激光雕刻机，集成喷墨打印与激光切割。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访",
+      "url": "https://36kr.com/p/3797662460419337?f=rss",
+      "snippet": "林清轩2025年营收24.5亿元，同比增长103%，已上市。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
+      "url": "https://36kr.com/p/3797155747748867?f=rss",
+      "snippet": "途见科技完成Pre-A轮融资超亿元，专注柔性电子皮肤。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "tujiankeji"
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
+      "url": "https://36kr.com/p/3797787228151048?f=rss",
+      "snippet": "像素绽放完成C轮融资，将投入AI办公Agent研发。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "xiangsuzhanfang"
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
+      "url": "https://36kr.com/p/3798462137637892?f=rss",
+      "snippet": "月之暗面将完成20亿美元融资，估值破200亿美元。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "yuezhianmian"
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
+      "url": "https://36kr.com/p/3797482256325888?f=rss",
+      "snippet": "GrubMarket入选TIME100行业领袖榜单；三星市值破万亿美元。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
+      "url": "https://36kr.com/p/3797166332206338?f=rss",
+      "snippet": "米哈游新游《星布谷地》二测，生活模拟赛道竞争激烈。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
+      "url": "https://36kr.com/p/3797276726893569?f=rss",
+      "snippet": "一加发布Ace 6至尊版，搭载天玑9500与自研游戏技术。",
+      "date": "2026-05-07",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "创业邦",
+      "title": "两轮融资数亿元，工商储新锐度能科技，逐鹿全球千亿市场｜创业邦首发",
+      "url": "http://www.cyzone.cn/article/832443.html",
+      "snippet": "度能科技完成数亿元A轮系列融资，由协鑫集团领投，资金用于产品研发、海外渠道建设等。",
+      "date": "2026-05-06",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "duneng"
     },
     {
       "source": "爱范儿",
       "sourceIcon": "爱范",
       "title": "早报｜DeepSeek首轮融资曝光，估值450亿美元/谷歌称Android不会推出「液态玻璃」/三星宣布在中国大陆停售所有家电产品",
-      "url": "https://www.ifanr.com/1664941?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "DeepSeek首轮融资曝光，估值450亿美元；苹果因AI Siri延迟赔偿2.5亿美元等。",
+      "url": "https://www.ifanr.com/1664941",
+      "snippet": "DeepSeek首轮融资曝光，估值450亿美元（约合3000亿人民币）。",
       "date": "2026-05-07",
       "likes": 0,
       "comments": 0,
@@ -7924,7 +8013,7 @@
       "sourceIcon": "动点",
       "title": "消息称DeepSeek首轮融资估值或超3000亿元，大基金洽谈领投",
       "url": "https://cn.technode.com/post/2026-05-07/deepseek-big-fund-funding-valuation-over-300-billion-yuan/",
-      "snippet": "梁文锋也可能以个人身份参与本轮出资。",
+      "snippet": "DeepSeek首轮融资估值或超3000亿元，大基金洽谈领投，梁文锋可能个人跟投。",
       "date": "2026-05-07",
       "likes": 0,
       "comments": 0,
@@ -7935,74 +8024,41 @@
       "sourceIcon": "动点",
       "title": "新加坡企业文档处理平台ReN3获得500万美元融资",
       "url": "https://cn.technode.com/post/2026-05-06/sg-ren3-raises-5m-seed-funding/",
-      "snippet": "本轮融资由Vertex Ventures Southeast Asia & India领投。",
+      "snippet": "ReN3获得500万美元种子轮融资，由Vertex Ventures Southeast Asia & India领投。",
       "date": "2026-05-06",
       "likes": 0,
       "comments": 0,
       "relatedProject": "ren3"
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-      "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-      "snippet": "Pronto scale to 26,000 daily bookings, market toward $18B. Investment from Lachy Groom.",
-      "date": "2026-05-06",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "pronto"
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-      "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
-      "snippet": "Corgi announces $160M Series B led by TCV, valuation $1.3B.",
-      "date": "2026-05-06",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "corgi"
-    },
-    {
-      "source": "TechNode",
-      "sourceIcon": "TN",
-      "title": "Kimi reportedly nears $2 billion funding round at over $20 billion valuation",
-      "url": "https://technode.com/2026/05/07/kimi-reportedly-nears-2-billion-funding-round-at-over-20-billion-valuation/",
-      "snippet": "Kimi developer Moonshot AI is close to completing a new $2 billion funding round that would value the company at more than $20 billion, led by Meituan's Long-Z Fund.",
+      "source": "The Verge",
+      "sourceIcon": "TV",
+      "title": "Peak Design is taking up to 50 percent off some of our favorite camera bags",
+      "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
+      "snippet": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8.",
       "date": "2026-05-07",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "moonshot"
+      "relatedProject": null
     },
     {
-      "source": "TechNode",
-      "sourceIcon": "TN",
-      "title": "DeepSeek reportedly seeks first funding round at $45 billion valuation",
-      "url": "https://technode.com/2026/05/07/deepseek-reportedly-seeks-first-funding-round-at-45-billion-valuation/",
-      "snippet": "China's Big Fund is in talks to lead DeepSeek's first external fundraising, which could value the company at about $45 billion. Tencent also in discussions.",
+      "source": "The Verge",
+      "sourceIcon": "TV",
+      "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "snippet": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns.",
       "date": "2026-05-07",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "deepseek"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "The boring way to build a startup",
-      "url": "https://news.ycombinator.com/item?id=48045562",
-      "snippet": "Article URL: https://plausible.io/blog/ignore-startup-advice Points: 3 # Comments: 2",
-      "date": "2026-05-07",
-      "likes": 3,
-      "comments": 2,
       "relatedProject": null
     },
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "The Anthropic AI / Blender Funding Explained [video]",
-      "url": "https://news.ycombinator.com/item?id=48040755",
-      "snippet": "Article URL: https://www.youtube.com/watch?v=dXOS7cuIpP0 Points: 2 # Comments: 0",
-      "date": "2026-05-06",
+      "title": "The Mounting Toll of Multi-Year Funding on American Biomedical Research [pdf]",
+      "url": "https://actfornih.org/wp-content/uploads/2026/05/A4N_Updated-MYF-One-Pager_May-2026_FINAL.pdf",
+      "snippet": "Article about the impact of multi-year funding on American biomedical research.",
+      "date": "2026-05-07",
       "likes": 2,
       "comments": 0,
       "relatedProject": null
@@ -8010,143 +8066,44 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "Map showing funding received by U.S. conservation organizations",
-      "url": "https://news.ycombinator.com/item?id=48038795",
-      "snippet": "Article URL: https://www.speakforthetrees.com/funding Points: 1 # Comments: 1",
-      "date": "2026-05-06",
-      "likes": 1,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Arena One and AMC Theatres Launch Shared Live Concert Experience Nationwide",
-      "url": "https://news.ycombinator.com/item?id=48038206",
-      "snippet": "Article URL: https://investor.amctheatres.com/news-events/press-releases/detail/424/arena-one-and-amc-theatres-launch-a-first-of-its-kind-shared-live-concert-experience-nationwide-beginning-in-june Points: 1 # Comments: 0",
-      "date": "2026-05-06",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Startup matches Anthropic's Mythos on FreeBSD zero-days",
-      "url": "https://news.ycombinator.com/item?id=48037200",
-      "snippet": "Article URL: https://aisle.com/blog/aisle-matches-anthropic-mythos-on-freebsd-zero-days Points: 1 # Comments: 0",
-      "date": "2026-05-06",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "aisle"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Pitch-Pit – AI rates your startup idea, crowd votes, top one gets built",
-      "url": "https://news.ycombinator.com/item?id=48035927",
-      "snippet": "Article URL: https://pitchpit.app Points: 1 # Comments: 0",
-      "date": "2026-05-06",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "pitch-pit"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Peter Thiel backs $1B ocean data centre startup powered by waves",
-      "url": "https://news.ycombinator.com/item?id=48030925",
-      "snippet": "Article URL: https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39 Points: 3 # Comments: 1",
-      "date": "2026-05-06",
-      "likes": 3,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Startup Ignites First Fusion Rocket",
-      "url": "https://news.ycombinator.com/item?id=48030876",
-      "snippet": "Article URL: https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506 Points: 5 # Comments: 1",
-      "date": "2026-05-06",
-      "likes": 5,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Span to launch distributed AI data centers for edge compute",
-      "url": "https://news.ycombinator.com/item?id=48029052",
-      "snippet": "Article URL: https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/ Points: 3 # Comments: 0",
-      "date": "2026-05-05",
-      "likes": 3,
-      "comments": 0,
-      "relatedProject": "span"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "App I made to make waking up more fun (not an Agentic AI B2B SaaS startup)",
-      "url": "https://news.ycombinator.com/item?id=48024191",
-      "snippet": "Article URL: https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228 Points: 1 # Comments: 0",
-      "date": "2026-05-05",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": "unsnooze"
-    },
-    {
-      "source": "微博",
-      "sourceIcon": "微",
-      "title": "#白鹿卢昱晓 抖音下沉市场#",
-      "url": "https://s.weibo.com/weibo?q=%23白鹿卢昱晓 抖音下沉市场%23",
-      "snippet": "",
+      "title": "GameStop CEO says eBay shut his account after buyout funding stunt",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/gamestop-ceo-says-ebay-shut-his-account-after-buyout-funding-stunt",
+      "snippet": "GameStop CEO says eBay shut his account after a buyout funding stunt.",
       "date": "2026-05-07",
-      "likes": 0,
+      "likes": 4,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "crafter-station/petdex",
-      "url": "https://github.com/crafter-station/petdex",
-      "snippet": "Public gallery of animated Codex pets",
-      "date": "2026-05-02",
-      "likes": 892,
-      "comments": 41,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "XBuilderLAB/cheat-on-content",
-      "url": "https://github.com/XBuilderLAB/cheat-on-content",
-      "snippet": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
-      "date": "2026-05-05",
-      "likes": 883,
-      "comments": 0,
-      "relatedProject": "xbuilderlab"
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "vibeforge1111/keep-codex-fast",
-      "url": "https://github.com/vibeforge1111/keep-codex-fast",
-      "snippet": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "date": "2026-05-02",
-      "likes": 842,
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
+      "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+      "snippet": "India's first space tech unicorn emerges as Skyroot Aerospace gears up for its first orbital launch.",
+      "date": "2026-05-07",
+      "likes": 1,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "jherrodthomas/automotive-skills-suite",
-      "url": "https://github.com/jherrodthomas/automotive-skills-suite",
-      "snippet": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
-      "date": "2026-05-01",
-      "likes": 819,
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The Future of Testing Is Here (Testkube AI Launch)",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/testkube-redefines-testing-for-the-ai-era-with-testkube-ai-while-1163715",
+      "snippet": "Testkube redefines testing for the AI era with Testkube AI launch.",
+      "date": "2026-05-07",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "I built a free GPT to test whether an idea is clear before launch",
+      "url": "https://chatgpt.com/g/g-69f11b6a1bdc8191ab1100acf60f40cc-deltdx-free",
+      "snippet": "A free GPT to test whether an idea is clear before launch.",
+      "date": "2026-05-07",
+      "likes": 2,
       "comments": 0,
       "relatedProject": null
     },
@@ -8157,7 +8114,63 @@
       "url": "https://github.com/yaojingang/yao-open-prompts",
       "snippet": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
       "date": "2026-05-06",
-      "likes": 809,
+      "likes": 1089,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "XBuilderLAB/cheat-on-content",
+      "url": "https://github.com/XBuilderLAB/cheat-on-content",
+      "snippet": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+      "date": "2026-05-05",
+      "likes": 996,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "snippet": "A Unified Virtual Filesystem For AI Agents",
+      "date": "2026-05-06",
+      "likes": 951,
+      "comments": 0,
+      "relatedProject": "strukto-ai"
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "crafter-station/petdex",
+      "url": "https://github.com/crafter-station/petdex",
+      "snippet": "Public gallery of animated Codex pets",
+      "date": "2026-05-02",
+      "likes": 951,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "jherrodthomas/automotive-skills-suite",
+      "url": "https://github.com/jherrodthomas/automotive-skills-suite",
+      "snippet": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
+      "date": "2026-05-01",
+      "likes": 912,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "vibeforge1111/keep-codex-fast",
+      "summary": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "url": "https://github.com/vibeforge1111/keep-codex-fast",
+      "snippet": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "date": "2026-05-02",
+      "likes": 867,
       "comments": 0,
       "relatedProject": null
     },
@@ -8165,12 +8178,13 @@
       "source": "GitHub新星",
       "sourceIcon": "GH",
       "title": "tddworks/baguette",
+      "summary": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
       "url": "https://github.com/tddworks/baguette",
       "snippet": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
       "date": "2026-05-01",
-      "likes": 714,
+      "likes": 736,
       "comments": 0,
-      "relatedProject": "tddworks"
+      "relatedProject": null
     }
   ]
 }

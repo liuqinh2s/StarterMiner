@@ -1550,11 +1550,11 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com"
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -1569,8 +1569,85 @@
     }
   },
   {
-    "id": "fengyun",
+    "id": "limingdian",
+    "name": "上海临界点创新智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "tujiankeji",
+    "name": "途见科技（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xiangsuzhanfang",
+    "name": "像素绽放PixelBloom",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {
+        "website": "https://www.aippt.com",
+        "emails": [
+          "support@aippt.com"
+        ],
+        "socials": {
+          "twitter": "AiPPT_COM",
+          "linkedin": "aippt"
+        },
+        "careerPage": "https://www.aippt.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yuezhianmian",
+    "name": "月之暗面（Moonshot AI）",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyunkj",
     "name": "丰耘科技（杭州）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuanxinjia",
+    "name": "杭州暖芯迦电子科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-07",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "baixiniu",
+    "name": "白犀牛",
     "contacts": {
       "fetchedAt": "2026-05-07",
       "website": {},
@@ -1591,19 +1668,8 @@
     }
   },
   {
-    "id": "recursive",
-    "name": "Recursive Superintelligence",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zhangxue",
-    "name": "张雪机车",
+    "id": "xbot",
+    "name": "自变量机器人科技（XBot）",
     "contacts": {
       "fetchedAt": "2026-05-07",
       "website": {},
@@ -1624,93 +1690,12 @@
     }
   },
   {
-    "id": "corgi",
-    "name": "Corgi",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "genesisai",
-    "name": "Genesis AI",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "unsnooze",
-    "name": "Unsnooze",
+    "id": "strukto-ai",
+    "name": "Strukto AI",
     "contacts": {
       "fetchedAt": "2026-05-07",
       "website": {
-        "website": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xbuilderlab",
-    "name": "XBuilderLAB",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {
-        "website": "https://github.com/XBuilderLAB/cheat-on-content",
-        "emails": [],
-        "socials": {
-          "github": "github",
-          "twitter": "github",
-          "linkedin": "github"
-        },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "tddworks",
-    "name": "TDD Works",
-    "contacts": {
-      "fetchedAt": "2026-05-07",
-      "website": {
-        "website": "https://github.com/tddworks/baguette",
+        "website": "https://github.com/strukto-ai/mirage",
         "emails": [],
         "socials": {
           "github": "github",

@@ -235,7 +235,7 @@
       },
       "score": 59,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -1338,7 +1338,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 5,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4052,7 +4052,7 @@
       },
       "score": 47,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4126,7 +4126,7 @@
       },
       "score": 38,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
@@ -4219,18 +4219,18 @@
       },
       "score": 60,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com"
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -4245,30 +4245,256 @@
       }
     },
     {
-      "id": "fengyun",
+      "id": "limingdian",
+      "name": "上海临界点创新智能科技有限公司",
+      "desc": "专注机器人灵巧手研发与生产的全球化科技公司",
+      "track": "robotics",
+      "stage": "pre-a",
+      "city": "shanghai",
+      "tags": [
+        "机器人",
+        "灵巧手",
+        "具身智能"
+      ],
+      "team": [
+        {
+          "name": "王闯",
+          "role": "法定代表人",
+          "bg": "未知"
+        }
+      ],
+      "product": "",
+      "founded": "2025-01",
+      "funding": "获腾讯、百度等投资，注册资本增至597万人民币",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 40,
+        "market": 70
+      },
+      "score": 55,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "tujiankeji",
+      "name": "途见科技（北京）有限公司",
+      "desc": "聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统",
+      "track": "robotics",
+      "stage": "pre-a",
+      "city": "beijing",
+      "tags": [
+        "柔性电子皮肤",
+        "触觉传感器",
+        "具身智能"
+      ],
+      "team": [
+        {
+          "name": "赖建诚",
+          "role": "创始人兼CEO",
+          "bg": "斯坦福大学鲍哲南院士实验室博士后"
+        }
+      ],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "Pre-A轮及Pre-A+轮累计超亿元，投资方包括联想之星、华控基金等",
+      "scores": {
+        "tech": 75,
+        "growth": 60,
+        "team": 80,
+        "market": 70
+      },
+      "score": 70,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xiangsuzhanfang",
+      "name": "像素绽放PixelBloom",
+      "desc": "AI办公解决方案Agent，核心产品AiPPT.com",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "AI办公",
+        "PPT生成",
+        "Agent"
+      ],
+      "team": [],
+      "product": "https://www.aippt.com",
+      "founded": "2022-06",
+      "funding": "C轮融资，由国科投资与商汤国香资本联合领投",
+      "scores": {
+        "tech": 65,
+        "growth": 70,
+        "team": 50,
+        "market": 60
+      },
+      "score": 62,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {
+          "website": "https://www.aippt.com",
+          "emails": [
+            "support@aippt.com"
+          ],
+          "socials": {
+            "twitter": "AiPPT_COM",
+            "linkedin": "aippt"
+          },
+          "careerPage": "https://www.aippt.com/careers",
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yuezhianmian",
+      "name": "月之暗面（Moonshot AI）",
+      "desc": "AI大模型研发商，旗下产品Kimi智能助手",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "大模型",
+        "AI助手",
+        "Kimi"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023-04",
+      "funding": "将完成20亿美元新融资，估值破200亿美元",
+      "scores": {
+        "tech": 80,
+        "growth": 85,
+        "team": 70,
+        "market": 75
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fengyunkj",
       "name": "丰耘科技（杭州）有限公司",
-      "desc": "以AI技术重构设施农业，提供温室优化设计和智能控制系统",
+      "desc": "以AI技术重构设施农业，提供温室优化设计软件和智能控制大脑",
       "track": "ai",
       "stage": "angel",
       "city": "hangzhou",
       "tags": [
         "AI",
+        "农业",
         "设施农业",
-        "数字孪生"
+        "数字孪生",
+        "温室优化"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "天使轮融资，由森马集团独家投资，金额未披露",
+      "funding": "天使轮，由森马集团独家投资，金额未披露",
       "scores": {
-        "tech": 70,
+        "tech": 60,
         "growth": 50,
         "team": 50,
         "market": 60
       },
-      "score": 58,
+      "score": 55,
       "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nuanxinjia",
+      "name": "杭州暖芯迦电子科技有限公司",
+      "desc": "视觉脑机接口领军企业，已发布视网膜和视皮层两条路径的视觉重建产品",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "hangzhou",
+      "tags": [
+        "脑机接口",
+        "视觉重建",
+        "医疗器械",
+        "神经科技"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "3亿元战略融资，君联资本、产业投资机构领投，丰年资本、广发信德、财通资本跟投",
+      "scores": {
+        "tech": 90,
+        "growth": 70,
+        "team": 70,
+        "market": 80
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-07",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "baixiniu",
+      "name": "白犀牛",
+      "desc": "L4级自动驾驶无人货运公司，车规级RoboVan全球出征",
+      "track": "robotics",
+      "stage": "c1",
+      "city": "shenzhen",
+      "tags": [
+        "自动驾驶",
+        "无人货运",
+        "L4",
+        "RoboVan",
+        "物流"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "C1轮，全球物流产业资本、深圳南山战新投、元禾厚望等投资，金额未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 75,
+        "team": 70,
+        "market": 80
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-07",
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -4280,32 +4506,26 @@
     {
       "id": "duneng",
       "name": "度能科技（厦门）有限公司",
-      "desc": "聚焦工商业储能场景的储能产品和解决方案服务商",
+      "desc": "聚焦工商业储能的储能产品与解决方案服务商，集成自研EMS和AI能源算法",
       "track": "newenergy",
       "stage": "a",
       "city": "xiamen",
       "tags": [
         "工商业储能",
         "AI能源算法",
-        "海外市场"
+        "华为系团队"
       ],
-      "team": [
-        {
-          "name": "创始人",
-          "role": "CEO",
-          "bg": "华为数字能源背景"
-        }
-      ],
+      "team": [],
       "product": "",
       "founded": "2023-09",
-      "funding": "数亿元A轮系列融资，协鑫集团领投，吴中金控产业基金等跟投",
+      "funding": "数亿元A轮系列融资，协鑫集团领投，吴中金控等跟投；此前完成Pre-A轮",
       "scores": {
-        "tech": 65,
-        "growth": 55,
+        "tech": 70,
+        "growth": 60,
         "team": 70,
-        "market": 75
+        "market": 80
       },
-      "score": 65,
+      "score": 69,
       "discoveredAt": "2026-05-07",
       "discussionCount": 1,
       "contacts": {
@@ -4317,32 +4537,33 @@
       }
     },
     {
-      "id": "recursive",
-      "name": "Recursive Superintelligence",
-      "desc": "研究AI自我进化和科学研究，让AI自己做研究",
-      "track": "ai",
-      "stage": "pre-a",
-      "city": "overseas",
+      "id": "xbot",
+      "name": "自变量机器人科技（XBot）",
+      "desc": "具身智能基础模型研发公司，获美团阿里字节小米等战略投资",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "beijing",
       "tags": [
-        "AI自我进化",
-        "科学研究",
-        "AGI"
+        "具身智能",
+        "通用机器人大脑",
+        "AGI",
+        "基础模型"
       ],
       "team": [
         {
-          "name": "Richard Socher",
-          "role": "创始人",
-          "bg": "前Salesforce首席科学家"
+          "name": "王潜",
+          "role": "CEO",
+          "bg": ""
         }
       ],
       "product": "",
-      "founded": "2026-01",
-      "funding": "种子轮5亿美元，GV领投，英伟达跟投，估值40亿美元",
+      "founded": "2023-10",
+      "funding": "已完成B轮融资，投资方为小米战投，此前获美团、阿里、字节投资",
       "scores": {
-        "tech": 90,
-        "growth": 50,
-        "team": 95,
-        "market": 70
+        "tech": 80,
+        "growth": 70,
+        "team": 70,
+        "market": 80
       },
       "score": 75,
       "discoveredAt": "2026-05-07",
@@ -4356,36 +4577,30 @@
       }
     },
     {
-      "id": "zhangxue",
-      "name": "张雪机车",
-      "desc": "中国摩托车制造商，参加世界超级摩托车锦标赛并夺冠",
-      "track": "other",
+      "id": "ren3",
+      "name": "ReN3",
+      "desc": "新加坡企业文档处理平台",
+      "track": "saas",
       "stage": "seed",
-      "city": "other",
+      "city": "overseas",
       "tags": [
-        "摩托车",
-        "赛车",
-        "制造"
+        "文档处理",
+        "企业服务",
+        "新加坡"
       ],
-      "team": [
-        {
-          "name": "张雪",
-          "role": "创始人",
-          "bg": "知名摩托车手"
-        }
-      ],
+      "team": [],
       "product": "",
       "founded": "",
-      "funding": "未披露",
+      "funding": "500万美元种子轮融资，Vertex Ventures领投",
       "scores": {
-        "tech": 60,
-        "growth": 70,
-        "team": 60,
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
         "market": 60
       },
-      "score": 63,
+      "score": 52,
       "discoveredAt": "2026-05-07",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
         "website": {},
@@ -4395,21 +4610,21 @@
       }
     },
     {
-      "id": "ren3",
-      "name": "ReN3",
-      "desc": "新加坡企业文档处理平台，提供AI驱动的文档自动化服务。",
-      "track": "saas",
+      "id": "strukto-ai",
+      "name": "Strukto AI",
+      "desc": "为AI代理提供统一虚拟文件系统",
+      "track": "ai",
       "stage": "seed",
-      "city": "overseas",
+      "city": "other",
       "tags": [
-        "文档处理",
-        "企业服务",
-        "SaaS"
+        "AI",
+        "虚拟文件系统",
+        "代理"
       ],
       "team": [],
-      "product": "",
+      "product": "https://github.com/strukto-ai/mirage",
       "founded": "",
-      "funding": "500万美元种子轮融资，Vertex Ventures Southeast Asia & India领投",
+      "funding": "",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -4421,211 +4636,8 @@
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "corgi",
-      "name": "Corgi",
-      "desc": "美国保险科技初创公司，提供数字化保险服务。",
-      "track": "fintech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "保险科技",
-        "Insurtech"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "1.6亿美元B轮融资，估值13亿美元，TCV领投",
-      "scores": {
-        "tech": 50,
-        "growth": 90,
-        "team": 50,
-        "market": 85
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "genesisai",
-      "name": "Genesis AI",
-      "desc": "开发机器人基础AI模型，推出GENE-26.5模型和灵巧手演示",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "机器人基础模型",
-        "灵巧手",
-        "Khosla Ventures"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年完成1.05亿美元种子轮融资，由Khosla Ventures领投",
-      "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 50,
-        "market": 80
-      },
-      "score": 76,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "unsnooze",
-      "name": "Unsnooze",
-      "desc": "让起床更有趣的挑战闹钟应用",
-      "track": "consumer",
-      "stage": "idea",
-      "city": "overseas",
-      "tags": [
-        "alarm",
-        "mobile",
-        "fun"
-      ],
-      "team": [],
-      "product": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
-      "founded": null,
-      "funding": null,
-      "scores": {
-        "tech": 40,
-        "growth": 20,
-        "team": 30,
-        "market": 30
-      },
-      "score": 30,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
         "website": {
-          "website": "https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xbuilderlab",
-      "name": "XBuilderLAB",
-      "desc": "基于AI的自动内容运营专家，帮助快速获取流量和粉丝",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "content",
-        "social media",
-        "automation"
-      ],
-      "team": [],
-      "product": "https://github.com/XBuilderLAB/cheat-on-content",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 70,
-        "growth": 80,
-        "team": 50,
-        "market": 70
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {
-          "website": "https://github.com/XBuilderLAB/cheat-on-content",
-          "emails": [],
-          "socials": {
-            "github": "github",
-            "twitter": "github",
-            "linkedin": "github"
-          },
-          "careerPage": "https://github.com/careers",
-          "jobListings": [
-            "Taylor, Engineering",
-            "Developer API",
-            "Product",
-            "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-            "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-            "var videoData;",
-            "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-            "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-            "for (var answer of videoWidgetData.answers) {",
-            "videoData = answer;",
-            "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-            "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-            "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-            "window._jibe.models.jobs.paramsImpression.paramsData;",
-            "Candidate Data Privacy",
-            "Write better code with AI",
-            "var xmlRiskyhttp = new XMLHttpRequest();",
-            "var xmlSafehttp = new XMLHttpRequest();",
-            "newText.innerHTML = '';",
-            "window.useHTML4 = true;"
-          ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "tddworks",
-      "name": "TDD Works",
-      "desc": "Headless iOS模拟器管理工具，支持多指手势和60fps流",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "iOS",
-        "testing",
-        "simulator",
-        "devtools"
-      ],
-      "team": [],
-      "product": "https://github.com/tddworks/baguette",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 75,
-        "growth": 65,
-        "team": 50,
-        "market": 60
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-07",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-07",
-        "website": {
-          "website": "https://github.com/tddworks/baguette",
+          "website": "https://github.com/strukto-ai/mirage",
           "emails": [],
           "socials": {
             "github": "github",
