@@ -1,43 +1,43 @@
 {
-  "totalProjects": 109,
-  "totalDiscussions": 291,
+  "totalProjects": 118,
+  "totalDiscussions": 305,
   "byTrack": {
-    "ai": 57,
+    "ai": 62,
     "hardtech": 7,
-    "biotech": 3,
+    "biotech": 4,
     "consumer": 7,
-    "saas": 6,
+    "saas": 7,
     "semiconductor": 1,
     "other": 4,
-    "robotics": 17,
+    "robotics": 18,
     "aerospace": 3,
-    "newenergy": 3,
+    "newenergy": 4,
     "fintech": 1
   },
   "byStage": {
     "angel": 4,
-    "b+": 38,
-    "seed": 33,
-    "a": 13,
+    "b+": 40,
+    "seed": 35,
+    "a": 16,
     "pre-seed": 7,
     "b": 6,
-    "idea": 4,
+    "idea": 5,
     "a+": 1,
-    "pre-a": 3
+    "pre-a": 4
   },
   "byCity": {
     "guangzhou": 1,
-    "overseas": 56,
+    "overseas": 58,
     "hangzhou": 5,
-    "beijing": 21,
-    "other": 13,
+    "beijing": 24,
+    "other": 16,
     "nanjing": 1,
     "unknown": 1,
     "shenzhen": 5,
     "shanghai": 4,
     "wuhan": 1,
-    "xiamen": 1
+    "xiamen": 2
   },
-  "avgScore": 67.6,
-  "lastUpdate": "2026-05-06"
+  "avgScore": 67.8,
+  "lastUpdate": "2026-05-07"
 }
