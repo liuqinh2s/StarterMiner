@@ -1146,8 +1146,7 @@
           "support@eightsleep.com",
           "contacto@albaestudio.com",
           "support@truemed.com",
-          "team@truemed.com",
-          "privacy@eightsleep.com"
+          "team@truemed.com"
         ],
         "socials": {
           "twitter": "tryjasononline"
@@ -1732,8 +1731,8 @@
     }
   },
   {
-    "id": "xinghuanjuneng",
-    "name": "星环聚能",
+    "id": "xingjihudong",
+    "name": "星迹互动（STAR TRAIL）",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
@@ -1743,8 +1742,8 @@
     }
   },
   {
-    "id": "fengyunkeji",
-    "name": "丰耘科技",
+    "id": "lingyuai",
+    "name": "灵御智能",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
@@ -1754,30 +1753,22 @@
     }
   },
   {
-    "id": "familiar",
+    "id": "lingzhua",
+    "name": "灵珠AI",
+    "contacts": {
+      "fetchedAt": "2026-05-08",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "familiarmachines",
     "name": "Familiar Machines",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "kimi",
-    "name": "月之暗面",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {
-        "website": "https://kimi.moonshot.cn",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://kimi.moonshot.cn/careers",
-        "jobListings": [
-          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-        ]
-      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -1795,45 +1786,17 @@
     }
   },
   {
-    "id": "brano",
-    "name": "Brano Therapeutics",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "skyroot",
-    "name": "Skyroot Aerospace",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "testkube",
-    "name": "Testkube",
+    "id": "moonshot-ai",
+    "name": "月之暗面（Moonshot AI）",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {
-        "website": "https://testkube.io",
+        "website": "https://kimi.moonshot.cn",
         "emails": [],
-        "socials": {
-          "twitter": "testkubeio",
-          "linkedin": "testkube",
-          "github": "kubeshop"
-        },
-        "careerPage": "https://testkube.io/careers",
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
-          "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
-          "/* --- CONTAINER STYLES --- */",
-          "Testkube AI is here. 🗓 See it live on May 21 → Register"
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
         ]
       },
       "github": {},

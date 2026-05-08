@@ -31,7 +31,7 @@
   },
   {
     "source": "36氪",
-    "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完���数千万元Pre-A+轮融资 | 36氪首发",
+    "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
     "summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉， 北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问， 资金将用于产品研发、市场拓展及产线落地。 「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500MWh规模量产线；2024年10月实现50Ah全固态电芯量产。 「纯锂新能源」于2025年推出第一代固态电池，全固态产品平均失重率0.023%， 产品通过第三方国家标准实验室安全认证（CNAS）GB/T36276-2018 检测，目前正优先推进储能场景落地，并在低速动力等方向开展验证，为后续进入更广泛动力电池市场积累工程与商业化基础。 一、自研材料及超临界包覆技术，破解固固接触难题 固态电池凭借更高能量密度与本征安全，被视为下一代电池的终极方案。但由于固态电解质与电极之间难以像液态充分浸润，导致容量衰减，固固接触难题始终是固态",
     "url": "https://36kr.com/p/3800022823951363?f=rss",
     "published": "2026-05-08 10:25:30  +0800",
@@ -101,6 +101,26 @@
   },
   {
     "source": "36氪",
+    "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+    "summary": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
+    "url": "https://36kr.com/newsflashes/3800615656741890?f=rss",
+    "published": "2026-05-08 20:26:10  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "36氪",
+    "title": "DeepSeek拟募资最高500亿元",
+    "summary": "据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。。（财联社）",
+    "url": "https://36kr.com/newsflashes/3800574318976257?f=rss",
+    "published": "2026-05-08 19:44:07  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "36氪",
     "title": "浙江人形机器人创新中心与杰克科技达成战略合作",
     "summary": "36氪获悉，浙江人形机器人创新中心与杰克科技达成战略合作，签约2000合服装场景定制人形机器人。据了解，此次合作双方将共建产业生态，规划从2000台迈向百万台级服装人形机器人集群，以技术+场景创新推动服装柔性智造升级。",
     "url": "https://36kr.com/newsflashes/3800544911186948?f=rss",
@@ -115,56 +135,6 @@
     "summary": "36氪获悉，通鼎互联公告，公司拟与韶关市曲江区国有资产投资经营有限公司成立合资公司，注册资本8亿元，公司认缴1.6亿元（占20%），曲江国资认缴6.4亿元（占80%）。项目公司拟投资约8亿元建设年产600吨光棒及2000万芯公里光纤项目，并向银行融资不超过6.4亿元，公司及控股股东通鼎集团提供全额连带责任保证担保。同时，公司拟投资1亿元设立全资运营公司，待标的项目建设完毕后，由运营公司向项目公司租赁光棒光纤生产经营资产，运营公司独立运营标的项目，自负盈亏。",
     "url": "https://36kr.com/newsflashes/3800543206939657?f=rss",
     "published": "2026-05-08 19:12:28  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-08"
-  },
-  {
-    "source": "36氪",
-    "title": "IDC：商汤大装置位列中国MaaS市场第二",
-    "summary": "36氪获悉，近日，国际数据公司IDC发布中国企业级MaaS市场最新格局分析报告。报告显示，商汤大装置“万象”大模型平台凭借11.3%的市场份额，稳居中国大模型平台私有化市场第二，位列行业第一梯队。",
-    "url": "https://36kr.com/newsflashes/3800528408386824?f=rss",
-    "published": "2026-05-08 18:57:25  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-08"
-  },
-  {
-    "source": "36氪",
-    "title": "上交所：本周对*ST正平、国晟科技等股票以及全球芯片LOF等基金进行重点监控",
-    "summary": "36氪获悉，上交所公告，本周对351起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对*ST正平等异常波动退市风险警示股票、国晟科技等波动幅度较大的股票以及全球芯片LOF等溢价较高的基金进行重点监控，对29起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索2起。",
-    "url": "https://36kr.com/newsflashes/3800525088709639?f=rss",
-    "published": "2026-05-08 18:54:02  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-08"
-  },
-  {
-    "source": "36氪",
-    "title": "佛塑科技：拟向全资子公司金力新能源增资3亿元",
-    "summary": "36氪获悉，佛塑科技公告，公司拟以自有资金3亿元向全资子公司河北金力新能源科技有限公司增资，用于补充其流动资金。增资后金力新能源注册资本将增至5.82亿元，仍为公司全资子公司。金力新能源是国内锂电池隔膜行业头部企业之一，是公司布局锂电池隔膜业务的核心主体，产品技术优势明显，具有较强的市场竞争力。本次增资将补充金力新能源流动资金，优化资产结构，为其经营发展提供资金保障，进一步提升公司锂电池隔膜业务市场竞争力。",
-    "url": "https://36kr.com/newsflashes/3800492936453127?f=rss",
-    "published": "2026-05-08 18:21:20  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-08"
-  },
-  {
-    "source": "36氪",
-    "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能",
-    "summary": "36氪获悉，近日，国家能源局会同国家发展改革委、工业和信息化部、国家数据局印发了《关于促进人工智能与能源双向赋能的行动方案》。其中提出，提高算力设施多元电力供给能力。根据算力设施接入系统规模、电网电压等级、电网新能源渗透率、电能质量要求、算力设施业务类型等实际情况，建立健全算力设施能源供给规划建设标准。探索核电、氢能等能源以直连方式为算力设施供能。鼓励算力设施配置构网型储能，增强供电稳定性和对电力系统的主动支撑能力。",
-    "url": "https://36kr.com/newsflashes/3800492242574341?f=rss",
-    "published": "2026-05-08 18:20:37  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-08"
-  },
-  {
-    "source": "36氪",
-    "title": "四部门：推动算力设施、互联网骨干直联点在新能源富集地区有序合理汇集",
-    "summary": "36氪获悉，近日，国家能源局会同国家发展改革委、工业和信息化部、国家数据局印发了《关于促进人工智能与能源双向赋能的行动方案》。其中提出，统筹优化能源资源与算力布局。统筹大型新能源基地与国家算力枢纽规划布局，推动算力设施、互联网骨干直联点在新能源富集地区有序合理汇集，促进新能源就近就地消纳。结合地区能源、水资源等承载力，探索百万千瓦级人工智能算力设施与配套能源系统协同建设，选择具备条件的地区开展试点，推动算电协同一体化发展。",
-    "url": "https://36kr.com/newsflashes/3800491872361730?f=rss",
-    "published": "2026-05-08 18:20:15  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-08"
@@ -315,6 +285,36 @@
     "summary": "2026年2月，阿联酋迪拜。透过会议室的窗户，远处高耸入云的哈利法塔清晰可见，直线距离只有不到 2 公里。就在这间会议室，一家中国内地控股的香港人工智能公司与伯克希尔·哈撒韦 HomeServices海湾地产完成了合作框架的签约。 这家公司名为AHS，源自其母公司爱化身科技（北京）有限公司，“爱化身”拼音首字母的缩写。爱化身亦有AI在物理世界的化身的意思，指向公司对企业级AGI的长期判断： 爱化身以世界行为模型为理论底座，面向超大型企业构建企业级AGI能力体系，推动智能体具备业务理解、任务执行与持续进化能力，并深入客户核心场景，打造具备明确职位描述、职责边界和业务指标的千百种数字员工。 换言之，爱化身瞄准的并不是那些仍在AI门外观望的企业，而是已经完成战略判断、正在寻找系统性落地路径的超大型企业。对于后者，真正的问题已经不是“能不能用AI”，而是如何让AI尽快进入业务主流程，承接真实任务，参与决策与执行闭环，并最终成为组织中的新型生产力。 “北大系”打造的一体化三层架构智能体平台 爱化身的解法，是一个采用三层架构的一体化智能体平台AHS Agentrix。 Data OS是它的底座基层",
     "url": "http://www.cyzone.cn/article/831811.html",
     "published": "Tue, 28 Apr 2026 04:05:12 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "钛媒体",
+    "title": "好上好8408万收购鼎瑞芯加码新能源赛道，现金流隐忧下的战略扩张｜并购一线",
+    "summary": "8408万现金收购背后，净利大增难掩“失血”困境。",
+    "url": "https://www.tmtpost.com/7981434.html",
+    "published": "Fri, 08 May 2026 20:52:11 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "钛媒体",
+    "title": "独家对话灵御智能：百万小时真机数据，喂出具身智能的“云端大脑”",
+    "summary": "\"我们卖的不是机器人，是机器人即服务（RaaS）+ 操作即服务（MaaS）\"。",
+    "url": "https://www.tmtpost.com/7981455.html",
+    "published": "Fri, 08 May 2026 20:28:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "钛媒体",
+    "title": "灵珠AI日均token消耗破50亿：深度用户或成AI应用护城河",
+    "summary": "值得注意的是，灵珠AI的用户基数远小于大模型公司和互联网平台，这意味着其人均token消耗量处于相当高的水平。",
+    "url": "https://www.tmtpost.com/7981423.html",
+    "published": "Fri, 08 May 2026 19:58:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-08"
@@ -711,7 +711,37 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Why you can never get your doctor to call you back",
+    "title": "Mother Ventures is looking at moms as the ‘economic engine’",
+    "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
+    "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
+    "published": "Fri, 08 May 2026 17:46:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+    "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
+    "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+    "published": "Fri, 08 May 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+    "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+    "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+    "published": "Fri, 08 May 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
     "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
     "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
     "published": "Fri, 08 May 2026 04:42:29 +0000",
@@ -740,71 +770,201 @@
     "fetchedAt": "2026-05-08"
   },
   {
-    "source": "TechCrunch",
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "published": "Thu, 07 May 2026 21:02:11 +0000",
+    "source": "TechNode",
+    "title": "PARIS’ VIVATECH ENTERS A NEW DIMENSION FOR ITS 10TH ANNIVERSARY",
+    "summary": "From June 17 to 20 June 2026, Porte de Versailles (Paris) will host the 10th edition of VivaTech, Europe’s largest event dedicated to startups and technology. The event has established itself as an unmissable meeting platform for the tech world, at the crossroads of innovation, business and the most important debates around technology, with AI at […]",
+    "url": "https://technode.com/2026/05/08/paris-vivatech-enters-a-new-dimension-for-its-10th-anniversary/",
+    "published": "Fri, 08 May 2026 10:16:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
   },
   {
-    "source": "TechCrunch",
-    "title": "Kalshi doubles valuation in 5 months, hitting $22B",
-    "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
-    "url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
-    "published": "Thu, 07 May 2026 18:02:59 +0000",
+    "source": "TechNode",
+    "title": "Kimi reportedly nears $2 billion funding round at over $20 billion valuation",
+    "summary": "Kimi developer Moonshot AI is close to completing a new $2 billion funding round that would value the company at more than $20 billion, according to LatePost. The round is reportedly led by Meituan’s Long-Z Fund, with China Mobile and CPE joining as investors. Moonshot AI had already completed three funding rounds in January and […]",
+    "url": "https://technode.com/2026/05/07/kimi-reportedly-nears-2-billion-funding-round-at-over-20-billion-valuation/",
+    "published": "Thu, 07 May 2026 03:06:07 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
   },
   {
-    "source": "TechCrunch",
-    "title": "Jeff Bezos rep leaves Slate Auto’s board",
-    "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
-    "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
-    "published": "Thu, 07 May 2026 17:54:46 +0000",
+    "source": "TechNode",
+    "title": "DeepSeek reportedly seeks first funding round at $45 billion valuation",
+    "summary": "China’s state-backed semiconductor investment vehicle, known as the Big Fund, is in talks to lead DeepSeek’s first external fundraising, which could value the AI company at about $45 billion, according to the Financial Times. Tencent is also among the investors still in discussions, though the final lineup has not been decided. The reported valuation is […]",
+    "url": "https://technode.com/2026/05/07/deepseek-reportedly-seeks-first-funding-round-at-45-billion-valuation/",
+    "published": "Thu, 07 May 2026 02:40:27 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
   },
   {
-    "source": "TechCrunch",
-    "title": "Google’s $9.99-per-month AI health coach launches May 19",
-    "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
-    "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
-    "published": "Thu, 07 May 2026 15:35:38 +0000",
+    "source": "TechNode",
+    "title": "Telecom giant China Mobile to launch AI-eSIM product",
+    "summary": "China Mobile said it will unveil its AI-eSIM product at the 2026 Mobile Cloud Conference, set to take place in Suzhou from May 7 to 9, as the state-owned telecom giant steps up efforts to integrate AI into connected devices. The AI-eSIM integrates what the company describes as an “intelligent brain,” capable of dynamically dispatching […]",
+    "url": "https://technode.com/2026/05/06/telecom-giant-china-mobile-to-launch-ai-esim-product/",
+    "published": "Wed, 06 May 2026 02:26:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Betting on human augmentation, will lightweight exoskeletons go mainstream?",
+    "summary": "Hypershell is trying to carve out a new category at the intersection of wearables and robotics. The Chinese startup focuses on lightweight exoskeletons for outdoor and everyday use, built around lower-limb assistance. Its system combines motors and onboard sensors to add power when walking or climbing, easing strain and improving efficiency. In form, it feels […]",
+    "url": "https://technode.com/2026/04/30/betting-on-human-augmentation-will-lightweight-exoskeletons-go-mainstream/",
+    "published": "Thu, 30 Apr 2026 08:08:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Oppo merges OnePlus and realme in major restructuring",
+    "summary": "An internal Oppo announcement revealed a major restructuring: OnePlus and realme have been formally merged to form a new sub-brand business unit. Li Bingzhong, founder of realme and Senior Vice President of Oppo, will head the unit, while Xu Qi, formerly President of realme’s global marketing and sales, will oversee the integrated marketing system for […]",
+    "url": "https://technode.com/2026/04/30/oppo-merges-oneplus-and-realme-in-major-restructuring/",
+    "published": "Thu, 30 Apr 2026 02:18:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Dreame Technology unveils rocket-assisted EV concept with 0.9-second acceleration",
+    "summary": "Dreame Technology on Monday unveiled an experimental high-performance vehicle equipped with rocket boosters at its DREAME NEXT global launch event in the US, as the company signaled ambitions beyond its core smart home business. The concept model, named Nebula Next 01 JET Edition, features a propulsion system that differs sharply from conventional electric vehicles. According […]",
+    "url": "https://technode.com/2026/04/28/dreame-technology-unveils-rocket-assisted-ev-concept-with-0-9-second-acceleration/",
+    "published": "Tue, 28 Apr 2026 08:33:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Capcom-licensed Monster Hunter Outlanders mobile game starts test in China on April 29",
+    "summary": "The mobile game Monster Hunter Outlanders, licensed by Capcom and developed by Tencent’s TiMi Studio Group, will begin its testing phase on April 29. This test will be a limited-availability, account-restricted, data-wipe beta with in-game purchases enabled, and is only open to Android devices equipped with Snapdragon 845 or higher processors and running Android 12.0 […]",
+    "url": "https://technode.com/2026/04/27/capcom-licensed-monster-hunter-outlanders-mobile-game-starts-test-in-china-on-april-29/",
+    "published": "Mon, 27 Apr 2026 08:37:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek V4 becomes default model for OpenClaw",
+    "summary": "The global open source agent framework OpenClaw released its 2026.4.24 version on Sunday, bringing both DeepSeek V4 models into its core ecosystem. V4 Flash, designed with 284 billion parameters and 13 billion activated parameters, is now the default model, delivering Max mode inference performance close to the 1.6 trillion parameter V4 Pro. Meanwhile, V4 Pro, […]",
+    "url": "https://technode.com/2026/04/27/deepseek-v4-becomes-default-model-for-openclaw/",
+    "published": "Mon, 27 Apr 2026 01:48:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek-V4 preview now available with open-source access",
+    "summary": "DeepSeek released a preview version of its new V4 model series and made it open source. The model supports an ultra-long context of up to one million tokens and shows improvements in agent capabilities, knowledge coverage, and reasoning performance. The V4 series comes in two versions: Pro and Flash. The Pro version targets high-performance use […]",
+    "url": "https://technode.com/2026/04/24/deepseek-v4-preview-now-available-with-open-source-access/",
+    "published": "Fri, 24 Apr 2026 07:23:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tech Odyssey Series: From Parkinson’s research to flour analytics, how Porto turns lab work into startups",
+    "summary": "Previous on Tech Odyssey: In our last episode, we visited Omniflow and saw how the company turned a streetlight pole into a standardized piece of urban infrastructure with charging, connectivity, and sensing built in. This time, we head to the University of Porto to look at where companies like that can come from. At the […]",
+    "url": "https://technode.com/2026/04/23/tech-odyssey-series-from-parkinsons-research-to-flour-analytics-how-porto-turns-lab-work-into-startups/",
+    "published": "Thu, 23 Apr 2026 09:48:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent’s QClaw opens international beta",
+    "summary": "QClaw, a consumer AI agent developed by the Tencent PC Manager team, has opened its international beta. The product is designed to let non-technical users deploy and interact with AI agents through messaging apps such as WhatsApp and Telegram without command-line setup or API configuration. The company said the international version was built in five […]",
+    "url": "https://technode.com/2026/04/21/tencents-qclaw-opens-international-beta/",
+    "published": "Tue, 21 Apr 2026 03:17:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei launches HarmonyOS AI smart glasses with camera and translation",
+    "summary": "Huawei today launched its first HarmonyOS-powered AI smart glasses, which come with a 12MP camera and support quick image capture in 0.7 seconds. They also offer AI-assisted framing and first-person video recording. The device includes Huawei’s Xiaoyi AI assistant that provides real-time video interaction and simultaneous translation in 42 languages. The frame uses aerospace-grade titanium […]",
+    "url": "https://technode.com/2026/04/20/huawei-launches-harmonyos-ai-smart-glasses-with-camera-and-real-time-translation/",
+    "published": "Mon, 20 Apr 2026 09:32:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi miclaw among first approved in China CAICT Claw evaluation",
+    "summary": "Xiaomi said its Xiaomi miclaw mobile intelligent agent has become one of the first systems to pass the China Academy of Information and Communications Technology (CAICT) Claw smartphone intelligent assistant evaluation, marking a regulatory approval for advanced on-device AI systems. The Chinese smartphone maker said Xiaomi miclaw is powered by its in-house Xiaomi MiMo large […]",
+    "url": "https://technode.com/2026/04/20/xiaomi-miclaw-becomes-one-of-the-first-to-pass-chinas-caict-mobile-intelligent-assistant-claw-evaluation/",
+    "published": "Mon, 20 Apr 2026 03:54:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "JD.com launches robot ambulance service, plans expansion to 50+ cities across China",
+    "summary": "JD.com on Wednesday launched its robot ambulance service, offering maintenance and repair solutions for humanoid robots, quadruped robots, AI companion robots, and more. The service covers basic repairs, fault diagnosis, battery replacement and recharging, testing and certification, cosmetic maintenance, and equipment recycling. Currently, JD.com’s robot ambulance is available in the Beijing area. Over the next […]",
+    "url": "https://technode.com/2026/04/16/jd-com-launches-robot-ambulance-service-plans-expansion-to-50-cities-across-china/",
+    "published": "Thu, 16 Apr 2026 02:06:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
   },
   {
     "source": "The Verge",
-    "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
-    "summary": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year over year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from $499.99 all the way up to $649.99. […]",
-    "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
-    "published": "2026-05-08T05:15:54-04:00",
+    "title": "All the latest updates on AI data centers",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. From audacious plans to launch data centers into […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "published": "2026-05-08T14:45:08-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
   },
   {
     "source": "The Verge",
-    "title": "Peak Design is taking up to 50 percent off some of our favorite camera bags",
-    "summary": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s most popular backpacks and bags, as well as a couple of other items, including camera accessories. Many Verge staffers are fans […]",
-    "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
-    "published": "2026-05-07T15:04:30-04:00",
+    "title": "The Steam Controller’s reservation queue is open",
+    "summary": "After quickly selling out of the Steam Controller on May 4th, Valve has launched a reservation system to ensure that you can get one without too much hassle. You may not get one as quickly as you'd like to, but at least you can now easily reserve the $99 controller. If your Steam account is […]",
+    "url": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
+    "published": "2026-05-08T12:59:42-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
   },
   {
-    "source": "The Verge",
-    "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
-    "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-    "published": "2026-05-07T14:00:00-04:00",
+    "source": "Hacker News",
+    "title": "DeepSeek Seeks Funding at $45B Valuation as China Backs Homegrown AI Rival",
+    "summary": "Article URL: https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/ Comments URL: https://news.ycombinator.com/item?id=48069927 Points: 1 # Comments: 0",
+    "url": "https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/",
+    "published": "Fri, 08 May 2026 23:14:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Banks are funding climate chaos. You don't have to",
+    "summary": "Article URL: https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/ Comments URL: https://news.ycombinator.com/item?id=48065332 Points: 15 # Comments: 4",
+    "url": "https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/",
+    "published": "Fri, 08 May 2026 16:27:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "iPhone Launch – Studio C (Comedy Sketch) [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=B7Ujn91mfAk Comments URL: https://news.ycombinator.com/item?id=48064766 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=B7Ujn91mfAk",
+    "published": "Fri, 08 May 2026 15:43:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-08"
@@ -812,7 +972,7 @@
   {
     "source": "Hacker News",
     "title": "Trump administration cut funding to study hantavirus",
-    "summary": "Article URL: https://www.scientificamerican.com/article/trump-administration-cut-funding-to-study-hantavirus-behind-deadly-cruise-ship-outbreak/ Comments URL: https://news.ycombinator.com/item?id=48056973 Points: 19 # Comments: 15",
+    "summary": "Article URL: https://www.scientificamerican.com/article/trump-administration-cut-funding-to-study-hantavirus-behind-deadly-cruise-ship-outbreak/ Comments URL: https://news.ycombinator.com/item?id=48056973 Points: 22 # Comments: 17",
     "url": "https://www.scientificamerican.com/article/trump-administration-cut-funding-to-study-hantavirus-behind-deadly-cruise-ship-outbreak/",
     "published": "Fri, 08 May 2026 00:35:38 +0000",
     "lang": "en",
@@ -980,16 +1140,6 @@
     "fetchedAt": "2026-05-08"
   },
   {
-    "source": "Hacker News",
-    "title": "Bash startup config file behavior (diagram)",
-    "summary": "Article URL: https://github.com/rezrov/shellrc/blob/master/bash-startup.png Comments URL: https://news.ycombinator.com/item?id=48022210 Points: 3 # Comments: 1",
-    "url": "https://github.com/rezrov/shellrc/blob/master/bash-startup.png",
-    "published": "Tue, 05 May 2026 13:22:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-08"
-  },
-  {
     "source": "V2EX",
     "title": "[送$10] 折腾出来的“满血版” Claude 4.7 / GPT-5.5/Gemini 接口站， Link-AI 邀 V 友内测，不仅是稳定，更是为了不降智",
     "summary": "官网地址： https://link-ai.cc 🤖 为什么要做 Link-AI.cc ？ 我自己目前在 Twitter (@norike0718) 公开构建 SaaS ，每天深度使用 API 。 在被各种账号封禁、API 降智（ Opus 跑出 Haiku 智商）折磨后，我决定自己折腾这个站。 身为开发者，最怕的不是 API 贵，而是 API “软”。 很多中转站为了省钱混入低价逆向渠道，导致 Sonnet 动不动就断联。我做 Link-AI 的初衷：把“满血”和“稳定”做到极致。 💡 我们的“硬核”保障 1️⃣ 真实满血渠道 我们主要对接 Clau",
@@ -999,8 +1149,22 @@
     "type": "community",
     "fetchedAt": "2026-05-08",
     "meta": {
-      "replies": 132,
+      "replies": 186,
       "node": "推广"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "高强度使用了半年 claude code 后，我终于无法忍受了，并且我发现了绝佳替代",
+    "summary": "# 直接上菜：[GenericAgent]( https://github.com/lsdefine/GenericAgent) https://github.com/lsdefine/GenericAgent > **本人基本信息**：国内某 top3 的计算机博士在读，大模型方向。 > > **最近对 cc 的使用情况**： > > ![]( https://iili.io/Bt7Xda2.png) 我最近在 github trending 上关注了 **GA** 这个项目，并**高强度使用了一周多（完全接管我的科研+生活）**，然后我就**卸载了 cc 、codex",
+    "url": "https://www.v2ex.com/t/1211200",
+    "published": 1778227025,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-05-08",
+    "meta": {
+      "replies": 102,
+      "node": "程序员"
     }
   }
 ]
