@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-08",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-08",
         "website": {},
@@ -463,7 +463,9 @@
         "website": {
           "website": "https://buildhop.io",
           "emails": [],
-          "socials": {},
+          "socials": {
+            "twitter": "JacobCounsell"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -496,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 14,
+      "discussionCount": 13,
       "contacts": {
         "fetchedAt": "2026-05-08",
         "website": {
@@ -1336,7 +1338,7 @@
       },
       "score": 78,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 4,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-08",
         "website": {
@@ -1527,7 +1529,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-08",
         "website": {
@@ -4672,100 +4674,28 @@
       }
     },
     {
-      "id": "chunlixinnengyuan",
-      "name": "北京纯锂新能源科技有限公司",
-      "desc": "全固态电池研发，自研复合电解质及超临界包覆工艺，实现10Ah/50Ah电芯量产",
+      "id": "xinghuanjuneng",
+      "name": "星环聚能",
+      "desc": "核聚变能源技术研发商，同步推进三代装置运行、建设与研发",
       "track": "newenergy",
-      "stage": "pre-a",
-      "city": "beijing",
+      "stage": "a+",
+      "city": "shanghai",
       "tags": [
-        "全固态电池",
-        "储能",
-        "动力电池"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2022-05",
-      "funding": "2026年5月完成数千万元Pre-A+轮融资，投资方为亦庄国投",
-      "scores": {
-        "tech": 85,
-        "growth": 70,
-        "team": 50,
-        "market": 80
-      },
-      "score": 72,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "rongxin-zhiyuan",
-      "name": "北京容芯致远科技有限公司",
-      "desc": "以GPU为核心的AI计算机系统架构（AGC），重构数据中心算力基础设施",
-      "track": "ai",
-      "stage": "angel",
-      "city": "beijing",
-      "tags": [
-        "AI Infra",
-        "GPU架构",
-        "算力优化"
-      ],
-      "team": [
-        {
-          "name": "石旭",
-          "role": "创始人",
-          "bg": "清华大学电子工程系毕业，芯片设计与AI领域多年从业经验"
-        }
-      ],
-      "product": "",
-      "founded": "2025",
-      "funding": "2026年5月完成天使轮数亿元融资，领投方为北京绿色能源和低碳产业基金与赛富投资基金",
-      "scores": {
-        "tech": 90,
-        "growth": 70,
-        "team": 80,
-        "market": 85
-      },
-      "score": 81,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "plaud",
-      "name": "Plaud",
-      "desc": "AI卡片录音笔，支持多语言实时转写和会议纪要生成",
-      "track": "consumer",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI硬件",
-        "录音笔",
-        "语音转录"
+        "核聚变",
+        "新能源",
+        "高温超导"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "",
+      "funding": "5亿元A+轮融资，累计融资超20亿元",
       "scores": {
-        "tech": 80,
-        "growth": 90,
-        "team": 60,
-        "market": 80
+        "tech": 85,
+        "growth": 80,
+        "team": 50,
+        "market": 90
       },
-      "score": 79,
+      "score": 78,
       "discoveredAt": "2026-05-08",
       "discussionCount": 1,
       "contacts": {
@@ -4777,34 +4707,147 @@
       }
     },
     {
-      "id": "lingjiedian",
-      "name": "上海临界点创新智能科技有限公司",
-      "desc": "机器人灵巧手研发与生产，由智元机器人拆分成立",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "shanghai",
+      "id": "fengyunkeji",
+      "name": "丰耘科技",
+      "desc": "以AI技术重构设施农业，提供温室优化设计和智能控制解决方案",
+      "track": "other",
+      "stage": "angel",
+      "city": "hangzhou",
       "tags": [
-        "灵巧手",
-        "末端执行器",
-        "机器人"
+        "AI",
+        "设施农业",
+        "数字孪生"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "天使轮融资，由森马集团独家投资，金额未披露",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 70
+      },
+      "score": 60,
+      "discoveredAt": "2026-05-08",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-08",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "familiar",
+      "name": "Familiar Machines",
+      "desc": "由iRobot创始人创立的消费机器人公司，打造人造赛博宠物",
+      "track": "robotics",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "消费机器人",
+        "宠物",
+        "具身智能"
       ],
       "team": [
         {
-          "name": "王闯",
-          "role": "法定代表人",
-          "bg": ""
+          "name": "Colin Angle",
+          "role": "创始人",
+          "bg": "iRobot共同创始人，家庭机器人先驱"
+        }
+      ],
+      "product": "",
+      "founded": "未知",
+      "funding": "未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 50,
+        "team": 95,
+        "market": 80
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-08",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-08",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "kimi",
+      "name": "月之暗面",
+      "desc": "研发大模型Kimi，提供AI助手服务，估值超200亿美元",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "大模型",
+        "AI助手",
+        "Agent"
+      ],
+      "team": [],
+      "product": "https://kimi.moonshot.cn",
+      "founded": "2023-04",
+      "funding": "累计融资超376亿人民币，最新估值超200亿美元",
+      "scores": {
+        "tech": 85,
+        "growth": 90,
+        "team": 80,
+        "market": 85
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-08",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-08",
+        "website": {
+          "website": "https://kimi.moonshot.cn",
+          "emails": [],
+          "socials": {},
+          "careerPage": "https://kimi.moonshot.cn/careers",
+          "jobListings": [
+            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "recursive",
+      "name": "Recursive Superintelligence",
+      "desc": "致力于让AI自主研究和进化，实现超级智能",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AGI",
+        "超级智能",
+        "自我进化"
+      ],
+      "team": [
+        {
+          "name": "Richard Socher",
+          "role": "CEO",
+          "bg": "前Salesforce首席科学家"
         }
       ],
       "product": "",
       "founded": "2026-01",
-      "funding": "2026年5月获腾讯、百度等投资，注册资本增至约597万人民币",
+      "funding": "5亿美元融资，估值40亿美元，GV领投，英伟达跟投",
       "scores": {
-        "tech": 85,
+        "tech": 95,
         "growth": 70,
-        "team": 75,
+        "team": 90,
         "market": 80
       },
-      "score": 78,
+      "score": 84,
       "discoveredAt": "2026-05-08",
       "discussionCount": 0,
       "contacts": {
@@ -4816,24 +4859,23 @@
       }
     },
     {
-      "id": "weifen",
-      "name": "微分智飞（杭州）科技有限公司",
-      "desc": "飞行具身智能研发商，专注无人机与AI融合",
-      "track": "robotics",
+      "id": "brano",
+      "name": "Brano Therapeutics",
+      "desc": "新加坡生物技术公司，获680万美元种子轮融资",
+      "track": "biotech",
       "stage": "seed",
-      "city": "hangzhou",
+      "city": "overseas",
       "tags": [
-        "具身智能",
-        "飞行机器人",
-        "AI"
+        "生物技术",
+        "药物研发"
       ],
       "team": [],
       "product": "",
-      "founded": "2024-07",
-      "funding": "获联想创投旗下基金等入股，金额未披露",
+      "founded": "",
+      "funding": "种子轮680万美元，由Trinity Innovation等领投",
       "scores": {
-        "tech": 50,
-        "growth": 50,
+        "tech": 60,
+        "growth": 40,
         "team": 50,
         "market": 50
       },
@@ -4849,214 +4891,28 @@
       }
     },
     {
-      "id": "starcycle",
-      "name": "星环聚能（StarCycle Energy）",
-      "desc": "可控核聚变技术研发商，推进商业化聚变能",
-      "track": "newenergy",
-      "stage": "a+",
-      "city": "shanghai",
-      "tags": [
-        "核聚变",
-        "清洁能源",
-        "高温超导磁体"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2021-01",
-      "funding": "完成5亿元A+轮融资，累计融资超20亿元",
-      "scores": {
-        "tech": 85,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 62,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fengyun",
-      "name": "丰耘科技（杭州）有限公司",
-      "desc": "AI驱动的设施农业解决方案提供商",
-      "track": "ai",
-      "stage": "angel",
-      "city": "hangzhou",
-      "tags": [
-        "AI农业",
-        "设施农业",
-        "数字孪生"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "完成天使轮融资，由森马集团独家投资，金额未披露",
-      "scores": {
-        "tech": 65,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "memorax-ai",
-      "name": "深圳忆纪元科技有限公司",
-      "desc": "大模型个性化记忆技术引领者，自主研发Agentic RL",
-      "track": "ai",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "大模型",
-        "记忆",
-        "Agentic RL",
-        "个性化"
-      ],
-      "team": [
-        {
-          "name": "郝建业",
-          "role": "创始人",
-          "bg": "天津大学菁英教授，国家优青，全球前2%科学家，顶会产出全球前十"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "完成千万美金种子轮融资，钟鼎资本等领投",
-      "scores": {
-        "tech": 90,
-        "growth": 30,
-        "team": 85,
-        "market": 70
-      },
-      "score": 67,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "kimi",
-      "name": "月之暗面 (Moonshot AI)",
-      "desc": "开发Kimi智能助手的大模型公司，近期完成20亿美元融资，估值超200亿美元。",
-      "track": "ai",
-      "stage": "b+",
-      "city": "beijing",
-      "tags": [
-        "大模型",
-        "AI助手",
-        "高融资"
-      ],
-      "team": [],
-      "product": "https://kimi.ai",
-      "founded": "2023-03",
-      "funding": "累计融资超39亿美元，估值超200亿美元",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 90,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {
-          "website": "https://kimi.ai",
-          "emails": [],
-          "socials": {},
-          "careerPage": "https://kimi.ai/careers",
-          "jobListings": [
-            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-          ]
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "pit",
-      "name": "Pit",
-      "desc": "AI startup by Voi founders, backed by a16z, focused on voice intelligence.",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "voice",
-        "stockholm"
-      ],
-      "team": [
-        {
-          "name": "Voi co-founders",
-          "role": "Co-founder",
-          "bg": "Co-founded European scooter giant Voi"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "$16M seed led by a16z",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 80,
-        "market": 70
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-08",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-08",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "skyroot",
       "name": "Skyroot Aerospace",
-      "desc": "印度首家航天独角兽，准备进行轨道发射",
+      "desc": "印度太空初创公司，开发小型卫星运载火箭，近期成为印度首家太空独角兽。",
       "track": "aerospace",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "航天",
+        "太空技术",
         "火箭",
-        "太空技术"
+        "印度"
       ],
       "team": [],
-      "product": "",
-      "founded": "2018-01",
-      "funding": "成为印度首个太空科技独角兽",
+      "product": null,
+      "founded": "2018-06",
+      "funding": "成为印度首家太空科技独角兽，估值超10亿美元",
       "scores": {
-        "tech": 75,
+        "tech": 80,
         "growth": 80,
         "team": 70,
         "market": 85
       },
-      "score": 78,
+      "score": 79,
       "discoveredAt": "2026-05-08",
       "discussionCount": 0,
       "contacts": {
@@ -5070,8 +4926,8 @@
     {
       "id": "testkube",
       "name": "Testkube",
-      "desc": "AI时代测试工具，推出Testkube AI",
-      "track": "saas",
+      "desc": "AI驱动的测试平台，利用AI重新定义软件测试。",
+      "track": "ai",
       "stage": "seed",
       "city": "overseas",
       "tags": [
@@ -5087,9 +4943,9 @@
         "tech": 60,
         "growth": 50,
         "team": 50,
-        "market": 65
+        "market": 60
       },
-      "score": 56,
+      "score": 55,
       "discoveredAt": "2026-05-08",
       "discussionCount": 0,
       "contacts": {
@@ -5107,6 +4963,53 @@
             "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
             "/* --- CONTAINER STYLES --- */",
             "Testkube AI is here. 🗓 See it live on May 21 → Register"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "link-ai",
+      "name": "Link-AI",
+      "desc": "AI API接口站，提供Claude/GPT/Gemini等模型访问，强调稳定和满血",
+      "track": "ai",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "AI",
+        "API",
+        "大模型"
+      ],
+      "team": [
+        {
+          "name": "norike0718",
+          "role": "创始人",
+          "bg": "开发者，公开构建SaaS"
+        }
+      ],
+      "product": "https://link-ai.cc",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 70,
+        "team": 60,
+        "market": 65
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-08",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-08",
+        "website": {
+          "website": "https://link-ai.cc",
+          "emails": [],
+          "socials": {},
+          "careerPage": "https://link-ai.cc/careers",
+          "jobListings": [
+            "content=\"统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。\""
           ]
         },
         "github": {},

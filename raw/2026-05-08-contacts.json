@@ -150,7 +150,9 @@
       "website": {
         "website": "https://buildhop.io",
         "emails": [],
-        "socials": {},
+        "socials": {
+          "twitter": "JacobCounsell"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -1730,8 +1732,8 @@
     }
   },
   {
-    "id": "chunlixinnengyuan",
-    "name": "北京纯锂新能源科技有限公司",
+    "id": "xinghuanjuneng",
+    "name": "星环聚能",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
@@ -1741,8 +1743,8 @@
     }
   },
   {
-    "id": "rongxin-zhiyuan",
-    "name": "北京容芯致远科技有限公司",
+    "id": "fengyunkeji",
+    "name": "丰耘科技",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
@@ -1752,63 +1754,8 @@
     }
   },
   {
-    "id": "plaud",
-    "name": "Plaud",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "lingjiedian",
-    "name": "上海临界点创新智能科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "weifen",
-    "name": "微分智飞（杭州）科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "starcycle",
-    "name": "星环聚能（StarCycle Energy）",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "fengyun",
-    "name": "丰耘科技（杭州）有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-08",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "memorax-ai",
-    "name": "深圳忆纪元科技有限公司",
+    "id": "familiar",
+    "name": "Familiar Machines",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
@@ -1819,14 +1766,14 @@
   },
   {
     "id": "kimi",
-    "name": "月之暗面 (Moonshot AI)",
+    "name": "月之暗面",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {
-        "website": "https://kimi.ai",
+        "website": "https://kimi.moonshot.cn",
         "emails": [],
         "socials": {},
-        "careerPage": "https://kimi.ai/careers",
+        "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
           "Kimi AI with K2.6 | Better Coding, Smarter Agents"
         ]
@@ -1837,8 +1784,19 @@
     }
   },
   {
-    "id": "pit",
-    "name": "Pit",
+    "id": "recursive",
+    "name": "Recursive Superintelligence",
+    "contacts": {
+      "fetchedAt": "2026-05-08",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "brano",
+    "name": "Brano Therapeutics",
     "contacts": {
       "fetchedAt": "2026-05-08",
       "website": {},
@@ -1876,6 +1834,25 @@
           "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
           "/* --- CONTAINER STYLES --- */",
           "Testkube AI is here. 🗓 See it live on May 21 → Register"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "link-ai",
+    "name": "Link-AI",
+    "contacts": {
+      "fetchedAt": "2026-05-08",
+      "website": {
+        "website": "https://link-ai.cc",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://link-ai.cc/careers",
+        "jobListings": [
+          "content=\"统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。\""
         ]
       },
       "github": {},
