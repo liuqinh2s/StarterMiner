@@ -1554,9 +1554,7 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com"
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -1816,37 +1814,11 @@
         "website": "https://link-ai.cc",
         "emails": [],
         "socials": {},
-        "careerPage": null,
-        "jobListings": []
+        "careerPage": "https://link-ai.cc/careers",
+        "jobListings": [
+          "content=\"统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。\""
+        ]
       },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "star-core-fusion",
-    "name": "星环聚能",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "https://www.shineray.com",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "fengyun-agri",
-    "name": "丰耘科技",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -1864,8 +1836,8 @@
     }
   },
   {
-    "id": "bairhino",
-    "name": "白犀牛智达（北京）科技有限公司",
+    "id": "starcycle",
+    "name": "星环聚能",
     "contacts": {
       "fetchedAt": "2026-05-09",
       "website": {},
@@ -1875,17 +1847,11 @@
     }
   },
   {
-    "id": "creatiai",
-    "name": "Creati.ai",
+    "id": "fengyun-agri",
+    "name": "丰耘科技",
     "contacts": {
       "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "https://www.buzzy.now",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -1926,26 +1892,7 @@
   },
   {
     "id": "kimi",
-    "name": "月之暗面（Moonshot AI）",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "https://kimi.moonshot.cn",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://kimi.moonshot.cn/careers",
-        "jobListings": [
-          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "magic-atom",
-    "name": "魔法原子 MagicLab",
+    "name": "月之暗面",
     "contacts": {
       "fetchedAt": "2026-05-09",
       "website": {},
@@ -1955,7 +1902,18 @@
     }
   },
   {
-    "id": "brano",
+    "id": "recursive-super",
+    "name": "Recursive Superintelligence",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "brano-therapeutics",
     "name": "Brano Therapeutics",
     "contacts": {
       "fetchedAt": "2026-05-09",
@@ -1966,8 +1924,8 @@
     }
   },
   {
-    "id": "basata",
-    "name": "Basata",
+    "id": "parker",
+    "name": "Parker",
     "contacts": {
       "fetchedAt": "2026-05-09",
       "website": {},
@@ -1982,7 +1940,7 @@
     "contacts": {
       "fetchedAt": "2026-05-09",
       "website": {
-        "website": "https://lakyus.com",
+        "website": "https://lakyus.com/live",
         "emails": [
           "support@lakyus.com"
         ],
@@ -1997,25 +1955,6 @@
           "Lakyus: The Autonomous AI COO",
           "Advanced GEO Capabilities & AI Discovery:"
         ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "pitchpit",
-    "name": "Pitch-Pit",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "https://pitchpit.app",
-        "emails": [
-          "hello@pitchpit.app"
-        ],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
       },
       "github": {},
       "hiring": [],
