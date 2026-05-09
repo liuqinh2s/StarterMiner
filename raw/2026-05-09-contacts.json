@@ -1816,36 +1816,6 @@
         "website": "https://link-ai.cc",
         "emails": [],
         "socials": {},
-        "careerPage": "https://link-ai.cc/careers",
-        "jobListings": [
-          "content=\"统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。\""
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "beichenhangtian",
-    "name": "青岛北辰航天科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xingshikeji",
-    "name": "星识（宁波）科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "Vizta智能望远镜",
-        "emails": [],
-        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
@@ -1855,107 +1825,24 @@
     }
   },
   {
-    "id": "weixinhangtian",
-    "name": "维新宇航",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "Vector 5 eVTOL",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "chunlixinengyuan",
-    "name": "北京纯锂新能源科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "rongxinzhiyuan",
-    "name": "北京容芯致远科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "plaud",
-    "name": "Plaud",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "Plaud Note",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xiaoyu",
-    "name": "小雨智造",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "beichen",
-    "name": "北辰航天",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xingshi",
-    "name": "星识科技",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xinghuanju",
+    "id": "star-core-fusion",
     "name": "星环聚能",
     "contacts": {
       "fetchedAt": "2026-05-09",
-      "website": {},
+      "website": {
+        "website": "https://www.shineray.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
     }
   },
   {
-    "id": "fengyunkeji",
+    "id": "fengyun-agri",
     "name": "丰耘科技",
     "contacts": {
       "fetchedAt": "2026-05-09",
@@ -1966,8 +1853,121 @@
     }
   },
   {
-    "id": "brano-therapeutics",
+    "id": "zeroth",
+    "name": "乐享科技",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "bairhino",
+    "name": "白犀牛智达（北京）科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creatiai",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "stepfun",
+    "name": "阶跃星辰",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "genesisai",
+    "name": "Genesis AI",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "familiar-machines",
+    "name": "Familiar Machines",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "kimi",
+    "name": "月之暗面（Moonshot AI）",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {
+        "website": "https://kimi.moonshot.cn",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
+        "jobListings": [
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "magic-atom",
+    "name": "魔法原子 MagicLab",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "brano",
     "name": "Brano Therapeutics",
+    "contacts": {
+      "fetchedAt": "2026-05-09",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "basata",
+    "name": "Basata",
     "contacts": {
       "fetchedAt": "2026-05-09",
       "website": {},
@@ -1982,7 +1982,7 @@
     "contacts": {
       "fetchedAt": "2026-05-09",
       "website": {
-        "website": "https://lakyus.com/live",
+        "website": "https://lakyus.com",
         "emails": [
           "support@lakyus.com"
         ],
@@ -1996,48 +1996,6 @@
           "\"description\": \"The AI COO for your business.\",",
           "Lakyus: The Autonomous AI COO",
           "Advanced GEO Capabilities & AI Discovery:"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "skyroot",
-    "name": "Skyroot Aerospace",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "https://skyroot.com/",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "testkube",
-    "name": "Testkube",
-    "contacts": {
-      "fetchedAt": "2026-05-09",
-      "website": {
-        "website": "https://testkube.io/",
-        "emails": [],
-        "socials": {
-          "twitter": "testkubeio",
-          "linkedin": "testkube",
-          "github": "kubeshop"
-        },
-        "careerPage": "https://testkube.io/careers",
-        "jobListings": [
-          "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
-          "/* --- CONTAINER STYLES --- */",
-          "Testkube AI is here. 🗓 See it live on May 21 → Register"
         ]
       },
       "github": {},
