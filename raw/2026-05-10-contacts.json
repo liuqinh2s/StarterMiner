@@ -1552,8 +1552,6 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
           "careers@latitudemedia.com"
@@ -1964,73 +1962,6 @@
     }
   },
   {
-    "id": "changyao",
-    "name": "长曜创新",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "beichen",
-    "name": "青岛北辰航天科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xingshi",
-    "name": "星识（宁波）科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {
-        "website": "Vizta智能望远镜",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "weixin",
-    "name": "维新宇航",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {
-        "website": "Vector 5",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "chunli",
-    "name": "北京纯锂新能源科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "xinghuan",
     "name": "星环聚能",
     "contacts": {
@@ -2042,8 +1973,19 @@
     }
   },
   {
-    "id": "fengyunkeji",
-    "name": "丰耘科技（杭州）有限公司",
+    "id": "fengyun",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-05-10",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "recursivesuperintelligence",
+    "name": "Recursive Superintelligence",
     "contacts": {
       "fetchedAt": "2026-05-10",
       "website": {},
@@ -2064,106 +2006,11 @@
     }
   },
   {
-    "id": "moonshotai",
-    "name": "Moonshot AI",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "skyroot",
     "name": "Skyroot Aerospace",
     "contacts": {
       "fetchedAt": "2026-05-10",
-      "website": {
-        "website": "https://skyroot.in/",
-        "emails": [],
-        "socials": {
-          "twitter": "SkyrootA",
-          "linkedin": "skyroot-aerospace"
-        },
-        "careerPage": "https://skyroot.in/careers",
-        "jobListings": [
-          "Procurement Engineer - Avionics",
-          "Methods Engineer - Composites",
-          "Lead Methods Engineer",
-          "Welding Engineer-Aerospace",
-          "Cryogenic Propulsion Test Engineer",
-          "Hardware Design Engineer - Avionics",
-          "Valve Design Engineer"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "testkube",
-    "name": "Testkube",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {
-        "website": "https://testkube.io/",
-        "emails": [],
-        "socials": {
-          "twitter": "testkubeio",
-          "linkedin": "testkube",
-          "github": "kubeshop"
-        },
-        "careerPage": "https://testkube.io/careers",
-        "jobListings": [
-          "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
-          "/* --- CONTAINER STYLES --- */",
-          "Testkube AI is here. 🗓 See it live on May 21 → Register"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "plausible",
-    "name": "Plausible Analytics",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {
-        "website": "https://plausible.io/",
-        "emails": [
-          "hello@plausible.io"
-        ],
-        "socials": {
-          "twitter": "PlausibleHQ",
-          "linkedin": "plausible-analytics",
-          "github": "plausible"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "pitchpit",
-    "name": "PitchPit",
-    "contacts": {
-      "fetchedAt": "2026-05-10",
-      "website": {
-        "website": "https://pitchpit.app",
-        "emails": [
-          "hello@pitchpit.app"
-        ],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
