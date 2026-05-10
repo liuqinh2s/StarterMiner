@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 21,
+      "discussionCount": 19,
       "contacts": {
         "fetchedAt": "2026-05-10",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 21,
+      "discussionCount": 19,
       "contacts": {
         "fetchedAt": "2026-05-10",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 21,
+      "discussionCount": 19,
       "contacts": {
         "fetchedAt": "2026-05-10",
         "website": {
@@ -1266,7 +1266,7 @@
       },
       "score": 82,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-10",
         "website": {},
@@ -3988,7 +3988,7 @@
       },
       "score": 58,
       "discoveredAt": "2026-05-06",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-10",
         "website": {},
@@ -4228,11 +4228,11 @@
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com"
+            "careers@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -5342,32 +5342,32 @@
     {
       "id": "changyao",
       "name": "长曜创新",
-      "desc": "智能庭院机器人研发，主打无边界割草机器人及庭院全生态",
-      "track": "hardtech",
-      "stage": "a+",
-      "city": "other",
+      "desc": "专注户外庭院智能硬件，无边界割草机器人研发制造",
+      "track": "robotics",
+      "stage": "a",
+      "city": "shenzhen",
       "tags": [
+        "庭院机器人",
         "割草机器人",
-        "庭院智能",
-        "机器人"
+        "智能硬件"
       ],
       "team": [
         {
           "name": "胡岳",
           "role": "创始人",
-          "bg": "未披露"
+          "bg": "未知"
         }
       ],
       "product": "",
       "founded": "2022-01",
-      "funding": "A+轮数千万元，累计超亿元，盈峰环境领投",
+      "funding": "2025年12月A轮，2026年5月A+轮，累计超亿元",
       "scores": {
-        "tech": 80,
-        "growth": 75,
-        "team": 60,
-        "market": 85
+        "tech": 75,
+        "growth": 80,
+        "team": 50,
+        "market": 80
       },
-      "score": 76,
+      "score": 72,
       "discoveredAt": "2026-05-10",
       "discussionCount": 1,
       "contacts": {
@@ -5380,27 +5380,27 @@
     },
     {
       "id": "beichen",
-      "name": "北辰航天",
-      "desc": "航空航天电气系统互联组件方案商，提供设计到组装全链条服务",
+      "name": "青岛北辰航天科技有限公司",
+      "desc": "航空航天电气系统互联组件方案商，提供全链条服务",
       "track": "aerospace",
       "stage": "angel",
       "city": "qingdao",
       "tags": [
-        "航天电气",
-        "电缆网",
+        "航空航天",
+        "电气互联",
         "商业航天"
       ],
       "team": [],
       "product": "",
       "founded": "2025-01",
-      "funding": "天使轮数千万元，云启资本投资",
+      "funding": "数千万天使轮，云启资本投资",
       "scores": {
-        "tech": 85,
-        "growth": 50,
+        "tech": 80,
+        "growth": 60,
         "team": 50,
         "market": 70
       },
-      "score": 64,
+      "score": 66,
       "discoveredAt": "2026-05-10",
       "discussionCount": 1,
       "contacts": {
@@ -5413,33 +5413,33 @@
     },
     {
       "id": "xingshi",
-      "name": "星识科技",
-      "desc": "智能影像技术研发，推出AI智能望远镜，实现远景观测与拍摄一体化",
+      "name": "星识（宁波）科技有限公司",
+      "desc": "智能影像技术研发与硬件制造，推出AI智能望远镜",
       "track": "consumer",
       "stage": "angel",
       "city": "ningbo",
       "tags": [
-        "AI望远镜",
-        "智能硬件",
-        "影像"
+        "智能望远镜",
+        "AI影像",
+        "硬件"
       ],
       "team": [
         {
-          "name": "未披露",
+          "name": "00后创业者",
           "role": "创始人",
-          "bg": "浙大00后创业者"
+          "bg": "浙江大学"
         }
       ],
       "product": "Vizta智能望远镜",
-      "founded": "2024-01",
-      "funding": "天使+和天使++轮累计数千万元，高秉强、蓝驰创投领投",
+      "founded": "2022-01",
+      "funding": "累计数千万，天使+轮和天使++轮",
       "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 80,
-        "market": 65
+        "tech": 70,
+        "growth": 65,
+        "team": 60,
+        "market": 60
       },
-      "score": 72,
+      "score": 64,
       "discoveredAt": "2026-05-10",
       "discussionCount": 1,
       "contacts": {
@@ -5459,32 +5459,32 @@
     {
       "id": "weixin",
       "name": "维新宇航",
-      "desc": "大载客量eVTOL/eCTOL产品研制，主打7座3吨级纯电复合翼飞行器",
+      "desc": "低空出行产品研制商，主打大载客量eVTOL",
       "track": "aerospace",
       "stage": "angel",
-      "city": "other",
+      "city": "chengdu",
       "tags": [
         "eVTOL",
-        "低空出行",
-        "应急救援"
+        "低空经济",
+        "飞行器"
       ],
       "team": [
         {
           "name": "何威",
           "role": "创始人兼CEO",
-          "bg": "未披露"
+          "bg": "未知"
         }
       ],
       "product": "Vector 5",
       "founded": "2023-01",
-      "funding": "天使+轮数千万元，累计超亿元，策源资本领投",
+      "funding": "数千万天使+轮，累计超亿元",
       "scores": {
-        "tech": 80,
+        "tech": 75,
         "growth": 70,
-        "team": 60,
-        "market": 80
+        "team": 50,
+        "market": 75
       },
-      "score": 73,
+      "score": 68,
       "discoveredAt": "2026-05-10",
       "discussionCount": 1,
       "contacts": {
@@ -5503,27 +5503,27 @@
     },
     {
       "id": "chunli",
-      "name": "纯锂新能源",
-      "desc": "全固态电池研发，自研复合电解质及超临界包覆工艺，已量产50Ah电芯",
+      "name": "北京纯锂新能源科技有限公司",
+      "desc": "全固态电池研发商，自研复合电解质技术",
       "track": "newenergy",
       "stage": "pre-a",
       "city": "beijing",
       "tags": [
         "固态电池",
-        "储能",
-        "新能源"
+        "新能源",
+        "储能"
       ],
       "team": [],
       "product": "",
       "founded": "2022-05",
-      "funding": "Pre-A+轮数千万元，亦庄国投投资",
+      "funding": "数千万Pre-A+轮，亦庄国投投资",
       "scores": {
-        "tech": 85,
-        "growth": 65,
+        "tech": 80,
+        "growth": 60,
         "team": 50,
-        "market": 80
+        "market": 75
       },
-      "score": 71,
+      "score": 67,
       "discoveredAt": "2026-05-10",
       "discussionCount": 1,
       "contacts": {
@@ -5535,28 +5535,28 @@
       }
     },
     {
-      "id": "xinghuanjuneng",
+      "id": "xinghuan",
       "name": "星环聚能",
-      "desc": "可控核聚变技术公司，推进托卡马克装置研发与商业化",
+      "desc": "可控核聚变技术研发商，专注球形托卡马克装置与聚变工程转化",
       "track": "newenergy",
-      "stage": "a",
+      "stage": "a/b+",
       "city": "shanghai",
       "tags": [
-        "可控核聚变",
+        "核聚变",
         "托卡马克",
-        "高温超导"
+        "高温超导磁体"
       ],
       "team": [],
       "product": "",
-      "founded": "2021-06",
-      "funding": "A+轮5亿元，累计超20亿元",
+      "founded": "2021-01",
+      "funding": "2026年完成5亿元A+轮融资，累计融资超20亿元",
       "scores": {
-        "tech": 90,
+        "tech": 80,
         "growth": 70,
         "team": 70,
-        "market": 80
+        "market": 70
       },
-      "score": 78,
+      "score": 73,
       "discoveredAt": "2026-05-10",
       "discussionCount": 0,
       "contacts": {
@@ -5569,99 +5569,27 @@
     },
     {
       "id": "fengyunkeji",
-      "name": "丰耘科技",
-      "desc": "AI+农业科技公司，用AI技术重构设施农业",
-      "track": "ai",
+      "name": "丰耘科技（杭州）有限公司",
+      "desc": "AI+设施农业，提供温室优化设计与智能决策系统",
+      "track": "hardtech",
       "stage": "angel",
       "city": "hangzhou",
       "tags": [
         "AI农业",
-        "设施农业",
-        "数字孪生"
+        "数字孪生",
+        "设施农业"
       ],
       "team": [],
       "product": "",
       "founded": "2025-01",
-      "funding": "天使轮，森马集团独家投资",
+      "funding": "2026年天使轮融资，由森马集团独家投资",
       "scores": {
-        "tech": 70,
-        "growth": 40,
+        "tech": 60,
+        "growth": 50,
         "team": 50,
-        "market": 60
+        "market": 70
       },
-      "score": 55,
-      "discoveredAt": "2026-05-10",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-10",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "dunengkeji",
-      "name": "度能科技",
-      "desc": "工商业储能产品及解决方案服务商",
-      "track": "newenergy",
-      "stage": "a",
-      "city": "xiamen",
-      "tags": [
-        "工商储",
-        "EMS",
-        "储能"
-      ],
-      "team": [
-        {
-          "name": "",
-          "role": "创始团队",
-          "bg": "华为数字能源背景"
-        }
-      ],
-      "product": "",
-      "founded": "2023-09",
-      "funding": "A轮数亿元，协鑫集团领投",
-      "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 80,
-        "market": 85
-      },
-      "score": 76,
-      "discoveredAt": "2026-05-10",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-10",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zhangxue",
-      "name": "张雪机车",
-      "desc": "中国摩托车制造商，在WSBK赛事中夺得冠军",
-      "track": "hardtech",
-      "stage": "seed",
-      "city": "chongqing",
-      "tags": [
-        "摩托车",
-        "赛事",
-        "中国制造"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2022-01",
-      "funding": "暂无信息",
-      "scores": {
-        "tech": 50,
-        "growth": 60,
-        "team": 50,
-        "market": 50
-      },
-      "score": 53,
+      "score": 57,
       "discoveredAt": "2026-05-10",
       "discussionCount": 0,
       "contacts": {
@@ -5675,13 +5603,14 @@
     {
       "id": "brano",
       "name": "Brano Therapeutics",
-      "desc": "新加坡生物技术公司，专注创新型疗法研发",
+      "desc": "新加坡生物技术公司，专注创新疗法研发",
       "track": "biotech",
       "stage": "seed",
       "city": "overseas",
       "tags": [
         "生物技术",
-        "新药研发"
+        "融资",
+        "新加坡"
       ],
       "team": [],
       "product": "",
@@ -5705,16 +5634,213 @@
       }
     },
     {
+      "id": "moonshotai",
+      "name": "Moonshot AI",
+      "desc": "开发Kimi大模型的AI公司，估值超200亿美元",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "AI大模型",
+        "Kimi",
+        "高估值"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2023",
+      "funding": "接近完成20亿美元融资，由美团龙珠领投，中国移动、CPE跟投，估值超200亿美元",
+      "scores": {
+        "tech": 90,
+        "growth": 95,
+        "team": 90,
+        "market": 95
+      },
+      "score": 92,
+      "discoveredAt": "2026-05-10",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-10",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "skyroot",
+      "name": "Skyroot Aerospace",
+      "desc": "印度首家太空科技独角兽，致力于开发低成本火箭发射服务。",
+      "track": "aerospace",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "space tech",
+        "rocket",
+        "unicorn"
+      ],
+      "team": [
+        {
+          "name": "Naga Bharath Daka",
+          "role": "CEO",
+          "bg": "前ISRO科学家"
+        },
+        {
+          "name": "Pawan Kumar Chandana",
+          "role": "CTO",
+          "bg": "前ISRO火箭工程师"
+        }
+      ],
+      "product": "https://skyroot.in/",
+      "founded": "2018-12",
+      "funding": "2026年成为独角兽，累计融资超3亿美元",
+      "scores": {
+        "tech": 85,
+        "growth": 90,
+        "team": 80,
+        "market": 75
+      },
+      "score": 84,
+      "discoveredAt": "2026-05-10",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-10",
+        "website": {
+          "website": "https://skyroot.in/",
+          "emails": [],
+          "socials": {
+            "twitter": "SkyrootA",
+            "linkedin": "skyroot-aerospace"
+          },
+          "careerPage": "https://skyroot.in/careers",
+          "jobListings": [
+            "Procurement Engineer - Avionics",
+            "Methods Engineer - Composites",
+            "Lead Methods Engineer",
+            "Welding Engineer-Aerospace",
+            "Cryogenic Propulsion Test Engineer",
+            "Hardware Design Engineer - Avionics",
+            "Valve Design Engineer"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "testkube",
+      "name": "Testkube",
+      "desc": "云原生测试平台，推出AI驱动测试解决方案Testkube AI。",
+      "track": "saas",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "testing",
+        "kubernetes",
+        "AI"
+      ],
+      "team": [],
+      "product": "https://testkube.io/",
+      "founded": "2021-01",
+      "funding": "2024年A轮融资1600万美元",
+      "scores": {
+        "tech": 75,
+        "growth": 60,
+        "team": 50,
+        "market": 70
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-10",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-10",
+        "website": {
+          "website": "https://testkube.io/",
+          "emails": [],
+          "socials": {
+            "twitter": "testkubeio",
+            "linkedin": "testkube",
+            "github": "kubeshop"
+          },
+          "careerPage": "https://testkube.io/careers",
+          "jobListings": [
+            "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
+            "/* --- CONTAINER STYLES --- */",
+            "Testkube AI is here. 🗓 See it live on May 21 → Register"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "plausible",
+      "name": "Plausible Analytics",
+      "desc": "开源、隐私友好的网站分析工具，强调简单和透明。",
+      "track": "saas",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "analytics",
+        "open source",
+        "privacy"
+      ],
+      "team": [
+        {
+          "name": "Uku Taht",
+          "role": "CEO",
+          "bg": "前CTO of Teleport"
+        },
+        {
+          "name": "Marko Saric",
+          "role": "COO",
+          "bg": "前产品经理"
+        }
+      ],
+      "product": "https://plausible.io/",
+      "founded": "2019-01",
+      "funding": "2024年B轮融资1600万美元",
+      "scores": {
+        "tech": 70,
+        "growth": 80,
+        "team": 65,
+        "market": 75
+      },
+      "score": 73,
+      "discoveredAt": "2026-05-10",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-10",
+        "website": {
+          "website": "https://plausible.io/",
+          "emails": [
+            "hello@plausible.io"
+          ],
+          "socials": {
+            "twitter": "PlausibleHQ",
+            "linkedin": "plausible-analytics",
+            "github": "plausible"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
       "id": "pitchpit",
       "name": "PitchPit",
-      "desc": "AI评分初创想法，社区投票，最佳想法被构建",
+      "desc": "AI驱动的创业点子评估平台，通过众投决定构建哪个项目",
       "track": "ai",
-      "stage": "idea",
-      "city": "other",
+      "stage": "unknown",
+      "city": "overseas",
       "tags": [
         "AI",
-        "创业社区",
-        "投票"
+        "crowdsourcing",
+        "startup ideas"
       ],
       "team": [],
       "product": "https://pitchpit.app",
@@ -5736,118 +5862,6 @@
           "emails": [
             "hello@pitchpit.app"
           ],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "oceandatacenter",
-      "name": "Ocean Data Centre",
-      "desc": "波浪能驱动的海洋数据中心，获Peter Thiel投资",
-      "track": "hardtech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "海洋",
-        "数据中心",
-        "波浪能",
-        "可再生能源"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": "10亿美元融资，Peter Thiel支持",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 60,
-        "market": 70
-      },
-      "score": 59,
-      "discoveredAt": "2026-05-10",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-10",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fusionrocket",
-      "name": "Fusion Rocket Startup",
-      "desc": "成功点燃世界首枚聚变火箭的初创公司",
-      "track": "aerospace",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "核聚变",
-        "火箭",
-        "航天"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": "未披露",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 50,
-        "market": 60
-      },
-      "score": 61,
-      "discoveredAt": "2026-05-10",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-10",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "clackyai",
-      "name": "ClackyAI",
-      "desc": "开源AI Agent，号称最省Token，可本地运行",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "AI Agent",
-        "开源",
-        "Token优化"
-      ],
-      "team": [
-        {
-          "name": "李亚飞",
-          "role": "创始人",
-          "bg": "连续创业者"
-        }
-      ],
-      "product": "https://clackyai.com（推测）",
-      "founded": null,
-      "funding": null,
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 60,
-        "market": 60
-      },
-      "score": 63,
-      "discoveredAt": "2026-05-10",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-10",
-        "website": {
-          "website": "https://clackyai.com（推测）",
-          "emails": [],
           "socials": {},
           "careerPage": null,
           "jobListings": []
@@ -9768,10 +9782,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
       "url": "https://36kr.com/p/3802822550839047?f=rss",
-      "snippet": "俄罗斯电商Ozon高增长，中国卖家进入俄语区有红利。",
+      "snippet": "俄罗斯电商Ozon高增长，中国卖家面临新机会。",
       "date": "2026-05-10",
       "likes": 0,
       "comments": 0,
@@ -9779,10 +9793,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
       "url": "https://36kr.com/p/3801745491943169?f=rss",
-      "snippet": "长曜创新完成A+轮融资，专注无边界割草机器人，全球化布局。",
+      "snippet": "智能庭院机器人公司长曜创新完成数千万元A+融资，累计超亿元。",
       "date": "2026-05-10",
       "likes": 0,
       "comments": 0,
@@ -9790,10 +9804,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "AI开始接管年轻人的「精神自留地」",
       "url": "https://36kr.com/p/3801461350702855?f=rss",
-      "snippet": "灵光APP等AI应用提供情绪价值，但文章未聚焦具体公司。",
+      "snippet": "讨论AI情绪价值产品，提及灵光APP等，但无具体初创公司。",
       "date": "2026-05-09",
       "likes": 0,
       "comments": 0,
@@ -9801,10 +9815,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
       "url": "https://36kr.com/p/3801398177324550?f=rss",
-      "snippet": "北辰航天天使轮融资，国内唯一全链条民营航天电气互联服务商。",
+      "snippet": "北辰航天完成数千万天使轮，提供航空航天电气互联全链条服务。",
       "date": "2026-05-09",
       "likes": 0,
       "comments": 0,
@@ -9812,10 +9826,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
       "url": "https://36kr.com/p/3797202414820359?f=rss",
-      "snippet": "星识科技连续融资，推出AI智能望远镜Vizta，众筹数百万。",
+      "snippet": "星识科技连续完成天使+轮和天使++轮，累计数千万，推出AI望远镜。",
       "date": "2026-05-09",
       "likes": 0,
       "comments": 0,
@@ -9823,10 +9837,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
       "url": "https://36kr.com/p/3801348046151428?f=rss",
-      "snippet": "DeepSeek拟募资500亿元，成中国AI最大融资。",
+      "snippet": "DeepSeek拟募资500亿元，其他热点新闻。",
       "date": "2026-05-09",
       "likes": 0,
       "comments": 0,
@@ -9834,10 +9848,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
       "url": "https://36kr.com/p/3800495686163721?f=rss",
-      "snippet": "维新宇航天使+轮融资，Vector 5 eVTOL框架机已首飞，7月全尺寸首飞。",
+      "snippet": "维新宇航完成数千万元天使+轮，Vector 5 eVTOL将首飞。",
       "date": "2026-05-08",
       "likes": 0,
       "comments": 0,
@@ -9845,10 +9859,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
       "url": "https://36kr.com/p/3800183520091398?f=rss",
-      "snippet": "问界M6发布，定价25.98万起，争夺年轻群体。非初创公司。",
+      "snippet": "问界M6发布，定位25-30万主流SUV市场。",
       "date": "2026-05-08",
       "likes": 0,
       "comments": 0,
@@ -9856,10 +9870,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
       "url": "https://36kr.com/p/3799028783439111?f=rss",
-      "snippet": "小红书成立AI一级部门Dots，但本身非初创公司。",
+      "snippet": "小红书成立AI一级部门Dots，加速AI布局。",
       "date": "2026-05-08",
       "likes": 0,
       "comments": 0,
@@ -9867,10 +9881,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36Kr",
+      "sourceIcon": "36氪",
       "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
       "url": "https://36kr.com/p/3800022823951363?f=rss",
-      "snippet": "纯锂新能源Pre-A+轮融资，自研全固态电池已量产50Ah电芯。",
+      "snippet": "纯锂新能源完成数千万元Pre-A+轮，全固态电池量产。",
       "date": "2026-05-08",
       "likes": 0,
       "comments": 0,
@@ -9879,75 +9893,20 @@
     {
       "source": "钛媒体",
       "sourceIcon": "钛",
-      "title": "阿里的爱，需要理由",
-      "url": "https://www.tmtpost.com/7982460.html",
-      "snippet": "传阿里跟DeepSeek因融资条款谈崩了。",
+      "title": "“马嘉祺”终于被大模型“稳稳接住”了",
+      "url": "https://www.tmtpost.com/7982777.html",
+      "snippet": "前有ChatGPT“稳稳接住你”，后有MiniMax不认识“马嘉祺”。",
       "date": "2026-05-10",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "deepseek"
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛",
-      "title": "从75亿估值到被申请破产，网红自嗨锅“凉”了",
-      "url": "https://www.tmtpost.com/7982454.html",
-      "snippet": "从百草味到自嗨锅，蔡红亮的两度创业，一次以卖身收场，一次则走向破产边缘。",
-      "date": "2026-05-10",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」",
-      "url": "http://www.geekpark.net/news/363934",
-      "snippet": "Altman「官宣」OpenAI 手机...英伟达今年已承诺投入 400 亿美元押注 AI 股权投资",
-      "date": "2026-05-10",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道",
-      "url": "http://www.geekpark.net/news/363933",
-      "snippet": "Google 发布 Fitbit Air 健康手环，无屏幕，AI 订阅服务。",
-      "date": "2026-05-09",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "苹果和英特尔，分手六年后，又「在一起」了",
-      "url": "http://www.geekpark.net/news/363920",
-      "snippet": "苹果与英特尔重新合作，由英特尔代工苹果芯片。",
-      "date": "2026-05-09",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客",
-      "title": "Anthropic 估值逼近 1 万亿美元；OpenAI 推出 Codex Chrome 扩展；消息称腾讯实习生大涨薪，百度「全员晋升」｜极客早知道",
-      "url": "http://www.geekpark.net/news/363869",
-      "snippet": "OpenAI 推出 Codex Chrome 扩展等科技新闻。",
-      "date": "2026-05-09",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
+      "relatedProject": "minimax"
     },
     {
       "source": "爱范儿",
       "sourceIcon": "爱范",
       "title": "早报｜小米增程SUV 曝光，但不叫YU9/苹果与英特尔达成初步芯片代工协议/Cloudflare用AI裁掉20%员工",
       "url": "https://www.ifanr.com/1665264?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "小米汽车人事分工调整；索尼与台积电合作；Google面试允许使用AI助手等",
+      "snippet": "小米汽车人事分工调整：前特斯拉上海工厂厂长宋钢接管生产制造 · 索尼与台积电官宣合作开发下一代图像传感器 · Google 面试将允许使用 AI 助手",
       "date": "2026-05-09",
       "likes": 0,
       "comments": 0,
@@ -9958,33 +9917,121 @@
       "sourceIcon": "爱范",
       "title": "9.48 万元起，铂智 3X 年款升级，增配不加价，入门也有高阶泊车",
       "url": "https://www.ifanr.com/1665182?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "snippet": "广汽新能源车型铂智3X年款升级，增配不加价",
+      "snippet": "一款车盘活整个广汽新能源。",
       "date": "2026-05-08",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "微博",
-      "sourceIcon": "微博",
-      "title": "#DeepSeek被曝融资500亿#",
-      "url": "https://s.weibo.com/weibo?q=%23DeepSeek被曝融资500亿%23",
-      "snippet": "传闻DeepSeek融资500亿人民币",
-      "date": "2026-05-10",
-      "likes": 238817,
+      "source": "The Verge",
+      "sourceIcon": "TV",
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "snippet": "AI数据中心扩张引发全球对电网、社区和环境的争议。",
+      "date": "2026-05-08",
+      "likes": 0,
       "comments": 0,
-      "relatedProject": "deepseek"
+      "relatedProject": null
     },
     {
-      "source": "V2EX",
-      "sourceIcon": "v2ex",
-      "title": "同样 3 个任务，他们花了 30 美金，我们 5 美金 —— OpenClacky 1.0 发布，最省 Token 的开源 AI Agent",
-      "url": "https://www.v2ex.com/t/1211434",
-      "snippet": "ClackyAI发布开源AI Agent OpenClacky，号称最省Token",
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "AI Startup's Software Watches Employees as They Work",
+      "url": "https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/",
+      "snippet": "一家AI初创公司开发监控员工工作效率的软件。",
       "date": "2026-05-10",
-      "likes": 0,
-      "comments": 45,
-      "relatedProject": "clackyai"
+      "likes": 3,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Startup Skills",
+      "url": "https://github.com/dhruvhanda15-dev/startupskills",
+      "snippet": "GitHub上的创业技能学习项目。",
+      "date": "2026-05-09",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Banks are funding climate chaos. You don't have to",
+      "url": "https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/",
+      "snippet": "揭示银行资助气候混乱，呼吁个人行动。",
+      "date": "2026-05-08",
+      "likes": 15,
+      "comments": 4,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "iPhone Launch – Studio C (Comedy Sketch) [video]",
+      "url": "https://www.youtube.com/watch?v=B7Ujn91mfAk",
+      "snippet": "Studio C喜剧短片模仿iPhone发布会。",
+      "date": "2026-05-08",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Trump administration cut funding to study hantavirus",
+      "url": "https://www.scientificamerican.com/article/trump-administration-cut-funding-to-study-hantavirus-behind-deadly-cruise-ship-outbreak/",
+      "snippet": "特朗普政府削减汉坦病毒研究资金，该病毒与游轮疫情相关。",
+      "date": "2026-05-08",
+      "likes": 22,
+      "comments": 19,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
+      "url": "https://news.ycombinator.com/item?id=48050321",
+      "snippet": "Skyroot Aerospace成为印度首家太空科技独角兽，准备进行轨道发射。",
+      "date": "2026-05-07",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "skyroot"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The Future of Testing Is Here (Testkube AI Launch)",
+      "url": "https://news.ycombinator.com/item?id=48049884",
+      "snippet": "Testkube推出AI驱动的测试解决方案Testkube AI。",
+      "date": "2026-05-07",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": "testkube"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "The boring way to build a startup",
+      "url": "https://news.ycombinator.com/item?id=48045562",
+      "snippet": "Plausible Analytics创始人分享低调建立创业公司的经验。",
+      "date": "2026-05-07",
+      "likes": 3,
+      "comments": 2,
+      "relatedProject": "plausible"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "AI evaluation startup Braintrust confirms breach",
+      "url": "https://news.ycombinator.com/item?id=48042494",
+      "snippet": "Braintrust确认安全漏洞，建议所有客户轮换敏感密钥。",
+      "date": "2026-05-06",
+      "likes": 4,
+      "comments": 1,
+      "relatedProject": "braintrust"
     }
   ]
 }
