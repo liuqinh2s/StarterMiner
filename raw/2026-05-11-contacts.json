@@ -537,7 +537,6 @@
       "website": {
         "website": "https://www.ideavalu.com",
         "emails": [
-          "soichiro10025016@gmail.com",
           "ideavalu@gmail.com"
         ],
         "socials": {
@@ -2017,7 +2016,7 @@
     }
   },
   {
-    "id": "weita",
+    "id": "vita",
     "name": "维他动力",
     "contacts": {
       "fetchedAt": "2026-05-11",
@@ -2050,8 +2049,8 @@
     }
   },
   {
-    "id": "weixinhangtian",
-    "name": "维新宇航",
+    "id": "dunengkeji",
+    "name": "度能科技（厦门）有限公司",
     "contacts": {
       "fetchedAt": "2026-05-11",
       "website": {},
@@ -2061,52 +2060,8 @@
     }
   },
   {
-    "id": "luming",
-    "name": "鹿明机器人",
-    "contacts": {
-      "fetchedAt": "2026-05-11",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "weita",
-    "name": "维他动力",
-    "contacts": {
-      "fetchedAt": "2026-05-11",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "suxin",
-    "name": "北京塑新科技",
-    "contacts": {
-      "fetchedAt": "2026-05-11",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xinghuanjv",
-    "name": "星环聚能",
-    "contacts": {
-      "fetchedAt": "2026-05-11",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "recursive-si",
-    "name": "Recursive Superintelligence",
+    "id": "config",
+    "name": "Config",
     "contacts": {
       "fetchedAt": "2026-05-11",
       "website": {},
@@ -2120,7 +2075,42 @@
     "name": "Testkube",
     "contacts": {
       "fetchedAt": "2026-05-11",
-      "website": {},
+      "website": {
+        "website": "https://testkube.io",
+        "emails": [],
+        "socials": {
+          "twitter": "testkubeio",
+          "linkedin": "testkube",
+          "github": "kubeshop"
+        },
+        "careerPage": "https://testkube.io/careers",
+        "jobListings": [
+          "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
+          "/* --- CONTAINER STYLES --- */",
+          "Testkube AI is here. 🗓 See it live on May 21 → Register"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nexus-api",
+    "name": "Nexus AI中转站",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {
+        "website": "https://nexus.1982video.cn/",
+        "emails": [],
+        "socials": {
+          "wechat": "_oauth_enabled"
+        },
+        "careerPage": "https://nexus.1982video.cn/careers",
+        "jobListings": [
+          "nexus(微信号：chantgptjjxx) - AI API Gateway"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

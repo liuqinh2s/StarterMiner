@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 19,
+      "discussionCount": 20,
       "contacts": {
         "fetchedAt": "2026-05-11",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 19,
+      "discussionCount": 20,
       "contacts": {
         "fetchedAt": "2026-05-11",
         "website": {},
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 19,
+      "discussionCount": 20,
       "contacts": {
         "fetchedAt": "2026-05-11",
         "website": {
@@ -1494,7 +1494,6 @@
         "website": {
           "website": "https://www.ideavalu.com",
           "emails": [
-            "soichiro10025016@gmail.com",
             "ideavalu@gmail.com"
           ],
           "socials": {
@@ -5510,34 +5509,34 @@
       }
     },
     {
-      "id": "weita",
+      "id": "vita",
       "name": "维他动力",
-      "desc": "从自动驾驶迁移到消费级机器人的初创公司",
+      "desc": "专注消费级具身智能机器人研发与制造",
       "track": "robotics",
       "stage": "pre-a",
       "city": "other",
       "tags": [
-        "机器人",
-        "自动驾驶",
-        "消费级"
+        "消费机器人",
+        "具身智能",
+        "自动驾驶"
       ],
       "team": [
         {
           "name": "余轶南",
-          "role": "创始人兼CEO",
-          "bg": "地平线001号员工"
+          "role": "创始人",
+          "bg": "前地平线001号员工，自动驾驶领域资深专家"
         }
       ],
       "product": "",
       "founded": "2024-12",
-      "funding": "Pre-A轮5亿元，东方嘉富、华泰紫金等领投",
+      "funding": "Pre-A轮5亿元，由东方嘉富、华泰紫金等领投",
       "scores": {
         "tech": 80,
         "growth": 70,
         "team": 85,
-        "market": 75
+        "market": 80
       },
-      "score": 77,
+      "score": 78,
       "discoveredAt": "2026-05-11",
       "discussionCount": 1,
       "contacts": {
@@ -5551,25 +5550,25 @@
     {
       "id": "changyao",
       "name": "长曜创新",
-      "desc": "专注无边界割草机器人的智能庭院机器人公司",
+      "desc": "智能庭院割草机器人研发与制造公司",
       "track": "robotics",
-      "stage": "a/b+",
-      "city": "shenzhen",
+      "stage": "a",
+      "city": "other",
       "tags": [
+        "庭院机器人",
         "割草机器人",
-        "庭院智能",
-        "海外市场"
+        "智能硬件"
       ],
       "team": [
         {
           "name": "胡岳",
           "role": "创始人",
-          "bg": ""
+          "bg": "未披露"
         }
       ],
       "product": "",
-      "founded": "2022-01",
-      "funding": "A+轮数千万元，盈峰环境领投",
+      "founded": "2022",
+      "funding": "A+轮数千万元，盈峰环境领投，半年累计超亿元",
       "scores": {
         "tech": 75,
         "growth": 70,
@@ -5578,7 +5577,7 @@
       },
       "score": 70,
       "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-11",
         "website": {},
@@ -5590,98 +5589,26 @@
     {
       "id": "xingshi",
       "name": "星识科技",
-      "desc": "专注AI智能影像技术，推出Vizta智能望远镜",
-      "track": "ai",
+      "desc": "智能影像技术研发，首款产品AI智能望远镜",
+      "track": "hardtech",
       "stage": "angel",
       "city": "ningbo",
       "tags": [
-        "AI望远镜",
-        "智能影像",
+        "智能望远镜",
+        "影像AI",
         "消费电子"
       ],
       "team": [],
       "product": "",
-      "founded": "2023-01",
-      "funding": "天使+轮和天使++轮累计数千万元",
-      "scores": {
-        "tech": 70,
-        "growth": 70,
-        "team": 50,
-        "market": 60
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-11",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "weixinhangtian",
-      "name": "维新宇航",
-      "desc": "专注大载客量eVTOL/eCTOL产品研制",
-      "track": "aerospace",
-      "stage": "a/b+",
-      "city": "chengdu",
-      "tags": [
-        "eVTOL",
-        "低空经济",
-        "应急救援"
-      ],
-      "team": [
-        {
-          "name": "何威",
-          "role": "创始人兼CEO",
-          "bg": ""
-        }
-      ],
-      "product": "",
-      "founded": "2023-01",
-      "funding": "天使+轮数千万元，策源资本领投",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
-        "market": 80
-      },
-      "score": 71,
-      "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-11",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "luming",
-      "name": "鹿明机器人",
-      "desc": "具身大模型研发与场景拓展，完成A1及A2轮融资近10亿元",
-      "track": "robotics",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "大模型"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "连续完成A1及A2轮融资，累计近10亿元，三菱电机领投，普华资本、恒生电子等跟投",
+      "founded": "2024",
+      "funding": "天使+和天使++轮累计数千万元",
       "scores": {
         "tech": 70,
         "growth": 60,
         "team": 50,
-        "market": 80
+        "market": 65
       },
-      "score": 65,
+      "score": 62,
       "discoveredAt": "2026-05-11",
       "discussionCount": 1,
       "contacts": {
@@ -5693,156 +5620,69 @@
       }
     },
     {
-      "id": "weita",
-      "name": "维他动力",
-      "desc": "消费级具身智能公司，Pre-A轮融资5亿元，首款Vbot超能机器狗已交付",
-      "track": "robotics",
-      "stage": "pre-a",
-      "city": "other",
+      "id": "dunengkeji",
+      "name": "度能科技（厦门）有限公司",
+      "desc": "聚焦工商业储能场景的储能产品和解决方案服务商。",
+      "track": "newenergy",
+      "stage": "a",
+      "city": "xiamen",
       "tags": [
-        "具身智能",
-        "消费机器人",
-        "机器狗"
+        "工商业储能",
+        "AI能源算法",
+        "华为系"
+      ],
+      "team": [
+        {
+          "name": "创始人",
+          "role": "创始人/CEO",
+          "bg": "华为数字能源背景"
+        }
+      ],
+      "product": "",
+      "founded": "2023-09",
+      "funding": "完成数亿元A轮系列融资，由协鑫集团领投，吴中金控产业基金等跟投。",
+      "scores": {
+        "tech": 65,
+        "growth": 70,
+        "team": 75,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-05-11",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-11",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "config",
+      "name": "Config",
+      "desc": "机器人数据基础设施，被称为机器人领域的台积电",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "robotics",
+        "data infrastructure",
+        "AI"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "Pre-A轮融资5亿元，东方嘉富、华泰紫金、复星锐正联合领投，老股东跟投",
+      "funding": "获得三星、现代、LG等投资",
       "scores": {
-        "tech": 75,
+        "tech": 80,
         "growth": 70,
-        "team": 50,
-        "market": 75
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-11",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-11",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "suxin",
-      "name": "北京塑新科技",
-      "desc": "酶法rPET塑料回收技术公司，全球首条万吨酶法再生PET产线",
-      "track": "hardtech",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "酶法PET",
-        "塑料回收",
-        "新材料"
-      ],
-      "team": [
-        {
-          "name": "向科炜",
-          "role": "CEO",
-          "bg": "四川大学高分子系博士，曾主导三棵树等产品产业化"
-        },
-        {
-          "name": "董维亮",
-          "role": "CTO",
-          "bg": "南京工业大学教授，十余年酶技术研究"
-        },
-        {
-          "name": "齐云达",
-          "role": "CFO",
-          "bg": "摩根士丹利及国内头部创投机构背景"
-        },
-        {
-          "name": "李佳",
-          "role": "工艺负责人",
-          "bg": "原新和成工艺负责人"
-        }
-      ],
-      "product": null,
-      "founded": "2024-01",
-      "funding": "成立未满两年，完成天使轮至A+轮五轮融资，A轮由海棠基金、尚势资本等领投，A+轮由赋远投资领投",
-      "scores": {
-        "tech": 85,
-        "growth": 90,
-        "team": 80,
+        "team": 75,
         "market": 85
       },
-      "score": 86,
+      "score": 77,
       "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-11",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xinghuanjv",
-      "name": "星环聚能",
-      "desc": "商业可控核聚变公司，三代装置并行推进，累计融资超20亿元",
-      "track": "newenergy",
-      "stage": "a",
-      "city": "shanghai",
-      "tags": [
-        "可控核聚变",
-        "托卡马克",
-        "新能源"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": "完成5亿元A+轮融资，累计融资超20亿元，投资方包括达晨财智、金浦投资等",
-      "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 50,
-        "market": 90
-      },
-      "score": 80,
-      "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-11",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "recursive-si",
-      "name": "Recursive Superintelligence",
-      "desc": "致力于让AI自主进行科学研究的初创公司，成立4个月估值40亿美元",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AGI",
-        "recursive self-improvement",
-        "AI research"
-      ],
-      "team": [
-        {
-          "name": "Richard Socher",
-          "role": "CEO",
-          "bg": "前Salesforce首席科学家"
-        }
-      ],
-      "product": "",
-      "founded": "2026-01",
-      "funding": "5亿美元融资，估值40亿美元",
-      "scores": {
-        "tech": 95,
-        "growth": 85,
-        "team": 95,
-        "market": 80
-      },
-      "score": 89,
-      "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-11",
         "website": {},
@@ -5854,31 +5694,94 @@
     {
       "id": "testkube",
       "name": "Testkube",
-      "desc": "AI时代的测试工具，发布Testkube AI产品",
-      "track": "saas",
+      "desc": "AI时代的测试平台，发布Testkube AI产品。",
+      "track": "ai",
       "stage": "seed",
       "city": "overseas",
       "tags": [
-        "测试",
-        "AI",
-        "开发工具"
+        "AI测试",
+        "自动化测试",
+        "质量保障"
       ],
       "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "未披露",
+      "product": "https://testkube.io",
+      "founded": "2022-01",
+      "funding": "未披露具体融资，发布Testkube AI产品。",
       "scores": {
-        "tech": 55,
-        "growth": 50,
+        "tech": 70,
+        "growth": 65,
         "team": 50,
-        "market": 60
+        "market": 70
       },
-      "score": 54,
+      "score": 64,
       "discoveredAt": "2026-05-11",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-11",
-        "website": {},
+        "website": {
+          "website": "https://testkube.io",
+          "emails": [],
+          "socials": {
+            "twitter": "testkubeio",
+            "linkedin": "testkube",
+            "github": "kubeshop"
+          },
+          "careerPage": "https://testkube.io/careers",
+          "jobListings": [
+            "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
+            "/* --- CONTAINER STYLES --- */",
+            "Testkube AI is here. 🗓 See it live on May 21 → Register"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nexus-api",
+      "name": "Nexus AI中转站",
+      "desc": "满血GPT5.5 API中转服务，稳定零阉割",
+      "track": "ai",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "AI API",
+        "中转",
+        "GPT5.5"
+      ],
+      "team": [
+        {
+          "name": "未知",
+          "role": "创始人",
+          "bg": "AI开发者"
+        }
+      ],
+      "product": "https://nexus.1982video.cn/",
+      "founded": "2026-05",
+      "funding": "自筹",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 30,
+        "market": 60
+      },
+      "score": 48,
+      "discoveredAt": "2026-05-11",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-11",
+        "website": {
+          "website": "https://nexus.1982video.cn/",
+          "emails": [],
+          "socials": {
+            "wechat": "_oauth_enabled"
+          },
+          "careerPage": "https://nexus.1982video.cn/careers",
+          "jobListings": [
+            "nexus(微信号：chantgptjjxx) - AI API Gateway"
+          ]
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
