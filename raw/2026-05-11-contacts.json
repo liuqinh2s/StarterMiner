@@ -1551,9 +1551,7 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com"
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -2016,7 +2014,7 @@
     }
   },
   {
-    "id": "vita",
+    "id": "weita-dongli",
     "name": "维他动力",
     "contacts": {
       "fetchedAt": "2026-05-11",
@@ -2027,7 +2025,7 @@
     }
   },
   {
-    "id": "changyao",
+    "id": "evergreen-innovation",
     "name": "长曜创新",
     "contacts": {
       "fetchedAt": "2026-05-11",
@@ -2038,7 +2036,7 @@
     }
   },
   {
-    "id": "xingshi",
+    "id": "xingshi-tech",
     "name": "星识科技",
     "contacts": {
       "fetchedAt": "2026-05-11",
@@ -2049,8 +2047,63 @@
     }
   },
   {
+    "id": "yigecloud",
+    "name": "亿格云",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "luming-robot",
+    "name": "鹿明机器人",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "suxin",
+    "name": "塑新科技",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xinghuanjv",
+    "name": "星环聚能",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyunkeji",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "dunengkeji",
-    "name": "度能科技（厦门）有限公司",
+    "name": "度能科技",
     "contacts": {
       "fetchedAt": "2026-05-11",
       "website": {},
@@ -2060,8 +2113,8 @@
     }
   },
   {
-    "id": "config",
-    "name": "Config",
+    "id": "vbot",
+    "name": "维他动力（Vbot）",
     "contacts": {
       "fetchedAt": "2026-05-11",
       "website": {},
@@ -2071,25 +2124,55 @@
     }
   },
   {
-    "id": "testkube",
-    "name": "Testkube",
+    "id": "luming",
+    "name": "鹿明机器人",
     "contacts": {
       "fetchedAt": "2026-05-11",
-      "website": {
-        "website": "https://testkube.io",
-        "emails": [],
-        "socials": {
-          "twitter": "testkubeio",
-          "linkedin": "testkube",
-          "github": "kubeshop"
-        },
-        "careerPage": "https://testkube.io/careers",
-        "jobListings": [
-          "console.log('[Consent Bridge] Functional:', functionalAccepted, 'Marketing:', marketingAccepted);",
-          "/* --- CONTAINER STYLES --- */",
-          "Testkube AI is here. 🗓 See it live on May 21 → Register"
-        ]
-      },
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "figure-ai",
+    "name": "Figure AI",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis AI",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "helsing",
+    "name": "Helsing",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cowboy-space",
+    "name": "Cowboy Space",
+    "contacts": {
+      "fetchedAt": "2026-05-11",
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -2097,7 +2180,7 @@
   },
   {
     "id": "nexus-api",
-    "name": "Nexus AI中转站",
+    "name": "Nexus 中转站",
     "contacts": {
       "fetchedAt": "2026-05-11",
       "website": {
