@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "LeadGenMatt"
+          "twitter": "JacobCounsell"
         },
         "careerPage": null,
         "jobListings": []
@@ -2213,7 +2213,7 @@
     }
   },
   {
-    "id": "shangyue-tech",
+    "id": "shangyue",
     "name": "深圳熵约智能科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-12",
@@ -2224,18 +2224,7 @@
     }
   },
   {
-    "id": "bose-liangzi",
-    "name": "波色量子",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "vita-dongli",
+    "id": "vitamove",
     "name": "维他动力",
     "contacts": {
       "fetchedAt": "2026-05-12",
@@ -2246,8 +2235,8 @@
     }
   },
   {
-    "id": "changyao-innovation",
-    "name": "长曜创新",
+    "id": "bainoxiniu",
+    "name": "白犀牛",
     "contacts": {
       "fetchedAt": "2026-05-12",
       "website": {},
@@ -2257,8 +2246,8 @@
     }
   },
   {
-    "id": "zhiyuanrobot",
-    "name": "智元机器人",
+    "id": "thinkingmachines",
+    "name": "Thinking Machines Lab",
     "contacts": {
       "fetchedAt": "2026-05-12",
       "website": {},
@@ -2268,55 +2257,23 @@
     }
   },
   {
-    "id": "yigeyun",
-    "name": "亿格云",
+    "id": "yarbo",
+    "name": "Yarbo Inc.",
     "contacts": {
       "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "lumingrobot",
-    "name": "鹿明机器人",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "jinglingyun",
-    "name": "精灵云",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "suxinkeji",
-    "name": "塑新科技",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "figureai",
-    "name": "Figure AI",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
+      "website": {
+        "website": "https://yarbo.com/",
+        "emails": [
+          "asdla23@qq.com",
+          "service@yarbo.com",
+          "support@yarbo.com"
+        ],
+        "socials": {
+          "twitter": "yarboglobal"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
