@@ -1549,8 +1549,6 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
           "careers@latitudemedia.com"
@@ -2202,8 +2200,8 @@
     }
   },
   {
-    "id": "walulu",
-    "name": "成都雨之灵动科技有限公司",
+    "id": "yigeyun",
+    "name": "亿格云",
     "contacts": {
       "fetchedAt": "2026-05-12",
       "website": {},
@@ -2213,8 +2211,8 @@
     }
   },
   {
-    "id": "shangyue",
-    "name": "深圳熵约智能科技有限公司",
+    "id": "jinglingyun",
+    "name": "精灵云",
     "contacts": {
       "fetchedAt": "2026-05-12",
       "website": {},
@@ -2224,29 +2222,7 @@
     }
   },
   {
-    "id": "vitamove",
-    "name": "维他动力",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "bainoxiniu",
-    "name": "白犀牛",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "thinkingmachines",
+    "id": "thinking-machines",
     "name": "Thinking Machines Lab",
     "contacts": {
       "fetchedAt": "2026-05-12",
@@ -2257,51 +2233,11 @@
     }
   },
   {
-    "id": "yarbo",
-    "name": "Yarbo Inc.",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {
-        "website": "https://yarbo.com/",
-        "emails": [
-          "asdla23@qq.com",
-          "service@yarbo.com",
-          "support@yarbo.com"
-        ],
-        "socials": {
-          "twitter": "yarboglobal"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "heaviside",
-    "name": "Heaviside",
+    "id": "exaforce",
+    "name": "Exaforce",
     "contacts": {
       "fetchedAt": "2026-05-12",
       "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "launchparty",
-    "name": "Launch Party",
-    "contacts": {
-      "fetchedAt": "2026-05-12",
-      "website": {
-        "website": "https://joinlaunchparty.com",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://joinlaunchparty.com/careers",
-        "jobListings": []
-      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

@@ -100,11 +100,41 @@
     "fetchedAt": "2026-05-12"
   },
   {
-    "source": "少数派",
-    "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
-    "summary": "苹果与英特尔就芯片代工达成初步协议 芯片缺货导致主板厂商出货暴跌 人形机器人在韩国受戒入佛门 AI 儿童玩具泛滥引发担忧 特朗普政府通过 ChatGPT 做出的停止拨款决定被判无效 谷歌验证码将检查 Play 框架，非原版 Android 用户或受阻 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-    "url": "https://sspai.com/post/109610",
-    "published": "Mon, 11 May 2026 07:12:39 +0800",
+    "source": "36氪",
+    "title": "OpenAI奥特曼称马斯克曾支持营利计划，否认背叛指控",
+    "summary": "OpenAI首席执行官奥特曼周二驳斥了马斯克的指控，即他背叛了这家ChatGPT制造商致力于公共利益的创始使命，并表示真正有意夺取OpenAI控制权并从中牟利的是马斯克。在2024年8月提起的诉讼中，马斯克指控奥特曼和OpenAI诱使其向捐赠3800万美元，结果却眼睁睁看着这家非营利组织背弃造福人类的使命，转而成为一家营利性公司。这场已进入第三周的庭审，可能决定OpenAI及其领导层的未来，因为该公司正准备进行首次公开募股（IPO），其估值可能高达1万亿美元。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3806915175702019?f=rss",
+    "published": "2026-05-13 07:14:22  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12"
+  },
+  {
+    "source": "36氪",
+    "title": "美国正考虑为核电站零部件提供数十亿美元的融资",
+    "summary": "美国行业组织“核能协会”的负责人周二表示，美国能源部正在考虑一项计划，拟向电力公司提供数十亿美元融资，以确保获得大型核反应堆的部件（这些部件可能需要数年才能获得）。反应堆压力容器和蒸汽发生器等部件的采购可能需要数年时间，该举措旨在缩短大型AP1000核电站的建设周期。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3806912771415555?f=rss",
+    "published": "2026-05-13 07:11:55  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12"
+  },
+  {
+    "source": "36氪",
+    "title": "Anthropic正寻求以至少3亿美元收购Stainless",
+    "summary": "当地时间5月12日，据报道，一位知情人士表示，Anthropic正在洽谈收购开发者工具初创公司Stainless，交易价格至少为3亿美元。Anthropic可能会将部分自有股票用于对Stainless的收购。谈判尚处于初期阶段，最终条款可能会有变动。（界面）",
+    "url": "https://36kr.com/newsflashes/3806912302685953?f=rss",
+    "published": "2026-05-13 07:11:27  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12"
+  },
+  {
+    "source": "36氪",
+    "title": "Cerebras将美国IPO股票发行价定在指引区间150-160美元的上方",
+    "summary": "据报道，AI芯片制造商Cerebras将美国IPO股票发行价定在指引区间150-160美元的上方。（财联社）",
+    "url": "https://36kr.com/newsflashes/3806909742423815?f=rss",
+    "published": "2026-05-13 07:08:50  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-12"
@@ -241,10 +271,40 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】腾讯收购喜马拉雅，获市场监管总局附条件批准，两公司最新回应；马斯克、库克随特朗普访华；中国国内航线燃油附加费5月16日起再上调",
+    "summary": "京东集团第一季度营收同比增加4.9%，旗下三大上市子公司拟回购公司股份；快手：正在评估拟议重组可灵AI之相关资产及业务的方案；节能风电：经核查，股东张家玮并非演员张凌赫；有爆料称特斯拉AI6芯片或转移至英特尔；中央网信办全面部署推进规范短视频内容标注工作；芝商所将推出支持人工智能的算力期货市场。",
+    "url": "https://www.tmtpost.com/7985766.html",
+    "published": "Wed, 13 May 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12"
+  },
+  {
+    "source": "钛媒体",
     "title": "200亿美金估值的可灵，值母公司七成市值",
     "summary": "一个成立不到两年的业务，估值逼近母公司市值的七成。",
     "url": "https://www.tmtpost.com/7985061.html",
     "published": "Tue, 12 May 2026 15:58:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12"
+  },
+  {
+    "source": "极客公园",
+    "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
+    "summary": "用重新押注 Android，给 Gemini 搭建一套硬件「骨架」 作者｜张勇毅 2026年5月13日，作为每年 Google I/O 的前哨站，同时也是关于最重要的部分——安卓的独立发布会，The Android Show在线上开幕，揭开了 2026 年 Google 在 Android 领域全系产品阵容的新品发布阵容。 如果你只看 Android Show 2026 的发布内容，第一反应可能是：这真的是一场 Android 发布会吗？ 无论是 Gemini 的自动操作，还是用 Gemini 生成桌面小组件，甚至是由 AI 驱动的语音输入法 ——被 Google 反复演示的这些功能，本质上都不是 Android 自己的功能，而是 Gemini 的延伸。Gemini Intelligence 是新名字，Googlebooks 是新硬件品类，连 Chrome 和 Android Auto 都成了 Gemini 的入口。把「Android」这个词从所有发布稿里抽掉，剩下的内容其实只在讲一件事——Gemini。 这是一场看似 Android、实际上是 Gemini 的发布会。Android，",
+    "url": "http://www.geekpark.net/news/364060",
+    "published": "Wed, 13 May 2026 03:02:27 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12"
+  },
+  {
+    "source": "极客公园",
+    "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+    "summary": "头图来源：视觉中国 豆包也要收费了。 5 月 4 日，豆包在 App Store 页面悄然更新了付费版本服务的相关声明。声明称，为更好地服务专业用户，豆包将在保留免费版的基础上，推出包含更多增值服务的付费订阅体系，同时披露了三档定价：标准版 68 元 / 月、加强版 200 元 / 月、专业版 500 元 / 月。 图片来源：极客公园 消息一出立即引发热议。有人担心免费福利终结，有人吐槽定价超出预期，也有人早就预料到了这一天的到来。毕竟，坐拥 3.2 亿月活、日均 18 亿次对话，全靠免费模式撑着的话，这笔账，算不长远。 本质上，这是一件全行业都「想得到、也做得到」的事：国内大模型免费模式的不可持续性是公开共识，头部玩家早就在付费赛道试水，字节手握国内 C 端 AI 绝对第一的用户盘，做付费订阅从来不是技术或能力问题，只是时机选择问题。 所以，在国内 C 端订阅生意公认难做、大模型价格战卷到地板的当下，豆包这次商业化闯关，到底能不能行得通？ 免费的基本盘与最高 5088 元/年 据报道，豆包的 付费功能将主要专注在复杂任务和生产力场景，如 PPT 生成、数据分析、影视制作等。 随着模型",
+    "url": "http://www.geekpark.net/news/364059",
+    "published": "Tue, 12 May 2026 19:27:18 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-12"
@@ -500,26 +560,6 @@
     "fetchedAt": "2026-05-12"
   },
   {
-    "source": "极客公园",
-    "title": "张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道",
-    "summary": "世界超级摩托车锦标赛「张雪机车」夺第三冠 5 月 2 日消息，在 2026 世界超级摩托车锦标赛（WSBK）匈牙利站 WorldSSP 组别第一回合正赛中，中国摩托车制造商「张雪机车」的法国车手瓦伦丁·德比斯夺得冠军。这也是他与「张雪机车」的第三冠。 凭借本场胜利，德比斯以 97 分在车手积分榜上升到第三位；「张雪机车」积 99 分，在制造商积分榜上同样排名第三。 德比斯在 1 日的本站超级杆位赛中第六位冲线。由于排名第三的意大利车手费拉里被罚退三个发车位，从第三位降至第六位，德比斯在第一回合正赛中得以第五位发车。 驾驶雅马哈赛车的阿雷纳斯、恩居分获第二、三名。「张雪机车」的另一名车手卡里卡苏洛第 15 位完赛，钱江摩托车手德罗萨位列第 16。 「我知道这条赛道对我们来说会很困难。车队整个周末都在告诉我要保持耐心，我们会找到办法。今天早上我对赛车还是不太满意，不过比赛开始前车队帮我做了一些调整，我感觉舒服多了。」德比斯赛后说。（消息来源：新华网） 曝马斯克 1583 亿美元年薪为会计估值，实际一分没拿 5 月 2 日消息，据科技媒体 Quartz 今天报道，监管文件显示，特斯拉 CEO",
-    "url": "http://www.geekpark.net/news/363698",
-    "published": "Sun, 03 May 2026 08:42:45 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "极客公园",
-    "title": "iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24%",
-    "summary": "iPhone Air 销量疲软，引发 Android 厂商集体叫停超薄旗舰计划 5 月 1 日消息，博主 @ 数码闲聊站 发文，透露 Air 产品线「叫好不叫座」，苹果 iPhone Air 手机激活量在多轮降价后才勉强破 70 万台。同时国内某厂商 Air 机型激活量仅达 5 万台，因此该厂商计划搁置明年的「小屏超薄 + 极限堆料路线」迭代。预计下代唯一超薄定义的旗舰只有苹果 iPhone Air 2。 除了此前已上市的多家厂商 Air 机型外，事实上还有不少厂商根本就没有推出 Air 机型，例如小米 Air / 魅族 22 Air 手机便直接遭砍。 参考此前报道，小米品牌总经理卢伟冰在去年 11 月便发文，认为「Air 手机极致的薄，实际会带来用户体验的牺牲，包括续航，散热，性能，相机等」，「从实际的销售情况来看，的确是非常小众」。（来源：IT 之家） Gemini 将出现广告，目前处于准备阶段 5 月 2 日消息，据科技媒体 Android Central 报道，谷歌母公司 Alphabet 本周举行财报电话会议，首席商务官 Philipp Schindler 在会议中表示，Ge",
-    "url": "http://www.geekpark.net/news/363696",
-    "published": "Sat, 02 May 2026 09:06:53 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜微信灰测「组合支付」功能/苹果或重新设计macOS27「液态玻璃」/哈啰回应员工脚踩青桔美团",
     "summary": "· 曝字节跳动上调今年资本开支至逾 2000 亿元，加码 AI 基建 · 魏建军：汽车不是快消品，中国车企出海要保证长期可信赖 · 美国企业开始回避「AI 原生」毕业生：会用 ChatGPT，但不会独立思考 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -531,90 +571,70 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Amazon launches 30-minute delivery across the U.S.",
-    "summary": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
-    "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
-    "published": "Tue, 12 May 2026 10:00:00 +0000",
+    "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+    "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
+    "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+    "published": "Tue, 12 May 2026 18:45:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "TechCrunch",
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "published": "Tue, 12 May 2026 00:09:01 +0000",
+    "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+    "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+    "url": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+    "published": "Tue, 12 May 2026 18:14:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "TechCrunch",
-    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-    "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-    "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-    "published": "Mon, 11 May 2026 17:38:32 +0000",
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "published": "Tue, 12 May 2026 18:05:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "TechCrunch",
-    "title": "Bravo is creating unscripted microdramas for the Peacock app",
-    "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
-    "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-    "published": "Mon, 11 May 2026 17:14:01 +0000",
+    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "TechCrunch",
-    "title": "Digg tries again, this time as an AI news aggregator",
-    "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-    "published": "Mon, 11 May 2026 17:02:35 +0000",
+    "title": "Google unveils Googlebook, a new line of AI-native laptops",
+    "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
+    "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "TechCrunch",
-    "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-    "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-    "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-    "published": "Mon, 11 May 2026 16:00:00 +0000",
+    "title": "Google launches new Android security feature to help uncover spyware attacks",
+    "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
+    "url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "TechCrunch",
-    "title": "TikTok launches an ad-free subscription plan in the UK",
-    "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
-    "url": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
-    "published": "Mon, 11 May 2026 14:05:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-    "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "published": "Mon, 11 May 2026 13:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
-    "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
-    "url": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
-    "published": "Mon, 11 May 2026 13:00:00 +0000",
+    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+    "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
+    "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+    "published": "Tue, 12 May 2026 15:07:37 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
@@ -741,246 +761,54 @@
   },
   {
     "source": "The Verge",
-    "title": "OpenAI just released its answer to Claude Mythos",
-    "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-    "published": "2026-05-11T19:05:01-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "The Verge",
-    "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-    "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder […]",
-    "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-    "published": "2026-05-11T18:40:20-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "The Verge",
-    "title": "Apple brings encrypted RCS chats to iPhone",
-    "summary": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a […]",
-    "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-    "published": "2026-05-11T13:57:56-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "May 11: Startup Roundup",
-    "summary": "Article URL: https://old.reddit.com/r/Superframeworks/comments/1taj878/startup_roundup_may_11_gusto_hits_1b_revenue_vidi/ Comments URL: https://news.ycombinator.com/item?id=48104914 Points: 2 # Comments: 0",
-    "url": "https://old.reddit.com/r/Superframeworks/comments/1taj878/startup_roundup_may_11_gusto_hits_1b_revenue_vidi/",
-    "published": "Tue, 12 May 2026 06:29:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI, VPS Usage and $22B in Bead Funding Affects on IPv4 Prices",
-    "summary": "Article URL: https://brandergroup.net/2026/04/hostinger-and-hetzner-signal-real-ipv4-demand/ Comments URL: https://news.ycombinator.com/item?id=48100536 Points: 2 # Comments: 0",
-    "url": "https://brandergroup.net/2026/04/hostinger-and-hetzner-signal-real-ipv4-demand/",
-    "published": "Mon, 11 May 2026 20:54:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Dynamic Persistent Tile Scheduling w/ Cluster Launch Control (CLC) on Blackwell",
-    "summary": "Article URL: https://research.colfax-intl.com/dynamic-persistent-tile-scheduling-with-cluster-launch-control-clc-on-nvidia-blackwell-gpus/ Comments URL: https://news.ycombinator.com/item?id=48098158 Points: 2 # Comments: 0",
-    "url": "https://research.colfax-intl.com/dynamic-persistent-tile-scheduling-with-cluster-launch-control-clc-on-nvidia-blackwell-gpus/",
-    "published": "Mon, 11 May 2026 17:46:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "When Will Early Startup Employees Get Their Fair Share?",
-    "summary": "Article URL: https://www.lesecretairedefernand.co/en/entrepreneurship/can-startups-share-value-more-fairly-without-scaring-investors/ Comments URL: https://news.ycombinator.com/item?id=48097068 Points: 3 # Comments: 1",
-    "url": "https://www.lesecretairedefernand.co/en/entrepreneurship/can-startups-share-value-more-fairly-without-scaring-investors/",
-    "published": "Mon, 11 May 2026 16:21:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Munitions startup, Heaviside, out of stealth – $28M Series A",
-    "summary": "Article URL: https://www.tectonicdefense.com/exclusive-heaviside-emerges-from-stealth-with-28m-series-a/ Comments URL: https://news.ycombinator.com/item?id=48096340 Points: 3 # Comments: 1",
-    "url": "https://www.tectonicdefense.com/exclusive-heaviside-emerges-from-stealth-with-28m-series-a/",
-    "published": "Mon, 11 May 2026 15:30:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Linux Kernel Startup",
-    "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/ Comments URL: https://news.ycombinator.com/item?id=48092729 Points: 4 # Comments: 0",
-    "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-    "published": "Mon, 11 May 2026 09:13:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Hustler Bingo – a tiny bingo game about startup Twitter clichés",
-    "summary": "I built this after my brother started complaining that I got too much into brainrot culture. It's just for fun nothing serious, but was able to test vercel, tanstack start and convex without high stakes. Have fun! This is the game where lower score is goood for your mental health Comments URL: https://news.ycombinator.com/item?id=48087703 Points: 4 # Comments: 2",
-    "url": "https://hustlerbingo.app",
-    "published": "Sun, 10 May 2026 20:36:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Launch Party – a community for early-stage B2B SaaS founders",
-    "summary": "Article URL: https://joinlaunchparty.com Comments URL: https://news.ycombinator.com/item?id=48087439 Points: 4 # Comments: 3",
-    "url": "https://joinlaunchparty.com",
-    "published": "Sun, 10 May 2026 20:12:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX wants to launch a million satellites",
-    "summary": "Article URL: https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772 Comments URL: https://news.ycombinator.com/item?id=48087261 Points: 60 # Comments: 137",
-    "url": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772",
-    "published": "Sun, 10 May 2026 19:56:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Startup's Software Watches Employees as They Work",
-    "summary": "Article URL: https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/ Comments URL: https://news.ycombinator.com/item?id=48082759 Points: 3 # Comments: 0",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2026/05/10/this-ai-startups-software-watches-employees-as-they-work-to-reduce-inefficiencies/",
-    "published": "Sun, 10 May 2026 10:51:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Skills",
-    "summary": "Article URL: https://github.com/dhruvhanda15-dev/startupskills Comments URL: https://news.ycombinator.com/item?id=48078096 Points: 2 # Comments: 0",
-    "url": "https://github.com/dhruvhanda15-dev/startupskills",
-    "published": "Sat, 09 May 2026 20:47:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Launch and Run Companies on Autopilot",
-    "summary": "I launched Lakyus on February 27. It allows you to launch and run companies on autopilot. The platform handles both creation and ongoing operation by wiring together Stripe, Netlify, Postmark, and the Meta Marketing APIs. It has its own inbox to handle email marketing, can send you updates, can manage products and push them to Stripe, provisions your own DB, and more. The goal is to move past chatbots and toward autonomous business infrastructure, allowing people to spin up dozens of micro-busin",
-    "url": "https://lakyus.com/live",
-    "published": "Sat, 09 May 2026 00:36:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "DeepSeek Seeks Funding at $45B Valuation as China Backs Homegrown AI Rival",
-    "summary": "Article URL: https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/ Comments URL: https://news.ycombinator.com/item?id=48069927 Points: 3 # Comments: 1",
-    "url": "https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/",
-    "published": "Fri, 08 May 2026 23:14:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Banks are funding climate chaos. You don't have to",
-    "summary": "Article URL: https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/ Comments URL: https://news.ycombinator.com/item?id=48065332 Points: 15 # Comments: 4",
-    "url": "https://www.not-ship.com/banks-are-funding-climate-chaos-you-dont-have-to-2/",
-    "published": "Fri, 08 May 2026 16:27:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "iPhone Launch – Studio C (Comedy Sketch) [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=B7Ujn91mfAk Comments URL: https://news.ycombinator.com/item?id=48064766 Points: 1 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=B7Ujn91mfAk",
-    "published": "Fri, 08 May 2026 15:43:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump administration cut funding to study hantavirus",
-    "summary": "Article URL: https://www.scientificamerican.com/article/trump-administration-cut-funding-to-study-hantavirus-behind-deadly-cruise-ship-outbreak/ Comments URL: https://news.ycombinator.com/item?id=48056973 Points: 23 # Comments: 19",
-    "url": "https://www.scientificamerican.com/article/trump-administration-cut-funding-to-study-hantavirus-behind-deadly-cruise-ship-outbreak/",
-    "published": "Fri, 08 May 2026 00:35:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Mounting Toll of Multi-Year Funding on American Biomedical Research [pdf]",
-    "summary": "Article URL: https://actfornih.org/wp-content/uploads/2026/05/A4N_Updated-MYF-One-Pager_May-2026_FINAL.pdf Comments URL: https://news.ycombinator.com/item?id=48056224 Points: 2 # Comments: 0",
-    "url": "https://actfornih.org/wp-content/uploads/2026/05/A4N_Updated-MYF-One-Pager_May-2026_FINAL.pdf",
-    "published": "Thu, 07 May 2026 23:01:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GameStop CEO says eBay shut his account after buyout funding stunt",
-    "summary": "Article URL: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/gamestop-ceo-says-ebay-shut-his-account-after-buyout-funding-stunt Comments URL: https://news.ycombinator.com/item?id=48052967 Points: 4 # Comments: 0",
-    "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/gamestop-ceo-says-ebay-shut-his-account-after-buyout-funding-stunt",
-    "published": "Thu, 07 May 2026 18:27:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
-    "summary": "Article URL: https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/ Comments URL: https://news.ycombinator.com/item?id=48050321 Points: 1 # Comments: 0",
-    "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
-    "published": "Thu, 07 May 2026 15:04:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Future of Testing Is Here (Testkube AI Launch)",
-    "summary": "Article URL: https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/testkube-redefines-testing-for-the-ai-era-with-testkube-ai-while-1163715 Comments URL: https://news.ycombinator.com/item?id=48049884 Points: 2 # Comments: 0",
-    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/testkube-redefines-testing-for-the-ai-era-with-testkube-ai-while-1163715",
-    "published": "Thu, 07 May 2026 14:24:53 +0000",
+    "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+    "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+    "published": "2026-05-12T13:34:09-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-12"
   },
   {
     "source": "微博",
-    "title": "#深圳夫妻囤存储芯片5个月狂涨320亿#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23深圳夫妻囤存储芯片5个月狂涨320亿%23",
+    "title": "#存储芯片股重挫#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23存储芯片股重挫%23",
     "published": "2026-05-12",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-12",
     "meta": {
-      "hotValue": 609303,
-      "rank": 3
+      "hotValue": 101215,
+      "rank": 30
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#李想称自研芯片被质疑跟风烧钱#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23李想称自研芯片被质疑跟风烧钱%23",
+    "published": "2026-05-12",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12",
+    "meta": {
+      "hotValue": 90335,
+      "rank": 37
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#美股存储芯片持续暴涨#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23美股存储芯片持续暴涨%23",
+    "published": "2026-05-12",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-12",
+    "meta": {
+      "hotValue": 61176,
+      "rank": 47
     }
   },
   {
@@ -993,10 +821,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-12",
     "meta": {
-      "stars": 7816,
-      "forks": 602,
+      "stars": 8058,
+      "forks": 631,
       "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]

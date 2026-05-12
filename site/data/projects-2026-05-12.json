@@ -4225,8 +4225,6 @@
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
             "careers@latitudemedia.com"
@@ -5736,7 +5734,7 @@
       },
       "score": 86,
       "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-12",
         "website": {},
@@ -5867,7 +5865,7 @@
       },
       "score": 70,
       "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-12",
         "website": {},
@@ -5933,7 +5931,7 @@
       },
       "score": 80,
       "discoveredAt": "2026-05-11",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-12",
         "website": {},
@@ -6091,156 +6089,28 @@
       }
     },
     {
-      "id": "walulu",
-      "name": "成都雨之灵动科技有限公司",
-      "desc": "AI仿生毛绒宠物Walulu，打造AI时代的宝可梦",
-      "track": "hardtech",
-      "stage": "pre-a",
-      "city": "chengdu",
-      "tags": [
-        "AI仿生",
-        "毛绒宠物",
-        "消费级机器人"
-      ],
-      "team": [
-        {
-          "name": "顾小毛",
-          "role": "CEO",
-          "bg": "连续创业者，此前探索AI视频生成等领域"
-        }
-      ],
-      "product": "",
-      "founded": "2023",
-      "funding": "天使轮及Pre-A轮，总额数千万人民币，投资方包括KK集团、4399、科大讯飞等",
-      "scores": {
-        "tech": 55,
-        "growth": 65,
-        "team": 50,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-12",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-12",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "shangyue",
-      "name": "深圳熵约智能科技有限公司",
-      "desc": "全球首款家庭飞行机器人Flyer O1，做智能管家",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "家庭飞行机器人",
-        "智能管家",
-        "微型无人机"
-      ],
-      "team": [
-        {
-          "name": "曾武",
-          "role": "联合创始人",
-          "bg": "新加坡南洋理工大学博士"
-        },
-        {
-          "name": "况伟杰",
-          "role": "联合创始人",
-          "bg": "马来西亚理科大学博士"
-        },
-        {
-          "name": "万浩诚",
-          "role": "联合创始人",
-          "bg": "清华智能产业研究院研究员"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "数百万美元种子轮融资，初心资本独家投资",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 65,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-12",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-12",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "vitamove",
-      "name": "维他动力",
-      "desc": "消费级具身机器人初创，前地平线001号员工余轶南创办",
-      "track": "robotics",
-      "stage": "pre-a",
+      "id": "yigeyun",
+      "name": "亿格云",
+      "desc": "AI时代企业安全治理基础设施提供商，从办公安全升级为企业统一治理平台。",
+      "track": "saas",
+      "stage": "a",
       "city": "other",
       "tags": [
-        "消费级机器人",
-        "具身智能",
-        "自动驾驶迁移"
-      ],
-      "team": [
-        {
-          "name": "余轶南",
-          "role": "CEO",
-          "bg": "前地平线001号员工，自动驾驶专家"
-        }
-      ],
-      "product": "",
-      "founded": "2024-12",
-      "funding": "Pre-A轮5亿元，由东方嘉富、华泰紫金、复星锐正联合领投，上汽尚颀等跟投",
-      "scores": {
-        "tech": 70,
-        "growth": 70,
-        "team": 70,
-        "market": 65
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-12",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-12",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "bainoxiniu",
-      "name": "白犀牛",
-      "desc": "L4级自动驾驶无人货运解决方案提供商",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "shenzhen",
-      "tags": [
-        "自动驾驶",
-        "物流",
-        "无人货运",
-        "车规级"
+        "企业安全",
+        "AI治理",
+        "零信任"
       ],
       "team": [],
       "product": "",
-      "founded": "unknown",
-      "funding": "完成C1轮融资，由全球物流产业资本、深圳南山战新投、元禾厚望等投资",
+      "founded": "",
+      "funding": "数亿元人民币B轮融资，由Monolith砺思资本领投，红杉中国、元璟资本等持续加持。",
       "scores": {
-        "tech": 85,
+        "tech": 50,
         "growth": 70,
-        "team": 60,
-        "market": 80
+        "team": 50,
+        "market": 70
       },
-      "score": 74,
+      "score": 60,
       "discoveredAt": "2026-05-12",
       "discussionCount": 0,
       "contacts": {
@@ -6252,62 +6122,21 @@
       }
     },
     {
-      "id": "thinkingmachines",
-      "name": "Thinking Machines Lab",
-      "desc": "开发下一代交互模型的AI公司",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
+      "id": "jinglingyun",
+      "name": "精灵云",
+      "desc": "新一代国防科技智能领航企业，专注自主可控的智能技术。",
+      "track": "aerospace",
+      "stage": "a",
+      "city": "chengdu",
       "tags": [
-        "AI交互",
-        "多模态",
-        "对话",
-        "初创"
-      ],
-      "team": [
-        {
-          "name": "Mira Murati",
-          "role": "CTO",
-          "bg": "OpenAI前CTO"
-        }
-      ],
-      "product": "",
-      "founded": "2024-11",
-      "funding": "未披露融资",
-      "scores": {
-        "tech": 90,
-        "growth": 50,
-        "team": 95,
-        "market": 85
-      },
-      "score": 78,
-      "discoveredAt": "2026-05-12",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-12",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yarbo",
-      "name": "Yarbo Inc.",
-      "desc": "研发智能机器人割草机，主打庭院自动化，近期因远程后门争议引发关注",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "机器人",
-        "割草机",
-        "IoT",
-        "智能家居"
+        "国防科技",
+        "人工智能",
+        "自主可控"
       ],
       "team": [],
-      "product": "https://yarbo.com/",
-      "founded": "2021-01",
-      "funding": "未披露具体融资信息",
+      "product": "",
+      "founded": "",
+      "funding": "近亿元人民币B+轮融资，由成都科创投、红山基金等联合投资。",
       "scores": {
         "tech": 70,
         "growth": 60,
@@ -6316,50 +6145,44 @@
       },
       "score": 63,
       "discoveredAt": "2026-05-12",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-12",
-        "website": {
-          "website": "https://yarbo.com/",
-          "emails": [
-            "asdla23@qq.com",
-            "service@yarbo.com",
-            "support@yarbo.com"
-          ],
-          "socials": {
-            "twitter": "yarboglobal"
-          },
-          "careerPage": null,
-          "jobListings": []
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
       }
     },
     {
-      "id": "heaviside",
-      "name": "Heaviside",
-      "desc": "军火初创公司，从隐身模式走出，完成2800万美元A轮融资",
-      "track": "hardtech",
-      "stage": "a",
+      "id": "thinking-machines",
+      "name": "Thinking Machines Lab",
+      "desc": "由OpenAI前CTO创立的AI初创，研发交互模型。",
+      "track": "ai",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "munitions",
-        "defense",
-        "stealth"
+        "交互模型",
+        "AI对话",
+        "人性化AI"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "Mira Murati",
+          "role": "CEO",
+          "bg": "OpenAI前CTO"
+        }
+      ],
       "product": "",
-      "founded": "",
-      "funding": "$28M Series A",
+      "founded": "2025-01",
+      "funding": "",
       "scores": {
-        "tech": 70,
+        "tech": 95,
         "growth": 50,
-        "team": 50,
-        "market": 50
+        "team": 95,
+        "market": 80
       },
-      "score": 56,
+      "score": 78,
       "discoveredAt": "2026-05-12",
       "discussionCount": 1,
       "contacts": {
@@ -6371,40 +6194,33 @@
       }
     },
     {
-      "id": "launchparty",
-      "name": "Launch Party",
-      "desc": "早期B2B SaaS创始人的社区平台",
-      "track": "saas",
-      "stage": "seed",
+      "id": "exaforce",
+      "name": "Exaforce",
+      "desc": "使用AI实时检测和阻止网络攻击的网络安全公司",
+      "track": "ai",
+      "stage": "b+",
       "city": "overseas",
       "tags": [
-        "community",
-        "b2b",
-        "saas",
-        "founders"
+        "网络安全",
+        "AI",
+        "实时检测"
       ],
       "team": [],
-      "product": "https://joinlaunchparty.com",
+      "product": "",
       "founded": "",
-      "funding": "",
+      "funding": "2026年5月完成1.25亿美元B轮融资，估值7.25亿美元",
       "scores": {
-        "tech": 30,
-        "growth": 40,
+        "tech": 70,
+        "growth": 60,
         "team": 50,
-        "market": 60
+        "market": 80
       },
-      "score": 43,
+      "score": 65,
       "discoveredAt": "2026-05-12",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-12",
-        "website": {
-          "website": "https://joinlaunchparty.com",
-          "emails": [],
-          "socials": {},
-          "careerPage": "https://joinlaunchparty.com/careers",
-          "jobListings": []
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}

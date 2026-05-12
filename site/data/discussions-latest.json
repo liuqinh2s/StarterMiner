@@ -4359,70 +4359,70 @@
       "relatedProject": "nexus-api"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36",
-      "title": "Walulu：用六个月撕开一条新赛道",
-      "url": "https://36kr.com/p/3805761383751427?f=rss",
-      "snippet": "成都雨之灵动科技完成天使及Pre-A轮融资，其AI仿生毛绒宠物Walulu定位AI时代宝可梦",
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "融资丨精灵云完成近亿元B+轮融资",
+      "url": "http://www.cyzone.cn/article/833008.html",
+      "snippet": "精灵云完成近亿元人民币B+轮融资，由成都科创投、红山基金等投资，深耕国防科技智能化领域。",
+      "date": "2026-05-11",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "jinglingyun"
+    },
+    {
+      "source": "创业邦",
+      "sourceIcon": "邦",
+      "title": "融资丨塑新科技两年五轮融资，跑通全球首条万吨酶法rPET产线",
+      "url": "http://www.cyzone.cn/article/832978.html",
+      "snippet": "塑新科技连续完成A轮和A+轮融资，成立两年建成全球首条万吨酶法再生PET产线，已出货近千吨。",
+      "date": "2026-05-11",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "suxin"
+    },
+    {
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "对话维他动力余轶南：融资 5 亿，如何跨过从 Demo 到量产的 5 个月",
+      "url": "http://www.geekpark.net/news/364058",
+      "snippet": "5月11日，Vbot维他动力宣布完成近5亿元Pre-A轮融资，由东方嘉富、华泰紫金、复星锐正联合领投，上汽集团旗下尚颀资本、明荟致远跟投，凯辉基金、今日资本、高瓴创投等老股东全部继续跟投。这也是国内消费级具身智能赛道迄今为止最大的单笔融资。",
       "date": "2026-05-12",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "walulu"
+      "relatedProject": "vbot"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36",
-      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
-      "url": "https://36kr.com/p/3805672617959173?f=rss",
-      "snippet": "熵约科技完成种子轮融资，首款产品家庭飞行机器人Flyer O1面向欧美家庭市场",
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "OpenAI 前 CTO，拿出了一个「最人性」的 AI",
+      "url": "http://www.geekpark.net/news/364044",
+      "snippet": "作者｜桦林舞王 编辑｜ 靖宇 在「蛰伏」了 18 个月后，OpenAI 前 CTO Mira Murati 的新团队，Thinking Machines，终于交出了自己的答卷。 5 月 11 日，Thinking Machines Lab 发布了一段研究预览视频，展示了他们所谓的「交互模型」（Interaction Model）。",
       "date": "2026-05-12",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "shangyue"
+      "relatedProject": "thinking-machines"
     },
     {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "When Will Early Startup Employees Get Their Fair Share?",
-      "url": "https://www.lesecretairedefernand.co/en/entrepreneurship/can-startups-share-value-more-fairly-without-scaring-investors/",
-      "snippet": "探讨初创公司如何更公平地分配价值给早期员工",
+      "source": "极客公园",
+      "sourceIcon": "极客",
+      "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+      "url": "http://www.geekpark.net/news/363963",
+      "snippet": "全球首次用单一神经网络实现多机器人协作 locomanipulation。 作者｜Li Yuan 编辑｜ 靖宇 5 月 8 日晚，Figure AI 发布了新的 demo。 卧室里，两台 Helix‑02 机器人在不到两分钟的时间里完成了整个房间的整理：开关门、挂衣服、收拾耳机、倒垃圾、推动椅子，最终把床上的被子整齐盖好。",
       "date": "2026-05-11",
-      "likes": 3,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Munitions startup, Heaviside, out of stealth – $28M Series A",
-      "url": "https://www.tectonicdefense.com/exclusive-heaviside-emerges-from-stealth-with-28m-series-a/",
-      "snippet": "Heaviside从隐身模式走出，完成2800万美元A轮融资",
-      "date": "2026-05-11",
-      "likes": 3,
-      "comments": 1,
-      "relatedProject": "heaviside"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "The Linux Kernel Startup",
-      "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-      "snippet": "关于Linux内核启动的技术文章",
-      "date": "2026-05-11",
-      "likes": 4,
+      "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "figure-ai"
     },
     {
-      "source": "微博",
-      "sourceIcon": "WB",
-      "title": "#深圳夫妻囤存储芯片5个月狂涨320亿#",
-      "url": "https://s.weibo.com/weibo?q=%23深圳夫妻囤存储芯片5个月狂涨320亿%23",
-      "snippet": "#深圳夫妻囤存储芯片5个月狂涨320亿#",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+      "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+      "snippet": "Exaforce完成1.25亿美元B轮融资，估值7.25亿美元，用AI实时阻止网络攻击。",
       "date": "2026-05-12",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "exaforce"
     }
   ]
 }
