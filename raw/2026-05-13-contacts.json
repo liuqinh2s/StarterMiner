@@ -859,7 +859,10 @@
       "fetchedAt": "2026-05-13",
       "website": {
         "website": "https://www.assemblysimulator.com/",
-        "emails": [],
+        "emails": [
+          "team@assemblysimulator.com",
+          "alex@yourcompany.com"
+        ],
         "socials": {},
         "careerPage": null,
         "jobListings": []
@@ -1287,6 +1290,7 @@
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
+          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
           "Data Center",
           "Data privacy policy"
         ]
@@ -1550,7 +1554,9 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com"
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -2243,19 +2249,8 @@
     }
   },
   {
-    "id": "junyang-ai",
-    "name": "林俊旸创业公司",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "photoncore",
-    "name": "光子芯力（北京）科技有限公司",
+    "id": "linjunyang",
+    "name": "林俊旸新创公司",
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
@@ -2276,74 +2271,8 @@
     }
   },
   {
-    "id": "fangshi",
-    "name": "北京方石机器人有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "ola-dimensions",
-    "name": "欧拉万象（Ola Dimensions）",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "weiyuanhecheng",
-    "name": "微元合成",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "suxin-tech",
-    "name": "北京塑新科技",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xinghuan-juneng",
-    "name": "星环聚能",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "familiar",
-    "name": "Familiar Machines",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "sadi-thermal-machines",
-    "name": "Sadi Thermal Machines",
+    "id": "mind-robotics",
+    "name": "Mind Robotics",
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
@@ -2355,6 +2284,61 @@
   {
     "id": "immunocan",
     "name": "Immunocan",
+    "contacts": {
+      "fetchedAt": "2026-05-13",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "markey",
+    "name": "Markey",
+    "contacts": {
+      "fetchedAt": "2026-05-13",
+      "website": {
+        "website": "https://markey.app",
+        "emails": [
+          "support@markey.app",
+          "security@markey.app"
+        ],
+        "socials": {
+          "twitter": "markeyhq",
+          "github": "markey"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ardent",
+    "name": "Ardent",
+    "contacts": {
+      "fetchedAt": "2026-05-13",
+      "website": {
+        "website": "https://www.tryardent.com",
+        "emails": [],
+        "socials": {
+          "twitter": "ArdentAI",
+          "linkedin": "ardent-db",
+          "github": "ArdentAILabs"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fractile",
+    "name": "Fractile",
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
@@ -2377,50 +2361,6 @@
           "DesignVerse"
         ]
       },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "gregoai",
-    "name": "Grego AI",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "voker",
-    "name": "Voker",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {
-        "website": "https://voker.ai",
-        "emails": [
-          "support@voker.ai"
-        ],
-        "socials": {
-          "twitter": "voker",
-          "linkedin": "voker"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "heaviside",
-    "name": "Heaviside",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
