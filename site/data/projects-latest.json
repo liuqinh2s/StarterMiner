@@ -1531,7 +1531,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 2,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-13",
         "website": {
@@ -3531,7 +3531,6 @@
           },
           "careerPage": "https://www.minimax.com/career",
           "jobListings": [
-            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
             "Data Center",
             "Data privacy policy"
           ]
@@ -4227,9 +4226,7 @@
             "info@latitudemedia.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com"
+            "careers@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -6229,22 +6226,60 @@
       }
     },
     {
-      "id": "guangzixinli",
+      "id": "junyang-ai",
+      "name": "林俊旸创业公司",
+      "desc": "前阿里千问技术负责人林俊旸创立的AI公司，专注世界模型和具身大脑",
+      "track": "ai",
+      "stage": "seed",
+      "city": "beijing",
+      "tags": [
+        "AI",
+        "世界模型",
+        "具身大脑"
+      ],
+      "team": [
+        {
+          "name": "林俊旸",
+          "role": "CEO",
+          "bg": "前阿里千问技术负责人"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "估值约20亿美金，接触红杉中国、高榕创投等",
+      "scores": {
+        "tech": 85,
+        "growth": 50,
+        "team": 80,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "photoncore",
       "name": "光子芯力（北京）科技有限公司",
-      "desc": "专注于光电融合计算芯片，采用全波超表面技术路线",
+      "desc": "专注于光电融合计算芯片的硬科技初创公司，采用全波计算技术路线",
       "track": "semiconductor",
       "stage": "angel",
       "city": "beijing",
       "tags": [
         "光计算",
         "光电融合",
-        "超表面",
         "芯片"
       ],
       "team": [
         {
           "name": "杨其晟",
-          "role": "创始人/CEO",
+          "role": "CEO",
           "bg": "清华大学集成电路学院博士"
         }
       ],
@@ -6252,10 +6287,318 @@
       "founded": "2024",
       "funding": "数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投",
       "scores": {
+        "tech": 80,
+        "growth": 50,
+        "team": 70,
+        "market": 70
+      },
+      "score": 67,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "guangzixinli",
+      "name": "光子芯力（北京）科技有限公司",
+      "desc": "聚焦光电异构计算芯片的硬科技初创公司",
+      "track": "semiconductor",
+      "stage": "angel",
+      "city": "beijing",
+      "tags": [
+        "光计算",
+        "AI芯片",
+        "全波超表面"
+      ],
+      "team": [
+        {
+          "name": "杨其晟",
+          "role": "创始人",
+          "bg": "清华大学集成电路学院博士"
+        }
+      ],
+      "product": "",
+      "founded": "2024",
+      "funding": "数千万元天使轮，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投",
+      "scores": {
         "tech": 85,
         "growth": 50,
         "team": 80,
         "market": 70
+      },
+      "score": 70,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fangshi",
+      "name": "北京方石机器人有限公司",
+      "desc": "智能建造机器人开发商，提供全栈自研AI解决方案",
+      "track": "robotics",
+      "stage": "a",
+      "city": "beijing",
+      "tags": [
+        "智能建造",
+        "具身智能",
+        "建筑大模型"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2019",
+      "funding": "近亿元A轮融资，由北京科创亦庄直投基金、航发基金等投资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 85
+      },
+      "score": 72,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ola-dimensions",
+      "name": "欧拉万象（Ola Dimensions）",
+      "desc": "家庭具身智能企业，聚焦家庭机器人数据闭环",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "家庭机器人",
+        "具身智能"
+      ],
+      "team": [
+        {
+          "name": "周顺波",
+          "role": "创始人/CEO",
+          "bg": "华为具身智能1号员工、天才少年"
+        },
+        {
+          "name": "张靖",
+          "role": "联合创始人",
+          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "数千万元种子轮+数亿元融资，招商局创投领投",
+      "scores": {
+        "tech": 85,
+        "growth": 90,
+        "team": 90,
+        "market": 80
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "weiyuanhecheng",
+      "name": "微元合成",
+      "desc": "合成生物制造企业，AI赋能糖醇等产品规模化生产",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "合成生物",
+        "糖醇",
+        "AI生物计算"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "15亿元新一轮融资，用于并购豫鑫",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 50,
+        "market": 80
+      },
+      "score": 72,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "suxin-tech",
+      "name": "北京塑新科技",
+      "desc": "酶法再生PET技术企业，全球首条万吨级产线",
+      "track": "biotech",
+      "stage": "a+",
+      "city": "beijing",
+      "tags": [
+        "塑料回收",
+        "酶法",
+        "合成生物"
+      ],
+      "team": [
+        {
+          "name": "向科炜",
+          "role": "CEO",
+          "bg": "四川大学高分子系博士"
+        },
+        {
+          "name": "董维亮",
+          "role": "CTO",
+          "bg": "南京工业大学教授"
+        },
+        {
+          "name": "齐云达",
+          "role": "CFO",
+          "bg": "摩根士丹利及国内创投背景"
+        }
+      ],
+      "product": "",
+      "founded": "2024",
+      "funding": "两年五轮融资，A+轮由赋远投资领投",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 85,
+        "market": 90
+      },
+      "score": 88,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xinghuan-juneng",
+      "name": "星环聚能",
+      "desc": "可控核聚变技术企业，推动NTST装置建设",
+      "track": "newenergy",
+      "stage": "a+",
+      "city": "shanghai",
+      "tags": [
+        "可控核聚变",
+        "托卡马克",
+        "清洁能源"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2021",
+      "funding": "5亿元A+轮融资，累计超20亿元",
+      "scores": {
+        "tech": 95,
+        "growth": 80,
+        "team": 70,
+        "market": 90
+      },
+      "score": 84,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "familiar",
+      "name": "Familiar Machines",
+      "desc": "家庭机器人初创公司，由iRobot创始人创立，打造人造赛博宠物",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "家庭机器人",
+        "具身智能",
+        "赛博宠物"
+      ],
+      "team": [
+        {
+          "name": "Colin Angle",
+          "role": "创始人",
+          "bg": "iRobot联合创始人，家庭机器人专家"
+        }
+      ],
+      "product": "",
+      "founded": "2026-01",
+      "funding": "",
+      "scores": {
+        "tech": 80,
+        "growth": 50,
+        "team": 90,
+        "market": 80
+      },
+      "score": 73,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "sadi-thermal-machines",
+      "name": "Sadi Thermal Machines",
+      "desc": "由前特斯拉高管创立的热泵技术初创公司",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "热泵",
+        "清洁能源",
+        "硬件"
+      ],
+      "team": [
+        {
+          "name": "Drew Baglino",
+          "role": "创始人&CEO",
+          "bg": "前特斯拉高管、Heron Power CEO"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "未披露融资信息",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 90,
+        "market": 80
       },
       "score": 70,
       "discoveredAt": "2026-05-13",
@@ -6269,127 +6612,30 @@
       }
     },
     {
-      "id": "fangshijiqiren",
-      "name": "北京方石机器人有限公司",
-      "desc": "智能建造机器人本体开发商，打造具身智能+建筑大模型解决方案",
-      "track": "robotics",
+      "id": "immunocan",
+      "name": "Immunocan",
+      "desc": "基于基因编辑动物的抗体发现平台，专注于全人源兔抗体",
+      "track": "biotech",
       "stage": "a",
-      "city": "beijing",
+      "city": "shanghai",
       "tags": [
-        "机器人",
-        "建筑",
-        "具身智能",
-        "AI"
+        "抗体发现",
+        "基因编辑",
+        "生物技术"
       ],
-      "team": [
-        {
-          "name": "李思桥",
-          "role": "创始人",
-          "bg": ""
-        }
-      ],
-      "product": "",
-      "founded": "2019",
-      "funding": "近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资",
-      "scores": {
-        "tech": 80,
-        "growth": 85,
-        "team": 70,
-        "market": 80
-      },
-      "score": 80,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yuzhilingdong",
-      "name": "成都雨之灵动科技有限公司",
-      "desc": "AI仿生毛绒宠物Walulu，打造AI时代的宝可梦",
-      "track": "consumer",
-      "stage": "pre-a",
-      "city": "chengdu",
-      "tags": [
-        "AI",
-        "毛绒玩具",
-        "仿生",
-        "消费电子"
-      ],
-      "team": [
-        {
-          "name": "顾小毛",
-          "role": "创始人兼CEO",
-          "bg": ""
-        }
-      ],
+      "team": [],
       "product": "",
       "founded": "",
-      "funding": "数千万元天使轮及Pre-A轮融资，投资方包括KK集团、4399、科大讯飞和一家知名财务投资机构",
+      "funding": "2026年5月完成2.5亿元人民币A轮融资，由Vivo Capital领投",
       "scores": {
-        "tech": 75,
+        "tech": 80,
         "growth": 60,
-        "team": 70,
-        "market": 70
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "shangyuekeji",
-      "name": "深圳熵约智能科技有限公司",
-      "desc": "全球首款家庭飞行机器人Flyer O1，定位智能管家",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "shenzhen",
-      "tags": [
-        "飞行机器人",
-        "家庭",
-        "智能管家",
-        "无人机"
-      ],
-      "team": [
-        {
-          "name": "曾武",
-          "role": "联合创始人",
-          "bg": "新加坡南洋理工大学博士"
-        },
-        {
-          "name": "况伟杰",
-          "role": "联合创始人",
-          "bg": "马来西亚理科大学博士"
-        },
-        {
-          "name": "万浩诚",
-          "role": "联合创始人",
-          "bg": "清华智能产业研究院研究员"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "数百万美元种子轮融资，由初心资本独家投资",
-      "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 85,
+        "team": 50,
         "market": 75
       },
-      "score": 71,
+      "score": 67,
       "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-13",
         "website": {},
@@ -6399,16 +6645,56 @@
       }
     },
     {
-      "id": "vectorresonance",
-      "name": "向量共振",
-      "desc": "提出AI品牌认知治理理论，帮助企业管理AI世界中的品牌形象",
+      "id": "designverse",
+      "name": "DesignVerse",
+      "desc": "利用AI升级欧洲空中交通系统的初创公司",
       "track": "ai",
-      "stage": "idea",
-      "city": "other",
+      "stage": "seed",
+      "city": "overseas",
       "tags": [
-        "AI品牌",
-        "GEO",
-        "品牌认知"
+        "AI",
+        "航空",
+        "空中交通"
+      ],
+      "team": [],
+      "product": "https://designverse.ai",
+      "founded": "",
+      "funding": "融资550万美元",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-13",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-13",
+        "website": {
+          "website": "https://designverse.ai",
+          "emails": [],
+          "socials": {},
+          "careerPage": "https://designverse.ai/careers",
+          "jobListings": [
+            "DesignVerse"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "gregoai",
+      "name": "Grego AI",
+      "desc": "AI startup that prevented a $27.7M cyberattack using AI reasoning.",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "cybersecurity",
+        "AI reasoning"
       ],
       "team": [],
       "product": "",
@@ -6432,337 +6718,39 @@
       }
     },
     {
-      "id": "oladimensions",
-      "name": "欧拉万象",
-      "desc": "家庭具身智能机器人公司，构建家庭机器人数据闭环",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "具身智能",
-        "家庭机器人",
-        "数据闭环"
-      ],
-      "team": [
-        {
-          "name": "周顺波",
-          "role": "创始人",
-          "bg": "前华为具身智能1号员工、天才少年"
-        },
-        {
-          "name": "张靖",
-          "role": "联合创始人",
-          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "2026年4月获高瓴创投、五源资本数千万元种子轮；2026年5月获招商局创投领投数亿元",
-      "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 85,
-        "market": 70
-      },
-      "score": 70,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "weiyuan",
-      "name": "微元合成",
-      "desc": "合成生物制造公司，利用AI生物计算平台生产糖醇等大宗产品",
-      "track": "biotech",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "合成生物",
-        "糖醇",
-        "AI生物计算"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "15亿元新一轮融资（股权+贷款）",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 63,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "jingling",
-      "name": "精灵云",
-      "desc": "新一代国防科技智能领航企业",
-      "track": "other",
-      "stage": "b+",
-      "city": "chengdu",
-      "tags": [
-        "国防科技",
-        "人工智能",
-        "智能装备"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "完成近亿元B+轮融资，由成都科创投、红山基金等投资",
-      "scores": {
-        "tech": 75,
-        "growth": 65,
-        "team": 50,
-        "market": 70
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "thinkingmachines",
-      "name": "Thinking Machines Lab",
-      "desc": "由OpenAI前CTO Mira Murati创办的AI初创公司，致力于开发更自然的实时交互AI模型。",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI交互",
-        "实时对话",
-        "互动模型",
-        "前OpenAI"
-      ],
-      "team": [
-        {
-          "name": "Mira Murati",
-          "role": "CEO/创始人",
-          "bg": "前OpenAI CTO，领导ChatGPT等核心产品研发"
-        }
-      ],
-      "product": "",
-      "founded": "2025-01",
-      "funding": "未披露",
-      "scores": {
-        "tech": 90,
-        "growth": 50,
-        "team": 95,
-        "market": 85
-      },
-      "score": 78,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "figureai",
-      "name": "Figure AI",
-      "desc": "美国人形机器人公司，发布全球首个多机器人协作locomanipulation demo，Helix-02机型。",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "人形机器人",
-        "多机器人协作",
-        "locomanipulation",
-        "Helix"
-      ],
-      "team": [],
-      "product": "https://www.figure.ai/",
-      "founded": "2022-01",
-      "funding": "未在新闻中提及，此前已获多轮融资",
-      "scores": {
-        "tech": 95,
-        "growth": 80,
-        "team": 70,
-        "market": 85
-      },
-      "score": 84,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {
-          "website": "https://www.figure.ai/",
-          "emails": [],
-          "socials": {
-            "twitter": "figure_robot",
-            "linkedin": "figure-ai"
-          },
-          "careerPage": "https://www.figure.ai/careers",
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "sadi-thermal",
-      "name": "Sadi Thermal Machines",
-      "desc": "热泵初创公司，由前特斯拉高管Drew Baglino创立。",
-      "track": "hardtech",
-      "stage": "pre-seed",
-      "city": "overseas",
-      "tags": [
-        "热泵",
-        "清洁能源",
-        "硬件"
-      ],
-      "team": [
-        {
-          "name": "Drew Baglino",
-          "role": "CEO",
-          "bg": "前特斯拉高管、Heron Power CEO"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "未披露",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 80,
-        "market": 70
-      },
-      "score": 63,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "immunocan",
-      "name": "Immunocan",
-      "desc": "基于基因编辑动物平台的抗体发现平台。",
-      "track": "biotech",
-      "stage": "a",
-      "city": "shanghai",
-      "tags": [
-        "抗体发现",
-        "基因编辑",
-        "生物医药"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2.5亿元人民币A轮",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
-        "market": 80
-      },
-      "score": 71,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "gregoai",
-      "name": "Grego AI",
-      "desc": "利用AI推理防御网络攻击的网络安全初创",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "AI安全",
-        "网络防御",
-        "推理"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 55,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "voker",
       "name": "Voker",
-      "desc": "AI代理分析平台，提供轻量级SDK监控代理性能",
+      "desc": "Analytics platform for AI agents, providing visibility into user queries and agent performance.",
       "track": "ai",
       "stage": "seed",
       "city": "overseas",
       "tags": [
-        "AI代理",
-        "分析",
-        "YC"
+        "agent analytics",
+        "YC",
+        "AI agents"
       ],
       "team": [
         {
           "name": "Alex",
-          "role": "Co-founder",
+          "role": "co-founder",
           "bg": ""
         },
         {
           "name": "Tyler",
-          "role": "Co-founder",
+          "role": "co-founder",
           "bg": ""
         }
       ],
       "product": "https://voker.ai",
-      "founded": "",
+      "founded": "2024-01",
       "funding": "YC S24",
       "scores": {
-        "tech": 70,
+        "tech": 50,
         "growth": 50,
         "team": 50,
-        "market": 70
+        "market": 50
       },
-      "score": 60,
+      "score": 50,
       "discoveredAt": "2026-05-13",
       "discussionCount": 1,
       "contacts": {
@@ -6787,71 +6775,31 @@
     {
       "id": "heaviside",
       "name": "Heaviside",
-      "desc": "国防科技初创公司，开发弹药武器，获2800万美元A轮融资",
+      "desc": "弹药制造初创公司，获得2800万美元A轮融资，已结束隐身模式。",
       "track": "hardtech",
       "stage": "a",
       "city": "overseas",
       "tags": [
-        "munition",
-        "defense",
-        "stealth"
+        "弹药",
+        "国防",
+        "制造"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "$28M Series A",
+      "funding": "2800万美元A轮融资",
       "scores": {
-        "tech": 50,
+        "tech": 70,
         "growth": 50,
         "team": 50,
         "market": 60
       },
-      "score": 52,
+      "score": 58,
       "discoveredAt": "2026-05-13",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-13",
         "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "launchparty",
-      "name": "Launch Party",
-      "desc": "面向早期B2B SaaS创始人的社区平台",
-      "track": "saas",
-      "stage": "pre-seed",
-      "city": "overseas",
-      "tags": [
-        "community",
-        "b2b",
-        "saas",
-        "founders"
-      ],
-      "team": [],
-      "product": "https://joinlaunchparty.com",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-13",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-13",
-        "website": {
-          "website": "https://joinlaunchparty.com",
-          "emails": [],
-          "socials": {},
-          "careerPage": "https://joinlaunchparty.com/careers",
-          "jobListings": []
-        },
         "github": {},
         "hiring": [],
         "businessInfo": {}

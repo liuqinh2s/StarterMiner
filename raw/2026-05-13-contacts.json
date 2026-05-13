@@ -1287,7 +1287,6 @@
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
-          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
           "Data Center",
           "Data privacy policy"
         ]
@@ -1551,9 +1550,7 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com"
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -2246,6 +2243,28 @@
     }
   },
   {
+    "id": "junyang-ai",
+    "name": "林俊旸创业公司",
+    "contacts": {
+      "fetchedAt": "2026-05-13",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "photoncore",
+    "name": "光子芯力（北京）科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-13",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "guangzixinli",
     "name": "光子芯力（北京）科技有限公司",
     "contacts": {
@@ -2257,7 +2276,7 @@
     }
   },
   {
-    "id": "fangshijiqiren",
+    "id": "fangshi",
     "name": "北京方石机器人有限公司",
     "contacts": {
       "fetchedAt": "2026-05-13",
@@ -2268,8 +2287,8 @@
     }
   },
   {
-    "id": "yuzhilingdong",
-    "name": "成都雨之灵动科技有限公司",
+    "id": "ola-dimensions",
+    "name": "欧拉万象（Ola Dimensions）",
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
@@ -2279,40 +2298,7 @@
     }
   },
   {
-    "id": "shangyuekeji",
-    "name": "深圳熵约智能科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "vectorresonance",
-    "name": "向量共振",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "oladimensions",
-    "name": "欧拉万象",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "weiyuan",
+    "id": "weiyuanhecheng",
     "name": "微元合成",
     "contacts": {
       "fetchedAt": "2026-05-13",
@@ -2323,8 +2309,8 @@
     }
   },
   {
-    "id": "jingling",
-    "name": "精灵云",
+    "id": "suxin-tech",
+    "name": "北京塑新科技",
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
@@ -2334,8 +2320,8 @@
     }
   },
   {
-    "id": "thinkingmachines",
-    "name": "Thinking Machines Lab",
+    "id": "xinghuan-juneng",
+    "name": "星环聚能",
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
@@ -2345,27 +2331,18 @@
     }
   },
   {
-    "id": "figureai",
-    "name": "Figure AI",
+    "id": "familiar",
+    "name": "Familiar Machines",
     "contacts": {
       "fetchedAt": "2026-05-13",
-      "website": {
-        "website": "https://www.figure.ai/",
-        "emails": [],
-        "socials": {
-          "twitter": "figure_robot",
-          "linkedin": "figure-ai"
-        },
-        "careerPage": "https://www.figure.ai/careers",
-        "jobListings": []
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
     }
   },
   {
-    "id": "sadi-thermal",
+    "id": "sadi-thermal-machines",
     "name": "Sadi Thermal Machines",
     "contacts": {
       "fetchedAt": "2026-05-13",
@@ -2381,6 +2358,25 @@
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "designverse",
+    "name": "DesignVerse",
+    "contacts": {
+      "fetchedAt": "2026-05-13",
+      "website": {
+        "website": "https://designverse.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://designverse.ai/careers",
+        "jobListings": [
+          "DesignVerse"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -2425,23 +2421,6 @@
     "contacts": {
       "fetchedAt": "2026-05-13",
       "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "launchparty",
-    "name": "Launch Party",
-    "contacts": {
-      "fetchedAt": "2026-05-13",
-      "website": {
-        "website": "https://joinlaunchparty.com",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://joinlaunchparty.com/careers",
-        "jobListings": []
-      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
