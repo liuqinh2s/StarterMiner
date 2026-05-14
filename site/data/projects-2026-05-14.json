@@ -378,7 +378,7 @@
       },
       "score": 84,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 19,
+      "discussionCount": 20,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {
@@ -424,7 +424,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 19,
+      "discussionCount": 20,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "JacobCounsell"
+            "twitter": "nhrdev"
           },
           "careerPage": null,
           "jobListings": []
@@ -498,7 +498,7 @@
       },
       "score": 87,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 19,
+      "discussionCount": 20,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {
@@ -6261,7 +6261,7 @@
       },
       "score": 72,
       "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -6549,36 +6549,36 @@
       }
     },
     {
-      "id": "yujia-power",
+      "id": "yujia",
       "name": "羽嘉动力科技（常州）有限公司",
-      "desc": "航空电推进系统研制商，专注为中大型电动航空器提供轻量化动力系统",
+      "desc": "航空电推进系统研制商，为电动航空器提供动力系统。",
       "track": "aerospace",
-      "stage": "angel",
+      "stage": "seed",
       "city": "changzhou",
       "tags": [
         "航空电推进",
         "低空经济",
-        "电动航空"
+        "eVTOL"
       ],
       "team": [
         {
           "name": "刘业",
-          "role": "创始人/CEO",
-          "bg": "南京航空航天大学电气工程本硕博"
+          "role": "创始人",
+          "bg": "南京航空航天大学博士"
         }
       ],
       "product": "",
       "founded": "2024-02",
-      "funding": "连续完成天使+、天使++两轮融资，累计数千万元，投资方包括益华投资、元禾控股、常高新、常金控",
+      "funding": "天使轮及天使+、天使++累计近亿元",
       "scores": {
-        "tech": 75,
+        "tech": 70,
         "growth": 60,
-        "team": 80,
+        "team": 75,
         "market": 80
       },
-      "score": 72,
+      "score": 70,
       "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -6588,36 +6588,36 @@
       }
     },
     {
-      "id": "zhiyu-aerospace",
-      "name": "执宇航天（深圳）科技有限公司",
-      "desc": "研发低成本液体火箭的初创公司，21岁创始人已做出原型发动机",
+      "id": "zhiyuhangtian",
+      "name": "执宇航天",
+      "desc": "火箭发动机研发，探索新型航天推进技术。",
       "track": "aerospace",
-      "stage": "idea",
+      "stage": "pre-seed",
       "city": "shenzhen",
       "tags": [
-        "液体火箭",
-        "低成本航天",
-        "年轻创业者"
+        "火箭发动机",
+        "商业航天",
+        "大学生创业"
       ],
       "team": [
         {
           "name": "张子瀚",
-          "role": "创始人/CEO",
-          "bg": "本科在读，自学航天，小学获航模国赛一等奖"
+          "role": "创始人",
+          "bg": "本科在读，自学航天"
         }
       ],
       "product": "",
       "founded": "2025-01",
-      "funding": "尚未融资，自筹资金40万元做出原型发动机",
+      "funding": "尚未披露融资信息",
       "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 60,
+        "tech": 60,
+        "growth": 40,
+        "team": 40,
         "market": 70
       },
-      "score": 62,
+      "score": 52,
       "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -6629,32 +6629,65 @@
     {
       "id": "xbotgo",
       "name": "深眸远智（XbotGo）",
-      "desc": "AI智能体育影像品牌，提供自动拍摄与数据分析设备，年增长近4倍",
-      "track": "consumer",
-      "stage": "b",
-      "city": "shenzhen",
+      "desc": "智能体育影像品牌，提供AI自动拍摄设备与运动数据分析。",
+      "track": "ai",
+      "stage": "a",
+      "city": "other",
       "tags": [
         "AI影像",
         "体育科技",
-        "自动拍摄"
+        "运动分析"
       ],
       "team": [
         {
           "name": "谈科峰",
-          "role": "创始人/CEO",
-          "bg": "有多年科技行业经验，因陪孩子踢球发现市场机会"
+          "role": "创始人兼CEO",
+          "bg": "未披露"
         }
       ],
       "product": "",
       "founded": "2021-01",
-      "funding": "近亿元新一轮融资，由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投",
+      "funding": "近亿元新一轮融资，九号资本领投",
+      "scores": {
+        "tech": 65,
+        "growth": 70,
+        "team": 60,
+        "market": 70
+      },
+      "score": 66,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "lumming",
+      "name": "鹿明机器人",
+      "desc": "产业具身领军企业，推动具身智能从工业场景落地并规模化复制",
+      "track": "robotics",
+      "stage": "a",
+      "city": "suzhou",
+      "tags": [
+        "具身智能",
+        "工业机器人",
+        "AI"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2024-01",
+      "funding": "连续完成A1及A2轮融资，累计融资近10亿元，三菱电机领投",
       "scores": {
         "tech": 75,
-        "growth": 70,
-        "team": 65,
-        "market": 80
+        "growth": 80,
+        "team": 50,
+        "market": 85
       },
-      "score": 72,
+      "score": 74,
       "discoveredAt": "2026-05-14",
       "discussionCount": 0,
       "contacts": {
@@ -6666,67 +6699,219 @@
       }
     },
     {
-      "id": "linjunyang-ai",
-      "name": "林俊旸AI创业项目",
-      "desc": "前阿里千问大模型技术负责人创业，方向为世界模型和具身大脑",
+      "id": "shuxin",
+      "name": "塑新科技",
+      "desc": "全球首条万吨级酶法再生PET产线跑通，推动塑料循环经济",
+      "track": "biotech",
+      "stage": "a",
+      "city": "beijing",
+      "tags": [
+        "酶法再生",
+        "PET",
+        "环保"
+      ],
+      "team": [
+        {
+          "name": "齐云达",
+          "role": "CFO",
+          "bg": "摩根士丹利及国内头部创投背景"
+        },
+        {
+          "name": "董维亮",
+          "role": "CTO",
+          "bg": "南京工业大学教授，十余年酶技术积累"
+        },
+        {
+          "name": "向科炜",
+          "role": "CEO",
+          "bg": "四川大学高分子博士，曾主导三棵树等产业化"
+        },
+        {
+          "name": "李佳",
+          "role": "工艺负责人",
+          "bg": "原新和成工艺负责人"
+        }
+      ],
+      "product": "",
+      "founded": "2024-01",
+      "funding": "连续完成A轮和A+轮融资，股东覆盖财务机构、化工上市公司及下游客户",
+      "scores": {
+        "tech": 85,
+        "growth": 90,
+        "team": 85,
+        "market": 80
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fengyunagri",
+      "name": "丰耘科技",
+      "desc": "AI技术重构设施农业，提供温室优化设计软件和智能控制系统",
+      "track": "ai",
+      "stage": "seed",
+      "city": "hangzhou",
+      "tags": [
+        "智慧农业",
+        "AI",
+        "温室"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2025-01",
+      "funding": "天使轮融资，由森马集团独家投资",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 75
+      },
+      "score": 61,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nuansinga",
+      "name": "暖芯迦",
+      "desc": "视觉脑机接口领军企业，发布视网膜和视皮层两条视觉重建路线产品",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "hangzhou",
+      "tags": [
+        "脑机接口",
+        "视觉重建",
+        "医疗"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "3亿元战略融资，君联资本、产业投资机构领投",
+      "scores": {
+        "tech": 90,
+        "growth": 70,
+        "team": 50,
+        "market": 85
+      },
+      "score": 75,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "einsia",
+      "name": "Einsia AI",
+      "desc": "开发AI科研自动化平台，发布Frontier-Eng Bench基准测试",
       "track": "ai",
       "stage": "seed",
       "city": "other",
       "tags": [
-        "世界模型",
-        "具身智能",
-        "大模型"
-      ],
-      "team": [
-        {
-          "name": "林俊旸",
-          "role": "创始人",
-          "bg": "前阿里千问大模型技术负责人"
-        }
-      ],
-      "product": "",
-      "founded": "2026-01",
-      "funding": "以约20亿美金估值开启融资，接触红杉中国、高榕创投等",
-      "scores": {
-        "tech": 90,
-        "growth": 50,
-        "team": 85,
-        "market": 85
-      },
-      "score": 76,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "einsia-ai",
-      "name": "Einsia AI",
-      "desc": "旗下Navers Lab发布Frontier-Eng Bench基准测试，评估AI工程优化能力。",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
         "AI Agent",
-        "基准测试",
-        "工程优化"
+        "科研自动化"
       ],
       "team": [],
       "product": "",
-      "founded": "",
+      "founded": "2025-01",
       "funding": "",
       "scores": {
         "tech": 70,
         "growth": 50,
         "team": 50,
-        "market": 50
+        "market": 60
       },
-      "score": 56,
+      "score": 58,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "thinkingmachines",
+      "name": "Thinking Machines Lab",
+      "desc": "由OpenAI前CTO创立的AI公司，开发交互式AI模型",
+      "track": "ai",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "AI交互",
+        "实时对话",
+        "多模态"
+      ],
+      "team": [
+        {
+          "name": "Mira Murati",
+          "role": "CTO",
+          "bg": "OpenAI前CTO"
+        }
+      ],
+      "product": "",
+      "founded": "2024",
+      "funding": "",
+      "scores": {
+        "tech": 90,
+        "growth": 70,
+        "team": 95,
+        "market": 80
+      },
+      "score": 83,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "figureai",
+      "name": "Figure AI",
+      "desc": "全球领先的人形机器人公司，实现多机器人协作",
+      "track": "robotics",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "人形机器人",
+        "多机器人协作",
+        "具身智能"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "全球最贵的人形机器人公司，具体融资未在此提及",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 85,
+        "market": 85
+      },
+      "score": 85,
       "discoveredAt": "2026-05-14",
       "discussionCount": 0,
       "contacts": {
@@ -6740,84 +6925,19 @@
     {
       "id": "fusionap",
       "name": "FusionAP",
-      "desc": "马来西亚半导体封装公司，MAPC成员，获得200万美元融资。",
-      "track": "semiconductor",
+      "desc": "马来西亚半导体先进封装公司，获得200万美元pre-seed融资",
+      "track": "hardtech",
       "stage": "pre-seed",
       "city": "overseas",
       "tags": [
         "半导体封装",
+        "MAPC成员",
         "先进封装"
       ],
       "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "获得200万美元pre-seed融资，由Vertex Ventures Southeast Asia & India和Southern Capital Group联合领投。",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "mindrobotics",
-      "name": "Mind Robotics",
-      "desc": "Rivian分拆的AI机器人初创公司，专注于自动驾驶和机器人技术",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "自动驾驶",
-        "机器人",
-        "AI"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2025-11",
-      "funding": "已累计融资超过10亿美元，最新一轮4亿美元",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "silicondata",
-      "name": "Silicon Data",
-      "desc": "与CME合作推出首个计算期货的数据初创公司",
-      "track": "fintech",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "计算期货",
-        "数据",
-        "金融基础设施"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
+      "product": null,
+      "founded": null,
+      "funding": "200万美元pre-seed轮融资，由Vertex Ventures Southeast Asia & India和Southern Capital Group联合领投",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -6826,7 +6946,7 @@
       },
       "score": 52,
       "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -6836,21 +6956,21 @@
       }
     },
     {
-      "id": "hirelikeapro",
-      "name": "Hire Like A Pro",
-      "desc": "为初创公司创始人提供的免费AI招聘工具包",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
+      "id": "atech",
+      "name": "Atech",
+      "desc": "硬件初创公司，将vibe coding引入硬件，获80万美元pre-seed",
+      "track": "hardtech",
+      "stage": "pre-seed",
+      "city": "overseas",
       "tags": [
-        "AI",
-        "招聘",
-        "免费工具"
+        "硬件",
+        "vibe coding",
+        "开源硬件"
       ],
       "team": [],
-      "product": "https://hirelikeapro.app/",
-      "founded": "",
-      "funding": "",
+      "product": null,
+      "founded": null,
+      "funding": "80万美元pre-seed轮融资，投资方包括a16z scout fund、Sequoia Scout Fund和Nordic Makers",
       "scores": {
         "tech": 50,
         "growth": 50,
@@ -6862,45 +6982,64 @@
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
-        "website": {
-          "website": "https://hirelikeapro.app/",
-          "emails": [
-            "mihai@valuablerecruitment.com"
-          ],
-          "socials": {
-            "linkedin": "arsenemihai"
-          },
-          "careerPage": "https://hirelikeapro.app/careers",
-          "jobListings": [
-            "Software Engineer Job Description Template",
-            "How to Hire a Software Developer",
-            "Marketing Manager Interview Questions",
-            "\"AI Job Description Generator\",",
-            "\"name\": \"How does the AI job description generator work?\",",
-            "\"name\": \"How does the AI interview analysis feature work?\",",
-            "Hire with Structure, Not Vibes — Free AI Hiring Tool for Founders",
-            "Free AI Job Description Generator"
-          ]
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}
       }
     },
     {
-      "id": "nameclaim",
-      "name": "NameClaim",
-      "desc": "检查初创公司名称是否可用的工具",
-      "track": "saas",
+      "id": "synthetic",
+      "name": "Synthetic",
+      "desc": "全自动AI记账服务，由前Bench创始人Ian Crosby创立",
+      "track": "fintech",
       "stage": "seed",
-      "city": "other",
+      "city": "overseas",
       "tags": [
-        "命名",
-        "初创服务",
-        "域名检查"
+        "AI记账",
+        "自动化",
+        "SaaS"
+      ],
+      "team": [
+        {
+          "name": "Ian Crosby",
+          "role": "CEO",
+          "bg": "Bench联合创始人"
+        }
+      ],
+      "product": null,
+      "founded": null,
+      "funding": "1000万美元融资，由Khosla Ventures投资",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 80,
+        "market": 70
+      },
+      "score": 66,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yaw-labs",
+      "name": "Yaw Labs",
+      "desc": "开发终端领域的初创公司，为重视上下文的人构建终端工具",
+      "track": "saas",
+      "stage": "unknown",
+      "city": "overseas",
+      "tags": [
+        "terminal",
+        "developer-tools"
       ],
       "team": [],
-      "product": "https://nameclaim.xyz",
+      "product": "",
       "founded": "",
       "funding": "",
       "scores": {
@@ -6914,17 +7053,7 @@
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
-        "website": {
-          "website": "https://nameclaim.xyz",
-          "emails": [
-            "support@nameclaim.xyz"
-          ],
-          "socials": {
-            "twitter": "cameronhagighat"
-          },
-          "careerPage": null,
-          "jobListings": []
-        },
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}

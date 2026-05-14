@@ -101,20 +101,30 @@
   },
   {
     "source": "36氪",
-    "title": "ST龙韵：全资子公司拟挂牌出售投资性房地产",
-    "summary": "36氪获悉，ST龙韵公告，公司全资子公司上海钬都实业有限公司（简称“钬都实业”）拟将其持有的位于上海市松江区佘山镇佘新路99号的投资性房地产通过上海联合产权交易所公开挂牌方式出售，挂牌价格为2025年12月31日标的资产的评估值1.26亿元（最终以经国资有权部门备案的评估值为准）。",
-    "url": "https://36kr.com/newsflashes/3809019801951747?f=rss",
-    "published": "2026-05-14 18:55:18  +0800",
+    "title": "北交所新股发行迎改革窗口期，市值打新成市场关注焦点",
+    "summary": "近期北交所新股热度高涨、IPO扩容提速，万亿打新资金常态化进场，其中中科仪时隔3年重启询价发行上市，更是释放市场化定价改革信号。伴随北交所打新机制多轮迭代，纯现金打新弊端显现，机构参与度不足、散户中签难等问题突出，市值打新落地可行性及制度设计成为市场关注焦点。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3809753689677577?f=rss",
+    "published": "2026-05-15 07:21:51  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
     "source": "36氪",
-    "title": "瑞华泰：产品位于产业链上游前端环节且距离终端应用层级较远，目前没有重要新增订单",
-    "summary": "36氪获悉，瑞华泰公告，市场近期高度关注商业航天、PCB相关概念。现阶段，公司的主营业务为高性能聚酰亚胺薄膜的研发、生产和销售。公司在航天领域的业务多体现为项目合作研发模式，占总营业收入比例不足1%。公司产品位于产业链上游前端环节，距离终端应用层级较远，目前没有重要新增订单，对公司业绩影响有限。",
-    "url": "https://36kr.com/newsflashes/3808972192161288?f=rss",
-    "published": "2026-05-14 18:06:52  +0800",
+    "title": "4月再融资项目受理量创年内单月新高，科创板、创业板受理数量最多",
+    "summary": "今年以来，监管层多次表态优化再融资机制，包括支持上市公司做优做强、引导资金流向国家战略领域、提升审核效率等。从4月申报情况看，再融资项目受理量同比增长66%，创下年内单月新高。其中，科创板、创业板受理数量最多，体现监管层对科技创新企业的支持。从保荐机构角度来看，大型券商凭借项目储备和客户资源优势持续领跑，前五家机构包揽超四成份额。在IPO马太效应加剧的背景下，再融资市场逐渐成为中小券商投行突围的新战场，多家机构已明确将其列为今年重点发力的方向。（）其中",
+    "url": "https://36kr.com/newsflashes/3809749767888646?f=rss",
+    "published": "2026-05-15 07:17:52  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "source": "36氪",
+    "title": "LVMH将把Marc Jacobs出售给WHP Global",
+    "summary": "LVMH集团当地时间5月14日宣布，与美国品牌管理公司WHP Global达成协议，将Marc Jacobs出售给后者，交易完成后，Marc Jacobs将继续担任创始人兼创意总监，交易预计将在年底前完成。（界面）",
+    "url": "https://36kr.com/newsflashes/3809746106949378?f=rss",
+    "published": "2026-05-15 07:14:08  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-14"
@@ -305,6 +315,16 @@
     "summary": "龙头的下一步。",
     "url": "https://www.tmtpost.com/7988491.html",
     "published": "Thu, 14 May 2026 17:55:17 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "source": "极客公园",
+    "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
+    "summary": "最近业界都在传，DeepSeek 进行了目标可能高达 500 亿人民币的首轮融资，将刷新中国大模型公司单轮融资最高纪录。据我了解到的消息，是不是 500 亿的规模虽然无法确定，但其首轮融资金额已打破纪录并严重超募，成功完成首轮融资已成定局。 那么，今天这样的形势下，中国大模型玩家的未来格局是什么样的？甚至未来市场上能有多少家大模型玩家？这些玩家将如何构成？其实挺值得讨论一下。 竞赛规则和目标越来越明确 先说个业界的共识：Scaling law 并没有到头， 「更多维度的数据，更高质量的数据工程，更大的算力带来的更庞大的基模，还在给模型能力带来快速增长，甚至这种能力的成长还没有看到边界。」这基本上是现阶段硅谷一线 Researcher 的共识。 这种共识代表着某种「确定性」，这意味着提升模型智能水平，在一定程度上从一个高风险的科学探索问题，开始更靠近一个高投入的工程和资本问题。只要有足够的数据、算力和工程执行力，持续投入就能换来相对可预期的智能提升。 与此同时 智能本身也逼近了一个临界点——智能程度足以实现自进化。 Anthropic Claude Cowork 的代码全部由 Claud",
+    "url": "http://www.geekpark.net/news/364208",
+    "published": "Thu, 14 May 2026 19:52:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-14"
@@ -560,16 +580,6 @@
     "fetchedAt": "2026-05-14"
   },
   {
-    "source": "极客公园",
-    "title": "实测纳逗 Pro：能做专业影视级内容的智能平台长啥样",
-    "summary": "作者｜Cynthia 编辑｜ 郑玄 这个春天，谁的社交媒体，还没有被各种小猫炒菜、小狗做播客，酱板鸭救狐狸的 AI 视频刷屏？ 魔性视频爆火的背后，AI 视频也已经跨过从能不能用到好不好用的关键节点。 能否实现 稳定产出高质量可直接商用、达标影视级甚至院线级标准 ，能否真正切入专业影视创作链条，深度适配专业级影视制作全流程，补齐当下行业空白，成为了这一阶段新的行业命题。 相应的，行业话语权，也逐渐从模型方，转移到了更了解影视行业本身，更懂审美，以及拥有丰富资源调度能力的专业影视公司以及平台方手中。 3 月 30 日，爱奇艺正式官宣发布的专业级影视制作平台纳逗 Pro，正是其中代表。通过将行业领先基座模型与爱奇艺深耕多年的影视内容制作经验深度结合，纳逗 Pro 直接将目标对准了电视剧、院线级内容从剧本生成、分镜设计到成片输出的创作全流程。 那么，纳逗 Pro 究竟体验如何？以下是我们深度测试的过程。 01 AI 如何打破专业内容生产的重资产壁垒 知名影视出品人、制片人郑林曾这样复盘过去影视行业的痛点：为一场日出光线，剧组几百人等三天；为三秒爆炸镜头，后期渲染两个月；美术部门为虚构城池打磨",
-    "url": "http://www.geekpark.net/news/363720",
-    "published": "Wed, 06 May 2026 12:09:21 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
     "source": "爱范儿",
     "title": "当 AI Agent 走向无处不在，MediaTek 想做的不只是手机芯片",
     "summary": "设备一直在变，但芯片作为中枢的地位不变。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -601,230 +611,70 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-    "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-    "published": "Thu, 14 May 2026 05:24:39 +0000",
+    "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+    "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+    "url": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+    "published": "Thu, 14 May 2026 20:43:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-    "summary": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
-    "url": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-    "published": "Wed, 13 May 2026 17:42:20 +0000",
+    "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+    "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+    "published": "Thu, 14 May 2026 20:23:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
     "source": "TechCrunch",
-    "title": "X launches a History tab for bookmarks, likes, videos, and articles",
-    "summary": "X’s new History tab combines bookmarks, likes, watched videos, and read articles into a single place, expanding the app’s role as a save-it-for-later tool.",
-    "url": "https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/",
-    "published": "Wed, 13 May 2026 17:16:32 +0000",
+    "title": "What happens when AI starts building itself?",
+    "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "published": "Thu, 14 May 2026 19:57:20 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Rivian spinoff Mind Robotics raises another $400M",
-    "summary": "Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.",
-    "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-    "published": "Wed, 13 May 2026 16:34:21 +0000",
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "published": "Thu, 14 May 2026 19:05:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic courts a new kind of customer: small business owners",
-    "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
-    "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-    "published": "Wed, 13 May 2026 16:00:00 +0000",
+    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+    "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+    "published": "Thu, 14 May 2026 15:20:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-    "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
-    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-    "published": "Wed, 13 May 2026 14:59:32 +0000",
+    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "published": "Thu, 14 May 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
   },
   {
-    "source": "TechCrunch",
-    "title": "Anduril raises $5B, doubles valuation to $61B",
-    "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
-    "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-    "published": "Wed, 13 May 2026 14:44:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-    "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-    "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-    "published": "Wed, 13 May 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
-    "summary": "TikTok launched its lifestyle services brand, TikTok GO, in Indonesia, the US and Japan, marking a further push into travel and local commerce. The company said TikTok GO allows users to discover and book hotels, attractions, dining and travel experiences directly within the app. The feature was first introduced in Indonesia in late April before […]",
-    "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
-    "published": "Thu, 14 May 2026 07:40:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Elon Musk praises Unitree’s rideable mech GD01, calls it “cool”",
-    "summary": "On Wednesday, Elon Musk praised Chinese robotics firm Unitree Robotics’ newly unveiled GD01 rideable mech on social media, calling the product “cool.” The Hangzhou-based company on Tuesday launched what it described as the world’s first mass-produced rideable transforming mech, with a starting price of 3.9 million yuan ($540,000). Unitree said the GD01 is designed as […]",
-    "url": "https://technode.com/2026/05/14/elon-musk-praises-unitrees-rideable-mech-gd01-calls-it-cool/",
-    "published": "Thu, 14 May 2026 07:09:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Baidu Create 2026: CEO says AI focus is moving from models to AI agents, foresees rise of super individuals",
-    "summary": "On Wednesday, the Create 2026 Baidu AI Developer Conference, themed Agents at Scale, opened in Beijing. During the opening ceremony, Robin Li, founder of Baidu, delivered a keynote speech centered on self-evolution, which he described as a defining theme of the AI era. The company also unveiled several AI products focused on intelligent agents and […]",
-    "url": "https://technode.com/2026/05/14/baidu-create-2026-ceo-says-ai-is-moving-from-model-competition-to-ai-agent-era-foresees-rise-of-super-individuals/",
-    "published": "Thu, 14 May 2026 01:10:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Antibody discovery platform Immunocan closes RMB250 million Series A",
-    "summary": "Shanghai-based Immunocan has closed a RMB250 million Series A round led by Vivo Capital, with participation from Gold Mine Multi Family Office and follow-on backing from existing investors including Kingray Capital and TigerYeah Capital. The company said the funds will be used to advance its gene-edited animal platforms, commercialize its fully human antibody rabbit platform, […]",
-    "url": "https://technode.com/2026/05/13/antibody-discovery-platform-immunocan-closes-rmb250-million-series-a/",
-    "published": "Wed, 13 May 2026 02:39:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "PARIS’ VIVATECH ENTERS A NEW DIMENSION FOR ITS 10TH ANNIVERSARY",
-    "summary": "From June 17 to 20 June 2026, Porte de Versailles (Paris) will host the 10th edition of VivaTech, Europe’s largest event dedicated to startups and technology. The event has established itself as an unmissable meeting platform for the tech world, at the crossroads of innovation, business and the most important debates around technology, with AI at […]",
-    "url": "https://technode.com/2026/05/08/paris-vivatech-enters-a-new-dimension-for-its-10th-anniversary/",
-    "published": "Fri, 08 May 2026 10:16:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Kimi reportedly nears $2 billion funding round at over $20 billion valuation",
-    "summary": "Kimi developer Moonshot AI is close to completing a new $2 billion funding round that would value the company at more than $20 billion, according to LatePost. The round is reportedly led by Meituan’s Long-Z Fund, with China Mobile and CPE joining as investors. Moonshot AI had already completed three funding rounds in January and […]",
-    "url": "https://technode.com/2026/05/07/kimi-reportedly-nears-2-billion-funding-round-at-over-20-billion-valuation/",
-    "published": "Thu, 07 May 2026 03:06:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek reportedly seeks first funding round at $45 billion valuation",
-    "summary": "China’s state-backed semiconductor investment vehicle, known as the Big Fund, is in talks to lead DeepSeek’s first external fundraising, which could value the AI company at about $45 billion, according to the Financial Times. Tencent is also among the investors still in discussions, though the final lineup has not been decided. The reported valuation is […]",
-    "url": "https://technode.com/2026/05/07/deepseek-reportedly-seeks-first-funding-round-at-45-billion-valuation/",
-    "published": "Thu, 07 May 2026 02:40:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Telecom giant China Mobile to launch AI-eSIM product",
-    "summary": "China Mobile said it will unveil its AI-eSIM product at the 2026 Mobile Cloud Conference, set to take place in Suzhou from May 7 to 9, as the state-owned telecom giant steps up efforts to integrate AI into connected devices. The AI-eSIM integrates what the company describes as an “intelligent brain,” capable of dynamically dispatching […]",
-    "url": "https://technode.com/2026/05/06/telecom-giant-china-mobile-to-launch-ai-esim-product/",
-    "published": "Wed, 06 May 2026 02:26:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Betting on human augmentation, will lightweight exoskeletons go mainstream?",
-    "summary": "Hypershell is trying to carve out a new category at the intersection of wearables and robotics. The Chinese startup focuses on lightweight exoskeletons for outdoor and everyday use, built around lower-limb assistance. Its system combines motors and onboard sensors to add power when walking or climbing, easing strain and improving efficiency. In form, it feels […]",
-    "url": "https://technode.com/2026/04/30/betting-on-human-augmentation-will-lightweight-exoskeletons-go-mainstream/",
-    "published": "Thu, 30 Apr 2026 08:08:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Oppo merges OnePlus and realme in major restructuring",
-    "summary": "An internal Oppo announcement revealed a major restructuring: OnePlus and realme have been formally merged to form a new sub-brand business unit. Li Bingzhong, founder of realme and Senior Vice President of Oppo, will head the unit, while Xu Qi, formerly President of realme’s global marketing and sales, will oversee the integrated marketing system for […]",
-    "url": "https://technode.com/2026/04/30/oppo-merges-oneplus-and-realme-in-major-restructuring/",
-    "published": "Thu, 30 Apr 2026 02:18:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Dreame Technology unveils rocket-assisted EV concept with 0.9-second acceleration",
-    "summary": "Dreame Technology on Monday unveiled an experimental high-performance vehicle equipped with rocket boosters at its DREAME NEXT global launch event in the US, as the company signaled ambitions beyond its core smart home business. The concept model, named Nebula Next 01 JET Edition, features a propulsion system that differs sharply from conventional electric vehicles. According […]",
-    "url": "https://technode.com/2026/04/28/dreame-technology-unveils-rocket-assisted-ev-concept-with-0-9-second-acceleration/",
-    "published": "Tue, 28 Apr 2026 08:33:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Capcom-licensed Monster Hunter Outlanders mobile game starts test in China on April 29",
-    "summary": "The mobile game Monster Hunter Outlanders, licensed by Capcom and developed by Tencent’s TiMi Studio Group, will begin its testing phase on April 29. This test will be a limited-availability, account-restricted, data-wipe beta with in-game purchases enabled, and is only open to Android devices equipped with Snapdragon 845 or higher processors and running Android 12.0 […]",
-    "url": "https://technode.com/2026/04/27/capcom-licensed-monster-hunter-outlanders-mobile-game-starts-test-in-china-on-april-29/",
-    "published": "Mon, 27 Apr 2026 08:37:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek V4 becomes default model for OpenClaw",
-    "summary": "The global open source agent framework OpenClaw released its 2026.4.24 version on Sunday, bringing both DeepSeek V4 models into its core ecosystem. V4 Flash, designed with 284 billion parameters and 13 billion activated parameters, is now the default model, delivering Max mode inference performance close to the 1.6 trillion parameter V4 Pro. Meanwhile, V4 Pro, […]",
-    "url": "https://technode.com/2026/04/27/deepseek-v4-becomes-default-model-for-openclaw/",
-    "published": "Mon, 27 Apr 2026 01:48:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek-V4 preview now available with open-source access",
-    "summary": "DeepSeek released a preview version of its new V4 model series and made it open source. The model supports an ultra-long context of up to one million tokens and shows improvements in agent capabilities, knowledge coverage, and reasoning performance. The V4 series comes in two versions: Pro and Flash. The Pro version targets high-performance use […]",
-    "url": "https://technode.com/2026/04/24/deepseek-v4-preview-now-available-with-open-source-access/",
-    "published": "Fri, 24 Apr 2026 07:23:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tech Odyssey Series: From Parkinson’s research to flour analytics, how Porto turns lab work into startups",
-    "summary": "Previous on Tech Odyssey: In our last episode, we visited Omniflow and saw how the company turned a streetlight pole into a standardized piece of urban infrastructure with charging, connectivity, and sensing built in. This time, we head to the University of Porto to look at where companies like that can come from. At the […]",
-    "url": "https://technode.com/2026/04/23/tech-odyssey-series-from-parkinsons-research-to-flour-analytics-how-porto-turns-lab-work-into-startups/",
-    "published": "Thu, 23 Apr 2026 09:48:23 +0000",
+    "source": "The Verge",
+    "title": "Honda’s hybrid future starts with new Accord and RDX prototypes",
+    "summary": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was announced earlier this year as Honda's first SUV to feature the next-gen version of its two-motor hybrid […]",
+    "url": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+    "published": "2026-05-14T18:46:55-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
@@ -832,9 +682,49 @@
   {
     "source": "Hacker News",
     "title": "SpaceX sets date for first Starship version 3 launch – SpaceNews",
-    "summary": "Article URL: https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/ Comments URL: https://news.ycombinator.com/item?id=48131675 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/ Comments URL: https://news.ycombinator.com/item?id=48141531 Points: 6 # Comments: 0",
     "url": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
-    "published": "Thu, 14 May 2026 06:06:23 +0000",
+    "published": "Thu, 14 May 2026 21:30:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Escuelita Maker – a free 28-day online program to help people launch projects",
+    "summary": "Article URL: https://escuelitamaker.com Comments URL: https://news.ycombinator.com/item?id=48140777 Points: 3 # Comments: 0",
+    "url": "https://escuelitamaker.com",
+    "published": "Thu, 14 May 2026 20:26:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+    "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/ Comments URL: https://news.ycombinator.com/item?id=48139220 Points: 73 # Comments: 14",
+    "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+    "published": "Thu, 14 May 2026 18:25:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Yaw Labs Built a Terminal Startup for People Who Treat Context Like Ammunition",
+    "summary": "Article URL: https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/ Comments URL: https://news.ycombinator.com/item?id=48138152 Points: 5 # Comments: 0",
+    "url": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
+    "published": "Thu, 14 May 2026 17:09:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
+    "summary": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 556 # Comments: 623",
+    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+    "published": "Thu, 14 May 2026 14:51:14 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-14"
@@ -980,56 +870,6 @@
     "fetchedAt": "2026-05-14"
   },
   {
-    "source": "Hacker News",
-    "title": "A Brazilian Space Launch System for the Small Satellite Market",
-    "summary": "Article URL: https://www.mdpi.com/2226-4310/6/11/123 Comments URL: https://news.ycombinator.com/item?id=48118751 Points: 2 # Comments: 0",
-    "url": "https://www.mdpi.com/2226-4310/6/11/123",
-    "published": "Wed, 13 May 2026 07:10:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How to Build Better Startup Products Using Apple's Thinking",
-    "summary": "Article URL: https://comuniq.xyz/post?t=1069 Comments URL: https://news.ycombinator.com/item?id=48118615 Points: 2 # Comments: 0",
-    "url": "https://comuniq.xyz/post?t=1069",
-    "published": "Wed, 13 May 2026 06:50:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Free AI hiring toolkit for startup founders",
-    "summary": "Article URL: https://hirelikeapro.app/ Comments URL: https://news.ycombinator.com/item?id=48118538 Points: 2 # Comments: 0",
-    "url": "https://hirelikeapro.app/",
-    "published": "Wed, 13 May 2026 06:35:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic in Talks to Raise Funding at a $950B Valuation",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html Comments URL: https://news.ycombinator.com/item?id=48116014 Points: 4 # Comments: 0",
-    "url": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
-    "published": "Tue, 12 May 2026 23:40:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Check Startup Names for Availability",
-    "summary": "Article URL: https://nameclaim.xyz Comments URL: https://news.ycombinator.com/item?id=48114521 Points: 1 # Comments: 0",
-    "url": "https://nameclaim.xyz",
-    "published": "Tue, 12 May 2026 21:02:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-14"
-  },
-  {
     "source": "V2EX",
     "title": "神人同事向我要 VISA 卡号和安全码",
     "summary": "认识 3 个月的新同事，昨天下午问我有没有 visa 卡，然后说卡号和安全码借他，他想去白嫖大模型的首月免费，我借口说卡在家安全码不记得了，结果这哥们要我晚上拍照发给他 我没理他🤣",
@@ -1039,24 +879,8 @@
     "type": "community",
     "fetchedAt": "2026-05-14",
     "meta": {
-      "replies": 154,
+      "replies": 157,
       "node": "职场话题"
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "vercel-labs/zero-native",
-    "summary": "Build desktop + mobile apps with Zig and web UI",
-    "url": "https://github.com/vercel-labs/zero-native",
-    "published": "2026-05-08T19:53:41Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-14",
-    "meta": {
-      "stars": 3392,
-      "forks": 142,
-      "language": "Zig",
-      "createdDaysAgo": 5
     }
   }
 ]

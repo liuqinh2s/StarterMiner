@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "JacobCounsell"
+          "twitter": "nhrdev"
         },
         "careerPage": null,
         "jobListings": []
@@ -2367,7 +2367,7 @@
     }
   },
   {
-    "id": "yujia-power",
+    "id": "yujia",
     "name": "羽嘉动力科技（常州）有限公司",
     "contacts": {
       "fetchedAt": "2026-05-14",
@@ -2378,8 +2378,8 @@
     }
   },
   {
-    "id": "zhiyu-aerospace",
-    "name": "执宇航天（深圳）科技有限公司",
+    "id": "zhiyuhangtian",
+    "name": "执宇航天",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2400,8 +2400,8 @@
     }
   },
   {
-    "id": "linjunyang-ai",
-    "name": "林俊旸AI创业项目",
+    "id": "lumming",
+    "name": "鹿明机器人",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2411,8 +2411,63 @@
     }
   },
   {
-    "id": "einsia-ai",
+    "id": "shuxin",
+    "name": "塑新科技",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyunagri",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuansinga",
+    "name": "暖芯迦",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "einsia",
     "name": "Einsia AI",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "thinkingmachines",
+    "name": "Thinking Machines Lab",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "figureai",
+    "name": "Figure AI",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2433,8 +2488,8 @@
     }
   },
   {
-    "id": "mindrobotics",
-    "name": "Mind Robotics",
+    "id": "atech",
+    "name": "Atech",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2444,8 +2499,8 @@
     }
   },
   {
-    "id": "silicondata",
-    "name": "Silicon Data",
+    "id": "synthetic",
+    "name": "Synthetic",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2455,51 +2510,11 @@
     }
   },
   {
-    "id": "hirelikeapro",
-    "name": "Hire Like A Pro",
+    "id": "yaw-labs",
+    "name": "Yaw Labs",
     "contacts": {
       "fetchedAt": "2026-05-14",
-      "website": {
-        "website": "https://hirelikeapro.app/",
-        "emails": [
-          "mihai@valuablerecruitment.com"
-        ],
-        "socials": {
-          "linkedin": "arsenemihai"
-        },
-        "careerPage": "https://hirelikeapro.app/careers",
-        "jobListings": [
-          "Software Engineer Job Description Template",
-          "How to Hire a Software Developer",
-          "Marketing Manager Interview Questions",
-          "\"AI Job Description Generator\",",
-          "\"name\": \"How does the AI job description generator work?\",",
-          "\"name\": \"How does the AI interview analysis feature work?\",",
-          "Hire with Structure, Not Vibes — Free AI Hiring Tool for Founders",
-          "Free AI Job Description Generator"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "nameclaim",
-    "name": "NameClaim",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {
-        "website": "https://nameclaim.xyz",
-        "emails": [
-          "support@nameclaim.xyz"
-        ],
-        "socials": {
-          "twitter": "cameronhagighat"
-        },
-        "careerPage": null,
-        "jobListings": []
-      },
+      "website": {},
       "github": {},
       "hiring": [],
       "businessInfo": {}
