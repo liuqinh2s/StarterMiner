@@ -1305,7 +1305,7 @@
       },
       "score": 82,
       "discoveredAt": "2026-04-28",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -4226,8 +4226,18 @@
         "fetchedAt": "2026-05-14",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "info@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com"
+          ],
+          "socials": {
+            "twitter": "_LatitudeMedia",
+            "linkedin": "latitude-media-inc"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -6290,7 +6300,7 @@
       },
       "score": 66,
       "discoveredAt": "2026-05-13",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -6539,34 +6549,73 @@
       }
     },
     {
-      "id": "metis",
-      "name": "剂泰科技",
-      "desc": "AI驱动的药物递送和制剂开发公司",
-      "track": "biotech",
-      "stage": "b+",
-      "city": "shenzhen",
+      "id": "yujia-power",
+      "name": "羽嘉动力科技（常州）有限公司",
+      "desc": "航空电推进系统研制商，专注为中大型电动航空器提供轻量化动力系统",
+      "track": "aerospace",
+      "stage": "angel",
+      "city": "changzhou",
       "tags": [
-        "AI制药",
-        "药物递送",
-        "LNP"
+        "航空电推进",
+        "低空经济",
+        "电动航空"
       ],
       "team": [
         {
-          "name": "赖才达",
-          "role": "创始人兼CEO",
-          "bg": "MIT化工博士，前晶泰科技COO"
+          "name": "刘业",
+          "role": "创始人/CEO",
+          "bg": "南京航空航天大学电气工程本硕博"
         }
       ],
       "product": "",
-      "founded": "2019-01",
-      "funding": "已上市，基石投资者包括贝莱德、瑞银、国新基金、高瓴等",
+      "founded": "2024-02",
+      "funding": "连续完成天使+、天使++两轮融资，累计数千万元，投资方包括益华投资、元禾控股、常高新、常金控",
       "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 85,
+        "tech": 75,
+        "growth": 60,
+        "team": 80,
         "market": 80
       },
-      "score": 82,
+      "score": 72,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "zhiyu-aerospace",
+      "name": "执宇航天（深圳）科技有限公司",
+      "desc": "研发低成本液体火箭的初创公司，21岁创始人已做出原型发动机",
+      "track": "aerospace",
+      "stage": "idea",
+      "city": "shenzhen",
+      "tags": [
+        "液体火箭",
+        "低成本航天",
+        "年轻创业者"
+      ],
+      "team": [
+        {
+          "name": "张子瀚",
+          "role": "创始人/CEO",
+          "bg": "本科在读，自学航天，小学获航模国赛一等奖"
+        }
+      ],
+      "product": "",
+      "founded": "2025-01",
+      "funding": "尚未融资，自筹资金40万元做出原型发动机",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 60,
+        "market": 70
+      },
+      "score": 62,
       "discoveredAt": "2026-05-14",
       "discussionCount": 0,
       "contacts": {
@@ -6579,33 +6628,33 @@
     },
     {
       "id": "xbotgo",
-      "name": "XbotGo（深眸远智）",
-      "desc": "AI智能体育影像设备公司，自动拍摄分析运动数据",
+      "name": "深眸远智（XbotGo）",
+      "desc": "AI智能体育影像品牌，提供自动拍摄与数据分析设备，年增长近4倍",
       "track": "consumer",
-      "stage": "angel",
-      "city": "other",
+      "stage": "b",
+      "city": "shenzhen",
       "tags": [
         "AI影像",
         "体育科技",
-        "智能硬件"
+        "自动拍摄"
       ],
       "team": [
         {
           "name": "谈科峰",
-          "role": "创始人兼CEO",
-          "bg": "连续创业者，前体育科技从业者"
+          "role": "创始人/CEO",
+          "bg": "有多年科技行业经验，因陪孩子踢球发现市场机会"
         }
       ],
       "product": "",
-      "founded": "",
-      "funding": "近亿元新一轮融资，由九号资本领投，元禾控股、不同资本跟投",
+      "founded": "2021-01",
+      "funding": "近亿元新一轮融资，由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投",
       "scores": {
-        "tech": 70,
+        "tech": 75,
         "growth": 70,
-        "team": 60,
-        "market": 70
+        "team": 65,
+        "market": 80
       },
-      "score": 68,
+      "score": 72,
       "discoveredAt": "2026-05-14",
       "discussionCount": 0,
       "contacts": {
@@ -6617,9 +6666,9 @@
       }
     },
     {
-      "id": "linjunyang-venture",
-      "name": "林俊旸新公司（暂未名）",
-      "desc": "前阿里千问负责人创立，专注世界模型和具身大脑",
+      "id": "linjunyang-ai",
+      "name": "林俊旸AI创业项目",
+      "desc": "前阿里千问大模型技术负责人创业，方向为世界模型和具身大脑",
       "track": "ai",
       "stage": "seed",
       "city": "other",
@@ -6636,246 +6685,13 @@
         }
       ],
       "product": "",
-      "founded": "",
+      "founded": "2026-01",
       "funding": "以约20亿美金估值开启融资，接触红杉中国、高榕创投等",
       "scores": {
         "tech": 90,
-        "growth": 80,
-        "team": 90,
-        "market": 80
-      },
-      "score": 85,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "photonxinli",
-      "name": "光子芯力",
-      "desc": "清华大学孵化，聚焦光电融合计算芯片",
-      "track": "semiconductor",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "光计算",
-        "光电融合",
-        "芯片"
-      ],
-      "team": [
-        {
-          "name": "杨其晟",
-          "role": "创始人",
-          "bg": "清华大学集成电路学院博士"
-        }
-      ],
-      "product": "",
-      "founded": "2024-01",
-      "funding": "数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投",
-      "scores": {
-        "tech": 80,
         "growth": 50,
-        "team": 70,
-        "market": 70
-      },
-      "score": 67,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xianglianggongzhen",
-      "name": "向量共振",
-      "desc": "提出AI品牌认知治理理论，帮助企业应对AI时代的品牌管理。",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "GEO",
-        "AI品牌认知",
-        "营销",
-        "品牌治理"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": null,
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 57,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fangshi",
-      "name": "北京方石机器人有限公司",
-      "desc": "智能建造机器人本体开发商，提供具身智能+建筑大模型AI解决方案。",
-      "track": "robotics",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "智能建造",
-        "建筑机器人",
-        "具身智能",
-        "AI"
-      ],
-      "team": [],
-      "product": null,
-      "founded": "2019-01",
-      "funding": "近亿元A轮融资，由北京科创亦庄直投基金、航发基金等联合投资。",
-      "scores": {
-        "tech": 65,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 62,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "ola-dimensions",
-      "name": "欧拉万象",
-      "desc": "家庭具身智能机器人研发商，近期完成数亿元融资。",
-      "track": "robotics",
-      "stage": "pre-a",
-      "city": "other",
-      "tags": [
-        "具身智能",
-        "家庭机器人",
-        "AI"
-      ],
-      "team": [
-        {
-          "name": "周顺波",
-          "role": "创始人",
-          "bg": "前华为具身智能首席专家、天才少年"
-        },
-        {
-          "name": "张靖",
-          "role": "联合创始人",
-          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "数亿元人民币融资，招商局创投领投，赛富投资、九合创投等跟投；此前获数千万元种子轮",
-      "scores": {
-        "tech": 70,
-        "growth": 65,
-        "team": 80,
-        "market": 70
-      },
-      "score": 70,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yige-cloud",
-      "name": "亿格云",
-      "desc": "AI时代企业安全治理基础设施提供商，完成数亿元B轮融资。",
-      "track": "saas",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "企业安全",
-        "AI治理",
-        "办公安全"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2022",
-      "funding": "数亿元人民币B轮融资，Monolith砺思资本领投，未来启创基金跟投",
-      "scores": {
-        "tech": 70,
-        "growth": 70,
-        "team": 50,
-        "market": 70
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "suxin-tech",
-      "name": "塑新科技",
-      "desc": "酶法再生PET技术公司，两年五轮融资，建成全球首条万吨级产线。",
-      "track": "other",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "合成生物",
-        "环保材料",
-        "PET回收"
-      ],
-      "team": [
-        {
-          "name": "齐云达",
-          "role": "CFO",
-          "bg": "摩根士丹利及国内头部创投背景"
-        },
-        {
-          "name": "董维亮",
-          "role": "CTO",
-          "bg": "南京工业大学教授"
-        },
-        {
-          "name": "向科炜",
-          "role": "CEO",
-          "bg": "四川大学高分子博士，曾主导三棵树等产业化"
-        }
-      ],
-      "product": "",
-      "founded": "2024",
-      "funding": "A轮由海棠基金、尚势资本等领投；A+轮由赋远投资领投",
-      "scores": {
-        "tech": 80,
-        "growth": 75,
-        "team": 70,
-        "market": 75
+        "team": 85,
+        "market": 85
       },
       "score": 76,
       "discoveredAt": "2026-05-14",
@@ -6889,166 +6705,28 @@
       }
     },
     {
-      "id": "xinghuan-juneng",
-      "name": "星环聚能",
-      "desc": "核聚变能源技术公司，完成5亿元A+轮融资，累计超20亿元。",
-      "track": "newenergy",
-      "stage": "b+",
-      "city": "shanghai",
-      "tags": [
-        "核聚变",
-        "新能源",
-        "高温超导"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "5亿元人民币A+轮融资，达晨财智、金浦投资等投资；累计超20亿元",
-      "scores": {
-        "tech": 85,
-        "growth": 75,
-        "team": 50,
-        "market": 70
-      },
-      "score": 72,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fengyun-tech",
-      "name": "丰耘科技",
-      "desc": "AI+设施农业科技公司，完成天使轮融资，由森马集团独家投资。",
+      "id": "einsia-ai",
+      "name": "Einsia AI",
+      "desc": "旗下Navers Lab发布Frontier-Eng Bench基准测试，评估AI工程优化能力。",
       "track": "ai",
-      "stage": "angel",
-      "city": "hangzhou",
-      "tags": [
-        "智慧农业",
-        "AI",
-        "数字孪生"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "天使轮融资，森马集团独家投资",
-      "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 60,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "nuancxinjia",
-      "name": "杭州暖芯迦电子科技有限公司",
-      "desc": "视觉脑机接口领军企业，发布视网膜和视皮层路径脑机接口产品。",
-      "track": "biotech",
-      "stage": "b+",
-      "city": "hangzhou",
-      "tags": [
-        "脑机接口",
-        "视觉重建",
-        "自研芯片"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "3亿元战略融资，君联资本等领投，丰年资本追投",
-      "scores": {
-        "tech": 95,
-        "growth": 70,
-        "team": 80,
-        "market": 90
-      },
-      "score": 84,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zenbot",
-      "name": "Zenbot",
-      "desc": "具身智能机器人公司，12个月内获得近亿元订单。",
-      "track": "robotics",
-      "stage": "angel",
-      "city": "other",
-      "tags": [
-        "具身智能",
-        "天使轮",
-        "产业资本投资"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "近亿元天使轮融资，长盈精密、科达利等投资",
-      "scores": {
-        "tech": 75,
-        "growth": 60,
-        "team": 70,
-        "market": 80
-      },
-      "score": 70,
-      "discoveredAt": "2026-05-14",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-14",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "thinkingmachines",
-      "name": "Thinking Machines Lab",
-      "desc": "开发实时交互AI模型，实现类人对话体验",
-      "track": "ai",
-      "stage": "pre-seed",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
-        "AI交互",
-        "实时对话",
-        "多模态"
+        "AI Agent",
+        "基准测试",
+        "工程优化"
       ],
-      "team": [
-        {
-          "name": "Mira Murati",
-          "role": "CEO",
-          "bg": "OpenAI前CTO"
-        }
-      ],
+      "team": [],
       "product": "",
       "founded": "",
       "funding": "",
       "scores": {
-        "tech": 90,
-        "growth": 30,
-        "team": 95,
-        "market": 70
+        "tech": 70,
+        "growth": 50,
+        "team": 50,
+        "market": 50
       },
-      "score": 69,
+      "score": 56,
       "discoveredAt": "2026-05-14",
       "discussionCount": 0,
       "contacts": {
@@ -7062,28 +6740,27 @@
     {
       "id": "fusionap",
       "name": "FusionAP",
-      "desc": "马来西亚半导体先进封装公司，获200万美元种子轮融资",
+      "desc": "马来西亚半导体封装公司，MAPC成员，获得200万美元融资。",
       "track": "semiconductor",
       "stage": "pre-seed",
       "city": "overseas",
       "tags": [
         "半导体封装",
-        "先进封装",
-        "马来西亚"
+        "先进封装"
       ],
       "team": [],
       "product": "",
-      "founded": "2025-01",
-      "funding": "200万美元种子轮，由Vertex Ventures和Southern Capital Group领投",
+      "founded": "",
+      "funding": "获得200万美元pre-seed融资，由Vertex Ventures Southeast Asia & India和Southern Capital Group联合领投。",
       "scores": {
-        "tech": 60,
-        "growth": 40,
+        "tech": 50,
+        "growth": 50,
         "team": 50,
-        "market": 60
+        "market": 50
       },
-      "score": 52,
+      "score": 50,
       "discoveredAt": "2026-05-14",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
@@ -7095,31 +6772,159 @@
     {
       "id": "mindrobotics",
       "name": "Mind Robotics",
-      "desc": "Rivian分拆的机器人公司，已累计融资超10亿美元",
+      "desc": "Rivian分拆的AI机器人初创公司，专注于自动驾驶和机器人技术",
       "track": "robotics",
       "stage": "b+",
       "city": "overseas",
       "tags": [
+        "自动驾驶",
         "机器人",
-        "Rivian衍生",
-        "高融资"
+        "AI"
       ],
       "team": [],
       "product": "",
-      "founded": "2025-10",
-      "funding": "最新一轮4亿美元，累计超10亿美元",
+      "founded": "2025-11",
+      "funding": "已累计融资超过10亿美元，最新一轮4亿美元",
       "scores": {
-        "tech": 70,
-        "growth": 80,
-        "team": 70,
-        "market": 80
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
       },
-      "score": 75,
+      "score": 50,
       "discoveredAt": "2026-05-14",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-14",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "silicondata",
+      "name": "Silicon Data",
+      "desc": "与CME合作推出首个计算期货的数据初创公司",
+      "track": "fintech",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "计算期货",
+        "数据",
+        "金融基础设施"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 52,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "hirelikeapro",
+      "name": "Hire Like A Pro",
+      "desc": "为初创公司创始人提供的免费AI招聘工具包",
+      "track": "ai",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "AI",
+        "招聘",
+        "免费工具"
+      ],
+      "team": [],
+      "product": "https://hirelikeapro.app/",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {
+          "website": "https://hirelikeapro.app/",
+          "emails": [
+            "mihai@valuablerecruitment.com"
+          ],
+          "socials": {
+            "linkedin": "arsenemihai"
+          },
+          "careerPage": "https://hirelikeapro.app/careers",
+          "jobListings": [
+            "Software Engineer Job Description Template",
+            "How to Hire a Software Developer",
+            "Marketing Manager Interview Questions",
+            "\"AI Job Description Generator\",",
+            "\"name\": \"How does the AI job description generator work?\",",
+            "\"name\": \"How does the AI interview analysis feature work?\",",
+            "Hire with Structure, Not Vibes — Free AI Hiring Tool for Founders",
+            "Free AI Job Description Generator"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nameclaim",
+      "name": "NameClaim",
+      "desc": "检查初创公司名称是否可用的工具",
+      "track": "saas",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "命名",
+        "初创服务",
+        "域名检查"
+      ],
+      "team": [],
+      "product": "https://nameclaim.xyz",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-14",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-14",
+        "website": {
+          "website": "https://nameclaim.xyz",
+          "emails": [
+            "support@nameclaim.xyz"
+          ],
+          "socials": {
+            "twitter": "cameronhagighat"
+          },
+          "careerPage": null,
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -11970,168 +11775,91 @@
       "relatedProject": null
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "字节跳动、上汽等入股自变量机器人",
-      "url": "https://36kr.com/newsflashes/3808616341331718?f=rss",
-      "snippet": "自变量机器人关联公司自变量科技（深圳）有限公司发生工商变更，新增字节跳动、上汽等为股东，注册资本由约97.8万增至约115万。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "zibian"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创邦",
-      "title": "融资丨清华系光计算芯片企业光子芯力完成数千万元天使轮融资",
-      "url": "http://www.cyzone.cn/article/833277.html",
-      "snippet": "光子芯力完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。公司专注于光电融合计算芯片。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "guangzixinli"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创邦",
-      "title": "向量共振提出“AI品牌认知治理”理论，GEO赛道迎来新竞争维度",
-      "url": "http://www.cyzone.cn/article/833216.html",
-      "snippet": "向量共振提出AI品牌认知治理理论，帮助企业管理品牌在AI世界中的识别、推荐。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "xianglianggongzhen"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创邦",
-      "title": "融资丨「方石机器人」完成近亿元A轮融资",
-      "url": "http://www.cyzone.cn/article/833203.html",
-      "snippet": "智能建造机器人本体开发商方石机器人完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等联合投资。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "fangshi"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业",
-      "title": "融资丨欧拉万象完成数亿元融资",
-      "url": "http://www.cyzone.cn/article/833202.html",
-      "snippet": "家庭具身智能企业欧拉万象完成数亿元融资，由招商局创投领投。",
-      "date": "2026-05-13",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "ola-dimensions"
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "滴普科技赵杰辉：本体大模型，企业级智能体落地的产品化探索",
-      "url": "https://www.tmtpost.com/7987700.html",
-      "snippet": "企业级AI落地，不是通用领域的简单延伸。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "snippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
       "date": "2026-05-14",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "143亿元，AI制药刚刚拿到了最大一笔融资",
-      "url": "https://www.tmtpost.com/7987645.html",
-      "snippet": "Isomorphic Labs获143亿元融资，推动AI药物发现。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "智元：路书给你们，我先出发了",
-      "url": "https://www.tmtpost.com/7987090.html",
-      "snippet": "具身智能进入部署阶段。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "具身智能企业Zenbot获近亿元天使轮融资，长盈精密、科达利等产业资本联合投资｜融资首发",
-      "url": "https://www.tmtpost.com/7987538.html",
-      "snippet": "Zenbot获近亿元天使轮融资，12个月内获得近亿元订单。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "zenbot"
-    },
-    {
-      "source": "极客公园",
-      "sourceIcon": "极客公园",
-      "title": "脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的",
-      "url": "http://www.geekpark.net/news/364131",
-      "snippet": "2026春招报告显示具身智能岗位暴增15倍。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "当 AI Agent 走向无处不在，MediaTek 想做的不只是手机芯片",
-      "url": "https://www.ifanr.com/1665681",
-      "snippet": "MediaTek 芯片战略，非初创公司。",
-      "date": "2026-05-13",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "爱范儿",
-      "sourceIcon": "爱范",
-      "title": "早报｜Android 17转型智能系统，深度整合AI/腾讯：微信已读和访客功能「已焊死」，不会开发/李想：理想自研芯片不是跟风",
-      "url": "https://www.ifanr.com/1665667",
-      "snippet": "涵盖多家大公司动态，无初创公司。",
-      "date": "2026-05-13",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "动点科技",
-      "sourceIcon": "动点",
-      "title": "马来西亚半导体封装公司、MAPC成员FusionAP获得200万美元融资",
-      "url": "https://cn.technode.com/post/2026-05-14/fusionap-raises-2m-pre-seed-funding-for-advanced-packaging-mapc/",
-      "snippet": "马来西亚半导体初创公司FusionAP获200万美元种子轮融资。",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "fusionap"
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
       "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
       "url": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-      "snippet": "地热初创公司Fervo Energy IPO首日上涨33%，受AI数据中心需求推动。",
+      "snippet": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
       "date": "2026-05-13",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
+      "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
+      "snippet": "TikTok launched its lifestyle services brand, TikTok GO, allowing users to discover and book hotels, attractions, dining and travel experiences directly within the app.",
+      "date": "2026-05-14",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Elon Musk praises Unitree’s rideable mech GD01, calls it “cool”",
+      "url": "https://technode.com/2026/05/14/elon-musk-praises-unitrees-rideable-mech-gd01-calls-it-cool/",
+      "snippet": "Elon Musk praised Chinese robotics firm Unitree Robotics’ newly unveiled GD01 rideable mech on social media.",
+      "date": "2026-05-14",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Free AI hiring toolkit for startup founders",
+      "url": "https://news.ycombinator.com/item?id=48118538",
+      "snippet": "为初创公司创始人提供的免费AI招聘工具包",
+      "date": "2026-05-13",
+      "likes": 2,
+      "comments": 0,
+      "relatedProject": "hirelikeapro"
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Anthropic in Talks to Raise Funding at a $950B Valuation",
+      "url": "https://news.ycombinator.com/item?id=48116014",
+      "snippet": "Anthropic正在洽谈以9500亿美元估值融资",
+      "date": "2026-05-12",
+      "likes": 4,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Check Startup Names for Availability",
+      "url": "https://news.ycombinator.com/item?id=48114521",
+      "snippet": "检查初创公司名称是否可用的工具",
+      "date": "2026-05-12",
+      "likes": 1,
+      "comments": 0,
+      "relatedProject": "nameclaim"
+    },
+    {
       "source": "V2EX",
       "sourceIcon": "V2",
       "title": "神人同事向我要 VISA 卡号和安全码",
       "url": "https://www.v2ex.com/t/1212580",
-      "snippet": "同事借VISA卡号和安全码以白嫖大模型免费试用，引发讨论。",
+      "snippet": "同事想借VISA卡白嫖大模型免费试用",
       "date": "2026-05-14",
       "likes": 0,
-      "comments": 111,
+      "comments": 154,
       "relatedProject": null
     },
     {
@@ -12139,10 +11867,10 @@
       "sourceIcon": "GH",
       "title": "vercel-labs/zero-native",
       "url": "https://github.com/vercel-labs/zero-native",
-      "snippet": "Build desktop + mobile apps with Zig and web UI.",
+      "snippet": "用Zig和Web UI构建桌面和移动应用",
       "date": "2026-05-08",
-      "likes": 3319,
-      "comments": 141,
+      "likes": 3392,
+      "comments": 0,
       "relatedProject": null
     }
   ]

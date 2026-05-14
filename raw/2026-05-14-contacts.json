@@ -1550,8 +1550,18 @@
       "fetchedAt": "2026-05-14",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [],
-        "socials": {},
+        "emails": [
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com"
+        ],
+        "socials": {
+          "twitter": "_LatitudeMedia",
+          "linkedin": "latitude-media-inc"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -2357,8 +2367,19 @@
     }
   },
   {
-    "id": "metis",
-    "name": "剂泰科技",
+    "id": "yujia-power",
+    "name": "羽嘉动力科技（常州）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhiyu-aerospace",
+    "name": "执宇航天（深圳）科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2369,7 +2390,7 @@
   },
   {
     "id": "xbotgo",
-    "name": "XbotGo（深眸远智）",
+    "name": "深眸远智（XbotGo）",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2379,8 +2400,8 @@
     }
   },
   {
-    "id": "linjunyang-venture",
-    "name": "林俊旸新公司（暂未名）",
+    "id": "linjunyang-ai",
+    "name": "林俊旸AI创业项目",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2390,118 +2411,8 @@
     }
   },
   {
-    "id": "photonxinli",
-    "name": "光子芯力",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xianglianggongzhen",
-    "name": "向量共振",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "fangshi",
-    "name": "北京方石机器人有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "ola-dimensions",
-    "name": "欧拉万象",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "yige-cloud",
-    "name": "亿格云",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "suxin-tech",
-    "name": "塑新科技",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "xinghuan-juneng",
-    "name": "星环聚能",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "fengyun-tech",
-    "name": "丰耘科技",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "nuancxinjia",
-    "name": "杭州暖芯迦电子科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zenbot",
-    "name": "Zenbot",
-    "contacts": {
-      "fetchedAt": "2026-05-14",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "thinkingmachines",
-    "name": "Thinking Machines Lab",
+    "id": "einsia-ai",
+    "name": "Einsia AI",
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
@@ -2527,6 +2438,68 @@
     "contacts": {
       "fetchedAt": "2026-05-14",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "silicondata",
+    "name": "Silicon Data",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "hirelikeapro",
+    "name": "Hire Like A Pro",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {
+        "website": "https://hirelikeapro.app/",
+        "emails": [
+          "mihai@valuablerecruitment.com"
+        ],
+        "socials": {
+          "linkedin": "arsenemihai"
+        },
+        "careerPage": "https://hirelikeapro.app/careers",
+        "jobListings": [
+          "Software Engineer Job Description Template",
+          "How to Hire a Software Developer",
+          "Marketing Manager Interview Questions",
+          "\"AI Job Description Generator\",",
+          "\"name\": \"How does the AI job description generator work?\",",
+          "\"name\": \"How does the AI interview analysis feature work?\",",
+          "Hire with Structure, Not Vibes — Free AI Hiring Tool for Founders",
+          "Free AI Job Description Generator"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nameclaim",
+    "name": "NameClaim",
+    "contacts": {
+      "fetchedAt": "2026-05-14",
+      "website": {
+        "website": "https://nameclaim.xyz",
+        "emails": [
+          "support@nameclaim.xyz"
+        ],
+        "socials": {
+          "twitter": "cameronhagighat"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
