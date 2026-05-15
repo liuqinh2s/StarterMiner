@@ -2519,7 +2519,7 @@
     }
   },
   {
-    "id": "sichuanghangtian",
+    "id": "sichuang",
     "name": "北京思创航天精密制造有限公司",
     "contacts": {
       "fetchedAt": "2026-05-15",
@@ -2530,7 +2530,7 @@
     }
   },
   {
-    "id": "maijiniunai",
+    "id": "maiji",
     "name": "麦记牛奶公司",
     "contacts": {
       "fetchedAt": "2026-05-15",
@@ -2552,6 +2552,83 @@
     }
   },
   {
+    "id": "motionbrain",
+    "name": "眸深智能（Motion Brain）",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mi'erguang",
+    "name": "弥尔光半导体（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "youshuquantum",
+    "name": "上海酉术量子科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "infimaker",
+    "name": "无限工坊（Infimaker）",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepwit",
+    "name": "北京机智赛博科技有限公司（深度机智）",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yanhetech",
+    "name": "炎和科技",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "photoncore",
+    "name": "光子芯力（北京）科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-15",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "ola-dimensions",
     "name": "欧拉万象（Ola Dimensions）",
     "contacts": {
@@ -2563,19 +2640,8 @@
     }
   },
   {
-    "id": "yige-cloud",
-    "name": "亿格云",
-    "contacts": {
-      "fetchedAt": "2026-05-15",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "suxin-tech",
-    "name": "塑新科技",
+    "name": "北京塑新科技",
     "contacts": {
       "fetchedAt": "2026-05-15",
       "website": {},
@@ -2585,44 +2651,8 @@
     }
   },
   {
-    "id": "moonshotai",
-    "name": "Moonshot AI",
-    "contacts": {
-      "fetchedAt": "2026-05-15",
-      "website": {
-        "website": "https://kimi.moonshot.cn",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://kimi.moonshot.cn/careers",
-        "jobListings": [
-          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-        ]
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "predictionoracle",
-    "name": "PredictionOracle",
-    "contacts": {
-      "fetchedAt": "2026-05-15",
-      "website": {
-        "website": "https://tools.predictionoracle.io",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "yawlabs",
-    "name": "Yaw Labs",
+    "id": "konvy",
+    "name": "Konvy",
     "contacts": {
       "fetchedAt": "2026-05-15",
       "website": {},
