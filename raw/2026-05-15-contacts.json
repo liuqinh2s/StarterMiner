@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "nhrdev"
+          "twitter": "ByBewer"
         },
         "careerPage": null,
         "jobListings": []
@@ -1478,10 +1478,8 @@
       "website": {
         "website": "https://aisle.com",
         "emails": [],
-        "socials": {
-          "linkedin": "weareaisle"
-        },
-        "careerPage": "https://aisle.com/careers",
+        "socials": {},
+        "careerPage": null,
         "jobListings": []
       },
       "github": {},
@@ -2554,8 +2552,8 @@
     }
   },
   {
-    "id": "deepwisdom",
-    "name": "北京机智赛博科技有限公司",
+    "id": "ola-dimensions",
+    "name": "欧拉万象（Ola Dimensions）",
     "contacts": {
       "fetchedAt": "2026-05-15",
       "website": {},
@@ -2565,8 +2563,8 @@
     }
   },
   {
-    "id": "yanhetech",
-    "name": "炎和科技",
+    "id": "yige-cloud",
+    "name": "亿格云",
     "contacts": {
       "fetchedAt": "2026-05-15",
       "website": {},
@@ -2576,8 +2574,8 @@
     }
   },
   {
-    "id": "photoncore",
-    "name": "光子芯力（北京）科技有限公司",
+    "id": "suxin-tech",
+    "name": "塑新科技",
     "contacts": {
       "fetchedAt": "2026-05-15",
       "website": {},
@@ -2587,44 +2585,36 @@
     }
   },
   {
-    "id": "xianglianggongzhen",
-    "name": "向量共振",
+    "id": "moonshotai",
+    "name": "Moonshot AI",
     "contacts": {
       "fetchedAt": "2026-05-15",
-      "website": {},
+      "website": {
+        "website": "https://kimi.moonshot.cn",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
+        "jobListings": [
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
     }
   },
   {
-    "id": "fangshi",
-    "name": "北京方石机器人有限公司",
+    "id": "predictionoracle",
+    "name": "PredictionOracle",
     "contacts": {
       "fetchedAt": "2026-05-15",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "ola",
-    "name": "欧拉万象",
-    "contacts": {
-      "fetchedAt": "2026-05-15",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "konvy",
-    "name": "Konvy",
-    "contacts": {
-      "fetchedAt": "2026-05-15",
-      "website": {},
+      "website": {
+        "website": "https://tools.predictionoracle.io",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

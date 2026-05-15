@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "nhrdev"
+            "twitter": "ByBewer"
           },
           "careerPage": null,
           "jobListings": []
@@ -4060,10 +4060,8 @@
         "website": {
           "website": "https://aisle.com",
           "emails": [],
-          "socials": {
-            "linkedin": "weareaisle"
-          },
-          "careerPage": "https://aisle.com/careers",
+          "socials": {},
+          "careerPage": null,
           "jobListings": []
         },
         "github": {},
@@ -6498,7 +6496,7 @@
       },
       "score": 76,
       "discoveredAt": "2026-05-13",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-15",
         "website": {},
@@ -7062,14 +7060,14 @@
     {
       "id": "sichuanghangtian",
       "name": "北京思创航天精密制造有限公司",
-      "desc": "专注于航天发动机核心零部件精密制造，具备一站式制造能力",
+      "desc": "航天发动机核心部件精密制造，国内唯一具备全流程一站式能力的民营企业",
       "track": "aerospace",
-      "stage": "seed",
+      "stage": "pre-a",
       "city": "beijing",
       "tags": [
-        "航天发动机",
+        "商业航天",
         "精密制造",
-        "商业航天"
+        "航天发动机"
       ],
       "team": [
         {
@@ -7079,13 +7077,13 @@
         }
       ],
       "product": "",
-      "founded": "2025-03",
-      "funding": "数千万元，丹诚资本独家投资",
+      "founded": "2025-01",
+      "funding": "数千万元人民币，由丹诚资本独家投资",
       "scores": {
-        "tech": 85,
+        "tech": 80,
         "growth": 60,
         "team": 75,
-        "market": 80
+        "market": 85
       },
       "score": 74,
       "discoveredAt": "2026-05-15",
@@ -7101,35 +7099,35 @@
     {
       "id": "maijiniunai",
       "name": "麦记牛奶公司",
-      "desc": "以牛奶为底料的新式糖水连锁品牌，门店快速增长",
+      "desc": "以牛奶为底料的糖水品牌，2025年成为糖水赛道门店数量最多的品牌",
       "track": "consumer",
-      "stage": "angel",
+      "stage": "a",
       "city": "other",
       "tags": [
         "糖水",
         "连锁餐饮",
-        "消费升级"
+        "消费品牌"
       ],
       "team": [
         {
           "name": "徐康",
           "role": "创始人",
-          "bg": "2021年创立麦记牛奶"
+          "bg": "创立麦记牛奶"
         },
         {
           "name": "谢永亮",
-          "role": "运营负责人",
-          "bg": "资深加盟商与餐饮投资人"
+          "role": "现任负责人",
+          "bg": "超级加盟商，投资并运营多个餐饮品牌"
         }
       ],
       "product": "",
-      "founded": "2021-06",
-      "funding": "2025年初获得谢永亮团队投资",
+      "founded": "2021-01",
+      "funding": "2025年初获谢永亮团队投资，具体金额未披露",
       "scores": {
-        "tech": 40,
+        "tech": 30,
         "growth": 90,
-        "team": 60,
-        "market": 70
+        "team": 70,
+        "market": 75
       },
       "score": 65,
       "discoveredAt": "2026-05-15",
@@ -7145,14 +7143,14 @@
     {
       "id": "infimaker",
       "name": "无限工坊（Infimaker）",
-      "desc": "研发消费级桌面CNC与智能数字制造平台",
+      "desc": "消费级桌面CNC与智能数字制造平台，由前大疆核心成员创立",
       "track": "hardtech",
       "stage": "seed",
       "city": "shenzhen",
       "tags": [
-        "消费级CNC",
-        "数字制造",
-        "创客工具"
+        "桌面CNC",
+        "创客",
+        "数字制造"
       ],
       "team": [
         {
@@ -7163,82 +7161,14 @@
       ],
       "product": "",
       "founded": "2024-11",
-      "funding": "近亿元，美团战投、昆仑资本、奇绩创坛投资",
-      "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 80,
-        "market": 75
-      },
-      "score": 74,
-      "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-15",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "deepwisdom",
-      "name": "北京机智赛博科技有限公司",
-      "desc": "专注于具身通用基座模型研发，全栈能力进入世界第一梯队",
-      "track": "robotics",
-      "stage": "pre-a",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "基座模型",
-        "大模型",
-        "机器人"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2025-05",
-      "funding": "累计完成数亿元融资",
+      "funding": "近亿元人民币，由美团战投、昆仑资本、奇绩创坛投资",
       "scores": {
         "tech": 85,
-        "growth": 50,
-        "team": 50,
-        "market": 80
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-15",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yanhetech",
-      "name": "炎和科技",
-      "desc": "钙钛矿光伏技术公司，布局消费电子到太空光伏全场景",
-      "track": "newenergy",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "钙钛矿",
-        "光伏",
-        "新能源",
-        "太空光伏"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "A2轮数亿元融资",
-      "scores": {
-        "tech": 80,
         "growth": 70,
-        "team": 50,
+        "team": 80,
         "market": 80
       },
-      "score": 71,
+      "score": 78,
       "discoveredAt": "2026-05-15",
       "discussionCount": 1,
       "contacts": {
@@ -7250,128 +7180,22 @@
       }
     },
     {
-      "id": "photoncore",
-      "name": "光子芯力（北京）科技有限公司",
-      "desc": "光电融合计算芯片设计公司，采用全波超表面技术路线",
-      "track": "semiconductor",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "光电融合",
-        "光计算",
-        "芯片",
-        "清华系"
-      ],
-      "team": [
-        {
-          "name": "杨其晟",
-          "role": "创始人/CEO",
-          "bg": "清华大学集成电路学院博士"
-        }
-      ],
-      "product": "",
-      "founded": "2024-01",
-      "funding": "天使轮数千万元",
-      "scores": {
-        "tech": 80,
-        "growth": 40,
-        "team": 70,
-        "market": 70
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-15",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xianglianggongzhen",
-      "name": "向量共振",
-      "desc": "提出AI品牌认知治理理论，专注于GEO赛道",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "GEO",
-        "AI营销",
-        "品牌认知"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "",
-      "scores": {
-        "tech": 60,
-        "growth": 40,
-        "team": 50,
-        "market": 60
-      },
-      "score": 52,
-      "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-15",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fangshi",
-      "name": "北京方石机器人有限公司",
-      "desc": "智能建造机器人本体开发商，推动建筑业无人化升级",
+      "id": "ola-dimensions",
+      "name": "欧拉万象（Ola Dimensions）",
+      "desc": "家庭具身智能机器人企业，聚焦家庭场景打造数据闭环",
       "track": "robotics",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "建筑机器人",
-        "智能建造",
-        "无人化"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2019-01",
-      "funding": "A轮近亿元",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 63,
-      "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-15",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "ola",
-      "name": "欧拉万象",
-      "desc": "家庭具身智能机器人公司，致力于用AI驱动家庭机器人数据闭环。",
-      "track": "robotics",
-      "stage": "seed",
+      "stage": "angel",
       "city": "other",
       "tags": [
         "家庭机器人",
         "具身智能",
-        "华为系"
+        "数据闭环"
       ],
       "team": [
         {
           "name": "周顺波",
           "role": "创始人",
-          "bg": "华为具身智能1号员工、首席专家"
+          "bg": "前华为具身智能1号员工、天才少年"
         },
         {
           "name": "张靖",
@@ -7381,14 +7205,14 @@
       ],
       "product": "",
       "founded": "2026-03",
-      "funding": "种子轮数千万元（高瓴创投、五源资本领投）；数亿元融资（招商局创投领投）",
+      "funding": "种子轮数千万元（高瓴、五源领投），本轮数亿元（招商局创投领投）",
       "scores": {
         "tech": 90,
-        "growth": 40,
+        "growth": 80,
         "team": 95,
         "market": 80
       },
-      "score": 74,
+      "score": 86,
       "discoveredAt": "2026-05-15",
       "discussionCount": 0,
       "contacts": {
@@ -7400,33 +7224,161 @@
       }
     },
     {
-      "id": "konvy",
-      "name": "Konvy",
-      "desc": "泰国美妆个护平台",
-      "track": "ecommerce",
-      "stage": "a",
-      "city": "overseas",
+      "id": "yige-cloud",
+      "name": "亿格云",
+      "desc": "AI时代企业安全治理基础设施，提供办公安全一体化平台",
+      "track": "ai",
+      "stage": "b+",
+      "city": "hangzhou",
       "tags": [
-        "美妆",
-        "个护",
-        "泰国"
+        "办公安全",
+        "AI治理",
+        "SASE"
       ],
       "team": [],
       "product": "",
-      "founded": "",
-      "funding": "2200万美元B轮融资，由Cool Japan Fund领投",
+      "founded": "2022",
+      "funding": "B轮数亿元，累计五轮融资（红杉中国、元璟资本、靖亚资本等）",
       "scores": {
-        "tech": 30,
-        "growth": 60,
-        "team": 50,
-        "market": 70
+        "tech": 75,
+        "growth": 80,
+        "team": 70,
+        "market": 85
       },
-      "score": 51,
+      "score": 78,
       "discoveredAt": "2026-05-15",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-15",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "suxin-tech",
+      "name": "塑新科技",
+      "desc": "酶法再生PET技术，全球首条万吨级产线，推动塑料循环经济",
+      "track": "biotech",
+      "stage": "a+",
+      "city": "beijing",
+      "tags": [
+        "绿色回收",
+        "合成生物",
+        "PET再生"
+      ],
+      "team": [
+        {
+          "name": "向科炜",
+          "role": "CEO",
+          "bg": "四川大学高分子博士，前三棵树产品产业化负责人"
+        },
+        {
+          "name": "董维亮",
+          "role": "CTO",
+          "bg": "南京工业大学教授，酶工程专家"
+        },
+        {
+          "name": "齐云达",
+          "role": "CFO",
+          "bg": "摩根士丹利及头部创投背景"
+        }
+      ],
+      "product": "",
+      "founded": "2024",
+      "funding": "A轮及A+轮，两年五轮融资（海棠基金、尚势资本、赋远投资等）",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 85,
+        "market": 80
+      },
+      "score": 86,
+      "discoveredAt": "2026-05-15",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-15",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "moonshotai",
+      "name": "Moonshot AI",
+      "desc": "开发Kimi智能助手的大模型公司",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "large language model",
+        "AI assistant",
+        "Kimi"
+      ],
+      "team": [],
+      "product": "https://kimi.moonshot.cn",
+      "founded": "2023-03",
+      "funding": "接近完成20亿美元融资，估值超200亿美元，由美团龙珠等投资",
+      "scores": {
+        "tech": 90,
+        "growth": 85,
+        "team": 70,
+        "market": 85
+      },
+      "score": 84,
+      "discoveredAt": "2026-05-15",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-15",
+        "website": {
+          "website": "https://kimi.moonshot.cn",
+          "emails": [],
+          "socials": {},
+          "careerPage": "https://kimi.moonshot.cn/careers",
+          "jobListings": [
+            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+          ]
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "predictionoracle",
+      "name": "PredictionOracle",
+      "desc": "免费的AI创业验证工具，给创业想法打分，帮助创业者评估可行性",
+      "track": "ai",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "AI工具",
+        "创业验证"
+      ],
+      "team": [],
+      "product": "https://tools.predictionoracle.io",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 55,
+        "growth": 40,
+        "team": 50,
+        "market": 50
+      },
+      "score": 48,
+      "discoveredAt": "2026-05-15",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-15",
+        "website": {
+          "website": "https://tools.predictionoracle.io",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -7435,14 +7387,14 @@
     {
       "id": "yawlabs",
       "name": "Yaw Labs",
-      "desc": "Building a terminal startup for users who treat context like ammunition",
-      "track": "other",
-      "stage": "idea",
+      "desc": "Building a terminal startup for developers who treat context like ammunition",
+      "track": "ai",
+      "stage": "seed",
       "city": "overseas",
       "tags": [
+        "developer-tools",
         "terminal",
-        "context",
-        "startup"
+        "ai"
       ],
       "team": [],
       "product": "",
