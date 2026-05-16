@@ -431,6 +431,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+    "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+    "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+    "published": "Sat, 16 May 2026 19:26:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "published": "Sat, 16 May 2026 15:33:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "TechCrunch",
     "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
     "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
     "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
@@ -475,36 +495,6 @@
     "summary": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and auto-rickshaws.",
     "url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
     "published": "Fri, 15 May 2026 11:24:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-    "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
-    "url": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
-    "published": "Thu, 14 May 2026 20:43:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
-    "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.",
-    "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
-    "published": "Thu, 14 May 2026 20:23:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "What happens when AI starts building itself?",
-    "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "published": "Thu, 14 May 2026 19:57:20 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-16"
@@ -661,10 +651,10 @@
   },
   {
     "source": "The Verge",
-    "title": "ArXiv will ban researchers who upload papers full of AI slop",
-    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be […]",
-    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "published": "2026-05-15T16:38:19-04:00",
+    "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+    "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res […]",
+    "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+    "published": "2026-05-16T10:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-16"
@@ -682,7 +672,7 @@
   {
     "source": "Hacker News",
     "title": "YC startup Luel appears to have copied Kled",
-    "summary": "Article URL: https://twitter.com/avipat_/status/2055384102409253056 Comments URL: https://news.ycombinator.com/item?id=48156021 Points: 5 # Comments: 1",
+    "summary": "Article URL: https://twitter.com/avipat_/status/2055384102409253056 Comments URL: https://news.ycombinator.com/item?id=48156021 Points: 6 # Comments: 1",
     "url": "https://twitter.com/avipat_/status/2055384102409253056",
     "published": "Sat, 16 May 2026 01:40:57 +0000",
     "lang": "en",
@@ -792,7 +782,7 @@
   {
     "source": "Hacker News",
     "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
-    "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/ Comments URL: https://news.ycombinator.com/item?id=48139220 Points: 80 # Comments: 20",
+    "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/ Comments URL: https://news.ycombinator.com/item?id=48139220 Points: 80 # Comments: 21",
     "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
     "published": "Thu, 14 May 2026 18:25:10 +0000",
     "lang": "en",
@@ -812,7 +802,7 @@
   {
     "source": "Hacker News",
     "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "summary": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 614 # Comments: 696",
+    "summary": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 616 # Comments: 701",
     "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
     "published": "Thu, 14 May 2026 14:51:14 +0000",
     "lang": "en",
@@ -842,7 +832,7 @@
   {
     "source": "Hacker News",
     "title": "Show HN: I made a tool that writes your launch pack from a URL",
-    "summary": "I built Markey because I was tired of writing marketing copy for every project I shipped. You paste your site's URL, it reads your content, and writes 20 launch materials in your brand's voice. It then auto-publishes them weekly to X, Threads, Bluesky, LinkedIn, and Reddit. Comments URL: https://news.ycombinator.com/item?id=48128232 Points: 1 # Comments: 0",
+    "summary": "I built Markey because I was tired of writing marketing copy for every project I shipped. You paste your site's URL, it reads your content, and writes 20 launch materials in your brand's voice. It then auto-publishes them weekly to X, Threads, Bluesky, LinkedIn, and Reddit. Comments URL: https://news.ycombinator.com/item?id=48128232 Points: 1 # Comments: 1",
     "url": "https://markey.app",
     "published": "Wed, 13 May 2026 22:06:17 +0000",
     "lang": "en",

@@ -2662,50 +2662,6 @@
     }
   },
   {
-    "id": "mojawa",
-    "name": "苏州索迩电子技术有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-16",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "mierguang",
-    "name": "弥尔光半导体（北京）有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-16",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "youshu",
-    "name": "上海酉术量子科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-16",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "jinglingcloud",
-    "name": "精灵云",
-    "contacts": {
-      "fetchedAt": "2026-05-16",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "linkup",
     "name": "Linkup",
     "contacts": {
@@ -2725,28 +2681,6 @@
   {
     "id": "luel",
     "name": "Luel",
-    "contacts": {
-      "fetchedAt": "2026-05-16",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "kled",
-    "name": "Kled",
-    "contacts": {
-      "fetchedAt": "2026-05-16",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "yawlabs",
-    "name": "Yaw Labs",
     "contacts": {
       "fetchedAt": "2026-05-16",
       "website": {},
