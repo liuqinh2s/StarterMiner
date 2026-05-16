@@ -1,8 +1,8 @@
 {
-  "totalProjects": 198,
-  "totalDiscussions": 479,
+  "totalProjects": 199,
+  "totalDiscussions": 490,
   "byTrack": {
-    "ai": 84,
+    "ai": 85,
     "hardtech": 13,
     "biotech": 9,
     "consumer": 8,
@@ -17,7 +17,7 @@
   },
   "byStage": {
     "angel": 13,
-    "b+": 57,
+    "b+": 58,
     "seed": 60,
     "a": 25,
     "pre-seed": 13,
@@ -32,7 +32,7 @@
     "guangzhou": 1,
     "overseas": 83,
     "hangzhou": 13,
-    "beijing": 36,
+    "beijing": 37,
     "other": 35,
     "nanjing": 1,
     "unknown": 1,
@@ -44,6 +44,6 @@
     "chengdu": 1,
     "changzhou": 1
   },
-  "avgScore": 67.3,
-  "lastUpdate": "2026-05-15"
+  "avgScore": 67.4,
+  "lastUpdate": "2026-05-16"
 }
