@@ -1531,7 +1531,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-29",
-      "discussionCount": 3,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-16",
         "website": {
@@ -6397,7 +6397,7 @@
       },
       "score": 52,
       "discoveredAt": "2026-05-13",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-16",
         "website": {
@@ -7088,7 +7088,7 @@
       },
       "score": 70,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-16",
         "website": {},
@@ -7133,7 +7133,7 @@
       },
       "score": 70,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-16",
         "website": {},
@@ -7207,7 +7207,7 @@
       },
       "score": 72,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-16",
         "website": {},
@@ -7571,41 +7571,279 @@
       }
     },
     {
-      "id": "moonshotai",
-      "name": "Moonshot AI",
-      "desc": "开发Kimi智能助手的大模型公司",
-      "track": "ai",
-      "stage": "b+",
-      "city": "beijing",
+      "id": "mojawa",
+      "name": "苏州索迩电子技术有限公司",
+      "desc": "骨传导运动耳机品牌Mojawa母公司，独创宽频振动技术打破专利垄断",
+      "track": "hardtech",
+      "stage": "a",
+      "city": "suzhou",
       "tags": [
-        "大模型",
-        "Kimi",
-        "AI助手"
+        "骨传导耳机",
+        "宽频振动",
+        "运动耳机"
       ],
-      "team": [],
-      "product": "https://kimi.moonshot.cn",
-      "founded": "2023-03",
-      "funding": "$2 billion funding round at over $20 billion valuation",
+      "team": [
+        {
+          "name": "未知",
+          "role": "创始人",
+          "bg": "前苹果工程师"
+        }
+      ],
+      "product": "",
+      "founded": "2020-01",
+      "funding": "数千万元A+轮融资，由正海资本领投",
       "scores": {
         "tech": 80,
-        "growth": 90,
-        "team": 80,
-        "market": 90
+        "growth": 60,
+        "team": 70,
+        "market": 70
       },
-      "score": 85,
+      "score": 70,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "mierguang",
+      "name": "弥尔光半导体（北京）有限公司",
+      "desc": "专注于下一代通信系统核心光电子器件研发",
+      "track": "semiconductor",
+      "stage": "angel",
+      "city": "beijing",
+      "tags": [
+        "光电子",
+        "6G",
+        "光通信"
+      ],
+      "team": [
+        {
+          "name": "宗柏青",
+          "role": "首席科学家",
+          "bg": "博士"
+        }
+      ],
+      "product": "",
+      "founded": "2021-01",
+      "funding": "完成天使轮融资，投资方为信科资本、元禾控股及其他产业方",
+      "scores": {
+        "tech": 80,
+        "growth": 60,
+        "team": 65,
+        "market": 80
+      },
+      "score": 71,
       "discoveredAt": "2026-05-16",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-16",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "youshu",
+      "name": "上海酉术量子科技有限公司",
+      "desc": "全球首个Agent驱动的全链路量子科学计算平台UnitaryLab 2.0",
+      "track": "hardtech",
+      "stage": "seed",
+      "city": "shanghai",
+      "tags": [
+        "量子计算",
+        "科学计算",
+        "Agent"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 85,
+        "growth": 50,
+        "team": 50,
+        "market": 70
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "jinglingcloud",
+      "name": "精灵云",
+      "desc": "新一代国防科技智能领航企业",
+      "track": "hardtech",
+      "stage": "b+",
+      "city": "chengdu",
+      "tags": [
+        "国防科技",
+        "人工智能",
+        "无人化"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "完成近亿元B+轮融资，成都科创投、红山基金等投资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 60
+      },
+      "score": 67,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "linkup",
+      "name": "Linkup",
+      "desc": "滑动匹配联合创始人的平台，类似Tinder for co-founders",
+      "track": "saas",
+      "stage": "idea",
+      "city": "overseas",
+      "tags": [
+        "创始人匹配",
+        "社交",
+        "创业"
+      ],
+      "team": [],
+      "product": "https://linkup-nine-ruddy.vercel.app/",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 40,
+        "growth": 30,
+        "team": 30,
+        "market": 50
+      },
+      "score": 37,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
         "website": {
-          "website": "https://kimi.moonshot.cn",
+          "website": "https://linkup-nine-ruddy.vercel.app/",
           "emails": [],
           "socials": {},
-          "careerPage": "https://kimi.moonshot.cn/careers",
-          "jobListings": [
-            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
-          ]
+          "careerPage": null,
+          "jobListings": []
         },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "luel",
+      "name": "Luel",
+      "desc": "YC支持的初创公司，被指抄袭Kled",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "YC",
+        "争议"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "YC投资",
+      "scores": {
+        "tech": 30,
+        "growth": 40,
+        "team": 50,
+        "market": 40
+      },
+      "score": 39,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "kled",
+      "name": "Kled",
+      "desc": "被Luel抄袭的初创公司，具体业务未知",
+      "track": "other",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "被抄袭"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yawlabs",
+      "name": "Yaw Labs",
+      "desc": "终端初创公司，专注于上下文管理和开发者工具",
+      "track": "saas",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "terminal",
+        "developer-tools",
+        "context"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-16",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-16",
+        "website": {},
         "github": {},
         "hiring": [],
         "businessInfo": {}

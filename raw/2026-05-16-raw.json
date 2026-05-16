@@ -81,60 +81,60 @@
   },
   {
     "source": "36氪",
+    "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+    "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+    "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+    "published": "2026-05-16 16:01:59  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "36氪",
+    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
+    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+    "published": "2026-05-16 15:29:15  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "36氪",
+    "title": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
+    "summary": "36氪获悉，近日，蔚来高管力洪全面解读神玑NX9031智驾芯片，直面车载芯片行业参数注水、概念营销的乱象，重新明确了高端先进车载芯片的核心评判标准，打破行业唯算力论的片面宣传误区。 当下AI智驾时代，芯片综合调度能力远比纸面算力重要，高内存带宽、真实算力、高效协同、稳定量产，才是先进车载芯片的四大硬核标准。针对行业稀疏、稠密算力模糊概念泛滥，算力数值普遍注水3-6倍的乱象，蔚来坚持硬核自研、拒绝文字营销，不以片面参数误导用户。 性能层面，神玑NX9031以546GB/s超高带宽筑牢性能根基，彻底避免数据拥堵，让芯片性能完全释放，大幅领先行业多数自研产品。同时芯片搭载顶级ISP图像传感器，暗光感知能力优异，为智驾精准路况识别提供底层支撑。 在多芯片协作领域，该芯片实现毫秒级双芯片无缝切换，联动效率行业领先。量产端，5nm制程的神玑NX9031装车量已突破25万片，经过海量实车路试验证。蔚来以实打实的硬件参数、协同技术和量产实力，树立起车载智能芯片的全新行业标杆。",
+    "url": "https://36kr.com/newsflashes/3811510125010434?f=rss",
+    "published": "2026-05-16 14:13:31  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "36氪",
+    "title": "乐道L80上市，售价24.28万起",
+    "summary": "36氪获悉，5月15日晚，蔚来旗下品牌乐道汽车L80 正式上市，整车购买24.28万元起，BaaS电池租用方式购买15.68万元起。 乐道L80提供Pro、Max+和Ultra+三个版型，Orin-X纯视觉版和神玑芯片+激光雷达版两种智驾方案选择。5月16日，乐道L80将开启全国交付。",
+    "url": "https://36kr.com/newsflashes/3811480372141571?f=rss",
+    "published": "2026-05-16 13:45:13  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "36氪",
+    "title": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+    "summary": "5月15日，开放原子“园区行”（北京站）活动成功举办。会上，OpenLET具身智能开源数据集社区工作委员会正式成立，虚拟动点与乐聚机器人、百度智能云、灵心巧手、北京大学、北京理工大学等9家单位共同成为首批委员会成员。OpenLET具身智能开源数据集社区由开放原子开源基金会发起，乐聚智能牵头组建，汇聚70余家成员单位，覆盖企业、高校、科研机构等多元主体。作为具身智能领域的重要开源平台，社区将面向开发者、生态合作伙伴开放入驻，推动具身智能数据资源开放共享，加速数据、算法、场景深度融合，助力具身智能技术快速落地应用。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3811463677533704?f=rss",
+    "published": "2026-05-16 13:30:16  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "36氪",
     "title": "FF获2500万美元新融资",
     "summary": "5月16日，Faraday Future（简称FF）宣布，公司已与机构投资者签署了2500万美元股份购买协议，预计此次融资所得将进一步加速FF EAI战略的落地实施。根据最新协议，投资者已认购FF总本金为2500万美元的可转换本票，本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。（人民财讯）",
     "url": "https://36kr.com/newsflashes/3811383661911557?f=rss",
     "published": "2026-05-16 12:12:49  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "36氪",
-    "title": "上海电信率先发布Token资费套餐：1元对应25万额度点 支持手机账单付",
-    "summary": "面对AI时代日益增长的Token需求，上海电信宣布，即日起面向上海电信用户正式推出Token算力服务，成为上海首个发布Token资费套餐运营商。具体来说，一是按量订购，1元对应25万额度点（以KiMi-K2.5模型为例，约可支持调用25万输入Tokens）；二是按需选择，用多少买多少，多买可享折扣，支持话费账单支付。另据记者从上海电信获悉，用户购买额度点后，通过标准API接口即可调用30余款主流大模型（文本、多模态），将AI能力集成到自己的软件、脚本或自动化流程中。以10元购买250万额度为例，约可让程序自动总结100本10万字的电子书。(上观新闻)",
-    "url": "https://36kr.com/newsflashes/3811348121100035?f=rss",
-    "published": "2026-05-16 10:57:38  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "36氪",
-    "title": "OpenAI已收购AI声音克隆工具公司weights.gg",
-    "summary": "两位知情人士透露，今年OpenAI低调收购了小型初创企业Weights.gg，这家企业主打提供人声克隆类人工智能工具。此次收购尚未对外披露，具体交易条款目前无从得知。熟悉本次收购事宜的人士表示，OpenAI一并拿下了该公司规模不大的团队以及全部知识产权。Weights.gg已于今年三月宣布关停旗下各项服务。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3811291086233353?f=rss",
-    "published": "2026-05-16 10:30:42  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "36氪",
-    "title": "今年以来A股上市公司回购持续升温",
-    "summary": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振市场情绪、改善流动性，也为A股市场的平稳健康运行提供了基础支撑。当前A股整体估值处于合理区间，也给高景气赛道企业提供了良好的回购窗口期。（人民财讯）",
-    "url": "https://36kr.com/newsflashes/3811289667559172?f=rss",
-    "published": "2026-05-16 10:13:12  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "36氪",
-    "title": "商业航天迎来发展黄金期 融资客净买入12只概念股",
-    "summary": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振市场情绪、改善流动性，也为A股市场的平稳健康运行提供了基础支撑。当前A股整体估值处于合理区间，也给高景气赛道企业提供了良好的回购窗口期。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3811281511751177?f=rss",
-    "published": "2026-05-16 09:45:56  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "36氪",
-    "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
-    "summary": "13F报告显示，高瓴一季度建仓叮咚买菜、迈威尔科技，增持唯品会、英特尔、康宁公司、英伟达、高意公司Coherent、台积电、Lumentum等。（财联社）",
-    "url": "https://36kr.com/newsflashes/3811273252560387?f=rss",
-    "published": "2026-05-16 09:07:38  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-16"
@@ -671,8 +671,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Linkup – Swipe to find cofounders, developers, designers and startup teammates",
+    "summary": "Article URL: https://linkup-nine-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48158989 Points: 1 # Comments: 0",
+    "url": "https://linkup-nine-ruddy.vercel.app/",
+    "published": "Sat, 16 May 2026 10:54:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-16"
+  },
+  {
+    "source": "Hacker News",
     "title": "YC startup Luel appears to have copied Kled",
-    "summary": "Article URL: https://twitter.com/avipat_/status/2055384102409253056 Comments URL: https://news.ycombinator.com/item?id=48156021 Points: 4 # Comments: 1",
+    "summary": "Article URL: https://twitter.com/avipat_/status/2055384102409253056 Comments URL: https://news.ycombinator.com/item?id=48156021 Points: 5 # Comments: 1",
     "url": "https://twitter.com/avipat_/status/2055384102409253056",
     "published": "Sat, 16 May 2026 01:40:57 +0000",
     "lang": "en",
@@ -682,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "The founder's playbook: Building an AI-native startup",
-    "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48152750 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48152750 Points: 3 # Comments: 0",
     "url": "https://claude.com/blog/the-founders-playbook",
     "published": "Fri, 15 May 2026 19:25:12 +0000",
     "lang": "en",
@@ -802,7 +812,7 @@
   {
     "source": "Hacker News",
     "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "summary": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 613 # Comments: 691",
+    "summary": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 614 # Comments: 696",
     "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
     "published": "Thu, 14 May 2026 14:51:14 +0000",
     "lang": "en",
@@ -845,16 +855,6 @@
     "summary": "Article URL: https://www.tomshardware.com/3d-printing/innovative-startup-pioneers-3d-printing-with-recycled-glass-new-binder-jet-process-combines-powder-with-adhesive-agent-in-layering-technique Comments URL: https://news.ycombinator.com/item?id=48127930 Points: 3 # Comments: 0",
     "url": "https://www.tomshardware.com/3d-printing/innovative-startup-pioneers-3d-printing-with-recycled-glass-new-binder-jet-process-combines-powder-with-adhesive-agent-in-layering-technique",
     "published": "Wed, 13 May 2026 21:33:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Blue Origin may need external funding to hit ambitious launch targets",
-    "summary": "Article URL: https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/ Comments URL: https://news.ycombinator.com/item?id=48126289 Points: 4 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/",
-    "published": "Wed, 13 May 2026 19:26:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-16"
