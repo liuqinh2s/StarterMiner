@@ -6397,7 +6397,7 @@
       },
       "score": 52,
       "discoveredAt": "2026-05-13",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-17",
         "website": {
@@ -7048,7 +7048,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-05-14",
-      "discussionCount": 2,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-17",
         "website": {},
@@ -7643,20 +7643,20 @@
     {
       "id": "qisuanfa",
       "name": "重庆绮算法科技有限公司",
-      "desc": "宠物健康大模型公司，软硬一体化布局，已服务超200家宠物医院。",
+      "desc": "宠物健康大模型科技公司，软硬一体化，服务超200家宠物医院",
       "track": "ai",
       "stage": "angel",
       "city": "chongqing",
       "tags": [
-        "宠物大模型",
-        "AI医疗",
-        "软硬一体"
+        "宠物医疗",
+        "大模型",
+        "AI诊断"
       ],
       "team": [
         {
           "name": "陈立",
           "role": "创始人",
-          "bg": "英国国王学院，连续创业者"
+          "bg": "英国国王学院毕业，连续创业者"
         },
         {
           "name": "刘煜东",
@@ -7666,19 +7666,19 @@
         {
           "name": "邓子豪",
           "role": "技术合伙人",
-          "bg": "宾夕法尼亚大学，边缘计算技术"
+          "bg": "宾夕法尼亚大学，边缘计算"
         }
       ],
       "product": "",
       "founded": "2022-07",
-      "funding": "数千万元，启赋资本与聚恒创投投资",
+      "funding": "数千万元融资，投资方为启赋资本与聚恒创投",
       "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 85,
-        "market": 75
+        "tech": 75,
+        "growth": 60,
+        "team": 75,
+        "market": 70
       },
-      "score": 77,
+      "score": 70,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
@@ -7692,26 +7692,32 @@
     {
       "id": "mojawa",
       "name": "苏州索迩电子技术有限公司",
-      "desc": "骨传导运动耳机品牌Mojawa，独创宽频振动技术，打破头部企业专利垄断。",
-      "track": "hardtech",
-      "stage": "a+",
+      "desc": "骨传导运动耳机品牌Mojawa，独创宽频振动技术，打破专利垄断",
+      "track": "consumer",
+      "stage": "a",
       "city": "suzhou",
       "tags": [
-        "骨传导",
+        "骨传导耳机",
         "运动耳机",
-        "AI智能化"
+        "触觉反馈"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "不详",
+          "role": "创始人",
+          "bg": "前苹果工程师（据文章标题）"
+        }
+      ],
       "product": "",
       "founded": "2020-01",
-      "funding": "数千万元，正海资本领投",
+      "funding": "A+轮融资数千万元，正海资本领投",
       "scores": {
-        "tech": 85,
-        "growth": 70,
-        "team": 80,
-        "market": 80
+        "tech": 80,
+        "growth": 65,
+        "team": 70,
+        "market": 75
       },
-      "score": 78,
+      "score": 72,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
@@ -7723,305 +7729,109 @@
       }
     },
     {
-      "id": "mierguang",
-      "name": "弥尔光半导体",
-      "desc": "下一代全光子无线通信核心光电器件研发",
-      "track": "semiconductor",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "光子无线",
-        "6G",
-        "光电子"
-      ],
-      "team": [
-        {
-          "name": "宗柏青",
-          "role": "首席科学家",
-          "bg": "博士，光电子领域专家"
-        }
-      ],
-      "product": "",
-      "founded": "2021",
-      "funding": "天使轮，由信科资本、元禾控股等投资",
-      "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 70,
-        "market": 70
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "shenjuezhiji",
-      "name": "北京机智赛博科技有限公司",
-      "desc": "具身通用智能基座模型公司，国内首个定义并践行'人类学习'路线，全栈能力进入世界第一梯队",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "基座模型",
-        "人类学习",
-        "机器人"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2025-05",
-      "funding": "成立一年累计数亿元融资，十余家知名机构参与",
-      "scores": {
-        "tech": 85,
-        "growth": 80,
-        "team": 70,
-        "market": 80
-      },
-      "score": 80,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "oladimensions",
-      "name": "欧拉万象（Ola Dimensions）",
-      "desc": "家庭具身智能企业，致力于打造家庭机器人数据闭环，创始人曾为华为具身智能1号员工",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "家庭机器人",
-        "具身智能",
-        "数据闭环",
-        "华为系"
-      ],
-      "team": [
-        {
-          "name": "周顺波",
-          "role": "创始人",
-          "bg": "前华为具身智能首席专家、天才少年"
-        },
-        {
-          "name": "张靖",
-          "role": "联合创始人",
-          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "数亿元融资，招商局创投领投；此前获高瓴创投、五源资本种子轮",
-      "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 85,
-        "market": 70
-      },
-      "score": 74,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "lumingrobot",
-      "name": "鹿明机器人",
-      "desc": "产业具身智能领军企业，推动机器人在工业场景落地",
-      "track": "robotics",
-      "stage": "a",
-      "city": "suzhou",
-      "tags": [
-        "具身智能",
-        "工业机器人",
-        "通用智能"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2023-00",
-      "funding": "连续完成A1及A2轮融资，累计近10亿元，三菱电机领投",
-      "scores": {
-        "tech": 80,
-        "growth": 75,
-        "team": 50,
-        "market": 85
-      },
-      "score": 74,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "jinglingcloud",
-      "name": "精灵云",
-      "desc": "新一代国防科技智能领航企业，专注国防智能化",
-      "track": "hardtech",
-      "stage": "b",
-      "city": "chengdu",
-      "tags": [
-        "国防科技",
-        "人工智能",
-        "自主可控"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2021-00",
-      "funding": "完成近亿元B+轮融资，由成都科创投、红山基金等投资",
-      "scores": {
-        "tech": 85,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "suxintech",
-      "name": "塑新科技",
-      "desc": "全球首条万吨酶法再生PET产线，环保新材料公司",
-      "track": "hardtech",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "环保",
-        "生物技术",
-        "PET回收"
-      ],
-      "team": [
-        {
-          "name": "齐云达",
-          "role": "CFO",
-          "bg": "摩根士丹利及国内头部创投背景"
-        },
-        {
-          "name": "董维亮",
-          "role": "CTO",
-          "bg": "南京工业大学教授，AI酶改造专家"
-        },
-        {
-          "name": "向科炜",
-          "role": "CEO",
-          "bg": "四川大学高分子博士，曾主导三棵树等产业化"
-        },
-        {
-          "name": "李佳",
-          "role": "工艺负责人",
-          "bg": "原新和成工艺负责人"
-        }
-      ],
-      "product": "",
-      "founded": "2024-00",
-      "funding": "两年内完成天使轮至A+轮五轮融资，A轮由海棠基金等领投，A+轮由赋远投资领投",
-      "scores": {
-        "tech": 90,
-        "growth": 85,
-        "team": 85,
-        "market": 80
-      },
-      "score": 86,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "tianyuan",
-      "name": "田渊栋创业公司",
-      "desc": "前Meta FAIR总监创立的AI公司，估值46.5亿美元",
-      "track": "ai",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "大模型",
-        "前沿研究"
-      ],
-      "team": [
-        {
-          "name": "田渊栋",
-          "role": "创始人/CEO",
-          "bg": "前Meta FAIR总监"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "估值46.5亿美元",
-      "scores": {
-        "tech": 90,
-        "growth": 50,
-        "team": 85,
-        "market": 80
-      },
-      "score": 75,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "nectar-social",
       "name": "Nectar Social",
-      "desc": "AI驱动的营销操作系统，完成3000万美元A轮融资",
+      "desc": "AI驱动的营销操作系统",
       "track": "ai",
       "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI",
-        "营销",
+        "AI营销",
+        "营销自动化",
         "SaaS"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "3000万美元A轮，Menlo Ventures领投",
+      "funding": "3000万美元A轮融资，由Menlo Ventures领投",
       "scores": {
         "tech": 70,
-        "growth": 60,
+        "growth": 70,
         "team": 50,
-        "market": 75
+        "market": 60
       },
       "score": 64,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yawlabs",
+      "name": "Yaw Labs",
+      "desc": "A terminal startup focusing on context-aware tools for developers.",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "developer-tools",
+        "terminal",
+        "context"
+      ],
+      "team": [],
+      "product": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
+      "founded": "unknown",
+      "funding": "unknown",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {
+          "website": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
+          "emails": [
+            "siliconsnark@gmail.com"
+          ],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ougle",
+      "name": "破己行动 Ougle",
+      "desc": "本地优先、无广告的iOS自我提升App，注重隐私与极简设计",
+      "track": "consumer",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "自我提升",
+        "本地优先",
+        "独立开发",
+        "无广告"
+      ],
+      "team": [
+        {
+          "name": "独立开发者",
+          "role": "创始人",
+          "bg": "自学Swift/SwiftUI/Rust，多年创业经验"
+        }
+      ],
+      "product": "",
+      "founded": "2026-05",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 40,
+        "market": 50
+      },
+      "score": 51,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
@@ -13428,21 +13238,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-      "url": "https://36kr.com/p/3812789087264519?f=rss",
-      "snippet": "SpaceX 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量加速驶入纳斯达克。",
-      "date": "2026-05-17",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
+      "sourceIcon": "36Kr",
       "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
       "url": "https://36kr.com/p/3812788568907520?f=rss",
-      "snippet": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。",
+      "snippet": "宠物大模型健康公司绮算法获数千万元融资，投资方为启赋资本与聚恒创投，用于产品迭代和市场拓展。",
       "date": "2026-05-17",
       "likes": 0,
       "comments": 0,
@@ -13450,200 +13249,57 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "48022桌需退款，这家网红店出了什么事？",
-      "url": "https://36kr.com/p/3812706162220548?f=rss",
-      "snippet": "“由于您吃到的只是‘烤熟的羊肉串’，而不是‘最佳状态的羊肉串’，我们内心感到惭愧，所以原路‘退回首轮烤制一半羊肉串的钱’作为补偿。” 近日，不少网友在社交平台发文称，收到了“很久以前羊肉串”的部分退款及一条道歉短信。",
-      "date": "2026-05-17",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
+      "sourceIcon": "36Kr",
       "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
       "url": "https://36kr.com/p/3810520138243593?f=rss",
-      "snippet": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。",
+      "snippet": "索迩电子完成A+轮融资，由正海资本领投，资金用于海外渠道和AI智能化研发。",
       "date": "2026-05-16",
       "likes": 0,
       "comments": 0,
       "relatedProject": "mojawa"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-      "url": "https://36kr.com/p/3811265856626440?f=rss",
-      "snippet": "今日热点导览 OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休",
-      "date": "2026-05-16",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
-      "url": "https://36kr.com/p/3810562142445058?f=rss",
-      "snippet": "理想汽车CEO 李想 能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。 5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。",
-      "date": "2026-05-15",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
-      "url": "https://36kr.com/p/3810607581634056?f=rss",
-      "snippet": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。",
-      "date": "2026-05-15",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-      "url": "https://36kr.com/p/3810308239465986?f=rss",
-      "snippet": "当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。",
-      "date": "2026-05-15",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
-      "url": "https://36kr.com/p/3810091479293449?f=rss",
-      "snippet": "36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。 其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。",
-      "date": "2026-05-15",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "长安汽车否认与千里科技合作",
-      "url": "https://36kr.com/newsflashes/3812843633991425?f=rss",
-      "snippet": "近日有消息称，长安汽车将采用千里科技的智能辅助驾驶方案，并投资入股。长安汽车今日称，“暂无计划”。另有接近长安汽车的人士向记者透露：长安汽车自研的天枢智能已经到了收获期，不可能切换智能驾驶方案。",
-      "date": "2026-05-17",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
       "source": "TechCrunch",
       "sourceIcon": "TC",
       "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
       "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "snippet": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+      "snippet": "AI-powered marketing platform Nectar Social raised $30M Series A led by Menlo Ventures and its Anthology Fund.",
       "date": "2026-05-16",
       "likes": 0,
       "comments": 0,
       "relatedProject": "nectar-social"
     },
     {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Startup Raises $1.3B for an A.I. 'Grid'",
-      "url": "https://news.ycombinator.com/item?id=48149911",
-      "snippet": "初创公司为AI网格融资13亿美元",
-      "date": "2026-05-15",
-      "likes": 4,
-      "comments": 2,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Big Tech groups launch global borrowing spree to fund AI expansion",
-      "url": "https://news.ycombinator.com/item?id=48148096",
-      "snippet": "大型科技公司启动全球借贷热潮以资助AI扩张",
-      "date": "2026-05-15",
-      "likes": 2,
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "snippet": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and Codex.",
+      "date": "2026-05-16",
+      "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Trump poised to drop IRS suit, launch $1.7B 'weaponization' fund for allies",
-      "url": "https://news.ycombinator.com/item?id=48147844",
-      "snippet": "特朗普准备放弃IRS诉讼，为盟友启动17亿美元武器化基金",
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "Oppo and Vivo gear up for year-end gimbal camera launches to take on DJI’s Pocket series",
+      "url": "https://technode.com/2026/05/15/oppo-and-vivo-gear-up-for-year-end-gimbal-camera-launches-to-take-on-djis-pocket-series/",
+      "snippet": "Oppo and Vivo develop Pocket-style gimbal cameras to compete with DJI.",
       "date": "2026-05-15",
-      "likes": 3,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Show HN: I built a free AI startup validator – it scored a dog walking app 4/10",
-      "url": "https://news.ycombinator.com/item?id=48147148",
-      "snippet": "我构建了一个免费的AI创业验证器，给遛狗应用打了4/10分",
-      "date": "2026-05-15",
-      "likes": 1,
+      "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Bumble Is Removing the Swipe Feature, Will Use AI in New Launch",
-      "url": "https://news.ycombinator.com/item?id=48143632",
-      "snippet": "Bumble将移除滑动功能，在新发布中使用AI",
-      "date": "2026-05-15",
-      "likes": 1,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Anthropic agrees terms of $30B funding deal at $900B valuation",
-      "url": "https://news.ycombinator.com/item?id=48143085",
-      "snippet": "Anthropic同意300亿美元融资条款，估值9000亿美元",
-      "date": "2026-05-15",
-      "likes": 8,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "SpaceX sets date for first Starship version 3 launch – SpaceNews",
-      "url": "https://news.ycombinator.com/item?id=48141531",
-      "snippet": "SpaceX确定了第一艘星舰版本3的发射日期",
+      "source": "TechNode",
+      "sourceIcon": "TN",
+      "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
+      "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
+      "snippet": "TikTok GO allows booking hotels, attractions, dining within the app.",
       "date": "2026-05-14",
-      "likes": 9,
-      "comments": 2,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Escuelita Maker – a free 28-day online program to help people launch projects",
-      "url": "https://news.ycombinator.com/item?id=48140777",
-      "snippet": "免费28天在线项目，帮助人们发布项目",
-      "date": "2026-05-14",
-      "likes": 3,
+      "likes": 0,
       "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
-      "url": "https://news.ycombinator.com/item?id=48139220",
-      "snippet": "理解Linux内核：Linux内核启动",
-      "date": "2026-05-14",
-      "likes": 80,
-      "comments": 21,
       "relatedProject": null
     },
     {
@@ -13651,22 +13307,33 @@
       "sourceIcon": "HN",
       "title": "Yaw Labs Built a Terminal Startup for People Who Treat Context Like Ammunition",
       "url": "https://news.ycombinator.com/item?id=48138152",
-      "snippet": "Yaw Labs为那些把上下文当作弹药的人构建了一个终端初创公司",
+      "snippet": "Yaw Labs has built a terminal startup for people who treat context like ammunition, featured on Silicon Snark.",
       "date": "2026-05-14",
       "likes": 5,
       "comments": 0,
-      "relatedProject": "yaw-labs"
+      "relatedProject": "yawlabs"
     },
     {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Show HN: I made a tool that writes your launch pack from a URL",
-      "url": "https://news.ycombinator.com/item?id=48128232",
-      "snippet": "I built Markey because I was tired of writing marketing copy for every project I shipped. You paste your site's URL, it reads your content, and writes 20 launch materials in your brand's voice. It then auto-publishes them weekly to X, Threads, Bluesky, LinkedIn, and Reddit.",
-      "date": "2026-05-13",
-      "likes": 1,
-      "comments": 1,
-      "relatedProject": "markey"
+      "source": "V2EX",
+      "sourceIcon": "V2",
+      "title": "假如苹果出相机，传统相机还活得下去吗？",
+      "url": "https://www.v2ex.com/t/1213252",
+      "snippet": "现在很多传统相机，说实话体验已经有点跟不上时代了。系统 UI 像上个世纪的产物，逻辑复杂、学习成本高。我从富士 X100 初代用到 X100 VI ，核心体验其实没发生什么本质变化。很多微单到今天都没有内置景深融合、多帧 HDR 、全景照片这些手机上早就普及的功能，夜景模式更是基本缺席。大量相机的屏幕素质也很一般，遥控拍摄功能长期停留在能用但难用的阶段。整体操作比手机繁琐太多：菜单层级深、按键多、逻辑分裂，很多设置不直观；图片传输和管理体验也很差，官方 App 更是普遍难用。 但如果苹果真的做一台相机，我觉得整个市场逻辑可能都会被重写。 它大概率会是一台接近 GR / Fuji X",
+      "date": "2026-05-17",
+      "likes": 0,
+      "comments": 42,
+      "relatedProject": null
+    },
+    {
+      "source": "V2EX",
+      "sourceIcon": "V2",
+      "title": "我自学编程上架了一款无广告、本地优先的 App「破己行动」",
+      "url": "https://www.v2ex.com/t/1213257",
+      "snippet": "大家好！ 我是一名自学成才的“野路子”程序员。在经历了十多年的创业折腾后，我决定回归内心的平静，自学了 Swift/SwiftUI 和 Rust 。今天想向大家分享我独立开发并刚刚上架的一款 iOS App —— 「破己行动」(英文名: Ougle)。 在开发这款产品时，我坚持了两个自己绝对不妥协的原则： Local-first (本地优先)： 数据全部留在你的设备上，不强制依赖云端，极致保护隐私，断网也能丝滑使用。 Apple 式极简与无障碍： 我们花了很多精力去优化视听障碍辅助功能，希望不管是交互还是视觉，都能做到克制、几何、清爽。 App 没有任何强制付费和",
+      "date": "2026-05-17",
+      "likes": 0,
+      "comments": 27,
+      "relatedProject": "ougle"
     }
   ]
 }

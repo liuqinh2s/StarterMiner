@@ -2712,85 +2712,38 @@
     }
   },
   {
-    "id": "mierguang",
-    "name": "弥尔光半导体",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "shenjuezhiji",
-    "name": "北京机智赛博科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "oladimensions",
-    "name": "欧拉万象（Ola Dimensions）",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "lumingrobot",
-    "name": "鹿明机器人",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "jinglingcloud",
-    "name": "精灵云",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "suxintech",
-    "name": "塑新科技",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "tianyuan",
-    "name": "田渊栋创业公司",
-    "contacts": {
-      "fetchedAt": "2026-05-17",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "nectar-social",
     "name": "Nectar Social",
+    "contacts": {
+      "fetchedAt": "2026-05-17",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yawlabs",
+    "name": "Yaw Labs",
+    "contacts": {
+      "fetchedAt": "2026-05-17",
+      "website": {
+        "website": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
+        "emails": [
+          "siliconsnark@gmail.com"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ougle",
+    "name": "破己行动 Ougle",
     "contacts": {
       "fetchedAt": "2026-05-17",
       "website": {},
