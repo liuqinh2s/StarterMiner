@@ -7641,22 +7641,22 @@
       }
     },
     {
-      "id": "qisuanfa",
+      "id": "qlalgorithm",
       "name": "重庆绮算法科技有限公司",
-      "desc": "宠物健康大模型科技公司，软硬一体化，服务超200家宠物医院",
+      "desc": "宠物健康大模型公司，软硬一体化布局，服务超200家宠物医院",
       "track": "ai",
-      "stage": "angel",
+      "stage": "pre-a",
       "city": "chongqing",
       "tags": [
-        "宠物医疗",
+        "宠物健康",
         "大模型",
-        "AI诊断"
+        "AI医疗"
       ],
       "team": [
         {
           "name": "陈立",
           "role": "创始人",
-          "bg": "英国国王学院毕业，连续创业者"
+          "bg": "毕业于英国国王学院，Qlalgorithm Lab研究员，连续创业者"
         },
         {
           "name": "刘煜东",
@@ -7666,19 +7666,19 @@
         {
           "name": "邓子豪",
           "role": "技术合伙人",
-          "bg": "宾夕法尼亚大学，边缘计算"
+          "bg": "宾夕法尼亚大学博士，边缘计算"
         }
       ],
       "product": "",
       "founded": "2022-07",
-      "funding": "数千万元融资，投资方为启赋资本与聚恒创投",
+      "funding": "数千万元人民币融资，启赋资本与聚恒创投投资",
       "scores": {
-        "tech": 75,
+        "tech": 74,
         "growth": 60,
-        "team": 75,
+        "team": 68,
         "market": 70
       },
-      "score": 70,
+      "score": 68,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
@@ -7692,32 +7692,32 @@
     {
       "id": "mojawa",
       "name": "苏州索迩电子技术有限公司",
-      "desc": "骨传导运动耳机品牌Mojawa，独创宽频振动技术，打破专利垄断",
-      "track": "consumer",
-      "stage": "a",
+      "desc": "骨传导运动耳机品牌Mojawa，独创宽频振动技术，打破头部企业专利垄断",
+      "track": "hardtech",
+      "stage": "a+",
       "city": "suzhou",
       "tags": [
         "骨传导耳机",
         "运动耳机",
-        "触觉反馈"
+        "AI智能化"
       ],
       "team": [
         {
-          "name": "不详",
+          "name": "未公开",
           "role": "创始人",
-          "bg": "前苹果工程师（据文章标题）"
+          "bg": "前苹果工程师"
         }
       ],
       "product": "",
-      "founded": "2020-01",
-      "funding": "A+轮融资数千万元，正海资本领投",
+      "founded": "2020",
+      "funding": "数千万元人民币A+轮融资，正海资本领投",
       "scores": {
-        "tech": 80,
-        "growth": 65,
-        "team": 70,
-        "market": 75
+        "tech": 78,
+        "growth": 60,
+        "team": 60,
+        "market": 70
       },
-      "score": 72,
+      "score": 67,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
@@ -7729,28 +7729,238 @@
       }
     },
     {
-      "id": "nectar-social",
+      "id": "miguang",
+      "name": "弥尔光半导体（北京）有限公司",
+      "desc": "专注于下一代通信系统核心光电子器件研发",
+      "track": "semiconductor",
+      "stage": "angel",
+      "city": "beijing",
+      "tags": [
+        "光电子器件",
+        "光通信",
+        "6G"
+      ],
+      "team": [
+        {
+          "name": "宗柏青",
+          "role": "首席科学家",
+          "bg": "博士"
+        }
+      ],
+      "product": "",
+      "founded": "2021",
+      "funding": "天使轮融资，信科资本、元禾控股等参与",
+      "scores": {
+        "tech": 80,
+        "growth": 50,
+        "team": 75,
+        "market": 85
+      },
+      "score": 71,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "shendujizhi",
+      "name": "深度机智（北京机智赛博科技有限公司）",
+      "desc": "具身通用智能基座模型公司，国内首个定义并系统化践行“人类学习”路线。",
+      "track": "robotics",
+      "stage": "angel",
+      "city": "beijing",
+      "tags": [
+        "具身智能",
+        "基座模型",
+        "人类学习"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2025-05",
+      "funding": "成立一年累计完成数亿元融资，十余家知名机构参与",
+      "scores": {
+        "tech": 85,
+        "growth": 80,
+        "team": 70,
+        "market": 80
+      },
+      "score": 80,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yanhe",
+      "name": "炎和科技",
+      "desc": "钙钛矿光伏技术公司，聚焦消费电子到太空探索全场景。",
+      "track": "newenergy",
+      "stage": "a+",
+      "city": "other",
+      "tags": [
+        "钙钛矿光伏",
+        "太空光伏",
+        "新能源"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "A2轮数亿元，朝希资本、顺为资本、蔚来资本联合领投",
+      "scores": {
+        "tech": 80,
+        "growth": 85,
+        "team": 50,
+        "market": 85
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "microyuan",
+      "name": "微元合成生物技术有限公司",
+      "desc": "合成生物制造，利用AI生物计算平台生产糖醇等大宗产品",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "合成生物",
+        "AI生物计算",
+        "糖醇"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "15亿元新一轮融资，股权融资由张其宾、谭瑞清与兴银投资参与，长期贷款由兴业银行北京分行提供",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 60,
+        "market": 85
+      },
+      "score": 80,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "egcloud",
+      "name": "杭州亿格云科技有限公司",
+      "desc": "AI时代企业安全治理基础设施，提供SASE+AI治理平台",
+      "track": "saas",
+      "stage": "b",
+      "city": "hangzhou",
+      "tags": [
+        "SASE",
+        "AI安全",
+        "零信任"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2022",
+      "funding": "数亿元B轮融资，Monolith砺思资本领投，未来启创基金跟投",
+      "scores": {
+        "tech": 85,
+        "growth": 80,
+        "team": 60,
+        "market": 85
+      },
+      "score": 78,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "tianyuandong",
+      "name": "田渊栋创业公司",
+      "desc": "前Meta FAIR总监田渊栋创立的AI公司，估值46.5亿美元",
+      "track": "ai",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "大模型",
+        "创业"
+      ],
+      "team": [
+        {
+          "name": "田渊栋",
+          "role": "创始人/CEO",
+          "bg": "前Meta FAIR总监"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "估值46.5亿美元，融资细节未披露",
+      "scores": {
+        "tech": 85,
+        "growth": 50,
+        "team": 90,
+        "market": 80
+      },
+      "score": 74,
+      "discoveredAt": "2026-05-17",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-17",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nectarsocial",
       "name": "Nectar Social",
-      "desc": "AI驱动的营销操作系统",
+      "desc": "AI驱动的营销操作系统，完成3000万美元A轮融资",
       "track": "ai",
       "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI营销",
-        "营销自动化",
+        "AI",
+        "营销",
         "SaaS"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "3000万美元A轮融资，由Menlo Ventures领投",
+      "funding": "2026年5月完成3000万美元A轮融资，由Menlo Ventures领投",
       "scores": {
         "tech": 70,
         "growth": 70,
         "team": 50,
-        "market": 60
+        "market": 75
       },
-      "score": 64,
+      "score": 67,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
@@ -7762,76 +7972,28 @@
       }
     },
     {
-      "id": "yawlabs",
-      "name": "Yaw Labs",
-      "desc": "A terminal startup focusing on context-aware tools for developers.",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "developer-tools",
-        "terminal",
-        "context"
-      ],
-      "team": [],
-      "product": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
-      "founded": "unknown",
-      "funding": "unknown",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-17",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-17",
-        "website": {
-          "website": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
-          "emails": [
-            "siliconsnark@gmail.com"
-          ],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "ougle",
-      "name": "破己行动 Ougle",
-      "desc": "本地优先、无广告的iOS自我提升App，注重隐私与极简设计",
+      "id": "ougule",
+      "name": "破己行动 (Ougle)",
+      "desc": "本地优先、无广告的习惯养成iOS应用",
       "track": "consumer",
       "stage": "seed",
       "city": "other",
       "tags": [
-        "自我提升",
-        "本地优先",
-        "独立开发",
-        "无广告"
+        "iOS",
+        "habit tracking",
+        "local-first"
       ],
-      "team": [
-        {
-          "name": "独立开发者",
-          "role": "创始人",
-          "bg": "自学Swift/SwiftUI/Rust，多年创业经验"
-        }
-      ],
-      "product": "",
-      "founded": "2026-05",
-      "funding": "",
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": null,
       "scores": {
         "tech": 60,
         "growth": 50,
-        "team": 40,
+        "team": 50,
         "market": 50
       },
-      "score": 51,
+      "score": 53,
       "discoveredAt": "2026-05-17",
       "discussionCount": 1,
       "contacts": {
