@@ -5635,110 +5635,33 @@
       "relatedProject": "ougule"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
-      "url": "https://36kr.com/p/3814695536336387?f=rss",
-      "snippet": "大公司综合新闻，提及索辰科技物理AI业务和智元WITA具身智能大模型备案",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "zhiyuan"
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
-      "url": "https://36kr.com/p/3810598875307780?f=rss",
-      "snippet": "字节跳动旗下番茄小说推动AI动漫上院线，开放IP改编权限",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
-      "url": "https://36kr.com/p/3814570248412677?f=rss",
-      "snippet": "红魔11S Pro系列手机评测，强调纯平后盖及水冷散热",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "url": "https://36kr.com/p/3814408307711492?f=rss",
-      "snippet": "第四届中国AIGC产业峰会预告，众多AI公司和学界嘉宾参与",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
-      "url": "https://36kr.com/p/3814368445259270?f=rss",
-      "snippet": "宇石空间完成5亿元A轮融资，用于火箭总装测试和筷子回收技术验证",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "yushi"
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么",
-      "url": "https://36kr.com/p/3814337101111044?f=rss",
-      "snippet": "对话万成云商品牌出海事业部总经理，探讨GEO优化与AI搜索时代营销",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
-      "url": "https://36kr.com/p/3813463119863553?f=rss",
-      "snippet": "律动节拍完成超千万新一轮融资，投后估值数亿元，专注跨城观演AI行程管家",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "lvdongjiepai"
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
-      "url": "https://36kr.com/p/3814030630084354?f=rss",
-      "snippet": "早间新闻合集，提及燃油车降价、蜜雪冰城新品、巴菲特午餐拍卖等",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
       "source": "创业邦",
       "sourceIcon": "创业邦",
-      "title": "融资丨全球首个原生范式通用具身大脑打造者眸深智能完成3亿元Pre-A轮融资",
-      "url": "http://www.cyzone.cn/article/833586.html",
-      "snippet": "眸深智能完成3亿元Pre-A轮融资，实现5倍超额认购，投资方包括国家绿色技术银行旗下绿技行资本、闽招基金等。",
-      "date": "2026-05-15",
+      "title": "融资丨「方石机器人」完成近亿元A轮融资",
+      "url": "http://www.cyzone.cn/article/833203.html",
+      "snippet": "方石机器人完成近亿元A轮融资，专注智能建造机器人及建筑大模型解决方案。",
+      "date": "2026-05-13",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "motionbrain"
+      "relatedProject": "fangshi"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+      "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+      "snippet": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+      "date": "2026-05-18",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
       "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "snippet": "韩国初创公司LetinAR制造AI眼镜背后的微型光学镜片，有望成为AI眼镜时代的光学支柱。",
+      "snippet": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
       "date": "2026-05-18",
       "likes": 0,
       "comments": 0,
@@ -5749,7 +5672,7 @@
       "sourceIcon": "TN",
       "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month",
       "url": "https://technode.com/2026/05/18/china-telecom-launches-trial-ai-token-subscription-plans-starting-at-1-4-per-month/",
-      "snippet": "China Telecom launched nationwide trial commercial Token subscription plans, shifting from selling data traffic to offering computing power services.",
+      "snippet": "China Telecom launched nationwide trial commercial Token subscription plans, marking shift from selling data traffic to offering computing power.",
       "date": "2026-05-18",
       "likes": 0,
       "comments": 0,
@@ -5760,7 +5683,7 @@
       "sourceIcon": "TN",
       "title": "Baidu Create 2026: CEO says AI focus is moving from models to AI agents, foresees rise of super individuals",
       "url": "https://technode.com/2026/05/14/baidu-create-2026-ceo-says-ai-is-moving-from-model-competition-to-ai-agent-era-foresees-rise-of-super-individuals/",
-      "snippet": "Baidu Create 2026 conference themed 'Agents at Scale', Robin Li delivered a keynote on self-evolution and unveiled AI products.",
+      "snippet": "Baidu CEO Robin Li said AI focus is moving from models to agents, unveiling several AI products.",
       "date": "2026-05-14",
       "likes": 0,
       "comments": 0,
@@ -5769,57 +5692,13 @@
     {
       "source": "Hacker News",
       "sourceIcon": "HN",
-      "title": "Zenk Space raises $26M, targets June debut launch – SpaceNews",
-      "url": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
-      "snippet": "Zenk Space raises $26M, targets June debut launch. Comments on HN.",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "zenk"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "The Aussie gov just screwed startup founders. my musings",
-      "url": "https://ghuntley.com/livid/",
-      "snippet": "Commentary on Australian government policy affecting startup founders.",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "Nightmare-Eclipse/YellowKey",
-      "url": "https://github.com/Nightmare-Eclipse/YellowKey",
-      "snippet": "YellowKey Bitlocker Bypass Vulnerability",
-      "date": "2026-05-12",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GitHub",
-      "title": "vercel-labs/zero",
-      "url": "https://github.com/vercel-labs/zero",
-      "snippet": "The programming language for agents",
-      "date": "2026-05-15",
-      "likes": 2010,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GitHub",
-      "title": "yetone/native-feel-skill",
-      "url": "https://github.com/yetone/native-feel-skill",
-      "snippet": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app.",
+      "title": "Yaw Labs Built a Terminal Startup for People Who Treat Context Like Ammunition",
+      "url": "https://news.ycombinator.com/item?id=48138152",
+      "snippet": "Yaw Labs开发了一款终端初创产品，专注于帮助用户管理上下文，如同对待弹药一样重视。",
       "date": "2026-05-14",
-      "likes": 1303,
+      "likes": 5,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "yaw-labs"
     }
   ]
 }

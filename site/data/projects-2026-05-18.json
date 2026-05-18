@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "ByBewer"
+            "twitter": "tvanwelsenes"
           },
           "careerPage": null,
           "jobListings": []
@@ -4230,7 +4230,8 @@
             "editors@latitudemedia.com",
             "careers@latitudemedia.com",
             "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com"
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -7048,7 +7049,7 @@
       },
       "score": 50,
       "discoveredAt": "2026-05-14",
-      "discussionCount": 1,
+      "discussionCount": 2,
       "contacts": {
         "fetchedAt": "2026-05-18",
         "website": {},
@@ -7207,7 +7208,7 @@
       },
       "score": 72,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-18",
         "website": {},
@@ -8005,28 +8006,28 @@
       }
     },
     {
-      "id": "zhiyuan",
-      "name": "智元机器人",
-      "desc": "专注具身智能与人形机器人的初创公司，其交互大模型WITA全国首例备案",
+      "id": "fangshi",
+      "name": "北京方石机器人有限公司",
+      "desc": "智能建造机器人开发商，提供具身智能+建筑大模型解决方案",
       "track": "robotics",
-      "stage": "seed",
-      "city": "shanghai",
+      "stage": "a",
+      "city": "beijing",
       "tags": [
-        "具身智能",
-        "大模型",
-        "人形机器人"
+        "建筑机器人",
+        "智能建造",
+        "具身智能"
       ],
       "team": [],
       "product": "",
-      "founded": "2023-02",
-      "funding": "",
+      "founded": "2019",
+      "funding": "近亿元A轮融资，由北京科创亦庄直投基金、航发基金等投资",
       "scores": {
-        "tech": 80,
-        "growth": 50,
+        "tech": 75,
+        "growth": 60,
         "team": 50,
-        "market": 80
+        "market": 70
       },
-      "score": 65,
+      "score": 64,
       "discoveredAt": "2026-05-18",
       "discussionCount": 1,
       "contacts": {
@@ -8038,321 +8039,61 @@
       }
     },
     {
-      "id": "yushi",
-      "name": "宇石空间",
-      "desc": "大运力、低成本、可复用液体火箭研制公司，累计融资10亿元",
-      "track": "aerospace",
+      "id": "lumeng",
+      "name": "鹿明机器人",
+      "desc": "产业具身智能机器人研发商，聚焦工业场景落地",
+      "track": "robotics",
       "stage": "a",
       "city": "other",
       "tags": [
-        "可复用火箭",
-        "商业航天",
-        "液体火箭"
-      ],
-      "team": [],
-      "product": "AS-1火箭",
-      "founded": "",
-      "funding": "5亿元A轮融资，累计10亿元",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 50,
-        "market": 80
-      },
-      "score": 65,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {
-          "website": "AS-1火箭",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "lvdongjiepai",
-      "name": "律动节拍",
-      "desc": "专注跨城观演全消费场景的科技文旅公司，开发AI演出行程管家",
-      "track": "consumer",
-      "stage": "pre-a",
-      "city": "other",
-      "tags": [
-        "跨城观演",
-        "AI行程管家",
-        "文旅科技"
-      ],
-      "team": [],
-      "product": "AI演出行程管家",
-      "founded": "2025",
-      "funding": "超千万新一轮融资，投后数亿元",
-      "scores": {
-        "tech": 50,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 57,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {
-          "website": "AI演出行程管家",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "mire",
-      "name": "弥尔光半导体（北京）有限公司",
-      "desc": "专注于下一代全光子无线技术核心光电器件的研发",
-      "track": "semiconductor",
-      "stage": "angel",
-      "city": "beijing",
-      "tags": [
-        "光子无线",
-        "6G",
-        "光电器件"
-      ],
-      "team": [
-        {
-          "name": "宗柏青",
-          "role": "首席科学家",
-          "bg": "博士"
-        }
-      ],
-      "product": "",
-      "founded": "2021-01",
-      "funding": "完成天使轮融资，由信科资本、元禾控股等投资",
-      "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 60,
-        "market": 75
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "youshu",
-      "name": "上海酉术量子科技有限公司",
-      "desc": "全球首个Agent驱动的全链路量子科学计算平台",
-      "track": "other",
-      "stage": "seed",
-      "city": "shanghai",
-      "tags": [
-        "量子计算",
-        "Agent驱动",
-        "科学计算平台"
+        "具身智能",
+        "工业机器人",
+        "融资"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 63,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yitang",
-      "name": "亦唐科技",
-      "desc": "高端贴片机技术自主可控的国产替代标杆企业",
-      "track": "hardtech",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "高端制造",
-        "贴片机",
-        "国产替代"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "B++轮数亿元融资，由成都交子中赢等五家机构投资",
-      "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 50,
-        "market": 80
-      },
-      "score": 70,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "deepwisdom",
-      "name": "北京机智赛博科技有限公司",
-      "desc": "专注具身通用基座模型研发，多项公开评测领先",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "基座模型",
-        "大模型"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2025-05",
-      "funding": "成立一年累计数亿元融资，十余家投资机构参与",
-      "scores": {
-        "tech": 85,
-        "growth": 75,
-        "team": 60,
-        "market": 80
-      },
-      "score": 76,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "vectorresonance",
-      "name": "向量共振",
-      "desc": "提出AI品牌认知治理理论，聚焦GEO赛道",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "GEO",
-        "AI品牌治理",
-        "品牌认知"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 52,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "oladimensions",
-      "name": "欧拉万象（Ola Dimensions）",
-      "desc": "家庭具身智能企业，专注家庭机器人数据闭环",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "家庭机器人",
-        "具身智能",
-        "数据闭环"
-      ],
-      "team": [
-        {
-          "name": "周顺波",
-          "role": "创始人",
-          "bg": "华为具身智能1号员工、天才少年"
-        },
-        {
-          "name": "张靖",
-          "role": "联合创始人",
-          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
-        }
-      ],
-      "product": "",
-      "founded": "2026-03",
-      "funding": "数亿元融资，招商局创投领投；此前种子轮由高瓴创投、五源资本联合领投",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 85,
-        "market": 85
-      },
-      "score": 79,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "weiyuan",
-      "name": "微元合成",
-      "desc": "合成生物制造公司，专注糖醇等产品生物合成",
-      "track": "biotech",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "合成生物",
-        "糖醇",
-        "AI生物计算"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "unknown",
-      "funding": "15亿元新一轮融资，用于并购豫鑫及规模化量产",
+      "funding": "连续完成A1及A2轮融资，累计近10亿元，三菱电机领投",
       "scores": {
         "tech": 75,
         "growth": 80,
         "team": 50,
-        "market": 70
+        "market": 80
       },
-      "score": 70,
+      "score": 72,
+      "discoveredAt": "2026-05-18",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-18",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "stainless",
+      "name": "Stainless",
+      "desc": "自动化SDK创建和维护的开发工具初创公司",
+      "track": "saas",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "SDK",
+        "API",
+        "开发工具"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2022",
+      "funding": "被Anthropic收购，未披露金额",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 50,
+        "market": 60
+      },
+      "score": 61,
       "discoveredAt": "2026-05-18",
       "discussionCount": 0,
       "contacts": {
@@ -8366,167 +8107,31 @@
     {
       "id": "letinar",
       "name": "LetinAR",
-      "desc": "韩国AI眼镜光学镜片制造商，提供微型光学解决方案",
+      "desc": "South Korean startup building miniature optics for AI glasses",
       "track": "hardtech",
       "stage": "seed",
       "city": "overseas",
       "tags": [
-        "AR眼镜",
-        "光学",
-        "AI眼镜"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2021-01",
-      "funding": "未披露具体融资",
-      "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 60,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "nectar-social",
-      "name": "Nectar Social",
-      "desc": "AI-powered marketing operating system that raised $30M Series A led by Menlo Ventures",
-      "track": "saas",
-      "stage": "a",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "marketing",
-        "Series A"
+        "AR/VR",
+        "optics",
+        "AI glasses"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "$30M Series A led by Menlo Ventures and Anthology Fund",
+      "funding": "",
       "scores": {
-        "tech": 70,
-        "growth": 70,
+        "tech": 80,
+        "growth": 50,
         "team": 50,
-        "market": 70
+        "market": 80
       },
-      "score": 66,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zenk",
-      "name": "Zenk Space",
-      "desc": "Aerospace startup raised $26M for debut launch.",
-      "track": "aerospace",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "space",
-        "launch",
-        "funding"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2025-06",
-      "funding": "$26M raised in seed round",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 63,
+      "score": 65,
       "discoveredAt": "2026-05-18",
       "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-18",
         "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "kled",
-      "name": "Kled",
-      "desc": "Startup allegedly copied by YC startup Luel.",
-      "track": "other",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "alleged copy"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2024-01",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "predictionoracle",
-      "name": "PredictionOracle",
-      "desc": "Free AI startup validator tool.",
-      "track": "ai",
-      "stage": "idea",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "validator",
-        "tool"
-      ],
-      "team": [],
-      "product": "https://tools.predictionoracle.io/",
-      "founded": "2026-05",
-      "funding": "",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 55,
-      "discoveredAt": "2026-05-18",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-18",
-        "website": {
-          "website": "https://tools.predictionoracle.io/",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
