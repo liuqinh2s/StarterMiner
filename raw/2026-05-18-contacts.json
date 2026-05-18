@@ -1290,6 +1290,7 @@
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
+          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
           "Data Center",
           "Data privacy policy"
         ]
@@ -2799,19 +2800,53 @@
     }
   },
   {
+    "id": "zhiyuan",
+    "name": "智元机器人",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yushi",
+    "name": "宇石空间",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {
+        "website": "AS-1火箭",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "lvdongjiepai",
     "name": "律动节拍",
     "contacts": {
       "fetchedAt": "2026-05-18",
-      "website": {},
+      "website": {
+        "website": "AI演出行程管家",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
     }
   },
   {
-    "id": "qisuanfa",
-    "name": "绮算法",
+    "id": "mire",
+    "name": "弥尔光半导体（北京）有限公司",
     "contacts": {
       "fetchedAt": "2026-05-18",
       "website": {},
@@ -2821,8 +2856,8 @@
     }
   },
   {
-    "id": "ola",
-    "name": "欧拉万象",
+    "id": "youshu",
+    "name": "上海酉术量子科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-18",
       "website": {},
@@ -2832,8 +2867,8 @@
     }
   },
   {
-    "id": "yige",
-    "name": "亿格云",
+    "id": "yitang",
+    "name": "亦唐科技",
     "contacts": {
       "fetchedAt": "2026-05-18",
       "website": {},
@@ -2843,8 +2878,52 @@
     }
   },
   {
-    "id": "jingling",
-    "name": "精灵云",
+    "id": "deepwisdom",
+    "name": "北京机智赛博科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "vectorresonance",
+    "name": "向量共振",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "oladimensions",
+    "name": "欧拉万象（Ola Dimensions）",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "weiyuan",
+    "name": "微元合成",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "letinar",
+    "name": "LetinAR",
     "contacts": {
       "fetchedAt": "2026-05-18",
       "website": {},
@@ -2865,11 +2944,39 @@
     }
   },
   {
+    "id": "zenk",
+    "name": "Zenk Space",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "kled",
     "name": "Kled",
     "contacts": {
       "fetchedAt": "2026-05-18",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "predictionoracle",
+    "name": "PredictionOracle",
+    "contacts": {
+      "fetchedAt": "2026-05-18",
+      "website": {
+        "website": "https://tools.predictionoracle.io/",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
