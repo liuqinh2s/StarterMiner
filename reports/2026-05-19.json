@@ -8138,190 +8138,69 @@
       }
     },
     {
-      "id": "jingyue",
-      "name": "鲸跃动力",
-      "desc": "以数据+模型+末端执行打造开箱即用的机器人劳动力",
-      "track": "robotics",
+      "id": "shenjizhiji",
+      "name": "深度机智（北京机智赛博科技有限公司）",
+      "desc": "具身通用智能基座模型公司，专注人类学习路线，全栈能力闭环。",
+      "track": "ai",
       "stage": "seed",
-      "city": "other",
+      "city": "beijing",
       "tags": [
         "具身智能",
-        "机器人",
-        "数据驱动"
-      ],
-      "team": [],
-      "product": null,
-      "founded": "2026-05",
-      "funding": "星海图独家领投数千万元种子轮融资",
-      "scores": {
-        "tech": 65,
-        "growth": 55,
-        "team": 55,
-        "market": 70
-      },
-      "score": 61,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "sportvision",
-      "name": "深圳思博威视体育科技有限公司",
-      "desc": "AI体育科技公司，构建AI智能教练体系",
-      "track": "ai",
-      "stage": "angel",
-      "city": "shenzhen",
-      "tags": [
-        "AI体育",
-        "运动科技",
-        "硬件"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": "高瓴创投领投天使+轮，此前获李泽湘天使轮投资",
-      "scores": {
-        "tech": 60,
-        "growth": 55,
-        "team": 55,
-        "market": 60
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yushikongjian",
-      "name": "宇石空间",
-      "desc": "专注于大运力、低成本、快速复用液体火箭的研制",
-      "track": "aerospace",
-      "stage": "a",
-      "city": "other",
-      "tags": [
-        "商业航天",
-        "可复用火箭",
-        "液体火箭"
-      ],
-      "team": [],
-      "product": null,
-      "founded": null,
-      "funding": "5亿元A轮融资，累计融资10亿元，高榕创投、昆仑资本联合领投",
-      "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 60,
-        "market": 80
-      },
-      "score": 72,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "lvdongjiepai",
-      "name": "律动节拍",
-      "desc": "为用户提供跨城观演全消费场景的科技型文旅服务企业",
-      "track": "consumer",
-      "stage": "pre-a",
-      "city": "other",
-      "tags": [
-        "AI",
-        "演出",
-        "文旅"
-      ],
-      "team": [],
-      "product": null,
-      "founded": "2025",
-      "funding": "超千万新一轮融资，天空工场创投基金领投，投后估值数亿元",
-      "scores": {
-        "tech": 50,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 57,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "nectar-social",
-      "name": "Nectar Social",
-      "desc": "AI驱动的营销操作系统",
-      "track": "saas",
-      "stage": "a",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "营销",
-        "SaaS"
+        "基座模型",
+        "人类学习"
       ],
       "team": [],
       "product": "",
-      "founded": "2023-01",
-      "funding": "完成3000万美元A轮融资，由Menlo Ventures领投",
-      "scores": {
-        "tech": 70,
-        "growth": 75,
-        "team": 50,
-        "market": 70
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "unitree",
-      "name": "Unitree Robotics",
-      "desc": "中国机器人公司，发布可骑乘变形机甲GD01",
-      "track": "robotics",
-      "stage": "b+",
-      "city": "hangzhou",
-      "tags": [
-        "机器人",
-        "外骨骼",
-        "机甲"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "已量产，GD01售价390万元",
+      "founded": "2025-05",
+      "funding": "成立一年累计数亿元融资，十余家机构参与",
       "scores": {
         "tech": 85,
-        "growth": 80,
-        "team": 70,
+        "growth": 70,
+        "team": 60,
+        "market": 75
+      },
+      "score": 74,
+      "discoveredAt": "2026-05-19",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-19",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "ola",
+      "name": "欧拉万象（Ola Dimensions）",
+      "desc": "家庭具身智能企业，打造家庭机器人数据闭环。",
+      "track": "robotics",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "家庭机器人",
+        "具身智能",
+        "数据闭环"
+      ],
+      "team": [
+        {
+          "name": "周顺波",
+          "role": "创始人",
+          "bg": "前华为具身智能1号员工、天才少年"
+        },
+        {
+          "name": "张靖",
+          "role": "联合创始人",
+          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "种子轮数千万元（高瓴、五源），最新数亿元融资（招商局创投领投）",
+      "scores": {
+        "tech": 70,
+        "growth": 85,
+        "team": 85,
         "market": 75
       },
       "score": 78,
@@ -8336,29 +8215,96 @@
       }
     },
     {
-      "id": "zenk-space",
-      "name": "Zenk Space",
-      "desc": "太空初创公司，筹集2600万美元，计划6月首次发射。",
-      "track": "aerospace",
-      "stage": "a",
-      "city": "overseas",
+      "id": "weiyuanhecheng",
+      "name": "微元合成",
+      "desc": "合成生物制造公司，利用AI生物计算平台生产糖醇等产品",
+      "track": "biotech",
+      "stage": "b+",
+      "city": "other",
       "tags": [
-        "火箭发射",
-        "融资"
+        "合成生物",
+        "AI生物计算",
+        "糖醇"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "完成2600万美元融资，计划2026年6月首次发射。",
+      "funding": "完成15亿元新一轮融资，由股权融资和长期贷款组成，用于并购豫鑫和规模化量产",
       "scores": {
-        "tech": 50,
-        "growth": 60,
+        "tech": 80,
+        "growth": 70,
         "team": 50,
         "market": 70
       },
-      "score": 57,
+      "score": 69,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 1,
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-19",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "nectar",
+      "name": "Nectar Social",
+      "desc": "AI驱动的营销操作系统，帮助企业自动化营销流程",
+      "track": "saas",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "营销",
+        "自动化"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "3000万美元A轮，Menlo Ventures领投",
+      "scores": {
+        "tech": 70,
+        "growth": 75,
+        "team": 50,
+        "market": 80
+      },
+      "score": 70,
+      "discoveredAt": "2026-05-19",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-19",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yawlabs",
+      "name": "Yaw Labs",
+      "desc": "为开发者构建终端初创公司，关注上下文管理。",
+      "track": "saas",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "终端",
+        "开发者工具",
+        "上下文"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-19",
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -14070,244 +14016,101 @@
       "relatedProject": "yaw-labs"
     },
     {
+      "source": "钛媒体",
+      "sourceIcon": "钛媒体",
+      "title": "“搞钱”，才是Revolution千亿神话密码",
+      "url": "https://www.tmtpost.com/7993648.html",
+      "snippet": "自IPO以来，其累积融资规模近76亿美元",
+      "date": "2026-05-19",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范儿",
+      "title": "直降两万，标配空悬！魏牌 V9X 售价 34.98 万元起",
+      "url": "https://www.ifanr.com/1666192",
+      "snippet": "魏牌 V9X 上市，售价34.98万元起",
+      "date": "2026-05-18",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范儿",
+      "title": "早报｜马耳他为全民买单ChatGPT会员/卢伟冰预判年底国产直板旗舰破万元",
+      "url": "https://www.ifanr.com/1666122",
+      "snippet": "马耳他将向全体公民免费提供一年ChatGPT Plus",
+      "date": "2026-05-18",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范儿",
+      "title": "早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI",
+      "url": "https://www.ifanr.com/1666116",
+      "snippet": "华为Mate X7官方降价1000元",
+      "date": "2026-05-16",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "爱范儿",
+      "sourceIcon": "爱范儿",
+      "title": "早报｜OpenAI或将起诉苹果/iPhone 17 Pro官降1000元/影石CEO回应Luna定价贵",
+      "url": "https://www.ifanr.com/1665963",
+      "snippet": "前Meta FAIR总监田渊栋创业公司估值46.5亿美元",
+      "date": "2026-05-15",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+      "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+      "snippet": "关于斯坦福的调查报道，提到年轻人更容易为初创公司融资",
+      "date": "2026-05-19",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
       "source": "TechCrunch",
       "sourceIcon": "TC",
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "snippet": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits",
+      "snippet": "Anthropic收购了SDK自动化初创公司Stainless",
       "date": "2026-05-18",
       "likes": 0,
       "comments": 0,
       "relatedProject": "stainless"
     },
     {
-      "source": "The Verge",
-      "sourceIcon": "VG",
-      "title": "PlayStation exclusives aren’t coming to PC anymore",
-      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-      "snippet": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy.",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "snippet": "马斯克起诉OpenAI案败诉",
       "date": "2026-05-18",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "The Verge",
-      "sourceIcon": "VG",
-      "title": "Walmart launches new budget-friendly Android tablets starting at $97",
-      "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
-      "snippet": "Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro.",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+      "snippet": "纽约公立医疗系统数据泄露，涉及180万人医疗数据和指纹。",
       "date": "2026-05-18",
       "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "The Verge",
-      "sourceIcon": "VG",
-      "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
-      "url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
-      "snippet": "If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash.",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Tell HN: Don't make your startup multilingual",
-      "url": "https://news.ycombinator.com/item?id=48182292",
-      "snippet": "When launching a startup, don’t make it multilingual until you have stable revenue and a team to support it.",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Zenk Space raises $26M, targets June debut launch – SpaceNews",
-      "url": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
-      "snippet": "Zenk Space raises $26M, targets June debut launch – SpaceNews",
-      "date": "2026-05-18",
-      "likes": 2,
-      "comments": 0,
-      "relatedProject": "zenk-space"
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "The Aussie gov just screwed startup founders. my musings",
-      "url": "https://ghuntley.com/livid/",
-      "snippet": "The Aussie gov just screwed startup founders. my musings",
-      "date": "2026-05-18",
-      "likes": 5,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "Kappaemme-git/codex-complexity-optimizer",
-      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
-      "snippet": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "date": "2026-05-15",
-      "likes": 755,
-      "comments": 40,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "boona13/mykonos-island-voxels",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "snippet": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "date": "2026-05-14",
-      "likes": 642,
-      "comments": 153,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "Juwluuu/Subnautica-2-Release",
-      "url": "https://github.com/Juwluuu/Subnautica-2-Release",
-      "snippet": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore.",
-      "date": "2026-05-14",
-      "likes": 620,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "DARKHOLEUM/VoidStrap-For-Roblox",
-      "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox",
-      "snippet": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher.",
-      "date": "2026-05-14",
-      "likes": 613,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "snoozinjs/Delta-exec",
-      "url": "https://github.com/snoozinjs/Delta-exec",
-      "snippet": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker.",
-      "date": "2026-05-13",
-      "likes": 598,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "cdanielc293/Jenny-Mod-All-Versions",
-      "url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions",
-      "snippet": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK.",
-      "date": "2026-05-16",
-      "likes": 594,
-      "comments": 1,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "zigabratun/Umbrella-HWID-Tool",
-      "url": "https://github.com/zigabratun/Umbrella-HWID-Tool",
-      "snippet": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer.",
-      "date": "2026-05-16",
-      "likes": 593,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "0xdeadbeefnetwork/ssh-keysign-pwn",
-      "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
-      "snippet": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd.",
-      "date": "2026-05-14",
-      "likes": 592,
-      "comments": 72,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "jiaoyanming0-bot/OPAutoClicker",
-      "url": "https://github.com/jiaoyanming0-bot/OPAutoClicker",
-      "snippet": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker.",
-      "date": "2026-05-14",
-      "likes": 561,
-      "comments": 2,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "Doorman11991/smallcode",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "snippet": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "date": "2026-05-18",
-      "likes": 547,
-      "comments": 30,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "openclaw/clawpatch",
-      "url": "https://github.com/openclaw/clawpatch",
-      "snippet": "Review code. Patch bugs. Land PRs.",
-      "date": "2026-05-15",
-      "likes": 545,
-      "comments": 75,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "EnsignKazekage/Prodigy-Hacks",
-      "url": "https://github.com/EnsignKazekage/Prodigy-Hacks",
-      "snippet": "Prodigymathgamehacking || prodigy hacks || prodigymathgame",
-      "date": "2026-05-13",
-      "likes": 540,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "PrimeKeeper58/blooket-hacks",
-      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
-      "snippet": "blooket menu || blooket || blooket hacks",
-      "date": "2026-05-13",
-      "likes": 538,
-      "comments": 3,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "v12-security/pocs",
-      "url": "https://github.com/v12-security/pocs",
-      "snippet": "poc it like it's hot",
-      "date": "2026-05-13",
-      "likes": 533,
-      "comments": 93,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-      "url": "https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool",
-      "snippet": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions.",
-      "date": "2026-05-15",
-      "likes": 527,
       "comments": 0,
       "relatedProject": null
     }

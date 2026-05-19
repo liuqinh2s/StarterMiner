@@ -2845,8 +2845,8 @@
     }
   },
   {
-    "id": "jingyue",
-    "name": "鲸跃动力",
+    "id": "shenjizhiji",
+    "name": "深度机智（北京机智赛博科技有限公司）",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},
@@ -2856,8 +2856,8 @@
     }
   },
   {
-    "id": "sportvision",
-    "name": "深圳思博威视体育科技有限公司",
+    "id": "ola",
+    "name": "欧拉万象（Ola Dimensions）",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},
@@ -2867,8 +2867,8 @@
     }
   },
   {
-    "id": "yushikongjian",
-    "name": "宇石空间",
+    "id": "weiyuanhecheng",
+    "name": "微元合成",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},
@@ -2878,18 +2878,7 @@
     }
   },
   {
-    "id": "lvdongjiepai",
-    "name": "律动节拍",
-    "contacts": {
-      "fetchedAt": "2026-05-19",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "nectar-social",
+    "id": "nectar",
     "name": "Nectar Social",
     "contacts": {
       "fetchedAt": "2026-05-19",
@@ -2900,19 +2889,8 @@
     }
   },
   {
-    "id": "unitree",
-    "name": "Unitree Robotics",
-    "contacts": {
-      "fetchedAt": "2026-05-19",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zenk-space",
-    "name": "Zenk Space",
+    "id": "yawlabs",
+    "name": "Yaw Labs",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},
