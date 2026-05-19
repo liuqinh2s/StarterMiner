@@ -8095,7 +8095,7 @@
       },
       "score": 61,
       "discoveredAt": "2026-05-18",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -8138,30 +8138,30 @@
       }
     },
     {
-      "id": "shenjizhiji",
-      "name": "深度机智（北京机智赛博科技有限公司）",
-      "desc": "具身通用智能基座模型公司，专注人类学习路线，全栈能力闭环。",
-      "track": "ai",
+      "id": "jingyue",
+      "name": "鲸跃动力",
+      "desc": "以数据+模型+末端执行闭环，提供可快速部署的机器人劳动力",
+      "track": "robotics",
       "stage": "seed",
-      "city": "beijing",
+      "city": "other",
       "tags": [
         "具身智能",
-        "基座模型",
-        "人类学习"
+        "机器人",
+        "数据闭环"
       ],
       "team": [],
       "product": "",
-      "founded": "2025-05",
-      "funding": "成立一年累计数亿元融资，十余家机构参与",
+      "founded": "2026-01",
+      "funding": "数千万元种子轮，星海图独家领投",
       "scores": {
-        "tech": 85,
-        "growth": 70,
-        "team": 60,
-        "market": 75
+        "tech": 60,
+        "growth": 50,
+        "team": 50,
+        "market": 60
       },
-      "score": 74,
+      "score": 55,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -8171,41 +8171,36 @@
       }
     },
     {
-      "id": "ola",
-      "name": "欧拉万象（Ola Dimensions）",
-      "desc": "家庭具身智能企业，打造家庭机器人数据闭环。",
-      "track": "robotics",
-      "stage": "a",
-      "city": "other",
+      "id": "sportvision",
+      "name": "深圳思博威视体育科技有限公司",
+      "desc": "AI体育科技公司，专注运动算法与硬件，构建AI智能教练体系",
+      "track": "ai",
+      "stage": "angel",
+      "city": "shenzhen",
       "tags": [
-        "家庭机器人",
-        "具身智能",
-        "数据闭环"
+        "AI体育",
+        "运动科技",
+        "计算机视觉"
       ],
       "team": [
         {
-          "name": "周顺波",
-          "role": "创始人",
-          "bg": "前华为具身智能1号员工、天才少年"
-        },
-        {
-          "name": "张靖",
-          "role": "联合创始人",
-          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
+          "name": "李泽湘",
+          "role": "天使投资人",
+          "bg": "教授，机器人领域知名专家"
         }
       ],
       "product": "",
-      "founded": "2026-03",
-      "funding": "种子轮数千万元（高瓴、五源），最新数亿元融资（招商局创投领投）",
+      "founded": "2024-01",
+      "funding": "天使+轮，高瓴创投领投",
       "scores": {
-        "tech": 70,
-        "growth": 85,
-        "team": 85,
-        "market": 75
+        "tech": 65,
+        "growth": 50,
+        "team": 70,
+        "market": 60
       },
-      "score": 78,
+      "score": 60,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -8215,96 +8210,36 @@
       }
     },
     {
-      "id": "weiyuanhecheng",
-      "name": "微元合成",
-      "desc": "合成生物制造公司，利用AI生物计算平台生产糖醇等产品",
-      "track": "biotech",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "合成生物",
-        "AI生物计算",
-        "糖醇"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "完成15亿元新一轮融资，由股权融资和长期贷款组成，用于并购豫鑫和规模化量产",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
-        "market": 70
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "nectar",
-      "name": "Nectar Social",
-      "desc": "AI驱动的营销操作系统，帮助企业自动化营销流程",
-      "track": "saas",
+      "id": "ocean",
+      "name": "Ocean",
+      "desc": "AI驱动的代理式电子邮件安全平台",
+      "track": "ai",
       "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI",
-        "营销",
-        "自动化"
+        "AI安全",
+        "邮件安全",
+        "代理"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "创始人",
+          "role": "CEO",
+          "bg": "青少年黑客转Iron Dome研究员"
+        }
+      ],
       "product": "",
       "founded": "",
-      "funding": "3000万美元A轮，Menlo Ventures领投",
+      "funding": "融资2800万美元，由Lightspeed Venture Partners领投",
       "scores": {
         "tech": 70,
-        "growth": 75,
-        "team": 50,
+        "growth": 50,
+        "team": 80,
         "market": 80
       },
-      "score": 70,
+      "score": 68,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yawlabs",
-      "name": "Yaw Labs",
-      "desc": "为开发者构建终端初创公司，关注上下文管理。",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "终端",
-        "开发者工具",
-        "上下文"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -14016,100 +13951,144 @@
       "relatedProject": "yaw-labs"
     },
     {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒体",
-      "title": "“搞钱”，才是Revolution千亿神话密码",
-      "url": "https://www.tmtpost.com/7993648.html",
-      "snippet": "自IPO以来，其累积融资规模近76亿美元",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+      "url": "https://36kr.com/p/3814860909600261?f=rss",
+      "snippet": "鲸跃动力成立于2026年，以数据+模型+末端执行闭环，提供面向场景可快速部署的Robo Labor，替代人类从事高危繁重作业。",
       "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "jingyue"
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范儿",
-      "title": "直降两万，标配空悬！魏牌 V9X 售价 34.98 万元起",
-      "url": "https://www.ifanr.com/1666192",
-      "snippet": "魏牌 V9X 上市，售价34.98万元起",
-      "date": "2026-05-18",
+      "source": "36氪",
+      "sourceIcon": "36氪",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "url": "https://36kr.com/p/3805660478184966?f=rss",
+      "snippet": "AI体育科技公司SportVision近日完成天使+轮融资，高瓴创投领投，资金用于研发与市场拓展，其AI网球训练相机产品计划发售。",
+      "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "sportvision"
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范儿",
-      "title": "早报｜马耳他为全民买单ChatGPT会员/卢伟冰预判年底国产直板旗舰破万元",
-      "url": "https://www.ifanr.com/1666122",
-      "snippet": "马耳他将向全体公民免费提供一年ChatGPT Plus",
-      "date": "2026-05-18",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+      "snippet": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+      "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "ocean"
     },
     {
-      "source": "爱范儿",
-      "sourceIcon": "爱范儿",
-      "title": "早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI",
-      "url": "https://www.ifanr.com/1666116",
-      "snippet": "华为Mate X7官方降价1000元",
-      "date": "2026-05-16",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "爱范儿",
-      "sourceIcon": "爱范儿",
-      "title": "早报｜OpenAI或将起诉苹果/iPhone 17 Pro官降1000元/影石CEO回应Luna定价贵",
-      "url": "https://www.ifanr.com/1665963",
-      "snippet": "前Meta FAIR总监田渊栋创业公司估值46.5亿美元",
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "DenisSergeevitch/agents-best-practices",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "snippet": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
       "date": "2026-05-15",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
-      "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
-      "snippet": "关于斯坦福的调查报道，提到年轻人更容易为初创公司融资",
-      "date": "2026-05-19",
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "Kappaemme-git/codex-complexity-optimizer",
+      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+      "snippet": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+      "date": "2026-05-15",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "snippet": "Anthropic收购了SDK自动化初创公司Stainless",
-      "date": "2026-05-18",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "stainless"
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "snippet": "马斯克起诉OpenAI案败诉",
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+      "url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026",
+      "snippet": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
       "date": "2026-05-18",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-      "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
-      "snippet": "纽约公立医疗系统数据泄露，涉及180万人医疗数据和指纹。",
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "Doorman11991/smallcode",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "snippet": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
       "date": "2026-05-18",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "cdanielc293/Jenny-Mod-All-Versions",
+      "url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions",
+      "snippet": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.",
+      "date": "2026-05-16",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "boona13/mykonos-island-voxels",
+      "url": "https://github.com/boona13/mykonos-island-voxels",
+      "snippet": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "date": "2026-05-14",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "Juwluuu/Subnautica-2-Release",
+      "url": "https://github.com/Juwluuu/Subnautica-2-Release",
+      "snippet": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
+      "date": "2026-05-14",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "DARKHOLEUM/VoidStrap-For-Roblox",
+      "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox",
+      "snippet": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization.",
+      "date": "2026-05-14",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "snoozinjs/Delta-exec",
+      "url": "https://github.com/snoozinjs/Delta-exec",
+      "snippet": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs.",
+      "date": "2026-05-13",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "0xdeadbeefnetwork/ssh-keysign-pwn",
+      "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
+      "snippet": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
+      "date": "2026-05-14",
       "likes": 0,
       "comments": 0,
       "relatedProject": null

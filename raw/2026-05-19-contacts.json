@@ -2845,8 +2845,8 @@
     }
   },
   {
-    "id": "shenjizhiji",
-    "name": "深度机智（北京机智赛博科技有限公司）",
+    "id": "jingyue",
+    "name": "鲸跃动力",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},
@@ -2856,8 +2856,8 @@
     }
   },
   {
-    "id": "ola",
-    "name": "欧拉万象（Ola Dimensions）",
+    "id": "sportvision",
+    "name": "深圳思博威视体育科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},
@@ -2867,30 +2867,8 @@
     }
   },
   {
-    "id": "weiyuanhecheng",
-    "name": "微元合成",
-    "contacts": {
-      "fetchedAt": "2026-05-19",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "nectar",
-    "name": "Nectar Social",
-    "contacts": {
-      "fetchedAt": "2026-05-19",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "yawlabs",
-    "name": "Yaw Labs",
+    "id": "ocean",
+    "name": "Ocean",
     "contacts": {
       "fetchedAt": "2026-05-19",
       "website": {},

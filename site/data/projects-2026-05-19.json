@@ -8095,7 +8095,7 @@
       },
       "score": 61,
       "discoveredAt": "2026-05-18",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -8138,30 +8138,30 @@
       }
     },
     {
-      "id": "shenjizhiji",
-      "name": "深度机智（北京机智赛博科技有限公司）",
-      "desc": "具身通用智能基座模型公司，专注人类学习路线，全栈能力闭环。",
-      "track": "ai",
+      "id": "jingyue",
+      "name": "鲸跃动力",
+      "desc": "以数据+模型+末端执行闭环，提供可快速部署的机器人劳动力",
+      "track": "robotics",
       "stage": "seed",
-      "city": "beijing",
+      "city": "other",
       "tags": [
         "具身智能",
-        "基座模型",
-        "人类学习"
+        "机器人",
+        "数据闭环"
       ],
       "team": [],
       "product": "",
-      "founded": "2025-05",
-      "funding": "成立一年累计数亿元融资，十余家机构参与",
+      "founded": "2026-01",
+      "funding": "数千万元种子轮，星海图独家领投",
       "scores": {
-        "tech": 85,
-        "growth": 70,
-        "team": 60,
-        "market": 75
+        "tech": 60,
+        "growth": 50,
+        "team": 50,
+        "market": 60
       },
-      "score": 74,
+      "score": 55,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -8171,41 +8171,36 @@
       }
     },
     {
-      "id": "ola",
-      "name": "欧拉万象（Ola Dimensions）",
-      "desc": "家庭具身智能企业，打造家庭机器人数据闭环。",
-      "track": "robotics",
-      "stage": "a",
-      "city": "other",
+      "id": "sportvision",
+      "name": "深圳思博威视体育科技有限公司",
+      "desc": "AI体育科技公司，专注运动算法与硬件，构建AI智能教练体系",
+      "track": "ai",
+      "stage": "angel",
+      "city": "shenzhen",
       "tags": [
-        "家庭机器人",
-        "具身智能",
-        "数据闭环"
+        "AI体育",
+        "运动科技",
+        "计算机视觉"
       ],
       "team": [
         {
-          "name": "周顺波",
-          "role": "创始人",
-          "bg": "前华为具身智能1号员工、天才少年"
-        },
-        {
-          "name": "张靖",
-          "role": "联合创始人",
-          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
+          "name": "李泽湘",
+          "role": "天使投资人",
+          "bg": "教授，机器人领域知名专家"
         }
       ],
       "product": "",
-      "founded": "2026-03",
-      "funding": "种子轮数千万元（高瓴、五源），最新数亿元融资（招商局创投领投）",
+      "founded": "2024-01",
+      "funding": "天使+轮，高瓴创投领投",
       "scores": {
-        "tech": 70,
-        "growth": 85,
-        "team": 85,
-        "market": 75
+        "tech": 65,
+        "growth": 50,
+        "team": 70,
+        "market": 60
       },
-      "score": 78,
+      "score": 60,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},
@@ -8215,96 +8210,36 @@
       }
     },
     {
-      "id": "weiyuanhecheng",
-      "name": "微元合成",
-      "desc": "合成生物制造公司，利用AI生物计算平台生产糖醇等产品",
-      "track": "biotech",
-      "stage": "b+",
-      "city": "other",
-      "tags": [
-        "合成生物",
-        "AI生物计算",
-        "糖醇"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "完成15亿元新一轮融资，由股权融资和长期贷款组成，用于并购豫鑫和规模化量产",
-      "scores": {
-        "tech": 80,
-        "growth": 70,
-        "team": 50,
-        "market": 70
-      },
-      "score": 69,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "nectar",
-      "name": "Nectar Social",
-      "desc": "AI驱动的营销操作系统，帮助企业自动化营销流程",
-      "track": "saas",
+      "id": "ocean",
+      "name": "Ocean",
+      "desc": "AI驱动的代理式电子邮件安全平台",
+      "track": "ai",
       "stage": "a",
       "city": "overseas",
       "tags": [
-        "AI",
-        "营销",
-        "自动化"
+        "AI安全",
+        "邮件安全",
+        "代理"
       ],
-      "team": [],
+      "team": [
+        {
+          "name": "创始人",
+          "role": "CEO",
+          "bg": "青少年黑客转Iron Dome研究员"
+        }
+      ],
       "product": "",
       "founded": "",
-      "funding": "3000万美元A轮，Menlo Ventures领投",
+      "funding": "融资2800万美元，由Lightspeed Venture Partners领投",
       "scores": {
         "tech": 70,
-        "growth": 75,
-        "team": 50,
+        "growth": 50,
+        "team": 80,
         "market": 80
       },
-      "score": 70,
+      "score": 68,
       "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-19",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "yawlabs",
-      "name": "Yaw Labs",
-      "desc": "为开发者构建终端初创公司，关注上下文管理。",
-      "track": "saas",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "终端",
-        "开发者工具",
-        "上下文"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-19",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-19",
         "website": {},

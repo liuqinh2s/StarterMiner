@@ -101,20 +101,10 @@
   },
   {
     "source": "36氪",
-    "title": "创业板第四套标准首单落定乐聚智能",
-    "summary": "5月19日，深交所受理乐聚智能（深圳）股份有限公司（下称乐聚智能）创业板IPO申请，这是首家选择使用创业板第四套标准申请上市的企业。4月24日，深交所正式启用创业板第四套上市标准。本次乐聚智能首发申请获受理距离标准启用仅24天，标志着深化创业板改革政策快速步入落地实施阶段，创业板服务优质创新企业能力进一步增强。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3816060954550021?f=rss",
-    "published": "2026-05-19 18:17:56  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "36氪",
-    "title": "金浦钛业：公司目前没有电池投资计划",
-    "summary": "金浦钛业5月19日在业绩说明会上表示，2026年新能源公司能否实现盈利受多种因素影响，具有不确定性。此外，公司目前没有电池投资计划。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3816023684538120?f=rss",
-    "published": "2026-05-19 17:40:01  +0800",
+    "title": "策略师：SpaceX上市或令特斯拉承压",
+    "summary": "策略师表示，随着SpaceX计划上市，这一“马斯克交易”新标的可能促使投资者从特斯拉撤资转向SpaceX，从而分散对特斯拉的关注和资金。SpaceX的IPO可能成为史上规模最大的上市之一，目标估值高达1.75万亿至2万亿美元。马斯克承诺在IPO中“一股都不卖”，并计划发行10倍投票权的B类股。对于特斯拉而言，资金和注意力的分流可能在股价本已承压的背景下构成额外挑战。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3816295502185601?f=rss",
+    "published": "2026-05-20 07:10:23  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-19"
@@ -360,81 +350,51 @@
     "fetchedAt": "2026-05-19"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜OpenAI或将起诉苹果/iPhone 17 Pro官降1000元/影石CEO回应Luna定价贵：5299是美国价格",
-    "summary": "· 估值 46.5 亿美元，前 Meta FAIR 总监田渊栋创业公司正式亮相 · Claude 重新允许接入龙虾，开发者：这是变相涨价 · 鸿蒙智行洽谈打造玛莎拉蒂新能源车 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1665963?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Fri, 15 May 2026 00:34:56 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
     "source": "TechCrunch",
-    "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
-    "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
-    "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
-    "published": "Tue, 19 May 2026 05:50:49 +0000",
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "published": "Tue, 19 May 2026 21:16:25 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "published": "Mon, 18 May 2026 19:27:52 +0000",
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "published": "Tue, 19 May 2026 21:08:51 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "published": "Mon, 18 May 2026 17:34:43 +0000",
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "published": "Tue, 19 May 2026 17:51:30 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-19"
   },
   {
     "source": "TechCrunch",
-    "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-    "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
-    "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
-    "published": "Mon, 18 May 2026 16:32:33 +0000",
+    "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+    "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-    "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
-    "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-    "published": "Mon, 18 May 2026 13:42:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "published": "Mon, 18 May 2026 11:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-    "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-    "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-    "published": "Sat, 16 May 2026 19:26:14 +0000",
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-19"
@@ -580,224 +540,18 @@
     "fetchedAt": "2026-05-19"
   },
   {
-    "source": "The Verge",
-    "title": "PlayStation exclusives aren’t coming to PC anymore",
-    "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the shift in March, saying that Sony scrapped plans to launch PC […]",
-    "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-    "published": "2026-05-18T15:28:42-04:00",
-    "lang": "en",
+    "source": "微博",
+    "title": "#OpenAI创始人跳槽Anthropic#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23OpenAI创始人跳槽Anthropic%23",
+    "published": "2026-05-19",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "The Verge",
-    "title": "Walmart launches new budget-friendly Android tablets starting at $97",
-    "summary": "Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro. As spotted by 9to5Google, the six new tablets ship with Android 16 and all but one cost less than $200. The little Onn Core 7 is the most affordable of the […]",
-    "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
-    "published": "2026-05-18T14:44:07-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "The Verge",
-    "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
-    "summary": "If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless cleaner is designed to tackle spills and stains on tile and other surfaces, and right now, it’s available for a new low price of $249.99 […]",
-    "url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
-    "published": "2026-05-18T14:32:25-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The founder's playbook: Building an AI-native startup",
-    "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48191489 Points: 4 # Comments: 1",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "published": "Tue, 19 May 2026 10:18:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Mistral AI Acquires EU Physics AI Startup Emmi AI",
-    "summary": "Article URL: https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/ Comments URL: https://news.ycombinator.com/item?id=48190566 Points: 2 # Comments: 1",
-    "url": "https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/",
-    "published": "Tue, 19 May 2026 08:08:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tell HN: Don't make your startup multilingual",
-    "summary": "When launching a startup, don’t make it multilingual until you have stable revenue and a team to support it. You can’t know whether the startup will become profitable, so early on, your time is better spent finding PMF and acquiring users. AI can write scripts to manage translation files and help with text translation, but the quality will still be poor. Users might as well use the browser’s built-in translator. If you build the service in 10 languages right away, you’ll struggle to maintain it.",
-    "url": "https://news.ycombinator.com/item?id=48182292",
-    "published": "Mon, 18 May 2026 17:02:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Zenk Space raises $26M, targets June debut launch – SpaceNews",
-    "summary": "Article URL: https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/ Comments URL: https://news.ycombinator.com/item?id=48177830 Points: 2 # Comments: 0",
-    "url": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
-    "published": "Mon, 18 May 2026 10:54:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Aussie gov just screwed startup founders. my musings",
-    "summary": "Article URL: https://ghuntley.com/livid/ Comments URL: https://news.ycombinator.com/item?id=48175616 Points: 5 # Comments: 0",
-    "url": "https://ghuntley.com/livid/",
-    "published": "Mon, 18 May 2026 04:34:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Linkup – Swipe to find cofounders, developers, designers and startup teammates",
-    "summary": "Article URL: https://linkup-nine-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48158989 Points: 1 # Comments: 0",
-    "url": "https://linkup-nine-ruddy.vercel.app/",
-    "published": "Sat, 16 May 2026 10:54:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "YC startup Luel appears to have copied Kled",
-    "summary": "Article URL: https://twitter.com/avipat_/status/2055384102409253056 Comments URL: https://news.ycombinator.com/item?id=48156021 Points: 6 # Comments: 1",
-    "url": "https://twitter.com/avipat_/status/2055384102409253056",
-    "published": "Sat, 16 May 2026 01:40:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic Raising $30B More as AI Labs Absorb Majority of VC Funding",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-raising-30-billion-more-as-ai-labs-absorb-majority-of-vc-funding-d26128d7 Comments URL: https://news.ycombinator.com/item?id=48151176 Points: 3 # Comments: 0",
-    "url": "https://www.wsj.com/tech/ai/anthropic-raising-30-billion-more-as-ai-labs-absorb-majority-of-vc-funding-d26128d7",
-    "published": "Fri, 15 May 2026 17:11:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Raises $1.3B for an A.I. 'Grid'",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/12/technology/amp-startup.html Comments URL: https://news.ycombinator.com/item?id=48149911 Points: 4 # Comments: 2",
-    "url": "https://www.nytimes.com/2026/05/12/technology/amp-startup.html",
-    "published": "Fri, 15 May 2026 15:27:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Big Tech groups launch global borrowing spree to fund AI expansion",
-    "summary": "Article URL: https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8 Comments URL: https://news.ycombinator.com/item?id=48148096 Points: 2 # Comments: 0",
-    "url": "https://www.ft.com/content/d137f1a1-4188-4784-b274-f53082d27aa8",
-    "published": "Fri, 15 May 2026 13:06:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump poised to drop IRS suit, launch $1.7B 'weaponization' fund for allies",
-    "summary": "Article URL: https://abcnews.com/US/trump-poised-drop-irs-suit-launch-17b-weaponization/story?id=132962661 Comments URL: https://news.ycombinator.com/item?id=48147844 Points: 4 # Comments: 1",
-    "url": "https://abcnews.com/US/trump-poised-drop-irs-suit-launch-17b-weaponization/story?id=132962661",
-    "published": "Fri, 15 May 2026 12:37:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a free AI startup validator – it scored a dog walking app 4/10",
-    "summary": "Article URL: https://tools.predictionoracle.io/ Comments URL: https://news.ycombinator.com/item?id=48147148 Points: 1 # Comments: 0",
-    "url": "https://tools.predictionoracle.io/",
-    "published": "Fri, 15 May 2026 11:10:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bumble Is Removing the Swipe Feature, Will Use AI in New Launch",
-    "summary": "Article URL: https://www.eonline.com/news/1431973/bumble-removing-swipe-feature-will-use-ai-in-new-launch Comments URL: https://news.ycombinator.com/item?id=48143632 Points: 1 # Comments: 0",
-    "url": "https://www.eonline.com/news/1431973/bumble-removing-swipe-feature-will-use-ai-in-new-launch",
-    "published": "Fri, 15 May 2026 01:58:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic agrees terms of $30B funding deal at $900B valuation",
-    "summary": "Article URL: https://www.ft.com/content/9deae3c6-716d-4f4d-8b09-434d8519f847 Comments URL: https://news.ycombinator.com/item?id=48143085 Points: 8 # Comments: 0",
-    "url": "https://www.ft.com/content/9deae3c6-716d-4f4d-8b09-434d8519f847",
-    "published": "Fri, 15 May 2026 00:39:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX sets date for first Starship version 3 launch – SpaceNews",
-    "summary": "Article URL: https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/ Comments URL: https://news.ycombinator.com/item?id=48141531 Points: 9 # Comments: 2",
-    "url": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
-    "published": "Thu, 14 May 2026 21:30:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Escuelita Maker – a free 28-day online program to help people launch projects",
-    "summary": "Article URL: https://escuelitamaker.com Comments URL: https://news.ycombinator.com/item?id=48140777 Points: 3 # Comments: 0",
-    "url": "https://escuelitamaker.com",
-    "published": "Thu, 14 May 2026 20:26:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
-    "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/ Comments URL: https://news.ycombinator.com/item?id=48139220 Points: 80 # Comments: 21",
-    "url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-    "published": "Thu, 14 May 2026 18:25:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Yaw Labs Built a Terminal Startup for People Who Treat Context Like Ammunition",
-    "summary": "Article URL: https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/ Comments URL: https://news.ycombinator.com/item?id=48138152 Points: 5 # Comments: 0",
-    "url": "https://www.siliconsnark.com/yaw-labs-built-a-terminal-startup-for-people-who-treat-context-like-ammunition/",
-    "published": "Thu, 14 May 2026 17:09:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "summary": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 621 # Comments: 705",
-    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-    "published": "Thu, 14 May 2026 14:51:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-19"
+    "fetchedAt": "2026-05-19",
+    "meta": {
+      "hotValue": 52731,
+      "rank": 49
+    }
   },
   {
     "source": "V2EX",
@@ -809,7 +563,7 @@
     "type": "community",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "replies": 358,
+      "replies": 399,
       "node": "推广"
     }
   },
@@ -823,24 +577,24 @@
     "type": "community",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "replies": 86,
+      "replies": 88,
       "node": "吐槽"
     }
   },
   {
     "source": "GitHub新星",
-    "title": "vercel-labs/zero",
+    "title": "vercel-labs/zerolang",
     "summary": "The programming language for agents",
-    "url": "https://github.com/vercel-labs/zero",
+    "url": "https://github.com/vercel-labs/zerolang",
     "published": "2026-05-15T16:55:16Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 2498,
-      "forks": 154,
+      "stars": 3130,
+      "forks": 189,
       "language": "C",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -853,10 +607,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 1333,
-      "forks": 61,
+      "stars": 1335,
+      "forks": 60,
       "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -869,8 +623,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 1117,
-      "forks": 31,
+      "stars": 1205,
+      "forks": 33,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -885,10 +639,26 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 830,
-      "forks": 75,
+      "stars": 853,
+      "forks": 77,
       "language": null,
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Kappaemme-git/codex-complexity-optimizer",
+    "summary": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+    "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+    "published": "2026-05-15T13:33:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-19",
+    "meta": {
+      "stars": 786,
+      "forks": 46,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -904,22 +674,38 @@
       "stars": 778,
       "forks": 0,
       "language": "C",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Kappaemme-git/codex-complexity-optimizer",
-    "summary": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-    "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
-    "published": "2026-05-15T13:33:28Z",
+    "title": "Doorman11991/smallcode",
+    "summary": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+    "url": "https://github.com/Doorman11991/smallcode",
+    "published": "2026-05-18T06:19:44Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 773,
-      "forks": 42,
-      "language": "Python",
+      "stars": 715,
+      "forks": 39,
+      "language": "JavaScript",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cdanielc293/Jenny-Mod-All-Versions",
+    "summary": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.",
+    "url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions",
+    "published": "2026-05-16T16:15:27Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-19",
+    "meta": {
+      "stars": 665,
+      "forks": 1,
+      "language": "C#",
       "createdDaysAgo": 3
     }
   },
@@ -933,8 +719,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 650,
-      "forks": 153,
+      "stars": 658,
+      "forks": 158,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -949,10 +735,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 625,
+      "stars": 644,
       "forks": 0,
       "language": "C++",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -965,74 +751,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 619,
+      "stars": 639,
       "forks": 1,
       "language": "C#",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "cdanielc293/Jenny-Mod-All-Versions",
-    "summary": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.",
-    "url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions",
-    "published": "2026-05-16T16:15:27Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-19",
-    "meta": {
-      "stars": 617,
-      "forks": 1,
-      "language": "C#",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "zigabratun/Umbrella-HWID-Tool",
-    "summary": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing.",
-    "url": "https://github.com/zigabratun/Umbrella-HWID-Tool",
-    "published": "2026-05-16T16:30:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-19",
-    "meta": {
-      "stars": 616,
-      "forks": 0,
-      "language": "TypeScript",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Doorman11991/smallcode",
-    "summary": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-    "url": "https://github.com/Doorman11991/smallcode",
-    "published": "2026-05-18T06:19:44Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-19",
-    "meta": {
-      "stars": 616,
-      "forks": 32,
-      "language": "JavaScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "0xdeadbeefnetwork/ssh-keysign-pwn",
-    "summary": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
-    "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
-    "published": "2026-05-14T22:44:21Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-19",
-    "meta": {
-      "stars": 606,
-      "forks": 74,
-      "language": "C",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1045,10 +767,42 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 604,
+      "stars": 625,
       "forks": 0,
       "language": "C++",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "0xdeadbeefnetwork/ssh-keysign-pwn",
+    "summary": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
+    "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
+    "published": "2026-05-14T22:44:21Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-19",
+    "meta": {
+      "stars": 620,
+      "forks": 74,
+      "language": "C",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "pedrodg28/yuzu-emu",
+    "summary": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix.",
+    "url": "https://github.com/pedrodg28/yuzu-emu",
+    "published": "2026-05-13T17:32:38Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-19",
+    "meta": {
+      "stars": 583,
+      "forks": 0,
+      "language": "C++",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1061,10 +815,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 578,
+      "stars": 582,
       "forks": 2,
       "language": "C#",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1077,7 +831,7 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 558,
+      "stars": 582,
       "forks": 0,
       "language": "Python",
       "createdDaysAgo": 5
@@ -1093,26 +847,26 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 556,
+      "stars": 578,
       "forks": 3,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "openclaw/clawpatch",
-    "summary": "Review code. Patch bugs. Land PRs.",
-    "url": "https://github.com/openclaw/clawpatch",
-    "published": "2026-05-15T08:43:03Z",
+    "title": "Nightmare-Eclipse/MiniPlasma",
+    "summary": "CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an LPE in cldflt.sys",
+    "url": "https://github.com/Nightmare-Eclipse/MiniPlasma",
+    "published": "2026-05-14T20:32:21Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 554,
-      "forks": 77,
-      "language": "TypeScript",
-      "createdDaysAgo": 4
+      "stars": 576,
+      "forks": 146,
+      "language": "C#",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1125,26 +879,26 @@
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 548,
+      "stars": 574,
       "forks": 0,
       "language": "C#",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "pedrodg28/yuzu-emu",
-    "summary": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix.",
-    "url": "https://github.com/pedrodg28/yuzu-emu",
-    "published": "2026-05-13T17:32:38Z",
+    "title": "openclaw/clawpatch",
+    "summary": "Review code. Patch bugs. Land PRs.",
+    "url": "https://github.com/openclaw/clawpatch",
+    "published": "2026-05-15T08:43:03Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-19",
     "meta": {
-      "stars": 540,
-      "forks": 0,
-      "language": "C++",
-      "createdDaysAgo": 5
+      "stars": 574,
+      "forks": 79,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
     }
   }
 ]
