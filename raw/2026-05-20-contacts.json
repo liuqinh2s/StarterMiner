@@ -1552,10 +1552,7 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
-          "events@latitudemedia.com"
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -2900,39 +2897,6 @@
     }
   },
   {
-    "id": "beta-infinity",
-    "name": "贝塔无限",
-    "contacts": {
-      "fetchedAt": "2026-05-20",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "approaching-ai",
-    "name": "趋境科技",
-    "contacts": {
-      "fetchedAt": "2026-05-20",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "qianxun-ai",
-    "name": "千寻智能",
-    "contacts": {
-      "fetchedAt": "2026-05-20",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "roboparty",
     "name": "RoboParty 萝博派对",
     "contacts": {
@@ -2944,8 +2908,8 @@
     }
   },
   {
-    "id": "mierguang",
-    "name": "弥尔光半导体（北京）有限公司",
+    "id": "xianglianggongzhen",
+    "name": "向量共振",
     "contacts": {
       "fetchedAt": "2026-05-20",
       "website": {},
@@ -2955,11 +2919,65 @@
     }
   },
   {
-    "id": "deepwise",
-    "name": "北京机智赛博科技有限公司（深度机智）",
+    "id": "fangshirobot",
+    "name": "北京方石机器人有限公司",
     "contacts": {
       "fetchedAt": "2026-05-20",
       "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "oladimensions",
+    "name": "欧拉万象（Ola Dimensions）",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pluang",
+    "name": "Pluang",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "parallel",
+    "name": "Parallel",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "termark",
+    "name": "Termark",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {
+        "website": "https://www.termark.app",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://www.termark.app/careers",
+        "jobListings": [
+          "Termark - The Minimal SSH Client for Modern Developers",
+          "\"applicationCategory\": \"DeveloperApplication\",",
+          "'AI Assistant',"
+        ]
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}

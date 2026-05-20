@@ -4228,10 +4228,7 @@
             "info@latitudemedia.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com",
-            "events@latitudemedia.com"
+            "careers@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -7208,7 +7205,7 @@
       },
       "score": 72,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-20",
         "website": {},
@@ -8251,10 +8248,10 @@
     {
       "id": "autoagents",
       "name": "未来式智能（AutoAgents.ai）",
-      "desc": "以智能体技术赋能知识工作者，企业级智能体搭建平台“灵搭”",
+      "desc": "以智能体技术赋能知识工作者的企业级智能体搭建平台",
       "track": "ai",
       "stage": "pre-a",
-      "city": "other",
+      "city": "beijing",
       "tags": [
         "智能体",
         "企业服务",
@@ -8264,187 +8261,16 @@
         {
           "name": "杨劲松",
           "role": "创始人兼CEO",
-          "bg": "曾任达摩院产品/商业化总监、字节飞书AI负责人、亚马逊AWS aPaaS平台负责人"
+          "bg": "前阿里达摩院产品/商业化总监，前字节飞书AI负责人"
         }
       ],
       "product": "",
       "founded": "2023-06",
-      "funding": "Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投",
+      "funding": "Pre-A轮融资，投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投",
       "scores": {
         "tech": 70,
-        "growth": 50,
-        "team": 80,
-        "market": 70
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "chanceai",
-      "name": "Chance AI",
-      "desc": "全球第一款以摄像头为主要交互入口的AI产品Visual Agent（视觉智能体）",
-      "track": "ai",
-      "stage": "angel",
-      "city": "overseas",
-      "tags": [
-        "视觉智能体",
-        "多模态",
-        "AI应用"
-      ],
-      "team": [
-        {
-          "name": "曾熙",
-          "role": "创始人",
-          "bg": "巴塞罗那大学博士，曾任OnePlus、OPPO产品与设计，字节跳动Flow部门参与豆包等AI产品"
-        }
-      ],
-      "product": "",
-      "founded": "2025-01",
-      "funding": "数百万美元天使轮，由美图领投，NYX Ventures、阿里系投资机构等跟投",
-      "scores": {
-        "tech": 75,
-        "growth": 55,
-        "team": 60,
-        "market": 70
-      },
-      "score": 65,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "beta-infinity",
-      "name": "贝塔无限",
-      "desc": "消费级通用具身智能企业，已完成种子轮与种子+轮数亿元融资。",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "具身智能",
-        "消费级",
-        "通用机器人"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "种子轮由洪泰基金、正景基金、银杏谷资本、水木清华校友种子基金、粤科金融联合投资；种子+轮由盛趣泰和基金与和利资本联合领投，毅达资本、南山战新投跟投，融资金额数亿元。",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 57,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "approaching-ai",
-      "name": "趋境科技",
-      "desc": "AI Token生产服务商，完成数亿元Pre-A轮融资。",
-      "track": "ai",
-      "stage": "pre-a",
-      "city": "other",
-      "tags": [
-        "AI",
-        "Token生产",
-        "服务商"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "Pre-A轮数亿元，星连资本与华控科技联合领投，弘晖资本、天壕能源、尚势资本、天津仁爱弘盛、杭州福成等跟投，高瓴创投加注。",
-      "scores": {
-        "tech": 60,
         "growth": 60,
-        "team": 55,
-        "market": 65
-      },
-      "score": 60,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "qianxun-ai",
-      "name": "千寻智能",
-      "desc": "与地瓜机器人合作适配开源VLA模型Spirit v1.5与旭日S600芯片。",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "VLA模型",
-        "机器人",
-        "AI芯片适配"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 65,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 56,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "roboparty",
-      "name": "RoboParty 萝博派对",
-      "desc": "全开源双足人形机器人研发商，获顺为资本和小米战投天使+轮融资",
-      "track": "robotics",
-      "stage": "angel",
-      "city": "other",
-      "tags": [
-        "人形机器人",
-        "开源",
-        "具身智能"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "数千万美元天使+轮融资",
-      "scores": {
-        "tech": 75,
-        "growth": 70,
-        "team": 50,
+        "team": 75,
         "market": 70
       },
       "score": 68,
@@ -8459,34 +8285,67 @@
       }
     },
     {
-      "id": "mierguang",
-      "name": "弥尔光半导体（北京）有限公司",
-      "desc": "专注于下一代通信系统核心光电子器件研发，完成天使轮融资",
-      "track": "semiconductor",
+      "id": "chanceai",
+      "name": "Chance AI",
+      "desc": "全球首款以摄像头为核心交互的视觉智能体产品",
+      "track": "ai",
       "stage": "angel",
       "city": "beijing",
       "tags": [
-        "光电子",
-        "6G",
-        "光通信"
+        "视觉智能体",
+        "AI产品",
+        "天使轮"
       ],
       "team": [
         {
-          "name": "宗柏青",
-          "role": "首席科学家",
-          "bg": "博士"
+          "name": "曾熙",
+          "role": "创始人",
+          "bg": "巴塞罗那大学博士，曾在OnePlus、OPPO、字节跳动任职"
         }
       ],
       "product": "",
-      "founded": "2021",
-      "funding": "天使轮融资，由信科资本、元禾控股等投资",
+      "founded": "2025-01",
+      "funding": "数百万美元天使轮融资，美图领投，NYX Ventures、阿里系投资机构跟投",
       "scores": {
-        "tech": 70,
-        "growth": 50,
-        "team": 60,
+        "tech": 75,
+        "growth": 65,
+        "team": 70,
         "market": 70
       },
-      "score": 62,
+      "score": 70,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "roboparty",
+      "name": "RoboParty 萝博派对",
+      "desc": "研发全开源双足人形机器人的初创公司",
+      "track": "robotics",
+      "stage": "angel",
+      "city": "other",
+      "tags": [
+        "人形机器人",
+        "双足机器人",
+        "开源"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "数千万美元天使+轮，顺为资本领投，小米战投追加投资",
+      "scores": {
+        "tech": 80,
+        "growth": 60,
+        "team": 50,
+        "market": 70
+      },
+      "score": 66,
       "discoveredAt": "2026-05-20",
       "discussionCount": 0,
       "contacts": {
@@ -8498,33 +8357,224 @@
       }
     },
     {
-      "id": "deepwise",
-      "name": "北京机智赛博科技有限公司（深度机智）",
-      "desc": "具身通用智能基座模型公司，成立一年累计融资数亿元",
+      "id": "xianglianggongzhen",
+      "name": "向量共振",
+      "desc": "提出AI品牌认知治理理论，进入GEO赛道",
       "track": "ai",
-      "stage": "pre-a",
-      "city": "beijing",
+      "stage": "pre-seed",
+      "city": "other",
       "tags": [
-        "具身智能",
-        "通用基座模型",
-        "AI"
+        "GEO",
+        "AI品牌认知"
       ],
       "team": [],
       "product": "",
-      "founded": "2025-05",
-      "funding": "累计数亿元融资，多轮",
+      "founded": "",
+      "funding": "",
       "scores": {
-        "tech": 80,
-        "growth": 75,
-        "team": 60,
-        "market": 70
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
       },
-      "score": 72,
+      "score": 50,
       "discoveredAt": "2026-05-20",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-20",
         "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "fangshirobot",
+      "name": "北京方石机器人有限公司",
+      "desc": "智能建造机器人开发商，实现建筑无人化与智能化",
+      "track": "robotics",
+      "stage": "a",
+      "city": "beijing",
+      "tags": [
+        "智能建造",
+        "建筑机器人",
+        "具身智能"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2019-01",
+      "funding": "近亿元A轮融资，由北京科创亦庄直投基金、航发基金联合投资",
+      "scores": {
+        "tech": 75,
+        "growth": 60,
+        "team": 50,
+        "market": 80
+      },
+      "score": 66,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "oladimensions",
+      "name": "欧拉万象（Ola Dimensions）",
+      "desc": "家庭具身智能机器人企业，构建数据闭环",
+      "track": "robotics",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "家庭机器人",
+        "具身智能",
+        "数据闭环"
+      ],
+      "team": [
+        {
+          "name": "周顺波",
+          "role": "创始人",
+          "bg": "华为具身智能领域1号员工、公司级首席专家，华为天才少年"
+        },
+        {
+          "name": "张靖",
+          "role": "联合创始人",
+          "bg": "前亚马逊AWS产品经理、华为创新云服务产品总监"
+        }
+      ],
+      "product": "",
+      "founded": "2026-03",
+      "funding": "种子轮数千万元（高瓴创投、五源资本），本轮数亿元（招商局创投领投）",
+      "scores": {
+        "tech": 70,
+        "growth": 50,
+        "team": 85,
+        "market": 70
+      },
+      "score": 67,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "pluang",
+      "name": "Pluang",
+      "desc": "印尼投资平台，提供股票、基金等多元资产配置服务",
+      "track": "fintech",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "投资",
+        "东南亚",
+        "多元资产"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "2026年5月获得1000万美元C轮融资，领投方为MUFG Innovation Partners",
+      "scores": {
+        "tech": 50,
+        "growth": 70,
+        "team": 50,
+        "market": 75
+      },
+      "score": 61,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "parallel",
+      "name": "Parallel",
+      "desc": "AI startup by ex-Twitter CEO Parag Agrawal, aims to pay publishers when AI agents use their content",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AI Agents",
+        "Publisher Compensation",
+        "Content Licensing"
+      ],
+      "team": [
+        {
+          "name": "Parag Agrawal",
+          "role": "CEO",
+          "bg": "Former Twitter CEO"
+        }
+      ],
+      "product": "",
+      "founded": "2024-06",
+      "funding": "Not disclosed",
+      "scores": {
+        "tech": 65,
+        "growth": 50,
+        "team": 90,
+        "market": 60
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "termark",
+      "name": "Termark",
+      "desc": "桌面端SSH终端管理工具，支持多平台，集成AI功能",
+      "track": "saas",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "SSH",
+        "终端管理",
+        "开发者工具"
+      ],
+      "team": [],
+      "product": "https://www.termark.app",
+      "founded": null,
+      "funding": "",
+      "scores": {
+        "tech": 50,
+        "growth": 50,
+        "team": 50,
+        "market": 50
+      },
+      "score": 50,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {
+          "website": "https://www.termark.app",
+          "emails": [],
+          "socials": {},
+          "careerPage": "https://www.termark.app/careers",
+          "jobListings": [
+            "Termark - The Minimal SSH Client for Modern Developers",
+            "\"applicationCategory\": \"DeveloperApplication\",",
+            "'AI Assistant',"
+          ]
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -14377,10 +14427,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
       "url": "https://36kr.com/p/3816909945029760?f=rss",
-      "snippet": "未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。",
+      "snippet": "未来式智能（AutoAgents.ai）完成Pre-A轮融资，专注于以智能体技术赋能知识工作者，核心产品为企业级智能体搭建平台“灵搭”。",
       "date": "2026-05-20",
       "likes": 0,
       "comments": 0,
@@ -14388,168 +14438,113 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
       "url": "https://36kr.com/p/3816947890471812?f=rss",
-      "snippet": "硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。",
+      "snippet": "Visual Agent创业公司Chance AI完成数百万美元天使轮融资，产品以摄像头为主要交互入口，用户数达20万。",
       "date": "2026-05-20",
       "likes": 0,
       "comments": 0,
       "relatedProject": "chanceai"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "地瓜机器人与千寻智能达成战略合作",
-      "url": "https://36kr.com/newsflashes/3817109218575489?f=rss",
-      "snippet": "地瓜机器人与千寻智能达成战略合作，完成开源VLA模型Spirit v1.5与旭日S600芯片的适配。",
+      "source": "动点科技",
+      "sourceIcon": "动点",
+      "title": "印尼投资平台Pluang获得1000万美元C轮融资",
+      "url": "https://cn.technode.com/post/2026-05-20/pluang-raises-10m-series-c-indonesia-equities/",
+      "snippet": "本轮融资由MUFG Innovation Partners领投",
       "date": "2026-05-20",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "qianxun-ai"
+      "relatedProject": "pluang"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "“贝塔无限”连续完成种子轮、种子+轮数亿元融资",
-      "url": "https://36kr.com/newsflashes/3817084193866889?f=rss",
-      "snippet": "消费级通用具身智能企业贝塔无限完成种子轮和种子+轮数亿元融资。",
-      "date": "2026-05-20",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "beta-infinity"
-    },
-    {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "“趋境科技”完成数亿元Pre-A轮融资",
-      "url": "https://36kr.com/newsflashes/3817050950665353?f=rss",
-      "snippet": "AI Token生产服务商趋境科技完成数亿元Pre-A轮融资。",
-      "date": "2026-05-20",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "approaching-ai"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "融资丨拓深科技完成数亿元新一轮融资",
-      "url": "http://www.cyzone.cn/article/833938.html",
-      "snippet": "AI电力数字化企业拓深科技完成数亿元新一轮融资，将启动Pre-IPO轮融资。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "snippet": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
       "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "融资丨「RoboParty 萝博派对」获顺为资本与小米战投天使+轮投资",
-      "url": "http://www.cyzone.cn/article/833909.html",
-      "snippet": "RoboParty完成数千万美元天使+轮融资，开源双足人形机器人获ICRA全球TOP3。",
-      "date": "2026-05-19",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": "roboparty"
-    },
-    {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "算力为王：Cerebras暴涨68%，解锁AI芯片赛道新周期",
-      "url": "http://www.cyzone.cn/article/833879.html",
-      "snippet": "AI芯片公司Cerebras上市首日暴涨68%，市值达670亿美元。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "snippet": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
       "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "融资丨全球首个原生范式通用具身大脑打造者眸深智能完成3亿元Pre-A轮融资",
-      "url": "http://www.cyzone.cn/article/833586.html",
-      "snippet": "眸深智能完成3亿元Pre-A轮融资，5倍超额认购，聚焦通用具身大脑。",
-      "date": "2026-05-15",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "snippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+      "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "motionbrain"
+      "relatedProject": null
     },
     {
-      "source": "钛媒体",
-      "sourceIcon": "钛媒",
-      "title": "跟宇树一比，云深处太贵了？",
-      "url": "https://www.tmtpost.com/7994039.html",
-      "snippet": "营收仅宇树五分之一，估值倍数贵了约60%。",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+      "snippet": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+      "date": "2026-05-19",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+      "snippet": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+      "date": "2026-05-19",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Applying for Funding Is Exhausting",
+      "url": "https://news.ycombinator.com/item?id=48203236",
+      "snippet": "Founder built sabapplier to apply for funding programs in 1 minute by creating a reusable founder profile and pitchdeck.",
+      "date": "2026-05-20",
+      "likes": 1,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "Hacker News",
+      "sourceIcon": "HN",
+      "title": "Built DealSensematch in 2 months. No team. No funding. Just me",
+      "url": "https://news.ycombinator.com/item?id=48198771",
+      "snippet": "Solo founder built DealSensematch, a deal sense matching platform, in 2 months.",
+      "date": "2026-05-20",
+      "likes": 2,
+      "comments": 1,
+      "relatedProject": null
+    },
+    {
+      "source": "V2EX",
+      "sourceIcon": "V2",
+      "title": "分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]",
+      "url": "https://www.v2ex.com/t/1213996",
+      "snippet": "大家好，我做了一个桌面端 SSH 终端管理工具，叫 Termark。官网：https://www.termark.app 简单说，它是给经常连服务器的人用的。平时要找机器、找账号、找密钥、开终端、传文件、做端口转发、批量查几台机器状态、看日志、问 AI 报错原因，这些事情单独看都不复杂，但每天重复很多次就很烦。Termark 想解决的就是这些碎事。",
       "date": "2026-05-20",
       "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "Github",
-      "title": "vercel-labs/zerolang",
-      "url": "https://github.com/vercel-labs/zerolang",
-      "snippet": "The programming language for agents. Stars: 3411, Forks: 197.",
-      "date": "2026-05-15",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "Github",
-      "title": "yetone/native-feel-skill",
-      "url": "https://github.com/yetone/native-feel-skill",
-      "snippet": "Agent Skill for designing cross-platform desktop apps that feel native. Stars: 1336, Forks: 60.",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "Github",
-      "title": "facebookresearch/vggt-omega",
-      "url": "https://github.com/facebookresearch/vggt-omega",
-      "snippet": "[CVPR 2026 Oral] VGGT Omega. Stars: 1239, Forks: 36.",
-      "date": "2026-05-14",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "Nightmare-Eclipse/MiniPlasma",
-      "url": "https://github.com/Nightmare-Eclipse/MiniPlasma",
-      "snippet": "CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an LPE in cldflt.sys",
-      "date": "2026-05-14",
-      "likes": 589,
-      "comments": 148,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-      "url": "https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool",
-      "snippet": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions.",
-      "date": "2026-05-15",
-      "likes": 582,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "GitHub新星",
-      "sourceIcon": "GH",
-      "title": "jiaoyanming0-bot/OPAutoClicker",
-      "url": "https://github.com/jiaoyanming0-bot/OPAutoClicker",
-      "snippet": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mous",
-      "date": "2026-05-14",
-      "likes": 582,
-      "comments": 2,
-      "relatedProject": null
+      "comments": 89,
+      "relatedProject": "termark"
     }
   ]
 }
