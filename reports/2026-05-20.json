@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "FlowHaa"
+            "twitter": "MattQR"
           },
           "careerPage": null,
           "jobListings": []
@@ -4228,7 +4228,10 @@
             "info@latitudemedia.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com"
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -8246,39 +8249,45 @@
       }
     },
     {
-      "id": "autoagents",
+      "id": "futureagi",
       "name": "未来式智能（AutoAgents.ai）",
-      "desc": "以智能体技术赋能知识工作者的企业级智能体搭建平台",
+      "desc": "以智能体技术赋能知识工作者的企业级AI Agent平台",
       "track": "ai",
       "stage": "pre-a",
-      "city": "beijing",
+      "city": "other",
       "tags": [
-        "智能体",
-        "企业服务",
-        "大模型应用"
+        "AI Agent",
+        "企业级平台",
+        "智能体"
       ],
       "team": [
         {
           "name": "杨劲松",
           "role": "创始人兼CEO",
-          "bg": "前阿里达摩院产品/商业化总监，前字节飞书AI负责人"
+          "bg": "前达摩院产品/商业化总监，字节飞书AI负责人，亚马逊AWS aPaaS平台负责人"
         }
       ],
-      "product": "",
+      "product": "https://autoagents.ai",
       "founded": "2023-06",
-      "funding": "Pre-A轮融资，投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投",
+      "funding": "Pre-A轮融资，资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投",
       "scores": {
-        "tech": 70,
+        "tech": 75,
         "growth": 60,
-        "team": 75,
-        "market": 70
+        "team": 80,
+        "market": 75
       },
-      "score": 68,
+      "score": 72,
       "discoveredAt": "2026-05-20",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-20",
-        "website": {},
+        "website": {
+          "website": "https://autoagents.ai",
+          "emails": [],
+          "socials": {},
+          "careerPage": "https://autoagents.ai/careers",
+          "jobListings": []
+        },
         "github": {},
         "hiring": [],
         "businessInfo": {}
@@ -8287,32 +8296,72 @@
     {
       "id": "chanceai",
       "name": "Chance AI",
-      "desc": "全球首款以摄像头为核心交互的视觉智能体产品",
+      "desc": "以摄像头为主要交互入口的视觉智能体产品",
       "track": "ai",
       "stage": "angel",
-      "city": "beijing",
+      "city": "other",
       "tags": [
         "视觉智能体",
-        "AI产品",
-        "天使轮"
+        "Visual Agent",
+        "AI产品"
       ],
       "team": [
         {
           "name": "曾熙",
           "role": "创始人",
-          "bg": "巴塞罗那大学博士，曾在OnePlus、OPPO、字节跳动任职"
+          "bg": "巴塞罗那大学博士，曾任OnePlus、OPPO产品/设计，字节跳动Flow部门参与豆包AI"
         }
       ],
-      "product": "",
+      "product": "未提供",
       "founded": "2025-01",
-      "funding": "数百万美元天使轮融资，美图领投，NYX Ventures、阿里系投资机构跟投",
+      "funding": "数百万美元天使轮，美图领投，NYX Ventures、阿里系投资机构跟投",
       "scores": {
-        "tech": 75,
-        "growth": 65,
+        "tech": 70,
+        "growth": 55,
         "team": 70,
-        "market": 70
+        "market": 60
       },
-      "score": 70,
+      "score": 64,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {
+          "website": "未提供",
+          "emails": [],
+          "socials": {},
+          "careerPage": null,
+          "jobListings": []
+        },
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "mthreads",
+      "name": "摩尔线程",
+      "desc": "全栈GPU智算基础设施提供商，覆盖云边端AI算力",
+      "track": "semiconductor",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "GPU",
+        "AI芯片",
+        "智算集群",
+        "大模型"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "2020-06",
+      "funding": "已获多轮融资，累计数亿元",
+      "scores": {
+        "tech": 90,
+        "growth": 80,
+        "team": 70,
+        "market": 85
+      },
+      "score": 82,
       "discoveredAt": "2026-05-20",
       "discussionCount": 1,
       "contacts": {
@@ -8326,93 +8375,29 @@
     {
       "id": "roboparty",
       "name": "RoboParty 萝博派对",
-      "desc": "研发全开源双足人形机器人的初创公司",
+      "desc": "全开源双足人形机器人初创，获顺为资本与小米战投天使+轮",
       "track": "robotics",
       "stage": "angel",
       "city": "other",
       "tags": [
         "人形机器人",
-        "双足机器人",
-        "开源"
+        "双足",
+        "开源",
+        "AI"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "数千万美元天使+轮，顺为资本领投，小米战投追加投资",
-      "scores": {
-        "tech": 80,
-        "growth": 60,
-        "team": 50,
-        "market": 70
-      },
-      "score": 66,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "xianglianggongzhen",
-      "name": "向量共振",
-      "desc": "提出AI品牌认知治理理论，进入GEO赛道",
-      "track": "ai",
-      "stage": "pre-seed",
-      "city": "other",
-      "tags": [
-        "GEO",
-        "AI品牌认知"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
-      },
-      "score": 50,
-      "discoveredAt": "2026-05-20",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-20",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "fangshirobot",
-      "name": "北京方石机器人有限公司",
-      "desc": "智能建造机器人开发商，实现建筑无人化与智能化",
-      "track": "robotics",
-      "stage": "a",
-      "city": "beijing",
-      "tags": [
-        "智能建造",
-        "建筑机器人",
-        "具身智能"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2019-01",
-      "funding": "近亿元A轮融资，由北京科创亦庄直投基金、航发基金联合投资",
+      "funding": "天使+轮数千万美元，顺为资本领投，小米战投追加",
       "scores": {
         "tech": 75,
-        "growth": 60,
-        "team": 50,
+        "growth": 70,
+        "team": 65,
         "market": 80
       },
-      "score": 66,
+      "score": 72,
       "discoveredAt": "2026-05-20",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-20",
         "website": {},
@@ -8422,22 +8407,23 @@
       }
     },
     {
-      "id": "oladimensions",
+      "id": "ola",
       "name": "欧拉万象（Ola Dimensions）",
-      "desc": "家庭具身智能机器人企业，构建数据闭环",
+      "desc": "家庭具身智能企业，打造家庭机器人数据闭环。",
       "track": "robotics",
       "stage": "seed",
       "city": "other",
       "tags": [
-        "家庭机器人",
         "具身智能",
-        "数据闭环"
+        "家庭机器人",
+        "数据闭环",
+        "华为系"
       ],
       "team": [
         {
           "name": "周顺波",
-          "role": "创始人",
-          "bg": "华为具身智能领域1号员工、公司级首席专家，华为天才少年"
+          "role": "创始人/CEO",
+          "bg": "前华为具身智能首席专家、天才少年"
         },
         {
           "name": "张靖",
@@ -8447,14 +8433,14 @@
       ],
       "product": "",
       "founded": "2026-03",
-      "funding": "种子轮数千万元（高瓴创投、五源资本），本轮数亿元（招商局创投领投）",
+      "funding": "数亿元（含种子轮及本轮），由招商局创投领投，赛富投资、九合创投等跟投",
       "scores": {
-        "tech": 70,
+        "tech": 90,
         "growth": 50,
-        "team": 85,
-        "market": 70
+        "team": 90,
+        "market": 85
       },
-      "score": 67,
+      "score": 77,
       "discoveredAt": "2026-05-20",
       "discussionCount": 0,
       "contacts": {
@@ -8468,26 +8454,26 @@
     {
       "id": "pluang",
       "name": "Pluang",
-      "desc": "印尼投资平台，提供股票、基金等多元资产配置服务",
+      "desc": "印尼投资平台，提供股票、基金等投资服务",
       "track": "fintech",
       "stage": "b+",
       "city": "overseas",
       "tags": [
         "投资",
-        "东南亚",
-        "多元资产"
+        "印尼",
+        "C轮融资"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "2026年5月获得1000万美元C轮融资，领投方为MUFG Innovation Partners",
+      "funding": "2026年5月获得1000万美元C轮融资，由MUFG Innovation Partners领投",
       "scores": {
         "tech": 50,
         "growth": 70,
         "team": 50,
-        "market": 75
+        "market": 70
       },
-      "score": 61,
+      "score": 60,
       "discoveredAt": "2026-05-20",
       "discussionCount": 1,
       "contacts": {
@@ -8499,36 +8485,103 @@
       }
     },
     {
-      "id": "parallel",
-      "name": "Parallel",
-      "desc": "AI startup by ex-Twitter CEO Parag Agrawal, aims to pay publishers when AI agents use their content",
+      "id": "clouted",
+      "name": "Clouted",
+      "desc": "帮助用户制作病毒式传播短视频的AI剪辑工具",
       "track": "ai",
       "stage": "seed",
       "city": "overseas",
       "tags": [
-        "AI Agents",
-        "Publisher Compensation",
-        "Content Licensing"
+        "AI视频",
+        "短视频",
+        "种子轮"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "2026年5月获得700万美元种子轮融资，由Slow Ventures领投",
+      "scores": {
+        "tech": 70,
+        "growth": 60,
+        "team": 50,
+        "market": 70
+      },
+      "score": 63,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "lucra",
+      "name": "Lucra",
+      "desc": "电竞游戏化忠诚度平台，提高用户参与度",
+      "track": "consumer",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "电竞",
+        "游戏化",
+        "忠诚度",
+        "融资2000万"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "2026年5月从ARK Invest获得2000万美元融资",
+      "scores": {
+        "tech": 60,
+        "growth": 80,
+        "team": 50,
+        "market": 70
+      },
+      "score": 66,
+      "discoveredAt": "2026-05-20",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-20",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "irisgo",
+      "name": "IrisGo",
+      "desc": "AI桌面助手，自动学习并执行桌面任务",
+      "track": "ai",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "AI桌面",
+        "自动化",
+        "Andrew Ng"
       ],
       "team": [
         {
-          "name": "Parag Agrawal",
-          "role": "CEO",
-          "bg": "Former Twitter CEO"
+          "name": "",
+          "role": "创始人",
+          "bg": "Andrew Ng支持"
         }
       ],
       "product": "",
-      "founded": "2024-06",
-      "funding": "Not disclosed",
+      "founded": "",
+      "funding": "获Andrew Ng支持，具体轮次未披露",
       "scores": {
-        "tech": 65,
-        "growth": 50,
-        "team": 90,
-        "market": 60
+        "tech": 80,
+        "growth": 60,
+        "team": 80,
+        "market": 80
       },
-      "score": 64,
+      "score": 74,
       "discoveredAt": "2026-05-20",
-      "discussionCount": 0,
+      "discussionCount": 1,
       "contacts": {
         "fetchedAt": "2026-05-20",
         "website": {},
@@ -8540,26 +8593,27 @@
     {
       "id": "termark",
       "name": "Termark",
-      "desc": "桌面端SSH终端管理工具，支持多平台，集成AI功能",
+      "desc": "跨平台SSH终端管理工具，支持macOS/Windows/Linux",
       "track": "saas",
       "stage": "seed",
       "city": "other",
       "tags": [
         "SSH",
-        "终端管理",
-        "开发者工具"
+        "终端",
+        "开发工具",
+        "AI"
       ],
       "team": [],
       "product": "https://www.termark.app",
-      "founded": null,
+      "founded": "",
       "funding": "",
       "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 50
+        "tech": 55,
+        "growth": 60,
+        "team": 40,
+        "market": 45
       },
-      "score": 50,
+      "score": 52,
       "discoveredAt": "2026-05-20",
       "discussionCount": 1,
       "contacts": {
@@ -14426,26 +14480,37 @@
       "relatedProject": null
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
-      "url": "https://36kr.com/p/3816909945029760?f=rss",
-      "snippet": "未来式智能（AutoAgents.ai）完成Pre-A轮融资，专注于以智能体技术赋能知识工作者，核心产品为企业级智能体搭建平台“灵搭”。",
-      "date": "2026-05-20",
+      "source": "创业邦",
+      "sourceIcon": "创",
+      "title": "摩尔线程发布“云边端”全栈智算矩阵，开启万物智能新纪元",
+      "url": "http://www.cyzone.cn/article/833947.html",
+      "snippet": "摩尔线程发布夸娥智算集群、MTT AICUBE、AIBOOK等全栈智算产品，打造云边端生态。",
+      "date": "2026-05-19",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "autoagents"
+      "relatedProject": "mthreads"
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36氪",
-      "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
-      "url": "https://36kr.com/p/3816947890471812?f=rss",
-      "snippet": "Visual Agent创业公司Chance AI完成数百万美元天使轮融资，产品以摄像头为主要交互入口，用户数达20万。",
+      "source": "创业邦",
+      "sourceIcon": "创",
+      "title": "融资丨「RoboParty 萝博派对」获顺为资本与小米战投天使+轮投资",
+      "url": "http://www.cyzone.cn/article/833909.html",
+      "snippet": "RoboParty完成数千万美元天使+轮融资，团队在ICRA赛事获全球第三，开源双足人形机器人。",
+      "date": "2026-05-19",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "roboparty"
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "AI孵化器语生科学正式亮相：11位“大佬”导师成为超强外挂",
+      "url": "https://www.tmtpost.com/7995831.html",
+      "snippet": "语生科学以项目超市+人才匹配+价值观筛选三层架构，开辟AI创业工作室新路径。",
       "date": "2026-05-20",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "chanceai"
+      "relatedProject": null
     },
     {
       "source": "动点科技",
@@ -14461,78 +14526,89 @@
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "snippet": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "date": "2026-05-19",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "snippet": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
-      "date": "2026-05-19",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "snippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-      "date": "2026-05-19",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "snippet": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-      "date": "2026-05-19",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "TechCrunch",
-      "sourceIcon": "TC",
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-      "snippet": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
-      "date": "2026-05-19",
-      "likes": 0,
-      "comments": 0,
-      "relatedProject": null
-    },
-    {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Applying for Funding Is Exhausting",
-      "url": "https://news.ycombinator.com/item?id=48203236",
-      "snippet": "Founder built sabapplier to apply for funding programs in 1 minute by creating a reusable founder profile and pitchdeck.",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "snippet": "视频剪辑初创公司Clouted获700万美元种子轮融资，由Slow Ventures领投",
       "date": "2026-05-20",
-      "likes": 1,
-      "comments": 1,
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "clouted"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "snippet": "英伟达公布创纪录营收，并披露持有430亿美元初创公司股份",
+      "date": "2026-05-20",
+      "likes": 0,
+      "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "Hacker News",
-      "sourceIcon": "HN",
-      "title": "Built DealSensematch in 2 months. No team. No funding. Just me",
-      "url": "https://news.ycombinator.com/item?id=48198771",
-      "snippet": "Solo founder built DealSensematch, a deal sense matching platform, in 2 months.",
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+      "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+      "snippet": "Altman提议OpenAI投资YC所有初创公司：用代币换股权",
       "date": "2026-05-20",
-      "likes": 2,
-      "comments": 1,
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+      "url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+      "snippet": "电竞游戏化忠诚度初创公司Lucra从ARK Invest获得2000万美元融资",
+      "date": "2026-05-20",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "lucra"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Microsoft’s carbon-removal plans aren’t dead after all",
+      "url": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+      "snippet": "微软新的碳去除交易有助于缓解CDR初创公司的担忧",
+      "date": "2026-05-20",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "snippet": "AI桌面助手IrisGo获Andrew Ng支持，可自动学习桌面任务",
+      "date": "2026-05-20",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "irisgo"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Global EV market goes K-shaped as the US gets left behind",
+      "url": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
+      "snippet": "除美国外全球电动车销量激增，对传统和初创车企构成风险",
+      "date": "2026-05-20",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "AI search startups are blowing up",
+      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "snippet": "AI搜索已成为消费级AI中最具吸引力的领域之一",
+      "date": "2026-05-20",
+      "likes": 0,
+      "comments": 0,
       "relatedProject": null
     },
     {
@@ -14540,11 +14616,44 @@
       "sourceIcon": "V2",
       "title": "分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]",
       "url": "https://www.v2ex.com/t/1213996",
-      "snippet": "大家好，我做了一个桌面端 SSH 终端管理工具，叫 Termark。官网：https://www.termark.app 简单说，它是给经常连服务器的人用的。平时要找机器、找账号、找密钥、开终端、传文件、做端口转发、批量查几台机器状态、看日志、问 AI 报错原因，这些事情单独看都不复杂，但每天重复很多次就很烦。Termark 想解决的就是这些碎事。",
+      "snippet": "大家好，我做了一个桌面端 SSH 终端管理工具，叫 Termark。官网：https://www.termark.app",
       "date": "2026-05-20",
       "likes": 0,
-      "comments": 89,
+      "comments": 90,
       "relatedProject": "termark"
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "vercel-labs/zerolang",
+      "url": "https://github.com/vercel-labs/zerolang",
+      "snippet": "The programming language for agents",
+      "date": "2026-05-15",
+      "likes": 3960,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "yetone/native-feel-skill",
+      "url": "https://github.com/yetone/native-feel-skill",
+      "snippet": "An Agent Skill for designing cross-platform desktop apps that feel native",
+      "date": "2026-05-14",
+      "likes": 1350,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "GitHub新星",
+      "sourceIcon": "GH",
+      "title": "facebookresearch/vggt-omega",
+      "url": "https://github.com/facebookresearch/vggt-omega",
+      "snippet": "[CVPR 2026 Oral] VGGT Omega",
+      "date": "2026-05-14",
+      "likes": 1343,
+      "comments": 0,
+      "relatedProject": null
     }
   ]
 }

@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "FlowHaa"
+          "twitter": "MattQR"
         },
         "careerPage": null,
         "jobListings": []
@@ -1552,7 +1552,10 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com"
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -2875,11 +2878,17 @@
     }
   },
   {
-    "id": "autoagents",
+    "id": "futureagi",
     "name": "未来式智能（AutoAgents.ai）",
     "contacts": {
       "fetchedAt": "2026-05-20",
-      "website": {},
+      "website": {
+        "website": "https://autoagents.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://autoagents.ai/careers",
+        "jobListings": []
+      },
       "github": {},
       "hiring": [],
       "businessInfo": {}
@@ -2888,6 +2897,23 @@
   {
     "id": "chanceai",
     "name": "Chance AI",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {
+        "website": "未提供",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mthreads",
+    "name": "摩尔线程",
     "contacts": {
       "fetchedAt": "2026-05-20",
       "website": {},
@@ -2908,29 +2934,7 @@
     }
   },
   {
-    "id": "xianglianggongzhen",
-    "name": "向量共振",
-    "contacts": {
-      "fetchedAt": "2026-05-20",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "fangshirobot",
-    "name": "北京方石机器人有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-20",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "oladimensions",
+    "id": "ola",
     "name": "欧拉万象（Ola Dimensions）",
     "contacts": {
       "fetchedAt": "2026-05-20",
@@ -2952,8 +2956,30 @@
     }
   },
   {
-    "id": "parallel",
-    "name": "Parallel",
+    "id": "clouted",
+    "name": "Clouted",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lucra",
+    "name": "Lucra",
+    "contacts": {
+      "fetchedAt": "2026-05-20",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "irisgo",
+    "name": "IrisGo",
     "contacts": {
       "fetchedAt": "2026-05-20",
       "website": {},
