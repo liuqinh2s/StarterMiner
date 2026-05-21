@@ -1549,7 +1549,13 @@
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
-          "info@latitudemedia.com"
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -3004,6 +3010,28 @@
     }
   },
   {
+    "id": "luyu",
+    "name": "陆渔科技",
+    "contacts": {
+      "fetchedAt": "2026-05-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pureblueai",
+    "name": "PureblueAI清蓝",
+    "contacts": {
+      "fetchedAt": "2026-05-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
     "id": "mierguang",
     "name": "弥尔光半导体（北京）有限公司",
     "contacts": {
@@ -3015,7 +3043,7 @@
     }
   },
   {
-    "id": "youshu",
+    "id": "youthshu",
     "name": "上海酉术量子科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-21",
@@ -3026,25 +3054,8 @@
     }
   },
   {
-    "id": "jizhisaibo",
-    "name": "深度机智（北京机智赛博科技有限公司）",
-    "contacts": {
-      "fetchedAt": "2026-05-21",
-      "website": {
-        "website": "未知",
-        "emails": [],
-        "socials": {},
-        "careerPage": null,
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "parallel",
-    "name": "Parallel",
+    "id": "fresha",
+    "name": "Fresha",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
@@ -3054,8 +3065,8 @@
     }
   },
   {
-    "id": "sabapplier",
-    "name": "Sabapplier",
+    "id": "scapia",
+    "name": "Scapia",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
@@ -3065,25 +3076,8 @@
     }
   },
   {
-    "id": "dealsensematch",
-    "name": "DealSenseMatch",
-    "contacts": {
-      "fetchedAt": "2026-05-21",
-      "website": {
-        "website": "https://dealsensematch.com",
-        "emails": [],
-        "socials": {},
-        "careerPage": "https://dealsensematch.com/careers",
-        "jobListings": []
-      },
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "emmi-ai",
-    "name": "Emmi AI",
+    "id": "imperagen",
+    "name": "Imperagen",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},

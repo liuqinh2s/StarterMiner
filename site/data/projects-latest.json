@@ -4225,7 +4225,13 @@
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
-            "info@latitudemedia.com"
+            "info@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -8629,32 +8635,110 @@
       }
     },
     {
+      "id": "luyu",
+      "name": "陆渔科技",
+      "desc": "用AI技术解决水产养殖不确定性，提供数据驱动的智慧渔业解决方案。",
+      "track": "agritech",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "农业科技",
+        "AI",
+        "水产养殖"
+      ],
+      "team": [
+        {
+          "name": "鲁敏",
+          "role": "联合创始人/CTO",
+          "bg": "18年IT行业经验，转型农业AI"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "未披露",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 55,
+        "market": 70
+      },
+      "score": 58,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "pureblueai",
+      "name": "PureblueAI清蓝",
+      "desc": "专注‘科学GEO’方法论，为企业提供AI口播与推荐场景下的品牌优化服务。",
+      "track": "ai",
+      "stage": "seed",
+      "city": "other",
+      "tags": [
+        "AI营销",
+        "GEO",
+        "品牌优化"
+      ],
+      "team": [
+        {
+          "name": "李铭",
+          "role": "市场副总裁",
+          "bg": "未披露"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "未披露",
+      "scores": {
+        "tech": 60,
+        "growth": 55,
+        "team": 50,
+        "market": 65
+      },
+      "score": 58,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
       "id": "mierguang",
       "name": "弥尔光半导体（北京）有限公司",
-      "desc": "下一代全光子无线技术核心光电器件研发",
+      "desc": "下一代全光子无线通信核心光电器件研发商，获天使轮融资",
       "track": "semiconductor",
-      "stage": "angel",
+      "stage": "seed",
       "city": "beijing",
       "tags": [
-        "光电子",
+        "全光子无线",
         "6G",
-        "光子无线"
+        "光电子器件"
       ],
       "team": [
         {
           "name": "宗柏青",
           "role": "首席科学家",
-          "bg": "博士，6G光电器件专家"
+          "bg": "博士，无线通信与光电子领域专家"
         }
       ],
-      "product": "",
-      "founded": "2021",
-      "funding": "天使轮融资，由信科资本、元禾控股等投资",
+      "product": null,
+      "founded": "2021-01",
+      "funding": "天使轮融资，信科资本、元禾控股等投资",
       "scores": {
-        "tech": 75,
+        "tech": 80,
         "growth": 50,
-        "team": 70,
-        "market": 70
+        "team": 60,
+        "market": 75
       },
       "score": 66,
       "discoveredAt": "2026-05-21",
@@ -8668,116 +8752,32 @@
       }
     },
     {
-      "id": "youshu",
+      "id": "youthshu",
       "name": "上海酉术量子科技有限公司",
-      "desc": "全球首个Agent驱动的全链路量子科学计算平台",
+      "desc": "全球首个Agent驱动全链路量子科学计算平台UnitaryLab 2.0发布",
       "track": "other",
       "stage": "seed",
       "city": "shanghai",
       "tags": [
         "量子计算",
-        "AI Agent",
-        "科学计算"
+        "量子算法",
+        "Agent驱动"
       ],
       "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "未披露融资，发布UnitaryLab 2.0平台",
-      "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 50,
-        "market": 60
-      },
-      "score": 61,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "jizhisaibo",
-      "name": "深度机智（北京机智赛博科技有限公司）",
-      "desc": "具身通用智能基座模型公司，专注人类学习路线的具身智能。",
-      "track": "robotics",
-      "stage": "pre-a",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "基座模型",
-        "机器人"
-      ],
-      "team": [
-        {
-          "name": "创始人",
-          "role": "CEO",
-          "bg": "清华背景，中关村学院孵化"
-        }
-      ],
-      "product": "未知",
-      "founded": "2025-05",
-      "funding": "成立一年累计数亿元，十余家知名机构参与",
+      "product": null,
+      "founded": null,
+      "funding": null,
       "scores": {
         "tech": 85,
-        "growth": 70,
-        "team": 75,
-        "market": 80
+        "growth": 40,
+        "team": 50,
+        "market": 75
       },
-      "score": 78,
+      "score": 62,
       "discoveredAt": "2026-05-21",
       "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-21",
-        "website": {
-          "website": "未知",
-          "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "parallel",
-      "name": "Parallel",
-      "desc": "利用AI代理技术，向使用其内容的出版商支付费用",
-      "track": "ai",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "AI",
-        "content licensing",
-        "publishers"
-      ],
-      "team": [
-        {
-          "name": "Parag Agrawal",
-          "role": "CEO",
-          "bg": "前Twitter CEO"
-        }
-      ],
-      "product": "",
-      "founded": "2024-01",
-      "funding": "未公开",
-      "scores": {
-        "tech": 70,
-        "growth": 60,
-        "team": 90,
-        "market": 75
-      },
-      "score": 72,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
         "website": {},
         "github": {},
         "hiring": [],
@@ -8785,98 +8785,94 @@
       }
     },
     {
-      "id": "sabapplier",
-      "name": "Sabapplier",
-      "desc": "帮助创始人一键申请多个资助项目的工具",
-      "track": "saas",
-      "stage": "idea",
-      "city": "overseas",
-      "tags": [
-        "funding",
-        "startup tools"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "2026-05",
-      "funding": "无融资",
-      "scores": {
-        "tech": 30,
-        "growth": 20,
-        "team": 50,
-        "market": 50
-      },
-      "score": 35,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "dealsensematch",
-      "name": "DealSenseMatch",
-      "desc": "为交易提供智能匹配的单一开发者项目",
-      "track": "saas",
-      "stage": "idea",
-      "city": "overseas",
-      "tags": [
-        "deal matching",
-        "startup"
-      ],
-      "team": [],
-      "product": "https://dealsensematch.com",
-      "founded": "2026-03",
-      "funding": "无融资",
-      "scores": {
-        "tech": 40,
-        "growth": 30,
-        "team": 50,
-        "market": 50
-      },
-      "score": 41,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {
-          "website": "https://dealsensematch.com",
-          "emails": [],
-          "socials": {},
-          "careerPage": "https://dealsensematch.com/careers",
-          "jobListings": []
-        },
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "emmi-ai",
-      "name": "Emmi AI",
-      "desc": "被Mistral AI收购的欧洲物理AI初创公司",
-      "track": "ai",
+      "id": "fresha",
+      "name": "Fresha",
+      "desc": "美容与健康预约平台，估值达10亿美元。",
+      "track": "consumer",
       "stage": "b+",
       "city": "overseas",
       "tags": [
-        "physics",
-        "AI",
-        "acquisition"
+        "beauty",
+        "booking",
+        "marketplace"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "被Mistral AI收购",
+      "funding": "2026年5月获得KKR 8000万美元投资，估值超10亿美元。",
+      "scores": {
+        "tech": 50,
+        "growth": 70,
+        "team": 60,
+        "market": 80
+      },
+      "score": 64,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "scapia",
+      "name": "Scapia",
+      "desc": "印度旅行支付初创，结合旅行预订与联名信用卡。",
+      "track": "fintech",
+      "stage": "b+",
+      "city": "overseas",
+      "tags": [
+        "travel",
+        "payments",
+        "credit-card"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "2026年5月获General Catalyst领投6300万美元，估值超5亿美元。",
+      "scores": {
+        "tech": 50,
+        "growth": 70,
+        "team": 50,
+        "market": 75
+      },
+      "score": 61,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "imperagen",
+      "name": "Imperagen",
+      "desc": "利用量子物理和AI进行酶工程改造的生物科技公司。",
+      "track": "biotech",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "enzyme-engineering",
+        "quantum",
+        "ai"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "2026年5月获500万英镑（约670万美元）种子轮融资，由PXN Ventures领投。",
       "scores": {
         "tech": 70,
-        "growth": 50,
+        "growth": 40,
         "team": 50,
         "market": 60
       },
-      "score": 58,
+      "score": 55,
       "discoveredAt": "2026-05-21",
       "discussionCount": 1,
       "contacts": {
