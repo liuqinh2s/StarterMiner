@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "MattQR"
+            "twitter": "FlowHaa"
           },
           "careerPage": null,
           "jobListings": []
@@ -7208,7 +7208,7 @@
       },
       "score": 72,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-21",
         "website": {},
@@ -8635,73 +8635,34 @@
       }
     },
     {
-      "id": "luyu",
-      "name": "陆渔科技",
-      "desc": "用AI技术解决水产养殖不确定性，提供数据驱动的智慧渔业解决方案。",
-      "track": "agritech",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "农业科技",
-        "AI",
-        "水产养殖"
-      ],
-      "team": [
-        {
-          "name": "鲁敏",
-          "role": "联合创始人/CTO",
-          "bg": "18年IT行业经验，转型农业AI"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "未披露",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 55,
-        "market": 70
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "pureblueai",
       "name": "PureblueAI清蓝",
-      "desc": "专注‘科学GEO’方法论，为企业提供AI口播与推荐场景下的品牌优化服务。",
+      "desc": "AI时代品牌推荐力优化服务商，专注生成式引擎优化（GEO）",
       "track": "ai",
       "stage": "seed",
-      "city": "other",
+      "city": "beijing",
       "tags": [
-        "AI营销",
         "GEO",
-        "品牌优化"
+        "AI营销",
+        "品牌推荐"
       ],
       "team": [
         {
           "name": "李铭",
           "role": "市场副总裁",
-          "bg": "未披露"
+          "bg": "AI营销领域"
         }
       ],
       "product": "",
       "founded": "",
-      "funding": "未披露",
+      "funding": "",
       "scores": {
         "tech": 60,
-        "growth": 55,
-        "team": 50,
-        "market": 65
+        "growth": 50,
+        "team": 40,
+        "market": 60
       },
-      "score": 58,
+      "score": 53,
       "discoveredAt": "2026-05-21",
       "discussionCount": 1,
       "contacts": {
@@ -8713,34 +8674,106 @@
       }
     },
     {
-      "id": "mierguang",
-      "name": "弥尔光半导体（北京）有限公司",
-      "desc": "下一代全光子无线通信核心光电器件研发商，获天使轮融资",
-      "track": "semiconductor",
-      "stage": "seed",
+      "id": "luyu",
+      "name": "陆渔科技",
+      "desc": "利用AI技术解决水产养殖不确定性，实现数字化管理",
+      "track": "ai",
+      "stage": "angel",
       "city": "beijing",
       "tags": [
-        "全光子无线",
-        "6G",
-        "光电子器件"
+        "农业AI",
+        "水产养殖",
+        "数字化"
       ],
       "team": [
         {
-          "name": "宗柏青",
-          "role": "首席科学家",
-          "bg": "博士，无线通信与光电子领域专家"
+          "name": "鲁敏",
+          "role": "联合创始人/CTO",
+          "bg": "18年IT经验"
         }
       ],
-      "product": null,
-      "founded": "2021-01",
-      "funding": "天使轮融资，信科资本、元禾控股等投资",
+      "product": "",
+      "founded": "",
+      "funding": "累计投入超3000万元（自筹）",
       "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 60,
-        "market": 75
+        "tech": 55,
+        "growth": 30,
+        "team": 50,
+        "market": 70
       },
-      "score": 66,
+      "score": 50,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yingbo",
+      "name": "北京英博数科科技有限公司",
+      "desc": "智算中心全栈解决方案提供商，定位'Token工厂'",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "智算中心",
+        "算力基础设施",
+        "Token经济"
+      ],
+      "team": [
+        {
+          "name": "宋琛",
+          "role": "副总经理",
+          "bg": "AI基础设施领域"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 40,
+        "market": 70
+      },
+      "score": 55,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yitangkeji",
+      "name": "亦唐科技",
+      "desc": "高端贴片机领域国产替代，完成B++轮数亿元融资。",
+      "track": "hardtech",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "高端贴片机",
+        "国产替代",
+        "电子制造装备"
+      ],
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": "B++轮数亿元融资",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 55,
       "discoveredAt": "2026-05-21",
       "discussionCount": 0,
       "contacts": {
@@ -8752,28 +8785,94 @@
       }
     },
     {
-      "id": "youthshu",
-      "name": "上海酉术量子科技有限公司",
-      "desc": "全球首个Agent驱动全链路量子科学计算平台UnitaryLab 2.0发布",
-      "track": "other",
-      "stage": "seed",
-      "city": "shanghai",
+      "id": "shenjijizhi",
+      "name": "深度机智（北京机智赛博科技有限公司）",
+      "desc": "具身通用基座模型公司，多项公开评测榜首。",
+      "track": "ai",
+      "stage": "angel",
+      "city": "beijing",
       "tags": [
-        "量子计算",
-        "量子算法",
-        "Agent驱动"
+        "具身智能",
+        "基座模型",
+        "全栈能力"
+      ],
+      "team": [],
+      "product": null,
+      "founded": "2025-05",
+      "funding": "成立一年累计数亿元融资",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 70,
+        "market": 75
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yanhekeji",
+      "name": "炎和科技",
+      "desc": "钙钛矿光伏技术公司，完成A2轮数亿元融资。",
+      "track": "newenergy",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "钙钛矿",
+        "光伏",
+        "太空光伏"
+      ],
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": "A2轮数亿元融资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 75
+      },
+      "score": 70,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xianglianggongzhen",
+      "name": "向量共振",
+      "desc": "提出AI品牌认知治理理论，专注GEO赛道。",
+      "track": "ai",
+      "stage": "idea",
+      "city": "other",
+      "tags": [
+        "AI品牌认知",
+        "GEO",
+        "品牌治理"
       ],
       "team": [],
       "product": null,
       "founded": null,
       "funding": null,
       "scores": {
-        "tech": 85,
+        "tech": 60,
         "growth": 40,
         "team": 50,
-        "market": 75
+        "market": 60
       },
-      "score": 62,
+      "score": 52,
       "discoveredAt": "2026-05-21",
       "discussionCount": 0,
       "contacts": {
@@ -8785,94 +8884,94 @@
       }
     },
     {
-      "id": "fresha",
-      "name": "Fresha",
-      "desc": "美容与健康预约平台，估值达10亿美元。",
+      "id": "patina",
+      "name": "Patina",
+      "desc": "香水科技公司，利用AI和机器学习发现新的香氛分子",
       "track": "consumer",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "beauty",
-        "booking",
-        "marketplace"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年5月获得KKR 8000万美元投资，估值超10亿美元。",
-      "scores": {
-        "tech": 50,
-        "growth": 70,
-        "team": 60,
-        "market": 80
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "scapia",
-      "name": "Scapia",
-      "desc": "印度旅行支付初创，结合旅行预订与联名信用卡。",
-      "track": "fintech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "travel",
-        "payments",
-        "credit-card"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年5月获General Catalyst领投6300万美元，估值超5亿美元。",
-      "scores": {
-        "tech": 50,
-        "growth": 70,
-        "team": 50,
-        "market": 75
-      },
-      "score": 61,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "imperagen",
-      "name": "Imperagen",
-      "desc": "利用量子物理和AI进行酶工程改造的生物科技公司。",
-      "track": "biotech",
       "stage": "seed",
       "city": "overseas",
       "tags": [
-        "enzyme-engineering",
-        "quantum",
-        "ai"
+        "fragrance",
+        "AI",
+        "consumer"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "2026年5月获500万英镑（约670万美元）种子轮融资，由PXN Ventures领投。",
+      "funding": "获200万美元种子轮融资，Betaworks和True Ventures参投",
       "scores": {
-        "tech": 70,
+        "tech": 60,
         "growth": 40,
         "team": 50,
         "market": 60
       },
-      "score": 55,
+      "score": 52,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "hark",
+      "name": "Hark",
+      "desc": "秘密开发通用AI界面，计划推出多模态模型和专用硬件",
+      "track": "ai",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "multimodal",
+        "hardware"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "获7亿美元A轮融资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 80
+      },
+      "score": 71,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "makakids",
+      "name": "Maka Kids",
+      "desc": "为0-6岁儿童提供优化健康发展的流媒体应用",
+      "track": "consumer",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "kids",
+        "streaming",
+        "well-being"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "获300万美元种子轮融资",
+      "scores": {
+        "tech": 50,
+        "growth": 40,
+        "team": 50,
+        "market": 60
+      },
+      "score": 49,
       "discoveredAt": "2026-05-21",
       "discussionCount": 1,
       "contacts": {
@@ -14906,10 +15005,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
-      "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3818927367046018?f=rss",
-      "snippet": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。",
+      "sourceIcon": "36氪",
+      "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+      "url": "https://36kr.com/p/3816942732133510?f=rss",
+      "snippet": "SpaceX计划五年内实现每年1万次发射；阿里股东信释放即时零售战略；东方甄选首家线下体验店开业。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
@@ -14917,10 +15016,21 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
+      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+      "url": "https://36kr.com/p/3818927367046018?f=rss",
+      "snippet": "新石器推出AI Agent“Neo Claw”，让用户像聊天一样指挥无人车队，提升管理效率。",
+      "date": "2026-05-21",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "36氪",
+      "sourceIcon": "36氪",
       "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3818889074557829?f=rss",
-      "snippet": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。",
+      "snippet": "酷哇科技用万台机器人累计运营数据驱动模型迭代，已在50多个城市部署。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
@@ -14928,10 +15038,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3818877539091333?f=rss",
-      "snippet": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。",
+      "snippet": "36氪与PureblueAI清蓝达成战略合作，联合发布《2026消费品牌AI推荐力名册》，聚焦AI时代的品牌推荐力。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
@@ -14939,10 +15049,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3818800487679111?f=rss",
-      "snippet": "两次失败、三千万学费——创业没有爽剧剧本，这是陆渔科技深耕农业AI真实的“入场券”。",
+      "snippet": "陆渔科技用AI解决水产养殖不确定性，创业团队从0开始，已投入三千万。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
@@ -14950,21 +15060,21 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3817502775329667?f=rss",
-      "snippet": "token经济如何重塑AI产业链？从芯片到智算中心，从模型服务到终端应用，token正在成为贯穿全链的计价单位。",
+      "snippet": "英博数科定位'Token工厂'，提供智算中心一站式解决方案，助力算力降本。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
-      "relatedProject": null
+      "relatedProject": "yingbo"
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3818784445465731?f=rss",
-      "snippet": "AI的聚光灯正从炫酷的C端应用，转向轰鸣的工厂、无声的手术室和奔跑的人形机器人。",
+      "snippet": "北京经开区管委会副主任陈建民介绍亦庄建设'全域人工智能之城'的进展。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
@@ -14972,10 +15082,10 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
+      "sourceIcon": "36氪",
       "title": "开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3818651789182080?f=rss",
-      "snippet": "AI叙事不再是颠覆一切，真正值得关注的是那些沉默的行业壁垒和经验能否被智能照亮。",
+      "snippet": "36氪CEO冯大刚强调AI要从技术走向落地，关注实际价值。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
@@ -14983,87 +15093,153 @@
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
-      "title": "中鼎股份：拟发行不超19.2亿元可转债用于智能机器人等项目",
-      "url": "https://36kr.com/newsflashes/3818941107372929?f=rss",
-      "snippet": "36氪获悉，中鼎股份公告，公司拟向不特定对象发行可转换公司债券，募集资金总额不超过19.2亿元(含本数)，扣除发行费用后用于智能机器人核心关节制造项目、智能热管理系统总成项目、新能源汽车智能底盘系统研发结算中心项目及补充流动资金。",
-      "date": "2026-05-21",
+      "sourceIcon": "36氪",
+      "title": "澳洲法官严厉批评特斯拉集体诉讼案处理方式，警告将面临“非常糟糕的局面”",
+      "url": "https://36kr.com/newsflashes/3819664433992066?f=rss",
+      "snippet": "特斯拉在澳大利亚面临集体诉讼，因幽灵刹车等问题被指误导消费者。",
+      "date": "2026-05-22",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
       "source": "36氪",
-      "sourceIcon": "36",
-      "title": "声迅股份：公司在低空经济领域整体业务规模较小",
-      "url": "https://36kr.com/newsflashes/3818927610135680?f=rss",
-      "snippet": "36氪获悉，声迅股份发布异动公告，公司股票于2026年5月20日、2026年5月21日连续两个交易日收盘价格涨幅偏离值累计超过20%，根据《深圳证券交易所交易规则》的有关规定，属于股票交易异常波动的情形。",
+      "sourceIcon": "36氪",
+      "title": "汇丰推40亿美元信贷工具，支持中国清洁技术企业出海",
+      "url": "https://36kr.com/newsflashes/3819663124222081?f=rss",
+      "snippet": "汇丰控股推出40亿美元信贷工具，支持中国清洁能源和低碳技术企业拓展全球市场。",
+      "date": "2026-05-22",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "钛媒体",
+      "sourceIcon": "钛",
+      "title": "真武M890问世，平头哥离上市还远吗？",
+      "url": "https://www.tmtpost.com/7997773.html",
+      "snippet": "真武芯片支持海量Agent并发推理。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "36氪",
-      "sourceIcon": "36",
-      "title": "特朗普政府将向九家量子计算企业发放总额20亿美元补助",
-      "url": "https://36kr.com/newsflashes/3818913920615300?f=rss",
-      "snippet": "美国商务部表示，特朗普政府将向九家量子计算企业发放总额20亿美元补助，相关合作协议包含美国政府入股条款。",
+      "source": "爱范儿",
+      "sourceIcon": "爱",
+      "title": "大模型狂飙的尽头，这家国产 GPU 厂商要把算力放在客厅",
+      "url": "https://www.ifanr.com/1666549",
+      "snippet": "全功能GPU，全场景AI算力。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
       "relatedProject": null
     },
     {
-      "source": "创业邦",
-      "sourceIcon": "创业邦",
-      "title": "融资丨全球首个原生范式通用具身大脑打造者眸深智能完成3亿元Pre-A轮融资",
-      "url": "http://www.cyzone.cn/article/833586.html",
-      "snippet": "眸深智能完成3亿元Pre-A轮融资，5倍超额认购。公司打造全球首个原生范式通用具身大脑，投资方包括国家绿色技术银行等。",
-      "date": "2026-05-15",
+      "source": "爱范儿",
+      "sourceIcon": "爱",
+      "title": "直降两万，标配空悬！魏牌 V9X 售价 34.98 万元起，提供六年整车质保",
+      "url": "https://www.ifanr.com/1666192",
+      "snippet": "魏牌V9X上市，长城旗下高端新能源SUV。",
+      "date": "2026-05-18",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "motionbrain"
+      "relatedProject": null
+    },
+    {
+      "source": "动点科技",
+      "sourceIcon": "动点",
+      "title": "医疗科技排名东南亚第一，泰国创业生态六年来首次跻身全球前50",
+      "url": "https://cn.technode.com/post/2026-05-21/thailand-startup-ecosystem-global-top-50-medtech-robotics/",
+      "snippet": "泰国创业生态升至全球第49位，医疗科技和机器人领域表现突出。",
+      "date": "2026-05-21",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
-      "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
-      "snippet": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
+      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+      "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+      "snippet": "纽约市长在Twitch上直播与市民对话。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "fresha"
+      "relatedProject": null
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "General Catalyst just led a $63M bet on India’s travel payments market",
-      "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
-      "snippet": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
+      "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
+      "url": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+      "snippet": "马斯克在SpaceX拥有超过50%的投票权，影响力超过其他科技创始人。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "scapia"
+      "relatedProject": null
     },
     {
       "source": "TechCrunch",
       "sourceIcon": "TC",
-      "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
-      "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
-      "snippet": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+      "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "snippet": "Convective Capital募集8500万美元基金，专注于灾害抵御技术。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,
-      "relatedProject": "imperagen"
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+      "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+      "snippet": "香水科技公司Patina获得200万美元融资，利用AI发现新香氛分子。",
+      "date": "2026-05-21",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "patina"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "snippet": "Spotify推出基于ElevenLabs的有声书创作工具。",
+      "date": "2026-05-21",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": null
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "snippet": "Hark获得7亿美元A轮融资，开发通用AI界面，计划今年夏天发布多模态模型。",
+      "date": "2026-05-21",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "hark"
+    },
+    {
+      "source": "TechCrunch",
+      "sourceIcon": "TC",
+      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
+      "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
+      "snippet": "Maka Kids获得300万美元种子轮融资，为0-6岁儿童提供健康发展的流媒体应用。",
+      "date": "2026-05-21",
+      "likes": 0,
+      "comments": 0,
+      "relatedProject": "makakids"
     },
     {
       "source": "TechNode",
       "sourceIcon": "TN",
       "title": "Tesla rolls out supervised Full Self-Driving in China in wider global push",
       "url": "https://technode.com/2026/05/21/tesla-rolls-out-supervised-full-self-driving-in-china-in-wider-global-push/",
-      "snippet": "Tesla announced that its Full Self-Driving system, FSD Supervised, has launched across multiple countries and regions worldwide, with China included in the rollout. The release covers more than a dozen markets across North America, Asia-Pacific, and Europe.",
+      "snippet": "特斯拉在中国推出监督版全自动驾驶系统，扩展全球市场。",
       "date": "2026-05-21",
       "likes": 0,
       "comments": 0,

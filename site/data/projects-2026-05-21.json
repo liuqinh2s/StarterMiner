@@ -464,7 +464,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "MattQR"
+            "twitter": "FlowHaa"
           },
           "careerPage": null,
           "jobListings": []
@@ -7208,7 +7208,7 @@
       },
       "score": 72,
       "discoveredAt": "2026-05-15",
-      "discussionCount": 1,
+      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-21",
         "website": {},
@@ -8635,73 +8635,34 @@
       }
     },
     {
-      "id": "luyu",
-      "name": "陆渔科技",
-      "desc": "用AI技术解决水产养殖不确定性，提供数据驱动的智慧渔业解决方案。",
-      "track": "agritech",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "农业科技",
-        "AI",
-        "水产养殖"
-      ],
-      "team": [
-        {
-          "name": "鲁敏",
-          "role": "联合创始人/CTO",
-          "bg": "18年IT行业经验，转型农业AI"
-        }
-      ],
-      "product": "",
-      "founded": "",
-      "funding": "未披露",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 55,
-        "market": 70
-      },
-      "score": 58,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
       "id": "pureblueai",
       "name": "PureblueAI清蓝",
-      "desc": "专注‘科学GEO’方法论，为企业提供AI口播与推荐场景下的品牌优化服务。",
+      "desc": "AI时代品牌推荐力优化服务商，专注生成式引擎优化（GEO）",
       "track": "ai",
       "stage": "seed",
-      "city": "other",
+      "city": "beijing",
       "tags": [
-        "AI营销",
         "GEO",
-        "品牌优化"
+        "AI营销",
+        "品牌推荐"
       ],
       "team": [
         {
           "name": "李铭",
           "role": "市场副总裁",
-          "bg": "未披露"
+          "bg": "AI营销领域"
         }
       ],
       "product": "",
       "founded": "",
-      "funding": "未披露",
+      "funding": "",
       "scores": {
         "tech": 60,
-        "growth": 55,
-        "team": 50,
-        "market": 65
+        "growth": 50,
+        "team": 40,
+        "market": 60
       },
-      "score": 58,
+      "score": 53,
       "discoveredAt": "2026-05-21",
       "discussionCount": 1,
       "contacts": {
@@ -8713,34 +8674,106 @@
       }
     },
     {
-      "id": "mierguang",
-      "name": "弥尔光半导体（北京）有限公司",
-      "desc": "下一代全光子无线通信核心光电器件研发商，获天使轮融资",
-      "track": "semiconductor",
-      "stage": "seed",
+      "id": "luyu",
+      "name": "陆渔科技",
+      "desc": "利用AI技术解决水产养殖不确定性，实现数字化管理",
+      "track": "ai",
+      "stage": "angel",
       "city": "beijing",
       "tags": [
-        "全光子无线",
-        "6G",
-        "光电子器件"
+        "农业AI",
+        "水产养殖",
+        "数字化"
       ],
       "team": [
         {
-          "name": "宗柏青",
-          "role": "首席科学家",
-          "bg": "博士，无线通信与光电子领域专家"
+          "name": "鲁敏",
+          "role": "联合创始人/CTO",
+          "bg": "18年IT经验"
         }
       ],
-      "product": null,
-      "founded": "2021-01",
-      "funding": "天使轮融资，信科资本、元禾控股等投资",
+      "product": "",
+      "founded": "",
+      "funding": "累计投入超3000万元（自筹）",
       "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 60,
-        "market": 75
+        "tech": 55,
+        "growth": 30,
+        "team": 50,
+        "market": 70
       },
-      "score": 66,
+      "score": 50,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yingbo",
+      "name": "北京英博数科科技有限公司",
+      "desc": "智算中心全栈解决方案提供商，定位'Token工厂'",
+      "track": "ai",
+      "stage": "b+",
+      "city": "beijing",
+      "tags": [
+        "智算中心",
+        "算力基础设施",
+        "Token经济"
+      ],
+      "team": [
+        {
+          "name": "宋琛",
+          "role": "副总经理",
+          "bg": "AI基础设施领域"
+        }
+      ],
+      "product": "",
+      "founded": "",
+      "funding": "",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 40,
+        "market": 70
+      },
+      "score": 55,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yitangkeji",
+      "name": "亦唐科技",
+      "desc": "高端贴片机领域国产替代，完成B++轮数亿元融资。",
+      "track": "hardtech",
+      "stage": "b+",
+      "city": "other",
+      "tags": [
+        "高端贴片机",
+        "国产替代",
+        "电子制造装备"
+      ],
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": "B++轮数亿元融资",
+      "scores": {
+        "tech": 60,
+        "growth": 50,
+        "team": 50,
+        "market": 60
+      },
+      "score": 55,
       "discoveredAt": "2026-05-21",
       "discussionCount": 0,
       "contacts": {
@@ -8752,28 +8785,94 @@
       }
     },
     {
-      "id": "youthshu",
-      "name": "上海酉术量子科技有限公司",
-      "desc": "全球首个Agent驱动全链路量子科学计算平台UnitaryLab 2.0发布",
-      "track": "other",
-      "stage": "seed",
-      "city": "shanghai",
+      "id": "shenjijizhi",
+      "name": "深度机智（北京机智赛博科技有限公司）",
+      "desc": "具身通用基座模型公司，多项公开评测榜首。",
+      "track": "ai",
+      "stage": "angel",
+      "city": "beijing",
       "tags": [
-        "量子计算",
-        "量子算法",
-        "Agent驱动"
+        "具身智能",
+        "基座模型",
+        "全栈能力"
+      ],
+      "team": [],
+      "product": null,
+      "founded": "2025-05",
+      "funding": "成立一年累计数亿元融资",
+      "scores": {
+        "tech": 85,
+        "growth": 70,
+        "team": 70,
+        "market": 75
+      },
+      "score": 76,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "yanhekeji",
+      "name": "炎和科技",
+      "desc": "钙钛矿光伏技术公司，完成A2轮数亿元融资。",
+      "track": "newenergy",
+      "stage": "a",
+      "city": "other",
+      "tags": [
+        "钙钛矿",
+        "光伏",
+        "太空光伏"
+      ],
+      "team": [],
+      "product": null,
+      "founded": null,
+      "funding": "A2轮数亿元融资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 75
+      },
+      "score": 70,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 0,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "xianglianggongzhen",
+      "name": "向量共振",
+      "desc": "提出AI品牌认知治理理论，专注GEO赛道。",
+      "track": "ai",
+      "stage": "idea",
+      "city": "other",
+      "tags": [
+        "AI品牌认知",
+        "GEO",
+        "品牌治理"
       ],
       "team": [],
       "product": null,
       "founded": null,
       "funding": null,
       "scores": {
-        "tech": 85,
+        "tech": 60,
         "growth": 40,
         "team": 50,
-        "market": 75
+        "market": 60
       },
-      "score": 62,
+      "score": 52,
       "discoveredAt": "2026-05-21",
       "discussionCount": 0,
       "contacts": {
@@ -8785,94 +8884,94 @@
       }
     },
     {
-      "id": "fresha",
-      "name": "Fresha",
-      "desc": "美容与健康预约平台，估值达10亿美元。",
+      "id": "patina",
+      "name": "Patina",
+      "desc": "香水科技公司，利用AI和机器学习发现新的香氛分子",
       "track": "consumer",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "beauty",
-        "booking",
-        "marketplace"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年5月获得KKR 8000万美元投资，估值超10亿美元。",
-      "scores": {
-        "tech": 50,
-        "growth": 70,
-        "team": 60,
-        "market": 80
-      },
-      "score": 64,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "scapia",
-      "name": "Scapia",
-      "desc": "印度旅行支付初创，结合旅行预订与联名信用卡。",
-      "track": "fintech",
-      "stage": "b+",
-      "city": "overseas",
-      "tags": [
-        "travel",
-        "payments",
-        "credit-card"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "2026年5月获General Catalyst领投6300万美元，估值超5亿美元。",
-      "scores": {
-        "tech": 50,
-        "growth": 70,
-        "team": 50,
-        "market": 75
-      },
-      "score": 61,
-      "discoveredAt": "2026-05-21",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-21",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "imperagen",
-      "name": "Imperagen",
-      "desc": "利用量子物理和AI进行酶工程改造的生物科技公司。",
-      "track": "biotech",
       "stage": "seed",
       "city": "overseas",
       "tags": [
-        "enzyme-engineering",
-        "quantum",
-        "ai"
+        "fragrance",
+        "AI",
+        "consumer"
       ],
       "team": [],
       "product": "",
       "founded": "",
-      "funding": "2026年5月获500万英镑（约670万美元）种子轮融资，由PXN Ventures领投。",
+      "funding": "获200万美元种子轮融资，Betaworks和True Ventures参投",
       "scores": {
-        "tech": 70,
+        "tech": 60,
         "growth": 40,
         "team": 50,
         "market": 60
       },
-      "score": 55,
+      "score": 52,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "hark",
+      "name": "Hark",
+      "desc": "秘密开发通用AI界面，计划推出多模态模型和专用硬件",
+      "track": "ai",
+      "stage": "a",
+      "city": "overseas",
+      "tags": [
+        "AI",
+        "multimodal",
+        "hardware"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "获7亿美元A轮融资",
+      "scores": {
+        "tech": 80,
+        "growth": 70,
+        "team": 50,
+        "market": 80
+      },
+      "score": 71,
+      "discoveredAt": "2026-05-21",
+      "discussionCount": 1,
+      "contacts": {
+        "fetchedAt": "2026-05-21",
+        "website": {},
+        "github": {},
+        "hiring": [],
+        "businessInfo": {}
+      }
+    },
+    {
+      "id": "makakids",
+      "name": "Maka Kids",
+      "desc": "为0-6岁儿童提供优化健康发展的流媒体应用",
+      "track": "consumer",
+      "stage": "seed",
+      "city": "overseas",
+      "tags": [
+        "kids",
+        "streaming",
+        "well-being"
+      ],
+      "team": [],
+      "product": "",
+      "founded": "",
+      "funding": "获300万美元种子轮融资",
+      "scores": {
+        "tech": 50,
+        "growth": 40,
+        "team": 50,
+        "market": 60
+      },
+      "score": 49,
       "discoveredAt": "2026-05-21",
       "discussionCount": 1,
       "contacts": {

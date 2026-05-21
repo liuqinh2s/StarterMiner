@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "MattQR"
+          "twitter": "FlowHaa"
         },
         "careerPage": null,
         "jobListings": []
@@ -3010,17 +3010,6 @@
     }
   },
   {
-    "id": "luyu",
-    "name": "陆渔科技",
-    "contacts": {
-      "fetchedAt": "2026-05-21",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
     "id": "pureblueai",
     "name": "PureblueAI清蓝",
     "contacts": {
@@ -3032,8 +3021,8 @@
     }
   },
   {
-    "id": "mierguang",
-    "name": "弥尔光半导体（北京）有限公司",
+    "id": "luyu",
+    "name": "陆渔科技",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
@@ -3043,8 +3032,8 @@
     }
   },
   {
-    "id": "youthshu",
-    "name": "上海酉术量子科技有限公司",
+    "id": "yingbo",
+    "name": "北京英博数科科技有限公司",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
@@ -3054,8 +3043,8 @@
     }
   },
   {
-    "id": "fresha",
-    "name": "Fresha",
+    "id": "yitangkeji",
+    "name": "亦唐科技",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
@@ -3065,8 +3054,8 @@
     }
   },
   {
-    "id": "scapia",
-    "name": "Scapia",
+    "id": "shenjijizhi",
+    "name": "深度机智（北京机智赛博科技有限公司）",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
@@ -3076,8 +3065,52 @@
     }
   },
   {
-    "id": "imperagen",
-    "name": "Imperagen",
+    "id": "yanhekeji",
+    "name": "炎和科技",
+    "contacts": {
+      "fetchedAt": "2026-05-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xianglianggongzhen",
+    "name": "向量共振",
+    "contacts": {
+      "fetchedAt": "2026-05-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "patina",
+    "name": "Patina",
+    "contacts": {
+      "fetchedAt": "2026-05-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "hark",
+    "name": "Hark",
+    "contacts": {
+      "fetchedAt": "2026-05-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "makakids",
+    "name": "Maka Kids",
     "contacts": {
       "fetchedAt": "2026-05-21",
       "website": {},
