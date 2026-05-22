@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
+    "summary": "大公司： Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲 投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经） 雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢 美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这笔交易原本有望打造一家市值近400亿美元的美妆时尚行业巨头。雅诗兰黛周四表示，双方已终止此次并购磋商，Puig也证实谈判宣告结束。（新浪财经） 优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车 5月22日，优步与印度跨国巨头JSW集团签署合作谅解备忘录，双方将共同研发并推广专为印度网约车市场定制的电动汽车解决方案。此次合作旨在通过提供符合当地运营环境、成本效益及性能预期的电动车型，加速优",
+    "url": "https://36kr.com/p/3816943010071427?f=rss",
+    "published": "2026-05-22 20:02:33  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "36氪",
     "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
     "summary": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。 AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。 以下为演讲内容，经36氪整理编辑： 赵晓鹏丨NIQ GfK创新事业部总经理 大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。 我今天的主题是 AI时代核心终端生态定位与用户需求洞察 ，主要分两部分来讲。 第一个话题是：当我们讨论AI的时候，我们在讨论哪些硬件？消费者又关心哪些特征？ AI与硬件是一个双向奔赴的过程。在我们看来，这可以分为四个阶段：第一阶段是探索期；第二阶段是智能工具期——大家应该都有印象，比如前几年AI语音交互突然爆发，涌现出很多新产品；第三阶段是深度融合期，AI和硬件结合更加紧密，已经进入了大家的手机、PC和平板。我们认为这还不是终局，未来会进入第",
     "url": "https://36kr.com/p/3820318177841541?f=rss",
@@ -75,46 +85,6 @@
     "summary": "当大健康产业遇上AI，最大的难题不是技术够不够强，而是场景够不够深、信任够不够厚。百度健康用六年时间给出了自己的答案：从单点智能走向全局协同，从技术赋能走向价值创造。 中国慢病人群超5亿，每千人执业医生数却远低于发达国家——供需矛盾之下，AI成为医疗健康供给侧改革的新基建。百度健康总经理杨明璐结合百度健康的实战经验，拆解了AI在用户、医生、医院三大场景的落地实践。AI不是炫技，而是让每一环都更专业、更可信 。 杨明璐作为百度健康品牌的创立者与搭建者，其在2019年底确立了该业务的战略方向与组织架构，2020年孵化了百度健康品牌，百度健康已成为全网最大的健康科普平台和领先的互联网医疗平台，平台每日服务1.3亿人次的健康精准搜索，拥有6亿+专业健康知识库，并与全国3300余名权威专家、430余家顶级医疗机构及36万名医生直连。其后一直带领团队深耕AI+健康赛道，她指出，过去两年AI行业经历了重要转变——从卷模型到卷应用，从关注参数到关注场景，而健康正是AI落地最重要的场景之一。AI正驱动大健康产业进入供需重构的新阶段，而生态协同与专业可信是AI落地的关键破局点。 杨明璐分析，从需求侧看，中",
     "url": "https://36kr.com/p/3820143885455751?f=rss",
     "published": "2026-05-22 15:32:35  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "36氪",
-    "title": "算力浪潮下，AI智能影像的无线化变革| 2026AI Partner·北京亦庄AI+产业大会",
-    "summary": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉终端的未来。 杨作兴带领神眸实现了摄像头功耗降低一个数量级的突破——第一代芯片达业界三分之一功耗，第二代达十分之一，首次用1瓦太阳能板驱动全天候智能摄像机。他认为，当前全球安防摄像头年出货量仅3到4亿只，但到2035年将达100亿只，2045年更将达1000亿只，因为世界大模型需要万亿级摄像头来实时映射物理世界。而在推理算力领域，杨作兴判断中国创业公司仍有大机会。 以下为演讲内容全文，经36氪整理编辑： 杨作兴丨杭州研极微电子有限公司董事长、神眸品牌创始人 大家下午好，今天非常开心，去年在上海参加了36氪的AI+大会，今天是第二次。一年时间过去了，AI发生了非常大的变化，大家都异常兴奋。36氪AI+大会，明显感觉到今年跟去年相比有很大的变化，在此感谢主办方36氪。 我是杭州研极微董事长、神眸品牌创始人杨作兴。AI是世界风暴的中心，这个风暴中心我们能不能再往深里看，风暴中心的眼是什么，我们认为是新质生产力。 目前，全球市值最高的公司是英伟达，它超越了苹果、微软、亚马逊、",
-    "url": "https://36kr.com/p/3818843802665862?f=rss",
-    "published": "2026-05-22 15:29:37  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "36氪",
-    "title": "AI+数字资产：激活企业沉睡数据，释放商业价值| 2026AI Partner·北京亦庄AI+产业大会",
-    "summary": "当AI开始帮投资机构“面试”企业、帮合作伙伴“背调”公司时，你的数据还在沉睡吗？艾迪普用22年经验告诉我们：AI时代的第一场战役，是数据治理战。 现在投资方、银行甚至客户都在用AI智能体“打听”你的企业——如果你的数据没有被主动整理、标注、推向市场，就等于在AI的“筛选网”里隐身。艾迪普推出元典大模型+企业数字资产专区，80%的整理工作可由AI完成，但安全底线不能丢——拒绝大厂直接索要工程文件，坚持在可信容器内训练。从品牌营销到内部Agent训练，数据只有封装、流转、使用，才能真正入表、增值。 以下为艾迪普创始人兼董事长 唐兴波 演讲内容，经36氪整理编辑： 唐兴波丨艾迪普创始人兼董事长 非常感谢大家能给我这个机会跟大家一起分享交流AI+数字资产的内容，我将围绕行业现状、破局路径、价值释放、愿景展望及公司概况展开分享。 分享主题之前，我想跟大家分享两件事： 一个是在上周，中国音乐学院的专家到访我们公司进行交流，一起探讨如何把中国音乐学院的资产，转化为高质量数据集，实现资产与价值变现的路径。他跟我表示，在来之前，他们已经通过豆包、DeepSeek、千问等大模型提前了解了艾迪普，还从这些模",
-    "url": "https://36kr.com/p/3820136301728135?f=rss",
-    "published": "2026-05-22 15:24:24  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "36氪",
-    "title": "海目星：拟出资2亿元参设产业基金，投资领域主要为新能源电池产业供应链及其他新兴产业领域的项目",
-    "summary": "36氪获悉，海目星公告，公司拟与凯博（湖北）私募基金管理有限公司、中创新航科技集团股份有限公司、果下科技股份有限公司、深圳市盛泽新材料有限公司及诺德新材料股份有限公司签署合伙协议，以自有资金与该等主体共同投资设立凯博共创（湖北）股权投资基金合伙企业（有限合伙）（简称“凯博基金”）。凯博基金设立时的首期规模为16亿元，其中公司作为有限合伙人认缴出资2亿元，占凯博基金认缴出资总额的12.50%。凯博基金的投资领域主要为新能源电池产业供应链及其他新兴产业领域的项目，经营期限为20年，自成立之日起算。",
-    "url": "https://36kr.com/newsflashes/3820352017977736?f=rss",
-    "published": "2026-05-22 19:03:02  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "36氪",
-    "title": "上交所：本周对360起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施",
-    "summary": "36氪获悉，据上交所发布，2026年5月18日至2026年5月22日，上交所对360起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对中韩半导体ETF、全球芯片LOF等溢价较高的基金，长盈通等严重异常波动股票、*ST正平等异常波动退市风险警示股票以及退市观典进行重点监控，对21起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索1起。",
-    "url": "https://36kr.com/newsflashes/3820347746111616?f=rss",
-    "published": "2026-05-22 18:58:41  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-22"
@@ -271,6 +241,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "宿迁的机器人导师军团，正炼制千万小时“数字燃料”",
+    "summary": "具身智能最终竞争的，不只是模型能力，更是谁能持续获得大规模真实场景中的第一视角人类数据。",
+    "url": "https://www.tmtpost.com/7999182.html",
+    "published": "Fri, 22 May 2026 20:27:13 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "钛媒体",
     "title": "继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考",
     "summary": "当中国人形机器人以“现实主义”打法进入硅谷，具身智能企业出海的四种路径逐渐清晰。",
     "url": "https://www.tmtpost.com/7999065.html",
@@ -295,16 +275,6 @@
     "summary": "星链堪比印钞机，但不必完全神话它",
     "url": "https://www.tmtpost.com/7999070.html",
     "published": "Fri, 22 May 2026 18:02:56 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "钛媒体",
-    "title": "阿里的AI大模型与平头哥，为何叫好不叫座",
-    "summary": "阿里的AI价值，只是还没被资本真正读懂。",
-    "url": "https://www.tmtpost.com/7998726.html",
-    "published": "Fri, 22 May 2026 17:07:41 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-22"
@@ -351,80 +321,50 @@
   },
   {
     "source": "TechCrunch",
+    "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+    "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+    "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+    "published": "Fri, 22 May 2026 22:55:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "published": "Fri, 22 May 2026 20:40:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+    "published": "Fri, 22 May 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta quietly launches a new Reddit-like app called Forum",
+    "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
+    "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+    "published": "Fri, 22 May 2026 14:24:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "TechCrunch",
     "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
     "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
     "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
     "published": "Fri, 22 May 2026 00:07:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-    "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-    "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-    "published": "Thu, 21 May 2026 21:00:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "How Elon Musk will increase his power through the SpaceX IPO",
-    "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-    "url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-    "published": "Thu, 21 May 2026 19:35:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
-    "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
-    "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
-    "published": "Thu, 21 May 2026 17:41:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-    "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-    "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-    "published": "Thu, 21 May 2026 16:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-    "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-    "published": "Thu, 21 May 2026 15:27:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-    "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-    "published": "Thu, 21 May 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
-    "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
-    "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
-    "published": "Thu, 21 May 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-22"
@@ -570,17 +510,193 @@
     "fetchedAt": "2026-05-22"
   },
   {
-    "source": "V2EX",
-    "title": "Cursor 的 Debug 模式误删我 E 盘 921GB 文件",
-    "summary": "大家慎用 Windows 系统下 Cursor 的 Debug 模式。 我已被 Cursor 误删 E 盘上 921GB 的重要数据。我有备份，但最新备份是 2024 年的。 手机码字，电脑在恢复数据，不敢再开任何应用。事故现场截图我等数据恢复完再贴上。事发过程简述如下。 近日业余时间，本来在用 Cursor 愉快地 「 vibe coding 」一个有趣的个人开源项目（此处我必须模糊表述，想留点悬念，等数据恢复处理完，收收尾会发布。本来憋了个大的准备发布时发个帖子，还想象了项目发布后和其他 V 友一样获得点关注，没想到最后关头 Cursor 给我拉了坨大的。但我不恨 Cur",
-    "url": "https://www.v2ex.com/t/1214556",
-    "published": 1779399976,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-05-22",
-    "meta": {
-      "replies": 84,
-      "node": "Cursor"
-    }
+    "source": "Hacker News",
+    "title": "Starship Launch – Everyday Astronaut [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=odWYDx3u8A4 Comments URL: https://news.ycombinator.com/item?id=48242388 Points: 5 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=odWYDx3u8A4",
+    "published": "Fri, 22 May 2026 22:21:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sam Altman's startup is hoping Jared Leto's band will make you scan your eyeball",
+    "summary": "Article URL: https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/ Comments URL: https://news.ycombinator.com/item?id=48242137 Points: 2 # Comments: 1",
+    "url": "https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/",
+    "published": "Fri, 22 May 2026 21:49:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+    "summary": "Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset ( https://github.com/superset-sh/superset ), an open-source agentic IDE for running coding agents like Claude Code, Codex, OpenCode etc in parallel. Demo: https://www.youtube.com/watch?v=YWDHn7gUwfg Try it: https://superset.sh/ We’re three engineers who’ve built and maintained large codebases, and we kept wanting to work on more than one thing at a time. Once CLI coding agents got good enough we found ourselves running several of them i",
+    "url": "https://github.com/superset-sh/superset",
+    "published": "Fri, 22 May 2026 14:53:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Videowright – we made our launch video with Claude Code (open source)",
+    "summary": "Article URL: https://github.com/scosman/videowright Comments URL: https://news.ycombinator.com/item?id=48235808 Points: 1 # Comments: 0",
+    "url": "https://github.com/scosman/videowright",
+    "published": "Fri, 22 May 2026 13:46:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rocket Lab announces five-launch Neutron deal as it aims for late 2026 debut",
+    "summary": "Article URL: https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/ Comments URL: https://news.ycombinator.com/item?id=48234306 Points: 2 # Comments: 0",
+    "url": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/",
+    "published": "Fri, 22 May 2026 11:14:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX scrubs first launch attempt of its Starship Version 3 rocket",
+    "summary": "Article URL: https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/ Comments URL: https://news.ycombinator.com/item?id=48234229 Points: 1 # Comments: 0",
+    "url": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
+    "published": "Fri, 22 May 2026 11:03:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding Rate Arbitrage on Crypto Perpetuals: Implementation and Backtest",
+    "summary": "Article URL: https://medium.com/@DolphinDB_Inc/profiting-from-perpetuals-implementing-a-funding-rate-arbitrage-strategy-with-backtesting-e8b9b8766ac1 Comments URL: https://news.ycombinator.com/item?id=48233392 Points: 2 # Comments: 0",
+    "url": "https://medium.com/@DolphinDB_Inc/profiting-from-perpetuals-implementing-a-funding-rate-arbitrage-strategy-with-backtesting-e8b9b8766ac1",
+    "published": "Fri, 22 May 2026 08:31:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sylph – the open-source company brain behind my YC startup",
+    "summary": "Hello HN! I'm Claire, founder of nao Labs (YC X25). Two months ago I started building a company brain in a git repo. Now I fully run my company with 8 AI agents, 20+ skills, and a self-learning context repo. I built it in a git repo because I refused to lock into any tool - not a context layer, not a specific agent harness. Today I'm open sourcing it so others can build their own. Sylph is the open source version of the company brain I use. It gives you the structure to host your own company con",
+    "url": "https://github.com/getnao/sylph",
+    "published": "Fri, 22 May 2026 06:02:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX tries to launch a bigger Starship, hits a series of last-minute problems",
+    "summary": "Article URL: https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17 Comments URL: https://news.ycombinator.com/item?id=48232291 Points: 2 # Comments: 0",
+    "url": "https://apnews.com/article/spacex-musk-starship-rocket-launch-eee2fd12d03e7c3c2e24753eb80c0d17",
+    "published": "Fri, 22 May 2026 05:21:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ground equipment problem scrubs Starship launch attempt",
+    "summary": "Article URL: https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/ Comments URL: https://news.ycombinator.com/item?id=48231134 Points: 2 # Comments: 0",
+    "url": "https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/",
+    "published": "Fri, 22 May 2026 02:05:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX Set to Launch Upgraded Starship on Pre-IPO Test Flight",
+    "summary": "Article URL: https://www.wsj.com/business/spacex-starship-v3-launch-6cd89008 Comments URL: https://news.ycombinator.com/item?id=48229567 Points: 5 # Comments: 2",
+    "url": "https://www.wsj.com/business/spacex-starship-v3-launch-6cd89008",
+    "published": "Thu, 21 May 2026 22:24:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Starship launch today, May 21, 2026",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live Comments URL: https://news.ycombinator.com/item?id=48228459 Points: 4 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live",
+    "published": "Thu, 21 May 2026 20:27:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Robotic Servicing of Geosynchronous Satellites technology to launch in 2026",
+    "summary": "Article URL: https://www.darpa.mil/news/2026/robotic-servicing-geosynchronous-satellites-technology-launch-2026 Comments URL: https://news.ycombinator.com/item?id=48225799 Points: 3 # Comments: 0",
+    "url": "https://www.darpa.mil/news/2026/robotic-servicing-geosynchronous-satellites-technology-launch-2026",
+    "published": "Thu, 21 May 2026 16:56:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+    "summary": "Hey HN, We're Gus and Carlos from Runtime ( https://runtm.com ). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session. After Mentum (YC S21) was acquired, I personally shipped 4 full-stack products in 3 months using coding agents. When I tried to roll the same workflow out to the rest of the team, it fell apart: Most PRs were unmergeable slop - Every repo required an engineer d",
+    "url": "https://www.runtm.com/",
+    "published": "Thu, 21 May 2026 16:07:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How we made our launch video with Claude Code (and open-sourced the tool)",
+    "summary": "Article URL: https://kiln.tech/blog/we_made_our_launch_video_in_claude_code Comments URL: https://news.ycombinator.com/item?id=48223369 Points: 3 # Comments: 0",
+    "url": "https://kiln.tech/blog/we_made_our_launch_video_in_claude_code",
+    "published": "Thu, 21 May 2026 14:35:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Build a Tech Startup When You Barely Know What a Boolean Is",
+    "summary": "Article URL: https://bwanaerp.medium.com/how-to-build-a-tech-startup-when-you-barely-know-what-a-boolean-is-vibe-f-cking-coding-c9124a2a28f1 Comments URL: https://news.ycombinator.com/item?id=48219452 Points: 2 # Comments: 0",
+    "url": "https://bwanaerp.medium.com/how-to-build-a-tech-startup-when-you-barely-know-what-a-boolean-is-vibe-f-cking-coding-c9124a2a28f1",
+    "published": "Thu, 21 May 2026 08:20:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sam Altman makes 'mic drop' offer to every Y Combinator startup",
+    "summary": "Article URL: https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/ Comments URL: https://news.ycombinator.com/item?id=48214722 Points: 42 # Comments: 31",
+    "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+    "published": "Wed, 20 May 2026 21:53:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX punts Starship launch as investigation opens into Starbase worker's death",
+    "summary": "Article URL: https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/ Comments URL: https://news.ycombinator.com/item?id=48213550 Points: 38 # Comments: 26",
+    "url": "https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/",
+    "published": "Wed, 20 May 2026 20:21:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Fundraising, just like Dating, are both deeply inefficient markets",
+    "summary": "Article URL: https://intercoin.org/matchmaking.html Comments URL: https://news.ycombinator.com/item?id=48212258 Points: 4 # Comments: 0",
+    "url": "https://intercoin.org/matchmaking.html",
+    "published": "Wed, 20 May 2026 18:49:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-22"
   }
 ]
