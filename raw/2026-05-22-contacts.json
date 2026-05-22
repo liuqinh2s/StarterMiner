@@ -1550,12 +1550,12 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
-          "advertise@latitudemedia.com",
-          "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
           "opencircuit@latitudemedia.com",
           "politicalclimatepodcast@gmail.com",
-          "events@latitudemedia.com"
+          "events@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -3119,83 +3119,6 @@
   },
   {
     "id": "makakids",
-    "name": "Maka Kids",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "jingaodianjing",
-    "name": "京奥电竞（北京）科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zhiyujishi",
-    "name": "智域基石",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "naojuchang",
-    "name": "闹剧场",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "zkdx",
-    "name": "北京中科沌序科技有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "merlight",
-    "name": "弥尔光半导体（北京）有限公司",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "vectorresonance",
-    "name": "向量共振",
-    "contacts": {
-      "fetchedAt": "2026-05-22",
-      "website": {},
-      "github": {},
-      "hiring": [],
-      "businessInfo": {}
-    }
-  },
-  {
-    "id": "maka-kids",
     "name": "Maka Kids",
     "contacts": {
       "fetchedAt": "2026-05-22",

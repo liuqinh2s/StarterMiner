@@ -81,7 +81,7 @@
       },
       "score": 90,
       "discoveredAt": "2026-04-25",
-      "discussionCount": 4,
+      "discussionCount": 3,
       "contacts": {
         "fetchedAt": "2026-05-22",
         "website": {
@@ -976,7 +976,7 @@
       },
       "score": 74,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 8,
+      "discussionCount": 7,
       "contacts": {
         "fetchedAt": "2026-05-22",
         "website": {},
@@ -1009,7 +1009,7 @@
       },
       "score": 65,
       "discoveredAt": "2026-04-27",
-      "discussionCount": 8,
+      "discussionCount": 7,
       "contacts": {
         "fetchedAt": "2026-05-22",
         "website": {},
@@ -4226,12 +4226,12 @@
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
-            "advertise@latitudemedia.com",
-            "editors@latitudemedia.com",
-            "careers@latitudemedia.com",
             "opencircuit@latitudemedia.com",
             "politicalclimatepodcast@gmail.com",
-            "events@latitudemedia.com"
+            "events@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -8983,261 +8983,6 @@
       "score": 49,
       "discoveredAt": "2026-05-21",
       "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "jingaodianjing",
-      "name": "京奥电竞（北京）科技有限公司",
-      "desc": "AI赋能电竞全流程，运营北京智慧电竞中心",
-      "track": "other",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "AI",
-        "电竞",
-        "智慧场馆"
-      ],
-      "team": [
-        {
-          "name": "叶靖波",
-          "role": "董事长",
-          "bg": "未知"
-        }
-      ],
-      "product": "",
-      "founded": "未知",
-      "funding": "未披露",
-      "scores": {
-        "tech": 50,
-        "growth": 50,
-        "team": 50,
-        "market": 70
-      },
-      "score": 54,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zhiyujishi",
-      "name": "智域基石",
-      "desc": "具身智能数据供给与技能结构化解决方案",
-      "track": "robotics",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "具身智能",
-        "数据工程",
-        "机器人"
-      ],
-      "team": [
-        {
-          "name": "徐良威",
-          "role": "CTO",
-          "bg": "中关村学院助理教授？"
-        }
-      ],
-      "product": "",
-      "founded": "未知",
-      "funding": "未披露",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 55,
-        "market": 60
-      },
-      "score": 56,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "naojuchang",
-      "name": "闹剧场",
-      "desc": "喜剧培训与内容创作，将喜剧转化为可复制的方法论",
-      "track": "consumer",
-      "stage": "angel",
-      "city": "beijing",
-      "tags": [
-        "喜剧",
-        "培训",
-        "内容创作"
-      ],
-      "team": [
-        {
-          "name": "阿球",
-          "role": "创始人",
-          "bg": "同济土木毕业，喜剧演员/指导"
-        }
-      ],
-      "product": "",
-      "founded": "未知",
-      "funding": "未披露",
-      "scores": {
-        "tech": 40,
-        "growth": 60,
-        "team": 65,
-        "market": 55
-      },
-      "score": 54,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 1,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "zkdx",
-      "name": "北京中科沌序科技有限公司",
-      "desc": "脱胎于中科院自动化所的群体通用人工智能（Collective AGI）公司",
-      "track": "ai",
-      "stage": "angel",
-      "city": "beijing",
-      "tags": [
-        "通用人工智能",
-        "群体智能",
-        "中科院"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "天使轮数千万人民币，首程资本领投，钧犀资本、顺禧基金跟投",
-      "scores": {
-        "tech": 75,
-        "growth": 50,
-        "team": 80,
-        "market": 70
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "merlight",
-      "name": "弥尔光半导体（北京）有限公司",
-      "desc": "专注于下一代通信系统核心光电子器件的研发",
-      "track": "semiconductor",
-      "stage": "seed",
-      "city": "beijing",
-      "tags": [
-        "光电子",
-        "6G",
-        "光子通信"
-      ],
-      "team": [
-        {
-          "name": "宗柏青",
-          "role": "首席科学家",
-          "bg": "博士"
-        }
-      ],
-      "product": "",
-      "founded": "2021",
-      "funding": "天使轮融资，信科资本、元禾控股等投资",
-      "scores": {
-        "tech": 80,
-        "growth": 50,
-        "team": 75,
-        "market": 70
-      },
-      "score": 68,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "vectorresonance",
-      "name": "向量共振",
-      "desc": "AI品牌认知治理服务商",
-      "track": "ai",
-      "stage": "seed",
-      "city": "other",
-      "tags": [
-        "GEO",
-        "品牌治理",
-        "AI营销"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "",
-      "scores": {
-        "tech": 60,
-        "growth": 50,
-        "team": 50,
-        "market": 65
-      },
-      "score": 56,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 0,
-      "contacts": {
-        "fetchedAt": "2026-05-22",
-        "website": {},
-        "github": {},
-        "hiring": [],
-        "businessInfo": {}
-      }
-    },
-    {
-      "id": "maka-kids",
-      "name": "Maka Kids",
-      "desc": "为0-6岁儿童打造的健康流媒体应用，获300万美元种子融资。",
-      "track": "consumer",
-      "stage": "seed",
-      "city": "overseas",
-      "tags": [
-        "kids",
-        "streaming",
-        "well-being"
-      ],
-      "team": [],
-      "product": "",
-      "founded": "",
-      "funding": "$3 million seed round",
-      "scores": {
-        "tech": 50,
-        "growth": 55,
-        "team": 50,
-        "market": 60
-      },
-      "score": 54,
-      "discoveredAt": "2026-05-22",
-      "discussionCount": 0,
       "contacts": {
         "fetchedAt": "2026-05-22",
         "website": {},
