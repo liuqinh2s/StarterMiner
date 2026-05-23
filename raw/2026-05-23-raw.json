@@ -62,7 +62,7 @@
   {
     "source": "36氪",
     "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
-    "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试���人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底层能力平台，可以让企业用业务语言描述需求，具有快速响应、个性化定制和安全上线等能力。 图片来源：Moka 团队介绍 Moka联合创始人兼CEO李国兴，本科阶段获得上海交大和密歇根大学计算机双学位，后取得斯坦福大学计算机硕士学位。曾任职于Facebook和智能数据监控公司SignalFx。2015年回国创办Moka，并带领公司从招聘管理系统起步，逐步将AI Agent引入招聘、人事和组织管理等HR场景。 融资进展 此前已完成老虎环球基金领投的C轮一亿美元融资。总融资规模近1.5亿美元。 产品及业务 去年，脉脉高聘人才智库发布的《2025年度人才迁徙报告",
+    "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底层能力平台，可以让企业用业务语言描述需求，具有快速响应、个性化定制和安全上线等能力。 图片来源：Moka 团队介绍 Moka联合创始人兼CEO李国兴，本科阶段获得上海交大和密歇根大学计算机双学位，后取得斯坦福大学计算机硕士学位。曾任职于Facebook和智能数据监控公司SignalFx。2015年回国创办Moka，并带领公司从招聘管理系统起步，逐步将AI Agent引入招聘、人事和组织管理等HR场景。 融资进展 此前已完成老虎环球基金领投的C轮一亿美元融资。总融资规模近1.5亿美元。 产品及业务 去年，脉脉高聘人才智库发布的《2025年度人才迁徙报告》显",
     "url": "https://36kr.com/p/3819979202253189?f=rss",
     "published": "2026-05-23 10:00:00  +0800",
     "lang": "zh",
@@ -270,26 +270,6 @@
     "fetchedAt": "2026-05-23"
   },
   {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（5月23日）",
-    "summary": "英特尔发布SuperClaw混合智能体方案降低70%云端Token消耗，重塑企业AI成本结构；英伟达、AMD、英特尔参投AI初创Hark完成7亿美元A轮融资；铜市场结构性转变，AI基础设施成需求新支柱；荷兰控制权争端触发全球汽车芯片供应链危机，Nexperia占40%市场份额；海湾地区AI热潮面临海底电缆基础设施瓶颈。",
-    "url": "https://www.tmtpost.com/7999694.html",
-    "published": "Sat, 23 May 2026 09:14:19 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "钛媒体",
-    "title": "智谱凭什么一天暴涨近30%？",
-    "summary": "这个方向一旦走通，会大幅降低国产 AI 芯片在推理场景的软件栈门槛。",
-    "url": "https://www.tmtpost.com/7999430.html",
-    "published": "Sat, 23 May 2026 09:09:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜国产手机618前集体降价/微信解释「2 分钟内可撤回」/买智能手表以后不能再刷医保",
     "summary": "· DeepSeek 700 亿融资曝光 · 1688 商家遭遇 2.36 万元「仅退款」，跨省维权后追回货款 · 三星内存芯片员工达成临时奖金协议，平均奖金可达 34 万美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -336,6 +316,16 @@
     "url": "https://cn.technode.com/post/2026-05-21/thailand-startup-ecosystem-global-top-50-medtech-robotics/",
     "published": "Thu, 21 May 2026 09:14:02 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+    "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+    "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+    "published": "Sat, 23 May 2026 14:50:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-23"
   },
@@ -390,151 +380,11 @@
     "fetchedAt": "2026-05-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-    "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
-    "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
-    "published": "Fri, 22 May 2026 00:07:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tech Odyssey Series: Who writes the first cheque for Portugal’s youngest startups?",
-    "summary": "Previous on Tech Odyssey: In our last episode, we went to the University of Porto, INESC TEC, and UPTEC to see how research can move from the lab into startups. This time, we look at what often comes next: who backs those companies when they are still too early for most investors. When a startup […]",
-    "url": "https://technode.com/2026/05/22/tech-odyssey-series-who-writes-the-first-cheque-for-portugals-youngest-startups/",
-    "published": "Fri, 22 May 2026 08:12:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tesla rolls out supervised Full Self-Driving in China in wider global push",
-    "summary": "Tesla announced that its Full Self-Driving system, FSD Supervised, has launched across multiple countries and regions worldwide, with China included in the rollout. The release covers more than a dozen markets across North America, Asia-Pacific, and Europe. The launch marks another step in Tesla’s push to expand its advanced driver-assistance technology beyond the US, even […]",
-    "url": "https://technode.com/2026/05/21/tesla-rolls-out-supervised-full-self-driving-in-china-in-wider-global-push/",
-    "published": "Thu, 21 May 2026 02:27:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month",
-    "summary": "China Telecom has launched nationwide trial commercial Token subscription plans, marking an accelerated shift by telecom operators from selling data traffic to offering computing power services. The packages are divided into three plans for developers and small businesses, ranging from 39.9 yuan ($5.50) per month for 15 million Tokens to 299.9 yuan ($41.50) for 150 […]",
-    "url": "https://technode.com/2026/05/18/china-telecom-launches-trial-ai-token-subscription-plans-starting-at-1-4-per-month/",
-    "published": "Mon, 18 May 2026 02:26:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Oppo and Vivo gear up for year-end gimbal camera launches to take on DJI’s Pocket series",
-    "summary": "Oppo and Vivo are also reportedly developing their own Pocket-style handheld gimbal cameras, with launches expected before the end of this year, according to China Star Market. The report said both companies aim to leverage their strengths in imaging algorithms, AI features, and ecosystem integration to enter the lightweight video creation market and further expand […]",
-    "url": "https://technode.com/2026/05/15/oppo-and-vivo-gear-up-for-year-end-gimbal-camera-launches-to-take-on-djis-pocket-series/",
-    "published": "Fri, 15 May 2026 07:33:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
-    "summary": "TikTok launched its lifestyle services brand, TikTok GO, in Indonesia, the US and Japan, marking a further push into travel and local commerce. The company said TikTok GO allows users to discover and book hotels, attractions, dining and travel experiences directly within the app. The feature was first introduced in Indonesia in late April before […]",
-    "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
-    "published": "Thu, 14 May 2026 07:40:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Elon Musk praises Unitree’s rideable mech GD01, calls it “cool”",
-    "summary": "On Wednesday, Elon Musk praised Chinese robotics firm Unitree Robotics’ newly unveiled GD01 rideable mech on social media, calling the product “cool.” The Hangzhou-based company on Tuesday launched what it described as the world’s first mass-produced rideable transforming mech, with a starting price of 3.9 million yuan ($540,000). Unitree said the GD01 is designed as […]",
-    "url": "https://technode.com/2026/05/14/elon-musk-praises-unitrees-rideable-mech-gd01-calls-it-cool/",
-    "published": "Thu, 14 May 2026 07:09:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Baidu Create 2026: CEO says AI focus is moving from models to AI agents, foresees rise of super individuals",
-    "summary": "On Wednesday, the Create 2026 Baidu AI Developer Conference, themed Agents at Scale, opened in Beijing. During the opening ceremony, Robin Li, founder of Baidu, delivered a keynote speech centered on self-evolution, which he described as a defining theme of the AI era. The company also unveiled several AI products focused on intelligent agents and […]",
-    "url": "https://technode.com/2026/05/14/baidu-create-2026-ceo-says-ai-is-moving-from-model-competition-to-ai-agent-era-foresees-rise-of-super-individuals/",
-    "published": "Thu, 14 May 2026 01:10:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Antibody discovery platform Immunocan closes RMB250 million Series A",
-    "summary": "Shanghai-based Immunocan has closed a RMB250 million Series A round led by Vivo Capital, with participation from Gold Mine Multi Family Office and follow-on backing from existing investors including Kingray Capital and TigerYeah Capital. The company said the funds will be used to advance its gene-edited animal platforms, commercialize its fully human antibody rabbit platform, […]",
-    "url": "https://technode.com/2026/05/13/antibody-discovery-platform-immunocan-closes-rmb250-million-series-a/",
-    "published": "Wed, 13 May 2026 02:39:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "PARIS’ VIVATECH ENTERS A NEW DIMENSION FOR ITS 10TH ANNIVERSARY",
-    "summary": "From June 17 to 20 June 2026, Porte de Versailles (Paris) will host the 10th edition of VivaTech, Europe’s largest event dedicated to startups and technology. The event has established itself as an unmissable meeting platform for the tech world, at the crossroads of innovation, business and the most important debates around technology, with AI at […]",
-    "url": "https://technode.com/2026/05/08/paris-vivatech-enters-a-new-dimension-for-its-10th-anniversary/",
-    "published": "Fri, 08 May 2026 10:16:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Kimi reportedly nears $2 billion funding round at over $20 billion valuation",
-    "summary": "Kimi developer Moonshot AI is close to completing a new $2 billion funding round that would value the company at more than $20 billion, according to LatePost. The round is reportedly led by Meituan’s Long-Z Fund, with China Mobile and CPE joining as investors. Moonshot AI had already completed three funding rounds in January and […]",
-    "url": "https://technode.com/2026/05/07/kimi-reportedly-nears-2-billion-funding-round-at-over-20-billion-valuation/",
-    "published": "Thu, 07 May 2026 03:06:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek reportedly seeks first funding round at $45 billion valuation",
-    "summary": "China’s state-backed semiconductor investment vehicle, known as the Big Fund, is in talks to lead DeepSeek’s first external fundraising, which could value the AI company at about $45 billion, according to the Financial Times. Tencent is also among the investors still in discussions, though the final lineup has not been decided. The reported valuation is […]",
-    "url": "https://technode.com/2026/05/07/deepseek-reportedly-seeks-first-funding-round-at-45-billion-valuation/",
-    "published": "Thu, 07 May 2026 02:40:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Telecom giant China Mobile to launch AI-eSIM product",
-    "summary": "China Mobile said it will unveil its AI-eSIM product at the 2026 Mobile Cloud Conference, set to take place in Suzhou from May 7 to 9, as the state-owned telecom giant steps up efforts to integrate AI into connected devices. The AI-eSIM integrates what the company describes as an “intelligent brain,” capable of dynamically dispatching […]",
-    "url": "https://technode.com/2026/05/06/telecom-giant-china-mobile-to-launch-ai-esim-product/",
-    "published": "Wed, 06 May 2026 02:26:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Betting on human augmentation, will lightweight exoskeletons go mainstream?",
-    "summary": "Hypershell is trying to carve out a new category at the intersection of wearables and robotics. The Chinese startup focuses on lightweight exoskeletons for outdoor and everyday use, built around lower-limb assistance. Its system combines motors and onboard sensors to add power when walking or climbing, easing strain and improving efficiency. In form, it feels […]",
-    "url": "https://technode.com/2026/04/30/betting-on-human-augmentation-will-lightweight-exoskeletons-go-mainstream/",
-    "published": "Thu, 30 Apr 2026 08:08:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Oppo merges OnePlus and realme in major restructuring",
-    "summary": "An internal Oppo announcement revealed a major restructuring: OnePlus and realme have been formally merged to form a new sub-brand business unit. Li Bingzhong, founder of realme and Senior Vice President of Oppo, will head the unit, while Xu Qi, formerly President of realme’s global marketing and sales, will oversee the integrated marketing system for […]",
-    "url": "https://technode.com/2026/04/30/oppo-merges-oneplus-and-realme-in-major-restructuring/",
-    "published": "Thu, 30 Apr 2026 02:18:06 +0000",
+    "source": "Hacker News",
+    "title": "Show HN: A satirical idle game about running an AI startup",
+    "summary": "I made an idle/clicker about running an AI startup. You start with a cat-vs-dog classifier and try to make it to AGI, but the NYT sues you for training data, Yann tweets that scaling is dead, and your fired ML engineer leaks the Slack. Comments URL: https://news.ycombinator.com/item?id=48250237 Points: 6 # Comments: 0",
+    "url": "https://game.trae.academy/",
+    "published": "Sat, 23 May 2026 18:54:50 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-23"
@@ -720,16 +570,6 @@
     "fetchedAt": "2026-05-23"
   },
   {
-    "source": "Hacker News",
-    "title": "Sam Altman makes 'mic drop' offer to every Y Combinator startup",
-    "summary": "Article URL: https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/ Comments URL: https://news.ycombinator.com/item?id=48214722 Points: 42 # Comments: 31",
-    "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-    "published": "Wed, 20 May 2026 21:53:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-23"
-  },
-  {
     "source": "V2EX",
     "title": "作为程序员，你愿意为“0 AI 代码介入”的汽车支付溢价吗？",
     "summary": "大家好，我是做嵌入式开发的。先给纯软方向的同学铺垫个背景：基本上现在能通电的设备都会带 MCU ，也都有代码在上面运行。 结合目前的行业现状，我想和大家探讨一个细思极恐的问题： ### **现状：防不胜防，汽车底层代码正被 AI 全面渗透** 我可以很肯定地说，只要是今年新出的车，100% 已经包含了 AI 生成的代码。而且很多时候，这已经是避无可避的： * **上游污染（被动使用）：** 现在的 AI 渗透是全方位的，很多 MCU 原厂提供的 SDK 源码里，本身就已经混入了 AI 生成的代码。哪怕下游车企的程序员完全不用 AI ，只要基于官方库做开发，就已经“被动”使用了",
@@ -739,7 +579,7 @@
     "type": "community",
     "fetchedAt": "2026-05-23",
     "meta": {
-      "replies": 48,
+      "replies": 67,
       "node": "汽车"
     }
   }
