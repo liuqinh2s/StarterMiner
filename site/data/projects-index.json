@@ -1,7 +1,8 @@
 {
-  "lastUpdate": "2026-05-22",
+  "lastUpdate": "2026-05-23",
   "totalProjects": 237,
   "files": [
+    "projects-2026-05-23.json",
     "projects-2026-05-22.json",
     "projects-2026-05-21.json",
     "projects-2026-05-20.json",
@@ -31,5 +32,5 @@
     "projects-2026-04-26.json",
     "projects-2026-04-25.json"
   ],
-  "generatedAt": "2026-05-22T23:31:45.256262"
+  "generatedAt": "2026-05-23T04:31:51.941290"
 }
