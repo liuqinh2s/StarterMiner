@@ -42,7 +42,7 @@
   {
     "source": "36氪",
     "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-    "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？ 一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。 以下为圆桌对话内容，经36氪整理编辑： 郑王宇丨36氪基金投资副总裁（主持） 龚毅丨尼尔森IQ 通信及科技业务总经理 罗飞丨华科智能AI研究院院长 林海卓丨卓源亚洲创始合伙人、董事�� 郑王宇： 各位老师好，我们今天一起讨论“当AI进入产业前线：未来最稀缺的AI人才会是谁”，谁会是行业的新贵。把行业翘楚聚集在这里很难得，请各位嘉宾用一句话亮个相，并带着您的视角参与接下来的讨论。 龚毅： 大家好，我是尼尔森IQ的龚毅，我们所处的行业是数据洞察行业，今天我谈论的点从这个行业出发。 罗飞： 大家好，我是华科智能的罗飞，是一家港股上市公司，主要做投资。我所在的研究院主要是赋能传统行业的AI转型，做培训、咨",
+    "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？ 一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。 以下为圆桌对话内容，经36氪整理编辑： 郑王宇丨36氪基金投资副总裁（主持） 龚毅丨尼尔森IQ 通信及科技业务总经理 罗飞丨华科智能AI研究院院长 林海卓丨卓源亚洲创始合伙人、董事长 郑王宇： 各位老师好，我们今天一起讨论“当AI进入产业前线：未来最稀缺的AI人才会是谁”，谁会是行业的新贵。把行业翘楚聚集在这里很难得，请各位嘉宾用一句话亮个相，并带着您的视角参与接下来的讨论。 龚毅： 大家好，我是尼尔森IQ的龚毅，我们所处的行业是数据洞察行业，今天我谈论的点从这个行业出发。 罗飞： 大家好，我是华科智能的罗飞，是一家港股上市公司，主要做投资。我所在的研究院主要是赋能传统行业的AI转型，做培训、咨询",
     "url": "https://36kr.com/p/3821542483857801?f=rss",
     "published": "2026-05-23 15:14:29  +0800",
     "lang": "zh",
@@ -101,40 +101,50 @@
   },
   {
     "source": "36氪",
-    "title": "“高中签率”新股 储能BMS龙头来了",
-    "summary": "根据目前的发行安排，下周有2只新股申购，北交所、创业板各有1只。日程安排上，周一（5月25日）可申购北交所新股新睿电子，周五（5月29日）可申购创业板新股高特电子。其中，高特电子是储能BMS（电池管理系统）龙头企业，其中签率可能较高。",
-    "url": "https://36kr.com/newsflashes/3822815356375168?f=rss",
-    "published": "2026-05-24 14:45:46  +0800",
+    "title": "政策红利持续释放，今年以来科创债发行超8000亿元",
+    "summary": "今年以来，科技创新债发行火热。Wind数据显示，截至5月24日，共有760只科技创新债发行，发行规模达8012.78亿元，远超去年同期。专家表示，今年科技创新债迎来发行热潮，是政策助力、成本优势、主体多元等多重因素叠加的结果。随着配套机制持续完善、参与主体不断丰富，科技创新债将持续精准赋能硬科技领域，助力科创企业破解融资难题，后续市场扩容潜力依旧充足。（中证报）",
+    "url": "https://36kr.com/newsflashes/3823911831572608?f=rss",
+    "published": "2026-05-25 07:24:16  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-24"
   },
   {
     "source": "36氪",
-    "title": "周鸿祎谈马斯克大尺度预言：十年后人类都不开车了？",
-    "summary": "5月24日，周鸿祎发视频谈马斯克关于“十年后人类都不开车了”大尺度预言： 我觉得马斯克这次关于自动驾驶的判断，真正提醒我们的不是驾照以后还有没有用，而是AI的下一阶段不是在屏幕里变得更会聊天，而在真实世界里变得越来越能干活。过去AI主要改变的是信息流，接下来它要改变的是物流、人流、车流，甚至整个物理世界的运行方式。",
-    "url": "https://36kr.com/newsflashes/3822814415589768?f=rss",
-    "published": "2026-05-24 14:15:47  +0800",
+    "title": "年内跌幅超过20%，保险板块凸显低估值配置价值",
+    "summary": "今年以来，在资本市场整体上涨行情中，保险股作为大盘重要成分股却累计下跌超过20%。这一现象背后，是市场资金偏好极端分化、险企资产端盈利逻辑面临考验两方面共振的结果。多位市场人士认为，年初以来，虽然上市险企业绩表现为“负债端增长强劲，资产端波动较大”，但基本面长期依旧稳定向好。（上证报）",
+    "url": "https://36kr.com/newsflashes/3823907006828930?f=rss",
+    "published": "2026-05-25 07:19:21  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-24"
   },
   {
     "source": "36氪",
-    "title": "一季度韩国前五大企业出口占比达44%",
-    "summary": "周日发布数据显示，受人工智能热潮带动，全球存储芯片需求激增，三星电子、SK海力士等五家头部企业，一季度出口额占韩国出口总额比重约44%。",
-    "url": "https://36kr.com/newsflashes/3822778731368838?f=rss",
-    "published": "2026-05-24 13:30:31  +0800",
+    "title": "基金经理密集调研、布局万亿物理AI产业机遇",
+    "summary": "从虚拟空间的智能对话交互，到物理场景的自主感知与执行，人工智能（AI）产业正迎来从“数字化智能”向“实体化智能”跃迁的历史性拐点。作为AI技术落地实体经济的核心载体，物理AI打破了传统大模型局限于算力、数据、文本生成的虚拟属性，实现了技术价值的实体化落地，逐渐成为资本与产业的共识方向。英伟达CEO黄仁勋明确预判，物理AI的“ChatGPT时刻”已然到来。在底层技术不断迭代、产业政策持续赋能、商业化场景加速落地的多重共振下，物理AI有望扛起科技成长主线大旗，长期投资价值凸显。在此背景下，公募基金积极前瞻研判行业趋势，通过密集调研、加仓布局抢抓万亿级赛道的发展红利。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3823905586991492?f=rss",
+    "published": "2026-05-25 07:17:54  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-24"
   },
   {
     "source": "36氪",
-    "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-    "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
-    "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
-    "published": "2026-05-24 13:00:48  +0800",
+    "title": "首批新型浮动费率基金业绩分化，超八成斩获正回报",
+    "summary": "去年5月27日开始发行的首批26只新型浮动费率基金，即将迎来一周年，这批备受瞩目的产品目前业绩如何？数据显示，首批26只新型浮动费率基金成立以来平均收益达43%，超过八成斩获正回报。其中，多只精准布局人工智能（AI）科技主线的产品业绩十分抢眼，也有多只产品因重仓了低估值板块导致表现不佳，净值甚至长期处于1元以下。由于这26只产品是管理费动态调整的创新型产品，因此对标业绩比较基准的情况备受关注，个别产品即使收益可观，也无奈跑输更具弹性的业绩基准。有公募人士指出，这种费率收取的差距，正在倒逼基金公司内部资源重新分配。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3823897416126856?f=rss",
+    "published": "2026-05-25 07:09:36  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-24"
+  },
+  {
+    "source": "36氪",
+    "title": "SpaceX IPO在即，太空ETF迎“井喷式”爆发",
+    "summary": "随着SpaceX备受期待的IPO即将落地，太空ETF正迎来“井喷式”爆发。晨星Direct数据显示，仅过去一个月，太空相关ETF就吸引了13亿美元的新资金流入，将这个新兴赛道板块总资产管理规模推高至33亿美元。不过，Strategas的ETF策略师提醒称，“太空经济”在广阔的科技版图中仍属小众细分赛道。他警告称，“盲目追逐SpaceX、太空概念和下一个风口”可能会带来问题。（财联社）",
+    "url": "https://36kr.com/newsflashes/3823891303223687?f=rss",
+    "published": "2026-05-25 07:09:08  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-24"
@@ -381,6 +391,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+    "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+    "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+    "published": "Sun, 24 May 2026 19:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-24"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
     "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
     "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
@@ -415,26 +435,6 @@
     "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "published": "Fri, 22 May 2026 20:40:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX files to go public, and the math requires a little faith",
-    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
-    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-    "published": "Fri, 22 May 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta quietly launches a new Reddit-like app called Forum",
-    "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
-    "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
-    "published": "Fri, 22 May 2026 14:24:16 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-24"
@@ -581,8 +581,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Blue Origin completes investigation into New Glenn launch failure",
+    "summary": "Article URL: https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/ Comments URL: https://news.ycombinator.com/item?id=48257482 Points: 2 # Comments: 0",
+    "url": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
+    "published": "Sun, 24 May 2026 14:20:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-24"
+  },
+  {
+    "source": "Hacker News",
     "title": "Show HN: A satirical idle game about running an AI startup",
-    "summary": "I made an idle/clicker about running an AI startup. You start with a cat-vs-dog classifier and try to make it to AGI, but the NYT sues you for training data, Yann tweets that scaling is dead, and your fired ML engineer leaks the Slack. Comments URL: https://news.ycombinator.com/item?id=48250237 Points: 9 # Comments: 1",
+    "summary": "I made an idle/clicker about running an AI startup. You start with a cat-vs-dog classifier and try to make it to AGI, but the NYT sues you for training data, Yann tweets that scaling is dead, and your fired ML engineer leaks the Slack. Comments URL: https://news.ycombinator.com/item?id=48250237 Points: 10 # Comments: 3",
     "url": "https://game.trae.academy/",
     "published": "Sat, 23 May 2026 18:54:50 +0000",
     "lang": "en",
@@ -622,7 +632,7 @@
   {
     "source": "Hacker News",
     "title": "Sam Altman's startup is hoping Jared Leto's band will make you scan your eyeball",
-    "summary": "Article URL: https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/ Comments URL: https://news.ycombinator.com/item?id=48242137 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/ Comments URL: https://news.ycombinator.com/item?id=48242137 Points: 2 # Comments: 2",
     "url": "https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/",
     "published": "Fri, 22 May 2026 21:49:50 +0000",
     "lang": "en",
@@ -758,29 +768,5 @@
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How to Build a Tech Startup When You Barely Know What a Boolean Is",
-    "summary": "Article URL: https://bwanaerp.medium.com/how-to-build-a-tech-startup-when-you-barely-know-what-a-boolean-is-vibe-f-cking-coding-c9124a2a28f1 Comments URL: https://news.ycombinator.com/item?id=48219452 Points: 2 # Comments: 0",
-    "url": "https://bwanaerp.medium.com/how-to-build-a-tech-startup-when-you-barely-know-what-a-boolean-is-vibe-f-cking-coding-c9124a2a28f1",
-    "published": "Thu, 21 May 2026 08:20:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-24"
-  },
-  {
-    "source": "V2EX",
-    "title": "vibe-coding 一时爽，一直 vibe-coding 呢？",
-    "summary": "昨天碰到一个音画不同步问题（数字人说话时一旦声音和画面出现了细微的偏差，整个视频看起来就非常奇怪，嘴型对不上），恁是 vibe 了一整天都没解决。有时候通过 vibe coding 来解决问题，就像是在抽盲盒。由于音视频开发的细节太多，导致 AI 没办法很细致地解决延迟、同步问题。这咋整呢？要么就自己一行一行地去看代码、梳理逻辑，要么就继续 vibe coding 碰概率。而且我发现 vibe coding 到最后真的什么都学不到，没有任何技术上的成长。唯一的收获可能就是做出了一个产品，或者实现了某一个功能。如果将来 AI 能够短时间变得更聪明倒还好，这样大家也不用再关心技术问题了。如果没有的",
-    "url": "https://www.v2ex.com/t/1215040",
-    "published": 1779594457,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-05-24",
-    "meta": {
-      "replies": 19,
-      "node": "程序员"
-    }
   }
 ]
