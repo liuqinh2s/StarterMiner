@@ -431,6 +431,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Snap alums unveil Ghost Angels fund",
+    "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+    "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+    "published": "Sat, 30 May 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+    "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+    "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+    "published": "Sat, 30 May 2026 14:49:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
     "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
     "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
@@ -460,41 +480,11 @@
     "fetchedAt": "2026-05-30"
   },
   {
-    "source": "TechCrunch",
-    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-    "published": "Fri, 29 May 2026 12:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-    "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-    "published": "Fri, 29 May 2026 00:44:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
-    "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-    "url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
-    "published": "Thu, 28 May 2026 23:01:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
-    "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
-    "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
-    "published": "Thu, 28 May 2026 20:29:00 +0000",
+    "source": "TechNode",
+    "title": "KISED promotes South Korea’s startup ecosystem and support programs at BEYOND Expo",
+    "summary": "During BEYOND Expo 2026, the Korea Institute of Startup & Entrepreneurship Development (KISED) introduced South Korea’s startup ecosystem and government-backed support programs to international entrepreneurs and investors, highlighting how the country attracts global startups through innovation, industrial resources, and policy support. A KISED representative stated during the presentation that, unlike traditional companies focused on selling […]",
+    "url": "https://technode.com/2026/05/31/kised-promotes-south-koreas-startup-ecosystem-and-support-programs-at-beyond-expo/",
+    "published": "Sat, 30 May 2026 17:00:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-30"
@@ -691,47 +681,213 @@
   },
   {
     "source": "The Verge",
-    "title": "Acer’s launching a Linux handheld for streaming your PC games",
-    "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, […]",
-    "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
-    "published": "2026-05-29T15:01:48-04:00",
+    "title": "How one founder’s bet on ‘the old school web’ is paying off",
+    "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use […]",
+    "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+    "published": "2026-05-30T09:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-30"
   },
   {
-    "source": "The Verge",
-    "title": "Tech companies desperately want to film you doing chores",
-    "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-    "published": "2026-05-29T13:37:43-04:00",
+    "source": "Hacker News",
+    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+    "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 385 # Comments: 439",
+    "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+    "published": "Sat, 30 May 2026 13:56:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-30"
   },
   {
-    "source": "The Verge",
-    "title": "Microsoft delays Fable (again) to avoid GTA VI",
-    "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new look\" at the game at its Xbox Games Showcase on June 7th. \"​​This is year is packed with incredible […]",
-    "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
-    "published": "2026-05-29T12:51:08-04:00",
+    "source": "Hacker News",
+    "title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 311 # Comments: 3",
+    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "published": "Sat, 30 May 2026 11:41:29 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-30"
   },
   {
-    "source": "微博",
-    "title": "#具身智能最强大脑在中国#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23具身智能最强大脑在中国%23",
-    "published": "2026-05-30",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Blue Origin rocket explodes ahead of launch, in major setback for space company",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/05/29/blue-origin-rocket-explodes-ahead-satellite-launch/ Comments URL: https://news.ycombinator.com/item?id=48334678 Points: 3 # Comments: 1",
+    "url": "https://www.washingtonpost.com/technology/2026/05/29/blue-origin-rocket-explodes-ahead-satellite-launch/",
+    "published": "Sat, 30 May 2026 10:26:36 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-05-30",
-    "meta": {
-      "hotValue": 122462,
-      "rank": 48
-    }
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Closer Look at the Damage to New Glenn's Launch Pad",
+    "summary": "Article URL: https://www.youtube.com/watch?v=5DAS7i9VD2w Comments URL: https://news.ycombinator.com/item?id=48330954 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=5DAS7i9VD2w",
+    "published": "Sat, 30 May 2026 00:06:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Linux Startup and Shutdown Sounds [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=5kzJQcAxmEE Comments URL: https://news.ycombinator.com/item?id=48329954 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=5kzJQcAxmEE",
+    "published": "Fri, 29 May 2026 22:08:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "European startup and scaleup scoreboard: Country reports",
+    "summary": "Article URL: https://research-and-innovation.ec.europa.eu/knowledge-publications-tools-and-data/publications/all-publications/european-startup-and-scaleup-scoreboard-country-reports_en Comments URL: https://news.ycombinator.com/item?id=48327009 Points: 2 # Comments: 0",
+    "url": "https://research-and-innovation.ec.europa.eu/knowledge-publications-tools-and-data/publications/all-publications/european-startup-and-scaleup-scoreboard-country-reports_en",
+    "published": "Fri, 29 May 2026 18:09:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup offers free home cleaning–if it can record it all for robot training",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/ Comments URL: https://news.ycombinator.com/item?id=48325603 Points: 7 # Comments: 0",
+    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "published": "Fri, 29 May 2026 16:37:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Question for Startup Founders on tracking emotions and cognitive signals",
+    "summary": "Hey HN, I've noticed there's been a strong aversion and tone in regard to companies tracking emotional and cognitive signals to make decisions. I'd like to get people's opinions on this and possibly understand if there's a frame where you would be FOR this in running your own startups. What is your stance on businesses tracking Emotional Intelligence? Would it make sense if this was done in the benefit of your company or customer base? Comments URL: https://news.ycombinator.com/item?id=48323705 ",
+    "url": "https://news.ycombinator.com/item?id=48323705",
+    "published": "Fri, 29 May 2026 14:42:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Celebrating the Launch of FOSS Wiki",
+    "summary": "Article URL: https://blog.fyralabs.com/celebrating-the-launch-of-foss-wiki/ Comments URL: https://news.ycombinator.com/item?id=48322759 Points: 2 # Comments: 0",
+    "url": "https://blog.fyralabs.com/celebrating-the-launch-of-foss-wiki/",
+    "published": "Fri, 29 May 2026 13:19:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch YC: Apollo Atomics: The Modern Nuclear Company",
+    "summary": "Article URL: https://www.ycombinator.com/launches/QXj-apollo-atomics-the-modern-nuclear-company Comments URL: https://news.ycombinator.com/item?id=48322399 Points: 2 # Comments: 1",
+    "url": "https://www.ycombinator.com/launches/QXj-apollo-atomics-the-modern-nuclear-company",
+    "published": "Fri, 29 May 2026 12:46:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic hits $965B valuation with latest funding round, overtaking OpenAI",
+    "summary": "Article URL: https://thehill.com/policy/technology/5900111-anthropic-valuation-openai-race/ Comments URL: https://news.ycombinator.com/item?id=48321338 Points: 2 # Comments: 0",
+    "url": "https://thehill.com/policy/technology/5900111-anthropic-valuation-openai-race/",
+    "published": "Fri, 29 May 2026 10:26:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: What happened with Eureka Labs, Karpathy's startup?",
+    "summary": "In 2024 Andrej Karpathy launched Eureka Labs [1], an AI-first education startup. Since the initial announcement, I haven't seen much public activity or updates, and the GitHub org [2] and course repo [3] appear empty or unused. Also, Recently Karpathy also joined Anthropic. He even removed Eureka Labs from his LinkedIn. Does anyone know what happened to Eureka Labs? [1]: https://eurekalabs.ai/ [2]: https://github.com/EurekaLabsAI [3]: https://github.com/karpathy/LLM101n Comments URL: https://new",
+    "url": "https://news.ycombinator.com/item?id=48320822",
+    "published": "Fri, 29 May 2026 09:07:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China is building launch pads near its nuclear missile silos",
+    "summary": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48319551 Points: 5 # Comments: 0",
+    "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+    "published": "Fri, 29 May 2026 05:53:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Blue Origin New Glenn rocket explodes on launch pad during engine-firing test",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-05-29/blue-origin-rocket-explodes-during-test-jeff-bezos/106737482 Comments URL: https://news.ycombinator.com/item?id=48318900 Points: 3 # Comments: 1",
+    "url": "https://www.abc.net.au/news/2026-05-29/blue-origin-rocket-explodes-during-test-jeff-bezos/106737482",
+    "published": "Fri, 29 May 2026 04:05:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch Pad Live – 24/7 views from Cape Canaveral",
+    "summary": "Article URL: https://spaceflightnow.com/launch-pad-live/ Comments URL: https://news.ycombinator.com/item?id=48318131 Points: 2 # Comments: 0",
+    "url": "https://spaceflightnow.com/launch-pad-live/",
+    "published": "Fri, 29 May 2026 02:07:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/ Comments URL: https://news.ycombinator.com/item?id=48317093 Points: 268 # Comments: 149",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "published": "Thu, 28 May 2026 23:42:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic leapfrogs OpenAI as most valuable AI startup",
+    "summary": "Article URL: https://www.businessinsider.com/anthropic-surpasses-openai-with-965b-valuation-debuts-opus-4-8-2026-5 Comments URL: https://news.ycombinator.com/item?id=48316994 Points: 1 # Comments: 0",
+    "url": "https://www.businessinsider.com/anthropic-surpasses-openai-with-965b-valuation-debuts-opus-4-8-2026-5",
+    "published": "Thu, 28 May 2026 23:30:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Airbnb host alleges $12k in damages after SF startup tested a robot in his house",
+    "summary": "Article URL: https://www.sfgate.com/tech/article/airbnb-startup-robot-damages-lawsuit-22279560.php Comments URL: https://news.ycombinator.com/item?id=48314776 Points: 4 # Comments: 1",
+    "url": "https://www.sfgate.com/tech/article/airbnb-startup-robot-damages-lawsuit-22279560.php",
+    "published": "Thu, 28 May 2026 20:12:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic raises $65B funding at a $965B post-money valuation",
+    "summary": "Article URL: https://twitter.com/anthropicai/status/2060061347522433422 Comments URL: https://news.ycombinator.com/item?id=48313207 Points: 4 # Comments: 2",
+    "url": "https://twitter.com/anthropicai/status/2060061347522433422",
+    "published": "Thu, 28 May 2026 18:19:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "summary": "Article URL: https://www.anthropic.com/news/series-h Comments URL: https://news.ycombinator.com/item?id=48313048 Points: 361 # Comments: 421",
+    "url": "https://www.anthropic.com/news/series-h",
+    "published": "Thu, 28 May 2026 18:09:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-30"
   },
   {
     "source": "B站",
@@ -748,20 +904,6 @@
   },
   {
     "source": "V2EX",
-    "title": "Kimi Code 用起来感觉还行，就是很容易达到限额",
-    "summary": "公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用",
-    "url": "https://www.v2ex.com/t/1216645",
-    "published": 1780115482,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-05-30",
-    "meta": {
-      "replies": 19,
-      "node": "程序员"
-    }
-  },
-  {
-    "source": "V2EX",
     "title": "有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了",
     "summary": "Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品\"daybreak\",效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI",
     "url": "https://www.v2ex.com/t/1216615",
@@ -770,8 +912,22 @@
     "type": "community",
     "fetchedAt": "2026-05-30",
     "meta": {
-      "replies": 18,
+      "replies": 34,
       "node": "Claude"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "Kimi Code 用起来感觉还行，就是很容易达到限额",
+    "summary": "公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用",
+    "url": "https://www.v2ex.com/t/1216645",
+    "published": 1780115482,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-05-30",
+    "meta": {
+      "replies": 24,
+      "node": "程序员"
     }
   },
   {
@@ -784,10 +940,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-30",
     "meta": {
-      "stars": 1264,
-      "forks": 139,
+      "stars": 1587,
+      "forks": 168,
       "language": "HTML",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -800,25 +956,9 @@
     "type": "signal",
     "fetchedAt": "2026-05-30",
     "meta": {
-      "stars": 988,
-      "forks": 85,
+      "stars": 1115,
+      "forks": 91,
       "language": null,
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "withkynam/vibecode-pro-max-kit",
-    "summary": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-    "published": "2026-05-27T05:46:25Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-05-30",
-    "meta": {
-      "stars": 547,
-      "forks": 137,
-      "language": "JavaScript",
       "createdDaysAgo": 3
     }
   },
@@ -832,10 +972,42 @@
     "type": "signal",
     "fetchedAt": "2026-05-30",
     "meta": {
-      "stars": 542,
+      "stars": 595,
       "forks": 26,
       "language": "TypeScript",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "withkynam/vibecode-pro-max-kit",
+    "summary": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "published": "2026-05-27T05:46:25Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-30",
+    "meta": {
+      "stars": 587,
+      "forks": 143,
+      "language": "JavaScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MatinSenPai/SenPaiScanner",
+    "summary": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "published": "2026-05-28T17:02:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-30",
+    "meta": {
+      "stars": 584,
+      "forks": 38,
+      "language": "Go",
+      "createdDaysAgo": 2
     }
   }
 ]
