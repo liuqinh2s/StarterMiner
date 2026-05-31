@@ -82,7 +82,7 @@
   {
     "source": "36氪",
     "title": "铃木敏文去世，他与711的三个反常识故事",
-    "summary": "铃木敏文 作者 | 钟艺�� 编辑 | 乔芊 5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。 作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。 1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他第一次注意到了7-Eleven，这个小到不起眼的便利店，在北美已经开出了超过4000家。 4年后，日本首家7-Eleven正式开业。仅过去1年，7-Eleven在日本迅速突破100家，而美国用了15年。1991年，日本7-Eleven反向收购母公司70%股份，它彻底成为日系品牌。 直到今天，7-Eleven全球门店总数超过8万5千家，年销售额逾1000亿美元，是全球规模最大的连锁便利店品牌。在零售界，一种说法曾广为流传：世界上只有两家便利商店，7-Eleven和其他便利商店。 但铃木敏文的开创性远不止于如此。消费是人类社会特有的举动，零售的魅力也在于，它的演变永远无法用线性解释。作为横跨日本半世纪的便利店，7-Eleven经历了战后繁荣的尾声、泡沫经",
+    "summary": "铃木敏文 作者 | 钟艺璇 编辑 | 乔芊 5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。 作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。 1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他第一次注意到了7-Eleven，这个小到不起眼的便利店，在北美已经开出了超过4000家。 4年后，日本首家7-Eleven正式开业。仅过去1年，7-Eleven在日本迅速突破100家，而美国用了15年。1991年，日本7-Eleven反向收购母公司70%股份，它彻底成为日系品牌。 直到今天，7-Eleven全球门店总数超过8万5千家，年销售额逾1000亿美元，是全球规模最大的连锁便利店品牌。在零售界，一种说法曾广为流传：世界上只有两家便利商店，7-Eleven和其他便利商店。 但铃木敏文的开创性远不止于如此。消费是人类社会特有的举动，零售的魅力也在于，它的演变永远无法用线性解释。作为横跨日本半世纪的便利店，7-Eleven经历了战后繁荣的尾声、泡沫经济",
     "url": "https://36kr.com/p/3829890126046851?f=rss",
     "published": "2026-05-29 13:40:55  +0800",
     "lang": "zh",
@@ -91,10 +91,40 @@
   },
   {
     "source": "36氪",
-    "title": "小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
-    "summary": "36氪获悉，小米MiMo大模型团队在官方技术博客发布文章，首次完整公开MiMo-V2.5系列大模型API永久降价背后的技术路径。文章称，MiMO-V2.5实现了KVCache双池+SWA-aware前缀树、GCache分布式缓存、KVCache亲和调度、Decode阶段MTP加速、多模态推理优化五大核心突破，降价后仍能维持收支平衡。此外，4月28日推出的“百万亿Token创造者激励计划”，总申请人数超过54万人，累计发放100万亿免费Token，折合人民币超6500万元。",
-    "url": "https://36kr.com/newsflashes/3832525007284097?f=rss",
-    "published": "2026-05-31 09:26:02  +0800",
+    "title": "风华高科：不涉及英伟达认证及暂停接单传闻不实",
+    "summary": "36氪获悉，风华高公告，经核查，公司关注到近期有媒体提及公司“针对代理商0402、0603芯片电阻、MLCC全线暂停接单”，经核查，以上信息不属实，为做好部分数字系统升级及产品结构调整，公司执行部分产品暂缓接单，截至公告日，公司已恢复接单。公司关注到近期有媒体提及公司为“国内唯一通过英伟达全系列MLCC认证的企业”，经核查，以上信息不属实，截至公告日，英伟达未对公司开展任何产品认证。",
+    "url": "https://36kr.com/newsflashes/3832892582553221?f=rss",
+    "published": "2026-05-31 17:01:50  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "36氪",
+    "title": "华金证券：6月A股继续震荡偏强，科技主线不变",
+    "summary": "36氪获悉，华金证券发布研报称，复盘历史，影响6月A股市场走势的核心因素是政策和外部事件、基本面和流动性。今年6月A股可能延续震荡偏强趋势，受世界杯等因素影响有限。行业配置上，6月科技主线可能不变，建议继续逢低配置：一是政策和产业趋势向上的电子（半导体、AI硬件）、通信（AI硬件）、电新（AI电力、锂电）、军工（商业航天）、传媒（AI应用、游戏）、计算机（AI应用）、有色金属、化工、创新药等；二是券商、消费等基本面可能改善和补涨的行业。",
+    "url": "https://36kr.com/newsflashes/3832869930952327?f=rss",
+    "published": "2026-05-31 16:53:45  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "36氪",
+    "title": "申万宏源：短期结构分化走向极致，市场再突破仍需蓄力",
+    "summary": "36氪获悉，申万宏源发布研究报告称，短期总体市场难有效突破，结构分化行情正走向极致，动量延续的AI算力通胀方向减少，已向PCB细分领域、电容等方向聚焦。中期，继续看好新能源、新能车和出口链的景气验证机会，同时，继续围绕着AI产业链和战略资源做配置。",
+    "url": "https://36kr.com/newsflashes/3832743456695943?f=rss",
+    "published": "2026-05-31 15:28:09  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "36氪",
+    "title": "17股上榜本周南向资金成交活跃股名单",
+    "summary": "据统计，本周南向资金合计成交净买8.08亿港元。从本周上榜成交活跃股名单来看，本周共有17只个股上榜，中芯国际本周港股通合计买卖总额最高，达到708.99亿港元，其他还有华虹半导体、腾讯控股、阿里巴巴-W本周港股通买卖总额均超过200亿港元。从持股量变化来看，本周15股获得南向资金持股量环比增长超10%，经纬天地居首，环比增长1767.33%，其他还有华勤技术、派格生物医药-B、创新实业持股量环比增幅居前，持股量环比增幅分别为758.23%、146.39%、42%。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3832740552075138?f=rss",
+    "published": "2026-05-31 14:10:12  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-31"
@@ -311,6 +341,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "260亿美元，“全华班”撑起全球AI编程估值最高公司",
+    "summary": "“AI程序员”并没有接管一切，但它被肯定了。",
+    "url": "https://www.tmtpost.com/8008969.html",
+    "published": "Sun, 31 May 2026 18:16:26 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "钛媒体",
     "title": "暴增3100亿！存储巨头大普微，估值泡沫已现",
     "summary": "暴增3100亿！存储巨头大普微，估值泡沫已现",
     "url": "https://www.tmtpost.com/8008925.html",
@@ -325,16 +365,6 @@
     "summary": "智能体时代，MiniMax靠什么赢？",
     "url": "https://www.tmtpost.com/8008738.html",
     "published": "Sun, 31 May 2026 09:57:26 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（5月31日）",
-    "summary": "全球AI基础设施投资呈现爆发式增长，软银宣布750亿欧元法国AI数据中心计划，OpenRouter完成1.13亿美元B轮融资，月处理token量达100万亿。AI巨头战略级布局密集发布，Meta推出史上最大AI可穿戴设备计划，目标2026年下半年销售1000万台。",
-    "url": "https://www.tmtpost.com/8008870.html",
-    "published": "Sun, 31 May 2026 08:30:41 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-31"
@@ -460,206 +490,6 @@
     "fetchedAt": "2026-05-31"
   },
   {
-    "source": "TechNode",
-    "title": "KISED promotes South Korea’s startup ecosystem and support programs at BEYOND Expo",
-    "summary": "During BEYOND Expo 2026, the Korea Institute of Startup & Entrepreneurship Development (KISED) introduced South Korea’s startup ecosystem and government-backed support programs to international entrepreneurs and investors, highlighting how the country attracts global startups through innovation, industrial resources, and policy support. A KISED representative stated during the presentation that, unlike traditional companies focused on selling […]",
-    "url": "https://technode.com/2026/05/31/kised-promotes-south-koreas-startup-ecosystem-and-support-programs-at-beyond-expo/",
-    "published": "Sat, 30 May 2026 17:00:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Lenovo Innovation Accelerator channels ecosystem power to bring Chinese hard-tech startups to the global stage",
-    "summary": "As the AI industry rapidly enters a deep water phase, competition based solely on parameter scale is no longer enough to build lasting advantages. Technologies and products that can truly land in commercial scenarios and solve real-world problems are becoming the new core of industry competition. As a key platform driving Lenovo’s ecosystem innovation strategy, […]",
-    "url": "https://technode.com/2026/05/29/lenovo-innovation-accelerator-channels-ecosystem-power-to-bring-chinese-hard-tech-startups-to-the-global-stage/",
-    "published": "Fri, 29 May 2026 12:49:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "CATL launches world’s largest energy storage testbed in Xiamen",
-    "summary": "CATL has launched its Xiamen Energy Storage Validation Research Institute, which it described as the world’s largest and most comprehensive one-stop testing and validation platform for the energy storage industry. The site spans 10 hectares and represents an investment of about RMB3 billion ($440 million). CATL said the facility is designed as an open, shared […]",
-    "url": "https://technode.com/2026/05/29/catl-launches-worlds-largest-energy-storage-testbed-in-xiamen/",
-    "published": "Fri, 29 May 2026 12:31:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "BYD launches Xuanji A3, calls it China’s first 4nm smart driving chip",
-    "summary": "At BYD’s launch event on Thursday, Wang Chuanfu, chairman and founder of BYD, unveiled BYD’s self-developed Xuanji A3, China’s first 4nm autonomous driving chip, which supports L3 and L4 autonomous driving capabilities. The chip has entered mass production and supports L3 and L4 autonomous driving. A three-chip configuration delivers a combined computing power of over […]",
-    "url": "https://technode.com/2026/05/29/byd-launches-xuanji-a3-calls-it-chinas-first-4nm-smart-driving-chip/",
-    "published": "Fri, 29 May 2026 08:37:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent launches WorkBuddy productivity AI agent for global users",
-    "summary": "Tencent Cloud has launched WorkBuddy, a productivity-focused AI agent for global users after first rolling out the product in China. The company said WorkBuddy is aimed at office workflows and can use natural language prompts to break down tasks, call external tools, and generate deliverables across work and study scenarios. WorkBuddy supports remote task execution […]",
-    "url": "https://technode.com/2026/05/29/tencent-launches-workbuddy-productivity-ai-agent-for-global-users/",
-    "published": "Fri, 29 May 2026 01:38:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "iFlytek launches 40g AI glasses with GlassClaw AI agent and advanced noise recognition",
-    "summary": "On Thursday, iFlytek unveiled its new AI smart glasses at BEYOND Expo 2026 in Macau under the theme Communication Without Boundaries, the World Before Your Eyes, showcasing the company’s latest push into AI-powered devices. At the launch event, Lin Huijie, General Manager of iFlytek’s Wearable Devices Business Department, said the company hopes the product can […]",
-    "url": "https://technode.com/2026/05/29/iflytek-launches-40g-ai-glasses-with-glassclaw-ai-agent-and-advanced-noise-recognition/",
-    "published": "Fri, 29 May 2026 00:54:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ziyouliangji aims to use AI music platform Hitto to turn everyone into a song creator",
-    "summary": "As competition in large AI models gradually shifts from parameter races to real-world deployment capabilities, a number of Chinese AI startups focused on vertical scenarios are beginning to stand out. Among them is Ziyouliangji Information Technology, founded in 2023, which is attempting to redefine how ordinary people create music through AI. Unlike many companies concentrating […]",
-    "url": "https://technode.com/2026/05/28/ziyouliangji-aims-to-use-ai-music-platform-hitto-to-turn-everyone-into-a-song-creator/",
-    "published": "Thu, 28 May 2026 15:10:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaohongshu reportedly secures 2026 FIFA World Cup streaming rights in China",
-    "summary": "According to multiple sources familiar with the negotiations, Xiaohongshu has secured sublicensing rights for the 2026 FIFA World Cup in China from state broadcaster China Media Group, including live-streaming rights and rights for short-video secondary content creation. The move marks a major shift in China’s sports media landscape. During the previous World Cup cycle, Douyin […]",
-    "url": "https://technode.com/2026/05/26/xiaohongshu-reportedly-secures-2026-fifa-world-cup-streaming-rights-in-china/",
-    "published": "Tue, 26 May 2026 07:55:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Diablo IV China extends free base game giveaway until August 2026",
-    "summary": "Diablo IV’s China server operator announced that the limited-time free claim event for the game’s base edition, originally priced at RMB 128 ($18), has been extended until August 4, 2026. The promotion first launched on April 28 and attracted a large influx of new players into the game. According to the official announcement, the extension […]",
-    "url": "https://technode.com/2026/05/25/diablo-iv-china-extends-free-base-game-giveaway-until-august-2026/",
-    "published": "Mon, 25 May 2026 09:50:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei’s mate 90 series may launch with new Kirin chip this autumn",
-    "summary": "At the 2026 International Symposium on Circuits and Systems (ISCAS 2026) in Shanghai on Monday, He Tingbo, Huawei’s board member and head of its semiconductor business, said the company would launch a new Kirin smartphone chip this autumn that uses logic folding technology for the first time. The technology moves beyond conventional single-layer chip layouts […]",
-    "url": "https://technode.com/2026/05/25/huaweis-mate-90-series-expected-to-debut-new-kirin-chip-this-autumn/",
-    "published": "Mon, 25 May 2026 03:46:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "China launches first humanoid robot lifecycle management platform in Beijing",
-    "summary": "China has launched the country’s first full lifecycle management service platform for humanoid robots in Beijing. The platform gives each robot a unique digital identity and enables end-to-end tracking from production to recycling. The platform, led by the Ministry of Industry and Information Technology’s Standardization Technical Committee for Humanoid Robots and Embodied Intelligence, assigns every […]",
-    "url": "https://technode.com/2026/05/25/china-launches-first-humanoid-robot-lifecycle-management-platform-in-beijing/",
-    "published": "Mon, 25 May 2026 03:09:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tech Odyssey Series: Who writes the first cheque for Portugal’s youngest startups?",
-    "summary": "Previous on Tech Odyssey: In our last episode, we went to the University of Porto, INESC TEC, and UPTEC to see how research can move from the lab into startups. This time, we look at what often comes next: who backs those companies when they are still too early for most investors. When a startup […]",
-    "url": "https://technode.com/2026/05/22/tech-odyssey-series-who-writes-the-first-cheque-for-portugals-youngest-startups/",
-    "published": "Fri, 22 May 2026 08:12:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tesla rolls out supervised Full Self-Driving in China in wider global push",
-    "summary": "Tesla announced that its Full Self-Driving system, FSD Supervised, has launched across multiple countries and regions worldwide, with China included in the rollout. The release covers more than a dozen markets across North America, Asia-Pacific, and Europe. The launch marks another step in Tesla’s push to expand its advanced driver-assistance technology beyond the US, even […]",
-    "url": "https://technode.com/2026/05/21/tesla-rolls-out-supervised-full-self-driving-in-china-in-wider-global-push/",
-    "published": "Thu, 21 May 2026 02:27:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month",
-    "summary": "China Telecom has launched nationwide trial commercial Token subscription plans, marking an accelerated shift by telecom operators from selling data traffic to offering computing power services. The packages are divided into three plans for developers and small businesses, ranging from 39.9 yuan ($5.50) per month for 15 million Tokens to 299.9 yuan ($41.50) for 150 […]",
-    "url": "https://technode.com/2026/05/18/china-telecom-launches-trial-ai-token-subscription-plans-starting-at-1-4-per-month/",
-    "published": "Mon, 18 May 2026 02:26:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Oppo and Vivo gear up for year-end gimbal camera launches to take on DJI’s Pocket series",
-    "summary": "Oppo and Vivo are also reportedly developing their own Pocket-style handheld gimbal cameras, with launches expected before the end of this year, according to China Star Market. The report said both companies aim to leverage their strengths in imaging algorithms, AI features, and ecosystem integration to enter the lightweight video creation market and further expand […]",
-    "url": "https://technode.com/2026/05/15/oppo-and-vivo-gear-up-for-year-end-gimbal-camera-launches-to-take-on-djis-pocket-series/",
-    "published": "Fri, 15 May 2026 07:33:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
-    "summary": "TikTok launched its lifestyle services brand, TikTok GO, in Indonesia, the US and Japan, marking a further push into travel and local commerce. The company said TikTok GO allows users to discover and book hotels, attractions, dining and travel experiences directly within the app. The feature was first introduced in Indonesia in late April before […]",
-    "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
-    "published": "Thu, 14 May 2026 07:40:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Elon Musk praises Unitree’s rideable mech GD01, calls it “cool”",
-    "summary": "On Wednesday, Elon Musk praised Chinese robotics firm Unitree Robotics’ newly unveiled GD01 rideable mech on social media, calling the product “cool.” The Hangzhou-based company on Tuesday launched what it described as the world’s first mass-produced rideable transforming mech, with a starting price of 3.9 million yuan ($540,000). Unitree said the GD01 is designed as […]",
-    "url": "https://technode.com/2026/05/14/elon-musk-praises-unitrees-rideable-mech-gd01-calls-it-cool/",
-    "published": "Thu, 14 May 2026 07:09:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Baidu Create 2026: CEO says AI focus is moving from models to AI agents, foresees rise of super individuals",
-    "summary": "On Wednesday, the Create 2026 Baidu AI Developer Conference, themed Agents at Scale, opened in Beijing. During the opening ceremony, Robin Li, founder of Baidu, delivered a keynote speech centered on self-evolution, which he described as a defining theme of the AI era. The company also unveiled several AI products focused on intelligent agents and […]",
-    "url": "https://technode.com/2026/05/14/baidu-create-2026-ceo-says-ai-is-moving-from-model-competition-to-ai-agent-era-foresees-rise-of-super-individuals/",
-    "published": "Thu, 14 May 2026 01:10:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Antibody discovery platform Immunocan closes RMB250 million Series A",
-    "summary": "Shanghai-based Immunocan has closed a RMB250 million Series A round led by Vivo Capital, with participation from Gold Mine Multi Family Office and follow-on backing from existing investors including Kingray Capital and TigerYeah Capital. The company said the funds will be used to advance its gene-edited animal platforms, commercialize its fully human antibody rabbit platform, […]",
-    "url": "https://technode.com/2026/05/13/antibody-discovery-platform-immunocan-closes-rmb250-million-series-a/",
-    "published": "Wed, 13 May 2026 02:39:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "PARIS’ VIVATECH ENTERS A NEW DIMENSION FOR ITS 10TH ANNIVERSARY",
-    "summary": "From June 17 to 20 June 2026, Porte de Versailles (Paris) will host the 10th edition of VivaTech, Europe’s largest event dedicated to startups and technology. The event has established itself as an unmissable meeting platform for the tech world, at the crossroads of innovation, business and the most important debates around technology, with AI at […]",
-    "url": "https://technode.com/2026/05/08/paris-vivatech-enters-a-new-dimension-for-its-10th-anniversary/",
-    "published": "Fri, 08 May 2026 10:16:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
     "source": "The Verge",
     "title": "How one founder’s bet on ‘the old school web’ is paying off",
     "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use […]",
@@ -671,8 +501,28 @@
   },
   {
     "source": "Hacker News",
+    "title": "Blue Origin faces months of delays after rocket explosion damages launch pad",
+    "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/ Comments URL: https://news.ycombinator.com/item?id=48343525 Points: 4 # Comments: 0",
+    "url": "https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/",
+    "published": "Sun, 31 May 2026 06:38:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China is building launch pads near its nuclear missile silos",
+    "summary": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48338334 Points: 7 # Comments: 16",
+    "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
+    "published": "Sat, 30 May 2026 16:55:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "Hacker News",
     "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-    "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 398 # Comments: 456",
+    "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 406 # Comments: 459",
     "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
     "published": "Sat, 30 May 2026 13:56:34 +0000",
     "lang": "en",
@@ -682,7 +532,7 @@
   {
     "source": "Hacker News",
     "title": "Proposed new US funding rules: We can cancel any grant at any time",
-    "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 313 # Comments: 3",
+    "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 315 # Comments: 3",
     "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
     "published": "Sat, 30 May 2026 11:41:29 +0000",
     "lang": "en",
@@ -791,16 +641,6 @@
   },
   {
     "source": "Hacker News",
-    "title": "China is building launch pads near its nuclear missile silos",
-    "summary": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48319551 Points: 5 # Comments: 0",
-    "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
-    "published": "Fri, 29 May 2026 05:53:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "Hacker News",
     "title": "Blue Origin New Glenn rocket explodes on launch pad during engine-firing test",
     "summary": "Article URL: https://www.abc.net.au/news/2026-05-29/blue-origin-rocket-explodes-during-test-jeff-bezos/106737482 Comments URL: https://news.ycombinator.com/item?id=48318900 Points: 3 # Comments: 1",
     "url": "https://www.abc.net.au/news/2026-05-29/blue-origin-rocket-explodes-during-test-jeff-bezos/106737482",
@@ -850,24 +690,32 @@
     "fetchedAt": "2026-05-31"
   },
   {
-    "source": "Hacker News",
-    "title": "Anthropic raises $65B funding at a $965B post-money valuation",
-    "summary": "Article URL: https://twitter.com/anthropicai/status/2060061347522433422 Comments URL: https://news.ycombinator.com/item?id=48313207 Points: 4 # Comments: 2",
-    "url": "https://twitter.com/anthropicai/status/2060061347522433422",
-    "published": "Thu, 28 May 2026 18:19:52 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#孙杨 下沉市场口碑反转#",
+    "summary": "热",
+    "url": "https://s.weibo.com/weibo?q=%23孙杨 下沉市场口碑反转%23",
+    "published": "2026-05-31",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-05-31"
+    "fetchedAt": "2026-05-31",
+    "meta": {
+      "hotValue": 339064,
+      "rank": 5
+    }
   },
   {
-    "source": "Hacker News",
-    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-    "summary": "Article URL: https://www.anthropic.com/news/series-h Comments URL: https://news.ycombinator.com/item?id=48313048 Points: 361 # Comments: 421",
-    "url": "https://www.anthropic.com/news/series-h",
-    "published": "Thu, 28 May 2026 18:09:44 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#刘诗诗下沉市场#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23刘诗诗下沉市场%23",
+    "published": "2026-05-31",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-05-31"
+    "fetchedAt": "2026-05-31",
+    "meta": {
+      "hotValue": 320245,
+      "rank": 12
+    }
   },
   {
     "source": "B站",
@@ -884,20 +732,6 @@
   },
   {
     "source": "V2EX",
-    "title": "Kimi Code 用起来感觉还行，就是很容易达到限额",
-    "summary": "公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用",
-    "url": "https://www.v2ex.com/t/1216645",
-    "published": 1780115482,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-05-31",
-    "meta": {
-      "replies": 25,
-      "node": "程序员"
-    }
-  },
-  {
-    "source": "V2EX",
     "title": "AI 编程时代， MVP 思维已经失效了？",
     "summary": "最近在用 Rust 写一个 AI Agent 操作系统内核，叫 Agent OS 。37 个 crate ，1232 个测试，用 craft agent 都写了十几天。 不止一个朋友问过我：你为什么不先用 Python 快速搭个原型？先验证需求，等跑通了再用 Rust 重写。 以前我会觉得这是个好建议。但这次我拒绝了。 原因很简单：我在用 AI 编程的过程中，逐渐意识到一件事——在 AI 时代，MVP 那套\"先简后优\"的逻辑，前提已经不存在了。 传统 MVP 的核心假设是：简易实现和高质量实现之间有显著的成本差，先用低成本验证，验证通过再投入。这个在人写代码的时代是成立",
     "url": "https://www.v2ex.com/t/1216691",
@@ -906,7 +740,7 @@
     "type": "community",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "replies": 25,
+      "replies": 26,
       "node": "程序员"
     }
   },
@@ -920,8 +754,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 1697,
-      "forks": 179,
+      "stars": 1855,
+      "forks": 193,
       "language": "HTML",
       "createdDaysAgo": 3
     }
@@ -936,26 +770,26 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 1189,
-      "forks": 101,
+      "stars": 1287,
+      "forks": 111,
       "language": null,
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "UditAkhourii/adhd",
-    "summary": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-    "url": "https://github.com/UditAkhourii/adhd",
-    "published": "2026-05-25T11:06:35Z",
+    "title": "Sophomoresty/gemini-web2api",
+    "summary": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "url": "https://github.com/Sophomoresty/gemini-web2api",
+    "published": "2026-05-28T11:25:55Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 611,
-      "forks": 27,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
+      "stars": 708,
+      "forks": 209,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -968,8 +802,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 609,
-      "forks": 41,
+      "stars": 693,
+      "forks": 48,
       "language": "Go",
       "createdDaysAgo": 2
     }
@@ -984,26 +818,26 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 606,
-      "forks": 151,
+      "stars": 637,
+      "forks": 156,
       "language": "JavaScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Sophomoresty/gemini-web2api",
-    "summary": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-    "url": "https://github.com/Sophomoresty/gemini-web2api",
-    "published": "2026-05-28T11:25:55Z",
+    "title": "UditAkhourii/adhd",
+    "summary": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "published": "2026-05-25T11:06:35Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 588,
-      "forks": 192,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "stars": 632,
+      "forks": 28,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
     }
   }
 ]
