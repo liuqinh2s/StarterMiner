@@ -151,7 +151,7 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "CapyToolkit"
+          "twitter": "robyn_social"
         },
         "careerPage": null,
         "jobListings": []
@@ -1553,7 +1553,10 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com"
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -3000,14 +3003,10 @@
           "Termark - The Minimal SSH Client for Modern Developers",
           "\"applicationCategory\": \"DeveloperApplication\",",
           "AI assistant",
-          "alt: 'Termark AI assistant overview screenshot',",
-          "caption: 'AI assistant alongside your terminal workflow',",
-          "alt: 'Termark AI assistant terminal context screenshot',",
-          "alt: 'Termark AI assistant recent terminal output screenshot',",
-          "alt: 'Termark AI assistant command confirmation screenshot',",
-          "alt: 'Termark AI model profile screenshot',",
-          "caption: 'Switch between AI profiles and models',",
-          "alt: 'Termark AI profile settings screenshot',",
+          "Short videos showing how Termark feels in terminal, file transfer, AI, and external tool workflows.",
+          "AI Agent",
+          "Let AI follow your terminal context",
+          "aria-label=\"Termark AI Agent workflow demo\">",
           "'AI assistant with terminal context and command confirmation',"
         ]
       },

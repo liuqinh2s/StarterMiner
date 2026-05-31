@@ -91,6 +91,26 @@
   },
   {
     "source": "36氪",
+    "title": "6月基金经理调研：A股仍是最受青睐的方向之一",
+    "summary": "近日，南方基金、前海开源基金、融通基金等多家公司的基金经理接受调研。调研结果显示，面对震荡行情，基金经理主动谋篇布局，A股仍是最受青睐的方向之一。A股与美股在基金经理6月看好的资产中排名并列第一。对A股投资持有较为乐观态度的基金经理占比超过四成，中性观望的超过五成；对于美股，基金经理之间分歧较大，超过五成的态度较为乐观，近三成观望，但也有一成多较为谨慎。此外，基金经理对6月债券、港股、商品投资的乐观程度相对较低。（上证报）",
+    "url": "https://36kr.com/newsflashes/3833803823753091?f=rss",
+    "published": "2026-06-01 07:06:55  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "36氪",
+    "title": "MiniMax：拟于科创板上市",
+    "summary": "36氪获悉，MiniMax Group Inc.公告，董事会宣布已决议探究拟发行人民币股份的初步建议，其中可能涉及与专业顾问订立协议及与相关证券或其他监管机构进行咨询及磋商。公司已聘请专业顾问就符合在科创板上市条件提供咨询，并签订辅导协议。拟发行人民币股份事宜将取决于市场状况及必要的监管批准。",
+    "url": "https://36kr.com/newsflashes/3833797236336261?f=rss",
+    "published": "2026-06-01 07:00:13  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "36氪",
     "title": "风华高科：不涉及英伟达认证及暂停接单传闻不实",
     "summary": "36氪获悉，风华高公告，经核查，公司关注到近期有媒体提及公司“针对代理商0402、0603芯片电阻、MLCC全线暂停接单”，经核查，以上信息不属实，为做好部分数字系统升级及产品结构调整，公司执行部分产品暂缓接单，截至公告日，公司已恢复接单。公司关注到近期有媒体提及公司为“国内唯一通过英伟达全系列MLCC认证的企业”，经核查，以上信息不属实，截至公告日，英伟达未对公司开展任何产品认证。",
     "url": "https://36kr.com/newsflashes/3832892582553221?f=rss",
@@ -125,6 +145,16 @@
     "summary": "据统计，本周南向资金合计成交净买8.08亿港元。从本周上榜成交活跃股名单来看，本周共有17只个股上榜，中芯国际本周港股通合计买卖总额最高，达到708.99亿港元，其他还有华虹半导体、腾讯控股、阿里巴巴-W本周港股通买卖总额均超过200亿港元。从持股量变化来看，本周15股获得南向资金持股量环比增长超10%，经纬天地居首，环比增长1767.33%，其他还有华勤技术、派格生物医药-B、创新实业持股量环比增幅居前，持股量环比增幅分别为758.23%、146.39%、42%。（证券时报）",
     "url": "https://36kr.com/newsflashes/3832740552075138?f=rss",
     "published": "2026-05-31 14:10:12  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "创业邦",
+    "title": "开门红4小时，百大品牌成交额平均增长超5倍，首次参加京东618的1516个新商家成交额破百万",
+    "summary": "5月30日晚8点，真正的618火爆开场。 作为中国最大的品牌电商平台，京东让更多品牌在618的主场跑出了加速度，让更多商家在京东获得了稳定的新增量。 京东618开门红4小时，百大品牌成交额同比平均增长超5倍。 在春晓计划的持续发力下，今年参加京东618的新商家数量同比增长超62%，开门红4小时，首次参加京东618的51个新商家成交额破千万、1516个新商家成交额破百万。 京东618开门红4小时，面向海外用户的京东全球售平台成交额同比翻番，摄影摄像、美妆香水、运动装备、零食特产和手机配件等品类实现同比增长超300%。 在这个AI首次全场景、全产业融入的京东618，累计上线了搭载京东JoyInside的产品近百款，覆盖AI玩具、机器人、家居家电、健康器械等全品类，新奇特硬件销量走高，其中凯米斯机器狗跻身品类TOP5 榜单；小龙AI魔法打印机4小时销量环比增长17倍。 这个京东618，AI能力深入落地更多场景，为商家运营提效，取得更好的增长。开门红4 小时，依托JoyAI大模型，京东数字人 JoyStreamer 实现规模与销量双向突破，开播商家同比增长6倍，带货成交额突破7000万。京东J",
+    "url": "http://www.cyzone.cn/article/835168.html",
+    "published": "Sun, 31 May 2026 13:06:19 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-31"
@@ -360,16 +390,6 @@
     "fetchedAt": "2026-05-31"
   },
   {
-    "source": "钛媒体",
-    "title": "大模型的另一种活法，被MiniMax跑通了",
-    "summary": "智能体时代，MiniMax靠什么赢？",
-    "url": "https://www.tmtpost.com/8008738.html",
-    "published": "Sun, 31 May 2026 09:57:26 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
     "source": "爱范儿",
     "title": "当一家车企开始为智驾兜底，它就不是单纯的车企了",
     "summary": "中国最懂芯片的车企，是比亚迪。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -441,6 +461,36 @@
   },
   {
     "source": "TechCrunch",
+    "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+    "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+    "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+    "published": "Sun, 31 May 2026 18:28:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Making sense of the debate over AI psychosis",
+    "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "published": "Sun, 31 May 2026 15:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+    "summary": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
+    "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+    "published": "Sun, 31 May 2026 15:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Snap alums unveil Ghost Angels fund",
     "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
     "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
@@ -470,31 +520,251 @@
     "fetchedAt": "2026-05-31"
   },
   {
-    "source": "TechCrunch",
-    "title": "What happens when companies become too AI-pilled?",
-    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
-    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "published": "Fri, 29 May 2026 17:57:05 +0000",
+    "source": "TechNode",
+    "title": "KISED promotes South Korea’s startup ecosystem and support programs at BEYOND Expo",
+    "summary": "During BEYOND Expo 2026, the Korea Institute of Startup & Entrepreneurship Development (KISED) introduced South Korea’s startup ecosystem and government-backed support programs to international entrepreneurs and investors, highlighting how the country attracts global startups through innovation, industrial resources, and policy support. A KISED representative stated during the presentation that, unlike traditional companies focused on selling […]",
+    "url": "https://technode.com/2026/05/31/kised-promotes-south-koreas-startup-ecosystem-and-support-programs-at-beyond-expo/",
+    "published": "Sat, 30 May 2026 17:00:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-31"
   },
   {
-    "source": "TechCrunch",
-    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-    "published": "Fri, 29 May 2026 17:27:13 +0000",
+    "source": "TechNode",
+    "title": "Lenovo Innovation Accelerator channels ecosystem power to bring Chinese hard-tech startups to the global stage",
+    "summary": "As the AI industry rapidly enters a deep water phase, competition based solely on parameter scale is no longer enough to build lasting advantages. Technologies and products that can truly land in commercial scenarios and solve real-world problems are becoming the new core of industry competition. As a key platform driving Lenovo’s ecosystem innovation strategy, […]",
+    "url": "https://technode.com/2026/05/29/lenovo-innovation-accelerator-channels-ecosystem-power-to-bring-chinese-hard-tech-startups-to-the-global-stage/",
+    "published": "Fri, 29 May 2026 12:49:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "CATL launches world’s largest energy storage testbed in Xiamen",
+    "summary": "CATL has launched its Xiamen Energy Storage Validation Research Institute, which it described as the world’s largest and most comprehensive one-stop testing and validation platform for the energy storage industry. The site spans 10 hectares and represents an investment of about RMB3 billion ($440 million). CATL said the facility is designed as an open, shared […]",
+    "url": "https://technode.com/2026/05/29/catl-launches-worlds-largest-energy-storage-testbed-in-xiamen/",
+    "published": "Fri, 29 May 2026 12:31:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches Xuanji A3, calls it China’s first 4nm smart driving chip",
+    "summary": "At BYD’s launch event on Thursday, Wang Chuanfu, chairman and founder of BYD, unveiled BYD’s self-developed Xuanji A3, China’s first 4nm autonomous driving chip, which supports L3 and L4 autonomous driving capabilities. The chip has entered mass production and supports L3 and L4 autonomous driving. A three-chip configuration delivers a combined computing power of over […]",
+    "url": "https://technode.com/2026/05/29/byd-launches-xuanji-a3-calls-it-chinas-first-4nm-smart-driving-chip/",
+    "published": "Fri, 29 May 2026 08:37:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent launches WorkBuddy productivity AI agent for global users",
+    "summary": "Tencent Cloud has launched WorkBuddy, a productivity-focused AI agent for global users after first rolling out the product in China. The company said WorkBuddy is aimed at office workflows and can use natural language prompts to break down tasks, call external tools, and generate deliverables across work and study scenarios. WorkBuddy supports remote task execution […]",
+    "url": "https://technode.com/2026/05/29/tencent-launches-workbuddy-productivity-ai-agent-for-global-users/",
+    "published": "Fri, 29 May 2026 01:38:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "iFlytek launches 40g AI glasses with GlassClaw AI agent and advanced noise recognition",
+    "summary": "On Thursday, iFlytek unveiled its new AI smart glasses at BEYOND Expo 2026 in Macau under the theme Communication Without Boundaries, the World Before Your Eyes, showcasing the company’s latest push into AI-powered devices. At the launch event, Lin Huijie, General Manager of iFlytek’s Wearable Devices Business Department, said the company hopes the product can […]",
+    "url": "https://technode.com/2026/05/29/iflytek-launches-40g-ai-glasses-with-glassclaw-ai-agent-and-advanced-noise-recognition/",
+    "published": "Fri, 29 May 2026 00:54:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Ziyouliangji aims to use AI music platform Hitto to turn everyone into a song creator",
+    "summary": "As competition in large AI models gradually shifts from parameter races to real-world deployment capabilities, a number of Chinese AI startups focused on vertical scenarios are beginning to stand out. Among them is Ziyouliangji Information Technology, founded in 2023, which is attempting to redefine how ordinary people create music through AI. Unlike many companies concentrating […]",
+    "url": "https://technode.com/2026/05/28/ziyouliangji-aims-to-use-ai-music-platform-hitto-to-turn-everyone-into-a-song-creator/",
+    "published": "Thu, 28 May 2026 15:10:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaohongshu reportedly secures 2026 FIFA World Cup streaming rights in China",
+    "summary": "According to multiple sources familiar with the negotiations, Xiaohongshu has secured sublicensing rights for the 2026 FIFA World Cup in China from state broadcaster China Media Group, including live-streaming rights and rights for short-video secondary content creation. The move marks a major shift in China’s sports media landscape. During the previous World Cup cycle, Douyin […]",
+    "url": "https://technode.com/2026/05/26/xiaohongshu-reportedly-secures-2026-fifa-world-cup-streaming-rights-in-china/",
+    "published": "Tue, 26 May 2026 07:55:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Diablo IV China extends free base game giveaway until August 2026",
+    "summary": "Diablo IV’s China server operator announced that the limited-time free claim event for the game’s base edition, originally priced at RMB 128 ($18), has been extended until August 4, 2026. The promotion first launched on April 28 and attracted a large influx of new players into the game. According to the official announcement, the extension […]",
+    "url": "https://technode.com/2026/05/25/diablo-iv-china-extends-free-base-game-giveaway-until-august-2026/",
+    "published": "Mon, 25 May 2026 09:50:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei’s mate 90 series may launch with new Kirin chip this autumn",
+    "summary": "At the 2026 International Symposium on Circuits and Systems (ISCAS 2026) in Shanghai on Monday, He Tingbo, Huawei’s board member and head of its semiconductor business, said the company would launch a new Kirin smartphone chip this autumn that uses logic folding technology for the first time. The technology moves beyond conventional single-layer chip layouts […]",
+    "url": "https://technode.com/2026/05/25/huaweis-mate-90-series-expected-to-debut-new-kirin-chip-this-autumn/",
+    "published": "Mon, 25 May 2026 03:46:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "China launches first humanoid robot lifecycle management platform in Beijing",
+    "summary": "China has launched the country’s first full lifecycle management service platform for humanoid robots in Beijing. The platform gives each robot a unique digital identity and enables end-to-end tracking from production to recycling. The platform, led by the Ministry of Industry and Information Technology’s Standardization Technical Committee for Humanoid Robots and Embodied Intelligence, assigns every […]",
+    "url": "https://technode.com/2026/05/25/china-launches-first-humanoid-robot-lifecycle-management-platform-in-beijing/",
+    "published": "Mon, 25 May 2026 03:09:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tech Odyssey Series: Who writes the first cheque for Portugal’s youngest startups?",
+    "summary": "Previous on Tech Odyssey: In our last episode, we went to the University of Porto, INESC TEC, and UPTEC to see how research can move from the lab into startups. This time, we look at what often comes next: who backs those companies when they are still too early for most investors. When a startup […]",
+    "url": "https://technode.com/2026/05/22/tech-odyssey-series-who-writes-the-first-cheque-for-portugals-youngest-startups/",
+    "published": "Fri, 22 May 2026 08:12:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tesla rolls out supervised Full Self-Driving in China in wider global push",
+    "summary": "Tesla announced that its Full Self-Driving system, FSD Supervised, has launched across multiple countries and regions worldwide, with China included in the rollout. The release covers more than a dozen markets across North America, Asia-Pacific, and Europe. The launch marks another step in Tesla’s push to expand its advanced driver-assistance technology beyond the US, even […]",
+    "url": "https://technode.com/2026/05/21/tesla-rolls-out-supervised-full-self-driving-in-china-in-wider-global-push/",
+    "published": "Thu, 21 May 2026 02:27:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month",
+    "summary": "China Telecom has launched nationwide trial commercial Token subscription plans, marking an accelerated shift by telecom operators from selling data traffic to offering computing power services. The packages are divided into three plans for developers and small businesses, ranging from 39.9 yuan ($5.50) per month for 15 million Tokens to 299.9 yuan ($41.50) for 150 […]",
+    "url": "https://technode.com/2026/05/18/china-telecom-launches-trial-ai-token-subscription-plans-starting-at-1-4-per-month/",
+    "published": "Mon, 18 May 2026 02:26:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Oppo and Vivo gear up for year-end gimbal camera launches to take on DJI’s Pocket series",
+    "summary": "Oppo and Vivo are also reportedly developing their own Pocket-style handheld gimbal cameras, with launches expected before the end of this year, according to China Star Market. The report said both companies aim to leverage their strengths in imaging algorithms, AI features, and ecosystem integration to enter the lightweight video creation market and further expand […]",
+    "url": "https://technode.com/2026/05/15/oppo-and-vivo-gear-up-for-year-end-gimbal-camera-launches-to-take-on-djis-pocket-series/",
+    "published": "Fri, 15 May 2026 07:33:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
+    "summary": "TikTok launched its lifestyle services brand, TikTok GO, in Indonesia, the US and Japan, marking a further push into travel and local commerce. The company said TikTok GO allows users to discover and book hotels, attractions, dining and travel experiences directly within the app. The feature was first introduced in Indonesia in late April before […]",
+    "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
+    "published": "Thu, 14 May 2026 07:40:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Elon Musk praises Unitree’s rideable mech GD01, calls it “cool”",
+    "summary": "On Wednesday, Elon Musk praised Chinese robotics firm Unitree Robotics’ newly unveiled GD01 rideable mech on social media, calling the product “cool.” The Hangzhou-based company on Tuesday launched what it described as the world’s first mass-produced rideable transforming mech, with a starting price of 3.9 million yuan ($540,000). Unitree said the GD01 is designed as […]",
+    "url": "https://technode.com/2026/05/14/elon-musk-praises-unitrees-rideable-mech-gd01-calls-it-cool/",
+    "published": "Thu, 14 May 2026 07:09:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Baidu Create 2026: CEO says AI focus is moving from models to AI agents, foresees rise of super individuals",
+    "summary": "On Wednesday, the Create 2026 Baidu AI Developer Conference, themed Agents at Scale, opened in Beijing. During the opening ceremony, Robin Li, founder of Baidu, delivered a keynote speech centered on self-evolution, which he described as a defining theme of the AI era. The company also unveiled several AI products focused on intelligent agents and […]",
+    "url": "https://technode.com/2026/05/14/baidu-create-2026-ceo-says-ai-is-moving-from-model-competition-to-ai-agent-era-foresees-rise-of-super-individuals/",
+    "published": "Thu, 14 May 2026 01:10:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Antibody discovery platform Immunocan closes RMB250 million Series A",
+    "summary": "Shanghai-based Immunocan has closed a RMB250 million Series A round led by Vivo Capital, with participation from Gold Mine Multi Family Office and follow-on backing from existing investors including Kingray Capital and TigerYeah Capital. The company said the funds will be used to advance its gene-edited animal platforms, commercialize its fully human antibody rabbit platform, […]",
+    "url": "https://technode.com/2026/05/13/antibody-discovery-platform-immunocan-closes-rmb250-million-series-a/",
+    "published": "Wed, 13 May 2026 02:39:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "PARIS’ VIVATECH ENTERS A NEW DIMENSION FOR ITS 10TH ANNIVERSARY",
+    "summary": "From June 17 to 20 June 2026, Porte de Versailles (Paris) will host the 10th edition of VivaTech, Europe’s largest event dedicated to startups and technology. The event has established itself as an unmissable meeting platform for the tech world, at the crossroads of innovation, business and the most important debates around technology, with AI at […]",
+    "url": "https://technode.com/2026/05/08/paris-vivatech-enters-a-new-dimension-for-its-10th-anniversary/",
+    "published": "Fri, 08 May 2026 10:16:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-31"
   },
   {
     "source": "The Verge",
-    "title": "How one founder’s bet on ‘the old school web’ is paying off",
-    "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use […]",
-    "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-    "published": "2026-05-30T09:00:00-04:00",
+    "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
+    "summary": "Dell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that introductory deal only runs until September for back-to-school shopping; it'll start at $699 for everyone else. The $599 […]",
+    "url": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
+    "published": "2026-05-31T19:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "The Verge",
+    "title": "Apple’s strategy for smart glasses is the same as smart watches",
+    "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had Swatch, Fossil, and Seiko in its crosshairs. […]",
+    "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+    "published": "2026-05-31T17:33:11-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Check Startup Names for Availability",
+    "summary": "Article URL: https://nameclaim.xyz Comments URL: https://news.ycombinator.com/item?id=48347500 Points: 3 # Comments: 1",
+    "url": "https://nameclaim.xyz",
+    "published": "Sun, 31 May 2026 17:17:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Vibes.design – Show HN: Vibes.design – Launch AI Apps with Vibe-Coding",
+    "summary": "Article URL: https://www.vibes.design/ Comments URL: https://news.ycombinator.com/item?id=48346950 Points: 2 # Comments: 0",
+    "url": "https://www.vibes.design/",
+    "published": "Sun, 31 May 2026 16:20:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-05-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Postmortem for my UK company database startup (2025)",
+    "summary": "Article URL: https://developerwithacat.com/blog/052025/postmortem-company-database/ Comments URL: https://news.ycombinator.com/item?id=48346016 Points: 6 # Comments: 0",
+    "url": "https://developerwithacat.com/blog/052025/postmortem-company-database/",
+    "published": "Sun, 31 May 2026 14:38:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-05-31"
@@ -522,7 +792,7 @@
   {
     "source": "Hacker News",
     "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-    "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 406 # Comments: 459",
+    "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 414 # Comments: 466",
     "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
     "published": "Sat, 30 May 2026 13:56:34 +0000",
     "lang": "en",
@@ -532,7 +802,7 @@
   {
     "source": "Hacker News",
     "title": "Proposed new US funding rules: We can cancel any grant at any time",
-    "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 315 # Comments: 3",
+    "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 318 # Comments: 3",
     "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
     "published": "Sat, 30 May 2026 11:41:29 +0000",
     "lang": "en",
@@ -660,61 +930,17 @@
     "fetchedAt": "2026-05-31"
   },
   {
-    "source": "Hacker News",
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/ Comments URL: https://news.ycombinator.com/item?id=48317093 Points: 269 # Comments: 149",
-    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "published": "Thu, 28 May 2026 23:42:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic leapfrogs OpenAI as most valuable AI startup",
-    "summary": "Article URL: https://www.businessinsider.com/anthropic-surpasses-openai-with-965b-valuation-debuts-opus-4-8-2026-5 Comments URL: https://news.ycombinator.com/item?id=48316994 Points: 1 # Comments: 0",
-    "url": "https://www.businessinsider.com/anthropic-surpasses-openai-with-965b-valuation-debuts-opus-4-8-2026-5",
-    "published": "Thu, 28 May 2026 23:30:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Airbnb host alleges $12k in damages after SF startup tested a robot in his house",
-    "summary": "Article URL: https://www.sfgate.com/tech/article/airbnb-startup-robot-damages-lawsuit-22279560.php Comments URL: https://news.ycombinator.com/item?id=48314776 Points: 4 # Comments: 1",
-    "url": "https://www.sfgate.com/tech/article/airbnb-startup-robot-damages-lawsuit-22279560.php",
-    "published": "Thu, 28 May 2026 20:12:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-05-31"
-  },
-  {
     "source": "微博",
     "title": "#孙杨 下沉市场口碑反转#",
-    "summary": "热",
+    "summary": "",
     "url": "https://s.weibo.com/weibo?q=%23孙杨 下沉市场口碑反转%23",
     "published": "2026-05-31",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "hotValue": 339064,
-      "rank": 5
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#刘诗诗下沉市场#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23刘诗诗下沉市场%23",
-    "published": "2026-05-31",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-05-31",
-    "meta": {
-      "hotValue": 320245,
-      "rank": 12
+      "hotValue": 163910,
+      "rank": 34
     }
   },
   {
@@ -731,17 +957,19 @@
     }
   },
   {
-    "source": "V2EX",
-    "title": "AI 编程时代， MVP 思维已经失效了？",
-    "summary": "最近在用 Rust 写一个 AI Agent 操作系统内核，叫 Agent OS 。37 个 crate ，1232 个测试，用 craft agent 都写了十几天。 不止一个朋友问过我：你为什么不先用 Python 快速搭个原型？先验证需求，等跑通了再用 Rust 重写。 以前我会觉得这是个好建议。但这次我拒绝了。 原因很简单：我在用 AI 编程的过程中，逐渐意识到一件事——在 AI 时代，MVP 那套\"先简后优\"的逻辑，前提已经不存在了。 传统 MVP 的核心假设是：简易实现和高质量实现之间有显著的成本差，先用低成本验证，验证通过再投入。这个在人写代码的时代是成立",
-    "url": "https://www.v2ex.com/t/1216691",
-    "published": 1780140349,
-    "lang": "zh",
-    "type": "community",
+    "source": "GitHub新星",
+    "title": "pewdiepie-archdaemon/odysseus",
+    "summary": "Self-hosted AI workspace.",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "published": "2026-05-31T14:05:51Z",
+    "lang": "en",
+    "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "replies": 26,
-      "node": "程序员"
+      "stars": 7065,
+      "forks": 993,
+      "language": "JavaScript",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -754,10 +982,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 1855,
-      "forks": 193,
+      "stars": 2019,
+      "forks": 206,
       "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -770,10 +998,10 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 1287,
-      "forks": 111,
+      "stars": 1418,
+      "forks": 118,
       "language": null,
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -786,8 +1014,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 708,
-      "forks": 209,
+      "stars": 877,
+      "forks": 232,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -802,10 +1030,26 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 693,
-      "forks": 48,
+      "stars": 796,
+      "forks": 54,
       "language": "Go",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "GordenSun/GordenPPTSkill",
+    "summary": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+    "url": "https://github.com/GordenSun/GordenPPTSkill",
+    "published": "2026-05-27T10:25:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-31",
+    "meta": {
+      "stars": 754,
+      "forks": 75,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -818,8 +1062,8 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 637,
-      "forks": 156,
+      "stars": 665,
+      "forks": 160,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -834,9 +1078,25 @@
     "type": "signal",
     "fetchedAt": "2026-05-31",
     "meta": {
-      "stars": 632,
-      "forks": 28,
+      "stars": 657,
+      "forks": 29,
       "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "baoweise-bot/aimili-vpngate",
+    "summary": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+    "url": "https://github.com/baoweise-bot/aimili-vpngate",
+    "published": "2026-05-25T14:13:24Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-05-31",
+    "meta": {
+      "stars": 647,
+      "forks": 234,
+      "language": "Python",
       "createdDaysAgo": 6
     }
   }
