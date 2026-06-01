@@ -114,15 +114,8 @@
       "fetchedAt": "2026-06-01",
       "website": {
         "website": "https://deepseek.com",
-        "emails": [
-          "service@deepseek.com",
-          "security@deepseek.com"
-        ],
-        "socials": {
-          "twitter": "deepseek_ai",
-          "github": "deepseek-ai",
-          "wechat": "QRCodeImageLink"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
@@ -174,29 +167,8 @@
           "twitter": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
+        "careerPage": "https://github.com/join",
+        "jobListings": []
       },
       "github": {},
       "hiring": [],
@@ -894,29 +866,8 @@
           "github": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
+        "careerPage": "https://github.com/join",
+        "jobListings": []
       },
       "github": {},
       "hiring": [],
@@ -947,29 +898,8 @@
           "github": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
+        "careerPage": "https://github.com/join",
+        "jobListings": []
       },
       "github": {},
       "hiring": [],
@@ -1195,29 +1125,8 @@
           "twitter": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
+        "careerPage": "https://github.com/join",
+        "jobListings": []
       },
       "github": {},
       "hiring": [],
@@ -1551,12 +1460,12 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
-          "events@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com"
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
         ],
         "socials": {
           "twitter": "_LatitudeMedia",
@@ -1704,29 +1613,8 @@
           "twitter": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/careers",
-        "jobListings": [
-          "Taylor, Engineering",
-          "Developer API",
-          "Product",
-          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
-          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
-          "var videoData;",
-          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
-          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
-          "for (var answer of videoWidgetData.answers) {",
-          "videoData = answer;",
-          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
-          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
-          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
-          "window._jibe.models.jobs.paramsImpression.paramsData;",
-          "Candidate Data Privacy",
-          "Write better code with AI",
-          "var xmlRiskyhttp = new XMLHttpRequest();",
-          "var xmlSafehttp = new XMLHttpRequest();",
-          "newText.innerHTML = '';",
-          "window.useHTML4 = true;"
-        ]
+        "careerPage": "https://github.com/join",
+        "jobListings": []
       },
       "github": {},
       "hiring": [],
