@@ -1,8 +1,18 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+    "summary": "大公司： 瑞典AI初创公司Lovable与Google Cloud扩大多年期合作 据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面） 美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元 美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望达200亿美元；下一财年产品年化营收规模将突破500亿美元，英伟达有望跻身全球头部服务器CPU供应商。（新浪财经） 段永平在泡泡玛特持股比例升至6.04% 36氪获悉，据港交所权益披露，段永平在泡泡玛特H股的持股比例于5月28日从5.69%升至6.04%。 兖矿能源：拟164.15亿元收购控股股东旗下新能源集团及山能售电100%股权 36氪获悉，兖矿能源公告，公司拟以现金164.15亿元收购控股股东山能集团旗下新能源集团100%股权及山能售电100%股权。本次交易旨在通过注入优质电力资产，快速壮大电力业务规模，育强新兴产业，同时切实减少公司与控股股东在电",
+    "url": "https://36kr.com/p/3837330582008963?f=rss",
+    "published": "2026-06-03 23:01:21  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "36氪",
     "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
-    "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。 36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山这一波 MaaS 营收增长几乎都归功于 Seedance 2.0 的爆发——视频模型 Seedance 2.0 如今已经能带来单月超 10 亿元的收入。 一位接近火山的人士透露，截至目前，火山引擎 Token 日均消耗量仍然保持着月度近 40% 的增速。 2025 年， 业界还在为谁才是把 MaaS 卖的最多最好价的那朵云 争论不休；来到 2026 年，行业共识已经前所未有地清晰——做出顶尖模型是迅速拉高 Token 消耗、并让客户愿意为之付费的最好方式。 Token 大战，如今已经清晰地划分为两条战线：一条是 Coding （代码）模型，另一条则是视频模型。相比拥挤的LLM模型赛道里各家公司已经把模型打到地板价，头部的 ",
+    "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。 36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山这一波 MaaS 营收增长几乎都归功于 Seedance 2.0 的爆发——视频模型 Seedance 2.0 如今已经能带来单月超 10 亿元的收入。 一位接近火山的人士透露，截至目前，火山引擎 Token 日均消耗量仍然保持着月度近 40% 的增速。 2025 年， 业界还在为谁才是把 MaaS 卖的最多最好价的那朵云 争论不休；来到 2026 年，行业共识已经前所未有地清晰——做出顶尖模型是迅速拉高 Token 消耗、并让客户愿意为之付费的最好方式。 Token 大战，如今已经清晰地划分为两条战线：一条是 Coding （代码），另一条则是视频。相比拥挤的常规文本对话场景里，各家公司已经把模型打到地板价，代码生成和视",
     "url": "https://36kr.com/p/3836973710423429?f=rss",
     "published": "2026-06-03 13:28:20  +0800",
     "lang": "zh",
@@ -81,40 +91,50 @@
   },
   {
     "source": "36氪",
-    "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，居家养老消费电子品牌「元生智能」完成新一轮超千万元Pre-A轮融资。本轮融资由银创资本领投，东科创跟投。本轮资金将主要用于渠道拓展以及相关新产品的持续迭代。 元生智能是硬氪长期关注的企业，成立于2022年，主要为65岁以上空巢、独居老人提供居家看护产品。公司创始人、CEO邓龙生曾任小天才学习平板产品负责人、星火教育合伙人；联合创始人房少杰同样来自小天才，曾任小天才电话手表及火火兔产品负责人。 元生智能旗下老年看护品牌「亲鹿」于2025年初推出亲鹿Z9老人看护机，并开启全渠道销售，目前已进入快速增长阶段。 今年，公司进一步升级防跌倒模型，并推出新品D系列看护机以及焕新版的Z9E。 （图源/企业） 新一代模型采用毫米波雷达与视觉融合的大模型方案进行跌倒检测，采用混合大模型融合技术，实现了更快速、更精准的识别响应。当前，产品跌倒检测精度已达到行业领先水平，误报率与漏报率均维持在极低水平。 除跌倒识别与家属联络功能外，产品还可基于毫米波雷达技术，对老人的心率与呼吸状态进行实时监测。当老人心率过低或过高时，系统将自动触发预警并通知家属。 D系列",
-    "url": "https://36kr.com/p/3835387558065541?f=rss",
-    "published": "2026-06-02 10:00:58  +0800",
+    "title": "世界半导体贸易统计组织：预计2026年全球半导体市场规模或超10万亿元",
+    "summary": "由主要半导体厂商组成的世界半导体贸易统计组织，6月2日发布预测报告，报告预测，2026年全球半导体市场规模较2025年增长近90%，达到1.511万亿美元，约合人民币10.2万亿元，预计2027年增长26.6%，市场规模进一步升至1.914万亿美元，约合人民币12.9万亿元。从产品分类来看，报告预测存储芯片今年同比增幅将达到惊人的249.5%，规模突破8000亿美元大关，一举超越2025年半导体整体市场规模。逻辑芯片预计增长37.3%，规模达4100亿美元。（央视财经）",
+    "url": "https://36kr.com/newsflashes/3837622864218625?f=rss",
+    "published": "2026-06-04 07:23:40  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "36氪",
-    "title": "比亚迪入局人形机器人",
-    "summary": "近日，比亚迪集团执行副总裁李柯在一档访谈节目中明确表示：“比亚迪也在开发（人形机器人）。机器人的竞争在于谁有最强的制造能力、软件能力和硬件能力，而汽车相关AI能力与机器人有同源性，如果有一天我们认为机器人可以走向家庭，就可以通过经销商网络售卖比亚迪的机器人。”她还表示，比亚迪可以做一个开放的平台，既可以是比亚迪自己做机器人，也可以是跟其他企业合作的机器人。6月3日，据接近比亚迪人士处消息，该公司确实已在研发人形机器人。（第一财经）",
-    "url": "https://36kr.com/newsflashes/3837337385760128?f=rss",
-    "published": "2026-06-03 19:01:26  +0800",
+    "title": "SpaceX敲定IPO发行价，拟募资750亿美元、估值有望接近1.77万亿美元",
+    "summary": "SpaceX当地时间6月3日向美国证监会提交的文件显示，该公司计划以每股135美元的价格推介约5.556亿股，计划募资750亿美元。按这一价格并根据文件中列明的流通股数计算，SpaceX市值将接近1.77万亿美元。（界面）",
+    "url": "https://36kr.com/newsflashes/3838062817462789?f=rss",
+    "published": "2026-06-04 07:19:23  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "36氪",
-    "title": "瑞典AI初创公司Lovable与Google Cloud扩大多年期合作",
-    "summary": "据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）",
-    "url": "https://36kr.com/newsflashes/3837278177014914?f=rss",
-    "published": "2026-06-03 18:01:13  +0800",
+    "title": "Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元",
+    "summary": "6月3日，谷歌母公司Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元。其中，A类普通股和C类资本股的发行规模从先前宣布的150亿美元上调至180亿美元；存托股的发行规模从先前宣布的150亿美元上调至167.5亿美元。文件显示，A类普通股和C类资本股的发行预计将于2026年6月4日完成，存托股的发行预计将于2026年6月5日完成。（界面）",
+    "url": "https://36kr.com/newsflashes/3837610942236932?f=rss",
+    "published": "2026-06-04 07:04:33  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "36氪",
-    "title": "星邑空间完成中国四维高景二号05/06双星绕飞任务",
-    "summary": "36氪获悉，星邑空间完成中国四维“高景二号”05/06双星绕飞任务。据了解，作为独家承担测运控托管单位，星邑空间完成了初轨捕获、相位漂移、双星跟飞、编队绕飞构型建立等一系列复杂轨道控制。本次任务是目前商业航天领域轨道构型较先进的“双星编队绕飞+两组四星协同”项目。",
-    "url": "https://36kr.com/newsflashes/3837270245422465?f=rss",
-    "published": "2026-06-03 17:53:09  +0800",
+    "title": "文远知行正式纳入港股通",
+    "summary": "36氪获悉，6月3日，自动驾驶科技公司文远知行WeRide宣布，公司港股正式被纳入港股通标的证券名单，该调整将于6月4日正式生效。纳入港股通后，符合条件的内地投资者可通过港股通机制买卖文远知行在香港联交所交易的股票。",
+    "url": "https://36kr.com/newsflashes/3837455275985152?f=rss",
+    "published": "2026-06-03 21:01:22  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "36氪",
+    "title": "永冠新材：拟定增募资不超过9.27亿元，用于年产2000吨电子级玻璃纤维布建设等项目",
+    "summary": "36氪获悉，永冠新材公告，公司拟向不超过35名特定投资者发行股票，募集资金总额不超过9.27亿元，扣除发行费用后将用于年产2000吨电子级玻璃纤维布建设项目、年产16500吨线束胶带建设项目、智能制造数智化技术升级项目及补充流动资金。本次发行尚需公司股东会审议通过、上交所审核通过并经证监会同意注册。",
+    "url": "https://36kr.com/newsflashes/3837437434087944?f=rss",
+    "published": "2026-06-03 20:43:13  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
@@ -340,26 +360,6 @@
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "钛媒体",
-    "title": "16万新能源指标尘埃落定，准购车人买车，先看啥？",
-    "summary": "购买电车认准“三大件”。",
-    "url": "https://www.tmtpost.com/8013580.html",
-    "published": "Wed, 03 Jun 2026 17:09:57 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "钛媒体",
-    "title": "AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？",
-    "summary": "坐完“过山车”后，被高估还是价值回归？",
-    "url": "https://www.tmtpost.com/8012894.html",
-    "published": "Wed, 03 Jun 2026 17:00:21 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购",
     "summary": "· Alphabet 拟融资 800 亿美元投入 AI 基建 · 字节 Seed 机器人团队转向周畅汇报 · Codex 免费账号配额缩水，7 天重置周期变 30 天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -421,90 +421,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "The world’s largest privately owned laser just turned on",
-    "summary": "Fusion startup Xcimer fired up the world's largest privately owned laser.",
-    "url": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
-    "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+    "title": "Defense tech is flooded with money, but who’s built to last?",
+    "summary": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them will get lost in the Valley of Death between prototype contract […]",
+    "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+    "published": "Wed, 03 Jun 2026 20:51:41 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "TechCrunch",
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "published": "Tue, 02 Jun 2026 22:50:56 +0000",
+    "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+    "summary": "The prominent AI music-generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
+    "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+    "published": "Wed, 03 Jun 2026 15:31:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "TechCrunch",
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "published": "Tue, 02 Jun 2026 19:02:21 +0000",
+    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+    "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "published": "Wed, 03 Jun 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "TechCrunch",
-    "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
-    "summary": "A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.",
-    "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
-    "published": "Tue, 02 Jun 2026 18:31:22 +0000",
+    "title": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
+    "summary": "The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.",
+    "url": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
+    "published": "Wed, 03 Jun 2026 14:04:38 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "TechCrunch",
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-    "published": "Tue, 02 Jun 2026 18:02:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-    "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
-    "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-    "published": "Tue, 02 Jun 2026 18:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
-    "summary": "Another fusion startup has raised another a massive round to make this type of power a reality.",
-    "url": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
-    "published": "Tue, 02 Jun 2026 17:01:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI launches new Codex tools for white-collar work",
-    "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.",
-    "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "published": "Tue, 02 Jun 2026 16:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
-    "summary": "Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union Square Ventures.",
-    "url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
-    "published": "Tue, 02 Jun 2026 15:56:08 +0000",
+    "title": "Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’",
+    "summary": "This open source community project lets you create a StumbleUpon-like experience for recommending your favorite sites.",
+    "url": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
+    "published": "Wed, 03 Jun 2026 14:00:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
@@ -741,30 +701,50 @@
   },
   {
     "source": "The Verge",
-    "title": "God of War Laufey is coming to the PS5",
-    "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch. This time, […]",
-    "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-    "published": "2026-06-02T18:16:08-04:00",
+    "title": "Dreame’s L20 Ultra robovac is an unbeatable deal for $280",
+    "summary": "The Dreame L20 Ultra isn’t the company’s newest model, but it’s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, […]",
+    "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
+    "published": "2026-06-03T10:53:10-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "The Verge",
-    "title": "Remedy’s Control sequel launches in September",
-    "summary": "Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play show. The trailer also gave a preview of the game's story, which stars Dylan Faden, who was imprisoned for much of the first game. He will be […]",
-    "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
-    "published": "2026-06-02T17:55:32-04:00",
+    "source": "Hacker News",
+    "title": "SpaceX Seeks $75B in Record IPO Plan to Fund AI, Launch",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch Comments URL: https://news.ycombinator.com/item?id=48390091 Points: 2 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
+    "published": "Wed, 03 Jun 2026 21:08:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "The Verge",
-    "title": "Here’s seven bloody minutes of Wolverine on the PS5",
-    "summary": "At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the iconic yellow Wolverine outfit, Logan slunk around and stabbed his way through a bunch of enemies, using his blades to take them […]",
-    "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
-    "published": "2026-06-02T17:11:46-04:00",
+    "source": "Hacker News",
+    "title": "Luddite Lab Resource Hub Launch Webinar",
+    "summary": "Article URL: https://peertube.dair-institute.org/w/4evWrVsa7igh622WT8E5X2 Comments URL: https://news.ycombinator.com/item?id=48388208 Points: 2 # Comments: 0",
+    "url": "https://peertube.dair-institute.org/w/4evWrVsa7igh622WT8E5X2",
+    "published": "Wed, 03 Jun 2026 18:54:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+    "summary": "Hey HN, we’re Shalin & Kanyes, best friends who've been hacking together for 10+yrs, and now founders of Hyper ( https://heyhyper.ai/ ). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time. Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that these smart-enough models often lack information about your company, whic",
+    "url": "https://news.ycombinator.com/item?id=48387095",
+    "published": "Wed, 03 Jun 2026 17:39:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "Hacker News",
+    "title": "German startup advancing compressor-free electrocaloric heat pump technology",
+    "summary": "Article URL: https://www.pv-magazine.com/2026/06/02/german-startup-advancing-compressor-free-electrocaloric-heat-pump-technology/ Comments URL: https://news.ycombinator.com/item?id=48383151 Points: 46 # Comments: 0",
+    "url": "https://www.pv-magazine.com/2026/06/02/german-startup-advancing-compressor-free-electrocaloric-heat-pump-technology/",
+    "published": "Wed, 03 Jun 2026 12:35:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
@@ -772,7 +752,7 @@
   {
     "source": "Hacker News",
     "title": "How long will it take to rebuild Blue Origin's launch pad?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/ Comments URL: https://news.ycombinator.com/item?id=48382369 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/ Comments URL: https://news.ycombinator.com/item?id=48382369 Points: 15 # Comments: 4",
     "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
     "published": "Wed, 03 Jun 2026 11:02:48 +0000",
     "lang": "en",
@@ -782,7 +762,7 @@
   {
     "source": "Hacker News",
     "title": "In a surprise launch, China debuts another big rocket designed for reusability",
-    "summary": "Article URL: https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/ Comments URL: https://news.ycombinator.com/item?id=48382323 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/ Comments URL: https://news.ycombinator.com/item?id=48382323 Points: 2 # Comments: 0",
     "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
     "published": "Wed, 03 Jun 2026 10:55:45 +0000",
     "lang": "en",
@@ -930,46 +910,6 @@
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "Hacker News",
-    "title": "Check Startup Names for Availability",
-    "summary": "Article URL: https://nameclaim.xyz Comments URL: https://news.ycombinator.com/item?id=48347500 Points: 3 # Comments: 1",
-    "url": "https://nameclaim.xyz",
-    "published": "Sun, 31 May 2026 17:17:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Vibes.design – Show HN: Vibes.design – Launch AI Apps with Vibe-Coding",
-    "summary": "Article URL: https://www.vibes.design/ Comments URL: https://news.ycombinator.com/item?id=48346950 Points: 2 # Comments: 0",
-    "url": "https://www.vibes.design/",
-    "published": "Sun, 31 May 2026 16:20:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Postmortem for my UK company database startup (2025)",
-    "summary": "Article URL: https://developerwithacat.com/blog/052025/postmortem-company-database/ Comments URL: https://news.ycombinator.com/item?id=48346016 Points: 6 # Comments: 0",
-    "url": "https://developerwithacat.com/blog/052025/postmortem-company-database/",
-    "published": "Sun, 31 May 2026 14:38:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Blue Origin faces months of delays after rocket explosion damages launch pad",
-    "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/ Comments URL: https://news.ycombinator.com/item?id=48343525 Points: 4 # Comments: 0",
-    "url": "https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/",
-    "published": "Sun, 31 May 2026 06:38:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
     "source": "GitHub新星",
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "Self-hosted AI workspace.",
@@ -979,10 +919,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 37911,
-      "forks": 4446,
+      "stars": 43230,
+      "forks": 5029,
       "language": "JavaScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -995,42 +935,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 1806,
-      "forks": 505,
+      "stars": 1911,
+      "forks": 530,
       "language": "TypeScript",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Sophomoresty/gemini-web2api",
-    "summary": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-    "url": "https://github.com/Sophomoresty/gemini-web2api",
-    "published": "2026-05-28T11:25:55Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-03",
-    "meta": {
-      "stars": 1313,
-      "forks": 337,
-      "language": "Python",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "asz798838958/aBaiAutoplus",
-    "summary": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "url": "https://github.com/asz798838958/aBaiAutoplus",
-    "published": "2026-05-31T14:29:52Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-03",
-    "meta": {
-      "stars": 1260,
-      "forks": 610,
-      "language": "Python",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -1043,10 +951,42 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 1159,
-      "forks": 355,
+      "stars": 1449,
+      "forks": 410,
       "language": "Rust",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "asz798838958/aBaiAutoplus",
+    "summary": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "published": "2026-05-31T14:29:52Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-03",
+    "meta": {
+      "stars": 1380,
+      "forks": 649,
+      "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Sophomoresty/gemini-web2api",
+    "summary": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "url": "https://github.com/Sophomoresty/gemini-web2api",
+    "published": "2026-05-28T11:25:55Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-03",
+    "meta": {
+      "stars": 1347,
+      "forks": 344,
+      "language": "Python",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1059,10 +999,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 921,
-      "forks": 60,
+      "stars": 1024,
+      "forks": 64,
       "language": "Go",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]
