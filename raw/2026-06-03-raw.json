@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
+    "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。 36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山这一波 MaaS 营收增长几乎都归功于 Seedance 2.0 的爆发——视频模型 Seedance 2.0 如今已经能带来单月超 10 亿元的收入。 一位接近火山的人士透露，截至目前，火山引擎 Token 日均消耗量仍然保持着月度近 40% 的增速。 2025 年， 业界还在为谁才是把 MaaS 卖的最多最好价的那朵云 争论不休；来到 2026 年，行业共识已经前所未有地清晰——做出顶尖模型是迅速拉高 Token 消耗、并让客户愿意为之付费的最好方式。 Token 大战，如今已经清晰地划分为两条战线：一条是 Coding （代码）模型，另一条则是视频模型。相比拥挤的LLM模型赛道里各家公司已经把模型打到地板价，头部的 ",
+    "url": "https://36kr.com/p/3836973710423429?f=rss",
+    "published": "2026-06-03 13:28:20  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "36氪",
     "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
     "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根本性切换。行业告别侧重舞台预设演示的粗放比拼，转而直面真实物理环境下的复杂落地难题。技术路线尚未收敛，各家厂商基于对落地路径的不同理解，在传动方案、模型架构、数据策略等维度做出了差异化的探索与取舍。 星尘智能成立于2022年，创始人兼CEO来杰在AI与机器人领域拥有超过17年研发设计经验，主导研发过多款新型机器人，曾任腾讯机器人实验室1号员工与架构师、百度小度机器人”团队负责人。 创业初期，来杰就",
     "url": "https://36kr.com/p/3836068296209537?f=rss",
@@ -81,80 +91,70 @@
   },
   {
     "source": "36氪",
-    "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
-    "summary": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。 而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。 36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的产品合作部署意向。 元节智能的创始团队带有鲜明的“美团基因”。 创始人兼CEO王栋博士曾任美团外卖事业部技术负责人，管理千人产研团队，主导构建支撑日均数千万订单的外卖算法、数据与系统架构；联合创始人李滔曾执掌美团外卖算法与数据体系，是少数真正跑通过“全链路数据算法驱动”的技术负责人；联合创始人李浩哲则是连续创业者，具备多年全球化商业落地经验。 过去几年，餐饮数字化已经被SaaS、点餐小程序、配送调度系统改造了一轮又一轮，但当全球外卖订单持续攀升，一个长期被忽视的问题开始变得越来越突出：从商家出餐到骑手取餐之间，仍然存在大量高度依赖人工的物理操作环节。 比",
-    "url": "https://36kr.com/p/3834292242130825?f=rss",
-    "published": "2026-06-02 09:57:17  +0800",
+    "title": "比亚迪入局人形机器人",
+    "summary": "近日，比亚迪集团执行副总裁李柯在一档访谈节目中明确表示：“比亚迪也在开发（人形机器人）。机器人的竞争在于谁有最强的制造能力、软件能力和硬件能力，而汽车相关AI能力与机器人有同源性，如果有一天我们认为机器人可以走向家庭，就可以通过经销商网络售卖比亚迪的机器人。”她还表示，比亚迪可以做一个开放的平台，既可以是比亚迪自己做机器人，也可以是跟其他企业合作的机器人。6月3日，据接近比亚迪人士处消息，该公司确实已在研发人形机器人。（第一财经）",
+    "url": "https://36kr.com/newsflashes/3837337385760128?f=rss",
+    "published": "2026-06-03 19:01:26  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "36氪",
-    "title": "DeepSeek计划在首轮融资中募资约70亿美元",
-    "summary": "知情人士透露，DeepSeek计划在首轮融资中募资约70亿美元，这家人工智能初创企业估值将达到最高590亿美元。腾讯和宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参与投资。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3836944039228549?f=rss",
-    "published": "2026-06-03 12:21:18  +0800",
+    "title": "瑞典AI初创公司Lovable与Google Cloud扩大多年期合作",
+    "summary": "据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）",
+    "url": "https://36kr.com/newsflashes/3837278177014914?f=rss",
+    "published": "2026-06-03 18:01:13  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "36氪",
-    "title": "汤臣倍健等在天津成立新合伙企业，出资额6.8亿",
-    "summary": "36氪获悉，天眼查App显示，近日，天津砺思星灵创业投资合伙企业（有限合伙）成立，执行事务合伙人为天津砺思明棠企业管理咨询合伙企业（有限合伙），出资额6.8亿人民币，经营范围为创业投资、以自有资金从事投资活动。合伙人信息显示，该合伙企业由汤臣倍健、宁波浦润投资合伙企业（有限合伙）、上海众源二期私募投资基金（有限合伙）、南京华泰洋河股权投资母基金（有限合伙）等共同出资。",
-    "url": "https://36kr.com/newsflashes/3836933583189384?f=rss",
-    "published": "2026-06-03 12:20:39  +0800",
+    "title": "星邑空间完成中国四维高景二号05/06双星绕飞任务",
+    "summary": "36氪获悉，星邑空间完成中国四维“高景二号”05/06双星绕飞任务。据了解，作为独家承担测运控托管单位，星邑空间完成了初轨捕获、相位漂移、双星跟飞、编队绕飞构型建立等一系列复杂轨道控制。本次任务是目前商业航天领域轨道构型较先进的“双星编队绕飞+两组四星协同”项目。",
+    "url": "https://36kr.com/newsflashes/3837270245422465?f=rss",
+    "published": "2026-06-03 17:53:09  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "36氪",
-    "title": "PitchBook分析师：SpaceX合理估值1.5万亿美元，AI业务5年内难扭亏",
-    "summary": "SpaceX即将启动史诗级IPO，市场传出其将以1.75万亿美元估值冲刺上市。专注私募股权、创投的金融数据公司PitchBook认为，SpaceX合理估值为1.5万亿美元，其余是太空、AI叙事与“马斯克光环”的溢价。AI业务方面，PitchBook资深研究分析师Franco Granda直言，虽然这部分去年贡献约7%收入，却带来高达140亿美元自由现金流亏损，对Grok的单独盈利前景持悲观态度，认为未来五年甚至更长时间都难以摆脱亏损，官方设定2029或2030年达盈亏平衡的目标实属过度乐观。（界面）",
-    "url": "https://36kr.com/newsflashes/3836915776959620?f=rss",
-    "published": "2026-06-03 11:52:33  +0800",
+    "source": "创业邦",
+    "title": "从科学计算到量子计算：众智FlagOS·科学智能基座首次发布",
+    "summary": "在5月28日开幕的2026世界智能产业博览上，北京智源人工智能研究院发布了“众智FlagOS·科学智能基座”，基于FlagOS统一软件栈跨芯能力的智能科学计算基座，正式将FlagOS的多芯能力从大模型推理拓展到科学计算、量子计算等关键领域，并且在次日的“开放计算赋能智能体：从多芯算力到Agent应用生态”开发者分论坛上，FlagOS与参加论坛的200多位开发者一起，从计算基座、智能应用到生态共建逐层展开，将这一主题变成一场与开发者社区、产业界和学界共鸣的开放对话。 FlagOS for Science四连发首日主论坛上，智源研究院副院长兼总工程师林咏华发布“众智FlagOS·科学智能基座”。她首先介绍了FlagOS——由智源牵头联合清华、北大、中科院及十余家芯片厂商共建的开源、统一AI系统软件栈，以“一次开发，多芯运行”为目标，已支持18家厂商32款芯片。并随后发布了FlagOS的多项AI for Science 重要成果。 发布一：科学计算算子库。发布AI for Science算子库，从大模型专用走向科学计算全领域。在FlagGems 510+通用算子基础上新增六大领域库——Fla",
+    "url": "http://www.cyzone.cn/article/835515.html",
+    "published": "Wed, 03 Jun 2026 08:45:16 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "36氪",
-    "title": "蔚来在丽水成立汽车销售服务公司",
-    "summary": "36氪获悉，天眼查App显示，近日，丽水蔚乐萤汽车销售服务有限公司成立，法定代表人为严霞敏，注册资本500万人民币，经营范围包括新能源汽车整车销售、新能源汽车换电设施销售、新能源汽车电附件销售等，由蔚来汽车销售服务有限公司全资持股。",
-    "url": "https://36kr.com/newsflashes/3836912533927303?f=rss",
-    "published": "2026-06-03 11:49:16  +0800",
+    "source": "创业邦",
+    "title": "​第十届集微大会在沪圆满收官：铸芯十年论策在张江，科创逐浪AI启新章",
+    "summary": "作者 | 姜羽桐 5月29日，为期三天的2026第十届集微大会在上海张江科学会堂圆满闭幕。本届大会聚焦“AI重构未来，生态协同致远”主题，由半导体投资联盟、浦东科创集团、ICT知识产权发展联盟、海望资本联合主办；爱集微承办，广纳全球产业力量，共建半导体产业全新生态。 自2017年首届举办至今，集微大会已陪伴中国集成电路产业走过十载征程，成为行业“风向标”。十年间，全球集成电路产业体量从4000亿美元稳步迈向万亿规模，国内集成电路产业也实现了跨越式。回溯往届集微大会，始终跟随行业发展律动，持续探寻半导体产业行稳致远的发展之路。 立足十载创新节点，本届大会在延续往届高规格办会宗旨的基础上，融合“会议、展览、路演、晚宴”等多元形式，凸显国际化、专业化、特色化定位，汇聚全球数百位业界领袖、智库专家以及领军企业高管，累计呈现近200场主题演讲，参会总人数突破7000人次，规模与影响力双双创下历史新高！ 主峰会：十年砺芯行稳，群英论道未来 集微大会主峰会作为历届大会的“高峰”，一直备受关注和期待。政府嘉宾、专家学者、产业领袖、投资界代表等汇聚一堂，深度解析半导体技术突破，共同擘画气势恢宏的行业“芯",
+    "url": "http://www.cyzone.cn/article/835514.html",
+    "published": "Wed, 03 Jun 2026 08:34:10 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "36氪",
-    "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
-    "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.56%，深成指涨2.31%，创业板指涨3.97%；通信设备、半导体、电子元器件板块领涨，晶赛科技涨超27%，源杰科技涨超18%，天孚通信涨超14%；教育、海运、白酒板块跌幅居前，中公教育跌超5%，中远海能、酒鬼酒跌超3%。",
-    "url": "https://36kr.com/newsflashes/3836895782352008?f=rss",
-    "published": "2026-06-03 11:32:13  +0800",
+    "source": "创业邦",
+    "title": "「聚浪成潮，驭势向新」 2026水木清华校友种子基金年会圆满举办",
+    "summary": "5 月 29 日， “聚浪成潮，驭势向新” 2026 水木清华校友种子基金年会在北京圆满举办。水木 LP 代表、被投企业创始人、媒体、特邀合作伙伴等百余人齐聚一堂。 清华大学校务委员会副主任杨斌，上海国有资本投资有限公司副总裁许业荣，启迪之星董事长张金生，上海未来产业基金投资总监郝向锋，中关村科学城副总经理聂丽霞，洪泰基金创始合伙人、董事长盛希泰，上海未来产业基金投资执行总经理蔡金旭，屹唐资本总经理于亚楠，世纪长河董事长郭美玲，超威集团副总裁马长富，北京祈年投资董事长陈玉明，湖南财鑫资本管理有限公司长三角办事处负责人杨雪，中保投资（北京）有限责任公司总经理胡汇杰，杭州银行科创金融事业总部总经理郭栋耿出席活动。水木清华校友种子基金管理合伙人王学辉全程主持。 清华大学校务委员会副主任杨斌作开场致辞。他表示，12 年来，以水木清华校友种子基金团队为代表的“不教而教”的校友力量，让很多老师、同学和校友受益；早在 2015 年双创教育开展之前，水木等伙伴就为学校在教育教学主阵地促进创新创业教育作出了重要贡献。 杨斌指出，以人工智能为代表的科技发展，对大学产生了重要挑战和转变机遇，过去通常发生在课",
+    "url": "http://www.cyzone.cn/article/835496.html",
+    "published": "Wed, 03 Jun 2026 05:58:57 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "36氪",
-    "title": "创业板指站上4200点",
-    "summary": "36氪获悉，创业板指站上4200点。",
-    "url": "https://36kr.com/newsflashes/3836868187223431?f=rss",
-    "published": "2026-06-03 11:04:09  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "36氪",
-    "title": "创业板指盘中涨近3%，创历史新高",
-    "summary": "36氪获悉，创业板指盘中涨近3%，最高触及4170.39点，创历史新高。",
-    "url": "https://36kr.com/newsflashes/3836834293838977?f=rss",
-    "published": "2026-06-03 10:29:40  +0800",
+    "source": "创业邦",
+    "title": "软银中国实控8家公司",
+    "summary": "6月2日，福布斯实时富豪榜单显示，软银集团创始人兼CEO孙正义身家攀升至1007亿美元，一举超越印度安巴尼、阿达尼等富豪，时隔十余年再度登顶亚洲首富宝座。 天眼查App显示，软银（中国）投资有限公司成立于2020年7月，法定代表人为吴友耿，注册资本10亿人民币，经营范围包括投资兴办实业、创业投资业务、投资咨询等，由软银投资机构株式会社全资持股。控制企业信息显示，该公司控制8家公司，其中仅软银（深圳）发展有限公司处于存续状态，其余公司均已注销。",
+    "url": "http://",
+    "published": "Wed, 03 Jun 2026 05:33:46 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
@@ -320,71 +320,41 @@
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "创业邦",
-    "title": "福布斯2026“点金榜”发布，沈南鹏全球第二，荣膺25年来最成功的15位投资人",
-    "summary": "5月27日，《福布斯》杂志公布了2026年全球最佳创投人榜单（Midas List）。该榜单被誉为创投界的“奥斯卡”，每年在全球范围内评选出业绩最优秀的100位投资人。 今年上榜的投资人中，红杉中国创始及执行合伙人沈南鹏位列全球第二，并且是前30名中唯一的中国投资人。自2012年首次入选Midas List以来，沈南鹏已连续15年上榜，4次排名第一，其中3年蝉联（2018-2020）。红杉中国合伙人周逵也再次入选，排名第65位，这也是今年中国投资机构中唯一一家有两位投资人上榜。 自2001年首次评选以来，Midas List在今年迎来了25周年。《福布斯》表示，2001年推出该榜单时，硅谷仍在消化科技泡沫破裂带来的冲击，此后20多年间，创新浪潮接踵而至——社交媒体、智能手机、电动汽车再到人工智能，“但能持续精准发掘顶尖创业者和优质初创公司的投资人寥寥无几”。 因此，《福布斯》综合过去25年上榜投资人的业绩，发现仅有15位投资人累计上榜次数达到15次及以上，因此把这15位投资人组成了Midas List的“全明星榜”（All-Stars）。 作为首个且目前唯一登顶过Midas List的",
-    "url": "http://www.cyzone.cn/article/834802.html",
-    "published": "Thu, 28 May 2026 02:12:26 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "创业邦",
-    "title": "融资丨新智具身完成近亿元天使轮融资",
-    "summary": "5月27日，上海新智具身智能科技有限公司（NeoteAI，以下简称“新智具身”）宣布完成近亿元天使轮融资，作为公司成立以来的首轮融资，本轮由上海国投旗下上海科创集团，以及复旦科创联合领投，上海科创集团旗下策源基金等共同投资，多维资本担任独家财务顾问。 新智具身是一家专注于具身智能核心技术与系统研发的高科技企业，背靠产学研深度融合与地方政策双重加持。作为复旦大学与静安区战略合作的重要落地成果，公司在初创期便获得静安区科经委与市北高新集团的大力培育，先后获得静安区战略性资金及上海市经信委促进产业高质量发展专项资金的支持，上海市科委也针对其核心视触觉传感器的研发给予了专项经费支持，全面加速公司的技术攻关进程。 核心团队 公司核心团队源自复旦大学可信具身智能研究院，具备深厚的产学研融合基因。CEO赵世豪本硕毕业于复旦大学，博士就读于香港大学，曾作为核心研究员在微软全球研究院、阿里通义实验室深耕前沿模型研发，研究覆盖视频世界模型、生成式模型；首席科学家吴祖煊为复旦大学可信具身智能研究院副院长，曾任职 Meta，长期深耕视频模型、多模态模型等核心领域；COO董道国则是兼具学术与产业经验的跨界人才，",
-    "url": "http://www.cyzone.cn/article/834765.html",
-    "published": "Wed, 27 May 2026 13:03:07 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "创业邦",
-    "title": "拼多多发布Q1财报，“千亿扶持”加码惠商助农，新拼姆助力供应链转型升级",
-    "summary": "5月27日，拼多多发布截至3月31日的2026年第一季度财报。受益于“千亿扶持”等战略的持续投入，平台生态及供应链体系实现稳步向好发展，拼多多第一季度营收达到1062亿元。 去年12月，在年度股东大会上，拼多多宣布实行联席董事长制度，并将公司的战略重心聚焦到“重仓中国供应链”，力争三年再造一个拼多多。今年一季度，新拼姆专项公司正式落地上海，品牌自营业务稳步推进，“三年再造拼多多”战略迎来深化发展的新阶段。同时，拼多长期投入的“千亿扶持”惠商战略，继续加大对商家和产业的反哺力度，不断完善平台的治理与合规建设，积极履行更大的社会责任。 “今年是拼多多第二个十年的开局之年，也是我接任董事长后，围绕‘新十年高质量发展’启动公司组织与文化整体重塑的关键一年。”拼多多集团联席董事长兼联席CEO赵佳臻表示，我们要求公司从上到下，必须以安全合规为前提、以社会责任为基石，以高质量发展为核心，久久为功，推动业务、团队、内部流程和组织管理的深刻变革，积极承担起平台型企业的责任和担当，为用户、产业和社会创造更多正向价值。 “今年是‘三年再造拼多多’战略的第一年，也是供应链转型升级的关键窗口期，我们将心怀感恩和",
-    "url": "http://www.cyzone.cn/article/834764.html",
-    "published": "Wed, 27 May 2026 13:01:22 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "创业邦",
-    "title": "融资丨安士精机完成数千万元级A轮战略融资",
-    "summary": "近日，国内工具制造领域的技术型企业——安士精机科技有限公司（以下简称“安士”）正式宣布完成首阶段数千万元级A轮战略融资。本轮融资由国内知名创投机构亚商资本领投，多家产业资本同步跟投。 本轮融资的顺利完成，既是资本市场对消费工具行业高端化、智能化、国产化发展趋势的高度认可，也是对安士的核心技术实力、稳定营收增长能力及企业成长潜力的充分肯定，标志着公司正式迈入产能扩容、技术迭代、品牌全球化布局的高速发展新阶段，为企业深耕工具智造、全球化奠定了坚实的资本基础， 中国工具出海迎来窗口期 2026年，全球五金工具行业正处于周期复苏与格局重塑的关键节点。北美市场受地产周期触底及补库需求拉动，景气度上行；欧洲及新兴市场需求分化。锂电化、智能化、品牌出海是当前行业的核心增长逻辑。中国企业依托完整的供应链、快速的产品迭代能力和持续深化的海外渠道布局，已在全球市场实现突围。 在此背景下，安士科技聚焦于“消费级科技工具”这一高价值细分赛道。公司以“美学+科技+创新”为核心卖点，将传统工具重塑为美观、易用且富有趣味性的科技消费品，精准捕捉了新一代用户（DIY爱好者、科技爱好者、都市生活人群）对“颜值与体验并重",
-    "url": "http://www.cyzone.cn/article/834763.html",
-    "published": "Wed, 27 May 2026 12:59:53 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "创业邦",
-    "title": "美中宜和与妙佑医疗国际联合宣布， 北京宜和医院及北京美中爱瑞肿瘤医院正式加入妙佑医疗联盟",
-    "summary": "美中宜和医疗集团（简称美中宜和）联合妙佑医疗国际（Mayo Clinic) 联合宣布，集团旗下北京宜和医院与美中爱瑞肿瘤医院正式加入妙佑医疗联盟（Mayo Clinic Care Network） 。 美中宜和医疗创始人兼 CEO 胡澜博士（左） 与妙佑医疗国际战略合作医疗总监豪尔赫 ・ 帕斯夸尔博士（Jorge Pascual, M.D.） 美中宜和创立于 2006 年，聚焦妇儿特色专科诊疗服务。其业务遍布北京 、天津 、杭 州 、深圳等城市，旗下拥有多家医疗及服务机构，且于 2021 年成立北京美中爱瑞肿瘤医院。近年，集团业务全面拓展，逐步开展全学科疑难病症诊疗，2025 年 1 月美中宜和旗下三级综合院区北京宜和医院正式落成运营 。妙佑医疗联盟成立于 2011 年， 由全球范围内经过严格筛选的独立医疗机构组成，致力于提升医疗服务品质 、造福患者。 事实上，联盟各成员都独立运营，但同时共享妙佑医疗国际成熟的诊疗体系和丰富的医疗行业经验。 妙佑医疗国际战略合作医疗总监豪尔赫 ・ 帕斯夸尔博士（Jorge Pascual, M.D. ）表 示：“我们十分荣幸迎来北京宜和医院与美中爱瑞肿",
-    "url": "http://www.cyzone.cn/article/834752.html",
-    "published": "Wed, 27 May 2026 09:56:16 GMT",
+    "source": "钛媒体",
+    "title": "前次募投延期、挪用募资买理财，中谷物流手握72亿现金欲再募30亿",
+    "summary": "账面不差钱，为何还要融资？",
+    "url": "https://www.tmtpost.com/8013303.html",
+    "published": "Wed, 03 Jun 2026 18:53:22 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "钛媒体",
-    "title": "智谱与MiniMax的科创板攻防战：未来 12 个月，紧盯三组关键观测信号",
-    "summary": "智谱市值6295亿，MiniMax仅2094亿——差距不是由营收决定的，而是由组织基因决定的。当财务数据失效时，运营能力才是分水岭。",
-    "url": "https://www.tmtpost.com/8012543.html",
-    "published": "Wed, 03 Jun 2026 12:06:00 +0800",
+    "title": "观众越来越挑食，出海短剧也要卷“细糠”了",
+    "summary": "谁精准握住了海外用户的喜好与需求，谁就能成为在这次“跑马圈地”中成为最终的赢家。",
+    "url": "https://www.tmtpost.com/8013559.html",
+    "published": "Wed, 03 Jun 2026 17:15:06 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
   {
     "source": "钛媒体",
-    "title": "τ定律：中国半导体产业定义未来的第一次尝试",
-    "summary": "技术决定一颗芯片够不够先进，但“先进”如何定义、如何达到，决定了整个产业的下一阶段。",
-    "url": "https://www.tmtpost.com/8011880.html",
-    "published": "Wed, 03 Jun 2026 11:15:00 +0800",
+    "title": "16万新能源指标尘埃落定，准购车人买车，先看啥？",
+    "summary": "购买电车认准“三大件”。",
+    "url": "https://www.tmtpost.com/8013580.html",
+    "published": "Wed, 03 Jun 2026 17:09:57 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "钛媒体",
+    "title": "AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？",
+    "summary": "坐完“过山车”后，被高估还是价值回归？",
+    "url": "https://www.tmtpost.com/8012894.html",
+    "published": "Wed, 03 Jun 2026 17:00:21 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-03"
@@ -446,6 +416,16 @@
     "url": "https://cn.technode.com/post/2026-05-29/bleequp/",
     "published": "Fri, 29 May 2026 08:08:36 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The world’s largest privately owned laser just turned on",
+    "summary": "Fusion startup Xcimer fired up the world's largest privately owned laser.",
+    "url": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
+    "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
   },
@@ -525,6 +505,26 @@
     "summary": "Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union Square Ventures.",
     "url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
     "published": "Tue, 02 Jun 2026 15:56:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "TechNode",
+    "title": "WeRide and Uber to launch Spain’s first Robotaxi service",
+    "summary": "WeRide and Uber jointly announced plans to launch Spain’s first commercial robotaxi pilot service in Madrid. The project marks the companies’ first collaboration in the European market and makes Madrid the 12th city in WeRide’s global robotaxi network. With support from the regional government of Madrid, the service is scheduled to launch in 2026. Users […]",
+    "url": "https://technode.com/2026/06/03/weride-and-uber-to-launch-spains-first-robotaxi-service/",
+    "published": "Wed, 03 Jun 2026 06:53:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent reportedly developing WeChat AI agent, makes it a top priority",
+    "summary": "Tencent is advancing plans to launch an embedded AI agent within WeChat, according to people familiar with the matter. The company is testing a prototype that can help users complete tasks within the app and plans to begin the regulatory approval process required before a public rollout as early as this month. Following that process, […]",
+    "url": "https://technode.com/2026/06/03/tencent-reportedly-developing-wechat-ai-agent-makes-it-a-top-priority/",
+    "published": "Wed, 03 Jun 2026 05:30:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-03"
@@ -771,6 +771,26 @@
   },
   {
     "source": "Hacker News",
+    "title": "How long will it take to rebuild Blue Origin's launch pad?",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/ Comments URL: https://news.ycombinator.com/item?id=48382369 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+    "published": "Wed, 03 Jun 2026 11:02:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "Hacker News",
+    "title": "In a surprise launch, China debuts another big rocket designed for reusability",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/ Comments URL: https://news.ycombinator.com/item?id=48382323 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
+    "published": "Wed, 03 Jun 2026 10:55:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-03"
+  },
+  {
+    "source": "Hacker News",
     "title": "Coinbase Founder's Longevity Startup Triples in Value",
     "summary": "Article URL: https://www.wsj.com/business/newlimit-startup-brian-armstrong-value-82ab9830 Comments URL: https://news.ycombinator.com/item?id=48376680 Points: 2 # Comments: 0",
     "url": "https://www.wsj.com/business/newlimit-startup-brian-armstrong-value-82ab9830",
@@ -950,26 +970,6 @@
     "fetchedAt": "2026-06-03"
   },
   {
-    "source": "Hacker News",
-    "title": "China is building launch pads near its nuclear missile silos",
-    "summary": "Article URL: https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/ Comments URL: https://news.ycombinator.com/item?id=48338334 Points: 7 # Comments: 16",
-    "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx/",
-    "published": "Sat, 30 May 2026 16:55:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-    "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 420 # Comments: 471",
-    "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-    "published": "Sat, 30 May 2026 13:56:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-03"
-  },
-  {
     "source": "GitHub新星",
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "Self-hosted AI workspace.",
@@ -979,8 +979,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 34495,
-      "forks": 4116,
+      "stars": 37911,
+      "forks": 4446,
       "language": "JavaScript",
       "createdDaysAgo": 2
     }
@@ -995,10 +995,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 1579,
-      "forks": 449,
+      "stars": 1806,
+      "forks": 505,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1011,10 +1011,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 1274,
-      "forks": 333,
+      "stars": 1313,
+      "forks": 337,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1027,26 +1027,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 1118,
-      "forks": 565,
+      "stars": 1260,
+      "forks": 610,
       "language": "Python",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "MatinSenPai/SenPaiScanner",
-    "summary": "A light-weight scanner for Cloudflare IPs, written in Golang",
-    "url": "https://github.com/MatinSenPai/SenPaiScanner",
-    "published": "2026-05-28T17:02:54Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-03",
-    "meta": {
-      "stars": 906,
-      "forks": 59,
-      "language": "Go",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -1059,10 +1043,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-03",
     "meta": {
-      "stars": 840,
-      "forks": 262,
+      "stars": 1159,
+      "forks": 355,
       "language": "Rust",
       "createdDaysAgo": 0
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MatinSenPai/SenPaiScanner",
+    "summary": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "published": "2026-05-28T17:02:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-03",
+    "meta": {
+      "stars": 921,
+      "forks": 60,
+      "language": "Go",
+      "createdDaysAgo": 5
     }
   }
 ]
