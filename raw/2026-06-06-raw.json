@@ -131,7 +131,7 @@
   },
   {
     "source": "36氪",
-    "title": "字节跳动：没有造车或推出汽车品牌的计划",
+    "title": "字节���动：没有造车或推出汽车品牌的计划",
     "summary": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）",
     "url": "https://36kr.com/newsflashes/3841237523859972?f=rss",
     "published": "2026-06-06 13:08:52  +0800",
@@ -460,36 +460,6 @@
     "fetchedAt": "2026-06-06"
   },
   {
-    "source": "TechCrunch",
-    "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-    "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
-    "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-    "published": "Fri, 05 Jun 2026 00:06:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "published": "Thu, 04 Jun 2026 22:29:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
-    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "published": "Thu, 04 Jun 2026 21:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
     "source": "TechNode",
     "title": "NetEase Games’ Eggy Party PC version goes live today",
     "summary": "NetEase Games’ party game Eggy Party today launched on Windows, bringing the full experience to PC players with cross-platform account and data synchronization between mobile and PC. Players can seamlessly switch between devices while retaining their progress. The PC version preserves popular game modes, including Peak Party, Casual Party, and Eggy Farm. It also introduces […]",
@@ -740,253 +710,6 @@
     "fetchedAt": "2026-06-06"
   },
   {
-    "source": "The Verge",
-    "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
-    "summary": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's not another 10 years before we come […]",
-    "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-    "published": "2026-06-05T19:25:34-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "The Verge",
-    "title": "Grand Theft Auto VI is warping the video game release calendar",
-    "summary": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually empty. […]",
-    "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-    "published": "2026-06-05T19:05:27-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "The Verge",
-    "title": "Gone in 60 minutes",
-    "summary": "It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to question the fact that CBS had installed sycophants in its top ranks. Instead of standing in solidarity, correspondents Lesley Stahl, Bill […]",
-    "url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
-    "published": "2026-06-05T14:44:20-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump administration, OpenAI discussing possible government stake in the startup",
-    "summary": "Article URL: https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html Comments URL: https://news.ycombinator.com/item?id=48418910 Points: 6 # Comments: 1",
-    "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
-    "published": "Fri, 05 Jun 2026 21:58:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sudo Report – a Drudge Report for builder/startup/AI news",
-    "summary": "Article URL: https://www.sudoreport.com Comments URL: https://news.ycombinator.com/item?id=48418555 Points: 2 # Comments: 5",
-    "url": "https://www.sudoreport.com",
-    "published": "Fri, 05 Jun 2026 21:25:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reason Behind a Startup's Success",
-    "summary": "Article URL: https://orchidfiles.com/reason-behind-startups-success/ Comments URL: https://news.ycombinator.com/item?id=48417537 Points: 1 # Comments: 0",
-    "url": "https://orchidfiles.com/reason-behind-startups-success/",
-    "published": "Fri, 05 Jun 2026 20:11:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
-    "summary": "Hey HN, Guanming and Bill here from General Instinct ( https://general-instinct.com/ ). After years of working in robotics, we kept running into the same problem: the best models never fit the hardware we actually had available. The models that performed best were usually designed around datacenter assumptions: large GPUs, lots of memory bandwidth, and reliable network access. But most physical systems have the opposite constraints. That led us down the path of figuring out how much of a frontie",
-    "url": "https://news.ycombinator.com/item?id=48414869",
-    "published": "Fri, 05 Jun 2026 16:33:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Valve says it's ready to launch the Steam Machine this summer",
-    "summary": "Article URL: https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified Comments URL: https://news.ycombinator.com/item?id=48413420 Points: 73 # Comments: 13",
-    "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-    "published": "Fri, 05 Jun 2026 14:57:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "What to Expect from Apple's AI, Siri and iOS 27 Launch at WWDC",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce Comments URL: https://news.ycombinator.com/item?id=48412284 Points: 4 # Comments: 1",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
-    "published": "Fri, 05 Jun 2026 13:29:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Valve Reaffirms Steam Machine and Frame This Summer Launch",
-    "summary": "Article URL: https://store.steampowered.com/news/group/4145017/view/716780409378048027 Comments URL: https://news.ycombinator.com/item?id=48409585 Points: 2 # Comments: 0",
-    "url": "https://store.steampowered.com/news/group/4145017/view/716780409378048027",
-    "published": "Fri, 05 Jun 2026 08:22:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Medicare to launch weight loss drug option in July with $50 copay",
-    "summary": "Article URL: https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay Comments URL: https://news.ycombinator.com/item?id=48406599 Points: 5 # Comments: 0",
-    "url": "https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay",
-    "published": "Fri, 05 Jun 2026 00:37:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Vibe-coding phenomenon lifts AI startup Supabase to $10.5B valuation",
-    "summary": "Article URL: https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html Comments URL: https://news.ycombinator.com/item?id=48402354 Points: 2 # Comments: 3",
-    "url": "https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html",
-    "published": "Thu, 04 Jun 2026 18:08:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Linux Foundation Announces the Intent to Launch the Tokenomics Foundation",
-    "summary": "Article URL: https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management Comments URL: https://news.ycombinator.com/item?id=48399836 Points: 4 # Comments: 2",
-    "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management",
-    "published": "Thu, 04 Jun 2026 15:09:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Revolut Founder Is Building a Launch Pad for a $76B Fortune",
-    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-06-02/how-revolut-s-founder-is-building-a-76-billion-fortune Comments URL: https://news.ycombinator.com/item?id=48399801 Points: 4 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/features/2026-06-02/how-revolut-s-founder-is-building-a-76-billion-fortune",
-    "published": "Thu, 04 Jun 2026 15:07:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber's commitment to self-driving startup Nuro is close to $500M",
-    "summary": "Article URL: https://www.reuters.com/business/autos-transportation/ubers-commitment-self-driving-startup-nuro-is-close-500-mln-sources-say-2026-06-03/ Comments URL: https://news.ycombinator.com/item?id=48398944 Points: 3 # Comments: 0",
-    "url": "https://www.reuters.com/business/autos-transportation/ubers-commitment-self-driving-startup-nuro-is-close-500-mln-sources-say-2026-06-03/",
-    "published": "Thu, 04 Jun 2026 14:11:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ocean sensors will go dark under Trump funding cuts",
-    "summary": "Article URL: https://apnews.com/article/climate-oceans-data-trump-science-a9539443dfaa32b3a67468a25f8b2674 Comments URL: https://news.ycombinator.com/item?id=48397718 Points: 7 # Comments: 1",
-    "url": "https://apnews.com/article/climate-oceans-data-trump-science-a9539443dfaa32b3a67468a25f8b2674",
-    "published": "Thu, 04 Jun 2026 12:31:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Announces Launch of IPO",
-    "summary": "Article URL: https://spacexipo.com/ Comments URL: https://news.ycombinator.com/item?id=48397054 Points: 5 # Comments: 1",
-    "url": "https://spacexipo.com/",
-    "published": "Thu, 04 Jun 2026 11:19:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain's 'Core Algorithm'",
-    "summary": "Article URL: https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/ Comments URL: https://news.ycombinator.com/item?id=48396942 Points: 15 # Comments: 5",
-    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-    "published": "Thu, 04 Jun 2026 11:06:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google killed my $1M ARR startup overnight",
-    "summary": "Two days ago I had a working company. $1M ARR, 100k users, a product people actually pay for and depend on. Right now it's dead in the water and I'm locked out of all of it, because Google decided to suspend my entire account. Someone got hold of one of my API keys and ran up charges on Google's AI services that I never touched. $4,200 hit my card for usage that wasn't mine. Fine, happens I paid the bill. But Google suspended my whole project. Everything lived in there. The backend, and every si",
-    "url": "https://news.ycombinator.com/item?id=48396596",
-    "published": "Thu, 04 Jun 2026 10:26:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sam Altman has a proposition for startup founders: AI tokens for equity",
-    "summary": "Article URL: https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5 Comments URL: https://news.ycombinator.com/item?id=48393473 Points: 4 # Comments: 1",
-    "url": "https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5",
-    "published": "Thu, 04 Jun 2026 03:42:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Seeks $75B in Record IPO Plan to Fund AI, Launch",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch Comments URL: https://news.ycombinator.com/item?id=48390091 Points: 4 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
-    "published": "Wed, 03 Jun 2026 21:08:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Luddite Lab Resource Hub Launch Webinar",
-    "summary": "Article URL: https://peertube.dair-institute.org/w/4evWrVsa7igh622WT8E5X2 Comments URL: https://news.ycombinator.com/item?id=48388208 Points: 2 # Comments: 0",
-    "url": "https://peertube.dair-institute.org/w/4evWrVsa7igh622WT8E5X2",
-    "published": "Wed, 03 Jun 2026 18:54:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-06"
-  },
-  {
-    "source": "B站",
-    "title": "全国首例盲人脑机接口复明成功",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=全国首例盲人脑机接口复明成功",
-    "published": "2026-06-06",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-06",
-    "meta": {
-      "hotValue": 253883
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "双非本科，工作 15 年，今年 36 了，要不要考在职 985 研究生",
-    "summary": "双非本科毕业，在苏州台企加上实习锻炼了 4 年，被原老大拉去创业坑了 2 年。遂下定决心不投国内企业，先进了美企 2 年，口语练好又进了当地德企 4 年，后换到上海美企干到现在 4 年，落户买房，娃也转过来读书。现在收入不错，年底房和车贷还完，还有积蓄，比较平稳。一直都是做工业软件研发这块，感觉到瓶颈了，再换不一定有现在高，现有公司内升迁也困难。之前也拿了 PMP ，管理项目经验也不缺，就是感觉再向上冲刺学历是硬伤，毕竟看到最近招的应届都是 QS 前 10 ，藤校，还有 MIT 的，无形的压力。最近了解到有在职 MEM ，周末上课，感觉比较适合，外企都双休，加班少，刚好时间匹配。 目标看的是",
-    "url": "https://www.v2ex.com/t/1218290",
-    "published": 1780661821,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-06-06",
-    "meta": {
-      "replies": 27,
-      "node": "职场话题"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "Self-hosted AI workspace.",
@@ -996,10 +719,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-06",
     "meta": {
-      "stars": 56982,
-      "forks": 6827,
+      "stars": 58884,
+      "forks": 7077,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1012,10 +735,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-06",
     "meta": {
-      "stars": 2138,
-      "forks": 499,
+      "stars": 2166,
+      "forks": 503,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1028,8 +751,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-06",
     "meta": {
-      "stars": 1924,
-      "forks": 165,
+      "stars": 2063,
+      "forks": 196,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -1044,10 +767,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-06",
     "meta": {
-      "stars": 1547,
-      "forks": 702,
+      "stars": 1557,
+      "forks": 704,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1060,10 +783,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-06",
     "meta": {
-      "stars": 905,
-      "forks": 88,
+      "stars": 943,
+      "forks": 92,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1076,8 +799,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-06",
     "meta": {
-      "stars": 649,
-      "forks": 41,
+      "stars": 700,
+      "forks": 44,
       "language": "Python",
       "createdDaysAgo": 4
     }
