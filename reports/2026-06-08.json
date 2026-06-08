@@ -86,7 +86,9 @@
         "fetchedAt": "2026-06-08",
         "website": {
           "website": "https://cursor.com",
-          "emails": [],
+          "emails": [
+            "hi@cursor.com"
+          ],
           "socials": {
             "twitter": "cursor_ai",
             "linkedin": "cursorai",
@@ -465,7 +467,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "urlmagic"
+            "twitter": "tinytechfox"
           },
           "careerPage": null,
           "jobListings": []
@@ -1346,7 +1348,7 @@
           "socials": {},
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
-            "Kimi AI 官网 - K2.6 上线"
+            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
           ]
         },
         "github": {},
@@ -4895,7 +4897,7 @@
           "socials": {},
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
-            "Kimi AI 官网 - K2.6 上线"
+            "Kimi AI with K2.6 | Better Coding, Smarter Agents"
           ]
         },
         "github": {},
@@ -6087,7 +6089,7 @@
           },
           "careerPage": "https://nexus.1982video.cn/careers",
           "jobListings": [
-            "nexus(微信号：pk2314495) - AI API Gateway"
+            "nexus(微信号：jjxxcc987) - AI API Gateway"
           ]
         },
         "github": {},
