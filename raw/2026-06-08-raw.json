@@ -1,6 +1,26 @@
 [
   {
     "source": "36氪",
+    "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+    "summary": "文｜王毓婵 编辑｜张雨忻 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？ 毫无疑问，是汤道生与姚顺雨的对话。 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？” 姚顺雨回答说：“感觉应该是我问你的问题。” 姚顺雨随后提到了两个判断标准—— 1.AI是一个短期游戏还是长期游戏？2.它会是一个线性还是多元游戏？ 这位年仅27岁，曾在 OpenAI 工作，被称为“清华天才少年”的姚顺雨加入腾讯已经半年，他的思路几乎就是腾讯AI的思路。他的判断结论是：首先，AI是一个长期游戏，刚刚进入下半场；其次，Coding Agent很重要。 如姚顺雨所描述的那样，腾讯推出了一系列的Coding Agent产品、To B也To C的效率提升工具。相比之下，年初时花费了腾讯大量营销费用的元宝，在大会上几乎",
+    "url": "https://36kr.com/p/3844018911889924?f=rss",
+    "published": "2026-06-08 17:01:03  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "36氪",
+    "title": "改变全球速度的AI，付款却卡在上一个时代",
+    "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。 但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？ 当AI企业的采购清单越来越全球化，支付链路的每一个断点，都意味着实实在在的成本损耗和效率内耗。而当产品开始面向全球用户变现，跨币种结算的汇损、本地支付方式的碎片化与计费模式的复杂性，又在收款侧筑起了另一道门槛。进出两端都被卡，资金闭环也就无从建立。 这是当下数万家中国AI企业每天都在经历的真实困境。 全球化采购清单，旧时代支付工具 理解这个问题，首先要理解AI企业的成本结构。 如果把AI公司类比成一家制造业企业，那它的“原材料”清单大致如下：海外GPU集群租赁、AWS/Azure/Google Cloud等境外云服务、OpenAI/Anthropic/Claude等境外大模型API调用、海外向量数据库与M",
+    "url": "https://36kr.com/p/3844199957236227?f=rss",
+    "published": "2026-06-08 15:30:56  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "36氪",
     "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
     "summary": "作者 | 邱晓芬 编辑 | 袁斯来 「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。 作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。 但范典做第一款产品用了三年。 2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 全新的品类—— AI睡眠床头灯（Sleepal AI Lamp）。 很少人清楚这三年发生了什么。范典几乎不接受采访，也鲜少见投资人。低调也体现在他新公司「格物科技」的融资上。创业三年，他们仅公布了一轮天使轮融资，资方为小米、天际资本等。 直到今年5月19日，Sleepal AI Lamp在海外平台Kickstarter开启众筹，定价为449美金。产品刚上市就被好奇和疑问包围：“一个床头灯这么贵，是不是疯了？”“创业三年了，就做了个灯？”、“有手表了，谁还需要这个？” 产品众筹之际，范典接受了硬氪的采访，这是他从小米离开后首次接受媒",
     "url": "https://36kr.com/p/3844006775360002?f=rss",
@@ -81,60 +101,120 @@
   },
   {
     "source": "36氪",
-    "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-    "summary": "文｜王毓婵 梁键强 编辑｜张雨忻 昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。 “您可以通过对应手机系统的AI助手发起 微信音视频通话 或 向指定好友发送消息 。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。 与之前字节跳动推出的豆包手机相比，腾讯的微信AI采取了完全不同的技术路径。 以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界面智能体） 路线——它们像人一样通过“读屏”来识别界面，再通过“模拟点击”去操作微信。 而腾讯此次与手机厂商的合作，采用了 A2A（Agent-to-Agent）机制—— 微信打开一道门，让手机厂商的系统智能体（如华为小艺、小米小爱、荣耀 YOYO、vivo V、魅族 Aicy）等直接对话微信内部的 agent。 系统智能体解析出用户的“意图”后，通过加密且受控的协议把指令发给微信，由微信在后台“自己执行”并返回",
-    "url": "https://36kr.com/p/3839575253993985?f=rss",
-    "published": "2026-06-05 11:39:48  +0800",
+    "title": "永太科技：子公司与宁德时代签订电解液合作协议，预计2026-2028年采购量合计47万吨",
+    "summary": "36氪获悉，永太科技公告，公司全资子公司永太新能源与宁德时代签订《电解液合作协议》，约定2026年至2028年期间，宁德时代预计向永太新能源采购电解液合计47万吨(含波动范围)，具体以订单为准。协议有效期至2028年12月31日，预计将对公司2026-2028年度经营成果产生积极影响。",
+    "url": "https://36kr.com/newsflashes/3844418271005192?f=rss",
+    "published": "2026-06-08 19:12:27  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "36氪",
-    "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
-    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。 毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。 毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代表的传统转型、新势力崛起、科技赋能及前沿探索等产业关键发展阶段。其核心团队在集度时期开发的线控转向系统已完成超5万公里自动驾驶实测，是国内唯一具备该实测里程的团队。 硬氪了解到，线控转向（Steering-By-Wire, SBW）彻底取消了方向盘与转向机构之间的机械连接，完全依赖电信号控制。作为L3级以上高阶自动驾驶的“神经中枢”，其响应速度、操控精度和布局灵活性远超传统电动助力转向系统（EPS）。 随着2025年工信部L3级自动驾驶认证正式落地，以及新版《汽车转向系基本要求",
-    "url": "https://36kr.com/p/3839600052898054?f=rss",
-    "published": "2026-06-05 09:23:23  +0800",
+    "title": "2连板中百集团：主营业务仍聚焦于有税商品经营，尚未开设免税店",
+    "summary": "36氪获悉，中百集团发布股票交易异常波动暨风险提示公告称，公司股票连续两个交易日内收盘价格涨幅偏离值累计超过20%。公司通过市场信息和投资者提问关注到，投资者对公司免税商品经营资质、武汉抱抱智能科技有限公司等关注度较高，公司于2020年7月向政府相关部门递交了关于支持公司申报免税品经营资质的请示，目前免税牌照申请暂无进展。公司主营业务仍聚焦于有税商品经营，尚未开设免税店，现阶段也没有布局计划。近期，新设立的武汉抱抱智能科技有限公司是公司下属企业数智云公司的全资子公司，负责“抱抱生活”的建设和运营。该业务初期由数智云公司孵化，并于2025年投入运营。现根据业务需要，将抱抱生活平台以及相关数据服务、技术服务等板块从数智云公司剥离，构建湖北省本地生活服务平台。",
+    "url": "https://36kr.com/newsflashes/3844389888363017?f=rss",
+    "published": "2026-06-08 18:43:35  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "36氪",
-    "title": "蚂蚁集团推出海外AI支付解决方案",
-    "summary": "36氪获悉，近日，蚂蚁国际面向全球电子钱包、超级应用和数字银行等移动支付服务正式推出移动智能体协议（Agentic Mobile Protocol，简称AMP），解决全球消费者在AI智能体（agents）中购物时支付便捷、安全、有保障，以及商家跨市场互联互通等智能体商业全球化运营的关键难题。",
-    "url": "https://36kr.com/newsflashes/3844021085620738?f=rss",
-    "published": "2026-06-08 12:20:27  +0800",
+    "title": "追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保",
+    "summary": "嘉美包装6月8日晚间披露，近日收到控股股东苏州逐越鸿智科技发展合伙企业《告知函》，该公司已将持有的约2.47亿股、占其持股比例50%的股份，在兴业银行苏州分行办理了股票质押业务。逐越鸿智由追觅科技创始人俞浩控制。稍早前，该公司通过协议转让、要约收购等方式，共计获得嘉美包装4.94亿股，持股比例45.01%，收购成本约为22亿元。而此次质押的股份数量，占上市公司总股本的22.51%。嘉美包装在公告中称，此次质押主要是逐越鸿智为履行此前受让、要约收购该公司股权时的相关融资安排，也是应兴业银行并购贷款风控要求而实施的合规性担保措施，并非逐越鸿智或公司实际控制人出于自身融资需求进行的股份质押，不涉及第三方个人借贷、资金拆借或其他非经营性融资行为，质押股份不存在负担重大资产重组等业绩补偿义务的情况。（一财）",
+    "url": "https://36kr.com/newsflashes/3844374440266242?f=rss",
+    "published": "2026-06-08 18:34:29  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "36氪",
-    "title": "暖芯迦完成重大突破，我国首例高分辨率视觉脑机GCP临床试验取得成功",
-    "summary": "近日，暖芯迦视觉脑机技术实现重大突破，失明二十年的患者在接受我国首例高分辨率视觉脑机GCP临床试验后，初步恢复功能性视力。患者在术后开机调试的第二天就能识别字母，创造了视觉重建的最快记录。据了解，暖芯迦是国内当前唯一的高分辨率视觉脑机接口。",
-    "url": "https://36kr.com/newsflashes/3844010006202629?f=rss",
-    "published": "2026-06-08 12:09:11  +0800",
+    "title": "三星：与英伟达CEO黄仁勋讨论了HBM4、代工方面的短期合作",
+    "summary": "三星电子芯片部门负责人JUN表示，与英伟达CEO黄仁勋就HBM4、晶圆厂领域的短期合作事宜进行了讨论。JUN表示，我们正在合作研发4纳米和8纳米节点所需的自动驾驶芯片，以及NVIDIA的加速器芯片；我们还就长期合作进行了广泛讨论，包括HBM4E、代工业务、HBM5以及其他未来技术。还讨论了下一代芯片的代工合作。（财联社）",
+    "url": "https://36kr.com/newsflashes/3844354162297351?f=rss",
+    "published": "2026-06-08 18:30:13  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "36氪",
-    "title": "英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI",
-    "summary": "英伟达与LG集团宣布合作建设AI工厂，为LG旗下机器人、自动驾驶、数据中心及GPU云服务等核心业务提供加速计算基础设施。在机器人领域，LG电子将整合英伟达Isaac Sim、GR00T等框架训练家用机器人CLoiD，并建立物理AI数据工厂向外部供应机器人训练数据；LG CNS将英伟达机器人技术引入其PhysicalWorks工业平台。在AI工厂基础设施方面，LG Uplus及LG CNS将基于英伟达DSX平台建设可扩展AI工厂，LG新能源探索800伏直流数据中心储能方案。在自动驾驶领域，LG电子将对齐英伟达DRIVE Hyperion架构推进ADAS及软件定义汽车产品线。在自主AI方面，LG AI研究院基于英伟达Blackwell GPU持续开发EXAONE模型，并通过ChatEXAONE向集团内部推广。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3843985339664896?f=rss",
-    "published": "2026-06-08 11:44:05  +0800",
+    "title": "云天化：子公司拟投建新能源电池前驱体材料配套硫循环绿色示范项目等",
+    "summary": "36氪获悉，云天化公告，全资子公司天安化工拟投资建设新能源电池前驱体材料配套硫循环绿色示范项目，根据可研报告投资规划，以自有资金投入4.74亿元，其余资金通过银行贷款等方式解决；全资子公司环保科技拟投资建设磷石膏制水泥联产硫酸资源循环利用示范项目，根据可研报告投资规划，以自有资金投入3.48亿元，其余资金通过银行贷款等方式解决。",
+    "url": "https://36kr.com/newsflashes/3844358873336327?f=rss",
+    "published": "2026-06-08 18:21:01  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "36氪",
-    "title": "A股三大指数午间休盘集体下跌，银行股走强",
-    "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌1.26%，深成指跌2.49%，创业板指跌2.83%；工程机械、煤炭、银行板块领涨，徐工机械、中国神华涨超4%，农业银行、中信银行涨超3%；电脑硬件、贵金属、发电设备板块跌幅居前，雷神科技跌超11%，四川黄金跌超7%，大金重工跌超5%。",
-    "url": "https://36kr.com/newsflashes/3843973450156296?f=rss",
-    "published": "2026-06-08 11:32:00  +0800",
+    "title": "年内64家IPO公司上市，募资585.63亿元",
+    "summary": "最新统计显示，截至6月7日，今年以来，64家IPO公司完成上市，募资合计585.63亿元，其中上交所主板8家IPO公司完成上市，募资109.91亿元；科创板10家IPO公司完成上市（开板以来累计上市610家），募资178.47亿元，另有1家企业在发行阶段；深交所主板6家IPO公司完成上市，募资94.16亿元，另有1家企业在发行阶段；创业板8家IPO公司完成上市，募资98.50亿元，另有1家企业在发行阶段；北交所32家IPO公司完成上市，募资104.59亿元，另有4家企业在发行阶段。（财联社）",
+    "url": "https://36kr.com/newsflashes/3844351366957315?f=rss",
+    "published": "2026-06-08 18:17:20  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "36氪",
+    "title": "2连板神剑股份：发现个别媒体近期对公司子公司嘉业航空相关业务进行报道，与公司披露数据不符",
+    "summary": "36氪获悉，神剑股份公告，公司股票于2026年6月5日、8日连续2个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司发现个别媒体近期对公司子公司嘉业航空相关业务进行报道，与公司披露数据不符。公司目前经营情况及内外部经营环境未发生重大变化；公司商业航天相关业务收入占比仍较小，短期内不会有较大变化，特别提醒广大投资者注意投资风险。",
+    "url": "https://36kr.com/newsflashes/3844354862582024?f=rss",
+    "published": "2026-06-08 18:10:53  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "36氪",
+    "title": "国家数据局：培育一批数据标注龙头企业、独角兽企业、瞪羚企业 壮大数据标注产业",
+    "summary": "36氪获悉，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，持续推动数据标注先行先试。指导首批七个承担数据标注先行先试任务的城市，持续做强做深数据标注产业。面向创新能力强、发展基础好、产业特色优的地区，梯次布局一批数据标注创新试验区。有序引导具备条件的地区因地制宜开展试验区建设，促进数据标注产业链上下游紧密协同，形成产业集聚效应。培育一批数据标注龙头企业、独角兽企业、瞪羚企业，壮大数据标注产业。",
+    "url": "https://36kr.com/newsflashes/3844364065884680?f=rss",
+    "published": "2026-06-08 18:09:21  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "创业邦",
+    "title": "国内首个棉花碳足迹平台上线，现存涉棉企业超217万家",
+    "summary": "中国农科院棉花研究所联合西部农业研究中心，推出国内首个棉花碳足迹核算平台——\"棉花碳足迹计算v1.0\"微信小程序。用户只需输入种植面积、灌溉方式、农资投入等基础信息，即可一键获取棉花生产全过程的碳排放、碳汇及净碳足迹结果，还支持数据可视化、历史查询和报告导出。 传统碳足迹核算方法数据收集复杂、专业门槛高，基层棉农和涉棉企业难以使用。该平台基于国际通用的生命周期评价法，结合多年田间试验数据构建核算模型，并集成了关键环节排放因子数据库，覆盖化肥、农药、农膜、电力、柴油等投入品的碳排放定量分析。 平台还接入AI大模型，可根据不同区域生产模式提供针对性的减排潜力评估与低碳生产建议，为棉农、科研人员及管理部门提供技术支撑。这一\"碳核算+大模型\"的技术路径在国内尚属首创。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的涉棉企业超217.6万家。其中，2026年截至目前新增注册相关企业约13.7万余家，从企业注册数量趋势来看，近五年间，涉棉企业的注册数量呈现出逐年增长的态势，并在2025年达到顶峰。 从区域分布来看，河南省、湖北省、山东省涉棉企业数量位居前列，分别拥有超18.8万余家、18.",
+    "url": "http://",
+    "published": "Mon, 08 Jun 2026 07:13:05 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "创业邦",
+    "title": "融资丨像素绽放PixelBloom 完成C轮融资",
+    "summary": "AI办公领域头部企业像素绽放PixelBloom宣布完成C轮融资。本轮融资由国科投资与商汤国香资本联合领投，基石创投、大米创投跟投。资金将重点投入AI办公解决方案Agent的研发迭代、商业化落地及全球化人才招募。自此，像素绽放PixelBloom将从领先的AI视觉表达平台，正式向“AI办公解决方案Agent”全面跃迁，开启从“生成内容”到“交付结果”的质变。 C端验证心智，B端深度嵌合：构筑稳固基本盘 过去两年，像素绽放PixelBloom以PPT这一高频场景为精准切入点，在全球范围内积累了超过3000万注册用户，并在C端实现了健康的营收转化。这一成绩不仅验证了AI视觉表达的巨大市场需求，更在用户心智中建立了“AI做PPT，就用AiPPT.com”的品牌认知。 但在更深的水下，像素绽放PixelBloom的底牌在于B端和政企市场的“无感嵌入”。公司构建了一套独特的“逆向破局”路径：以C端海量用户的真实反馈打磨产品体验，再将成熟稳定的AI能力以极低成本、极简集成的方式，渗透至大型组织的工作流深处。目前，公司的底层生成API已成功接入联想智能体“小天”、华为智能体“小艺”以及荣耀智能体“Y",
+    "url": "http://www.cyzone.cn/article/835994.html",
+    "published": "Mon, 08 Jun 2026 06:30:26 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "创业邦",
+    "title": "首发丨巽霖科技完成A+轮数千万元融资",
+    "summary": "近日获悉，天津巽霖科技有限公司（以下简称「巽霖科技」）宣布完成A+轮数千万元融资。本轮融资由国汽投资与海祥投资领投、怡达行健基金、广东协同创新基金、水木清华校友种子基金、厦门海弘共同参与。本轮融资由多家老股东、上市公司资源方以及国家颠覆性专项基金积极参与，充分肯定了巽霖科技的快速发展、技术实力与产业前景，本次融资资金将主要用于多层HDI玻璃基板技术研发深化、封装产线建设以及下一代CPO光电共封装技术的前期布局，另外，据悉B轮融资也将在近期完成。 「巽霖科技」成立于2023年9月，定位为“下一代新型材料基板技术引领者”，拥有玻璃微加工、TGV打孔、PVD覆铜、电镀、刻蚀、芯片分选、HDI载板键合、飞行刺晶等全栈技术能力。公司在天津、青岛、邳州建有生产基地，形成覆盖Micro LED玻璃基板制造到COB/COG模组封装的完整产业链闭环。本轮融资后，巽霖科技将进一步巩固“材料+制程”双轮驱动的先进制造平台地位，通过玻璃基板批量生产能力的提升与键合技术开发，将实现2-32层玻璃基PCB的开发，结合同材料体系低膨胀系数与玻璃转接板光波导需求，巽霖科技将从单一载板材料供应商向“光电融合系统级平台的",
+    "url": "http://www.cyzone.cn/article/835993.html",
+    "published": "Mon, 08 Jun 2026 06:04:30 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-08"
+  },
+  {
+    "source": "创业邦",
+    "title": "融资丨安纳智芯完成数亿元融资",
+    "summary": "近日，成立仅半年的高精度现代模拟计算芯片公司北京安纳智芯科技有限公司（“安纳智芯”）宣布完成新一轮数亿元融资，本轮由经纬创投领投，峰瑞资本、阿尔法公社跟投，老股东讯飞创投、中赢创投持续加码。 AI时代亟需革新计算基底 过去十年，AI 算力扩张的主线是把海量乘加运算推向极致。GPU、TPU、NPU 等数字芯片的并行能力，大规模计算集群与光互联等系统技术，共同推动了人工智能的跃迁。 随着 AI 深入更复杂的系统，一些硬核痛点浮出水面，涉及众多复杂且关键问题，比如前沿模型高维参数训练优化、机器人后训练以及动作毫秒级控制、6G 信号预编码及信道估计等，这类问题都需要高效和直接的矩阵方程求解，然而在传统数字芯片中，矩阵方程往往无法直接求解，需要被拆解为海量的矩阵乘法和乘加运算。 其结果是训练成本和能源消耗持续攀升，模型训练与持续学习长期被锁在数据中心，难以真正进入手机、汽车、机器人等端侧设备。若计算范式不变，大众期待的“贾维斯”式私人AI助理仍难以落地。 面对这一瓶颈，安纳智芯从第一性原理出发，尝试从根源上改变矩阵方程的计算基底。公司开创性地建立了“现代模拟计算”这一新型计算范式——不再把矩阵方",
+    "url": "http://www.cyzone.cn/article/835982.html",
+    "published": "Mon, 08 Jun 2026 05:25:21 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
@@ -145,16 +225,6 @@
     "summary": "6月6日，科技护发品牌「可氏利夫KOSLIV」在深圳举办“头等大事，健康中国”2026头皮健康产业普惠峰会，正式宣布完成数千万元A轮融资，由天图投资独家投资。同一场合，公司发布子品牌「乐碳1389」，并宣布启动“1389头皮健康工程”。从获得资本加持，到落地全新服务品牌，这家以技术研发见长的公司，正式从产品端迈入“产品+服务”双轮驱动的新阶段。 「可氏利夫KOSLIV」成立于2019年，定位为全周期头皮护理解决方案提供商。品牌英文名源自挪威语，意为“让生活更舒适自在”。但翻看其过去几年的发展轨迹会发现，这家公司走的并不是“舒适”的路——它选择了一条更重的技术研发路径。 截至目前，可氏利夫已获得国家知识产权局颁发的“防脱”和“促黑”两项核心发明专利。其中，防脱专利成分“可氏肽”在第三方测试中表现亮眼：对毛囊干细胞关键蛋白β-catenin的上调率达37.84%，对炎症因子IL-6的抑制率为34.83%，两项指标均优于对照药物米诺地尔。促黑专利成分“可利乌”则瞄准了白发的底层机理，通过双菌联合发酵技术，将酪氨酸酶活性提升89.6%，黑色素含量提升130.7%，抗氧化能力提升94.8%。这意",
     "url": "http://www.cyzone.cn/article/835938.html",
     "published": "Mon, 08 Jun 2026 01:51:34 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "创业邦",
-    "title": "卷走千万养老钱关联公司多年0人参保",
-    "summary": "据媒体报道，6月5日，记者暗访鸡蛋骗局，上百位老人的养老钱，被一场“蛋无双鸡蛋”投资迷局彻底卷走。该项目“超蛋侠”关联方为中臻荟投集团有限公司。 天眼查App显示，涉事公司中臻荟投控股（海南）集团有限责任公司成立于2021年11月，法定代表人为彭森，注册资本100万人民币，经营范围包括企业总部管理、创业投资、品牌管理、企业管理等，该公司由南京宜臻商贸合伙企业（有限合伙）全资持股。年报信息显示，该公司多年0人参保。",
-    "url": "http://",
-    "published": "Fri, 05 Jun 2026 09:09:05 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
@@ -300,91 +370,31 @@
     "fetchedAt": "2026-06-08"
   },
   {
-    "source": "创业邦",
-    "title": "融资丨VAST 斩获近2亿美元A轮系列融资",
-    "summary": "近日，全球领先的通用人工智能公司VAST宣布完成A+及A++两轮融资，合计近2亿美元。本轮融资由渶策资本、国寿长三角科创基金领投，深圳市人工智能终端产业基金（产业方为全球头部终端厂商荣耀）、知名产业战投、上海半导体产投等产业投资方，深创投、元生资本、沃赋创投与方广资本等一线财务资本联合投资，投资方汇聚头部市场化基金、国资平台与产业龙头战投，形成多元赋能体系；同时，春华创投、靖亚资本、BV百度风投、东方嘉富等老股东亦持续超额追投。 这是 VAST 继今年 3 月融资后，时隔两月再度获得资本加持。 与此同时，VAST 揭晓了全新的世界模型项目——Project Eden。区别于业内“动作条件视频生成”与“静态 3D 场景生成”等常规路径，Project Eden 创造性地将底层状态推演与视觉呈现进行了原生解耦。这一突破使它成为全球首个允许对世界状态进行自主维护与确定性控制的世界模型，并自然解锁了环境长程持久、场景自由复用、多人并发交互等颠覆性能力。Project Eden 旨在成为下一代低门槛交互式内容创作的底层引擎，同时能够为具身智能等智能体提供具备高逻辑一致性的训练与评测环境。 本轮资",
-    "url": "http://www.cyzone.cn/article/835208.html",
-    "published": "Mon, 01 Jun 2026 04:31:10 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "创业邦",
-    "title": "融资丨睿健医药完成2.1亿 C1轮融资",
-    "summary": "光合创投及杏泽资本联合领投；以AI重构细胞命运发现与化学诱导开发范式，睿健医药平台化、全球化与产业化能力进入加速兑现阶段 近日，睿健医药宣布完成2.1亿元人民币C1轮融资。本轮融资由光合创投及杏泽资本联合领投。募集资金将主要用于公司核心临床管线推进、“AI+化学诱导”平台持续升级、规模化生产体系建设、全球临床开发及国际化商业合作布局。 本轮融资的完成，标志着睿健医药在AI驱动平台能力、临床管线兑现、衰老相关疾病布局，全球化执行力及产业化潜力等方面获得头部科技和医疗投资机构的进一步认可进一步认可。随着核心产品进入中美临床加速推进阶段，睿健医药正在从单一管线驱动型公司，逐步成长为具备多管线持续产出能力和全球竞争潜力的平台型Biotech。 面向衰老相关疾病大市场，布局长期高增长医疗需求 全球人口老龄化正在推动疾病谱发生深刻变化。以帕金森病、阿尔茨海默病、多系统萎缩、视网膜退行性疾病、不可逆视功能损伤、糖尿病及其他代谢功能衰退疾病为代表的衰老相关疾病，正在成为未来全球医疗体系面临的核心挑战之一。 睿健医药的管线布局正是围绕这一长期大市场展开。公司以神经退行性疾病为起点，形成了清晰的平台延展路",
-    "url": "http://www.cyzone.cn/article/835181.html",
-    "published": "Mon, 01 Jun 2026 02:11:56 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "创业邦",
-    "title": "融资丨量坤科技完成数亿元天使轮融资",
-    "summary": "近日，北京量坤科技有限公司（以下简称“量坤科技”）累计完成数亿元人民币的天使轮及天使+轮两轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金等多家机构参与投资。光源资本担任独家财务顾问。 本轮融资将主要用于核心技术研发、产品平台建设、产业场景拓展和高水平人才引进。量坤科技将持续围绕 Quantum × AI × HPC 融合方向，建设面向材料、化学、生物医药、高端制造等领域的新一代科学研发平台，提升复杂科学问题的建模、求解、验证和工程转化效率。 量坤科技由吕定顺博士创建，吕博士兼具清华大学量子计算机学术背景与国内一线大厂产业经验，团队汇聚了来自清华、北大等顶尖学府与国际一流科研机构的量子计算、AI、高性能计算与材料化学背景的跨学科复合型人才，兼具前沿理论突破与产业经验。 公司致力于解决后摩尔时代前沿科技研发面临的\"精度-效率-成本\"三重困境，构建面向未来的科学计算基础设施，通过融合量子计算的高精度、AI的高效率与高性能计算（HPC）的稳定性，让重大研发问题的求解效率实现数量级提升。 1. 量子计算正在进入从实验验证走向系统工程的关键阶段 近年来，",
-    "url": "http://www.cyzone.cn/article/835179.html",
-    "published": "Mon, 01 Jun 2026 01:59:28 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "创业邦",
-    "title": "开门红4小时，百大品牌成交额平均增长超5倍，首次参加京东618的1516个新商家成交额破百万",
-    "summary": "5月30日晚8点，真正的618火爆开场。 作为中国最大的品牌电商平台，京东让更多品牌在618的主场跑出了加速度，让更多商家在京东获得了稳定的新增量。 京东618开门红4小时，百大品牌成交额同比平均增长超5倍。 在春晓计划的持续发力下，今年参加京东618的新商家数量同比增长超62%，开门红4小时，首次参加京东618的51个新商家成交额破千万、1516个新商家成交额破百万。 京东618开门红4小时，面向海外用户的京东全球售平台成交额同比翻番，摄影摄像、美妆香水、运动装备、零食特产和手机配件等品类实现同比增长超300%。 在这个AI首次全场景、全产业融入的京东618，累计上线了搭载京东JoyInside的产品近百款，覆盖AI玩具、机器人、家居家电、健康器械等全品类，新奇特硬件销量走高，其中凯米斯机器狗跻身品类TOP5 榜单；小龙AI魔法打印机4小时销量环比增长17倍。 这个京东618，AI能力深入落地更多场景，为商家运营提效，取得更好的增长。开门红4 小时，依托JoyAI大模型，京东数字人 JoyStreamer 实现规模与销量双向突破，开播商家同比增长6倍，带货成交额突破7000万。京东J",
-    "url": "http://www.cyzone.cn/article/835168.html",
-    "published": "Sun, 31 May 2026 13:06:19 GMT",
+    "source": "钛媒体",
+    "title": "涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑",
+    "summary": "面对高昂算力成本，国内大模型厂商分化为涨价自救、降价扩生态两大阵营，行业竞争正式转向商业化比拼。",
+    "url": "https://www.tmtpost.com/8019143.html",
+    "published": "Mon, 08 Jun 2026 18:21:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "钛媒体",
-    "title": "米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评",
-    "summary": "“AI戏精”三强争霸赛",
-    "url": "https://www.tmtpost.com/8018550.html",
-    "published": "Mon, 08 Jun 2026 11:58:00 +0800",
+    "title": "特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？",
+    "summary": "特锐德发布算电岛，推动AI算电协同落地。",
+    "url": "https://www.tmtpost.com/8018749.html",
+    "published": "Mon, 08 Jun 2026 15:38:56 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
   },
   {
     "source": "钛媒体",
-    "title": "【Fintech 周报】香港金管局：银行业界已落实最新监管要求；中国人保原副总裁于泽被“双开”；易票联支付被罚没超4800万元",
-    "summary": "丁向群任国家金融监督管理总局局长；央行新规：拟取消“逾期贷款罚息30%-50%”条款；多家大行代理个人贵金属业务杠杆降至1倍以下；新能源车险加速走向分化；贵阳银行董事长张正海到龄辞任；浙商银行：副行长周伟新、潘华枫任职资格获批；北部湾财险外聘总经理闪辞，此前原高管被依法逮捕；长银五八消金获批增资至19.45亿；唯品富邦消金首席合规官陈竹获批上任；易票联支付被罚没超4800万元；微信支付推出“提现笔笔省”。",
-    "url": "https://www.tmtpost.com/8018658.html",
-    "published": "Mon, 08 Jun 2026 11:43:39 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "ASCO观察：意外的RET抑制剂",
-    "summary": "新一轮竞争的开始",
-    "url": "https://www.tmtpost.com/8018373.html",
-    "published": "Mon, 08 Jun 2026 11:15:50 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "人口仅中国1/10，日本创新药天花板凭什么更高？",
-    "summary": "会是出海好选择吗？",
-    "url": "https://www.tmtpost.com/8018364.html",
-    "published": "Mon, 08 Jun 2026 11:15:44 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "医药股低位密集回购，多家药企不惜举债加仓丨行业风向标",
-    "summary": "只有预案高比例落地，回购带来的估值托底逻辑才能真正兑现。",
-    "url": "https://www.tmtpost.com/8017322.html",
-    "published": "Mon, 08 Jun 2026 09:36:56 +0800",
+    "title": "智谱与MiniMax回A遭遇“七月围城”",
+    "summary": "当赛道不再稀缺，护城河便成为唯一的估值锚。",
+    "url": "https://www.tmtpost.com/8018777.html",
+    "published": "Mon, 08 Jun 2026 15:38:54 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
@@ -400,11 +410,11 @@
     "fetchedAt": "2026-06-08"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购",
-    "summary": "· Alphabet 拟融资 800 亿美元投入 AI 基建 · 字节 Seed 机器人团队转向周畅汇报 · Codex 免费账号配额缩水，7 天重置周期变 30 天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1667902?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Wed, 03 Jun 2026 00:29:20 +0000",
+    "source": "动点科技",
+    "title": "DayOne获45亿美元融资，TikTok Shop越南份额达41%｜SEA Now",
+    "summary": "2026.06.01-2026.06.07",
+    "url": "https://cn.technode.com/post/2026-06-08/2026-06-01-2026-06-07/",
+    "published": "Mon, 08 Jun 2026 07:35:31 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08"
@@ -480,256 +490,6 @@
     "fetchedAt": "2026-06-08"
   },
   {
-    "source": "TechNode",
-    "title": "ByteDance says it has no plans to build cars or launch an automotive brand",
-    "summary": "ByteDance on Saturday denied recent speculation that it is developing its own vehicle or automotive brand, after some media reports linked the name Saidou to the company’s AI assistant Doubao. In a statement, ByteDance said claims that Saidou is a Doubao car brand or evidence of the company entering the automotive manufacturing sector are inaccurate. […]",
-    "url": "https://technode.com/2026/06/08/bytedance-says-it-has-no-plans-to-build-cars-or-launch-an-automotive-brand/",
-    "published": "Mon, 08 Jun 2026 02:28:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "JD.com, Tencent reportedly team up on AI agent collaboration",
-    "summary": "JD.com and Tencent have reportedly teamed up to collaborate on AI agents, integrating JD.com’s e-commerce and fulfillment capabilities with Tencent’s vast user-facing platforms. According to the report, JD.com’s AI agent has been connected with devices from major manufacturers including Huawei, Oppo, and Honor. Through Agent-to-Agent (A2A) integration, users can make shopping requests and access product […]",
-    "url": "https://technode.com/2026/06/08/jd-com-tencent-reportedly-team-up-on-ai-agent-collaboration/",
-    "published": "Mon, 08 Jun 2026 01:59:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "NetEase Games’ Eggy Party PC version goes live today",
-    "summary": "NetEase Games’ party game Eggy Party today launched on Windows, bringing the full experience to PC players with cross-platform account and data synchronization between mobile and PC. Players can seamlessly switch between devices while retaining their progress. The PC version preserves popular game modes, including Peak Party, Casual Party, and Eggy Farm. It also introduces […]",
-    "url": "https://technode.com/2026/06/05/netease-games-eggy-party-pc-version-goes-live-today/",
-    "published": "Fri, 05 Jun 2026 05:47:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek in talks to raise $7 billion from Tencent, CATL and other investors",
-    "summary": "Chinese AI startup DeepSeek is poised to raise around 50 billion yuan ($7 billion) in its first external funding round, with backing from major investors including Tencent Holdings and battery giant CATL, according to sources familiar with the matter cited by Reuters. The financing would value DeepSeek at between 350 billion yuan and 400 billion […]",
-    "url": "https://technode.com/2026/06/04/deepseek-in-talks-to-raise-7-billion-from-tencent-catl-and-other-investors/",
-    "published": "Thu, 04 Jun 2026 02:08:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "WeRide and Uber to launch Spain’s first Robotaxi service",
-    "summary": "WeRide and Uber jointly announced plans to launch Spain’s first commercial robotaxi pilot service in Madrid. The project marks the companies’ first collaboration in the European market and makes Madrid the 12th city in WeRide’s global robotaxi network. With support from the regional government of Madrid, the service is scheduled to launch in 2026. Users […]",
-    "url": "https://technode.com/2026/06/03/weride-and-uber-to-launch-spains-first-robotaxi-service/",
-    "published": "Wed, 03 Jun 2026 06:53:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent reportedly developing WeChat AI agent, makes it a top priority",
-    "summary": "Tencent is advancing plans to launch an embedded AI agent within WeChat, according to people familiar with the matter. The company is testing a prototype that can help users complete tasks within the app and plans to begin the regulatory approval process required before a public rollout as early as this month. Following that process, […]",
-    "url": "https://technode.com/2026/06/03/tencent-reportedly-developing-wechat-ai-agent-makes-it-a-top-priority/",
-    "published": "Wed, 03 Jun 2026 05:30:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "xAI launches global recruitment drive for Chinese AI tutors",
-    "summary": "xAI has posted a Chinese AI Tutor position on the recruitment platform Greenhouse as part of its efforts to improve the Chinese-language capabilities of its flagship large language model, Grok. The role focuses on training Grok to better understand Chinese. Candidates are expected to be proficient in standard Mandarin and capable of handling regional dialects […]",
-    "url": "https://technode.com/2026/06/03/xai-launches-global-recruitment-drive-for-chinese-ai-tutors/",
-    "published": "Wed, 03 Jun 2026 02:07:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance’s Doubao to launch paid plans in late June, link with Douyin E-commerce push",
-    "summary": "ByteDance’s AI assistant Doubao is expected to roll out paid subscription services in late June, alongside feature updates announced at its upcoming Force conference, according to 36Kr. The PC and mobile versions are still completing billing system integration, which is expected to take about one month, the sources said. Doubao has listed three subscription tiers […]",
-    "url": "https://technode.com/2026/06/02/bytedances-doubao-to-launch-paid-plans-in-late-june-link-with-douyin-e-commerce-push/",
-    "published": "Tue, 02 Jun 2026 05:51:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "KISED promotes South Korea’s startup ecosystem and support programs at BEYOND Expo",
-    "summary": "During BEYOND Expo 2026, the Korea Institute of Startup & Entrepreneurship Development (KISED) introduced South Korea’s startup ecosystem and government-backed support programs to international entrepreneurs and investors, highlighting how the country attracts global startups through innovation, industrial resources, and policy support. A KISED representative stated during the presentation that, unlike traditional companies focused on selling […]",
-    "url": "https://technode.com/2026/05/31/kised-promotes-south-koreas-startup-ecosystem-and-support-programs-at-beyond-expo/",
-    "published": "Sat, 30 May 2026 17:00:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Lenovo Innovation Accelerator channels ecosystem power to bring Chinese hard-tech startups to the global stage",
-    "summary": "As the AI industry rapidly enters a deep water phase, competition based solely on parameter scale is no longer enough to build lasting advantages. Technologies and products that can truly land in commercial scenarios and solve real-world problems are becoming the new core of industry competition. As a key platform driving Lenovo’s ecosystem innovation strategy, […]",
-    "url": "https://technode.com/2026/05/29/lenovo-innovation-accelerator-channels-ecosystem-power-to-bring-chinese-hard-tech-startups-to-the-global-stage/",
-    "published": "Fri, 29 May 2026 12:49:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "CATL launches world’s largest energy storage testbed in Xiamen",
-    "summary": "CATL has launched its Xiamen Energy Storage Validation Research Institute, which it described as the world’s largest and most comprehensive one-stop testing and validation platform for the energy storage industry. The site spans 10 hectares and represents an investment of about RMB3 billion ($440 million). CATL said the facility is designed as an open, shared […]",
-    "url": "https://technode.com/2026/05/29/catl-launches-worlds-largest-energy-storage-testbed-in-xiamen/",
-    "published": "Fri, 29 May 2026 12:31:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "BYD launches Xuanji A3, calls it China’s first 4nm smart driving chip",
-    "summary": "At BYD’s launch event on Thursday, Wang Chuanfu, chairman and founder of BYD, unveiled BYD’s self-developed Xuanji A3, China’s first 4nm autonomous driving chip, which supports L3 and L4 autonomous driving capabilities. The chip has entered mass production and supports L3 and L4 autonomous driving. A three-chip configuration delivers a combined computing power of over […]",
-    "url": "https://technode.com/2026/05/29/byd-launches-xuanji-a3-calls-it-chinas-first-4nm-smart-driving-chip/",
-    "published": "Fri, 29 May 2026 08:37:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent launches WorkBuddy productivity AI agent for global users",
-    "summary": "Tencent Cloud has launched WorkBuddy, a productivity-focused AI agent for global users after first rolling out the product in China. The company said WorkBuddy is aimed at office workflows and can use natural language prompts to break down tasks, call external tools, and generate deliverables across work and study scenarios. WorkBuddy supports remote task execution […]",
-    "url": "https://technode.com/2026/05/29/tencent-launches-workbuddy-productivity-ai-agent-for-global-users/",
-    "published": "Fri, 29 May 2026 01:38:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "iFlytek launches 40g AI glasses with GlassClaw AI agent and advanced noise recognition",
-    "summary": "On Thursday, iFlytek unveiled its new AI smart glasses at BEYOND Expo 2026 in Macau under the theme Communication Without Boundaries, the World Before Your Eyes, showcasing the company’s latest push into AI-powered devices. At the launch event, Lin Huijie, General Manager of iFlytek’s Wearable Devices Business Department, said the company hopes the product can […]",
-    "url": "https://technode.com/2026/05/29/iflytek-launches-40g-ai-glasses-with-glassclaw-ai-agent-and-advanced-noise-recognition/",
-    "published": "Fri, 29 May 2026 00:54:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ziyouliangji aims to use AI music platform Hitto to turn everyone into a song creator",
-    "summary": "As competition in large AI models gradually shifts from parameter races to real-world deployment capabilities, a number of Chinese AI startups focused on vertical scenarios are beginning to stand out. Among them is Ziyouliangji Information Technology, founded in 2023, which is attempting to redefine how ordinary people create music through AI. Unlike many companies concentrating […]",
-    "url": "https://technode.com/2026/05/28/ziyouliangji-aims-to-use-ai-music-platform-hitto-to-turn-everyone-into-a-song-creator/",
-    "published": "Thu, 28 May 2026 15:10:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaohongshu reportedly secures 2026 FIFA World Cup streaming rights in China",
-    "summary": "According to multiple sources familiar with the negotiations, Xiaohongshu has secured sublicensing rights for the 2026 FIFA World Cup in China from state broadcaster China Media Group, including live-streaming rights and rights for short-video secondary content creation. The move marks a major shift in China’s sports media landscape. During the previous World Cup cycle, Douyin […]",
-    "url": "https://technode.com/2026/05/26/xiaohongshu-reportedly-secures-2026-fifa-world-cup-streaming-rights-in-china/",
-    "published": "Tue, 26 May 2026 07:55:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Diablo IV China extends free base game giveaway until August 2026",
-    "summary": "Diablo IV’s China server operator announced that the limited-time free claim event for the game’s base edition, originally priced at RMB 128 ($18), has been extended until August 4, 2026. The promotion first launched on April 28 and attracted a large influx of new players into the game. According to the official announcement, the extension […]",
-    "url": "https://technode.com/2026/05/25/diablo-iv-china-extends-free-base-game-giveaway-until-august-2026/",
-    "published": "Mon, 25 May 2026 09:50:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei’s mate 90 series may launch with new Kirin chip this autumn",
-    "summary": "At the 2026 International Symposium on Circuits and Systems (ISCAS 2026) in Shanghai on Monday, He Tingbo, Huawei’s board member and head of its semiconductor business, said the company would launch a new Kirin smartphone chip this autumn that uses logic folding technology for the first time. The technology moves beyond conventional single-layer chip layouts […]",
-    "url": "https://technode.com/2026/05/25/huaweis-mate-90-series-expected-to-debut-new-kirin-chip-this-autumn/",
-    "published": "Mon, 25 May 2026 03:46:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "China launches first humanoid robot lifecycle management platform in Beijing",
-    "summary": "China has launched the country’s first full lifecycle management service platform for humanoid robots in Beijing. The platform gives each robot a unique digital identity and enables end-to-end tracking from production to recycling. The platform, led by the Ministry of Industry and Information Technology’s Standardization Technical Committee for Humanoid Robots and Embodied Intelligence, assigns every […]",
-    "url": "https://technode.com/2026/05/25/china-launches-first-humanoid-robot-lifecycle-management-platform-in-beijing/",
-    "published": "Mon, 25 May 2026 03:09:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tech Odyssey Series: Who writes the first cheque for Portugal’s youngest startups?",
-    "summary": "Previous on Tech Odyssey: In our last episode, we went to the University of Porto, INESC TEC, and UPTEC to see how research can move from the lab into startups. This time, we look at what often comes next: who backs those companies when they are still too early for most investors. When a startup […]",
-    "url": "https://technode.com/2026/05/22/tech-odyssey-series-who-writes-the-first-cheque-for-portugals-youngest-startups/",
-    "published": "Fri, 22 May 2026 08:12:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tesla rolls out supervised Full Self-Driving in China in wider global push",
-    "summary": "Tesla announced that its Full Self-Driving system, FSD Supervised, has launched across multiple countries and regions worldwide, with China included in the rollout. The release covers more than a dozen markets across North America, Asia-Pacific, and Europe. The launch marks another step in Tesla’s push to expand its advanced driver-assistance technology beyond the US, even […]",
-    "url": "https://technode.com/2026/05/21/tesla-rolls-out-supervised-full-self-driving-in-china-in-wider-global-push/",
-    "published": "Thu, 21 May 2026 02:27:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month",
-    "summary": "China Telecom has launched nationwide trial commercial Token subscription plans, marking an accelerated shift by telecom operators from selling data traffic to offering computing power services. The packages are divided into three plans for developers and small businesses, ranging from 39.9 yuan ($5.50) per month for 15 million Tokens to 299.9 yuan ($41.50) for 150 […]",
-    "url": "https://technode.com/2026/05/18/china-telecom-launches-trial-ai-token-subscription-plans-starting-at-1-4-per-month/",
-    "published": "Mon, 18 May 2026 02:26:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Oppo and Vivo gear up for year-end gimbal camera launches to take on DJI’s Pocket series",
-    "summary": "Oppo and Vivo are also reportedly developing their own Pocket-style handheld gimbal cameras, with launches expected before the end of this year, according to China Star Market. The report said both companies aim to leverage their strengths in imaging algorithms, AI features, and ecosystem integration to enter the lightweight video creation market and further expand […]",
-    "url": "https://technode.com/2026/05/15/oppo-and-vivo-gear-up-for-year-end-gimbal-camera-launches-to-take-on-djis-pocket-series/",
-    "published": "Fri, 15 May 2026 07:33:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "TikTok launches TikTok GO lifestyle services brand in Indonesia, US and Japan",
-    "summary": "TikTok launched its lifestyle services brand, TikTok GO, in Indonesia, the US and Japan, marking a further push into travel and local commerce. The company said TikTok GO allows users to discover and book hotels, attractions, dining and travel experiences directly within the app. The feature was first introduced in Indonesia in late April before […]",
-    "url": "https://technode.com/2026/05/14/tiktok-launches-tiktok-go-lifestyle-services-brand-in-indonesia-us-and-japan/",
-    "published": "Thu, 14 May 2026 07:40:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Elon Musk praises Unitree’s rideable mech GD01, calls it “cool”",
-    "summary": "On Wednesday, Elon Musk praised Chinese robotics firm Unitree Robotics’ newly unveiled GD01 rideable mech on social media, calling the product “cool.” The Hangzhou-based company on Tuesday launched what it described as the world’s first mass-produced rideable transforming mech, with a starting price of 3.9 million yuan ($540,000). Unitree said the GD01 is designed as […]",
-    "url": "https://technode.com/2026/05/14/elon-musk-praises-unitrees-rideable-mech-gd01-calls-it-cool/",
-    "published": "Thu, 14 May 2026 07:09:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-08"
-  },
-  {
     "source": "The Verge",
     "title": "Fable launches in late February after recent delay",
     "summary": "Just a few days after pushing Fable out of 2026, Microsoft showed off more footage of Fable, the first new entry in the storied RPG franchise since 2010's Fable III, at its Xbox Games Showcase on Sunday. The company also announced a specific release date: February 23rd, 2027. Though if you get the Premium Edition, […]",
@@ -751,16 +511,16 @@
   },
   {
     "source": "微博",
-    "title": "#新能源车变胖让老司机都犯愁#",
+    "title": "#DeepSeek完成首轮外部融资#",
     "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23新能源车变胖让老司机都犯愁%23",
+    "url": "https://s.weibo.com/weibo?q=%23DeepSeek完成首轮外部融资%23",
     "published": "2026-06-08",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-08",
     "meta": {
-      "hotValue": 641814,
-      "rank": 4
+      "hotValue": 463349,
+      "rank": 19
     }
   },
   {
@@ -773,8 +533,184 @@
     "type": "community",
     "fetchedAt": "2026-06-08",
     "meta": {
-      "replies": 40,
+      "replies": 76,
       "node": "Local LLM"
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cpaczek/skylight",
+    "summary": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "url": "https://github.com/cpaczek/skylight",
+    "published": "2026-06-02T23:40:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 2328,
+      "forks": 232,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "b-nnett/goose",
+    "summary": "Goose Swift proof-of-concept README",
+    "url": "https://github.com/b-nnett/goose",
+    "published": "2026-06-02T12:16:37Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 2294,
+      "forks": 541,
+      "language": "Rust",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "jd-opensource/JoyAI-Echo",
+    "summary": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "published": "2026-06-02T03:25:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 977,
+      "forks": 65,
+      "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "tastyeffectco/sandboxd",
+    "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "url": "https://github.com/tastyeffectco/sandboxd",
+    "published": "2026-06-03T18:55:02Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 506,
+      "forks": 12,
+      "language": "Go",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Jane-xiaoer/xiaoer-videolab",
+    "summary": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "published": "2026-06-04T05:20:47Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 479,
+      "forks": 75,
+      "language": "JavaScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "JimLiu/baoyu-design",
+    "summary": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "published": "2026-06-07T01:16:18Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 444,
+      "forks": 31,
+      "language": "JavaScript",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "zenhosta/9drive",
+    "summary": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with en",
+    "url": "https://github.com/zenhosta/9drive",
+    "published": "2026-06-04T09:22:03Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 434,
+      "forks": 150,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nevertoday/zhongguo-traditional-colors",
+    "summary": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+    "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+    "published": "2026-06-03T03:26:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 418,
+      "forks": 50,
+      "language": "JavaScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "jeff141/meatshell",
+    "summary": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+    "url": "https://github.com/jeff141/meatshell",
+    "published": "2026-06-04T07:13:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 412,
+      "forks": 47,
+      "language": "Rust",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "NoopApp/noop",
+    "summary": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+    "url": "https://github.com/NoopApp/noop",
+    "published": "2026-06-07T17:03:02Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 411,
+      "forks": 395,
+      "language": "Swift",
+      "createdDaysAgo": 0
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "amElnagdy/guard-skills",
+    "summary": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "published": "2026-06-06T16:59:27Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-08",
+    "meta": {
+      "stars": 403,
+      "forks": 52,
+      "language": null,
+      "createdDaysAgo": 1
     }
   }
 ]
