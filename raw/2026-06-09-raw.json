@@ -1,6 +1,26 @@
 [
   {
     "source": "36氪",
+    "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
+    "summary": "文 | 阿至 封面来源｜Pexels 星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。 36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”） 近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。 本轮资金将主要用于星载组合光纤放大器产线扩容、星载三轴光纤陀螺在轨搭载验证及多款新品研发，进一步加速星载光电核心部组件的国产化进程。 寰宇星通成立于2021年，团队核心班底来自南开大学，是国内最早从事星载光纤放大器自主研发的产学研转化项目之一。创始人戴武涛硕士毕业于南开大学光学专业，在光电领域从业超20年，曾长期从事国外先进光电技术引进和国产化推进工作，是一位连续创业者。 在技术沿革方面，寰宇星通首席科学家刘波为南开大学教授、博导，国内激光通信领域专家，其团队研制的星载光纤放大器于2019年随北斗三号某星发射入轨，已累计在轨稳定运行超6年，是国内在轨运行时间最长的星载光纤放大器。 作为一家创业公司，过去5年，寰宇星通鲜少对外发声，团队主要精力集中于",
+    "url": "https://36kr.com/p/3845819328023043?f=rss",
+    "published": "2026-06-09 18:51:58  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-09"
+  },
+  {
+    "source": "36氪",
+    "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+    "summary": "文｜李嘉星 编辑｜周鑫雨 一句话介绍 context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。 它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。 据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。 团队背景 context-mode 的背后是一支背景多元的跨国初创团队。目前团队的核心成员分布在土耳其、法国等 4 个国家，主要通过 GitHub 异步协作。 Mert Köseoğlu（核心开发者、创始人）： 曾作为技术顾问为 OpenAI 等企业提供技术服务，拥有超 10 年全栈工程与系统架构经验。创业前，他曾先后任职于 Countly、Planhat 及 Jotform 等全球知名数据与 SaaS 平台，担任高级软件工程师。 孙逸诚（核心开发者、多平台适配负责人）： 团队里的中国面孔，目前大二在读。他曾入围强基计划（数学与物理全省前 18 名），具有 Temporal-RAG（时序数据检索增强）引擎",
+    "url": "https://36kr.com/p/3845645258541319?f=rss",
+    "published": "2026-06-09 15:53:19  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-09"
+  },
+  {
+    "source": "36氪",
     "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
     "summary": "作者 | 邱晓芬 编辑 | 袁斯来 6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线—— 这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。 显然，苹果正试图把过去两年的\"AI迟到者\"的标签，编译成另一套叙事。 在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Federighi）先是纠偏了多数AI的产品思路——他认为，大部分公司都在急着往前跑，\"为了AI而AI\"，却始终没考虑真正要服务的用户。 或许是在隐晦为苹果过去缺席AI做出解释，在他看来，苹果在AI上的定调是，AI必须以人为中心，要个性化、且有用。具体体现在，AI不仅要懂用户的个人环境、常用的应用、读懂用户当前的屏幕，且每一步的设计都要以尊重隐私为前提。 在关注AI之余，大众的另一个关注点是，这也是蒂姆·库克最后一次以CEO身份站上 WWDC 舞台主持。 不过，他选择把这段落幕的分量压得很轻——没有渲染煽情，在演讲结尾，他表示，“与这群团队同行，是一生的荣幸”，\"",
     "url": "https://36kr.com/p/3845356968839680?f=rss",
@@ -42,7 +62,7 @@
   {
     "source": "36氪",
     "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
-    "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。 当前，人工智能正沿两条主线加速演进：��大语言模型与多模态模型为代表的数字AI（Digital AI），以自动驾驶与人形机器人为代表的物理AI（Physical AI）。而生命AI（Bio AI）或将成为下一个最具想象力的疆域，这一判断，正被全球顶级资本与科学界持续确认。 2024年，诺贝尔化学奖同时授予蛋白质结构预测与蛋白质从头设计两个方向；2025年，中国创新药BD交易金额达1357亿美元，占全球交易金额约49%，超越美国成为全球创新药对外授权第一大市场；2026年5月，Alphabet旗下Isomorphic Labs完成21亿美元融资，由Thrive Capital领投，淡马锡、MGX、英国主权AI基金等主权资本共同入局，刷新AI药物发现领域的单笔融资纪",
+    "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。 当前，人工智能正沿两条主线加速演进：以大语言模型与多模态模型为代表的数字AI（Digital AI），以自动驾驶与人形机器人为代表的物理AI（Physical AI）。而生命AI（Bio AI）或将成为下一个最具想象力的疆域，这一判断，正被全球顶级资本与科学界持续确认。 2024年，诺贝尔化学奖同时授予蛋白质结构预测与蛋白质从头设计两个方向；2025年，中国创新药BD交易金额达1357亿美元，占全球交易金额约49%，超越美国成为全球创新药对外授权第一大市场；2026年5月，Alphabet旗下Isomorphic Labs完成21亿美元融资，由Thrive Capital领投，淡马锡、MGX、英国主权AI基金等主权资本共同入局，刷新AI药物发现领域的单笔融资纪录",
     "url": "https://36kr.com/p/3839626642344454?f=rss",
     "published": "2026-06-09 08:30:00  +0800",
     "lang": "zh",
@@ -71,90 +91,30 @@
   },
   {
     "source": "36氪",
-    "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
-    "summary": "大公司： 热门中概股美股盘前多数上涨，哔哩哔哩涨超5% 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。 天娱数科：目前无物理AI业务，未形成相关业务收入 36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经公司自查并向第一大股东核实，公司前期披露信息无需更正补充，未发现可能对股价产生较大影响的未公开重大信息，生产经营活动正常，第一大股东在异常波动期间未买卖公司股票。公司关注到近期部分媒体讨论涉及“物理AI”概念，但截至目前，公司没有物理AI业务，未形成相关业务收入。 锋龙股份：截至目前，公司不涉及人形机器人业务 36氪获悉，锋龙股份发布股票交易异常波动公告，公司股票交易连续3个交易日收盘价格涨幅偏离值累计超过20%。截至目前，公司不涉及人形机器人业务，主营业务仍为园林机械零部件、汽车零部件和液压零部件的研发、生产和销售，未发生重大变化，公司市场环境或行业政策未发生",
-    "url": "https://36kr.com/p/3844559758936582?f=rss",
-    "published": "2026-06-08 21:29:53  +0800",
+    "title": "京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件",
+    "summary": "36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公开发行股票并在北交所上市的申请并撤回申请文件。",
+    "url": "https://36kr.com/newsflashes/3845826885585414?f=rss",
+    "published": "2026-06-09 18:57:24  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
   },
   {
-    "source": "36氪",
-    "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
-    "summary": "文｜王毓婵 编辑｜张雨忻 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？ 毫无疑问，是汤道生与姚顺雨的对话。 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？” 姚顺雨回答说：“感觉应该是我问你的问题。” 姚顺雨随后提到了两个判断标准—— 1.AI是一个短期游戏还是长期游戏？2.它会是一个线性还是多元游戏？ 这位年仅27岁，曾在 OpenAI 工作，被称为“清华天才少年”的姚顺雨加入腾讯已经半年，他的思路几乎就是腾讯AI的思路。他的判断结论是：首先，AI是一个长期游戏，刚刚进入下半场；其次，Coding Agent很重要。 如姚顺雨所描述的那样，腾讯推出了一系列的Coding Agent产品、To B也To C的效率提升工具。相比之下，年初时花费了腾讯大量营销费用的元宝，在大会上几乎",
-    "url": "https://36kr.com/p/3844018911889924?f=rss",
-    "published": "2026-06-08 17:01:03  +0800",
+    "source": "创业邦",
+    "title": "高端钢材自给率近100%，现存钢铁相关企业超10万家",
+    "summary": "今年以来，我国高端钢材供给持续增强，一批用于新能源汽车、机器人等领域的特种钢加快涌现。最新研发的\"蝉翼钢\"最薄仅0.07毫米，相当于一根头发丝的直径。从核电用钢到延展性能提升五成的镀锡钢板，我国已全球首发6项核心钢铁产品，用于机器人电机、海底管道等领域的高端钢材自给率接近100%。 这一突破源于钢铁产业向智能化、绿色化、融合化的全面转型。目前行业已有3家企业入选全球\"灯塔工厂\"，累计培育\"卓越级\"智能工厂36家，关键工序数控化率达86%，推动高端制造能力快速提升，产业链供应链韧性不断增强。 从\"大而全\"走向\"精而强\"，我国钢铁行业正以定制化能力支撑新兴产业发展，为新能源汽车、机器人等战略领域提供坚实的基础材料保障。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的钢铁相关企业超10.4万家。其中，2026年截至目前新增注册相关企业约4800余家，从企业注册数量趋势来看，近五年钢铁相关企业注册量在2021-2022年平稳运行，2023年迎来爆发式冲高，2024年明显回落，2025年再度小幅回升。 从区域分布来看，辽宁省、江苏省、山东省钢铁相关企业数量位居前列，三个省市数量总和超过3",
+    "url": "http://",
+    "published": "Tue, 09 Jun 2026 06:48:14 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
   },
   {
-    "source": "36氪",
-    "title": "改变全球速度的AI，付款却卡在上一个时代",
-    "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。 但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？ 当AI企业的采购清单越来越全球化，支付链路的每一个断点，都意味着实实在在的成本损耗和效率内耗。而当产品开始面向全球用户变现，跨币种结算的汇损、本地支付方式的碎片化与计费模式的复杂性，又在收款侧筑起了另一道门槛。进出两端都被卡，资金闭环也就无从建立。 这是当下数万家中国AI企业每天都在经历的真实困境。 全球化采购清单，旧时代支付工具 理解这个问题，首先要理解AI企业的成本结构。 如果把AI公司类比成一家制造业企业，那它的“原材料”清单大致如下：海外GPU集群租赁、AWS/Azure/Google Cloud等境外云服务、OpenAI/Anthropic/Claude等境外大模型API调用、海外向量数据库与M",
-    "url": "https://36kr.com/p/3844199957236227?f=rss",
-    "published": "2026-06-08 15:30:56  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "36氪",
-    "title": "北京经开区成立专班，定向支持具身智能企业昆仑行",
-    "summary": "36氪获悉，近日，从北京经开区传出相关消息，昆仑行机器人科技有限公司正式落地北京亦庄经开区，经开区主要领导与公司创始人任庚及核心团队开展了专项会晤，明确成立专班定向支持这家“明星创企”。据了解，昆仑行今年3月正式在北京亦庄经开区完成工商注册。企业创始人任庚，是前阿里集团副总裁&阿里云中国区总裁、华为全球化发展中的海外国家CEO，联合创始人郎咸朋，是前理想汽车高级副总裁，自动驾驶总裁及“一号员工”。",
-    "url": "https://36kr.com/newsflashes/3845420223301895?f=rss",
-    "published": "2026-06-09 12:03:44  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "36氪",
-    "title": "晓程科技：暂无并购芯片、电路板或晶圆企业的计划",
-    "summary": "36氪获悉，晓程科技在互动平台表示，截至目前，公司暂无并购芯片、电路板或晶圆企业的计划。",
-    "url": "https://36kr.com/newsflashes/3845406959389186?f=rss",
-    "published": "2026-06-09 11:50:14  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "36氪",
-    "title": "A股三大指数午间休盘集体上涨，算力股走强",
-    "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.51%，深成指涨1.25%，创业板指涨1.91%。半导体、通信设备、建材板块领涨，杰华特涨停，太辰光涨超15%，扬杰科技涨超6%，中材科技涨超9%；能源、生物科技、零售板块走弱，国际实业跌超6%，药明康德跌超5%，永辉超市跌超2%。",
-    "url": "https://36kr.com/newsflashes/3845389103106310?f=rss",
-    "published": "2026-06-09 11:32:04  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "36氪",
-    "title": "小米上线MiMo-V2.5-Pro-UltraSpeed模式",
-    "summary": "36氪获悉，6月8日晚，小米MiMo技术团队正式上线Xiaomi MiMo-V2.5-Pro-UltraSpeed模式。据了解，MiMo-V2.5-Pro-UltraSpeed通过对模型推理系统的全链路工程能力优化，在不降低模型能力前提下，首次把推理速度提升至1000 tokens/s，且无需定制芯片、只使用通用GPU即可达成。",
-    "url": "https://36kr.com/newsflashes/3845358573144581?f=rss",
-    "published": "2026-06-09 11:01:01  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "36氪",
-    "title": "海南：到2030年商业航天产业营收力争达到500亿元",
-    "summary": "36氪获悉，海南省人民政府办公厅印发《海南省“十五五”高新技术产业发展规划》，其中提到，以服务“航天强国”战略为核心，全力推进海南商业航天发射场建设，“以场带产”形成涵盖商业发射、星箭制造、卫星应用等全链条产业集群，打造火箭链、卫星链、数据链和“航天+”产业体系。到2030年，商业航天产业营收力争达到500亿元。",
-    "url": "https://36kr.com/newsflashes/3845319281264902?f=rss",
-    "published": "2026-06-09 10:21:03  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "36氪",
-    "title": "两部门印发《服务业发展资金管理办法》",
-    "summary": "36氪获悉，为加强服务业发展资金管理，充分发挥中央财政资金在引导促进服务业加快发展方面的作用，财政部、商务部修订印发《服务业发展资金管理办法》。其中提到，服务业发展资金的支持范围包括：加快培育消费新增长点。主要包括促进服务消费提质惠民、激发下沉市场消费活力、推动人工智能等新兴技术在消费领域的普及应用等。提升商贸流通业竞争力。补齐流通设施短板，增强流通保供能力，大力发展现代供应链，提升产业集成和协同化水平。",
-    "url": "https://36kr.com/newsflashes/3845293621266696?f=rss",
-    "published": "2026-06-09 09:54:57  +0800",
+    "source": "创业邦",
+    "title": "融资丨井英科技完成数千万美元融资",
+    "summary": "2026年6月，井英科技（CreativeFitting）宣布已完成数千万美元A轮及A+轮融资，投资方包括 Lollapalooza Capital（王慧文家办）、蚂蚁集团、腾讯公司原集团副总裁殷宇等。与此同时，公司正式官宣原AWS亚马逊上海AI研究院首席应用科学家，现任香港大学上海智能交叉创新研究院院长王敏捷加入，担任首席科学家。这也体现了具备前沿科技判断和产业资源的投资方，对井英科技团队、技术路线和公司愿景的认可。通过本轮融资，井英科技将继续加大对AI短剧的技术投入，构建内容创作和评估反馈环境，以Agent原生的方式推动内容娱乐行业升级。 井英科技创立于 2021 年，长期围绕 AI 内容生产技术和娱乐消费场景进行探索。内容娱乐是一个万亿美元级市场，AI 短剧则是其中增长最快的新兴场景之一，而且短剧的反馈密度天然适合驱动Agent迭代。井英科技是全球AI短剧赛道的开创者，率先在海外AI短剧行业中跑通了从生产、分发到用户消费的完整闭环。团队专注于构建和优化各环节的Agent系统，使内容创作、评估和反馈形成持续运转的工作回路。目前已有上千名创作者及其Agent接入系统。随着更多创作者及",
+    "url": "http://www.cyzone.cn/article/836108.html",
+    "published": "Tue, 09 Jun 2026 05:10:49 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
@@ -175,16 +135,6 @@
     "summary": "近日，国内领先的AI for Science（AI4S）企业百奥几何（BioGeometry）宣布完成新一轮数亿元战略融资。本轮融资由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投，指数资本担任独家财务顾问。这笔融资不仅是资本市场的认可，更明确释放出一个信号：这家国内罕见具备生命科学领域底层大模型从0到1搭建能力的团队，已经完成了技术和产业化验证，正式迎来商业化快速增长的黄金拐点。 01 “AI Native”领军企业，从0到1搭建微观世界通用操作系统 不同于业界主流将 AI 视为局部增效工具的「AI + Bio」路径，百奥几何选择从底层重构生命科学的研发范式，打造下一代 AI 原生（AI Native）生物科技公司。在当前的技术大潮中，人工智能正沿着三条清晰的主线加速演进： 数字AI (Digital AI)，以大语言模型与多模态模型为代表，重构人类的信息与知识世界； 物理AI (Physical AI)，以自动驾驶与人形机器人为代表，重构人类的物理与机械世界； 生命 AI (Bio AI) —— 百奥几何正在解答的终极命题——",
     "url": "http://www.cyzone.cn/article/836073.html",
     "published": "Tue, 09 Jun 2026 01:53:07 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "创业邦",
-    "title": "国内首个棉花碳足迹平台上线，现存涉棉企业超217万家",
-    "summary": "中国农科院棉花研究所联合西部农业研究中心，推出国内首个棉花碳足迹核算平台——\"棉花碳足迹计算v1.0\"微信小程序。用户只需输入种植面积、灌溉方式、农资投入等基础信息，即可一键获取棉花生产全过程的碳排放、碳汇及净碳足迹结果，还支持数据可视化、历史查询和报告导出。 传统碳足迹核算方法数据收集复杂、专业门槛高，基层棉农和涉棉企业难以使用。该平台基于国际通用的生命周期评价法，结合多年田间试验数据构建核算模型，并集成了关键环节排放因子数据库，覆盖化肥、农药、农膜、电力、柴油等投入品的碳排放定量分析。 平台还接入AI大模型，可根据不同区域生产模式提供针对性的减排潜力评估与低碳生产建议，为棉农、科研人员及管理部门提供技术支撑。这一\"碳核算+大模型\"的技术路径在国内尚属首创。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的涉棉企业超217.6万家。其中，2026年截至目前新增注册相关企业约13.7万余家，从企业注册数量趋势来看，近五年间，涉棉企业的注册数量呈现出逐年增长的态势，并在2025年达到顶峰。 从区域分布来看，河南省、湖北省、山东省涉棉企业数量位居前列，分别拥有超18.8万余家、18.",
-    "url": "http://",
-    "published": "Mon, 08 Jun 2026 07:13:05 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
@@ -340,41 +290,31 @@
     "fetchedAt": "2026-06-09"
   },
   {
-    "source": "创业邦",
-    "title": "融资丨蚂蚁、滴滴、德联领投，简智机器人完成数亿元多轮融资",
-    "summary": "今日，具身智能解决方案服务商 ——简智机器人宣布完成连续多轮共数亿元融资，分别由蚂蚁集团、滴滴、德联资本领投，顺为资本、BV百度风投、九识智能等老股东持续跟投，该融资为具身智能无本体数据领域迄今最大规模融资，这也意味着简智机器人成为该领域累计融资金额最多的公司。 此次融资既是资本市场对简智机器人综合实力的强力加持，更是行业对其核心技术、产品落地能力与赛道引领价值的高度认可。后续各方将围绕业务协同、产品赋能、场景共建等维度展开深度联动，共同推动具身智能数据基建产业高质量发展，加速人工智能从数字虚拟世界深度落地真实物理世界。 深耕具身智能数据赛道，简智机器人坚信具身模型的快速成长提升需要高质量的数据驱动，而非低质量数据的堆砌。 因此简智机器人以“从模型定义数据标准”，将高保真、多模态人类行为数据作为核心解决方案，前瞻性搭建完整数据产品矩阵，落地可规模化、高效的大规模数据生成路径。凭借超前的技术布局与扎实的工程落地能力，简智已成为赛道内融资节奏最快、成长势能最为突出的企业之一，加速迈向具身智能数据基建独角兽。 现阶段，简智机器人已实现具身数据全栈自研与商业化落地交付，产能规模和数据质量均领跑",
-    "url": "http://www.cyzone.cn/article/835249.html",
-    "published": "Mon, 01 Jun 2026 08:21:04 GMT",
+    "source": "钛媒体",
+    "title": "补贴退潮、格局重构：新能源重卡“规模化”闯关",
+    "summary": "能否为各方带来真正利益，决定新能源重卡能否跨过规模化门槛。",
+    "url": "https://www.tmtpost.com/8020265.html",
+    "published": "Tue, 09 Jun 2026 18:12:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
   },
   {
     "source": "钛媒体",
-    "title": "AI没有让创业变容易，它只是把试错变便宜了",
-    "summary": "低成本不是优势，快速校准才是优势。",
-    "url": "https://www.tmtpost.com/8020042.html",
-    "published": "Tue, 09 Jun 2026 11:35:00 +0800",
+    "title": "半年估值暴涨近7倍，月之暗面再启20亿美元融资",
+    "summary": "月之暗面在技术领域依旧保持着高频的推进节奏。",
+    "url": "https://www.tmtpost.com/8021100.html",
+    "published": "Tue, 09 Jun 2026 18:00:18 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
   },
   {
     "source": "钛媒体",
-    "title": "国际论文发表可能拆掉光伏、储能和风电的护城河，中国新能源安全的防线由谁守？",
-    "summary": "中国新能源领域窃密高发，科研人员需绷紧保密弦。",
-    "url": "https://www.tmtpost.com/8019709.html",
-    "published": "Tue, 09 Jun 2026 10:38:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "爱范儿",
-    "title": "早报｜曝苹果Vision Pro系列被砍/多地高考将查验智能眼镜/DeepSeek首轮融资规模约500亿元",
-    "summary": "· 荣耀 YOYO 智能体可直接操控微信 · 苹果公布 2026 Apple 设计大奖得主 · Google 允许网站退出 AI 搜索 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1668044?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 04 Jun 2026 00:30:40 +0000",
+    "title": "全球芯片股一周惊魂：三重利空砸出深坑，反弹还是反转",
+    "summary": "谁在接住这把飞刀？",
+    "url": "https://www.tmtpost.com/8020971.html",
+    "published": "Tue, 09 Jun 2026 16:20:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09"
@@ -386,6 +326,26 @@
     "url": "https://cn.technode.com/post/2026-06-08/2026-06-01-2026-06-07/",
     "published": "Mon, 08 Jun 2026 07:35:31 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+    "summary": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites.",
+    "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+    "published": "Tue, 09 Jun 2026 09:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+    "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+    "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+    "published": "Tue, 09 Jun 2026 05:07:17 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-09"
   },
@@ -405,16 +365,6 @@
     "summary": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
     "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
     "published": "Mon, 08 Jun 2026 20:03:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Apple’s Health app can now tell you if you’re in perimenopause",
-    "summary": "Cycle tracker will now notify women when their cycle patterns are suggestive of perimenopause.",
-    "url": "https://techcrunch.com/2026/06/08/apples-health-app-can-now-tell-you-if-youre-in-perimenopause/",
-    "published": "Mon, 08 Jun 2026 18:03:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-09"
@@ -681,6 +631,16 @@
   },
   {
     "source": "The Verge",
+    "title": "Hue’s SpatialAware finally made me appreciate color-changing lights",
+    "summary": "I've been a fan of Philips Hue smart lights since the early days. It's one of the few staples in my ever-changing smart home. However, when the Bridge Pro launched late last year, it wasn't immediately obvious why I should upgrade. The signature feature, MotionAware - which turns your lights into motion sensors - is […]",
+    "url": "https://www.theverge.com/tech/945624/philips-hue-bridge-pro-review-spatialaware-motionaware",
+    "published": "2026-06-09T07:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-09"
+  },
+  {
+    "source": "The Verge",
     "title": "5 things I already love from the iOS 27 beta",
     "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features […]",
     "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
@@ -690,215 +650,45 @@
     "fetchedAt": "2026-06-09"
   },
   {
-    "source": "Hacker News",
-    "title": "OpenAI plots biggest ChatGPT overhaul since launch",
-    "summary": "Article URL: https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9 Comments URL: https://news.ycombinator.com/item?id=48453225 Points: 7 # Comments: 0",
-    "url": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
-    "published": "Mon, 08 Jun 2026 22:28:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: How do you cope when your startup contracts?",
-    "summary": "The same general situation has happened to me twice now and I am wondering if it’s something I can break free from or if it’s just the nature of the Startup beast - or what. There seems to be some kind of bubble that starts drying up investment in a startup where I am a technical lead. Both times, things seem to be going well and then 2 years in there are rounds of layoffs due to factors outside my/product’s control where the result is the same. I end up as the last tech generalist. It falls to ",
-    "url": "https://news.ycombinator.com/item?id=48453224",
-    "published": "Mon, 08 Jun 2026 22:28:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Freiburg-based startup, is entering the market with caloric cooling technology",
-    "summary": "Article URL: https://www.ipm.fraunhofer.de/en/press-publications/press-releases/Qurie-GmbH-founding-electrocaloric-cooling.html Comments URL: https://news.ycombinator.com/item?id=48452868 Points: 3 # Comments: 0",
-    "url": "https://www.ipm.fraunhofer.de/en/press-publications/press-releases/Qurie-GmbH-founding-electrocaloric-cooling.html",
-    "published": "Mon, 08 Jun 2026 22:00:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
-    "summary": "It started after reading Stephen King's \"On Writing\" where he likened the art of writing as the unearthing of an archeological site after you stumbled upon a unique bone of a story. His advice was to choose a domain you are deeply intimate with. For me, I've been a struggling startup founder for 15 years—enough material to inspire a novel. A 1,000-word writing exercise turned into a complete 125k-word manuscript over the course of a year. In year 1, I learned the sheer joy of unencumbered creati",
-    "url": "https://www.blockchainednovel.com/",
-    "published": "Mon, 08 Jun 2026 16:29:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Proton is funding the French far right on YouTube",
-    "summary": "Article URL: https://old.reddit.com/r/degoogle/comments/1tzbizh/proton_is_funding_the_french_far_right_on_youtube Comments URL: https://news.ycombinator.com/item?id=48446899 Points: 34 # Comments: 23",
-    "url": "https://old.reddit.com/r/degoogle/comments/1tzbizh/proton_is_funding_the_french_far_right_on_youtube",
-    "published": "Mon, 08 Jun 2026 15:47:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-    "summary": "Hey HN, we're Faisal and Ahmad from Intuned ( https://intunedhq.com ). We’re building a platform for building, deploying, and maintaining browser automations. Customers primarily use the Intuned AI agent to automate websites that don't expose APIs. Common use-cases include scraping data, pulling reports, and submitting forms. As the website changes, our agent also helps automatically heal the automation. On Intuned, browser automations are created by an AI agent and run as code . Our infra captu",
-    "url": "https://intunedhq.com",
-    "published": "Mon, 08 Jun 2026 13:35:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber Opens London Waitlist for Wayve Robotaxis Ahead of Launch",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-08/uber-opens-london-waitlist-for-wayve-robotaxis-ahead-of-launch Comments URL: https://news.ycombinator.com/item?id=48443861 Points: 1 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-08/uber-opens-london-waitlist-for-wayve-robotaxis-ahead-of-launch",
-    "published": "Mon, 08 Jun 2026 11:13:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "What is your craziest idea to launch in this AI era?",
-    "summary": "Let me share my first idea! I want to create an app that helps users save internet data directly to their device. Let's say you are in a restaurant, bedroom, or any place with Wi-Fi, enjoying online streaming. Suddenly, you have to leave, losing access to Wi-Fi, and you have no mobile data either. What will you do? This app will save you! Before leaving, simply open the app and start saving the data you need. You can then use this saved data whenever and wherever you want, without spending a sin",
-    "url": "https://news.ycombinator.com/item?id=48441776",
-    "published": "Mon, 08 Jun 2026 05:58:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain's 'Core Algorithm'",
-    "summary": "Article URL: https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/ Comments URL: https://news.ycombinator.com/item?id=48440710 Points: 19 # Comments: 15",
-    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-    "published": "Mon, 08 Jun 2026 02:24:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I asked a few hundred builders how they decide it's time to launch",
-    "summary": "Article URL: https://nicklaunches.com/blog/week-5-recap-june-07-2026/ Comments URL: https://news.ycombinator.com/item?id=48440263 Points: 2 # Comments: 0",
-    "url": "https://nicklaunches.com/blog/week-5-recap-june-07-2026/",
-    "published": "Mon, 08 Jun 2026 01:01:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Rejection on the Eve of Launch (2024)",
-    "summary": "Article URL: https://jonofyi.substack.com/p/a-rejection-on-the-eve-of-launch Comments URL: https://news.ycombinator.com/item?id=48437340 Points: 2 # Comments: 0",
-    "url": "https://jonofyi.substack.com/p/a-rejection-on-the-eve-of-launch",
-    "published": "Sun, 07 Jun 2026 18:23:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show Show HN: PrivatePulse – Value startup equity using secondary market data",
-    "summary": "Article URL: https://www.privatepulse.online/ Comments URL: https://news.ycombinator.com/item?id=48436323 Points: 1 # Comments: 0",
-    "url": "https://www.privatepulse.online/",
-    "published": "Sun, 07 Jun 2026 16:23:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Searching for startup opportunities on Google Workspace Marketplace, pt 1 (2025)",
-    "summary": "Article URL: https://developerwithacat.com/blog/052025/google-workspace-marketplace-startups-part1/ Comments URL: https://news.ycombinator.com/item?id=48435278 Points: 2 # Comments: 0",
-    "url": "https://developerwithacat.com/blog/052025/google-workspace-marketplace-startups-part1/",
-    "published": "Sun, 07 Jun 2026 14:38:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Quibi – Billion Dollar Company liquidated in less than a year of launch",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Quibi Comments URL: https://news.ycombinator.com/item?id=48432293 Points: 6 # Comments: 0",
-    "url": "https://en.wikipedia.org/wiki/Quibi",
-    "published": "Sun, 07 Jun 2026 06:07:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lessons from late founding a tech debt ridden startup(2025)",
-    "summary": "Article URL: https://inverted-tree.com/posts/lessons-from-founding-tech-debt-ridden-startup/ Comments URL: https://news.ycombinator.com/item?id=48431537 Points: 1 # Comments: 0",
-    "url": "https://inverted-tree.com/posts/lessons-from-founding-tech-debt-ridden-startup/",
-    "published": "Sun, 07 Jun 2026 03:39:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup replaced $14K/mo cloud GPUs with 1000 M4 Mac Minis",
-    "summary": "Article URL: https://twitter.com/TheAppleDesign/status/2063195530864542142 Comments URL: https://news.ycombinator.com/item?id=48428238 Points: 7 # Comments: 4",
-    "url": "https://twitter.com/TheAppleDesign/status/2063195530864542142",
-    "published": "Sat, 06 Jun 2026 19:38:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump administration, OpenAI discussing possible government stake in the startup",
-    "summary": "Article URL: https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html Comments URL: https://news.ycombinator.com/item?id=48418910 Points: 6 # Comments: 1",
-    "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
-    "published": "Fri, 05 Jun 2026 21:58:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-09"
-  },
-  {
     "source": "微博",
-    "title": "#iPhone17无缘苹果最强端侧大模型#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23iPhone17无缘苹果最强端侧大模型%23",
+    "title": "#谢娜下沉市场口碑#",
+    "summary": "热",
+    "url": "https://s.weibo.com/weibo?q=%23谢娜下沉市场口碑%23",
     "published": "2026-06-09",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "hotValue": 570383,
-      "rank": 9
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#创始人去世24岁女儿拟继承近5亿家产#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23创始人去世24岁女儿拟继承近5亿家产%23",
-    "published": "2026-06-09",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-09",
-    "meta": {
-      "hotValue": 500907,
-      "rank": 14
+      "hotValue": 309288,
+      "rank": 12
     }
   },
   {
     "source": "V2EX",
-    "title": "我不知道我在说些什么，就这样随便看随便吐槽吧",
-    "summary": "中午吃饭的路上，遇到好几个外卖员随身带的孩子，若不是生活所迫，谁也不愿看到自己的孩子这么小就跟着风吹日晒。我是双鱼座，心思比较多。看着这种画面很有感想。 突然我想到了去年的这个时候。 我一直都有种居安思危的意识。 提前预料公司经济出现问题，发不起工资。无奈之下，干起了众包兼职。 每天下班 6.30 回到家以后，天天跑四个小时赚 100 块来解决家庭负担。有一次外卖大战当前赚了 800 多。 那阵子西安很热，晚上还好点。 我坚持了半年这样的生活，公司最后也平稳了。工资又发出来了。慢慢的也就不再继续跑单了。 西安群里的一些好友“亲切”地称呼我为“站长”。我知道他们更多的是看不起而",
-    "url": "https://www.v2ex.com/t/1218747",
-    "published": 1780897556,
+    "title": "这种情况算是崇洋媚外吗",
+    "summary": "我身边有几位朋友，对所有国产产品都抱有极强的不信任感。 手机方面只认可苹果，对国产手机从不了解、从不关注，还一味贬低吐槽；聊到汽车，如今国产车表现越来越好，可他们只认准特斯拉，直言国产车企的宣传都是虚假噱头，智能驾驶也只信任 FSD 。 再说说 AI 大模型，业内公认综合实力顶尖的是 Claude ，而在 arena 排行榜中，国产模型在代码领域表现突出，除了 Claude 之外，直接包揽了榜单 2-5 名。即便数据摆在眼前，他们依旧打心底里看不起国产模型。宁愿花大价钱使用体验参差不齐的海外模型中转站，也要坚持用 Gemini 和 Claude 。 在他们眼里，仿佛国外产品不",
+    "url": "https://www.v2ex.com/t/1219079",
+    "published": 1780988371,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "replies": 92,
-      "node": "生活"
+      "replies": 201,
+      "node": "问与答"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "\"万一免五\"低佣低两融老倔驴开户巨靠谱，抽一台 JBL GO4 小音箱..户外做个显眼包~~",
+    "summary": "每周一抽，码农值得拥有的精选好物，继续抽 JBL GO4..户外徒步做个显眼包！ > JBL Go 4 （音乐金砖四代）是一款极具性价比的超便携蓝牙音箱。它以巴掌大小的体积、扎实的低音表现、IP67 防水防尘等级以及长达 7-9 小时的续航获得市场高度评价，是户外运动、露营和随身携带的理想选择。 🏅**回复即可参与！** 超过 150 加抽 一台！ ![]( https://i.v2ex.co/9Evj3LnH.png) ### 🎈老倔驴推荐 - **ETF 玩家：** 银河 ETF 免五,适合大多数散户，宽基纳指+打新+逆回购 1 折+LOF 套利",
+    "url": "https://www.v2ex.com/t/1218911",
+    "published": 1780963377,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-06-09",
+    "meta": {
+      "replies": 75,
+      "node": "推广"
     }
   },
   {
@@ -911,26 +701,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 632,
-      "forks": 40,
+      "stars": 905,
+      "forks": 55,
       "language": "TypeScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "JimLiu/baoyu-design",
-    "summary": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-    "url": "https://github.com/JimLiu/baoyu-design",
-    "published": "2026-06-07T01:16:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-09",
-    "meta": {
-      "stars": 546,
-      "forks": 39,
-      "language": "JavaScript",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -943,42 +717,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 543,
-      "forks": 499,
+      "stars": 584,
+      "forks": 520,
       "language": "Swift",
       "createdDaysAgo": 1
     }
   },
   {
     "source": "GitHub新星",
-    "title": "tastyeffectco/sandboxd",
-    "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "url": "https://github.com/tastyeffectco/sandboxd",
-    "published": "2026-06-03T18:55:02Z",
+    "title": "JimLiu/baoyu-design",
+    "summary": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "published": "2026-06-07T01:16:18Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 516,
-      "forks": 14,
-      "language": "Go",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Jane-xiaoer/xiaoer-videolab",
-    "summary": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-    "published": "2026-06-04T05:20:47Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-09",
-    "meta": {
-      "stars": 485,
-      "forks": 76,
+      "stars": 583,
+      "forks": 44,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 2
     }
   },
   {
@@ -991,26 +749,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 483,
-      "forks": 58,
+      "stars": 559,
+      "forks": 63,
       "language": "JavaScript",
       "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "amElnagdy/guard-skills",
-    "summary": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "url": "https://github.com/amElnagdy/guard-skills",
-    "published": "2026-06-06T16:59:27Z",
+    "title": "tastyeffectco/sandboxd",
+    "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "url": "https://github.com/tastyeffectco/sandboxd",
+    "published": "2026-06-03T18:55:02Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 474,
-      "forks": 55,
-      "language": null,
-      "createdDaysAgo": 2
+      "stars": 522,
+      "forks": 16,
+      "language": "Go",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1023,10 +781,42 @@
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 464,
-      "forks": 55,
+      "stars": 514,
+      "forks": 59,
       "language": "Python",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "amElnagdy/guard-skills",
+    "summary": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "published": "2026-06-06T16:59:27Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-09",
+    "meta": {
+      "stars": 489,
+      "forks": 57,
+      "language": null,
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Jane-xiaoer/xiaoer-videolab",
+    "summary": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "published": "2026-06-04T05:20:47Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-09",
+    "meta": {
+      "stars": 488,
+      "forks": 76,
+      "language": "JavaScript",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1039,10 +829,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 452,
-      "forks": 157,
+      "stars": 463,
+      "forks": 158,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1055,10 +845,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-09",
     "meta": {
-      "stars": 430,
-      "forks": 48,
+      "stars": 448,
+      "forks": 49,
       "language": "Rust",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
