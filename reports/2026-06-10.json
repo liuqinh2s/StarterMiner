@@ -3198,8 +3198,8 @@
           "website": "https://www.eightsleep.com/",
           "emails": [
             "support@eightsleep.com",
-            "contacto@albaestudio.com",
             "support@affirm.com",
+            "contacto@albaestudio.com",
             "support@truemed.com",
             "team@truemed.com"
           ],
@@ -4229,8 +4229,19 @@
         "fetchedAt": "2026-06-10",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "info@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
+          ],
+          "socials": {
+            "twitter": "_LatitudeMedia",
+            "linkedin": "latitude-media-inc"
+          },
           "careerPage": null,
           "jobListings": []
         },
