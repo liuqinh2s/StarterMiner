@@ -1,6 +1,26 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+    "summary": "大公司： 瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长 36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。 Meta与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心 Facebook母公司Meta 周三表示，已与印度亿万富翁穆克什·安巴尼旗下的信实工业集团 达成合作，将在印度共建一座人工智能数据中心。声明称，信实工业将在古吉拉特邦贾姆纳加尔建设一座容量为168兆瓦的数据中心，Meta将租用该中心，并保留扩容选项。 韩IT巨头Kakao工会史上首次启动局部罢工 据报道，韩国IT巨头Kakao工会于6月10日启动公司史上的首次局部罢工。参加罢工的包括Kakao总部和Kakao Pay、Kakao Enterprise、Dk Techin、XLGAMES四家子公司。工会方面表示，有1500余名员工参与罢工，其中",
+    "url": "https://36kr.com/p/3847079661193733?f=rss",
+    "published": "2026-06-10 16:32:14  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "36氪",
+    "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+    "summary": "文｜周鑫雨 编辑｜张雨忻 《智能涌现》独家获悉， 字节跳动 AI 制药业务线已启动拆分与独立融资进程。 据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。 新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。 此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI 制药团队 ，相关算法模型团队已完成整合，将继续推进该领域的基础模型研究，少数人员离职。 字节 AI 制药的业务进展，是这次拆分融资的重要基础。 字节跳动在 AI 制药方向有多个技术成果，2025 年，字节 AI4S 团队发布了分子结构预测模型 Protenix 和 Seedfold，并在 2026 年迭代 Protenix-v1/v2，构建面向蛋白、配体等生物复合体系的高精度开源结构预测能力。 在蛋白质设计和预测方面，团队则推出了 PXDesign",
+    "url": "https://36kr.com/p/3846956646124036?f=rss",
+    "published": "2026-06-10 14:11:37  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "36氪",
     "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
     "summary": "文｜张子怡 编辑｜袁斯来 在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。 不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。 因此，跨境电商圈对于AI工具的降本增效功能格外渴望。在过去两年的大模型热潮中，跨境卖家们用ChatGPT写描述、Midjourney生图、翻译客服等工具塞满工作流。然而，单点工具在实际运用中需要运营人员不断调试提示词、在不同工具间频繁手动导数据，还需校验内容的逻辑硬伤。 上述问题成为StoreClaw创立的契机，公司创立于2026年，其要解决的是跨平台的电商运营难题。该产品于近期冲入Product Hunt测评榜，获得“日榜第一”和“周榜第一”的成绩。 在当前的电商AI赛道上，各方解决方案的定位差异明显。一类是以Shopify Sidekick、Amaz",
     "url": "https://36kr.com/p/3846793046133257?f=rss",
@@ -81,90 +101,60 @@
   },
   {
     "source": "36氪",
-    "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
-    "summary": "文 | 阿至 封面来源｜Pexels 星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。 36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”） 近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。 本轮资金将主要用于星载组合光纤放大器产线扩容、星载三轴光纤陀螺在轨搭载验证及多款新品研发，进一步加速星载光电核心部组件的国产化进程。 寰宇星通成立于2021年，团队核心班底来自南开大学，是国内最早从事星载光纤放大器自主研发的产学研转化项目之一。创始人戴武涛硕士毕业于南开大学光学专业，在光电领域从业超20年，曾长期从事国外先进光电技术引进和国产化推进工作，是一位连续创业者。 作为一家创业公司，过去5年，寰宇星通鲜少对外发声，团队主要精力集中于产品研发及在轨验证。 毕竟，太空环境具有极端特殊性，很多工况地面实验室无法完全复现，而星载产品一旦入轨无法物理维修，想要证明技术方案的真实可靠，“飞行履历”才是最有力的佐证——地面200小时、甚至2000小时测试",
-    "url": "https://36kr.com/p/3845819328023043?f=rss",
-    "published": "2026-06-09 18:51:58  +0800",
+    "title": "深圳杰成新能源科技股份有限公司递表港交所",
+    "summary": "36氪获悉，据港交所文件，深圳杰成新能源科技股份有限公司向港交所提交上市申请书，独家保荐人为农银国际。",
+    "url": "https://36kr.com/newsflashes/3847267405400328?f=rss",
+    "published": "2026-06-10 19:22:47  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
     "source": "36氪",
-    "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
-    "summary": "文｜李嘉星 编辑｜周鑫雨 一句话介绍 context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。 它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。 据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。 团队背景 context-mode 的背后是一支背景多元的跨国初创团队。目前团队的核心成员分布在土耳其、法国等 4 个国家，主要通过 GitHub 异步协作。 Mert Köseoğlu（核心开发者、创始人）： 曾作为技术顾问为 OpenAI 等企业提供技术服务，拥有超 10 年全栈工程与系统架构经验。创业前，他曾先后任职于 Countly、Planhat 及 Jotform 等全球知名数据与 SaaS 平台，担任高级软件工程师。 孙逸诚（核心开发者、多平台适配负责人）： 团队里的中国面孔，目前大二在读。他曾入围强基计划（数学与物理全省前 18 名），具有 Temporal-RAG（时序数据检索增强）引擎",
-    "url": "https://36kr.com/p/3845645258541319?f=rss",
-    "published": "2026-06-09 15:53:19  +0800",
+    "title": "有研粉材：增材制造粉体产能扩张项目仍处于建设阶段，近期未明显新增重要订单",
+    "summary": "36氪获悉，有研粉材公告，公司增材制造粉体产能扩张项目仍处于建设阶段，近期未明显新增重要订单。市场近期高度关注存储芯片、PCB、光模块相关概念，但由于公司产品属于上游原材料，下游应用具有不确定性，目前公司业绩未受明显影响。",
+    "url": "https://36kr.com/newsflashes/3847260179237129?f=rss",
+    "published": "2026-06-10 19:15:26  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
     "source": "36氪",
-    "title": "何小鹏发内部信：本人亲自带队 最后200天冲刺机器人量产",
-    "summary": "何小鹏发出内部信，宣告自己将亲自下场直管机器人业务。何小鹏在内部信中称，小鹏人形机器人现在所处的阶段尤为关键，相当于8年前小鹏汽车即将完成第一款车G3发布的阶段，正站在量产交付的门槛上。按照何小鹏的规划：2026年第四季度，小鹏将实现人形机器人量产；2027年一季度，小鹏将人形机器人带入线下门店进行导购工作；2027年二季度，人形机器人将被推向海外市场；2028年，机器人将开始走向更多的家庭。（第一财经）",
-    "url": "https://36kr.com/newsflashes/3846848313543176?f=rss",
-    "published": "2026-06-10 12:16:27  +0800",
+    "title": "东方电缆：近期中标项目合计金额约52.31亿元，深海科技项目合计中标金额约7.62亿元",
+    "summary": "36氪获悉，东方电缆公告，公司及全资子公司东方海工院近期陆续收到中标通知书，确认中标绿色输电设施、电力新能源及深海科技等项目，合计中标金额约52.31亿元。其中，绿色输电设施项目中标约33.56亿元，电力新能源项目中标约11.13亿元，深海科技项目中标约7.62亿元。此次中标将为公司“十五五”期间业绩增长奠定基础，但合同签订及履行尚存在不确定性。",
+    "url": "https://36kr.com/newsflashes/3847225746770179?f=rss",
+    "published": "2026-06-10 18:40:24  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
     "source": "36氪",
-    "title": "智元发布“元苼生态发展计划”：2026年先行投入1亿元，五年规划20亿元",
-    "summary": "36氪获悉，6月10日，智元（AGIBOT）正式发布“元苼生态发展计划”，面向具身智能“部署态”发展的关键机遇，宣布2026年先行落地1亿元生态扶持资金，未来五年规划投入20亿元专项资金，围绕科研学术创新、教育人才培养、生态伙伴发展、开发社区运营四大维度，系统赋能产学研及开发者群体，携手全球伙伴共建开放、协同、共生的具身智能生态。",
-    "url": "https://36kr.com/newsflashes/3846798425180419?f=rss",
-    "published": "2026-06-10 11:38:40  +0800",
+    "title": "龙蟠科技：控股孙公司拟投资10.88亿元建设印尼锂源三期项目",
+    "summary": "36氪获悉，龙蟠科技公告，公司控股孙公司锂源（亚太）拟通过其全资下属公司锂源印尼（巴塘）在印度尼西亚投资建设“新能源汽车动力与储能电池正极材料规模化生产项目”，项目总投资约1.6亿美元（约合10.88亿元），规划建设年产12万吨二代及三代磷酸铁锂正极材料生产线。该事项已获董事会审议通过，尚需提交股东会审议及相关部门备案/审批。",
+    "url": "https://36kr.com/newsflashes/3847215364737536?f=rss",
+    "published": "2026-06-10 18:29:50  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
     "source": "36氪",
-    "title": "A股三大指数午间休盘集体下跌，全市场超4300股飘绿",
-    "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.58%，深成指跌1.94%，创业板指跌2.29%；CPO等算力硬件股走低，唯特偶跌停，天孚通信、光库科技跌超7%；银行、保险板块逆势走强，中国人寿张超4%，中国太保张超3%，建设银行涨超2%；个股跌多涨少，沪深京三市超4300股飘绿。",
-    "url": "https://36kr.com/newsflashes/3846806381939200?f=rss",
-    "published": "2026-06-10 11:33:48  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-10"
-  },
-  {
-    "source": "36氪",
-    "title": "林洋能源在雄安成立算力技术公司，注册资本2亿",
-    "summary": "36氪获悉，天眼查App显示，近日，雄安林洋新能源算力技术有限公司成立，法定代表人为尹彪，注册资本2亿人民币，经营范围包括新兴能源技术研发、储能技术服务、数据处理和存储支持服务、云计算设备销售等。股东信息显示，该公司由林洋能源全资持股。",
-    "url": "https://36kr.com/newsflashes/3846750053403137?f=rss",
-    "published": "2026-06-10 10:46:28  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-10"
-  },
-  {
-    "source": "36氪",
-    "title": "深成指、创业板指均跌超2%",
-    "summary": "36氪获悉，深成指、创业板指均跌超2%，沪指跌0.6%，贵金属、算力硬件、电力电网等方向跌幅居前，沪深京三市下跌个股超4400只。",
-    "url": "https://36kr.com/newsflashes/3846748237023488?f=rss",
-    "published": "2026-06-10 10:34:39  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-10"
-  },
-  {
-    "source": "36氪",
-    "title": "星巴克据悉考虑日本业务相关选项，包括出售股权和IPO",
-    "summary": "据多位知情人士透露，星巴克正在考虑日本业务的相关选项，其中包括出售股权。此前，该公司已出售中国业务的多数股权。知情人士称，这家美国咖啡连锁巨头已与投资银行进行了初步磋商，以帮助确定日本业务的处理方式。知情人士因相关讨论未公开而不愿具名。日本是星巴克最大的市场之一，约有2,100家门店，其中大多数由星巴克直接运营。部分知情人士称，出售股权的估值可能在4000亿日元至5000亿日元，并可能吸引其他行业参与者和私募股权公司的兴趣。他们说，将日本业务IPO也是一个选项。知情人士补充称，相关考虑仍处于初步阶段，尚未作出最终决定。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3846737202104839?f=rss",
-    "published": "2026-06-10 10:23:26  +0800",
+    "title": "美的与阿里巴巴达成战略合作",
+    "summary": "36氪获悉，6月10日，美的集团与阿里巴巴集团签署战略合作协议，双方将充分发挥各自核心优势，共同探索“全屋智能+AI大模型+商业生态”的下一代业务形态，共同提升用户体验，创造新的商业价值。",
+    "url": "https://36kr.com/newsflashes/3847213822790149?f=rss",
+    "published": "2026-06-10 18:28:16  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
     "source": "创业邦",
-    "title": "高端钢材自给率近100%，现存钢铁相关企业超10万家",
-    "summary": "今年以来，我国高端钢材供给持续增强，一批用于新能源汽车、机器人等领域的特种钢加快涌现。最新研发的\"蝉翼钢\"最薄仅0.07毫米，相当于一根头发丝的直径。从核电用钢到延展性能提升五成的镀锡钢板，我国已全球首发6项核心钢铁产品，用于机器人电机、海底管道等领域的高端钢材自给率接近100%。 这一突破源于钢铁产业向智能化、绿色化、融合化的全面转型。目前行业已有3家企业入选全球\"灯塔工厂\"，累计培育\"卓越级\"智能工厂36家，关键工序数控化率达86%，推动高端制造能力快速提升，产业链供应链韧性不断增强。 从\"大而全\"走向\"精而强\"，我国钢铁行业正以定制化能力支撑新兴产业发展，为新能源汽车、机器人等战略领域提供坚实的基础材料保障。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的钢铁相关企业超10.4万家。其中，2026年截至目前新增注册相关企业约4800余家，从企业注册数量趋势来看，近五年钢铁相关企业注册量在2021-2022年平稳运行，2023年迎来爆发式冲高，2024年明显回落，2025年再度小幅回升。 从区域分布来看，辽宁省、江苏省、山东省钢铁相关企业数量位居前列，三个省市数量总和超过3",
+    "title": "北京国科生成股权投资基金登记成立 出资额约3亿",
+    "summary": "天眼查App显示，近日，北京国科生成股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为中国科技产业投资管理有限公司，出资额约3亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务。合伙人信息显示，该基金由深圳市宝实新桥国科瑞华私募股权投资基金合伙企业（有限合伙）、北京国科瑞华四期股权投资基金合伙企业（有限合伙）、宁波春珈茵实创业投资合伙企业（有限合伙）、北京国科瑞祺创新创业投资基金合伙企业（有限合伙）等共同出资。",
     "url": "http://",
-    "published": "Tue, 09 Jun 2026 06:48:14 GMT",
+    "published": "Wed, 10 Jun 2026 09:05:56 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
@@ -340,21 +330,21 @@
     "fetchedAt": "2026-06-10"
   },
   {
-    "source": "创业邦",
-    "title": "融资丨千寻智能再获15亿元A+轮投资",
-    "summary": "今日，千寻智能（Spirit AI）正式官宣两大重磅里程碑： 千寻智能自研具身基座模型Spirit v1.6在被称为北美具身智能“奥林匹克”的RoboArena中成功登顶，力压英伟达Cosmos3与Physical Intelligence Pi0.5，打破硅谷霸榜魔咒成为首个登顶的中国具身模型。（完整成绩：https://robo-arena.github.io/leaderboard） 与此同时，千寻智能再获15亿元A+轮融资，股东包含一线美元基金、大型产业投资方以及国资基金，老股东持续加码。至此，千寻智能已构筑起顶级财务PE、国际美元基金、实业产业资本、各地方国资等全方位合围的顶配资本阵容。 立足产业发展的关键周期，千寻智能已实现技术突破、资本加持与商业落地的“三箭齐发”。公司正以自主技术的跨代式跃升，全面拉高国内具身智能的行业基准，在物理通用智能的全球版图中，筑牢坚实的“中国技术力量”。 北美具身智能“奥林匹克” - 关于 RoboArena 榜单 RoboArena 是由加州大学伯克利分校（UC Berkeley）、斯坦福大学（Stanford）及英伟达（NVIDIA）等全球",
-    "url": "http://www.cyzone.cn/article/835442.html",
-    "published": "Wed, 03 Jun 2026 01:55:07 GMT",
+    "source": "钛媒体",
+    "title": "AI正在猎杀上一代独角兽",
+    "summary": "220家独角兽，被AI悄悄杀死。",
+    "url": "https://www.tmtpost.com/8022184.html",
+    "published": "Wed, 10 Jun 2026 18:22:22 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】被美国列入中国军工企业名单？阿里巴巴、百度、蔚来、比亚迪等集体发声；微信AI生态开放内测，京东、美团、携程等十余家企业首批接入；OpenAI向美国证监会秘密提交IPO的S-1草案，尚未决定上市时间",
-    "summary": "美团发布AI浏览器Tabbit 1.0，核心功能永久免费；苹果、谷歌、英伟达合作开发新一代AI模型；两部门联合开展2026年度人形机器人与具身智能实景实训专项行动；财政部、商务部修订印发《服务业发展资金管理办法》；港交所：将指定股票指数期货收市后交易（T+1）时段涨跌幅限制扩大至±6%；中基协发布《私募投资基金信息披露实施细则》；2026年前5个月中国外贸数据重点速览：进出口总值同比增长15.3%，出口汽车增长45.5%；5月汽车销量前十已无燃油车",
-    "url": "https://www.tmtpost.com/8021581.html",
-    "published": "Wed, 10 Jun 2026 07:20:00 +0800",
+    "title": "毛利43.9%、经营现金流为负，安克创新的钱去哪了？｜出海参考",
+    "summary": "安克创新为什么要快速二次递表港交所？",
+    "url": "https://www.tmtpost.com/8022609.html",
+    "published": "Wed, 10 Jun 2026 17:32:58 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-10"
@@ -410,61 +400,267 @@
     "fetchedAt": "2026-06-10"
   },
   {
-    "source": "TechCrunch",
-    "title": "How an e-scooter founder raised $5 million to build space data centers",
-    "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-    "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-    "published": "Tue, 09 Jun 2026 12:00:00 +0000",
+    "source": "TechNode",
+    "title": "Apple delays AI-powered Siri in EU and China over regulatory hurdles",
+    "summary": "Apple said its redesigned AI-powered Siri will not be available in the EU or mainland China for now due to regulatory requirements. Unveiled on Tuesday, the upgraded Siri can answer questions using information from users’ screens, messages, emails, and photos. An English-language beta will launch later this year after an initial developer preview. Apple has […]",
+    "url": "https://technode.com/2026/06/10/apple-delays-ai-powered-siri-in-eu-and-china-over-regulatory-hurdles/",
+    "published": "Wed, 10 Jun 2026 02:44:06 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
-    "source": "The Verge",
-    "title": "Apple wants Europe to blink",
-    "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
-    "published": "2026-06-09T13:13:14-04:00",
+    "source": "TechNode",
+    "title": "Kimi reaches $30 billion valuation after sixfold increase in half a year",
+    "summary": "Moonshot AI, the developer of the AI assistant Kimi, has launched a new fundraising round at a pre-money valuation of $30 billion, representing a significant increase from the previous month. On May 6, reports suggested that the company was nearing completion of a $2 billion funding round that would value it at more than $20 […]",
+    "url": "https://technode.com/2026/06/08/kimi-reaches-30-billion-valuation-after-sixfold-increase-in-half-a-year/",
+    "published": "Mon, 08 Jun 2026 09:36:29 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
-    "source": "The Verge",
-    "title": "SwitchBot’s E Ink Weather Station is already 20 percent off",
-    "summary": "We’re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price down to $85 at checkout, or use coupon code APAP23 on the SwitchBot site. The 7.5-inch framed panel shows […]",
-    "url": "https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale",
-    "published": "2026-06-09T12:55:54-04:00",
+    "source": "TechNode",
+    "title": "ByteDance says it has no plans to build cars or launch an automotive brand",
+    "summary": "ByteDance on Saturday denied recent speculation that it is developing its own vehicle or automotive brand, after some media reports linked the name Saidou to the company’s AI assistant Doubao. In a statement, ByteDance said claims that Saidou is a Doubao car brand or evidence of the company entering the automotive manufacturing sector are inaccurate. […]",
+    "url": "https://technode.com/2026/06/08/bytedance-says-it-has-no-plans-to-build-cars-or-launch-an-automotive-brand/",
+    "published": "Mon, 08 Jun 2026 02:28:16 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-10"
   },
   {
-    "source": "V2EX",
-    "title": "这种情况算是崇洋媚外吗",
-    "summary": "我身边有几位朋友，对所有国产产品都抱有极强的不信任感。 手机方面只认可苹果，对国产手机从不了解、从不关注，还一味贬低吐槽；聊到汽车，如今国产车表现越来越好，可他们只认准特斯拉，直言国产车企的宣传都是虚假噱头，智能驾驶也只信任 FSD 。 再说说 AI 大模型，业内公认综合实力顶尖的是 Claude ，而在 arena 排行榜中，国产模型在代码领域表现突出，除了 Claude 之外，直接包揽了榜单 2-5 名。即便数据摆在眼前，他们依旧打心底里看不起国产模型。宁愿花大价钱使用体验参差不齐的海外模型中转站，也要坚持用 Gemini 和 Claude 。 在他们眼里，仿佛国外产品不",
-    "url": "https://www.v2ex.com/t/1219079",
-    "published": 1780988371,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-06-10",
-    "meta": {
-      "replies": 334,
-      "node": "随想"
-    }
+    "source": "TechNode",
+    "title": "JD.com, Tencent reportedly team up on AI agent collaboration",
+    "summary": "JD.com and Tencent have reportedly teamed up to collaborate on AI agents, integrating JD.com’s e-commerce and fulfillment capabilities with Tencent’s vast user-facing platforms. According to the report, JD.com’s AI agent has been connected with devices from major manufacturers including Huawei, Oppo, and Honor. Through Agent-to-Agent (A2A) integration, users can make shopping requests and access product […]",
+    "url": "https://technode.com/2026/06/08/jd-com-tencent-reportedly-team-up-on-ai-agent-collaboration/",
+    "published": "Mon, 08 Jun 2026 01:59:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "NetEase Games’ Eggy Party PC version goes live today",
+    "summary": "NetEase Games’ party game Eggy Party today launched on Windows, bringing the full experience to PC players with cross-platform account and data synchronization between mobile and PC. Players can seamlessly switch between devices while retaining their progress. The PC version preserves popular game modes, including Peak Party, Casual Party, and Eggy Farm. It also introduces […]",
+    "url": "https://technode.com/2026/06/05/netease-games-eggy-party-pc-version-goes-live-today/",
+    "published": "Fri, 05 Jun 2026 05:47:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek in talks to raise $7 billion from Tencent, CATL and other investors",
+    "summary": "Chinese AI startup DeepSeek is poised to raise around 50 billion yuan ($7 billion) in its first external funding round, with backing from major investors including Tencent Holdings and battery giant CATL, according to sources familiar with the matter cited by Reuters. The financing would value DeepSeek at between 350 billion yuan and 400 billion […]",
+    "url": "https://technode.com/2026/06/04/deepseek-in-talks-to-raise-7-billion-from-tencent-catl-and-other-investors/",
+    "published": "Thu, 04 Jun 2026 02:08:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "WeRide and Uber to launch Spain’s first Robotaxi service",
+    "summary": "WeRide and Uber jointly announced plans to launch Spain’s first commercial robotaxi pilot service in Madrid. The project marks the companies’ first collaboration in the European market and makes Madrid the 12th city in WeRide’s global robotaxi network. With support from the regional government of Madrid, the service is scheduled to launch in 2026. Users […]",
+    "url": "https://technode.com/2026/06/03/weride-and-uber-to-launch-spains-first-robotaxi-service/",
+    "published": "Wed, 03 Jun 2026 06:53:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent reportedly developing WeChat AI agent, makes it a top priority",
+    "summary": "Tencent is advancing plans to launch an embedded AI agent within WeChat, according to people familiar with the matter. The company is testing a prototype that can help users complete tasks within the app and plans to begin the regulatory approval process required before a public rollout as early as this month. Following that process, […]",
+    "url": "https://technode.com/2026/06/03/tencent-reportedly-developing-wechat-ai-agent-makes-it-a-top-priority/",
+    "published": "Wed, 03 Jun 2026 05:30:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "xAI launches global recruitment drive for Chinese AI tutors",
+    "summary": "xAI has posted a Chinese AI Tutor position on the recruitment platform Greenhouse as part of its efforts to improve the Chinese-language capabilities of its flagship large language model, Grok. The role focuses on training Grok to better understand Chinese. Candidates are expected to be proficient in standard Mandarin and capable of handling regional dialects […]",
+    "url": "https://technode.com/2026/06/03/xai-launches-global-recruitment-drive-for-chinese-ai-tutors/",
+    "published": "Wed, 03 Jun 2026 02:07:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance’s Doubao to launch paid plans in late June, link with Douyin E-commerce push",
+    "summary": "ByteDance’s AI assistant Doubao is expected to roll out paid subscription services in late June, alongside feature updates announced at its upcoming Force conference, according to 36Kr. The PC and mobile versions are still completing billing system integration, which is expected to take about one month, the sources said. Doubao has listed three subscription tiers […]",
+    "url": "https://technode.com/2026/06/02/bytedances-doubao-to-launch-paid-plans-in-late-june-link-with-douyin-e-commerce-push/",
+    "published": "Tue, 02 Jun 2026 05:51:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "KISED promotes South Korea’s startup ecosystem and support programs at BEYOND Expo",
+    "summary": "During BEYOND Expo 2026, the Korea Institute of Startup & Entrepreneurship Development (KISED) introduced South Korea’s startup ecosystem and government-backed support programs to international entrepreneurs and investors, highlighting how the country attracts global startups through innovation, industrial resources, and policy support. A KISED representative stated during the presentation that, unlike traditional companies focused on selling […]",
+    "url": "https://technode.com/2026/05/31/kised-promotes-south-koreas-startup-ecosystem-and-support-programs-at-beyond-expo/",
+    "published": "Sat, 30 May 2026 17:00:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Lenovo Innovation Accelerator channels ecosystem power to bring Chinese hard-tech startups to the global stage",
+    "summary": "As the AI industry rapidly enters a deep water phase, competition based solely on parameter scale is no longer enough to build lasting advantages. Technologies and products that can truly land in commercial scenarios and solve real-world problems are becoming the new core of industry competition. As a key platform driving Lenovo’s ecosystem innovation strategy, […]",
+    "url": "https://technode.com/2026/05/29/lenovo-innovation-accelerator-channels-ecosystem-power-to-bring-chinese-hard-tech-startups-to-the-global-stage/",
+    "published": "Fri, 29 May 2026 12:49:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "CATL launches world’s largest energy storage testbed in Xiamen",
+    "summary": "CATL has launched its Xiamen Energy Storage Validation Research Institute, which it described as the world’s largest and most comprehensive one-stop testing and validation platform for the energy storage industry. The site spans 10 hectares and represents an investment of about RMB3 billion ($440 million). CATL said the facility is designed as an open, shared […]",
+    "url": "https://technode.com/2026/05/29/catl-launches-worlds-largest-energy-storage-testbed-in-xiamen/",
+    "published": "Fri, 29 May 2026 12:31:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches Xuanji A3, calls it China’s first 4nm smart driving chip",
+    "summary": "At BYD’s launch event on Thursday, Wang Chuanfu, chairman and founder of BYD, unveiled BYD’s self-developed Xuanji A3, China’s first 4nm autonomous driving chip, which supports L3 and L4 autonomous driving capabilities. The chip has entered mass production and supports L3 and L4 autonomous driving. A three-chip configuration delivers a combined computing power of over […]",
+    "url": "https://technode.com/2026/05/29/byd-launches-xuanji-a3-calls-it-chinas-first-4nm-smart-driving-chip/",
+    "published": "Fri, 29 May 2026 08:37:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent launches WorkBuddy productivity AI agent for global users",
+    "summary": "Tencent Cloud has launched WorkBuddy, a productivity-focused AI agent for global users after first rolling out the product in China. The company said WorkBuddy is aimed at office workflows and can use natural language prompts to break down tasks, call external tools, and generate deliverables across work and study scenarios. WorkBuddy supports remote task execution […]",
+    "url": "https://technode.com/2026/05/29/tencent-launches-workbuddy-productivity-ai-agent-for-global-users/",
+    "published": "Fri, 29 May 2026 01:38:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "iFlytek launches 40g AI glasses with GlassClaw AI agent and advanced noise recognition",
+    "summary": "On Thursday, iFlytek unveiled its new AI smart glasses at BEYOND Expo 2026 in Macau under the theme Communication Without Boundaries, the World Before Your Eyes, showcasing the company’s latest push into AI-powered devices. At the launch event, Lin Huijie, General Manager of iFlytek’s Wearable Devices Business Department, said the company hopes the product can […]",
+    "url": "https://technode.com/2026/05/29/iflytek-launches-40g-ai-glasses-with-glassclaw-ai-agent-and-advanced-noise-recognition/",
+    "published": "Fri, 29 May 2026 00:54:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Ziyouliangji aims to use AI music platform Hitto to turn everyone into a song creator",
+    "summary": "As competition in large AI models gradually shifts from parameter races to real-world deployment capabilities, a number of Chinese AI startups focused on vertical scenarios are beginning to stand out. Among them is Ziyouliangji Information Technology, founded in 2023, which is attempting to redefine how ordinary people create music through AI. Unlike many companies concentrating […]",
+    "url": "https://technode.com/2026/05/28/ziyouliangji-aims-to-use-ai-music-platform-hitto-to-turn-everyone-into-a-song-creator/",
+    "published": "Thu, 28 May 2026 15:10:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaohongshu reportedly secures 2026 FIFA World Cup streaming rights in China",
+    "summary": "According to multiple sources familiar with the negotiations, Xiaohongshu has secured sublicensing rights for the 2026 FIFA World Cup in China from state broadcaster China Media Group, including live-streaming rights and rights for short-video secondary content creation. The move marks a major shift in China’s sports media landscape. During the previous World Cup cycle, Douyin […]",
+    "url": "https://technode.com/2026/05/26/xiaohongshu-reportedly-secures-2026-fifa-world-cup-streaming-rights-in-china/",
+    "published": "Tue, 26 May 2026 07:55:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Diablo IV China extends free base game giveaway until August 2026",
+    "summary": "Diablo IV’s China server operator announced that the limited-time free claim event for the game’s base edition, originally priced at RMB 128 ($18), has been extended until August 4, 2026. The promotion first launched on April 28 and attracted a large influx of new players into the game. According to the official announcement, the extension […]",
+    "url": "https://technode.com/2026/05/25/diablo-iv-china-extends-free-base-game-giveaway-until-august-2026/",
+    "published": "Mon, 25 May 2026 09:50:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei’s mate 90 series may launch with new Kirin chip this autumn",
+    "summary": "At the 2026 International Symposium on Circuits and Systems (ISCAS 2026) in Shanghai on Monday, He Tingbo, Huawei’s board member and head of its semiconductor business, said the company would launch a new Kirin smartphone chip this autumn that uses logic folding technology for the first time. The technology moves beyond conventional single-layer chip layouts […]",
+    "url": "https://technode.com/2026/05/25/huaweis-mate-90-series-expected-to-debut-new-kirin-chip-this-autumn/",
+    "published": "Mon, 25 May 2026 03:46:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "China launches first humanoid robot lifecycle management platform in Beijing",
+    "summary": "China has launched the country’s first full lifecycle management service platform for humanoid robots in Beijing. The platform gives each robot a unique digital identity and enables end-to-end tracking from production to recycling. The platform, led by the Ministry of Industry and Information Technology’s Standardization Technical Committee for Humanoid Robots and Embodied Intelligence, assigns every […]",
+    "url": "https://technode.com/2026/05/25/china-launches-first-humanoid-robot-lifecycle-management-platform-in-beijing/",
+    "published": "Mon, 25 May 2026 03:09:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tech Odyssey Series: Who writes the first cheque for Portugal’s youngest startups?",
+    "summary": "Previous on Tech Odyssey: In our last episode, we went to the University of Porto, INESC TEC, and UPTEC to see how research can move from the lab into startups. This time, we look at what often comes next: who backs those companies when they are still too early for most investors. When a startup […]",
+    "url": "https://technode.com/2026/05/22/tech-odyssey-series-who-writes-the-first-cheque-for-portugals-youngest-startups/",
+    "published": "Fri, 22 May 2026 08:12:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tesla rolls out supervised Full Self-Driving in China in wider global push",
+    "summary": "Tesla announced that its Full Self-Driving system, FSD Supervised, has launched across multiple countries and regions worldwide, with China included in the rollout. The release covers more than a dozen markets across North America, Asia-Pacific, and Europe. The launch marks another step in Tesla’s push to expand its advanced driver-assistance technology beyond the US, even […]",
+    "url": "https://technode.com/2026/05/21/tesla-rolls-out-supervised-full-self-driving-in-china-in-wider-global-push/",
+    "published": "Thu, 21 May 2026 02:27:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month",
+    "summary": "China Telecom has launched nationwide trial commercial Token subscription plans, marking an accelerated shift by telecom operators from selling data traffic to offering computing power services. The packages are divided into three plans for developers and small businesses, ranging from 39.9 yuan ($5.50) per month for 15 million Tokens to 299.9 yuan ($41.50) for 150 […]",
+    "url": "https://technode.com/2026/05/18/china-telecom-launches-trial-ai-token-subscription-plans-starting-at-1-4-per-month/",
+    "published": "Mon, 18 May 2026 02:26:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Oppo and Vivo gear up for year-end gimbal camera launches to take on DJI’s Pocket series",
+    "summary": "Oppo and Vivo are also reportedly developing their own Pocket-style handheld gimbal cameras, with launches expected before the end of this year, according to China Star Market. The report said both companies aim to leverage their strengths in imaging algorithms, AI features, and ecosystem integration to enter the lightweight video creation market and further expand […]",
+    "url": "https://technode.com/2026/05/15/oppo-and-vivo-gear-up-for-year-end-gimbal-camera-launches-to-take-on-djis-pocket-series/",
+    "published": "Fri, 15 May 2026 07:33:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-10"
   },
   {
     "source": "GitHub新星",
     "title": "diffusionstudio/lottie",
-    "summary": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
+    "summary": "Generate production-ready Lottie animations with Claude Code or Codex",
     "url": "https://github.com/diffusionstudio/lottie",
     "published": "2026-06-04T13:39:32Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-06-10",
     "meta": {
-      "stars": 1616,
-      "forks": 80,
+      "stars": 1878,
+      "forks": 92,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -479,9 +675,25 @@
     "type": "signal",
     "fetchedAt": "2026-06-10",
     "meta": {
-      "stars": 1109,
-      "forks": 577,
+      "stars": 1324,
+      "forks": 596,
       "language": "Swift",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "GordenSun/GordenSuperPPTSkills",
+    "summary": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！ 使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+    "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+    "published": "2026-06-07T16:20:13Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-10",
+    "meta": {
+      "stars": 693,
+      "forks": 75,
+      "language": "Python",
       "createdDaysAgo": 2
     }
   },
@@ -495,26 +707,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-10",
     "meta": {
-      "stars": 648,
-      "forks": 49,
+      "stars": 663,
+      "forks": 52,
       "language": "JavaScript",
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "GordenSun/GordenSuperPPTSkills",
-    "summary": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！ 使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-    "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-    "published": "2026-06-07T16:20:13Z",
+    "title": "MSNightmare/RoguePlanet",
+    "summary": "RoguePlanet Windows Defender Vulnerability",
+    "url": "https://github.com/MSNightmare/RoguePlanet",
+    "published": "2026-06-09T19:10:18Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-06-10",
     "meta": {
-      "stars": 646,
-      "forks": 72,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "stars": 578,
+      "forks": 224,
+      "language": "C++",
+      "createdDaysAgo": 0
     }
   }
 ]
