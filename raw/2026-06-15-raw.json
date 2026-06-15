@@ -1,6 +1,26 @@
 [
   {
     "source": "36氪",
+    "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+    "summary": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？ 6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。 Pocket 4P 以 3799元起售，多平台预订量持续走高。 对于一个原本被视为“手机影像补充”的品类来说，这种热度本身就提出了一个新的问题：当手机已经足够强，为什么仍然有越来越多人愿意为一台独立影像设备买单？ 过去几年，旗舰手机几乎每一次更新都在吞噬传统相机的边界。从多摄系统、长焦镜头、计算摄影，到 Log 视频、AI 修图和一键出片，手机已经成为绝大多数普通用户最顺手的影像工具。 但另一边，一个看起来有些反常识的品类，却在井喷增长。 在丽江玉龙雪山的拍摄现场，拿着大疆 Pocket 的用户，已经不再只是数码爱好者。旅行博主、亲子用户、美食探店创作者、综艺节目组，甚至很多第一次尝试视频创作的人，都在",
+    "url": "https://36kr.com/p/3854510160549124?f=rss",
+    "published": "2026-06-15 22:13:11  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "36氪",
+    "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+    "summary": "大公司： 支付宝：政务AI助手“晓政”服务突破1亿次 36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。 小雨智造与地瓜机器人正式宣布达成战略合作 36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。 小红书或已准备好本月在香港提交IPO申请 据透露，小红书科技有限公司正准备在本月底前秘密向香港提交首次公开募股（IPO）申请。（新浪财经） 深圳盒马变更负责人 36氪获悉，天眼查 App 显示，近日，深圳盒马网络科技有限公司发生工商变更，金瓯卸任法定代表人、董事，由廖榜鹏接任。深圳盒马网络科技有限公司成立于2017年6月，注册资本5000万美元，经营范围包括计算机网络专业领域内的技术开发、技术咨询及技术服务等。股东信息显示，该公司由盒马（香港）有限公司",
+    "url": "https://36kr.com/p/3854486447510535?f=rss",
+    "published": "2026-06-15 21:48:20  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "36氪",
     "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
     "summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。 在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路—— 第一类是以 语言为中心 的世界模型，包括VLM、VLA，模型在文本空间中预测下一个词，学到的是语言描述的世界，并不能理解背后的物理后果； 第二类是以 像素为中心 的世界模型，像Sora和Seedance等视频生成类模型，在视觉空间中学习视频或图像，学到的是像素",
     "url": "https://36kr.com/p/3853016586359817?f=rss",
@@ -51,7 +71,7 @@
   },
   {
     "source": "36氪",
-    "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+    "title": "高瓴出手了一���消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
     "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。 SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。 家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双重安抚的场景里，机器应该以怎样的方式“在场”？ 过去几年，不同产品从多个维度给出答案。智能床垫、白噪音机擅长改善环境与生理舒适度；可穿戴设备精于睡眠数据的连续监测；毛绒玩具在情绪投射与安全感的建立上有天然优势；新兴的AI对话机器人则在更自然的表达，促进沟通方面快速迭代。 触觉安抚传递物理层面的安全感，语言疏导实现心理层面的释放，睡眠障碍与情绪内耗往往需要二者在同一时间、同一场景下协同工作：身体放松",
     "url": "https://36kr.com/p/3851572421432324?f=rss",
     "published": "2026-06-14 09:30:00  +0800",
@@ -71,50 +91,30 @@
   },
   {
     "source": "36氪",
-    "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-    "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。 从“向外破局”到“向内扎根”：中国留学生三十年心理变迁史 中国留学行业三十年，其底层逻辑是一部中产家庭的教育焦虑与价值观重塑史。留学意义经历了五个阶段的变迁——从生存驱动、打破信息垄断的拓荒破冰，到追逐名校光环的晋升通道，再到就业预期前置的工具理性内卷，继而转入风险规避与心理议题凸显的疫情重塑期，直至当下AI浪潮中意义感赤字、情感支撑成为刚需的新阶段。 过去留学的核心驱动力是向外打破信息差；如今，AI加速替代标准化岗位，学历信号与",
-    "url": "https://36kr.com/p/3846972367866119?f=rss",
-    "published": "2026-06-13 14:00:00  +0800",
+    "title": "美股三大指数集体收涨，SpaceX大涨超19%",
+    "summary": "36氪获悉，6月15日收盘，美股三大指数集体上涨，纳指涨3.07%，道指涨0.92%，标普500指数涨1.66%。SpaceX大涨19.6%，总市值跃升至2.52万亿美元。芯片股走强，西部数据涨超16%，美光科技涨超10%，希捷科技涨超9%，英伟达涨超3%。热门中概股多数上涨，拼多多涨超2%，百度、京东、网易、理想汽车小幅上涨，阿里巴巴、蔚来、哔哩哔哩小幅下跌。",
+    "url": "https://36kr.com/newsflashes/3855024655455232?f=rss",
+    "published": "2026-06-16 07:00:00  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-15"
   },
   {
     "source": "36氪",
-    "title": "“宁王系”，排队 IPO",
-    "summary": "越来越多CVC在路上 作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 宁德时代，又出手了。 近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。 中恒电气表示，自《战略投资合作框架协议》签署后，各方基于框架协议达成的基本合意，共同推动有关中恒科技投资增资、公司与宁德时代形成战略业务合作关系等具体事宜的洽谈、磋商工作，目前相关工作仍在有序推进中。 值得一提的是，这并非宁德时代今年在资本市场首次出手。 公开数据显示，今年以来，宁德时代宣布入股的上市公司还有富临精工、赛力斯旗下的赛豆科技、世纪互联等。除此之外，今年3月，天眼查工商信息显示，博裕新智新产（宁波）股权投资合伙企业（有限合伙）发生工商变更，新增十余家投资方，其中便有宁德时代的身影；4月，宁德时代发布公告，拟设立全资子公司“时代资源集团”，后者定位为公司新能源矿产领",
-    "url": "https://36kr.com/p/3851106394117383?f=rss",
-    "published": "2026-06-13 12:59:03  +0800",
+    "title": "爱迪特：持股5%以上股东拟减持不超3%股份",
+    "summary": "36氪获悉，爱迪特公告，公司股东君联欣康及HAL计划自公告日起15个交易日后的3个月内，通过集中竞价或大宗交易方式减持公司股份合计不超过447.57万股（占公司总股本的3%）。其中，集中竞价减持不超过149.19万股（占1%），大宗交易减持不超过298.38万股（占2%）。减持原因为股东自身资金需求。",
+    "url": "https://36kr.com/newsflashes/3854405392307462?f=rss",
+    "published": "2026-06-15 20:23:55  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-15"
   },
   {
     "source": "36氪",
-    "title": "小雨智造与地瓜机器人正式宣布达成战略合作",
-    "summary": "36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。",
-    "url": "https://36kr.com/newsflashes/3854300006913289?f=rss",
-    "published": "2026-06-15 18:36:43  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "36氪",
-    "title": "粤芯半导体创业板IPO获上市委会议通过",
-    "summary": "36氪获悉，深交所官网显示，粤芯半导体创业板IPO获上市委会议通过。",
-    "url": "https://36kr.com/newsflashes/3854272110498819?f=rss",
-    "published": "2026-06-15 18:08:20  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "36氪",
-    "title": "3连板金钼股份：目前公司尚无产品直接应用于半导体存储芯片领域",
-    "summary": "36氪获悉，金钼股份公告，公司拥有钼采矿、选矿、冶炼、化工、金属加工、科研、贸易一体化全产业链条，主要生产钼炉料、钼化工、钼金属三大系列产品，2025年度营业收入占比分别为65.85%、12.89%、15.96%。钼金属产品主要有钼粉、钼板、钼棒、钼丝、钼管、钼靶材等，其中钼靶材产品应用于显示屏生产，近三年营业收入占比均不足1%，对公司经营业绩不构成重大影响。公司关注到近期市场出现“钼材料将替代钨”的相关传闻，目前公司尚无产品直接应用于半导体存储芯片领域。",
-    "url": "https://36kr.com/newsflashes/3854231977743365?f=rss",
-    "published": "2026-06-15 17:27:30  +0800",
+    "title": "崔东树：近期新能源经销商的厂家和渠道库存面临市场零售低于预期",
+    "summary": "36氪获悉，乘联分会秘书长崔东树发文表示，2026年5月月末全国乘用车行业库存348万辆，较上月下降6万辆，较2025年5月增3万辆，形成库存持续走平的趋势。其中厂家库存占比30.3%，相对偏高。2026年5月乐观度27%，6月初的5月月后满意度为26%，预期低但满意度更差，主要是高油价的冲击太大。团队对6月市场的乐观度降到31%，这是近期市场乐观度判断的历史偏低预测指数。",
+    "url": "https://36kr.com/newsflashes/3854384311932164?f=rss",
+    "published": "2026-06-15 20:02:28  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-15"
@@ -291,10 +291,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "大厂AI资产分拆进行时：可灵为字节、阿里探路？",
-    "summary": "从附庸到独立后估值千亿。",
-    "url": "https://www.tmtpost.com/8028634.html",
-    "published": "Mon, 15 Jun 2026 18:00:07 +0800",
+    "title": "【钛晨报】事关重点行业节能降碳改造，国家发展改革委等部门最新部署；SpaceX通过IPO筹集了约857亿美元；伊朗：伊美谅解备忘录部分条款15日就开始执行",
+    "summary": "吉利启动\"芯青年计划\"，3-5亿元扶持AI及具身智能等项目；原“死了么”APP计划1000万出让5％股份，公司估值或达2亿元；英伟达计划通过发行高等级债券筹资至少200亿美元；山姆回应被市场监管总局约谈：全面优化食安管控和商品品控；香港首份五年规划展开公众咨询：拟加强与内地资本市场互联互通，扩大跨境投融资渠道；矿产资源新规施行，加强矿山“谁损毁 谁治理” 全链条监管；燧原科技科创板IPO获上市委会议通过，公司拟融资金额60亿元；视觉中国：已向香港联交所递交H股发行与上市申请；上交所：上周新增18家IPO受理企业，其中上交所主板2家，科创板2家；估值破万亿元，商业航天迈向成长爆发期",
+    "url": "https://www.tmtpost.com/8029106.html",
+    "published": "Tue, 16 Jun 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business",
+    "summary": "Insta360’s and DJI’s real rival may not be each other, but rather those Japanese imaging giants with a century of brand legacy who are now being forced to reinvent themselves.",
+    "url": "https://www.tmtpost.com/8029149.html",
+    "published": "Mon, 15 Jun 2026 22:30:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "钛媒体",
+    "title": "均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集",
+    "summary": "该数据集彻底打破了传统机器人数据只记录\"成功轨迹\" 的局限，为全球具身智能团队提供了可扩展、可复现、可协作的真实世界数据底座。",
+    "url": "https://www.tmtpost.com/8029068.html",
+    "published": "Mon, 15 Jun 2026 20:55:31 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-15"
@@ -321,8 +341,28 @@
   },
   {
     "source": "TechCrunch",
+    "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+    "summary": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
+    "url": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+    "published": "Mon, 15 Jun 2026 14:45:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "published": "Mon, 15 Jun 2026 13:46:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-    "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
+    "summary": "Orbio announces $21 million Series A in round led by Dawn Capital.",
     "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
     "published": "Mon, 15 Jun 2026 04:01:00 +0000",
     "lang": "en",
@@ -345,26 +385,6 @@
     "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
     "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
     "published": "Sun, 14 Jun 2026 16:38:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "published": "Sat, 13 Jun 2026 19:11:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "published": "Sat, 13 Jun 2026 04:14:19 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-15"
@@ -631,10 +651,60 @@
   },
   {
     "source": "The Verge",
-    "title": "Conclave is the sound of a NYC summer block party",
-    "summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I was depressed, angry with the world, sunburned, and soaked through with sweat. But as […]",
-    "url": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
-    "published": "2026-06-14T12:30:00-04:00",
+    "title": "All the news about Anthropic’s new AI fight with the White House",
+    "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+    "published": "2026-06-15T15:04:53-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
+    "summary": "Article URL: https://freebsdfoundation.org/blog/freebsd-ai-assisted-vulnerability-discovery-project-launch/ Comments URL: https://news.ycombinator.com/item?id=48547182 Points: 2 # Comments: 0",
+    "url": "https://freebsdfoundation.org/blog/freebsd-ai-assisted-vulnerability-discovery-project-launch/",
+    "published": "Mon, 15 Jun 2026 21:22:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX prepares to launch AST spacemobile bluebird satellites from Florida",
+    "summary": "Article URL: https://www.msn.com/en-us/news/technology/spacex-prepares-to-launch-ast-spacemobile-bluebird-satellites-from-florida/ar-AA25HEnX Comments URL: https://news.ycombinator.com/item?id=48546083 Points: 2 # Comments: 0",
+    "url": "https://www.msn.com/en-us/news/technology/spacex-prepares-to-launch-ast-spacemobile-bluebird-satellites-from-florida/ar-AA25HEnX",
+    "published": "Mon, 15 Jun 2026 19:44:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Oura push­es deep­er in­to health­care ser­vices as part of new ring launch",
+    "summary": "Article URL: https://endpoints.news/oura-pushes-deeper-into-healthcare-services-as-part-of-new-ring-launch/ Comments URL: https://news.ycombinator.com/item?id=48544462 Points: 2 # Comments: 1",
+    "url": "https://endpoints.news/oura-pushes-deeper-into-healthcare-services-as-part-of-new-ring-launch/",
+    "published": "Mon, 15 Jun 2026 17:30:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+    "summary": "I’m Nick, founder of Drafted ( https://www.drafted.ai ). We’re training models that generate residential architecture from structured design constraints. Product demo: https://www.youtube.com/watch?v=8QkJ7jNU9y4 Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visualize the outcome. As a ",
+    "url": "https://news.ycombinator.com/item?id=48543908",
+    "published": "Mon, 15 Jun 2026 16:47:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Founder.best – A startup launch platform focused on visibility",
+    "summary": "Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=48540200 Points: 2 # Comments: 0",
+    "url": "https://www.founder.best",
+    "published": "Mon, 15 Jun 2026 12:17:57 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-15"
@@ -642,7 +712,7 @@
   {
     "source": "Hacker News",
     "title": "Shutting down my startup (2025)",
-    "summary": "Article URL: https://lachlangreen.substack.com/p/shutting-down-my-startup Comments URL: https://news.ycombinator.com/item?id=48538243 Points: 3 # Comments: 2",
+    "summary": "Article URL: https://lachlangreen.substack.com/p/shutting-down-my-startup Comments URL: https://news.ycombinator.com/item?id=48538243 Points: 4 # Comments: 2",
     "url": "https://lachlangreen.substack.com/p/shutting-down-my-startup",
     "published": "Mon, 15 Jun 2026 08:25:37 +0000",
     "lang": "en",
@@ -652,7 +722,7 @@
   {
     "source": "Hacker News",
     "title": "Show HN: I used Claude Mythos to build my startup in 1 day",
-    "summary": "This sounds clickbait, but it’s true: I used Claude Mythos to build the full site in 1 day. Then Anthropic removed the model, so I had to go back to Opus. Comments URL: https://news.ycombinator.com/item?id=48537239 Points: 4 # Comments: 2",
+    "summary": "This sounds clickbait, but it’s true: I used Claude Mythos to build the full site in 1 day. Then Anthropic removed the model, so I had to go back to Opus. Comments URL: https://news.ycombinator.com/item?id=48537239 Points: 9 # Comments: 6",
     "url": "https://www.brandlm.ai/",
     "published": "Mon, 15 Jun 2026 06:13:48 +0000",
     "lang": "en",
@@ -790,74 +860,6 @@
     "fetchedAt": "2026-06-15"
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: MRRider – ride a motocross bike across startup growth curves",
-    "summary": "Article URL: https://www.mrrider.xyz/ Comments URL: https://news.ycombinator.com/item?id=48498432 Points: 2 # Comments: 0",
-    "url": "https://www.mrrider.xyz/",
-    "published": "Fri, 12 Jun 2026 00:43:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "JAXA/MHI H3F6 test launch(00:53 UTC/16:53 PST) [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=HSiaGTea1rc Comments URL: https://news.ycombinator.com/item?id=48498398 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=HSiaGTea1rc",
-    "published": "Fri, 12 Jun 2026 00:39:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sam Altman's eye-scanning startup [Worldcoin parent] is laying off employees",
-    "summary": "Article URL: https://www.businessinsider.com/sam-altman-orb-worldcoin-tools-for-humanity-layoffs-2026-6 Comments URL: https://news.ycombinator.com/item?id=48497189 Points: 7 # Comments: 2",
-    "url": "https://www.businessinsider.com/sam-altman-orb-worldcoin-tools-for-humanity-layoffs-2026-6",
-    "published": "Thu, 11 Jun 2026 22:19:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Top Energy Startup Accelerators?",
-    "summary": "I'm looking for the top energy startup accelerators in energy, critical minerals, lithium loop, and related deep tech. Comments URL: https://news.ycombinator.com/item?id=48496772 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=48496772",
-    "published": "Thu, 11 Jun 2026 21:36:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-15"
-  },
-  {
-    "source": "微博",
-    "title": "#李想定义具身智能汽车#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23李想定义具身智能汽车%23",
-    "published": "2026-06-15",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-15",
-    "meta": {
-      "hotValue": 409797,
-      "rank": 30
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#京东率先采用人形机器人直播比价#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23京东率先采用人形机器人直播比价%23",
-    "published": "2026-06-15",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-15",
-    "meta": {
-      "hotValue": 382390,
-      "rank": 43
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "DietrichGebert/ponytail",
     "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -867,8 +869,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-15",
     "meta": {
-      "stars": 11035,
-      "forks": 456,
+      "stars": 16122,
+      "forks": 665,
       "language": "JavaScript",
       "createdDaysAgo": 3
     }
