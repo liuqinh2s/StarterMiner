@@ -670,6 +670,7 @@
           "support@meshy.ai",
           "name@domain.com",
           "u003eeducation@meshy.ai",
+          "u003esupport@meshy.ai",
           "careers@meshy.ai"
         ],
         "socials": {
@@ -1553,19 +1554,8 @@
       "fetchedAt": "2026-06-16",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [
-          "info@latitudemedia.com",
-          "advertise@latitudemedia.com",
-          "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
-          "events@latitudemedia.com"
-        ],
-        "socials": {
-          "twitter": "_LatitudeMedia",
-          "linkedin": "latitude-media-inc"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
