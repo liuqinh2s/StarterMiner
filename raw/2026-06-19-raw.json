@@ -361,8 +361,28 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "title": "Every fusion startup that has raised over $100M",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "published": "Fri, 19 Jun 2026 16:50:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
     "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "published": "Fri, 19 Jun 2026 00:51:11 +0000",
     "lang": "en",
@@ -385,36 +405,6 @@
     "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
     "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
     "published": "Thu, 18 Jun 2026 19:52:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "published": "Thu, 18 Jun 2026 16:55:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "General Intuition in talks to raise $300M at around $2B valuation",
-    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "published": "Thu, 18 Jun 2026 15:20:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Spotify’s reserved ticket sales to music superfans are now going live",
-    "summary": "Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
-    "url": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
-    "published": "Thu, 18 Jun 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-19"
@@ -691,6 +681,36 @@
   },
   {
     "source": "The Verge",
+    "title": "Nothing cancels this year’s CMF phone due to RAM prices",
+    "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build […]",
+    "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+    "published": "2026-06-19T17:28:39-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "The Verge",
+    "title": "NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars",
+    "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first […]",
+    "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+    "published": "2026-06-19T14:41:48-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "The Verge",
+    "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+    "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 […]",
+    "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+    "published": "2026-06-19T13:24:45-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "The Verge",
     "title": "Barret Zoph is out at OpenAI again after just five months",
     "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
     "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
@@ -700,37 +720,234 @@
     "fetchedAt": "2026-06-19"
   },
   {
-    "source": "The Verge",
-    "title": "Firefox’s new home page widgets are helping me focus",
-    "summary": "I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already some of my favorite new Firefox features in years. I usually have Focus Friend open on my phone when I […]",
-    "url": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
-    "published": "2026-06-18T13:29:50-04:00",
+    "source": "Hacker News",
+    "title": "The AI startup with no AI: Aussie boss jailed for misleading investors",
+    "summary": "Article URL: https://www.smh.com.au/technology/australian-start-up-boss-who-faked-revenue-gets-nine-years-jail-20260618-p60847.html Comments URL: https://news.ycombinator.com/item?id=48604326 Points: 4 # Comments: 1",
+    "url": "https://www.smh.com.au/technology/australian-start-up-boss-who-faked-revenue-gets-nine-years-jail-20260618-p60847.html",
+    "published": "Fri, 19 Jun 2026 23:04:04 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-19"
   },
   {
-    "source": "The Verge",
-    "title": "The Onion’s rebooted InfoWars is coming July 2nd",
-    "summary": "The Onion's InfoWars officially has a launch date: On July 2nd, the conspiracy network previously run by Alex Jones will return as a comedy and media platform. The reboot comes more than a year and a half after news broke that the satirical news site was working to acquire the property owned by Jones, a […]",
-    "url": "https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch",
-    "published": "2026-06-18T13:00:00-04:00",
+    "source": "Hacker News",
+    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+    "summary": "Article URL: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/ Comments URL: https://news.ycombinator.com/item?id=48603023 Points: 3 # Comments: 0",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "published": "Fri, 19 Jun 2026 20:42:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/ Comments URL: https://news.ycombinator.com/item?id=48601098 Points: 2 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+    "published": "Fri, 19 Jun 2026 17:47:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Indie Launch – personalized launch plans for indie developers",
+    "summary": "I built a tool that tries to solve a specific problem I kept running into: you finish the product, and then you have no idea where to actually launch it. Most advice says \"post on Product Hunt.\" But Product Hunt needs first-hour upvotes you can't guarantee without an existing audience. Meanwhile, Hacker News, Reddit r/SideProject, and IndieHackers work completely differently — and better for most indie products. Indie Launch asks 4 questions about your product, matches you to the right channels ",
+    "url": "https://indielaunch.club",
+    "published": "Fri, 19 Jun 2026 17:31:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Code Is Not a Product, Product Is Not a Startup",
+    "summary": "Article URL: https://pawelbrodzinski.substack.com/p/code-is-not-a-product-product-is Comments URL: https://news.ycombinator.com/item?id=48600429 Points: 2 # Comments: 0",
+    "url": "https://pawelbrodzinski.substack.com/p/code-is-not-a-product-product-is",
+    "published": "Fri, 19 Jun 2026 16:39:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How four years at a startup changed the way I work",
+    "summary": "Article URL: https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/ Comments URL: https://news.ycombinator.com/item?id=48600332 Points: 5 # Comments: 1",
+    "url": "https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/",
+    "published": "Fri, 19 Jun 2026 16:29:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CEO-Bench: Can AI run a simulated startup for 500 days?",
+    "summary": "Article URL: https://ceobench.com/ Comments URL: https://news.ycombinator.com/item?id=48599594 Points: 3 # Comments: 1",
+    "url": "https://ceobench.com/",
+    "published": "Fri, 19 Jun 2026 15:16:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Peptides Fuel a Multibillion-Dollar Startup Race",
+    "summary": "Article URL: https://www.bloomberg.com/features/2026-peptide-legalization-gold-rush/ Comments URL: https://news.ycombinator.com/item?id=48591633 Points: 8 # Comments: 0",
+    "url": "https://www.bloomberg.com/features/2026-peptide-legalization-gold-rush/",
+    "published": "Thu, 18 Jun 2026 21:08:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "summary": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy ( https://tester.army ). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We've built the platform fully around agents. Our agent will reliably execute the tests, but your coding agent can manage everything in our",
+    "url": "https://tester.army",
+    "published": "Thu, 18 Jun 2026 14:49:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ShipList – We submit your product to 100 launch directories for you",
+    "summary": "Article URL: https://shipli.st Comments URL: https://news.ycombinator.com/item?id=48584927 Points: 2 # Comments: 0",
+    "url": "https://shipli.st",
+    "published": "Thu, 18 Jun 2026 13:25:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A SaaS Boilerplate So You Can Launch in Hours, Not Weeks",
+    "summary": "Article URL: https://github.com/katarinapetrov19/ShipKit Comments URL: https://news.ycombinator.com/item?id=48584859 Points: 2 # Comments: 1",
+    "url": "https://github.com/katarinapetrov19/ShipKit",
+    "published": "Thu, 18 Jun 2026 13:18:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Any Startup hiring for an SDR role in Canada?",
+    "summary": "Hi everyone, would anyone know a startup looking to hire an SDR or BDR person in Canada? Comments URL: https://news.ycombinator.com/item?id=48581830 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=48581830",
+    "published": "Thu, 18 Jun 2026 07:06:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Pentagon says Grok used to launch missiles at Iran",
+    "summary": "Article URL: https://thehill.com/newsletters/technology/5929290-pentagon-grok-iran-missiles/ Comments URL: https://news.ycombinator.com/item?id=48580292 Points: 6 # Comments: 0",
+    "url": "https://thehill.com/newsletters/technology/5929290-pentagon-grok-iran-missiles/",
+    "published": "Thu, 18 Jun 2026 03:12:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "BrandScreen Launch – Screen brand before build",
+    "summary": "Article URL: https://www.brandscreen.ai/ Comments URL: https://news.ycombinator.com/item?id=48579860 Points: 1 # Comments: 1",
+    "url": "https://www.brandscreen.ai/",
+    "published": "Thu, 18 Jun 2026 02:26:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic: First AI startup in Frontier carbon removal coalition",
+    "summary": "Article URL: https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/ Comments URL: https://news.ycombinator.com/item?id=48577058 Points: 2 # Comments: 1",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "published": "Wed, 17 Jun 2026 21:18:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Joshua Baer, godfather of Austin's startup scene, dies in plane crash",
+    "summary": "Article URL: https://www.kxan.com/news/local/austin/joshua-baer-godfather-of-austins-startup-scene-dies-in-plane-crash/ Comments URL: https://news.ycombinator.com/item?id=48575028 Points: 3 # Comments: 0",
+    "url": "https://www.kxan.com/news/local/austin/joshua-baer-godfather-of-austins-startup-scene-dies-in-plane-crash/",
+    "published": "Wed, 17 Jun 2026 18:55:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Pentagon says Grok has been used to launch missiles at Iran",
+    "summary": "Article URL: https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/ Comments URL: https://news.ycombinator.com/item?id=48573298 Points: 22 # Comments: 8",
+    "url": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/",
+    "published": "Wed, 17 Jun 2026 17:05:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "World models startup Odyssey raised $310M from Amazon etc. at $1.45B valuation",
+    "summary": "Article URL: https://www.ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5 Comments URL: https://news.ycombinator.com/item?id=48572655 Points: 1 # Comments: 1",
+    "url": "https://www.ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5",
+    "published": "Wed, 17 Jun 2026 16:20:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "summary": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs: - AI will be the primary medium for creating mechanical designs just like it is in software today. - The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD). We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. T",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "published": "Wed, 17 Jun 2026 16:14:04 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-19"
   },
   {
     "source": "微博",
-    "title": "#中国大模型技术三大主线#",
+    "title": "#存储芯片涨价失控#",
     "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23中国大模型技术三大主线%23",
+    "url": "https://s.weibo.com/weibo?q=%23存储芯片涨价失控%23",
     "published": "2026-06-19",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "hotValue": 261030,
-      "rank": 19
+      "hotValue": 262083,
+      "rank": 4
+    }
+  },
+  {
+    "source": "B站",
+    "title": "magixx载入史册的残局1v4",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=magixx载入史册的残局1v4",
+    "published": "2026-06-19",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-19",
+    "meta": {
+      "hotValue": 256512
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "目前海外 esim 手机号在国内，哪个最好？",
+    "summary": "发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？",
+    "url": "https://www.v2ex.com/t/1221525",
+    "published": 1781850389,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-06-19",
+    "meta": {
+      "replies": 30,
+      "node": "问与答"
     }
   },
   {
@@ -743,8 +960,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 2036,
-      "forks": 63,
+      "stars": 2090,
+      "forks": 62,
       "language": "Go",
       "createdDaysAgo": 5
     }
@@ -759,8 +976,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 1510,
-      "forks": 93,
+      "stars": 1638,
+      "forks": 106,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -775,10 +992,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 1100,
-      "forks": 101,
+      "stars": 1377,
+      "forks": 122,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -791,7 +1008,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 1098,
+      "stars": 1113,
       "forks": 60,
       "language": "Swift",
       "createdDaysAgo": 6
@@ -807,26 +1024,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 681,
-      "forks": 59,
+      "stars": 700,
+      "forks": 60,
       "language": null,
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Plaer1/junction",
-    "summary": "VS Code chat sidebar for local AI coding agents",
-    "url": "https://github.com/Plaer1/junction",
-    "published": "2026-06-17T05:27:09Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-19",
-    "meta": {
-      "stars": 510,
-      "forks": 6,
-      "language": "TypeScript",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -839,10 +1040,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 509,
-      "forks": 56,
+      "stars": 516,
+      "forks": 58,
       "language": null,
       "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Plaer1/junction",
+    "summary": "VS Code chat sidebar for local AI coding agents",
+    "url": "https://github.com/Plaer1/junction",
+    "published": "2026-06-17T05:27:09Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-19",
+    "meta": {
+      "stars": 512,
+      "forks": 6,
+      "language": "TypeScript",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -855,7 +1072,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 495,
+      "stars": 503,
       "forks": 72,
       "language": "Python",
       "createdDaysAgo": 5
@@ -871,8 +1088,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 469,
-      "forks": 38,
+      "stars": 482,
+      "forks": 39,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -887,10 +1104,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 416,
+      "stars": 435,
       "forks": 40,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -903,10 +1120,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 413,
-      "forks": 51,
+      "stars": 426,
+      "forks": 52,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -919,7 +1136,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 374,
+      "stars": 416,
       "forks": 5,
       "language": "TypeScript",
       "createdDaysAgo": 6
@@ -935,10 +1152,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 373,
+      "stars": 388,
       "forks": 17,
       "language": "Swift",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -951,10 +1168,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 371,
-      "forks": 57,
+      "stars": 375,
+      "forks": 58,
       "language": "Shell",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -967,10 +1184,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 341,
+      "stars": 354,
       "forks": 13,
       "language": "Go",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -983,10 +1200,42 @@
     "type": "signal",
     "fetchedAt": "2026-06-19",
     "meta": {
-      "stars": 325,
+      "stars": 337,
       "forks": 27,
       "language": "Python",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "majidmanzarpour/threejs-game-skills",
+    "summary": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+    "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "published": "2026-06-14T04:06:26Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-19",
+    "meta": {
+      "stars": 334,
+      "forks": 34,
+      "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "boogu-project/Boogu-Image",
+    "summary": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+    "url": "https://github.com/boogu-project/Boogu-Image",
+    "published": "2026-06-16T14:59:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-19",
+    "meta": {
+      "stars": 325,
+      "forks": 14,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   }
 ]
