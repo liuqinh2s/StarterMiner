@@ -62,7 +62,7 @@
   {
     "source": "36氪",
     "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品��系。 具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。 这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁",
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。 具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。 这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁移",
     "url": "https://36kr.com/p/3856708724315400?f=rss",
     "published": "2026-06-18 09:28:16  +0800",
     "lang": "zh",
@@ -72,7 +72,7 @@
   {
     "source": "36氪",
     "title": "张雪称自己创业时比李书福幸福",
-    "summary": "近日，在央视财经《对话》节目录制现场，张雪直言比李书福“幸福”，他口中的“幸福”，是中国制造一步步攒出来的底气。李书��说：“当时我们造汽车，确实啥也没有。虽然啥也没有，但力量在风中回荡。有些事情定下来以后，只要认准一个方向、坚定一个信念、凝聚一股力量，最终完成一个使命。”张雪说：“我比李总幸福的地方在于，当我创业的时候，我国工业制造的高度，已经完全不是同日而语了。”（央视财经）",
+    "summary": "近日，在央视财经《对话》节目录制现场，张雪直言比李书福“幸福”，他口中的“幸福”，是中国制造一步步攒出来的底气。李书福说：“当时我们造汽车，确实啥也没有。虽然啥也没有，但力量在风中回荡。有些事情定下来以后，只要认准一个方向、坚定一个信念、凝聚一股力量，最终完成一个使命。”张雪说：“我比李总幸福的地方在于，当我创业的时候，我国工业制造的高度，已经完全不是同日而语了。”（央视财经）",
     "url": "https://36kr.com/newsflashes/3861205226787840?f=rss",
     "published": "2026-06-20 16:21:26  +0800",
     "lang": "zh",
@@ -366,6 +366,16 @@
     "url": "https://cn.technode.com/post/2026-06-18/gcash-parent-mynt-philippines-ipo-filing/",
     "published": "Thu, 18 Jun 2026 07:52:58 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Founders Fund’s outlier bet on humanely killed fish",
+    "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+    "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+    "published": "Sat, 20 Jun 2026 18:26:02 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-20"
   },
@@ -720,6 +730,196 @@
     "fetchedAt": "2026-06-20"
   },
   {
+    "source": "Hacker News",
+    "title": "\"China Outpacing Us on AI\": Why Musk Bought an Autonomous Coding Startup",
+    "summary": "Article URL: https://en.sedaily.com/technology/2026/06/20/china-outpacing-us-on-ai-why-musk-bought-an-autonomous Comments URL: https://news.ycombinator.com/item?id=48608733 Points: 3 # Comments: 0",
+    "url": "https://en.sedaily.com/technology/2026/06/20/china-outpacing-us-on-ai-why-musk-bought-an-autonomous",
+    "published": "Sat, 20 Jun 2026 12:26:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+    "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones Comments URL: https://news.ycombinator.com/item?id=48608591 Points: 119 # Comments: 87",
+    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "published": "Sat, 20 Jun 2026 11:58:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump administration to phase out HIV funding",
+    "summary": "Article URL: https://www.politico.com/news/2026/06/18/pepfar-south-africa-white-afrikaners-hiv-aids-00968479 Comments URL: https://news.ycombinator.com/item?id=48607466 Points: 20 # Comments: 3",
+    "url": "https://www.politico.com/news/2026/06/18/pepfar-south-africa-white-afrikaners-hiv-aids-00968479",
+    "published": "Sat, 20 Jun 2026 08:39:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I made a startup idea validator for founders who move fast",
+    "summary": "I’ve been building web and mobile apps for many years. They were created to solve problems I had personally faced, but none of them became huge. After thinking about it for a while, I came to the conclusion that there were two primary reasons for that: 1. Marketing: getting it in front of people 2. Demand validation: are people searching for it? And the combination has to be profitable. After a lot of thinking, I used Google Ads data for advertising costs and search volume, and created an intera",
+    "url": "https://ideas.trk7.app/use-cases/startup-idea-validation",
+    "published": "Sat, 20 Jun 2026 07:45:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The AI startup with no AI: Aussie boss jailed for misleading investors",
+    "summary": "Article URL: https://www.smh.com.au/technology/australian-start-up-boss-who-faked-revenue-gets-nine-years-jail-20260618-p60847.html Comments URL: https://news.ycombinator.com/item?id=48604326 Points: 10 # Comments: 4",
+    "url": "https://www.smh.com.au/technology/australian-start-up-boss-who-faked-revenue-gets-nine-years-jail-20260618-p60847.html",
+    "published": "Fri, 19 Jun 2026 23:04:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+    "summary": "Article URL: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/ Comments URL: https://news.ycombinator.com/item?id=48603023 Points: 4 # Comments: 0",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "published": "Fri, 19 Jun 2026 20:42:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/ Comments URL: https://news.ycombinator.com/item?id=48601098 Points: 2 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+    "published": "Fri, 19 Jun 2026 17:47:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Indie Launch – personalized launch plans for indie developers",
+    "summary": "I built a tool that tries to solve a specific problem I kept running into: you finish the product, and then you have no idea where to actually launch it. Most advice says \"post on Product Hunt.\" But Product Hunt needs first-hour upvotes you can't guarantee without an existing audience. Meanwhile, Hacker News, Reddit r/SideProject, and IndieHackers work completely differently — and better for most indie products. Indie Launch asks 4 questions about your product, matches you to the right channels ",
+    "url": "https://indielaunch.club",
+    "published": "Fri, 19 Jun 2026 17:31:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Code Is Not a Product, Product Is Not a Startup",
+    "summary": "Article URL: https://pawelbrodzinski.substack.com/p/code-is-not-a-product-product-is Comments URL: https://news.ycombinator.com/item?id=48600429 Points: 2 # Comments: 0",
+    "url": "https://pawelbrodzinski.substack.com/p/code-is-not-a-product-product-is",
+    "published": "Fri, 19 Jun 2026 16:39:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How four years at a startup changed the way I work",
+    "summary": "Article URL: https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/ Comments URL: https://news.ycombinator.com/item?id=48600332 Points: 5 # Comments: 1",
+    "url": "https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/",
+    "published": "Fri, 19 Jun 2026 16:29:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CEO-Bench: Can AI run a simulated startup for 500 days?",
+    "summary": "Article URL: https://ceobench.com/ Comments URL: https://news.ycombinator.com/item?id=48599594 Points: 3 # Comments: 1",
+    "url": "https://ceobench.com/",
+    "published": "Fri, 19 Jun 2026 15:16:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Peptides Fuel a Multibillion-Dollar Startup Race",
+    "summary": "Article URL: https://www.bloomberg.com/features/2026-peptide-legalization-gold-rush/ Comments URL: https://news.ycombinator.com/item?id=48591633 Points: 9 # Comments: 0",
+    "url": "https://www.bloomberg.com/features/2026-peptide-legalization-gold-rush/",
+    "published": "Thu, 18 Jun 2026 21:08:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "summary": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy ( https://tester.army ). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We've built the platform fully around agents. Our agent will reliably execute the tests, but your coding agent can manage everything in our",
+    "url": "https://tester.army",
+    "published": "Thu, 18 Jun 2026 14:49:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ShipList – We submit your product to 100 launch directories for you",
+    "summary": "Article URL: https://shipli.st Comments URL: https://news.ycombinator.com/item?id=48584927 Points: 2 # Comments: 0",
+    "url": "https://shipli.st",
+    "published": "Thu, 18 Jun 2026 13:25:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A SaaS Boilerplate So You Can Launch in Hours, Not Weeks",
+    "summary": "Article URL: https://github.com/katarinapetrov19/ShipKit Comments URL: https://news.ycombinator.com/item?id=48584859 Points: 2 # Comments: 1",
+    "url": "https://github.com/katarinapetrov19/ShipKit",
+    "published": "Thu, 18 Jun 2026 13:18:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Any Startup hiring for an SDR role in Canada?",
+    "summary": "Hi everyone, would anyone know a startup looking to hire an SDR or BDR person in Canada? Comments URL: https://news.ycombinator.com/item?id=48581830 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=48581830",
+    "published": "Thu, 18 Jun 2026 07:06:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Pentagon says Grok used to launch missiles at Iran",
+    "summary": "Article URL: https://thehill.com/newsletters/technology/5929290-pentagon-grok-iran-missiles/ Comments URL: https://news.ycombinator.com/item?id=48580292 Points: 6 # Comments: 0",
+    "url": "https://thehill.com/newsletters/technology/5929290-pentagon-grok-iran-missiles/",
+    "published": "Thu, 18 Jun 2026 03:12:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "BrandScreen Launch – Screen brand before build",
+    "summary": "Article URL: https://www.brandscreen.ai/ Comments URL: https://news.ycombinator.com/item?id=48579860 Points: 1 # Comments: 1",
+    "url": "https://www.brandscreen.ai/",
+    "published": "Thu, 18 Jun 2026 02:26:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic: First AI startup in Frontier carbon removal coalition",
+    "summary": "Article URL: https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/ Comments URL: https://news.ycombinator.com/item?id=48577058 Points: 2 # Comments: 1",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "published": "Wed, 17 Jun 2026 21:18:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-20"
+  },
+  {
     "source": "V2EX",
     "title": "我明明选的是 GLM-4.7，他告诉我他是 Claude。",
     "summary": "1. who are you. I am Claude, an AI assistant developed by Anthropic. I'm designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects. 2. 你是什么大模型？ 我是 Claude ，是由 Anthropic 开发的大型语言模型。 我已经分不清",
@@ -729,7 +929,7 @@
     "type": "community",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "replies": 22,
+      "replies": 38,
       "node": "程序员"
     }
   },
@@ -743,8 +943,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 2124,
-      "forks": 65,
+      "stars": 2163,
+      "forks": 68,
       "language": "Go",
       "createdDaysAgo": 6
     }
@@ -759,8 +959,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 1746,
-      "forks": 112,
+      "stars": 1855,
+      "forks": 120,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -775,10 +975,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 1528,
-      "forks": 139,
+      "stars": 1618,
+      "forks": 147,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -791,10 +991,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 712,
+      "stars": 717,
       "forks": 62,
       "language": null,
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rebel0789/codexpro",
+    "summary": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "url": "https://github.com/rebel0789/codexpro",
+    "published": "2026-06-16T21:22:43Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 536,
+      "forks": 45,
+      "language": "JavaScript",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -807,7 +1023,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 518,
+      "stars": 531,
       "forks": 75,
       "language": "Python",
       "createdDaysAgo": 6
@@ -831,18 +1047,18 @@
   },
   {
     "source": "GitHub新星",
-    "title": "rebel0789/codexpro",
-    "summary": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "url": "https://github.com/rebel0789/codexpro",
-    "published": "2026-06-16T21:22:43Z",
+    "title": "Forsy-AI/agent-apprenticeship",
+    "summary": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "published": "2026-06-19T16:19:37Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 485,
-      "forks": 42,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
+      "stars": 515,
+      "forks": 0,
+      "language": null,
+      "createdDaysAgo": 1
     }
   },
   {
@@ -855,8 +1071,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 485,
-      "forks": 40,
+      "stars": 493,
+      "forks": 41,
       "language": "HTML",
       "createdDaysAgo": 6
     }
@@ -871,26 +1087,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 389,
-      "forks": 32,
+      "stars": 397,
+      "forks": 34,
       "language": "Python",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Forsy-AI/agent-apprenticeship",
-    "summary": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
-    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-    "published": "2026-06-19T16:19:37Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-20",
-    "meta": {
-      "stars": 383,
-      "forks": 0,
-      "language": null,
-      "createdDaysAgo": 0
     }
   },
   {
@@ -903,8 +1103,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 364,
-      "forks": 40,
+      "stars": 379,
+      "forks": 41,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -919,7 +1119,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 336,
+      "stars": 352,
       "forks": 710,
       "language": null,
       "createdDaysAgo": 2
@@ -935,9 +1135,57 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 336,
+      "stars": 351,
       "forks": 15,
       "language": "Python",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ngrok/webernetes",
+    "summary": "Kubernetes in the browser.",
+    "url": "https://github.com/ngrok/webernetes",
+    "published": "2026-06-16T16:52:34Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 340,
+      "forks": 21,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "summary": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+    "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "published": "2026-06-17T09:46:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 333,
+      "forks": 200,
+      "language": null,
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nnecrkvenuOX/formcms",
+    "summary": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+    "url": "https://github.com/nnecrkvenuOX/formcms",
+    "published": "2026-06-17T10:16:06Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 332,
+      "forks": 191,
+      "language": "C#",
       "createdDaysAgo": 3
     }
   },
@@ -951,10 +1199,58 @@
     "type": "signal",
     "fetchedAt": "2026-06-20",
     "meta": {
-      "stars": 321,
+      "stars": 324,
       "forks": 42,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MstKail/wc2026-crypto-sportsbook",
+    "summary": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook",
+    "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
+    "published": "2026-06-19T06:30:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 304,
+      "forks": 1295,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "gykim80/perfectpixel-studio",
+    "summary": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+    "url": "https://github.com/gykim80/perfectpixel-studio",
+    "published": "2026-06-14T04:23:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 300,
+      "forks": 46,
+      "language": "Go",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rotejin/tomari-guruguru",
+    "summary": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター",
+    "url": "https://github.com/rotejin/tomari-guruguru",
+    "published": "2026-06-14T01:32:29Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-20",
+    "meta": {
+      "stars": 287,
+      "forks": 49,
+      "language": "JavaScript",
+      "createdDaysAgo": 6
     }
   }
 ]
