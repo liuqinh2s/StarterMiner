@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "zhiyongkaiwu",
+    "name": "智用开物",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://cursor.com",
+        "emails": [
+          "hi@cursor.com"
+        ],
+        "socials": {
+          "twitter": "cursor_ai",
+          "linkedin": "cursorai",
+          "github": "cursor"
+        },
+        "careerPage": "https://cursor.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xieyue",
+    "name": "杭州斜跃智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anyuaixin",
+    "name": "安宇艾心（北京）医疗科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "snabbit",
+    "name": "Snabbit",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pronto",
+    "name": "Pronto",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "alephalpha",
+    "name": "Aleph Alpha",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "series",
+    "name": "Series",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://deepseek.com",
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "QRCodeImageLink"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "深度求索（DeepSeek）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "buildhop",
+    "name": "BuildHop",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://buildhop.io",
+        "emails": [],
+        "socials": {
+          "twitter": "inglehoff"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://github.com/deepseek-ai/TileKernels",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuvacore",
+    "name": "Nuvacore",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "quickswms",
+    "name": "QuickSWMS",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://quickswms.co",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fragment",
+    "name": "Fragment",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "delve",
+    "name": "Delve",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "exe-dev",
+    "name": "Exe.dev",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://exe.dev",
+        "emails": [],
+        "socials": {
+          "twitter": "ssh_exe_dev",
+          "linkedin": "crawshaw"
+        },
+        "careerPage": "https://exe.dev/jobs",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhiwangweilai",
+    "name": "智往未来",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pokejiqi",
+    "name": "破壳机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "sereact",
+    "name": "Sereact",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xieyuezhineng",
+    "name": "杭州斜跃智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ineffable-intelligence",
+    "name": "Ineffable Intelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "skye",
+    "name": "Skye / Signull Labs",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "manus",
+    "name": "Manus AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "manus",
+    "name": "Manus",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "aluqos",
+    "name": "Aluqos",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.aluqos.com/",
+        "emails": [
+          "hello@aluqos.ai"
+        ],
+        "socials": {
+          "linkedin": "nicolas2007"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "birjob",
+    "name": "Birjob",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "startrail",
+    "name": "星迹互动（STAR TRAIL）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "aihuashen",
+    "name": "爱化身科技（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "memorax",
+    "name": "深圳忆纪元科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zibian",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "moonshot",
+    "name": "月之暗面科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://kimi.moonshot.cn",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
+        "jobListings": [
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://lovable.dev",
+        "emails": [],
+        "socials": {
+          "twitter": "lovable",
+          "linkedin": "lovable-dev",
+          "github": "lovablelabs"
+        },
+        "careerPage": "https://lovable.dev/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "golden-child",
+    "name": "Golden Child",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pocketos",
+    "name": "PocketOS",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ideavalu",
+    "name": "Ideavalu",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.ideavalu.com",
+        "emails": [
+          "ideavalu@gmail.com"
+        ],
+        "socials": {
+          "twitter": "ideavalu79057"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://anthropic.com",
+        "emails": [],
+        "socials": {
+          "twitter": "AnthropicAI",
+          "linkedin": "anthropicresearch"
+        },
+        "careerPage": "https://anthropic.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "bebest",
+    "name": "比博斯特",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "future-space",
+    "name": "未来宇航",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "huaxi-hangkong",
+    "name": "华喜航空",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "magicatom",
+    "name": "魔法原子",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "star-trail",
+    "name": "星迹互动",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "kargobot",
+    "name": "卡尔动力",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "x-robot",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "anuttacon",
+    "name": "Anuttacon",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "meshy",
+    "name": "Meshy",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.meshy.ai",
+        "emails": [
+          "support@meshy.ai",
+          "u003eearn@meshy.ai",
+          "name@domain.com",
+          "u003eeducation@meshy.ai",
+          "u003esupport@meshy.ai",
+          "careers@meshy.ai"
+        ],
+        "socials": {
+          "twitter": "MeshyAI",
+          "linkedin": "meshyai",
+          "wechat": "Pay"
+        },
+        "careerPage": "https://www.meshy.ai/careers",
+        "jobListings": [
+          "Careers - Meshy AIif (\"serviceWorker\" in navigator) {"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "formas-ai",
+    "name": "FORMAS.AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "parallel-web-systems",
+    "name": "Parallel Web Systems",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pursuit",
+    "name": "Pursuit",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "firestormlabs",
+    "name": "Firestorm Labs",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "divine",
+    "name": "Divine",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "tianshikefeng",
+    "name": "武汉天石科丰新能源科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ushi-tech",
+    "name": "优时科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creatia",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ahs",
+    "name": "爱化身科技（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "facewall",
+    "name": "北京面壁智能科技有限责任公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zibianliang",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "hypershell",
+    "name": "Hypershell",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "bioticsai",
+    "name": "BioticsAI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xai",
+    "name": "xAI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "x.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "assembly",
+    "name": "Assembly",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.assemblysimulator.com/",
+        "emails": [
+          "team@assemblysimulator.com",
+          "alex@yourcompany.com"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cognition",
+    "name": "Cognition",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nexu",
+    "name": "Nexu",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://github.com/nexu-io/open-design",
+        "emails": [],
+        "socials": {
+          "twitter": "nexudotio",
+          "github": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "dahangyueqian",
+    "name": "上海大航跃迁航天科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nexu-io",
+    "name": "nexu-io",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://github.com/nexu-io/open-design",
+        "emails": [],
+        "socials": {
+          "twitter": "nexudotio",
+          "github": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhuoyu",
+    "name": "卓驭科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "magiclab",
+    "name": "魔法原子（MagicLab）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "chaojubian",
+    "name": "超聚变数字技术股份有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati-ai",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "modelbest",
+    "name": "面壁智能",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "x-auto",
+    "name": "自变量机器人（X-Autonomy）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cata",
+    "name": "Cata",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "assured-robot-intelligence",
+    "name": "Assured Robot Intelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "skio",
+    "name": "Skio",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "legora",
+    "name": "Legora",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cmblu",
+    "name": "CMBlu",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhuyu",
+    "name": "卓驭科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "upstage",
+    "name": "Upstage",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xautonomous",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "eightsleep",
+    "name": "Eight Sleep",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.eightsleep.com/",
+        "emails": [
+          "support@eightsleep.com",
+          "support@affirm.com",
+          "contacto@albaestudio.com",
+          "support@truemed.com",
+          "team@truemed.com"
+        ],
+        "socials": {
+          "twitter": "tryjasononline"
+        },
+        "careerPage": "https://www.eightsleep.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "formas",
+    "name": "FORMAS.AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "artisan",
+    "name": "Artisan",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "arknet",
+    "name": "Arknet",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://github.com/st-hannibal/arknet",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xingji",
+    "name": "星迹互动",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "creati_ai",
+    "name": "Creati.ai",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.buzzy.now",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "memoraxai",
+    "name": "深圳忆纪元科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ineffable",
+    "name": "Ineffable Intelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mini-max",
+    "name": "MiniMax",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.minimax.com",
+        "emails": [],
+        "socials": {
+          "twitter": "de",
+          "linkedin": "41399013"
+        },
+        "careerPage": "https://www.minimax.com/career",
+        "jobListings": [
+          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
+          "Data Center",
+          "Data privacy policy"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xgrobot",
+    "name": "自变量机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.xgrobot.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "character-ai",
+    "name": "Character.AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "copilotkit",
+    "name": "CopilotKit",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "krutrim",
+    "name": "Krutrim",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyun-keji",
+    "name": "丰耘科技（杭州）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuanxin-jia",
+    "name": "杭州暖芯迦电子科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "duneng-keji",
+    "name": "度能科技（厦门）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "recursive-superintelligence",
+    "name": "Recursive Superintelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhangxue-motor",
+    "name": "张雪机车",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mianbi",
+    "name": "面壁智能",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.modelbest.cn",
+        "emails": [
+          "business@modelbest.cn",
+          "pr@modelbest.cn",
+          "ir@modelbest.cn",
+          "career@modelbest.cn"
+        ],
+        "socials": {
+          "github": "OpenBMB"
+        },
+        "careerPage": "https://www.modelbest.cn/careers",
+        "jobListings": [
+          "👀 昇腾开发者大会：面壁智能 CTO 曾国洋发表演讲",
+          "高效，是大模型的强项，也是我们的强项！我们的大模型，围绕“公正与效率”主题，实现全流程AI赋能，已在法院专网完成部署并服务专业司法场景。",
+          "🔥 携创新之作亮相 WAIC 2024，拉开端侧AI生态序幕",
+          "🔎 面壁研究员参加 ICLR 2024学术会议"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xavier",
+    "name": "自变量机器人（Xavier Robotics）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.xavier-robotics.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "braintrust",
+    "name": "Braintrust",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "genesis-ai",
+    "name": "Genesis AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "aisle",
+    "name": "Aisle",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://aisle.com",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "arena-one",
+    "name": "Arena One",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pitch-pit",
+    "name": "Pitch-Pit",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://pitchpit.app",
+        "emails": [
+          "hello@pitchpit.app"
+        ],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "juliahub",
+    "name": "JuliaHub",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://juliahub.com",
+        "emails": [
+          "support@juliahub.com",
+          "sales@juliahub.com"
+        ],
+        "socials": {
+          "twitter": "JuliaHub",
+          "linkedin": "juliahub",
+          "github": "JuliaComputing"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "span",
+    "name": "Span",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
+        "emails": [
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
+        ],
+        "socials": {
+          "twitter": "_LatitudeMedia",
+          "linkedin": "latitude-media-inc"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "limingdian",
+    "name": "上海临界点创新智能科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "tujiankeji",
+    "name": "途见科技（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xiangsuzhanfang",
+    "name": "像素绽放PixelBloom",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.aippt.com",
+        "emails": [
+          "support@aippt.com"
+        ],
+        "socials": {
+          "twitter": "AiPPT_COM",
+          "linkedin": "aippt"
+        },
+        "careerPage": "https://www.aippt.com/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yuezhianmian",
+    "name": "月之暗面（Moonshot AI）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyunkj",
+    "name": "丰耘科技（杭州）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuanxinjia",
+    "name": "杭州暖芯迦电子科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "baixiniu",
+    "name": "白犀牛",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "duneng",
+    "name": "度能科技（厦门）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xbot",
+    "name": "自变量机器人科技（XBot）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ren3",
+    "name": "ReN3",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "strukto-ai",
+    "name": "Strukto AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://github.com/strukto-ai/mirage",
+        "emails": [],
+        "socials": {
+          "github": "github",
+          "twitter": "github",
+          "linkedin": "github"
+        },
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xingjihudong",
+    "name": "星迹互动（STAR TRAIL）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lingyuai",
+    "name": "灵御智能",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lingzhua",
+    "name": "灵珠AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "familiarmachines",
+    "name": "Familiar Machines",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "recursive",
+    "name": "Recursive Superintelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "moonshot-ai",
+    "name": "月之暗面（Moonshot AI）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://kimi.moonshot.cn",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://kimi.moonshot.cn/careers",
+        "jobListings": [
+          "Kimi AI with K2.6 | Better Coding, Smarter Agents"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "link-ai",
+    "name": "Link-AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://link-ai.cc",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://link-ai.cc/careers",
+        "jobListings": [
+          "content=\"Unified AI API gateway and admin dashboard.\""
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zeroth",
+    "name": "乐享科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "starcycle",
+    "name": "星环聚能",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyun-agri",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "stepfun",
+    "name": "阶跃星辰",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "genesisai",
+    "name": "Genesis AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "familiar-machines",
+    "name": "Familiar Machines",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "kimi",
+    "name": "月之暗面",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "recursive-super",
+    "name": "Recursive Superintelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "brano-therapeutics",
+    "name": "Brano Therapeutics",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "parker",
+    "name": "Parker",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lakyus",
+    "name": "Lakyus",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://lakyus.com/live",
+        "emails": [
+          "support@lakyus.com"
+        ],
+        "socials": {
+          "twitter": "lakyus_ai"
+        },
+        "careerPage": "https://lakyus.com/careers",
+        "jobListings": [
+          "High-Performance Discovery: Engineered with Generative Engine Optimization (GEO) to",
+          "Lakyus | The AI COO: Launch & Run Your Business on Autopilot",
+          "\"description\": \"The AI COO for your business.\",",
+          "Lakyus: The Autonomous AI COO",
+          "Advanced GEO Capabilities & AI Discovery:"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xinghuan",
+    "name": "星环聚能",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyun",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "recursivesuperintelligence",
+    "name": "Recursive Superintelligence",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "brano",
+    "name": "Brano Therapeutics",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "skyroot",
+    "name": "Skyroot Aerospace",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "weita-dongli",
+    "name": "维他动力",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "evergreen-innovation",
+    "name": "长曜创新",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xingshi-tech",
+    "name": "星识科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yigecloud",
+    "name": "亿格云",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "luming-robot",
+    "name": "鹿明机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "suxin",
+    "name": "塑新科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xinghuanjv",
+    "name": "星环聚能",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyunkeji",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "dunengkeji",
+    "name": "度能科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "vbot",
+    "name": "维他动力（Vbot）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "luming",
+    "name": "鹿明机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "figure-ai",
+    "name": "Figure AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "helsing",
+    "name": "Helsing",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "cowboy-space",
+    "name": "Cowboy Space",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nexus-api",
+    "name": "Nexus 中转站",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://nexus.1982video.cn/",
+        "emails": [],
+        "socials": {
+          "wechat": "_oauth_enabled"
+        },
+        "careerPage": "https://nexus.1982video.cn/careers",
+        "jobListings": [
+          "nexus(微信号：jjxxcc987) - AI API Gateway"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yigeyun",
+    "name": "亿格云",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "jinglingyun",
+    "name": "精灵云",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "thinking-machines",
+    "name": "Thinking Machines Lab",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "exaforce",
+    "name": "Exaforce",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "linjunyang",
+    "name": "林俊旸新创公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "guangzixinli",
+    "name": "光子芯力（北京）科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mind-robotics",
+    "name": "Mind Robotics",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "immunocan",
+    "name": "Immunocan",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "markey",
+    "name": "Markey",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://markey.app",
+        "emails": [
+          "support@markey.app",
+          "security@markey.app"
+        ],
+        "socials": {
+          "twitter": "markeyhq",
+          "github": "markey"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ardent",
+    "name": "Ardent",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.tryardent.com",
+        "emails": [],
+        "socials": {
+          "twitter": "ArdentAI",
+          "linkedin": "ardent-db",
+          "github": "ArdentAILabs"
+        },
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fractile",
+    "name": "Fractile",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "designverse",
+    "name": "DesignVerse",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://designverse.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://designverse.ai/careers",
+        "jobListings": [
+          "DesignVerse"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yujia",
+    "name": "羽嘉动力科技（常州）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "zhiyuhangtian",
+    "name": "执宇航天",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xbotgo",
+    "name": "深眸远智（XbotGo）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lumming",
+    "name": "鹿明机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "shuxin",
+    "name": "塑新科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fengyunagri",
+    "name": "丰耘科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nuansinga",
+    "name": "暖芯迦",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "einsia",
+    "name": "Einsia AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "thinkingmachines",
+    "name": "Thinking Machines Lab",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "figureai",
+    "name": "Figure AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fusionap",
+    "name": "FusionAP",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "atech",
+    "name": "Atech",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "synthetic",
+    "name": "Synthetic",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yaw-labs",
+    "name": "Yaw Labs",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "sichuang",
+    "name": "北京思创航天精密制造有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "maiji",
+    "name": "麦记牛奶公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "infimaker",
+    "name": "无限工坊（Infimaker）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "motionbrain",
+    "name": "眸深智能（Motion Brain）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mi'erguang",
+    "name": "弥尔光半导体（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "youshuquantum",
+    "name": "上海酉术量子科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "infimaker",
+    "name": "无限工坊（Infimaker）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "deepwit",
+    "name": "北京机智赛博科技有限公司（深度机智）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yanhetech",
+    "name": "炎和科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "photoncore",
+    "name": "光子芯力（北京）科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ola-dimensions",
+    "name": "欧拉万象（Ola Dimensions）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "suxin-tech",
+    "name": "北京塑新科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "konvy",
+    "name": "Konvy",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "linkup",
+    "name": "Linkup",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://linkup-nine-ruddy.vercel.app/",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://linkup-nine-ruddy.vercel.app/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "luel",
+    "name": "Luel",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "qlalgorithm",
+    "name": "重庆绮算法科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mojawa",
+    "name": "苏州索迩电子技术有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "miguang",
+    "name": "弥尔光半导体（北京）有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "shendujizhi",
+    "name": "深度机智（北京机智赛博科技有限公司）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yanhe",
+    "name": "炎和科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "microyuan",
+    "name": "微元合成生物技术有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "egcloud",
+    "name": "杭州亿格云科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "tianyuandong",
+    "name": "田渊栋创业公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "nectarsocial",
+    "name": "Nectar Social",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ougule",
+    "name": "破己行动 (Ougle)",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "fangshi",
+    "name": "北京方石机器人有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lumeng",
+    "name": "鹿明机器人",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "stainless",
+    "name": "Stainless",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "letinar",
+    "name": "LetinAR",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "jingyue",
+    "name": "鲸跃动力",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "sportvision",
+    "name": "深圳思博威视体育科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ocean",
+    "name": "Ocean",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "futureagi",
+    "name": "未来式智能（AutoAgents.ai）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://autoagents.ai",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://autoagents.ai/careers",
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "chanceai",
+    "name": "Chance AI",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "未提供",
+        "emails": [],
+        "socials": {},
+        "careerPage": null,
+        "jobListings": []
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "mthreads",
+    "name": "摩尔线程",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "roboparty",
+    "name": "RoboParty 萝博派对",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "ola",
+    "name": "欧拉万象（Ola Dimensions）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pluang",
+    "name": "Pluang",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "clouted",
+    "name": "Clouted",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "lucra",
+    "name": "Lucra",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "irisgo",
+    "name": "IrisGo",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "termark",
+    "name": "Termark",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {
+        "website": "https://www.termark.app",
+        "emails": [],
+        "socials": {},
+        "careerPage": "https://www.termark.app/careers",
+        "jobListings": [
+          "Termark - The Minimal SSH Client for Modern Developers",
+          "\"applicationCategory\": \"DeveloperApplication\",",
+          "AI assistant",
+          "Short videos showing how Termark feels in terminal, file transfer, AI, and external tool workflows.",
+          "AI Agent",
+          "Let AI follow your terminal context",
+          "aria-label=\"Termark AI Agent workflow demo\">",
+          "'AI assistant with terminal context and command confirmation',"
+        ]
+      },
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "pureblueai",
+    "name": "PureblueAI清蓝",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "luyu",
+    "name": "陆渔科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yingbo",
+    "name": "北京英博数科科技有限公司",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yitangkeji",
+    "name": "亦唐科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "shenjijizhi",
+    "name": "深度机智（北京机智赛博科技有限公司）",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "yanhekeji",
+    "name": "炎和科技",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "xianglianggongzhen",
+    "name": "向量共振",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "patina",
+    "name": "Patina",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "hark",
+    "name": "Hark",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  },
+  {
+    "id": "makakids",
+    "name": "Maka Kids",
+    "contacts": {
+      "fetchedAt": "2026-06-21",
+      "website": {},
+      "github": {},
+      "hiring": [],
+      "businessInfo": {}
+    }
+  }
+]
