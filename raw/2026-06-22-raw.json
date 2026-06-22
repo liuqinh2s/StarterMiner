@@ -91,10 +91,40 @@
   },
   {
     "source": "36氪",
-    "title": "宁德时代将在欧洲建电动卡车换电站",
-    "summary": "据英国《金融时报》报道，宁德时代将与英国的Octopus Energy合作，建立一个电池更换中心网络，为电动卡车提供服务。报道引用了对Octopus Energy创始人Greg Jackson和宁德时代海外投资主管Oscar Luo的采访。预计明年将在英国推出这种换电站。（财联社）",
-    "url": "https://36kr.com/newsflashes/3864234481636612?f=rss",
-    "published": "2026-06-22 19:19:13  +0800",
+    "title": "英伟达发布Halos机器人安全系统，推进Physical AI落地",
+    "summary": "6月22日，英伟达宣布推出“Halos for Robotics”，这是其面向物理AI与机器人领域的全栈安全系统，旨在为在真实环境中运行的智能机器人提供统一安全架构。该系统覆盖从AI算力芯片IGX Thor、传感器连接Holoscan Sensor Bridge，到Halos OS软件栈及AI安全认证实验室，构建“计算+感知+决策+认证”一体化安全体系。首个合作伙伴Agility已将Halos集成至其人形机器人Digit，用于工厂与物流场景。（界面）",
+    "url": "https://36kr.com/newsflashes/3864949997458693?f=rss",
+    "published": "2026-06-23 07:10:26  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "36氪",
+    "title": "Meta旗下WhatsApp负责人即将卸任，印度金融科技公司创始人沙阿接任",
+    "summary": "Meta首席执行官马克・扎克伯格宣布，任职七年有余的WhatsApp负责人威尔・卡斯卡特即将卸任。Meta任命印度金融科技初创公司Cred创始人库纳尔・沙阿执掌WhatsApp。 扎克伯格表示，卡斯卡特将在Meta内部调任新岗位，负责从零开始研发全新产品。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3864947491624192?f=rss",
+    "published": "2026-06-23 07:07:54  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "36氪",
+    "title": "高通接近收购人工智能芯片初创公司Modular",
+    "summary": "知情人士称，高通正就收购人工智能芯片初创公司Modular Inc．进行深入谈判，潜在交易对Modular的估值约为40亿美元。交易最快未来几周宣布。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3864943365756162?f=rss",
+    "published": "2026-06-23 07:03:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "36氪",
+    "title": "报道称SpaceX将首次发行投资级债券，银行家正进行推介",
+    "summary": "在完成创纪录的750亿美元美国IPO后，SpaceX启动对投资级债券的首次发行，预计这将开启一轮大规模举债浪潮，为其在AI领域的布局提供资金。据知情人士透露，曾为SpaceX提供短期过桥融资的几家银行——包括美国银行、花旗集团、高盛、摩根大通和摩根士丹利，周一安排了与投资者的电话会议。该人士表示，预计随后将进行债券发行，期限在5年至30年之间。（界面）",
+    "url": "https://36kr.com/newsflashes/3864942831424521?f=rss",
+    "published": "2026-06-23 07:03:09  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-22"
@@ -281,20 +311,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "科沃斯集团618双品牌全渠道领跑：以技术驱动霸榜，“八界”开源迈向具身智能时代",
-    "summary": "科沃斯集团又一次以增长证明技术驱动型品牌的生命力。",
-    "url": "https://www.tmtpost.com/8036208.html",
-    "published": "Mon, 22 Jun 2026 16:33:18 +0800",
+    "title": "业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问",
+    "summary": "为何市场不买账？",
+    "url": "https://www.tmtpost.com/8036662.html",
+    "published": "Mon, 22 Jun 2026 22:31:46 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-22"
   },
   {
     "source": "钛媒体",
-    "title": "智谱回A前夜：创始人“叫板”马斯克，市值突破万亿港元",
-    "summary": "中国版Anthropic，何时真正追上Anthropic？",
-    "url": "https://www.tmtpost.com/8036191.html",
-    "published": "Mon, 22 Jun 2026 16:26:20 +0800",
+    "title": "OpenAI 决定靠卖广告养 AI",
+    "summary": "个人 AGI 的愿景还没实现，广告先来了。",
+    "url": "https://www.tmtpost.com/8035950.html",
+    "published": "Mon, 22 Jun 2026 19:47:10 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-22"
@@ -341,40 +371,60 @@
   },
   {
     "source": "TechCrunch",
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "published": "Mon, 22 Jun 2026 16:51:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
+    "summary": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
+    "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+    "published": "Mon, 22 Jun 2026 15:21:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+    "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+    "published": "Mon, 22 Jun 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+    "summary": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund, which will see it expanding its presence in the United States.",
+    "url": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+    "published": "Mon, 22 Jun 2026 13:37:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
     "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
     "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
     "published": "Sun, 21 Jun 2026 18:34:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Founders Fund’s outlier bet on humanely killed fish",
-    "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
-    "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-    "published": "Sat, 20 Jun 2026 18:26:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Every fusion startup that has raised over $100M",
-    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-    "published": "Fri, 19 Jun 2026 16:50:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "published": "Fri, 19 Jun 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-22"
@@ -641,10 +691,220 @@
   },
   {
     "source": "The Verge",
-    "title": "Read this before you vibe-code another app",
-    "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-    "published": "2026-06-22T07:00:00-04:00",
+    "title": "AI is cursing renters with the promise of impossible homes",
+    "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, […]",
+    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "published": "2026-06-22T16:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "The Verge",
+    "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+    "summary": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can put together your own Steam Machine using whatever PC parts you want.\" SteamOS 3.8.10 launched last week with a slew of updates, including \"improved compatibility […]",
+    "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+    "published": "2026-06-22T13:05:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ChatGPT app store falters six months after launch",
+    "summary": "Article URL: https://www.latimes.com/business/story/2026-03-30/chatgpt-app-store-falters-six-months-after-launch Comments URL: https://news.ycombinator.com/item?id=48637054 Points: 3 # Comments: 0",
+    "url": "https://www.latimes.com/business/story/2026-03-30/chatgpt-app-store-falters-six-months-after-launch",
+    "published": "Mon, 22 Jun 2026 22:17:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China nears launch of mBridge as alternative to Swift",
+    "summary": "Article URL: https://www.electronicpaymentsinternational.com/news/china-nears-launch-of-mbridge/ Comments URL: https://news.ycombinator.com/item?id=48636931 Points: 4 # Comments: 1",
+    "url": "https://www.electronicpaymentsinternational.com/news/china-nears-launch-of-mbridge/",
+    "published": "Mon, 22 Jun 2026 22:07:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FDA to launch pilot program to speed up early-stage clinical trials",
+    "summary": "Article URL: https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/ Comments URL: https://news.ycombinator.com/item?id=48636582 Points: 1 # Comments: 0",
+    "url": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/",
+    "published": "Mon, 22 Jun 2026 21:39:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I made a startup platform to take ideas to market",
+    "summary": "Article URL: https://app.startuptitan.co Comments URL: https://news.ycombinator.com/item?id=48635019 Points: 1 # Comments: 0",
+    "url": "https://app.startuptitan.co",
+    "published": "Mon, 22 Jun 2026 19:41:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX Drops 14% in One Day, Price Now Below IPO Launch",
+    "summary": "Article URL: https://finance.yahoo.com/quote/SPCX/ Comments URL: https://news.ycombinator.com/item?id=48634931 Points: 48 # Comments: 45",
+    "url": "https://finance.yahoo.com/quote/SPCX/",
+    "published": "Mon, 22 Jun 2026 19:33:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Unpacking sandbox startup latency: why started ≠ ready",
+    "summary": "Article URL: https://modal.com/blog/unpacking-sandbox-startup-latency Comments URL: https://news.ycombinator.com/item?id=48634256 Points: 4 # Comments: 1",
+    "url": "https://modal.com/blog/unpacking-sandbox-startup-latency",
+    "published": "Mon, 22 Jun 2026 18:44:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Meta's WhatsApp to be led by Indian startup founder Kunal Shah",
+    "summary": "Article URL: https://www.reuters.com/business/metas-whatsapp-be-led-by-indian-startup-founder-kunal-shah-2026-06-22/ Comments URL: https://news.ycombinator.com/item?id=48633649 Points: 4 # Comments: 1",
+    "url": "https://www.reuters.com/business/metas-whatsapp-be-led-by-indian-startup-founder-kunal-shah-2026-06-22/",
+    "published": "Mon, 22 Jun 2026 18:03:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "WhatsApp to be led by Indian startup founder as Will Cathcart steps back",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c8e2195k5j2o Comments URL: https://news.ycombinator.com/item?id=48632224 Points: 5 # Comments: 0",
+    "url": "https://www.bbc.com/news/articles/c8e2195k5j2o",
+    "published": "Mon, 22 Jun 2026 16:16:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html Comments URL: https://news.ycombinator.com/item?id=48631982 Points: 14 # Comments: 1",
+    "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "published": "Mon, 22 Jun 2026 15:56:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "'I got crushed': AI giants are funding ad wars in races across the country",
+    "summary": "Article URL: https://www.latimes.com/politics/story/2026-06-21/ai-giants-are-funding-ad-wars-in-races-across-country Comments URL: https://news.ycombinator.com/item?id=48631504 Points: 5 # Comments: 1",
+    "url": "https://www.latimes.com/politics/story/2026-06-21/ai-giants-are-funding-ad-wars-in-races-across-country",
+    "published": "Mon, 22 Jun 2026 15:24:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Microsoft-backed startup raises $40M for advanced chipmaking equipment tech",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/microsoft-backed-startup-raises-40-million-advanced-chipmaking-equipment-tech-2026-03-23/ Comments URL: https://news.ycombinator.com/item?id=48631035 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/microsoft-backed-startup-raises-40-million-advanced-chipmaking-equipment-tech-2026-03-23/",
+    "published": "Mon, 22 Jun 2026 14:54:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sam Altman's Orb startup investigated financial misconduct allegations",
+    "summary": "Article URL: https://www.businessinsider.com/sam-altman-tools-for-humanity-orb-investigations-bribery-financial-irregularities Comments URL: https://news.ycombinator.com/item?id=48630573 Points: 6 # Comments: 1",
+    "url": "https://www.businessinsider.com/sam-altman-tools-for-humanity-orb-investigations-bribery-financial-irregularities",
+    "published": "Mon, 22 Jun 2026 14:24:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Aura Aero is the only aeronautical startup ranked in the top best French SUs",
+    "summary": "Article URL: https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/cette-entreprise-aeronautique-est-la-seule-classee-parmi-les-40-meilleures-start-up-de-france-3369361.html Comments URL: https://news.ycombinator.com/item?id=48628242 Points: 1 # Comments: 0",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/cette-entreprise-aeronautique-est-la-seule-classee-parmi-les-40-meilleures-start-up-de-france-3369361.html",
+    "published": "Mon, 22 Jun 2026 10:22:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Founding Systems Engineer, hardtech startup, full time, ONSITE SF/hybrid",
+    "summary": "Article URL: https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2wc/edit?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48621897 Points: 2 # Comments: 1",
+    "url": "https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2wc/edit?usp=sharing",
+    "published": "Sun, 21 Jun 2026 19:37:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tech pundit Cringely cofounds startup '2Brains Inc' to solve LLM hallucinations",
+    "summary": "Article URL: https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations Comments URL: https://news.ycombinator.com/item?id=48621381 Points: 2 # Comments: 1",
+    "url": "https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations",
+    "published": "Sun, 21 Jun 2026 18:35:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "My experience going through a startup incubator (2025)",
+    "summary": "Article URL: https://developerwithacat.com/blog/062025/startup-incubator-experience/ Comments URL: https://news.ycombinator.com/item?id=48619517 Points: 3 # Comments: 0",
+    "url": "https://developerwithacat.com/blog/062025/startup-incubator-experience/",
+    "published": "Sun, 21 Jun 2026 14:58:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Build a Marketplace Startup That Solves the Chicken-and-Egg Problem",
+    "summary": "Article URL: https://startupfortune.com/how-to-build-a-marketplace-startup-that-solves-the-chicken-and-egg-problem/ Comments URL: https://news.ycombinator.com/item?id=48618526 Points: 3 # Comments: 0",
+    "url": "https://startupfortune.com/how-to-build-a-marketplace-startup-that-solves-the-chicken-and-egg-problem/",
+    "published": "Sun, 21 Jun 2026 12:54:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "France mobilises €13B for tech sovereignty funding push",
+    "summary": "Article URL: https://www.reuters.com/business/media-telecom/france-mobilises-13-billion-tech-sovereignty-funding-push-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617749 Points: 5 # Comments: 0",
+    "url": "https://www.reuters.com/business/media-telecom/france-mobilises-13-billion-tech-sovereignty-funding-push-2026-06-19/",
+    "published": "Sun, 21 Jun 2026 11:02:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The stuff nobody tells you about startup marketing",
+    "summary": "Article URL: https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about Comments URL: https://news.ycombinator.com/item?id=48617710 Points: 3 # Comments: 0",
+    "url": "https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about",
+    "published": "Sun, 21 Jun 2026 10:57:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch: MyIntelBrief – Smarter Competitor Monitoring",
+    "summary": "Article URL: https://myintelbrief.com/ Comments URL: https://news.ycombinator.com/item?id=48614883 Points: 3 # Comments: 0",
+    "url": "https://myintelbrief.com/",
+    "published": "Sun, 21 Jun 2026 01:44:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-22"
@@ -659,7 +919,7 @@
     "type": "community",
     "fetchedAt": "2026-06-22",
     "meta": {
-      "replies": 89,
+      "replies": 126,
       "node": "深圳"
     }
   },
@@ -673,8 +933,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-22",
     "meta": {
-      "stars": 2194,
-      "forks": 153,
+      "stars": 2270,
+      "forks": 162,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
