@@ -91,10 +91,40 @@
   },
   {
     "source": "36氪",
-    "title": "魔法原子与京东达成战略合作，冲刺平台10亿销售额",
-    "summary": "近日，魔法原子与京东签署战略合作协议，双方将围绕消费级具身产品，在教育、巡检等重点场景开展技术共研、产品共创与生态共建，共同推动具身智能机器人规模化商业落地。合作期间，双方将整合产品、供应链和资源，力争实现魔法原子品牌产品在京东平台累计销售额突破10亿元人民币，为中国具身智能产业高质量发展注入新动能。",
-    "url": "https://36kr.com/newsflashes/3867063532065793?f=rss",
-    "published": "2026-06-24 19:00:26  +0800",
+    "title": "三季度投资窗口期即将来临，多家公募发行冷门行业ETF",
+    "summary": "三季度投资窗口期即将来临，公募基金开始以ETF新品的方式，对冷门和低配的传统行业进行试探性布局。今年以来，科技与非科技主题基金的业绩差距迅速拉大，有关风格切换的讨论也日渐增多。虽然拥抱科技的主动权益基金不会轻易换仓，但多家头部公募正在以ETF的方式开始切入。6月末，多家公募密集发行工程机械、食品消费、家电、生物医药等前期较为冷门的行业ETF，试图挖掘被低估的投资机会。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3867795174479113?f=rss",
+    "published": "2026-06-25 07:24:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "36氪",
+    "title": "OpenAI和博通开发首款定制化人工智能芯片，比传统GPU节省约50%成本",
+    "summary": "OpenAI发布与博通合作开发的首款定制人工智能芯片，试图通过优化硬件来获取竞争优势。两家公司周三表示，OpenAI已收到这款名为“Jalapeno”的芯片的首批样品，正在测试其运行人工智能任务的能力。博通首席执行官陈福阳在接受采访时表示，目前这款AI芯片相比传统AI图形处理器（GPU）可节省约50%的成本。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3867789267522569?f=rss",
+    "published": "2026-06-25 07:18:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "36氪",
+    "title": "谷歌两名AI研发重要人员拟跳槽至Anthropic",
+    "summary": "据报道，谷歌的两名AI研究重要人员计划转投Anthropic。知情人士称，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic。Adler曾参与谷歌的AI编程项目，而Pritzel则参与AI系统训练工作。（界面）",
+    "url": "https://36kr.com/newsflashes/3867784272663560?f=rss",
+    "published": "2026-06-25 07:13:37  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "创业邦",
+    "title": "​北森官宣全面转型AI应用公司，发布一站式AI HR专家平台Mavens",
+    "summary": "2026年6月24日，国内领先的AI HR科技公司北森正式宣布一项里程碑式的战略转型：公司将从传统“HR软件”厂商，全面升级为HR领域的“AI应用”公司，并重磅推出国内首个一站式AI HR专家平台——Mavens。 支撑这场AI战略转型的底气，是过去两年北森在AI上的产品创新、客户验证和市场突破： 2024年，北森提前布局，领先市场一年率先发布7大AI Agent产品； 2025年，北森AI产品合同额突破8700万元，同比增长10倍，AI客户数超过1400家，AI商业化断层式领跑行业，蒙牛、海尔、长安汽车、奇瑞集团、茶颜悦色、康师傅百饮等行业先锋企业，都已与北森携手，落地人力资源场景的AI应用； 2026年，随着春节后龙虾等Agent技术爆发，一个战略机会窗口正在打开：人力资源正在进入一个真人HR和AI HR协作共生的时代！ 基于技术爆发与市场发展，叠加过去两年深入上千家AI客户的场景积累，北森正式开启这次AI战略的全面升级，重磅推出一站式AI HR专家平台Mavens，定义真人HR和数字HR的协作范式！ 什么是Mavens？ Mavens名字取自“领域专家”，这正是北森对未来组织AI",
+    "url": "http://www.cyzone.cn/article/837840.html",
+    "published": "Wed, 24 Jun 2026 14:00:57 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-24"
@@ -261,30 +291,40 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作",
+    "summary": "豆包专业版上线：接入豆包2.1Pro大模型，专注复杂工作任务场景；消息称台积电先进制程代工将全线涨价；OpenAI和博通合作发布AI芯片，新芯片可节省50%的成本；ASML与荷兰应用科学研究组织TNO合作推进光子芯片量产；英伟达压PCB降价10%？胜宏科技：公司经营一切正常，客户方案调整是正常现象；五部门联合启动工业5G独立专网试点，加速“5G+工业互联网”赋能千行百业；国家广播电视总局：微短剧按照投资额度、题材等分类实行备案公示和发行许可制度；商务部等7部门办公厅开展报废机动车非法回收拆解专项整治行动；李家超：在广东和福建养老的香港长者下月起可选择将现金津贴汇入内地账户；券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零；安永：上半年A股和港股IPO数量占全球总量约三分之一；中国信通院：5月份5G手机出货量2622.4万部，同比增长23.8%；2026年度票房破170亿",
+    "url": "https://www.tmtpost.com/8039810.html",
+    "published": "Thu, 25 Jun 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：跌停板的投资机会和风险提示（6月23日）｜上市公司观察",
+    "summary": "整体来看，市场处于高位题材退潮、低位洼地轮动的调整阶段。操作上需规避高位高估、趋势走弱的题材个股，远离有色金属、PCB等退潮赛道，重点坚守低位低估、基本面稳健的修复标的，依托估值安全边际应对市场震荡。",
+    "url": "https://www.tmtpost.com/8039777.html",
+    "published": "Wed, 24 Jun 2026 21:01:54 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：涨停板的投资机会和风险提示（6月23日）｜上市公司观察",
+    "summary": "整体来看，指数回调源于周期资源板块集中获利了结，但市场内部轮动节奏清晰，资金从高位周期题材切换至医药避险赛道与超跌低位个股。操作上规避高估高位连板股与走弱的有色金属赛道，坚守估值洼地低位标的，依托安全边际应对市场震荡，谨慎参与高位题材博弈。",
+    "url": "https://www.tmtpost.com/8039770.html",
+    "published": "Wed, 24 Jun 2026 21:01:41 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "钛媒体",
     "title": "洞见AI液冷时代：技术破局——从风冷极限到液冷革命",
     "summary": "当我们在谈论AI的算力狂飙时，往往只关注芯片的晶体管数量，却忽略了它们正面临着“高烧不退”的物理极限。",
     "url": "https://www.tmtpost.com/8038972.html",
     "published": "Wed, 24 Jun 2026 18:43:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "主线科技，困在672万的客单价里",
-    "summary": "一家号称依靠AI算法、自动驾驶软件构建核心壁垒的科技公司，为何赚不到高毛利的技术溢价。",
-    "url": "https://www.tmtpost.com/8039157.html",
-    "published": "Wed, 24 Jun 2026 18:42:27 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "人形机器人量产元年：万台下线、数亿库存与算不平的经济账",
-    "summary": "2026年被称为人形机器人量产元年。万台机器人下线，百亿资金涌入，巴黎VivaTech上8台机器人同步起舞。但工厂里，它们仍在搬箱子、拧螺丝，良率不足90%。舞台上的最好的8分钟与产线上的学徒工，相差的到底是什么？",
-    "url": "https://www.tmtpost.com/8039221.html",
-    "published": "Wed, 24 Jun 2026 16:37:35 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-24"
@@ -341,70 +381,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-    "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
-    "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
-    "published": "Wed, 24 Jun 2026 00:30:00 +0000",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "published": "Wed, 24 Jun 2026 17:16:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
   },
   {
     "source": "TechCrunch",
-    "title": "Superhuman acquires AI detection startup GPTZero",
-    "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
-    "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-    "published": "Tue, 23 Jun 2026 21:48:23 +0000",
+    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "published": "Wed, 24 Jun 2026 16:48:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
   },
   {
     "source": "TechCrunch",
-    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-    "summary": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
-    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-    "published": "Tue, 23 Jun 2026 19:19:44 +0000",
+    "title": "NTSB launches probe into fatal Texas Tesla crash",
+    "summary": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
+    "url": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
+    "published": "Wed, 24 Jun 2026 16:39:08 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
   },
   {
     "source": "TechCrunch",
-    "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
-    "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
-    "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
-    "published": "Tue, 23 Jun 2026 15:09:38 +0000",
+    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+    "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+    "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "published": "Wed, 24 Jun 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
   },
   {
     "source": "TechCrunch",
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "published": "Tue, 23 Jun 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
-    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "published": "Tue, 23 Jun 2026 13:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI launches new initiative to help find and patch open source bugs",
-    "summary": "OpenAI is using AI to help the open source community better protect itself.",
-    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "published": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "title": "Slate Auto’s radically simple electric truck starts at $24,950",
+    "summary": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.",
+    "url": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+    "published": "Wed, 24 Jun 2026 12:33:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
@@ -671,20 +691,130 @@
   },
   {
     "source": "The Verge",
-    "title": "Hollywood is bending the knee to OpenAI",
-    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem […]",
-    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "published": "2026-06-23T18:03:18-04:00",
+    "title": "Microsoft introduces cheaper Surface devices with half the memory",
+    "summary": "Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup. Both models come equipped with 8GB of RAM instead of 16GB, costing $849 for the specced-down Surface Pro and $949 for the Surface Laptop, as spotted earlier by Windows Central. When the 12-inch Surface Pro and 13-inch Surface Laptop launched […]",
+    "url": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+    "published": "2026-06-24T17:39:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
   },
   {
     "source": "The Verge",
-    "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
-    "summary": "The Meta Quest 3S VR headset with 128GB of storage is $296.79 (about $53 off) at Amazon. This is Meta’s entry-level VR headset, which launched back in 2024 for $299.99 before getting a price increase this year to $349.99. So it’s not exactly the most exciting deal, but it’s about as good as you’re likely […]",
-    "url": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
-    "published": "2026-06-23T17:00:00-04:00",
+    "title": "Congresswoman denies staff used AI to write defense funding amendment",
+    "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary […]",
+    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+    "published": "2026-06-24T15:36:46-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "The Verge",
+    "title": "GTA VI is a worrying sign for the future of physical games",
+    "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a disc, and instead will only contain a download code inside the box. Not only is […]",
+    "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+    "published": "2026-06-24T14:42:07-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Colorado Startup Week Call for Sessions 2026",
+    "summary": "Article URL: https://docs.google.com/forms/d/e/1FAIpQLScfiL33y9FMODTRB-AqlZaWEoA3cbwhXg1dDFEEy_-uyoqfjQ/viewform Comments URL: https://news.ycombinator.com/item?id=48666365 Points: 3 # Comments: 0",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScfiL33y9FMODTRB-AqlZaWEoA3cbwhXg1dDFEEy_-uyoqfjQ/viewform",
+    "published": "Wed, 24 Jun 2026 22:29:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+    "summary": "Article URL: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/ Comments URL: https://news.ycombinator.com/item?id=48664569 Points: 3 # Comments: 0",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "published": "Wed, 24 Jun 2026 19:24:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
+    "summary": "Article URL: https://gptzero.me/news/preserving-whats-human/ Comments URL: https://news.ycombinator.com/item?id=48664229 Points: 2 # Comments: 0",
+    "url": "https://gptzero.me/news/preserving-whats-human/",
+    "published": "Wed, 24 Jun 2026 18:56:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Forensic Analysis: Hal Finney Missed the Bitcoin Launch",
+    "summary": "Article URL: https://twitter.com/raw_avocado/status/2069786136998785412 Comments URL: https://news.ycombinator.com/item?id=48663540 Points: 2 # Comments: 1",
+    "url": "https://twitter.com/raw_avocado/status/2069786136998785412",
+    "published": "Wed, 24 Jun 2026 18:05:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Screen recording your crappy startup",
+    "summary": "Hi HN. I've been recording various startups for YouTube after they ask for it and I review it and give my honest opinion and show the difficulties I have in using some of the websites. Some of the websites are not bad at all and they're they get good reviews. I would like you to take a look at my YouTube and also post your link here if you want me to review it. Comments URL: https://news.ycombinator.com/item?id=48663527 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/channel/UC2DA9fAIEVtAhy_1TdQDLHQ",
+    "published": "Wed, 24 Jun 2026 18:04:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Product Market fit the startup's north star [video] [audio]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=q7Eytndnac0 Comments URL: https://news.ycombinator.com/item?id=48661912 Points: 2 # Comments: 2",
+    "url": "https://www.youtube.com/watch?v=q7Eytndnac0",
+    "published": "Wed, 24 Jun 2026 16:02:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "If you want to work at a startup, build a side project",
+    "summary": "Article URL: https://entrylevel.careers/blog/if-you-want-to-work-at-a-startup-build-a-side-project Comments URL: https://news.ycombinator.com/item?id=48661895 Points: 3 # Comments: 0",
+    "url": "https://entrylevel.careers/blog/if-you-want-to-work-at-a-startup-build-a-side-project",
+    "published": "Wed, 24 Jun 2026 16:01:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Qualcomm to buy startup Modular for $4B in AI software push",
+    "summary": "Article URL: https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48661862 Points: 6 # Comments: 1",
+    "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "published": "Wed, 24 Jun 2026 15:59:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+    "summary": "Article URL: https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/ Comments URL: https://news.ycombinator.com/item?id=48659937 Points: 60 # Comments: 2",
+    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+    "published": "Wed, 24 Jun 2026 13:57:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I built a SaaS for founders to keep startups discoverable long after launch",
+    "summary": "Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=48659230 Points: 5 # Comments: 0",
+    "url": "https://www.founder.best",
+    "published": "Wed, 24 Jun 2026 13:13:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-24"
@@ -692,7 +822,7 @@
   {
     "source": "Hacker News",
     "title": "Italian startup working on a 400B language model (Italian)",
-    "summary": "Article URL: https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD Comments URL: https://news.ycombinator.com/item?id=48656887 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD Comments URL: https://news.ycombinator.com/item?id=48656887 Points: 5 # Comments: 0",
     "url": "https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD",
     "published": "Wed, 24 Jun 2026 08:32:38 +0000",
     "lang": "en",
@@ -790,106 +920,6 @@
     "fetchedAt": "2026-06-24"
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: I scanned every YC Spring 2026 startup for what AI crawlers see",
-    "summary": "Used 'potatometer.com' to scan and analyze all All 197 YC Spring 2026 startups on their SEO / GEO / AEO technical setup. I scanned the URL each startup lists in YC's directory. Most are readable by AI crawlers. Most don't tell a crawler what they are. Read more in the blog above. Comments URL: https://news.ycombinator.com/item?id=48639511 Points: 3 # Comments: 0",
-    "url": "https://potatometer.com/blog/yc-spring-2026-ai-reach-vs-readability",
-    "published": "Tue, 23 Jun 2026 02:40:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "ChatGPT app store falters six months after launch",
-    "summary": "Article URL: https://www.latimes.com/business/story/2026-03-30/chatgpt-app-store-falters-six-months-after-launch Comments URL: https://news.ycombinator.com/item?id=48637054 Points: 4 # Comments: 0",
-    "url": "https://www.latimes.com/business/story/2026-03-30/chatgpt-app-store-falters-six-months-after-launch",
-    "published": "Mon, 22 Jun 2026 22:17:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China nears launch of mBridge as alternative to Swift",
-    "summary": "Article URL: https://www.electronicpaymentsinternational.com/news/china-nears-launch-of-mbridge/ Comments URL: https://news.ycombinator.com/item?id=48636931 Points: 6 # Comments: 1",
-    "url": "https://www.electronicpaymentsinternational.com/news/china-nears-launch-of-mbridge/",
-    "published": "Mon, 22 Jun 2026 22:07:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FDA to launch pilot program to speed up early-stage clinical trials",
-    "summary": "Article URL: https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/ Comments URL: https://news.ycombinator.com/item?id=48636582 Points: 2 # Comments: 0",
-    "url": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/",
-    "published": "Mon, 22 Jun 2026 21:39:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I made a startup platform to take ideas to market",
-    "summary": "Article URL: https://app.startuptitan.co Comments URL: https://news.ycombinator.com/item?id=48635019 Points: 1 # Comments: 0",
-    "url": "https://app.startuptitan.co",
-    "published": "Mon, 22 Jun 2026 19:41:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Drops 14% in One Day, Price Now Below IPO Launch",
-    "summary": "Article URL: https://finance.yahoo.com/quote/SPCX/ Comments URL: https://news.ycombinator.com/item?id=48634931 Points: 61 # Comments: 62",
-    "url": "https://finance.yahoo.com/quote/SPCX/",
-    "published": "Mon, 22 Jun 2026 19:33:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Unpacking sandbox startup latency: why started ≠ ready",
-    "summary": "Article URL: https://modal.com/blog/unpacking-sandbox-startup-latency Comments URL: https://news.ycombinator.com/item?id=48634256 Points: 4 # Comments: 1",
-    "url": "https://modal.com/blog/unpacking-sandbox-startup-latency",
-    "published": "Mon, 22 Jun 2026 18:44:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta's WhatsApp to be led by Indian startup founder Kunal Shah",
-    "summary": "Article URL: https://www.reuters.com/business/metas-whatsapp-be-led-by-indian-startup-founder-kunal-shah-2026-06-22/ Comments URL: https://news.ycombinator.com/item?id=48633649 Points: 4 # Comments: 1",
-    "url": "https://www.reuters.com/business/metas-whatsapp-be-led-by-indian-startup-founder-kunal-shah-2026-06-22/",
-    "published": "Mon, 22 Jun 2026 18:03:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "WhatsApp to be led by Indian startup founder as Will Cathcart steps back",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c8e2195k5j2o Comments URL: https://news.ycombinator.com/item?id=48632224 Points: 5 # Comments: 0",
-    "url": "https://www.bbc.com/news/articles/c8e2195k5j2o",
-    "published": "Mon, 22 Jun 2026 16:16:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-    "summary": "Article URL: https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html Comments URL: https://news.ycombinator.com/item?id=48631982 Points: 14 # Comments: 1",
-    "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-    "published": "Mon, 22 Jun 2026 15:56:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-24"
-  },
-  {
     "source": "V2EX",
     "title": "庆祝 Steam Machine 发布，再送一台价值 5499 元懒猫微服！",
     "summary": "![]( https://i.v2ex.co/w0o5yWcH.jpeg) # 庆祝 Steam Machine 发布，再送一台价值 5499 元懒猫微服！ （本轮活动 7.3 日开奖，与 6.26 日送微服活动不冲突） 感谢 Steam 的开放生态，让 SteamOS 能够在更多硬件运行，包括懒猫微服。 公司的小伙子听我说了句 Steam Machine 要抽签排队买，趁着中午休息的时间，直接把 Steam 搞到了懒猫微服里🤣然后给我演示说看，多流畅。 这就是懒猫微服，只要你想，就有无限可能😎 能玩 AI 工作提效、也可游戏轻松一下的懒猫微服能力还不止于此。",
@@ -899,7 +929,7 @@
     "type": "community",
     "fetchedAt": "2026-06-24",
     "meta": {
-      "replies": 169,
+      "replies": 230,
       "node": "推广"
     }
   },
@@ -913,8 +943,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-24",
     "meta": {
-      "stars": 5182,
-      "forks": 374,
+      "stars": 6330,
+      "forks": 488,
       "language": "Python",
       "createdDaysAgo": 6
     }
