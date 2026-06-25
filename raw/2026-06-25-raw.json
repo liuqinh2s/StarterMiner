@@ -1,6 +1,36 @@
 [
   {
     "source": "36氪",
+    "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 以下为开放麦内容，经36氪整理编辑： 胡奇｜启明创投执行董事 大家晚上好。我是胡奇，启明创投的投资人，专注AI。这个专注是真的专注，我的硕士学位就是人工智能——Master of Science in Artificial Intelligence，翻译过来就是人工智能。一毕业，我就做AI模型算法，后来转做AI方向的投资，过去十多年一直没有离开AI。 所以有朋友开玩笑说，我属于那种在AI不火的时候就在干AI，AI火了以后还在继续干AI的人。 今天很开心来36",
+    "url": "https://36kr.com/p/3868349472920576?f=rss",
+    "published": "2026-06-25 17:19:27  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-25"
+  },
+  {
+    "source": "36氪",
+    "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+    "summary": "作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公认的基础表征单元，其决定了数据如何采、模型从哪学、以及学习后是否能迁移至新场景。 过去两年，行业主流做法是让模型直接学习机器人的关节运动轨迹，即复刻某一个特定硬件在特定任务下的动作坐标。这套逻辑的问题在于，换一台机器人、换一个物体、换一个场景，模型此前所习得能力无法直接迁移复用。它学会的是“夹爪怎么抓起杯子”，而非理解“抓取”这个动作本身，即什么是抓、需要多大的力、物体受力后会怎么反应。 RoboScience机器科学创始人兼CEO田野指出，当前机器人操作面临泛化能力差、精细操作难、长程任务误差累积三大核心瓶颈。为此，团队选择从底层出发，搭建一套全新的具",
+    "url": "https://36kr.com/p/3868276479710466?f=rss",
+    "published": "2026-06-25 15:42:21  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-25"
+  },
+  {
+    "source": "36氪",
+    "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 李丰｜峰瑞资本 创始合伙人 以下为演讲内容，经36氪整理编辑： 李丰： 首先非常感谢受36氪的邀请帮大家做开场，我们算是抛砖引玉。大家也知道，这两天大家讨论比较多的是各种新上市的美国公司和中国公司的股价变动和两边资本市场的变动，所以今天开场抛砖引玉的砖是要来讲AI，但除了它是个新技术周期以外，今天我们不主要讲技术，今天我们从“钱”的角度讲讲AI。 我不知道大家怎么判断和看待这一轮AI和资本市场周期的阶段，但是有一本书上，或者说历史上的经验总结有一句非常简单的话，供",
+    "url": "https://36kr.com/p/3868045479711745?f=rss",
+    "published": "2026-06-25 13:23:29  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-25"
+  },
+  {
+    "source": "36氪",
     "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
     "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 巴芮｜暗涌副主编（主持） 李晓飞｜深朴智能 创始人兼CEO 李元庆｜乐享科技 联席CTO、穹明智能 总经理 李一言｜擎天租 联合创始人、CEO 崔轲迪｜BV百度风投 执行董事 由天宇｜凯联资本 行业合伙人 王子璇｜云时资本 执行董事 巴芮：各位好！我们这一桌人最多、最热闹，但是我们时间紧，任务重，所以我快点说。 具身智能是这一两年一级市场最吸金的市场，也是期待最高的硬科技赛道之一，钱涌进来的速度有多快，泡沫的质疑就有多大。今天这",
     "url": "https://36kr.com/p/3867998907667462?f=rss",
@@ -32,7 +62,7 @@
   {
     "source": "36氪",
     "title": "秋声 | 紫鸟浏览器冲港股IPO，两个草根逆袭的暴利故事",
-    "summary": "本文约4500字，建议阅读7分钟 作者 | 彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被���藏的真实。这是我们第二期，紫讯。 6月24日，紫讯技术（福建）股份有限公司向港交所递交了上市申请，国泰君安担任独家保荐人。和这两年扎堆赴港的未盈利18C不同，紫讯走的是主板 ——换句话说，这是一家 已经实打实赚钱 的公司。 紫讯招股书把自己定义为\"一家电商科技公司，致力于结合行业专业知识与AI技术来革新电商营运模式\"。开篇七个加粗数字：2023—2025年收入复合增速51.7%、经营利润复合增速145.4%、经营现金流复合增速111.1%、LinkFox订阅者增速238.2%……一个AI驱动、业绩强劲、客群忠诚的叙事，扑面而来。 但把这份379页的招股书抽丝剥茧之后会发现：这家公司的故事，比\"AI电商\"四个字要拧巴得多，也有意思得多。它是港股近年少见的真盈利+真现金流SaaS",
+    "summary": "本文约4500字，建议阅读7分钟 作者 | 彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第二期，紫讯。 6月24日，紫讯技术（福建）股份有限公司向港交所递交了上市申请，国泰君安担任独家保荐人。和这两年扎堆赴港的未盈利18C不同，紫讯走的是主板 ——换句话说，这是一家 已经实打实赚钱 的公司。 紫讯招股书把自己定义为\"一家电商科技公司，致力于结合行业专业知识与AI技术来革新电商营运模式\"。开篇七个加粗数字：2023—2025年收入复合增速51.7%、经营利润复合增速145.4%、经营现金流复合增速111.1%、LinkFox订阅者增速238.2%……一个AI驱动、业绩强劲、客群忠诚的叙事，扑面而来。 但把这份379页的招股书抽丝剥茧之后会发现：这家公司的故事，比\"AI电商\"四个字要拧巴得多，也有意思得多。它是港股近年少见的真盈利+真现金流SaaS标的",
     "url": "https://36kr.com/p/3868019442881537?f=rss",
     "published": "2026-06-25 11:14:02  +0800",
     "lang": "zh",
@@ -61,90 +91,70 @@
   },
   {
     "source": "36氪",
-    "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
-    "summary": "今日热点导览 豆包专业版正式上线，采用三级阶梯定价方案 半导体新股暴涨900%，中一签该股最高盈利超20万元 以色列证实向伊朗偷运数万台“星链”接收器 霍尔木兹海峡对商船完全开放60天，国际油价下跌 券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零 消息称苹果将于7月下旬量产首款可折叠iPhone TOP3大新闻 SK海力士已提交美国IPO申请 据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社） 马斯克身家蒸发3400亿美元，已不是万亿富豪 6月24日，埃隆·马斯克身价已跌破万亿美元。据彭博亿万富豪指数数据，马斯克目前身价已跌至9570亿美元，较8天前的峰值1.3万亿美元大幅缩水3400亿美元。不过，马斯克缩水后的身家仍然在财富榜上遥遥领先。人类首个万亿美元富豪，只维持了不到2周就“跌落神坛”。（每日经济新闻） 券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零 记者多方了解到，23日券商起正按照监管要求，暂停股票类跨境TRS（Total Return Swap，即跨境收益互换业务）新增",
-    "url": "https://36kr.com/p/3867827741086728?f=rss",
-    "published": "2026-06-25 08:00:14  +0800",
+    "title": "宇通客车等在青岛成立新公司，注册资本550万",
+    "summary": "36氪获悉，天眼查App显示，近日，宇威顺通（青岛）汽车销售服务有限公司成立，法定代表人为于鹏阁，注册资本550万人民币，经营范围包括新能源汽车整车销售、汽车销售、汽车零配件批发、汽车零配件零售、汽车装饰用品销售、新能源汽车换电设施销售等。股东信息显示，该公司由宇通客车旗下西藏德优实业有限公司、郑州宇荣拾壹号企业管理中心（有限合伙）共同持股。",
+    "url": "https://36kr.com/newsflashes/3868463819379720?f=rss",
+    "published": "2026-06-25 19:19:54  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "36氪",
-    "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
-    "summary": "大公司： 华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书 36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期业绩无重大影响。 SK海力士已提交美国IPO申请 据报道，据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社） 江西齐云山食品股份有限公司通过港交所上市聆讯 36氪获悉，港交所文件显示，江西齐云山食品股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。 三星回应将回购价值近90万亿韩元的股票用于发放奖金：正在考虑，细节尚未确定 6月24日，三星电子在监管文件中表示，公司正考虑为支付奖金而进行股票回购，但尚未确定具体时间表和规模。三星电子称，该事项仍在讨论中",
-    "url": "https://36kr.com/p/3867032586867972?f=rss",
-    "published": "2026-06-24 18:35:25  +0800",
+    "title": "“云思半导体”完成数千万元A轮融资",
+    "summary": "36氪获悉，6月25日，第三代半导体高端石墨耗材湖南云思半导体科技有限公司宣布完成数千万元A轮融资，派诺资本领投。本轮资金将重点投向产线迭代、12寸新品研发以及头部客户批量交付产能扩充。",
+    "url": "https://36kr.com/newsflashes/3868490386969606?f=rss",
+    "published": "2026-06-25 19:11:55  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "36氪",
-    "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
-    "summary": "文｜王欣逸 编辑｜张雨忻 2026 年开年来，3D 生成模型赛道相当热闹。 今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。 近日，影眸科技——这支扎根学术圈、创业早、年轻的 3D 模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。 这支团队创立于 2020 年，创始人兼 CEO 吴迪、和联合创始人兼 CTO 张启煊以及另外两位联合创始人张龙文、曾初啸均来自上海科技大学。团队约 60 人，平均年龄不到 25 岁。 尽管看起来年轻，但在 B 端市场，影眸几乎站稳了头部地位，其 B 端客户数及收入比行业内其他公司加起来还要多，客户包括字节跳动、Unity、Figma、Canva 等企业，海外收入占总收入约 80%。 提出定义主流 AI 3D 架构的原生 3D 生成方案 CLAY、连续数年获得计算机图形学顶级会议 SIGGRAPH 最佳论文及提名——在学术成果上，影眸的科研履历也相当亮眼，在顶刊和各",
-    "url": "https://36kr.com/p/3865060112438533?f=rss",
-    "published": "2026-06-24 18:06:36  +0800",
+    "title": "中关村科金连续两年入选《财富》中国科技50强，并登榜胡润全球独角兽榜",
+    "summary": "6月25日，《财富》正式发布“2026 年中国科技50强”榜单，中关村科金连续两年入选；与此同时，胡润研究院发布《2026全球独角兽榜》，中关村科金再次登榜。公开资料显示，中关村科金是一家企业级人工智能平台公司，深耕企业服务领域12年，聚焦“垂类大模型 + 企业智能体”路线，服务金融、汽车、零售、工业、政务、出海等领域客户3000+头部企业及政府客户。据IDC数据，2025年下半年公司位列中国大模型平台私有化市场份额TOP4。",
+    "url": "https://36kr.com/newsflashes/3868482764657670?f=rss",
+    "published": "2026-06-25 19:04:09  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "36氪",
-    "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
-    "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 海若镜丨36氪暗涌副主编（主持） 王蓓｜高瓴创投 合伙人 汪洋｜松禾资本 管理合伙人 蔡伟｜光合创投 合伙人 海若镜：大家好！我是今天这场圆桌的主持人，暗涌的海若镜。今天这个主题，大家应该都深有体会——AI世界变化太快，时间尺度被压缩得很夸张。以前产业迭代以年甚至五年为单位，现在可能一个月甚至一周就刷新一次认知。刚刚各位嘉宾也提到，不少公司估值一个月就刷新一次，甚至两三轮融资合并推进。 所以我们今天的主题是AI这个月、这一年、这",
-    "url": "https://36kr.com/p/3866900608701449?f=rss",
-    "published": "2026-06-24 16:17:52  +0800",
+    "title": "天壕能源：筹划购买天壕新能源股份有限公司100%股权，股票停牌",
+    "summary": "36氪获悉，天壕能源公告，公司正在筹划发行股份及支付现金购买天壕新能源股份有限公司100%股权并募集配套资金事项，预计构成关联交易。公司股票及可转债自2026年6月26日起停牌，预计在不超过10个交易日内披露交易方案。",
+    "url": "https://36kr.com/newsflashes/3868468393284611?f=rss",
+    "published": "2026-06-25 19:02:26  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "36氪",
-    "title": "宁德时代在柳州成立新能源公司",
-    "summary": "36氪获悉，天眼查App显示，近日，时代骐骥新能源科技（柳州）有限公司成立，法定代表人为曾凡清，注册资本500万人民币，经营范围包括新兴能源技术研发、新能源汽车换电设施销售、在线能源计量技术研发、合同能源管理等，由时代骐骥新能源科技（南宁）有限公司全资持股。",
-    "url": "https://36kr.com/newsflashes/3868030356722691?f=rss",
-    "published": "2026-06-25 11:42:52  +0800",
+    "title": "*ST清越：公司股票可能被实施重大违法强制退市",
+    "summary": "36氪获悉，*ST清越公告，公司因涉嫌定期报告等财务数据虚假记载，被中国证监会立案调查并收到《行政处罚事先告知书》。根据告知书认定情况，公司可能触及《上海证券交易所科创板股票上市规则》相关规定，可能被实施重大违法强制退市。同时，公司股票2026年6月25日收盘价为0.95元，首次低于1元，可能触及交易类强制退市。",
+    "url": "https://36kr.com/newsflashes/3868468957320448?f=rss",
+    "published": "2026-06-25 18:50:07  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "36氪",
-    "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
-    "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.36%，深成指涨1.45%，创业板指涨2.01%；券商、半导体、通用设备板块领涨，中信建投、中微半导涨停，海光信息、新易盛涨超8%，贵金属、能源、教育板块走弱，华锡有色跌超5%，博汇股份跌超3%，竞业达、中公教育跌超2%。",
-    "url": "https://36kr.com/newsflashes/3868038464050435?f=rss",
-    "published": "2026-06-25 11:32:12  +0800",
+    "title": "永太科技：全资子公司与宁德时代签订电解液原材料合作协议 2027年交付2万吨±5%",
+    "summary": "36氪获悉，永太科技公告，公司全资子公司浙江永太新能源材料有限公司与宁德时代签订《电解液原材料合作协议》，约定在协议有效期内就电解液添加剂碳酸亚乙烯酯进行购销合作。协议有效期自2026年6月1日至2029年12月31日，其中2027年交付2万吨±5%，2028年交付3万吨±10%，2029年交付4万吨±12%。协议履行预计对公司2027至2029年度经营成果产生积极影响，但实际采购规模存在不确定性。",
+    "url": "https://36kr.com/newsflashes/3868458031650052?f=rss",
+    "published": "2026-06-25 18:47:36  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "36氪",
-    "title": "瑞为技术通过港交所聆讯，冲刺港股“视觉具身智能第一股”",
-    "summary": "港交所文件显示，瑞为技术已于6月24日通过主板上市聆讯，联席保荐人为华泰国际、建银国际、农银国际。瑞为技术以视觉感知为起点，经视觉智能体逐步延伸至依托自研VTFLA技术的具身机器人产品，有望冲刺港股“视觉具身智能第一股”，并成为18C（特专科技）赛道又一标志性案例。",
-    "url": "https://36kr.com/newsflashes/3868021691929861?f=rss",
-    "published": "2026-06-25 11:15:08  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "36氪",
-    "title": "创业板指翻绿，此前涨超2%",
-    "summary": "36氪获悉，指数冲高回落，创业板指翻绿，此前一度涨超2%。医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
-    "url": "https://36kr.com/newsflashes/3867990084457476?f=rss",
-    "published": "2026-06-25 10:42:59  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "36氪",
-    "title": "欣旺达动力科技公司增资至132亿",
-    "summary": "36氪获悉，天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约95.7亿人民币增至约132亿人民币，增幅约38%。该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等，由欣旺达惠州新能源有限公司、天津和谐海河股权投资合伙企业（有限合伙）、中信证券投资有限公司等共同持股。",
-    "url": "https://36kr.com/newsflashes/3867988639306754?f=rss",
-    "published": "2026-06-25 10:41:30  +0800",
+    "title": "国家电力投资集团在吉林成立新公司# 注册资本1000万",
+    "summary": "36氪获悉，天眼查App显示，近日，华科绿能（吉林）新能源有限公司成立，法定代表人为马晓强，注册资本1000万人民币，经营范围包括新兴能源技术研发、新能源原动设备销售、发电技术服务、太阳能发电技术服务、风力发电技术服务、储能技术服务等，由电投融和新能源发展有限公司全资持股。",
+    "url": "https://36kr.com/newsflashes/3868461908448265?f=rss",
+    "published": "2026-06-25 18:42:57  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
@@ -310,81 +320,41 @@
     "fetchedAt": "2026-06-25"
   },
   {
-    "source": "创业邦",
-    "title": "融资丨中性原子量子计算企业太一量生完成3亿元Pre-A轮融资",
-    "summary": "近日，中性原子量子计算企业太一量生（上海）量子科技有限公司（下称“太一量生”）完成3亿元Pre-A轮融资，由高榕创投、IDG资本等联合领投，跟投方包括华控基金、云启资本、达晨财智、博远资本、上汽金控、恒旭资本、雅瑞资本、启赋资本、电科基金等知名机构和产业方。 太一量生成立于2026年1月，总部位于上海徐汇，是国内首家专注于镱原子中性原子量子计算机的整机企业。镱原子技术路线拥有、可擦除式误差、更快的量子比特门、原生高精度多量子比特门以及能够通过通讯波段实现多光子互联等诸多物理内在优势。2026 年3月，Google Quantum AI 正式将中性原子纳入研究主线 ，由Adam Kaufman领衔的中性原子硬件团队同样选择了镱原子技术路线，Google 明确提出：超导更易扩展“时间维度”，中性原子更易扩展“空间维度”。 自天使轮融资后，公司已快速完成了核心研发团队和商业运营团队搭建。目前，公司已组建近50人的全职团队，覆盖冷原子、光学、控制、纠错等全技术栈。公司团队核心成员来自MIT（麻省理工）、JILA（美国天体物理联合实验室）、NIST（美国国家标准局）、CQT（新加坡量子技术中心）",
-    "url": "http://www.cyzone.cn/article/837027.html",
-    "published": "Wed, 17 Jun 2026 02:21:00 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "创业邦",
-    "title": "从星海图全球开发者大会，看中国具身智能如何从 “产品内卷” 走向 “生态共建”？",
-    "summary": "6月16日，星海图全球开发者大会（Galaxea WDC 2026）在北京亦庄举行，600余位全球开发者、顶尖学者、产业链上下游伙伴，以及全球各地的机器人企业和主流媒体代表参会。 近年来，具身智能行业从比拼单机性能，逐步转向比拼生态构建能力。本次大会上，星海图发布并开源新一代基础模型、首秀双足人形机器人，并联合北京亦庄共建数据公司、启动百万小时真实数据计划，与产业伙伴共同推动具身智能进入生态共建时代。 随着双足机器人Kengo发布，星海图成为中国唯一同时拥有顶尖模型与顶尖本体的具身智能企业，三年前确立的“整机＋智能”战略正式闭环。这场大会也释放出明确信号：具身智能正从单机性能的比拼，进入开放生态共建的新阶段。 外界对星海图的判断几经变化：2024年说它是卖硬件的公司，2025年又说它是数据公司。高继扬回应称，这些标签都只看到了局部——星海图所有的路径，始终围绕同一个核心，即具身智能基础模型。 围绕这一核心，星海图自主构建了VLA基础模型G0.5、世界模型Fast-WAM等基础模型。本次大会发布并开源的G0.5，在全球六大权威榜单上取得第一名，稳居国际第一梯队、国内第一。其底层采用统一自",
-    "url": "http://www.cyzone.cn/article/836983.html",
-    "published": "Tue, 16 Jun 2026 10:02:24 GMT",
+    "source": "钛媒体",
+    "title": "2026年，人形机器人关键零部件成本降了多少？",
+    "summary": "一篇关于未来机器人定价权的细节观察。",
+    "url": "https://www.tmtpost.com/8041415.html",
+    "published": "Thu, 25 Jun 2026 18:16:51 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "钛媒体",
-    "title": "从深蓝回归，一汽-大众更换产品操盘手",
-    "summary": "原深蓝汽车高管国桐回归一汽-大众，出任商品经营部负责人。这个成立约一年的“产品部”，正赶上新一轮新能源车周期。过去负责还原大众，现在一汽-大众第一次要学会自己定义车。",
-    "url": "https://www.tmtpost.com/8039991.html",
-    "published": "Thu, 25 Jun 2026 11:20:00 +0800",
+    "title": "股票质押不香了，券商们要做当代秋菊",
+    "summary": "股权融资风控战打响。",
+    "url": "https://www.tmtpost.com/8041469.html",
+    "published": "Thu, 25 Jun 2026 18:10:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
     "source": "钛媒体",
-    "title": "互联网商业模式之死",
-    "summary": "软件之后，大模型即将吞噬互联网。",
-    "url": "https://www.tmtpost.com/8039984.html",
-    "published": "Thu, 25 Jun 2026 11:16:00 +0800",
+    "title": "智谱VS Minimax，是Anthropic PK OpenAI的中国投影",
+    "summary": "Anthropic与OpenAI的估值反转，俨然是智谱VS Minimax的剧情预告。",
+    "url": "https://www.tmtpost.com/8041260.html",
+    "published": "Thu, 25 Jun 2026 16:57:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
   },
   {
-    "source": "钛媒体",
-    "title": "AI芯片大战，烧到了一块玻璃",
-    "summary": "从屏幕到芯片，一块玻璃被AI重新定义。",
-    "url": "https://www.tmtpost.com/8039977.html",
-    "published": "Thu, 25 Jun 2026 11:11:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "5.62亿元！水泥巨头拟收购海螺设计院100%股权；科创板史上最大资产重组案收官，中芯北方剩余股权完成交割；【并购一线】",
-    "summary": "6月24日最新并购信息及价值分析。",
-    "url": "https://www.tmtpost.com/8040515.html",
-    "published": "Thu, 25 Jun 2026 10:56:45 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "太空光伏又有合作诞生，通威签完福斯特签， 巨头们为何集体押注一家两年半的钙钛矿公司",
-    "summary": "初创公司炎和科技密集布局太空光伏，行业加速卡位。",
-    "url": "https://www.tmtpost.com/8039873.html",
-    "published": "Thu, 25 Jun 2026 10:45:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "铁打的茅台，靠什么稳住万亿估值中枢？",
-    "summary": "当市场风口快速轮动，一家成熟龙头企业如何稳住自身估值中枢，避免在市场情绪起伏中出现大幅折价？",
-    "url": "https://www.tmtpost.com/8040399.html",
-    "published": "Thu, 25 Jun 2026 10:37:16 +0800",
+    "source": "爱范儿",
+    "title": "英伟达都在用的3D大模型Hyper3D再获数亿融资，背后是一群中国00后",
+    "summary": "3D建模师不会消失，但工作流已经变了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1669869?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Thu, 25 Jun 2026 06:08:59 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-25"
@@ -485,16 +455,6 @@
     "summary": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
     "url": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
     "published": "Wed, 24 Jun 2026 16:39:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "published": "Wed, 24 Jun 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-25"
@@ -770,240 +730,6 @@
     "fetchedAt": "2026-06-25"
   },
   {
-    "source": "The Verge",
-    "title": "Congresswoman denies staff used AI to write defense funding amendment",
-    "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary […]",
-    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-    "published": "2026-06-24T15:36:46-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "The Verge",
-    "title": "GTA VI is a worrying sign for the future of physical games",
-    "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a disc, and instead will only contain a download code inside the box. Not only is […]",
-    "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-    "published": "2026-06-24T14:42:07-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Colorado Startup Week Call for Sessions 2026",
-    "summary": "Article URL: https://docs.google.com/forms/d/e/1FAIpQLScfiL33y9FMODTRB-AqlZaWEoA3cbwhXg1dDFEEy_-uyoqfjQ/viewform Comments URL: https://news.ycombinator.com/item?id=48666365 Points: 4 # Comments: 0",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLScfiL33y9FMODTRB-AqlZaWEoA3cbwhXg1dDFEEy_-uyoqfjQ/viewform",
-    "published": "Wed, 24 Jun 2026 22:29:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
-    "summary": "Article URL: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/ Comments URL: https://news.ycombinator.com/item?id=48664569 Points: 3 # Comments: 0",
-    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "published": "Wed, 24 Jun 2026 19:24:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
-    "summary": "Article URL: https://gptzero.me/news/preserving-whats-human/ Comments URL: https://news.ycombinator.com/item?id=48664229 Points: 2 # Comments: 0",
-    "url": "https://gptzero.me/news/preserving-whats-human/",
-    "published": "Wed, 24 Jun 2026 18:56:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Forensic Analysis: Hal Finney Missed the Bitcoin Launch",
-    "summary": "Article URL: https://twitter.com/raw_avocado/status/2069786136998785412 Comments URL: https://news.ycombinator.com/item?id=48663540 Points: 2 # Comments: 1",
-    "url": "https://twitter.com/raw_avocado/status/2069786136998785412",
-    "published": "Wed, 24 Jun 2026 18:05:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Screen recording your crappy startup",
-    "summary": "Hi HN. I've been recording various startups for YouTube after they ask for it and I review it and give my honest opinion and show the difficulties I have in using some of the websites. Some of the websites are not bad at all and they're they get good reviews. I would like you to take a look at my YouTube and also post your link here if you want me to review it. Comments URL: https://news.ycombinator.com/item?id=48663527 Points: 3 # Comments: 1",
-    "url": "https://www.youtube.com/channel/UC2DA9fAIEVtAhy_1TdQDLHQ",
-    "published": "Wed, 24 Jun 2026 18:04:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Product Market fit the startup's north star [video] [audio]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=q7Eytndnac0 Comments URL: https://news.ycombinator.com/item?id=48661912 Points: 2 # Comments: 2",
-    "url": "https://www.youtube.com/watch?v=q7Eytndnac0",
-    "published": "Wed, 24 Jun 2026 16:02:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "If you want to work at a startup, build a side project",
-    "summary": "Article URL: https://entrylevel.careers/blog/if-you-want-to-work-at-a-startup-build-a-side-project Comments URL: https://news.ycombinator.com/item?id=48661895 Points: 3 # Comments: 0",
-    "url": "https://entrylevel.careers/blog/if-you-want-to-work-at-a-startup-build-a-side-project",
-    "published": "Wed, 24 Jun 2026 16:01:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Qualcomm to buy startup Modular for $4B in AI software push",
-    "summary": "Article URL: https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48661862 Points: 6 # Comments: 1",
-    "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-    "published": "Wed, 24 Jun 2026 15:59:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-    "summary": "Article URL: https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/ Comments URL: https://news.ycombinator.com/item?id=48659937 Points: 60 # Comments: 2",
-    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-    "published": "Wed, 24 Jun 2026 13:57:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I built a SaaS for founders to keep startups discoverable long after launch",
-    "summary": "Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=48659230 Points: 5 # Comments: 0",
-    "url": "https://www.founder.best",
-    "published": "Wed, 24 Jun 2026 13:13:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Italian startup working on a 400B language model (Italian)",
-    "summary": "Article URL: https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD Comments URL: https://news.ycombinator.com/item?id=48656887 Points: 5 # Comments: 0",
-    "url": "https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD",
-    "published": "Wed, 24 Jun 2026 08:32:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Should I launch a form limiter app on the Google Workspace Marketplace? (2025)",
-    "summary": "Article URL: https://developerwithacat.com/blog/062025/google-workspace-marketplace-startups-part3/ Comments URL: https://news.ycombinator.com/item?id=48655175 Points: 3 # Comments: 0",
-    "url": "https://developerwithacat.com/blog/062025/google-workspace-marketplace-startups-part3/",
-    "published": "Wed, 24 Jun 2026 04:35:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Cruit.dev – Get hired at a startup based on your coding agent skills",
-    "summary": "Startups are struggling to find enough AI-native talent, but it definitely exists out there. Comments URL: https://news.ycombinator.com/item?id=48653438 Points: 3 # Comments: 0",
-    "url": "https://cruit.dev",
-    "published": "Wed, 24 Jun 2026 00:10:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Stop asking AI if your startup idea is good",
-    "summary": "Article URL: https://www.idea-launch.io/learn/ai-idea-validator-vs-real-demand-signals Comments URL: https://news.ycombinator.com/item?id=48653414 Points: 3 # Comments: 2",
-    "url": "https://www.idea-launch.io/learn/ai-idea-validator-vs-real-demand-signals",
-    "published": "Wed, 24 Jun 2026 00:06:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Geothermal Startup Plans to Use Oil Tech for Green Energy",
-    "summary": "Article URL: https://insurancedimes.com/2026/06/23/birch-geothermal-emerges-from-stealth-with-ambitions-to-power-the-ai-economy-through-next-gen-geothermal-energy/ Comments URL: https://news.ycombinator.com/item?id=48652087 Points: 6 # Comments: 0",
-    "url": "https://insurancedimes.com/2026/06/23/birch-geothermal-emerges-from-stealth-with-ambitions-to-power-the-ai-economy-through-next-gen-geothermal-energy/",
-    "published": "Tue, 23 Jun 2026 22:02:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meccha Chameleon sold 7M copies on Steam just 12 days after launch",
-    "summary": "Article URL: https://twitter.com/iamtonyzhu/status/2069370065607422446 Comments URL: https://news.ycombinator.com/item?id=48650087 Points: 4 # Comments: 1",
-    "url": "https://twitter.com/iamtonyzhu/status/2069370065607422446",
-    "published": "Tue, 23 Jun 2026 19:27:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built a tool that'll show how AI agents reads your startup's website",
-    "summary": "Article URL: https://agent-ready.co/ Comments URL: https://news.ycombinator.com/item?id=48645912 Points: 2 # Comments: 0",
-    "url": "https://agent-ready.co/",
-    "published": "Tue, 23 Jun 2026 14:50:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A skill pack that stops coding agents from agreeing with bad startup ideas",
-    "summary": "Article URL: https://github.com/machinesoul11/anti-sycophant-ai-agent-skills Comments URL: https://news.ycombinator.com/item?id=48645572 Points: 1 # Comments: 0",
-    "url": "https://github.com/machinesoul11/anti-sycophant-ai-agent-skills",
-    "published": "Tue, 23 Jun 2026 14:31:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Startup Graveyard – what killed 16 startups",
-    "summary": "Article URL: https://kasspian.com/graveyard Comments URL: https://news.ycombinator.com/item?id=48642313 Points: 3 # Comments: 1",
-    "url": "https://kasspian.com/graveyard",
-    "published": "Tue, 23 Jun 2026 09:15:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Stripe pre-launch security checklist for indie SaaS",
-    "summary": "Article URL: https://github.com/galakurpi/stripe-prelaunch-security-checklist Comments URL: https://news.ycombinator.com/item?id=48640467 Points: 2 # Comments: 0",
-    "url": "https://github.com/galakurpi/stripe-prelaunch-security-checklist",
-    "published": "Tue, 23 Jun 2026 04:51:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-25"
-  },
-  {
-    "source": "微博",
-    "title": "#存储芯片涨价#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23存储芯片涨价%23",
-    "published": "2026-06-25",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-25",
-    "meta": {
-      "hotValue": 734407,
-      "rank": 16
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "bozhouDev/codex-orange-book",
     "summary": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
@@ -1013,8 +739,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-25",
     "meta": {
-      "stars": 1550,
-      "forks": 161,
+      "stars": 1732,
+      "forks": 175,
       "language": "HTML",
       "createdDaysAgo": 2
     }
@@ -1029,10 +755,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-25",
     "meta": {
-      "stars": 997,
+      "stars": 1020,
       "forks": 123,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1045,7 +771,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-25",
     "meta": {
-      "stars": 915,
+      "stars": 922,
       "forks": 46,
       "language": null,
       "createdDaysAgo": 5
@@ -1061,7 +787,7 @@
     "type": "signal",
     "fetchedAt": "2026-06-25",
     "meta": {
-      "stars": 888,
+      "stars": 903,
       "forks": 8,
       "language": "TypeScript",
       "createdDaysAgo": 5
