@@ -190,16 +190,6 @@
     "fetchedAt": "2026-06-27"
   },
   {
-    "source": "少数派",
-    "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
-    "summary": "OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。 查看全文",
-    "url": "https://sspai.com/post/111476",
-    "published": "Thu, 25 Jun 2026 08:51:49 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
-  },
-  {
     "source": "创业邦",
     "title": "融资丨念象科技完成近千万元天使轮融资",
     "summary": "2026年6月，念象新创（上海）科技有限公司宣布完成近千万元人民币天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投。募集资金将主要用于产品研发、团队扩建，以及面向本土手部操作场景的sEMG（表面肌电）数据集建设。 念象科技成立于2025年底，是一家专注于非侵入式神经接口技术的早期科技公司，致力于构建面向下一代人机交互和具身智能数据采集的新型入口。 念象科技（AgiPhant）由海归博士团队创立，聚焦非侵入式神经接口技术在人机交互与具身智能领域的产业化应用。公司首款核心产品Omniband是一款腕戴式表面肌电神经接口设备，通过采集手腕处的神经肌肉电信号，解析用户手部运动意图、连续动态手势及肌肉发力变化，可支持隔空操控、空中手写等隐形键鼠式交互方式，为AI眼镜、空间计算设备及移动终端提供低负担、私密化、无接触的新型输入方式。 在产品形态之外，念象科技将高精度手部运动数据视为长期价值方向。团队围绕手部姿态、肌肉发力、物体交互等多维标签，建设面向本土手部操作场景的大规模sEMG数据集，并结合第一人称视角视频数据，为具身智能、Physical AI 与世界模型训练提供可规模化的数据采集",
@@ -420,16 +410,6 @@
     "fetchedAt": "2026-06-27"
   },
   {
-    "source": "钛媒体",
-    "title": "大模型榜单，能不能信？",
-    "summary": "榜单分数高，却看不出谁更好用。",
-    "url": "https://www.tmtpost.com/8043209.html",
-    "published": "Sat, 27 Jun 2026 09:22:46 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜GPT-5.6正式亮相，但你可能还用不了/微软将上调Xbox主机价格/大疆回应Pocket 4P开售秒空",
     "summary": "· 曝苹果跳过 M6 Pro/Max，M7 系列直接主打 AI 性能 · 删除好友后朋友圈互动还在吗？微信公布显示逻辑 · 何小鹏：年底自动驾驶可合法进入全球市场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -491,6 +471,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "published": "Sat, 27 Jun 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "published": "Sat, 27 Jun 2026 12:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "TechCrunch",
     "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
     "summary": "Mesh came out of stealth in February with a $50 million Series A.",
     "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
@@ -535,26 +535,6 @@
     "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
     "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
     "published": "Fri, 26 Jun 2026 13:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Polymarket says hackers stole users’ funds",
-    "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
-    "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-    "published": "Thu, 25 Jun 2026 19:58:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-27"
@@ -841,10 +821,20 @@
   },
   {
     "source": "The Verge",
-    "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
-    "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As an example, the 13-inch […]",
-    "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-    "published": "2026-06-26T15:42:52-04:00",
+    "title": "Inside the room where the smart home industry is still betting on Matter",
+    "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, […]",
+    "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+    "published": "2026-06-27T09:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Find support for your ProductHunt launch from fellow founders",
+    "summary": "LaunchPact matches you with founders launching near your date. Form mutual pacts, show up for each other on launch day, and climb the Product Hunt rankings together. Comments URL: https://news.ycombinator.com/item?id=48699602 Points: 1 # Comments: 0",
+    "url": "https://www.launchpact.io",
+    "published": "Sat, 27 Jun 2026 16:30:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-27"
@@ -902,7 +892,7 @@
   {
     "source": "Hacker News",
     "title": "SpaceX plans to launch Starlink mobile service in the US",
-    "summary": "Article URL: https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=48688949 Points: 55 # Comments: 1",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=48688949 Points: 57 # Comments: 1",
     "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
     "published": "Fri, 26 Jun 2026 16:59:47 +0000",
     "lang": "en",
@@ -1030,30 +1020,6 @@
     "fetchedAt": "2026-06-27"
   },
   {
-    "source": "Hacker News",
-    "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
-    "summary": "Article URL: https://gptzero.me/news/preserving-whats-human/ Comments URL: https://news.ycombinator.com/item?id=48664229 Points: 2 # Comments: 0",
-    "url": "https://gptzero.me/news/preserving-whats-human/",
-    "published": "Wed, 24 Jun 2026 18:56:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
-  },
-  {
-    "source": "微博",
-    "title": "#曝苹果芯片成本涨45售价狂加250美元#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23曝苹果芯片成本涨45售价狂加250美元%23",
-    "published": "2026-06-27",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-27",
-    "meta": {
-      "hotValue": 219245,
-      "rank": 44
-    }
-  },
-  {
     "source": "V2EX",
     "title": "抽 5 个智友社的 GPTPLUS 稳定渠道成品号（满月测试稳定度 99% ）",
     "summary": "开奖时间： 20260630 24 时 00 分 00 秒 抽奖工具： 用的 V 友 shoa 的开源项目： https://github.com/wcwac/v2ex-lottery ，在此感谢 shoa ！ 回复内容： 聊聊您最近看的有意思的书 欢迎您加入： 我们的官方 QQ 开放交流群：232793604 我们的官方 TG 开放交流群： https://t.me/+fzIWsUSbcq1kMDYx 我们的官方 店铺地址： https://pay.ldxp.cn/shop/282D9KDL",
@@ -1063,7 +1029,7 @@
     "type": "community",
     "fetchedAt": "2026-06-27",
     "meta": {
-      "replies": 46,
+      "replies": 86,
       "node": "推广"
     }
   },
@@ -1077,9 +1043,41 @@
     "type": "signal",
     "fetchedAt": "2026-06-27",
     "meta": {
-      "stars": 2173,
-      "forks": 220,
+      "stars": 2210,
+      "forks": 221,
       "language": "HTML",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "deepseek-ai/DeepSpec",
+    "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+    "url": "https://github.com/deepseek-ai/DeepSpec",
+    "published": "2026-06-26T12:36:05Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-27",
+    "meta": {
+      "stars": 1260,
+      "forks": 104,
+      "language": "Python",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "bikini/exploitarium",
+    "summary": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always f",
+    "url": "https://github.com/bikini/exploitarium",
+    "published": "2026-06-23T05:14:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-27",
+    "meta": {
+      "stars": 1122,
+      "forks": 232,
+      "language": "Python",
       "createdDaysAgo": 4
     }
   }
