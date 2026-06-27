@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+    "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。 6月26日，储能公司大秦数字能源向港交所递交了上市申请。 2025年，大秦数字能源收入 25.25亿元，同比增长244.3% ；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利 1.25亿 。一家刚从“亏损”爬出来的公司，转头就来敲港交所的门了。 大秦数字能源的毛利率，怎么会在2024年做到-19.9%？硬氪从368页招股书里进行了一一拆解。 锂价豪赌失败，最高位疯狂囤货导致爆亏 故事的起点要回到2022年。当时碳酸锂价格在历史高位——按公开数据，2023年初电池级碳酸锂还在每吨50万元上。大秦在这个价位上大量采购电芯，并用这批高价电芯，于2022到2025年间生产了 28.4万台户用ESS电池",
+    "url": "https://36kr.com/p/3871109381035011?f=rss",
+    "published": "2026-06-27 15:37:59  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
     "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
     "summary": "作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。 从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。 物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37% 过去几年，行业花了大量精力把车上的事“看见”。位置、温度、驾驶行为、货物状态等环节的数字化程度相对成熟。其中，G7易流于2025年发布的AI主机“紫宝盒”便是这一阶段的产品之一，目前累计服务超150家客户，装车超万台。 但G7易流创始人兼CEO翟学魂在穿戴式AI硬件拍拍豆的发布会上直言：“如果货还在车上，这件事还没有结束。真正最有价值的事情，是要把货交给客户——交给客户必须得下车。” G7易流创始人兼CEO翟学魂（图源/企业）",
     "url": "https://36kr.com/p/3869740772316162?f=rss",
@@ -91,30 +101,90 @@
   },
   {
     "source": "36氪",
-    "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
-    "summary": "文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。 半年后，基点对质疑声的回应，是数千万元的在手订单。 戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番 ，订单合同金额较半年前提升了一个数量级， AI 解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等 10 多个行业。 伴随订单而来的，基点起源 半年内完成3轮融资，融资金额数亿元 。《智能涌现》独家获悉，国科投资、电控产投、上海半导体产投、建投投资、鑫和达、崇麟资本与硬核坚果资本，押注基点起源发展。 戴宗宏，AI To B 领域的“老炮”。他曾是“AI 六小虎”零一万物的联创，此前曾担任华为云 AI CTO，落地过数百个定制化项目。 他曾告诉《智能涌现》，所谓的“定制化”，就是将企业沉淀在专家、业务数据中的 Know-How，人为建模成一套工作流。 梳理复杂的数据、知识，也正是传统定制化“脏”、“累”所在之处。而大模型推理能力的跃升，让戴宗宏看到了改变定制化",
-    "url": "https://36kr.com/p/3869445453305090?f=rss",
-    "published": "2026-06-26 13:36:55  +0800",
+    "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+    "summary": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功率器件低端产能的出清，市场份额将向具备IDM全链条能力或与上游深度绑定，且涉足高景气赛道的头部芯片企业集中。（财联社）",
+    "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+    "published": "2026-06-27 17:23:40  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-27"
   },
   {
     "source": "36氪",
-    "title": "国家统计局：1—5月份电子行业利润同比增长103.9%",
-    "summary": "财联社6月27日电，国家统计局工业司首席统计师于卫宁解读2026年1—5月份工业企业利润数据。于卫宁表示，电子行业支撑作用明显。1—5月份，规模以上装备制造业利润同比增长14.1%，拉动全部规模以上工业企业利润增长5.2个百分点。从行业看，全球人工智能技术变革带来高端算力芯片和存储芯片需求爆发，推动电子行业利润高速增长，1—5月份，电子行业利润增长103.9%，对全部规模以上工业企业利润增长的贡献率达43.1%，是规模以上工业企业利润较快增长的重要支撑。（财联社）",
-    "url": "https://36kr.com/newsflashes/3870821042312192?f=rss",
-    "published": "2026-06-27 10:42:47  +0800",
+    "title": "具身世界模型“我悟”通过合规备案",
+    "summary": "6月26日，北京人形机器人创新中心慧思开物平台的双大脑模型天鹕（Pelican-VL）和我悟（WoW）同步完成北京市网信办最新一批生成式人工智能服务备案。北京人形将正式启动慧思开物全系列模型Token服务，计划分阶段面向产业客户、科研机构、开发者全面开放API调用能力。（界面新闻）",
+    "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+    "published": "2026-06-27 17:21:55  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-27"
   },
   {
     "source": "36氪",
-    "title": "杭州新剑机电传动股份有限公司创业板IPO获受理",
-    "summary": "36氪获悉，杭州新剑机电传动股份有限公司创业板IPO获受理。",
-    "url": "https://36kr.com/newsflashes/3869958230349062?f=rss",
-    "published": "2026-06-26 20:05:05  +0800",
+    "title": "主力资金大调仓，超267亿元撤出“易中天”",
+    "summary": "6月27日，本周（6月22日—26日），A股市场震荡调整。截至6月26日收盘，上证指数、深证成指、创业板指本周分别累计下跌1.55%、1.55%、1.37%，科创50指数本周累计大涨6.32%。资金面上，本周沪深两市主力资金合计净流出2169.35亿元。主力资金大幅流出科技股，本周“易中天”（新易盛、中际旭创、天孚通信）合计被抛售超267亿元。本周主力资金净流出方面，中际旭创净流出137.80亿元，位居首位。胜宏科技净流出81.61亿元；东山精密、天孚通信、光迅科技均净流出超70亿元；华工科技净流出62.67亿元；新易盛、铜冠铜箔均净流出超50亿元；中天科技、宁德时代均净流出超35亿元。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3871211760882689?f=rss",
+    "published": "2026-06-27 17:20:14  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
+    "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
+    "summary": "当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBook Pro将在今年晚些时候或2027年初发布，首发搭载现役M5 Pro及M5 Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6 Pro及M6 Max直接推出M7系列的计划相吻合。苹果跳过高端M6芯片的决策被认为与内存短缺导致的成本压力密切相关，苹果本周已因此宣布上调Mac及iPad产品售价。（界面新闻）",
+    "url": "https://36kr.com/newsflashes/3871135669048322?f=rss",
+    "published": "2026-06-27 16:02:50  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
+    "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+    "summary": "据英国《金融时报》27日报道，六位知情人士透露，为缓解内存芯片涨价带来的成本压力，苹果公司正向美国政府游说，希望获批采购中国半导体企业长鑫存储(CXMT)的内存芯片。（中新经纬）",
+    "url": "https://36kr.com/newsflashes/3871131045876995?f=rss",
+    "published": "2026-06-27 15:58:08  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
+    "title": "马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh",
+    "summary": "美国联邦贸易委员会（FTC）当地时间6月25日批准马斯克收购Mesh Optical Technologies Corporation。Mesh Optical Technologies由三位前SpaceX工程师特拉维斯·布拉谢尔斯（Travis Brashears）、卡梅隆·拉莫斯（Cameron Ramos）及赛琳娜·格罗文-哈伯利（Serena Grown-Haeberli）创立，三人此前曾在SpaceX主导设计星链卫星激光星间链路系统。公司于今年2月从隐身模式浮出水面，完成由Thrive Capital领投的逾5000万美元A轮融资。Mesh的核心产品为Alpha C1光学收发器，传输速率达1.6Tbps，采用倒装芯片键合工艺制造，以光信号替代传统铜缆在服务器与GPU之间传输数据，可大幅降低延迟与能耗。（界面新闻）",
+    "url": "https://36kr.com/newsflashes/3871125571802116?f=rss",
+    "published": "2026-06-27 15:52:34  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
+    "title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
+    "summary": "6月27日，2026年6月26日，领益智造、圣邦股份、芯碁微装三家A股龙头企业同步登陆港交所主板，成为2026年上半年A+H上市潮的收官之作。今年以来，A股企业“扎堆”赴港上市已成蔚然之势。据Wind统计，上半年总共有24家A股上市公司成功发行H股，合计募资规模突破1200亿港元，创下历史同期新高。更为引人注目的是，在今年港股首发募资前十大IPO名单中，A+H企业独占8席，展现出龙头企业跨境融资的强劲动能。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3871124521620485?f=rss",
+    "published": "2026-06-27 15:51:30  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
+    "title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
+    "summary": "6月27日消息，高通公司执行副总裁杜尔加·马拉迪表示，公司计划将本周新发布的数据中心芯片技术应用于智能手机，以提升移动设备本地AI运行能力。高通新推出的高带宽计算（HBC）架构采用芯片垂直堆叠设计，将内存与计算单元紧密集成，可显著提升数据传输速度与效率。该架构第一代产品将于明年在数据中心推出，预计2028年实现商业化供货。马拉迪表示，“数据中心的技术不会止步于此”，公司目前正与智能手机、个人电脑及汽车制造商就相关技术展开洽谈。（界面新闻）",
+    "url": "https://36kr.com/newsflashes/3871117388174336?f=rss",
+    "published": "2026-06-27 15:44:14  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "36氪",
+    "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+    "summary": "6月27日，今年前5个月，我国机电产品出口额7.58万亿元，占我国出口总值的比重达到63.6%。自2025年3月起，连续15个月刷新同期月度最高值。记者在浙江嘉兴的一家工厂看到，这里有近1000台织布机正在织布，它是人工智能服务器中的电子布。电子布，是电子信息产业当中的关键材料。随着算力需求爆发，电子布需求也随之增加。企业车间里，产线24小时满产运行。今年以来，和算力有关的相关产品加速出海。在武汉，光模块的生产线同样24小时不停机。随着全球算力基础设施建设加速推进，今年以来，这家企业800G以上光模块出口同比增长超过100倍。数据显示，今年以来，人工智能产业链相关产品贡献了机电产品出口增量的五成以上，成为重要拉动力。 (央视财经)",
+    "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+    "published": "2026-06-27 15:28:44  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-27"
@@ -301,6 +371,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布",
+    "summary": "（5月22日-27日）AI推动HBM供不应求，美光预计供应紧张将持续至2027年以后；华为汪涛：2030年全球各类智能体将突破千亿规模，2040年或达万亿规模；字节新一代豆包手机供应链信息曝光，发布时间或延迟；英伟达宣布Vera Rubin NVL4系统Q4起供货；Groq完成6.5亿美元融资，加速扩建AI推理云并目标2027年底达200兆瓦；IDC：到2027年推理将占智能算力需求70%以上...",
+    "url": "https://www.tmtpost.com/8043821.html",
+    "published": "Sat, 27 Jun 2026 16:44:14 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "高端新能源正在占领市场，但老问题还在",
+    "summary": "配置内卷，或许在透支未来产品的创新空间。",
+    "url": "https://www.tmtpost.com/8043657.html",
+    "published": "Sat, 27 Jun 2026 15:40:34 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "钛媒体",
     "title": "新型能源体系建设“十五五”规划里，藏着哪些容易被忽略的商机？",
     "summary": "“十五五”新型能源体系规划，给新能源行业留下的最大命题是，增长将以什么方式发生，利润将流向哪些环节，作为新能源企业，又该选择什么样的站位。",
     "url": "https://www.tmtpost.com/8043436.html",
@@ -340,11 +430,11 @@
     "fetchedAt": "2026-06-27"
   },
   {
-    "source": "钛媒体",
-    "title": "中国新能源车卷出“FUV元年”",
-    "summary": "驾乘体验比概念重要。",
-    "url": "https://www.tmtpost.com/8043073.html",
-    "published": "Sat, 27 Jun 2026 09:00:22 +0800",
+    "source": "爱范儿",
+    "title": "早报｜GPT-5.6正式亮相，但你可能还用不了/微软将上调Xbox主机价格/大疆回应Pocket 4P开售秒空",
+    "summary": "· 曝苹果跳过 M6 Pro/Max，M7 系列直接主打 AI 性能 · 删除好友后朋友圈互动还在吗？微信公布显示逻辑 · 何小鹏：年底自动驾驶可合法进入全球市场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1670246?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Sat, 27 Jun 2026 00:30:30 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-27"
@@ -761,6 +851,36 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: Waitlio – The waitlist software for your next launch",
+    "summary": "Article URL: https://waitlio.com Comments URL: https://news.ycombinator.com/item?id=48696505 Points: 1 # Comments: 1",
+    "url": "https://waitlio.com",
+    "published": "Sat, 27 Jun 2026 09:04:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Should you join the Antler startup incubator program? It depends (2025)",
+    "summary": "Article URL: https://developerwithacat.com/blog/062025/join-antler-startup/ Comments URL: https://news.ycombinator.com/item?id=48695748 Points: 2 # Comments: 4",
+    "url": "https://developerwithacat.com/blog/062025/join-antler-startup/",
+    "published": "Sat, 27 Jun 2026 06:35:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s",
+    "summary": "Article URL: https://openclawlaunch.com Comments URL: https://news.ycombinator.com/item?id=48695480 Points: 1 # Comments: 1",
+    "url": "https://openclawlaunch.com",
+    "published": "Sat, 27 Jun 2026 05:37:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-06-27"
+  },
+  {
+    "source": "Hacker News",
     "title": "Linux Foundation and Others Launch Akrites Defend Open-Source from AI Exploits",
     "summary": "Article URL: https://www.phoronix.com/news/Akrites Comments URL: https://news.ycombinator.com/item?id=48691908 Points: 2 # Comments: 1",
     "url": "https://www.phoronix.com/news/Akrites",
@@ -782,7 +902,7 @@
   {
     "source": "Hacker News",
     "title": "SpaceX plans to launch Starlink mobile service in the US",
-    "summary": "Article URL: https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=48688949 Points: 54 # Comments: 1",
+    "summary": "Article URL: https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=48688949 Points: 55 # Comments: 1",
     "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
     "published": "Fri, 26 Jun 2026 16:59:47 +0000",
     "lang": "en",
@@ -920,34 +1040,32 @@
     "fetchedAt": "2026-06-27"
   },
   {
-    "source": "Hacker News",
-    "title": "Forensic Analysis: Hal Finney Missed the Bitcoin Launch",
-    "summary": "Article URL: https://twitter.com/raw_avocado/status/2069786136998785412 Comments URL: https://news.ycombinator.com/item?id=48663540 Points: 2 # Comments: 1",
-    "url": "https://twitter.com/raw_avocado/status/2069786136998785412",
-    "published": "Wed, 24 Jun 2026 18:05:22 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#曝苹果芯片成本涨45售价狂加250美元#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23曝苹果芯片成本涨45售价狂加250美元%23",
+    "published": "2026-06-27",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-06-27"
+    "fetchedAt": "2026-06-27",
+    "meta": {
+      "hotValue": 219245,
+      "rank": 44
+    }
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: Screen recording your crappy startup",
-    "summary": "Hi HN. I've been recording various startups for YouTube after they ask for it and I review it and give my honest opinion and show the difficulties I have in using some of the websites. Some of the websites are not bad at all and they're they get good reviews. I would like you to take a look at my YouTube and also post your link here if you want me to review it. Comments URL: https://news.ycombinator.com/item?id=48663527 Points: 3 # Comments: 1",
-    "url": "https://www.youtube.com/channel/UC2DA9fAIEVtAhy_1TdQDLHQ",
-    "published": "Wed, 24 Jun 2026 18:04:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Product Market fit the startup's north star [video] [audio]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=q7Eytndnac0 Comments URL: https://news.ycombinator.com/item?id=48661912 Points: 2 # Comments: 2",
-    "url": "https://www.youtube.com/watch?v=q7Eytndnac0",
-    "published": "Wed, 24 Jun 2026 16:02:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-27"
+    "source": "V2EX",
+    "title": "抽 5 个智友社的 GPTPLUS 稳定渠道成品号（满月测试稳定度 99% ）",
+    "summary": "开奖时间： 20260630 24 时 00 分 00 秒 抽奖工具： 用的 V 友 shoa 的开源项目： https://github.com/wcwac/v2ex-lottery ，在此感谢 shoa ！ 回复内容： 聊聊您最近看的有意思的书 欢迎您加入： 我们的官方 QQ 开放交流群：232793604 我们的官方 TG 开放交流群： https://t.me/+fzIWsUSbcq1kMDYx 我们的官方 店铺地址： https://pay.ldxp.cn/shop/282D9KDL",
+    "url": "https://www.v2ex.com/t/1223284",
+    "published": 1782533907,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-06-27",
+    "meta": {
+      "replies": 46,
+      "node": "推广"
+    }
   },
   {
     "source": "GitHub新星",
@@ -959,8 +1077,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-27",
     "meta": {
-      "stars": 2158,
-      "forks": 219,
+      "stars": 2173,
+      "forks": 220,
       "language": "HTML",
       "createdDaysAgo": 4
     }
