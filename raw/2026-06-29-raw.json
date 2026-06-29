@@ -1,6 +1,66 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+    "summary": "大公司： 蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家 36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。 中国移动确认设立Token办公室 6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从中国移动方面获悉，中国移动确实成立了Token办公室，但其余网传内容，如“Token 办公室级别更高，由集团核心领导直接挂帅”等则未获确认。（每日经济新闻） 英伟达支持的Firmus与DayOne将在印尼建造AI数据中心园区 由英伟达支持的数据中心运营商Firmus将在印尼建设一座AI数据中心园区。该公司表示，该项目将在前六年内带来价值高达300亿美元的协议。澳大利亚企业Firmus在一份声明中宣",
+    "url": "https://36kr.com/p/3873626425332743?f=rss",
+    "published": "2026-06-29 19:00:26  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-29"
+  },
+  {
+    "source": "36氪",
+    "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+    "summary": "作者｜黄楠 编辑｜袁斯来 近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品， 一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设备基于对话、观看等功能交互，而抚摸、按压、揉捏等人类原始的感知与表达方式，在陪伴类产品中鲜少被真正回应。 柔性电子皮肤技术的成熟正在改变这一局面。 Moxy摸喜的核心技术支撑，源于其团队自主研发的离电型触觉传感系统。相较于传统压阻式或电容式方案，离电型传感器利用离子在微压力下产生的界面电容变化，具备高灵敏度与高信噪比，对微小力极为敏感，同时能在宽量程内保持线性输出。加上材料本身柔软可拉伸，可以像“第二层皮肤”般贴合各类曲面。 Moxy AI陪伴机器人（图源/企业） 具体到Moxy的产品落地，这套传感系统具备超柔性、超高灵敏度、大量程、毫秒级快速响应四大特性。传感单元完整覆盖玩偶全身曲面，即便隔着厚实毛绒，也能精",
+    "url": "https://36kr.com/p/3874015941645570?f=rss",
+    "published": "2026-06-29 18:49:39  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-29"
+  },
+  {
+    "source": "36氪",
+    "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+    "summary": "“每一代模型，我们都在押注一个非共识。” 文｜邓咏仪 编辑｜张雨忻 Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。 Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。 彼时，市场的主流叙事是 Diffusion 路线，几乎没有人认为曹越选择的自回归（Autoregressive）路线是一种正解。 而在2025年初，发布基于自回归架构训练的模型 Magi-1 后，曹越很快意识到“只有画面是不够的”，于是团队开始探索音画同出。后来，Sand.ai 成为了除了Google VEO 3之外最早拿出音画同出模型的团队，Magi-1也在 Google DeepMind 的 Physics IQ benchmark 上长期保持第一。 2025年11月，曹越又下了一个赌注：决定带着团队将模型架构从 Dense 转向MoE，“那个时间点，国内应该几乎没有什么视频公司在全力推进这件事。” “发布音画同出模型 Gaga-1 之后我们发",
+    "url": "https://36kr.com/p/3873965241931014?f=rss",
+    "published": "2026-06-29 16:04:11  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-29"
+  },
+  {
+    "source": "36氪",
+    "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+    "summary": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据， 2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40% 。 其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。 2020年前，中国CGM市场几乎被外资品牌垄断。从2021年首款国产产品获批到如今，国产品牌在国内的市场份额不仅快速增长，甚至开始在欧洲等海外市场与国际巨头正面交锋。 专注糖尿病管理类医疗器械产品研发的微泰医疗是CGM出海浪潮中的典型代表，也是CGM厂商中少数同时拥有胰岛素泵和CGM产品的企业。 2025年，微泰医疗实现营收6.61亿元，同比增长91.20%，净利润4015万元，实现首次盈利 。 增长背后更值得关注的是微泰医疗海外业务的快速放量， 2025年海外收入达到3.43亿元，同比大增227.20%，规模首次超过国内收入 。 1.从治疗到监测覆盖糖尿病管理品类 以往糖尿病人使用的传统胰岛素泵主要为管路式，需要随身携带",
+    "url": "https://36kr.com/p/3873902389794053?f=rss",
+    "published": "2026-06-29 15:02:23  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-29"
+  },
+  {
+    "source": "36氪",
+    "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。 宸思科技成立于2020年，总部位于广州黄埔区，聚焦数字相控阵芯片及模组研发，具备“芯片+模组+产品”的垂直整合能力，可为低空经济、卫星互联网、雷达、测控通信数据链等场景提供定制化解决方案。 近年，随着低空经济、卫星互联网等产业快速发展，数字相控阵技术正迎来新的市场机遇。相比传统模拟相控阵， 数字相控阵能够实现更灵活的波束控制、更高的系统性能和更强的智能化能力，被认为是下一代雷达与无线通信系统的重要发展方向 ，相关市场规模达到千亿元级别。 而数字波束形成（DBF）芯片，则是数字相控阵系统中的核心处理单元 ，负责连接ADC、DAC等关键器件，并承担整个通信链路的波束形成与控制任务，也是整个数字相控阵产业链中技术门槛最高的环节之一。 宸思科技较早布局DBF芯片研发，并于2025年实现产品量产。 相比传统以多颗FPGA搭建的方案，DBF芯片在成本、功耗、体积和系统智能化方面均具",
+    "url": "https://36kr.com/p/3873806295274756?f=rss",
+    "published": "2026-06-29 13:20:38  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-29"
+  },
+  {
+    "source": "36氪",
+    "title": "被健康家电「背刺」后，这届年轻人更会买了",
+    "summary": "那些年，我们交过的“健康”智商税 马上就要撞到墙了。 王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般往前猛窜。 在极其危险的几秒里，王焱以为这款车在发布会上被吹上天的风险预警与瞬间干预能立刻奏效。然而，智驾系统一片死寂，没有任何警报声，更没有主动刹停的迹象。最终，还是王焱靠着本能反应，死死地踩住了刹车，在距离墙面几十厘米的地方，把车刹停了。 惊魂未定之余，一种对品牌过度营销的反感，从王焱心底蔓延。 实际体验和宣传效果大相径庭，他走下车，把这个品牌也顺势拉进了心里的“黑名单”，“你就当我买不起好了，反正你这么大品牌也不缺我一个。”王焱吐槽道。 也是从那时起，王焱长了个记性：凡是吹得天花乱坠的产品，一律不买。 不光买车是这样，这种 “夸大宣传、实物拉胯” 的套路早已渗透到各类消费品中。 尤其在近几年，年轻人开始向内寻求生活品质，把注意力从“看起来体面”转向“住得舒服安心”，家庭环境健康因此被频繁提及。健康家电也开始逐渐进入大众视野，大家在产品选购上依然更愿意相",
+    "url": "https://36kr.com/p/3873786445813001?f=rss",
+    "published": "2026-06-29 12:59:48  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-06-29"
+  },
+  {
+    "source": "36氪",
     "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
     "summary": "作者 | 张子怡 编辑 | 袁斯来 近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。 本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等贴身可穿戴产品为起点，面向全球市场构筑融合健康感知、自然交互与AI健康服务的新一代消费科技品牌。 当前，消费者的健康需求正从单纯的运动记录，逐渐向睡眠、压力管理等长期的身体状态监测转移，在海外市场，已经跑出Oura和Whoop两家估值超百亿美元的头部企业，分别主打长期的医疗级健康监测和硬核的体能训练指导。 研究机构Precedence Research预测，到2034年，全球智能可穿戴市场的整体规模将超过4300亿美元，复合年增长率（CAGR）约为20%。 在连续创业过程中，AIVELA创始人兼CEO李东豪曾因高压工作节奏产生严重睡眠问题，并因此成为智能指环的早期用户。这段经历成为他创业契机。 在使用智能戒指的过程中，李东豪意识到，健康并不只是运动能力的提升",
     "url": "https://36kr.com/p/3873710996902912?f=rss",
@@ -32,7 +92,7 @@
   {
     "source": "36氪",
     "title": "36氪首发 | 「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资",
-    "summary": "作者 | 钟艺璇 36氪获悉，商用全自动咖啡机品牌「CAYE咖爷科技」已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。 CAYE咖爷是36氪持续关注的公司，该公司成立于2022年12月，围绕自研 Bionic Barista 仿生咖啡师系统，CAYE咖爷对咖啡研磨、粉重控制、布粉填压、加压萃取等核心工艺进行重新设计，重新定义商用全自动咖啡机。 目前，CAYE咖爷的咖啡机产品已经进入精品连锁咖啡、商业连锁咖啡门店，其中不乏国内知名咖啡连锁品牌。CAYE咖爷还在同步拓展海外市场，产品已经覆盖全球80多个国家和地区。 回到一杯咖啡最基础的问题：食品安全 过去几年，中国咖啡行业高速增长，但对于上游设备而言，行业讨论更多围绕成本、效率与自动化，很少有人重新追问一个更基础的问题：一杯咖啡，到底够不够安全？ 事实上，目前多数定位中低端的商用咖啡机为压缩生产成本，核心冲泡模组选用低成本的POM塑料，在商用场景高温、高压、高频次出杯的强度下，塑料部件极易老化水解，不仅增加售后更换成本，同时可能会持续析出有害",
+    "summary": "作者 | 钟艺璇 36氪获悉，商用全自动咖啡机品牌「CAYE咖爷科技」已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投、嘉宾资本等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。 CAYE咖爷是36氪持续关注的公司，该公司成立于2022年12月，围绕自研 Bionic Barista 仿生咖啡师系统，CAYE咖爷对咖啡研磨、粉重控制、布粉填压、加压萃取等核心工艺进行重新设计，重新定义商用全自动咖啡机。 目前，CAYE咖爷的咖啡机产品已经进入精品连锁咖啡、商业连锁咖啡门店，其中不乏国内知名咖啡连锁品牌。CAYE咖爷还在同步拓展海外市场，产品已经覆盖全球80多个国家和地区。 回到一杯咖啡最基础的问题：食品安全 过去几年，中国咖啡行业高速增长，但对于上游设备而言，行业讨论更多围绕成本、效率与自动化，很少有人重新追问一个更基础的问题：一杯咖啡，到底够不够安全？ 事实上，目前多数定位中低端的商用咖啡机为压缩生产成本，核心冲泡模组选用低成本的POM塑料，在商用场景高温、高压、高频次出杯的强度下，塑料部件极易老化水解，不仅增加售后更换成本，同时可能会持",
     "url": "https://36kr.com/p/3872276297618436?f=rss",
     "published": "2026-06-29 10:18:44  +0800",
     "lang": "zh",
@@ -41,150 +101,30 @@
   },
   {
     "source": "36氪",
-    "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
-    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创投、上海创智学院等。光源资本担任独家财务顾问。 本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭建，加速在今年内实现开源人形基座模型落地。 源策未来成立于2026年4月，研发总部位于上海市徐汇区漕河泾开发区。公司专注研发通用全身人形基座模型，构建全身智能（Whole-body Intelligence），为人形机器人提供类人全身移动操作的能力，以加快实现具身智能走入千家万户。 创始人李弘扬博士现任香港大学助理教授、计算与数据科学学院助理院长、上海创智学院导师。他主导的端到端自动驾驶项目UniAD获CVPR 2023最佳论文，是近十年来大陆学术机构唯一获此奖项的工作；2026年获机器人领域国际顶会RSS Early Career Award，成为这一奖项设立20年来的首位华人学者。 联合创始人兼",
-    "url": "https://36kr.com/p/3868055841641476?f=rss",
-    "published": "2026-06-29 09:27:07  +0800",
+    "title": "赣锋锂业：控股子公司赣锋锂电完成20亿元增资扩股",
+    "summary": "36氪获悉，赣锋锂业公告，控股子公司赣锋锂电引入工银金融资产投资有限公司、兴银金融资产投资有限公司、工融金投六号（天津）股权投资基金有限公司作为投资人，按3元/1元注册资本增资合计20亿元。截至公告日，赣锋锂电已完成工商变更登记，公司仍持有其64.52%股权。",
+    "url": "https://36kr.com/newsflashes/3874123337323525?f=rss",
+    "published": "2026-06-29 18:50:59  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
   },
   {
     "source": "36氪",
-    "title": "中国卖家涌向拉美：高增长与合规门槛齐升丨最前线",
-    "summary": "作者丨欧雪 编辑丨袁斯来 6月26日，亚马逊全球开店在杭州宣布推出“拉美速通计划”，计划在2026年内面向3000个具备长期投入意愿的中国品牌，提供巴西本土公司注册协助、墨西哥RFC税号解决方案、最高12000美元补贴及物流费用减免等支持，帮助卖家全面扎根拉美市场。 拉美正在成为跨境电商的新热土。据eMarketer数据，2025年拉美零售电商市场规模接近1900亿美元，增速是全球平均水平的1.5倍，其中巴西和墨西哥贡献了绝大部分销售额。 亚马逊数据也印证了这一增长趋势：2026年第一季度，新上线巴西和墨西哥站点的中国卖家销售额是去年同期的2倍以上；墨西哥Hot Sale大促期间，这一数字达到4倍以上。2025年，在这两个站点销售额超百万美元的中国卖家数量接近2023年的2倍。 盖世小鸡（GameSir）COO赵伟林在采访中表示，公司2022年从欧美转向拉美后，巴西和墨西哥市场增速远超预期，“在巴西完成本地化布局后，销量直接翻了几倍”。IMOU乐橙自2025年入驻亚马逊墨西哥站，其海外电商总监袁维桂透露，今年Prime Day首日销量实现了6倍增长。 对于已进入拉美的卖家而言，本地化已",
-    "url": "https://36kr.com/p/3873539789034501?f=rss",
-    "published": "2026-06-29 08:49:00  +0800",
+    "title": "珠海冠宇：持股5%以上股东宁波汇锦诚拟减持不超2%公司股份",
+    "summary": "36氪获悉，珠海冠宇公告，公司持股5%以上股东宁波汇锦诚创业投资合伙企业（有限合伙）因自身经营管理需要，计划自2026年7月22日起至2026年10月21日止，通过集中竞价交易和大宗交易方式减持公司股份不超过2276.56万股，即不超过公司总股本的2%。",
+    "url": "https://36kr.com/newsflashes/3874086392419586?f=rss",
+    "published": "2026-06-29 18:10:23  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
   },
   {
-    "source": "36氪",
-    "title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
-    "summary": "今日热点导览 《给阿嬷的情书》总票房已突破19亿元 梁文锋署名，DeepSeek发布最新论文 WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能 触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max 美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查 TOP 3大新闻 韩国将于6月29日宣布三星、SK集团的多个大型项目 韩国将于6月29日宣布“三大工程”计划，韩国总统李在明将与政府各部门、三星电子和SK的官员会面，并发布政策和投资公告。李在明将于下午2点在总统府青瓦台发表讲话，届时韩国产业通商部、科学技术信息通信部、气候能源环境部和国土交通部将公布三大工程的政策。三星电子和SK将发布企业投资计划，据报道，两家企业未来十年的总投资规模最高或达2000万亿韩元（折合1.3万亿美元）。将重点布局半导体、AI算力数据中心与物理AI领域。（华尔街见闻、财联社） “超级牛散”章建平新动向，大举减仓江淮汽车 短短4个多月，江淮汽车股价腰斩，知名游资章建平也扛不住了。今年2月12日，葛卫东和章建平的妻子方文艳参与江淮汽车定增，均获配10亿元，定增价4",
-    "url": "https://36kr.com/p/3873476968272902?f=rss",
-    "published": "2026-06-29 07:44:39  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
-    "summary": "文｜贺哲馨 编辑｜乔芊 Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。 提交申请后的第三天，她依旧没有收到邀请消息。 “我还以为填完资料就能进去。”她说。 按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。 “有点像抽签，也有点像开盲盒。 ”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。” Judy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The List是其中最具代表性的玩家之一。这家公司2016年成立于香港，以限时快闪的形式销售奢侈品、设计师品牌和生活方式产品。与传统奥莱不同，它既不拥有品牌，也不经营长期折扣门店，而是直接与品牌合作，在限定时间内销售库存商品。其官网上的一句标语颇具代表性：“The smartest shopping isn't public（最聪明的购物不公开）”。 图片来源：On The List 最近几年，类似这样",
-    "url": "https://36kr.com/p/3867976058803459?f=rss",
-    "published": "2026-06-28 08:37:08  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-    "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。 6月26日，储能公司大秦数字能源向港交所递交了上市申请。 2025年，大秦数字能源收入 25.25亿元，同比增长244.3% ；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利 1.25亿 。一家刚从“亏损”爬出来的公司，转头就来敲港交所的门了。 大秦数字能源的毛利率，怎么会在2024年做到-19.9%？硬氪从368页招股书里进行了一一拆解。 锂价豪赌失败，最高位疯狂囤货导致爆亏 故事的起点要回到2022年。当时碳酸锂价格在历史高位——按公开数据，2023年初电池级碳酸锂还在每吨50万元上。大秦在这个价位上大量采购电芯，并用这批高价电芯，于2022到2025年间生产了 28.4万台户用ESS电池",
-    "url": "https://36kr.com/p/3871109381035011?f=rss",
-    "published": "2026-06-27 15:37:59  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-    "summary": "作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。 从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。 物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37% 过去几年，行业花了大量精力把车上的事“看见”。位置、温度、驾驶行为、货物状态等环节的数字化程度相对成熟。其中，G7易流于2025年发布的AI主机“紫宝盒”便是这一阶段的产品之一，目前累计服务超150家客户，装车超万台。 但G7易流创始人兼CEO翟学魂在穿戴式AI硬件拍拍豆的发布会上直言：“如果货还在车上，这件事还没有结束。真正最有价值的事情，是要把货交给客户——交给客户必须得下车。” G7易流创始人兼CEO翟学魂（图源/企业）",
-    "url": "https://36kr.com/p/3869740772316162?f=rss",
-    "published": "2026-06-27 09:40:53  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "字节跳动考虑合作百度昆仑芯？接近人士回应",
-    "summary": "6月29日，有消息称百度旗下昆仑芯计划赴港上市，腾讯已成为昆仑芯客户，字节跳动亦在考虑采用其AI芯片。今日接近人士回应，字节跳动目前没有和昆仑芯片合作的意向。（第一财经）",
-    "url": "https://36kr.com/newsflashes/3873735817024773?f=rss",
-    "published": "2026-06-29 12:07:50  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "月之暗面声明：未授权任何第三方处理融资交易",
-    "summary": "36氪获悉，月之暗面今日发布严正声明称，近期市场上出现多起假借公司名义传播的不实融资及股权交易信息，部分机构和个人已涉嫌欺诈。月之暗面表示，所有融资活动由公司直接负责，未聘任或授权任何第三方机构作为财务顾问、融资顾问处理任何融资交易，包括新股交易和老股转让交易。公司老股（含普通股、激励股权等）转让必须经内部批准方可进行，未经批准的老股交易一律无效，将拒绝予以任何形式的确权登记，并保留采取一切法律手段追究转让方违约责任的权利。",
-    "url": "https://36kr.com/newsflashes/3873720283600134?f=rss",
-    "published": "2026-06-29 11:52:02  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "华润新能源在玉溪成立新公司，注册资本4291万",
-    "summary": "36氪获悉，天眼查App显示，近日，华润新能源（玉溪）有限公司成立，法定代表人为刘福仁，注册资本4291万人民币，经营范围为发电业务、输电业务、供（配）电业务。股东信息显示，该公司由华润电力新能源投资有限公司全资持股。",
-    "url": "https://36kr.com/newsflashes/3873716693668866?f=rss",
-    "published": "2026-06-29 11:48:23  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "“智莱特”完成新一轮融资",
-    "summary": "36氪获悉，近日，“智莱特”宣布完成新一轮融资，由清华校友、西安西交一八九六资本管理有限公司联合投资。与此同时，与国内人形机器人企业智元创新（上海）科技股份有限公司（简称“智元机器人”）正式签署一体化关节模组长期供货协议。",
-    "url": "https://36kr.com/newsflashes/3873710506693897?f=rss",
-    "published": "2026-06-29 11:42:06  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "A股三大指数午间休盘涨跌不一，医药股走强",
-    "summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.17%，深成指跌1.21%，创业板指跌1.28%；生物科技、制药、白酒板块领涨，万邦医药、广生堂涨停，酒鬼酒涨超7%；建材、能源设备、通信设备板块跌幅居前，山东玻纤、长盈通跌停，杰瑞股份跌超8%。",
-    "url": "https://36kr.com/newsflashes/3873700342142215?f=rss",
-    "published": "2026-06-29 11:31:45  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "“视比特机器人”完成亿元级B++轮融资",
-    "summary": "36氪获悉，近日，“视比特机器人”（SpeedBot Robotics）完成亿元级B++轮融资，本轮融资由达晨财智管理的国家中小湖南子基金、长沙城发联合投资。",
-    "url": "https://36kr.com/newsflashes/3873687295808519?f=rss",
-    "published": "2026-06-29 11:18:29  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "大众汽车计划终止与博世的自动驾驶合作",
-    "summary": "据德国画报援引多名消息人士报导，德国汽车制造商大众汽车计划终止与汽车供应商博世在自动驾驶领域的合作，此举是该公司为削减成本、提升竞争力而采取的更广泛举措的一部分。博世和Cariad发表联合声明称，他们不就市场传闻置评。据报道援引内部消息人士的话称，该项目在投入约15亿欧元（17.1亿美元）后，未能达到预期。该报补充称，内部评估发现该技术目前尚不具备竞争力。报道称，与博世的合作将按照合同条款终止。大众计划从新合作伙伴处采购此类系统的软硬件。目前正在物色替代合作伙伴，计划于9月前签订合同。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3873679239959560?f=rss",
-    "published": "2026-06-29 11:10:17  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "机构：预计到2030年RGB LED电视将占全球电视市场收入的13%",
-    "summary": "36氪获悉，Omdia最新发布的《电视（新兴技术）市场追踪预测》指出，采用独立红、绿、蓝（RGB）LED芯片背光技术的电视，预计到2030年将占全球电视市场收入的13%，较2026年的3%大幅提升。",
-    "url": "https://36kr.com/newsflashes/3873672859669513?f=rss",
-    "published": "2026-06-29 11:03:48  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "36氪",
-    "title": "中国—上海合作组织科技创新合作大会在青岛举行",
-    "summary": "6月29日，首届中国—上海合作组织科技创新合作大会在山东青岛举行。会议期间，发布了中国与上合组织国家间百项科技成果与百项需求、上合组织国家科技创新合作项目集中签约、上合组织成员国青年创新创业大赛等一系列活动。（央视新闻）",
-    "url": "https://36kr.com/newsflashes/3873667680326664?f=rss",
-    "published": "2026-06-29 10:58:32  +0800",
+    "source": "创业邦",
+    "title": "链博会首设AI专区，现存人工智能相关企业超532万家",
+    "summary": "第四届链博会正在北京举行，最大亮点是原\"数字科技链\"升级为\"数智科技链\"，首次设立人工智能专区。英特尔、英伟达、阿里巴巴、科大讯飞等中外领军企业集中展示智能芯片、大模型、行业解决方案等前沿成果，完整呈现从算力底座到应用纵深的产业图景。 AI已不再局限于数智展区，而是渗透至先进制造、智能汽车、清洁能源、健康生活等各条产业链。欧莱雅展示了美妆全链路AI应用，西门子推出Xcelerator平台共创工业AI价值。科大讯飞指出，AI竞争已从单点算法进入\"系统能力竞争\"阶段，正从工具升级为产业基础设施。 中国贸促会副会长李兴乾称本届为\"数智链博会元年\"。从\"数字\"到\"数智\"一字之变，折射出中国数字经济正加速从概念走向量产、从单点走向全链，AI正在重塑全球产业链格局。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的人工智能相关企业超532.3万家。其中，2026年截至目前新增注册相关企业约47.2万余家，从企业注册数量趋势来看，近五年间，人工智能相关企业的注册数量呈现出逐年增长的态势，并在2025年达到顶峰。 从区域分布来看，广东省、北京市、江苏省人工智能相关企业数量位居前列，分别拥有超82",
+    "url": "http://",
+    "published": "Mon, 29 Jun 2026 01:44:15 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
@@ -235,16 +175,6 @@
     "summary": "2026年6月25日，「科辉智药」（Artivila Biopharma)宣布近日成功完成近亿元人民币的A轮融资。本轮融资由松禾资本领投，君熠投资等跟投。本轮融资将主要用于加强研发平台和产品管线建设、公司运营和国际化商务拓展，特别是核心管线的临床开发、适应症拓展及IND申报，为未来的IPO（首次公开募股）申报做好准备。 至此，「科辉智药」累计融资额近4亿元，充分体现了资本市场对公司平台和创新药管线的竞争力及长期成长潜力的高度认可，助力其实现长期战略目标。 未来，「科辉智药」将继续坚持核心技术自主创新，持续深化AI技术与药物研发全流程的深度融合，不断优化靶点发现、分子设计、临床前研究等关键环节的效率与精准度。加速推进现有临床前及临床阶段管线的研发进程，力争早日将更多创新药物推向市场，满足患者未被满足的医疗需求。此外，「科辉智药」还将积极拓展全球合作网络，加强与跨国药企、临床研究机构的协同，借助资本和行业资源，推动产品的国际化布局，为未来IPO奠定坚实基础，最终实现以AI赋能创新药研发、为全球患者带来福音的企业使命。 「科辉智药」创始人、董事长朱振东博士和联合创始人、CEO牛德强博士共同表",
     "url": "http://www.cyzone.cn/article/838007.html",
     "published": "Fri, 26 Jun 2026 03:35:34 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "创业邦",
-    "title": "智元机器人等入股飞阔科技",
-    "summary": "天眼查App显示，近日，杭州飞阔科技有限公司发生工商变更，新增智元机器人关联公司智元创新（上海）科技股份有限公司、共青城慕智合创创业投资合伙企业（有限合伙）、杭州泽蒙投资管理合伙企业（有限合伙）等为股东，同时，注册资本由100万人民币增至107万人民币。 杭州飞阔科技有限公司成立于2024年10月，法定代表人为李洁，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，智能机器人销售，工业机器人销售，智能机器人的研发等。",
-    "url": "http://",
-    "published": "Fri, 26 Jun 2026 03:18:40 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
@@ -361,60 +291,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "大模型战争下半场：谁还愿意一直租用 AI？",
-    "summary": "闭源 API 让 AI 应用更容易启动，也让创业者、企业和国家都开始重新计算代价：账单能不能扛住，数据能不能放心交出去，下一代智能能力又该掌握在谁手里。",
-    "url": "https://www.tmtpost.com/8045011.html",
-    "published": "Mon, 29 Jun 2026 11:30:00 +0800",
+    "title": "腾讯买了百度芯片",
+    "summary": "腾讯下单百度昆仑芯，巨头的玩法变了。",
+    "url": "https://www.tmtpost.com/8045700.html",
+    "published": "Mon, 29 Jun 2026 18:32:58 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
   },
   {
     "source": "钛媒体",
-    "title": "供给暴涨153.4%、收益翻8倍，AI视听出海进入高速扩张期",
-    "summary": "AI加速微短剧出海，YouTube短剧供给暴涨153.4%，产能结构彻底重构。",
-    "url": "https://www.tmtpost.com/8044948.html",
-    "published": "Mon, 29 Jun 2026 11:13:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "创业十五年，羽素仍在“战痘”",
-    "summary": "950亿祛痘市场养不出一个巨头。",
-    "url": "https://www.tmtpost.com/8044966.html",
-    "published": "Mon, 29 Jun 2026 11:06:27 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "ASIC商业化，拐点已至",
-    "summary": "云计算巨头和AI实验室自研芯片的狂潮，正在重塑半导体产业链的价值分配。",
-    "url": "https://www.tmtpost.com/8044945.html",
-    "published": "Mon, 29 Jun 2026 10:55:36 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "出海短剧大洗牌：8成消耗流向AI短剧，实拍项目锐减50%",
-    "summary": "真人实拍大幅收缩，行业迎来新旧迭代拐点。",
-    "url": "https://www.tmtpost.com/8044951.html",
-    "published": "Mon, 29 Jun 2026 10:51:53 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "独家对话美图CPO：警惕Vibe Coding速成神话，屏蔽“产品蝗虫”",
-    "summary": "美图CPO陈剑毅认为，AI时代做产品，如果没有融资需求，ARR没到八位数前少PR，猥琐发育，减少竞争对手的关注。同时要学会屏蔽“产品蝗虫”，因为同行的热情是最廉价的，甚至会误导产品走向。",
-    "url": "https://www.tmtpost.com/8044568.html",
-    "published": "Mon, 29 Jun 2026 10:07:56 +0800",
+    "title": "AI原生时代，自动驾驶到底拼什么？",
+    "summary": "AI是原料，更是引擎。",
+    "url": "https://www.tmtpost.com/8045806.html",
+    "published": "Mon, 29 Jun 2026 18:26:41 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
@@ -475,16 +365,6 @@
     "summary": "摩根大通近日发布市场研报，预估苹果 iP […]",
     "url": "https://cn.technode.com/post/2026-06-25/jpmorgan-chase-self-developed-chips-offset-costs-iphone-18-pro-price-adjustment-only-moderate/",
     "published": "Thu, 25 Jun 2026 02:44:07 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "动点科技",
-    "title": "AI 想直接改维基百科？创始人放话：没门，“幻觉”还太严重",
-    "summary": "据法新社消息，维基百科联合创始人吉米·威 […]",
-    "url": "https://cn.technode.com/post/2026-06-24/wikipedia-wont-let-ai-edit-articles-cofounder-says/",
-    "published": "Wed, 24 Jun 2026 02:20:15 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-06-29"
@@ -790,26 +670,6 @@
     "fetchedAt": "2026-06-29"
   },
   {
-    "source": "TechNode",
-    "title": "Tencent launches WorkBuddy productivity AI agent for global users",
-    "summary": "Tencent Cloud has launched WorkBuddy, a productivity-focused AI agent for global users after first rolling out the product in China. The company said WorkBuddy is aimed at office workflows and can use natural language prompts to break down tasks, call external tools, and generate deliverables across work and study scenarios. WorkBuddy supports remote task execution […]",
-    "url": "https://technode.com/2026/05/29/tencent-launches-workbuddy-productivity-ai-agent-for-global-users/",
-    "published": "Fri, 29 May 2026 01:38:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "TechNode",
-    "title": "iFlytek launches 40g AI glasses with GlassClaw AI agent and advanced noise recognition",
-    "summary": "On Thursday, iFlytek unveiled its new AI smart glasses at BEYOND Expo 2026 in Macau under the theme Communication Without Boundaries, the World Before Your Eyes, showcasing the company’s latest push into AI-powered devices. At the launch event, Lin Huijie, General Manager of iFlytek’s Wearable Devices Business Department, said the company hopes the product can […]",
-    "url": "https://technode.com/2026/05/29/iflytek-launches-40g-ai-glasses-with-glassclaw-ai-agent-and-advanced-noise-recognition/",
-    "published": "Fri, 29 May 2026 00:54:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
     "source": "The Verge",
     "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
     "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or […]",
@@ -818,210 +678,6 @@
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Pitch Ponies – startup themed comic series",
-    "summary": "We have started a startup themed comic. Link is to episode 3 - episodes 1 and 2: https://supramono.com/blog/if-you-build-it-they-wont-come/ and https://supramono.com/blog/the-midnight-board-call-that-ende... Comments URL: https://news.ycombinator.com/item?id=48712375 Points: 3 # Comments: 0",
-    "url": "https://supramono.com/blog/never-trust-a-venture-capitalist-a-founders-comic-book-horror-story/",
-    "published": "Sun, 28 Jun 2026 22:26:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Wants to Sell a U.S.-Built Tiny Truck for $21,500",
-    "summary": "Article URL: https://www.roadandtrack.com/news/a71667299/reo-industries-runabout-aims-to-simplify-the-truck-market/ Comments URL: https://news.ycombinator.com/item?id=48711316 Points: 4 # Comments: 1",
-    "url": "https://www.roadandtrack.com/news/a71667299/reo-industries-runabout-aims-to-simplify-the-truck-market/",
-    "published": "Sun, 28 Jun 2026 20:31:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How should founders choose the right tech stack for a startup website?",
-    "summary": "Article URL: https://moonsofts.net/ Comments URL: https://news.ycombinator.com/item?id=48707957 Points: 2 # Comments: 1",
-    "url": "https://moonsofts.net/",
-    "published": "Sun, 28 Jun 2026 15:05:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: If someone invested $100k now for your startup, how would you spend it?",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48706578 Points: 4 # Comments: 2",
-    "url": "https://news.ycombinator.com/item?id=48706578",
-    "published": "Sun, 28 Jun 2026 11:59:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Find support for your ProductHunt launch from fellow founders",
-    "summary": "LaunchPact matches you with founders launching near your date. Form mutual pacts, show up for each other on launch day, and climb the Product Hunt rankings together. Comments URL: https://news.ycombinator.com/item?id=48699602 Points: 1 # Comments: 0",
-    "url": "https://www.launchpact.io",
-    "published": "Sat, 27 Jun 2026 16:30:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Waitlio – The waitlist software for your next launch",
-    "summary": "Article URL: https://waitlio.com Comments URL: https://news.ycombinator.com/item?id=48696505 Points: 1 # Comments: 1",
-    "url": "https://waitlio.com",
-    "published": "Sat, 27 Jun 2026 09:04:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Should you join the Antler startup incubator program? It depends (2025)",
-    "summary": "Article URL: https://developerwithacat.com/blog/062025/join-antler-startup/ Comments URL: https://news.ycombinator.com/item?id=48695748 Points: 2 # Comments: 4",
-    "url": "https://developerwithacat.com/blog/062025/join-antler-startup/",
-    "published": "Sat, 27 Jun 2026 06:35:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s",
-    "summary": "Article URL: https://openclawlaunch.com Comments URL: https://news.ycombinator.com/item?id=48695480 Points: 1 # Comments: 1",
-    "url": "https://openclawlaunch.com",
-    "published": "Sat, 27 Jun 2026 05:37:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Linux Foundation and Others Launch Akrites Defend Open-Source from AI Exploits",
-    "summary": "Article URL: https://www.phoronix.com/news/Akrites Comments URL: https://news.ycombinator.com/item?id=48691908 Points: 2 # Comments: 1",
-    "url": "https://www.phoronix.com/news/Akrites",
-    "published": "Fri, 26 Jun 2026 21:01:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple to Skip High-End M6 Mac Chips, to Launch M7 Pro, M7 Max, M7 Ultra Instead",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead Comments URL: https://news.ycombinator.com/item?id=48691894 Points: 2 # Comments: 2",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
-    "published": "Fri, 26 Jun 2026 21:00:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX plans to launch Starlink mobile service in the US",
-    "summary": "Article URL: https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=48688949 Points: 58 # Comments: 1",
-    "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
-    "published": "Fri, 26 Jun 2026 16:59:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Israeli founder faces backlash on mobile OS launch",
-    "summary": "Article URL: https://twitter.com/mil000/status/2070215925576728890 Comments URL: https://news.ycombinator.com/item?id=48688123 Points: 5 # Comments: 3",
-    "url": "https://twitter.com/mil000/status/2070215925576728890",
-    "published": "Fri, 26 Jun 2026 15:55:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Most startup launches die after 1 day. I built Founder.best to fix that",
-    "summary": "Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=48687464 Points: 3 # Comments: 2",
-    "url": "https://www.founder.best",
-    "published": "Fri, 26 Jun 2026 15:01:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
-    "summary": "Article URL: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/ Comments URL: https://news.ycombinator.com/item?id=48687076 Points: 3 # Comments: 1",
-    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "published": "Fri, 26 Jun 2026 14:30:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "UpStart – Verified Startup Directories",
-    "summary": "Article URL: https://www.upstart.quest/en/ Comments URL: https://news.ycombinator.com/item?id=48686677 Points: 1 # Comments: 1",
-    "url": "https://www.upstart.quest/en/",
-    "published": "Fri, 26 Jun 2026 13:53:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "M5 Ultra Mac Studio Could Launch in 2026 with Up to 768GB of RAM – MacRumors",
-    "summary": "Article URL: https://www.macrumors.com/2026/06/25/m5-ultra-mac-studio-2026/ Comments URL: https://news.ycombinator.com/item?id=48686646 Points: 6 # Comments: 0",
-    "url": "https://www.macrumors.com/2026/06/25/m5-ultra-mac-studio-2026/",
-    "published": "Fri, 26 Jun 2026 13:50:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Best run X account in the Canadian startup world",
-    "summary": "Article URL: https://x.com/falcongx_ Comments URL: https://news.ycombinator.com/item?id=48686013 Points: 1 # Comments: 0",
-    "url": "https://x.com/falcongx_",
-    "published": "Fri, 26 Jun 2026 12:47:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Notion is shutting down its email client one year after launch",
-    "summary": "Article URL: https://www.neowin.net/news/notion-is-shutting-down-its-email-client-one-year-after-launch/ Comments URL: https://news.ycombinator.com/item?id=48681662 Points: 6 # Comments: 1",
-    "url": "https://www.neowin.net/news/notion-is-shutting-down-its-email-client-one-year-after-launch/",
-    "published": "Fri, 26 Jun 2026 02:25:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Security checklist for AI startup CTOs",
-    "summary": "Article URL: https://tolmo.com/resources/ai-cto-checklist/ Comments URL: https://news.ycombinator.com/item?id=48672548 Points: 3 # Comments: 0",
-    "url": "https://tolmo.com/resources/ai-cto-checklist/",
-    "published": "Thu, 25 Jun 2026 12:47:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-06-29"
-  },
-  {
-    "source": "微博",
-    "title": "#杨紫下沉市场口碑#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23杨紫下沉市场口碑%23",
-    "published": "2026-06-29",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-06-29",
-    "meta": {
-      "hotValue": 527084,
-      "rank": 23
-    }
   },
   {
     "source": "V2EX",
@@ -1033,8 +689,8 @@
     "type": "community",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "replies": 137,
-      "node": "分享创造"
+      "replies": 208,
+      "node": "推广"
     }
   },
   {
@@ -1047,7 +703,7 @@
     "type": "community",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "replies": 67,
+      "replies": 109,
       "node": "推广"
     }
   },
@@ -1061,26 +717,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 2456,
-      "forks": 227,
+      "stars": 2824,
+      "forks": 263,
       "language": "Python",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "bikini/exploitarium",
-    "summary": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always f",
-    "url": "https://github.com/bikini/exploitarium",
-    "published": "2026-06-23T05:14:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-29",
-    "meta": {
-      "stars": 2353,
-      "forks": 578,
-      "language": "Python",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -1093,8 +733,8 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 2297,
-      "forks": 229,
+      "stars": 2328,
+      "forks": 231,
       "language": "HTML",
       "createdDaysAgo": 6
     }
@@ -1109,10 +749,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 1170,
-      "forks": 155,
+      "stars": 1341,
+      "forks": 172,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1125,10 +765,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 702,
+      "stars": 711,
       "forks": 2,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Krishnagangwal/CS-Fundamentals",
+    "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "published": "2026-06-28T07:08:15Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-06-29",
+    "meta": {
+      "stars": 672,
+      "forks": 48,
+      "language": null,
+      "createdDaysAgo": 1
     }
   },
   {
@@ -1141,10 +797,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 566,
+      "stars": 576,
       "forks": 42,
       "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1157,26 +813,10 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 497,
-      "forks": 54,
+      "stars": 513,
+      "forks": 58,
       "language": "TypeScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "goehou/tabbit-toy",
-    "summary": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-    "url": "https://github.com/goehou/tabbit-toy",
-    "published": "2026-06-23T03:37:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-29",
-    "meta": {
-      "stars": 383,
-      "forks": 760,
-      "language": "JavaScript",
-      "createdDaysAgo": 6
     }
   },
   {
@@ -1189,42 +829,26 @@
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 369,
-      "forks": 39,
+      "stars": 398,
+      "forks": 44,
       "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "playPlumtown/Plumtown",
-    "summary": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
-    "url": "https://github.com/playPlumtown/Plumtown",
-    "published": "2026-06-26T22:59:46Z",
+    "title": "goehou/tabbit-toy",
+    "summary": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+    "url": "https://github.com/goehou/tabbit-toy",
+    "published": "2026-06-23T03:37:12Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-06-29",
     "meta": {
-      "stars": 358,
-      "forks": 2,
+      "stars": 386,
+      "forks": 763,
       "language": "JavaScript",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "amplifthq/opentag",
-    "summary": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-    "url": "https://github.com/amplifthq/opentag",
-    "published": "2026-06-24T08:05:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-06-29",
-    "meta": {
-      "stars": 356,
-      "forks": 33,
-      "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 6
     }
   }
 ]
