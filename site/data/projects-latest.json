@@ -87,7 +87,8 @@
         "website": {
           "website": "https://cursor.com",
           "emails": [
-            "hi@cursor.com"
+            "hi@cursor.com",
+            "frances@anysphere.co"
           ],
           "socials": {
             "twitter": "cursor_ai",
@@ -467,7 +468,7 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "g8"
+            "twitter": "nlaneEDU"
           },
           "careerPage": null,
           "jobListings": []
@@ -3538,6 +3539,7 @@
           },
           "careerPage": "https://www.minimax.com/career",
           "jobListings": [
+            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
             "Data Center",
             "Data privacy policy"
           ]
