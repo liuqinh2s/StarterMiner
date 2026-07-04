@@ -82,7 +82,7 @@
   {
     "source": "36氪",
     "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。 启航氢能成立于2024年4月， 技术起源于嘉庚创新实验室电氢耦合研究团队。 公司专注于电氢耦合技术及应用场景的装备研发、生产与销售，核心团队在电力电子技术、智能电网与电化学等领域拥有近20年研究积累。嘉庚创新实验室是福建省政府设立的省级高水平科研平台之一，其氢能产业集群由实验室主任郑南峰院士、氢能研究院方晓亮院长牵头布局。 氢能在新型能源体系中承担着连接电力系统与终端用能的关键角色，尤其在风光等波动性可再生能源大规模接入背景下，如何实现高效、稳定的电力转化与消纳，成为产业落地的核心问题。其中，“ 电氢耦合”是决定绿氢效率与成本的关键环节， 通过更精细的电源控制、更智能的系统级调度与离网制氢/微电网制氢架构设计，电氢深度耦合相关技术可以显著提升绿氢系统的稳定性与经济性。 区别于传统电源大厂仅提供通用型电���的路径，启航氢能基于对电化学特性的深刻理解，开发出了更加适配",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。 启航氢能成立于2024年4月， 技术起源于嘉庚创新实验室电氢耦合研究团队。 公司专注于电氢耦合技术及应用场景的装备研发、生产与销售，核心团队在电力电子技术、智能电网与电化学等领域拥有近20年研究积累。嘉庚创新实验室是福建省政府设立的省级高水平科研平台之一，其氢能产业集群由实验室主任郑南峰院士、氢能研究院方晓亮院长牵头布局。 氢能在新型能源体系中承担着连接电力系统与终端用能的关键角色，尤其在风光等波动性可再生能源大规模接入背景下，如何实现高效、稳定的电力转化与消纳，成为产业落地的核心问题。其中，“ 电氢耦合”是决定绿氢效率与成本的关键环节， 通过更精细的电源控制、更智能的系统级调度与离网制氢/微电网制氢架构设计，电氢深度耦合相关技术可以显著提升绿氢系统的稳定性与经济性。 区别于传统电源大厂仅提供通用型电源的路径，启航氢能基于对电化学特性的深刻理解，开发出了更加适配电解",
     "url": "https://36kr.com/p/3879274157928449?f=rss",
     "published": "2026-07-03 10:02:30  +0800",
     "lang": "zh",
@@ -101,10 +101,60 @@
   },
   {
     "source": "36氪",
-    "title": "小鹏集团与神州租车达成全场景合作，批量交付1300台新能源车",
-    "summary": "36氪获悉，据小鹏汽车，7月3日，小鹏×神州租车全场景合作暨车辆交付仪式在北京举行。小鹏集团董事长、CEO何小鹏与神州租车董事长于洪飞共同出席活动，见证双方全场景合作协议签署及1300台新能源车辆批量交付。至今，神州租车累计采购小鹏新能源车已超5000台，并规划未来一年内至少再采购5000台，双方合作将持续深化。",
-    "url": "https://36kr.com/newsflashes/3879911238463493?f=rss",
-    "published": "2026-07-03 20:49:48  +0800",
+    "title": "总投资15亿元，常州三大项目正式签约",
+    "summary": "据常州发布，近日，常州三大用地项目成功签约，分别为：高端新型装饰材料智能研发生产项目、精密机床核心组件生产基地项目、塑编产装一体化智能制造项目。项目总投资超15亿元，用地约130亩，达产后预计年新增工业产值超17亿元。（人民财讯）",
+    "url": "https://36kr.com/newsflashes/3881144991854594?f=rss",
+    "published": "2026-07-04 17:54:08  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "36氪",
+    "title": "具身智能公司光象科技累计完成数亿元天使轮融资",
+    "summary": "近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。（每日经济新闻）",
+    "url": "https://36kr.com/newsflashes/3881013448683785?f=rss",
+    "published": "2026-07-04 16:25:48  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "36氪",
+    "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+    "summary": "中国人形机器人百人会和中国机械工业联合会今天联合发布关于规范和引导情感陪伴人形机器人发展的倡议，提倡共同践行科技向善、推动机器人产业健康发展。 记者了解到，当前，我国人形机器人产业加速创新发展，正逐步融入工业、特种和服务等各类场景。近期，包括“情感陪伴人形机器人”等产品陆续对外发布，人形机器人正走进家庭、走向生活。 倡议提出，行业应坚守服务人类福祉的初心，把安全伦理规范要求融入产品设计、研发、广告宣传、应用全过程。加强个人信息保护，筑牢用户隐私安全防线。强化质量管理，保障产品使用安全，切实防范对用户的人身伤害风险。同时聚焦关键核心技术，加大基础技术研发投入。立足实际应用场景推广应用，促进技术迭代升级，以创新驱动产品可靠性与实用性提升。协同搭建产业公共平台，凝聚产学研合力，稳步提升我国人形机器人产业竞争力。（央视新闻）",
+    "url": "https://36kr.com/newsflashes/3881009011945473?f=rss",
+    "published": "2026-07-04 15:45:16  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "36氪",
+    "title": "业内首个AI-eSIM产业协同平台成立",
+    "summary": "36氪获悉，据人民邮电报，7月3日，在中国信息通信业发展高层论坛上，由中国移动发起的业内首个AI-eSIM产业协同平台——“中国通信企业协会AI-eSIM专业委员会”（以下简称：专委会）正式成立，中国移动物联网公司担任主任单位，天翼物联、联通华盛、火山引擎、腾讯云、观安信息等担任副主任单位。据介绍，专委会汇聚了运营商、芯片设计、算法研究、安全服务及模型应用等领域的头部企业40余家。",
+    "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+    "published": "2026-07-04 15:20:31  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "36氪",
+    "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
+    "summary": "北京大学集成电路学院教授杨玉超团队联合中国科学院上海微系统与信息技术研究所研究员宋志棠团队，成功研制出全球首款基于相变忆阻器的神经动力学系统芯片，首次将这类复杂运算的单步时延压缩至2.12毫秒，在脑皮层重建等任务中较目前先进图形处理器（GPU）提速达50至478倍，一举突破了制约神经动力学长达半个世纪的实时计算瓶颈。相关成果3日凌晨发表于《科学》。（新华社）",
+    "url": "https://36kr.com/newsflashes/3880779651248391?f=rss",
+    "published": "2026-07-04 13:20:01  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "36氪",
+    "title": "长光卫星完成近50亿元股权融资",
+    "summary": "据报道，长光卫星已完成近50亿元股权融资。本轮融资由长发集团、陆石投资联合领投，诚通基金、东方资产等知名投资机构积极参与，海通创新、深创投等老股东持续跟投。据了解，此次募集的资金将精准投向三大核心方向：一是加速卫星批产能力建设，提升规模化制造效率；二是持续推进“吉林一号”卫星工程组网，夯实高分辨数据获取能力；三是深化遥感数据应用开发，拓展多行业场景化解决方案。（科创板日报）",
+    "url": "https://36kr.com/newsflashes/3880783434149893?f=rss",
+    "published": "2026-07-04 12:35:29  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-04"
@@ -341,40 +391,50 @@
   },
   {
     "source": "钛媒体",
+    "title": "海归博士回国创业，一年狂飙4倍，拿下3000亿元市值",
+    "summary": "硅谷巨头纷纷放弃的冷门赛道，被中国50后老炮熬了20年，狂飙出3000亿市值！",
+    "url": "https://www.tmtpost.com/8052643.html",
+    "published": "Sat, 04 Jul 2026 15:55:58 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "订单排到2027年，谁在支撑人形机器人的“量产元年”？",
+    "summary": "出货量冲刺5万台，上游“卖铲人”先赚到了钱。",
+    "url": "https://www.tmtpost.com/8052511.html",
+    "published": "Sat, 04 Jul 2026 15:45:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "芯片冷却，涌现大量“黑科技”",
+    "summary": "学术界、巨头、初创公司，密集出招。",
+    "url": "https://www.tmtpost.com/8052444.html",
+    "published": "Sat, 04 Jul 2026 15:45:33 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "15年首次调整车船税，新能源车的“免税滤镜”正在慢慢消失",
+    "summary": "车船税优惠15年后调整，新能源汽车进入下半场，政策红利不再是主角。",
+    "url": "https://www.tmtpost.com/8052855.html",
+    "published": "Sat, 04 Jul 2026 15:42:06 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "钛媒体",
     "title": "茅台还是那个茅台，顶流资本用真金白银投票",
     "summary": "硬科技狂欢，顶流资本却逆势买茅台。",
     "url": "https://www.tmtpost.com/8051788.html",
     "published": "Sat, 04 Jul 2026 11:56:28 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "24岁斯坦福天才，冲刺“国产DPU第一股”，腾讯是第一大股东",
-    "summary": "云豹智能冲刺创业板IPO。",
-    "url": "https://www.tmtpost.com/8052654.html",
-    "published": "Sat, 04 Jul 2026 11:03:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "雪王出海遭遇阶段性挫败",
-    "summary": "蜜雪冰城日本首店开业，但海外扩张遇阻，门店数量持续减少，面临市场挑战。",
-    "url": "https://www.tmtpost.com/8052740.html",
-    "published": "Sat, 04 Jul 2026 10:24:36 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场",
-    "summary": "当2026年的夏天，AI不再只做隐藏在制作流程里的工具，它便打开了一个比技术参数更大的商业空间。",
-    "url": "https://www.tmtpost.com/8052433.html",
-    "published": "Fri, 03 Jul 2026 22:23:57 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-04"
@@ -780,11 +840,11 @@
     "fetchedAt": "2026-07-04"
   },
   {
-    "source": "The Verge",
-    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-    "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-    "published": "2026-07-03T07:49:10-04:00",
+    "source": "Hacker News",
+    "title": "Space startup Katalyst launches orbital rescue for aging NASA observatory",
+    "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782773 Points: 4 # Comments: 0",
+    "url": "https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/",
+    "published": "Sat, 04 Jul 2026 05:04:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-04"
@@ -862,7 +922,7 @@
   {
     "source": "Hacker News",
     "title": "Amazon has enough satellites to launch its Starlink competitor",
-    "summary": "Article URL: https://www.theverge.com/science/960563/amazon-leo-service-tipping-point Comments URL: https://news.ycombinator.com/item?id=48773907 Points: 34 # Comments: 23",
+    "summary": "Article URL: https://www.theverge.com/science/960563/amazon-leo-service-tipping-point Comments URL: https://news.ycombinator.com/item?id=48773907 Points: 35 # Comments: 23",
     "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
     "published": "Fri, 03 Jul 2026 11:50:20 +0000",
     "lang": "en",
@@ -882,7 +942,7 @@
   {
     "source": "Hacker News",
     "title": "Startup sues Palo Alto Networks' Koi Security due to AI-hallucinated report",
-    "summary": "Article URL: https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201 Comments URL: https://news.ycombinator.com/item?id=48769007 Points: 7 # Comments: 2",
+    "summary": "Article URL: https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201 Comments URL: https://news.ycombinator.com/item?id=48769007 Points: 8 # Comments: 2",
     "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
     "published": "Fri, 03 Jul 2026 00:02:57 +0000",
     "lang": "en",
@@ -970,16 +1030,6 @@
     "fetchedAt": "2026-07-04"
   },
   {
-    "source": "Hacker News",
-    "title": "Validate your startup idea in 14 days",
-    "summary": "Article URL: https://validly-rho.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48761442 Points: 1 # Comments: 1",
-    "url": "https://validly-rho.vercel.app/",
-    "published": "Thu, 02 Jul 2026 13:38:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
     "source": "GitHub新星",
     "title": "Krishnagangwal/CS-Fundamentals",
     "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
@@ -989,10 +1039,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-04",
     "meta": {
-      "stars": 1517,
-      "forks": 128,
+      "stars": 1544,
+      "forks": 131,
       "language": null,
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]
