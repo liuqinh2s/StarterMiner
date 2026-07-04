@@ -391,6 +391,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【数智周报】 智平方完成近50亿元融资；豆包：智能体功能将于7月15日下线；可灵AI落地近30亿美元融资 ；Anthropic推出Claude Science",
+    "summary": "（6月29日~7月4日）月之暗面声明：未授权任何第三方处理融资交易；曝贾扬清离开英伟达，公司去年48亿卖身；谷歌推出AI生图模型Nano Banana 2 Lite；施耐德将以31亿美元收购工业AI公司Cognite；联合国报告呼吁尽快完善人工智能治理",
+    "url": "https://www.tmtpost.com/8052985.html",
+    "published": "Sat, 04 Jul 2026 19:38:06 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "钛媒体",
     "title": "海归博士回国创业，一年狂飙4倍，拿下3000亿元市值",
     "summary": "硅谷巨头纷纷放弃的冷门赛道，被中国50后老炮熬了20年，狂飙出3000亿市值！",
     "url": "https://www.tmtpost.com/8052643.html",
@@ -491,6 +501,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "published": "Sat, 04 Jul 2026 15:51:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
     "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
     "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
@@ -535,16 +555,6 @@
     "summary": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.",
     "url": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
     "published": "Thu, 02 Jul 2026 17:30:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-    "summary": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
-    "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-    "published": "Thu, 02 Jul 2026 15:26:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-04"
@@ -821,6 +831,16 @@
   },
   {
     "source": "The Verge",
+    "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+    "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting […]",
+    "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+    "published": "2026-07-04T15:06:27-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-04"
+  },
+  {
+    "source": "The Verge",
     "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
     "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships […]",
     "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
@@ -830,204 +850,18 @@
     "fetchedAt": "2026-07-04"
   },
   {
-    "source": "The Verge",
-    "title": "Anthropic wants to develop its own drugs",
-    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "published": "2026-07-03T09:56:52-04:00",
-    "lang": "en",
+    "source": "微博",
+    "title": "#iPadPro首发M7芯片#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23iPadPro首发M7芯片%23",
+    "published": "2026-07-04",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Space startup Katalyst launches orbital rescue for aging NASA observatory",
-    "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782773 Points: 4 # Comments: 0",
-    "url": "https://www.reuters.com/business/aerospace-defense/space-startup-katalyst-launches-orbital-rescue-mission-aging-nasa-observatory-2026-07-03/",
-    "published": "Sat, 04 Jul 2026 05:04:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bought an expired startup domain: I inherited their AWS Root account",
-    "summary": "Article URL: https://old.reddit.com/r/sysadmin/comments/1umodsw/bought_an_expired_startup_domain_a_few_days_later/ Comments URL: https://news.ycombinator.com/item?id=48779556 Points: 7 # Comments: 1",
-    "url": "https://old.reddit.com/r/sysadmin/comments/1umodsw/bought_an_expired_startup_domain_a_few_days_later/",
-    "published": "Fri, 03 Jul 2026 20:25:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Turn a product recording into a launch-ready SaaS Keynote",
-    "summary": "Article URL: https://saasdemostudio.up.railway.app Comments URL: https://news.ycombinator.com/item?id=48779361 Points: 2 # Comments: 0",
-    "url": "https://saasdemostudio.up.railway.app",
-    "published": "Fri, 03 Jul 2026 20:08:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One Pizza Startup",
-    "summary": "Article URL: https://pradeep.md/2026/06/30/one-pizza-startup.html Comments URL: https://news.ycombinator.com/item?id=48778460 Points: 9 # Comments: 0",
-    "url": "https://pradeep.md/2026/06/30/one-pizza-startup.html",
-    "published": "Fri, 03 Jul 2026 18:45:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump portfolio tracker account suspended one day after launch",
-    "summary": "Article URL: https://www.washingtonexaminer.com/policy/finance-and-economy/4634208/trump-portfolio-tracker-account-suspended/ Comments URL: https://news.ycombinator.com/item?id=48775659 Points: 10 # Comments: 1",
-    "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4634208/trump-portfolio-tracker-account-suspended/",
-    "published": "Fri, 03 Jul 2026 14:42:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NASA chief praises progress Blue Origin is making after launch failure",
-    "summary": "Article URL: https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/ Comments URL: https://news.ycombinator.com/item?id=48775256 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-    "published": "Fri, 03 Jul 2026 14:07:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Foundera – AI-powered founder and startup feedback platform",
-    "summary": "As a long time technical founder and startup accelerator program manager, I always thought there have to be a way to gather the early stage startup ecosystem together to help founders in a single platform. We have built Foundera that combines founder profiles, AI startup tools, and ecosystem matching for early stage founders to solve this problem. Try Foundera and tell me what you think, give us some feedback, I think we can improve and grow this app with your feedback in a better way. It's in b",
-    "url": "https://foundera.app/",
-    "published": "Fri, 03 Jul 2026 13:07:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Built This URL to Launch Video Maker as Hobby Project",
-    "summary": "Article URL: https://www.clickcast.tech/ Comments URL: https://news.ycombinator.com/item?id=48774377 Points: 2 # Comments: 0",
-    "url": "https://www.clickcast.tech/",
-    "published": "Fri, 03 Jul 2026 12:47:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon has enough satellites to launch its Starlink competitor",
-    "summary": "Article URL: https://www.theverge.com/science/960563/amazon-leo-service-tipping-point Comments URL: https://news.ycombinator.com/item?id=48773907 Points: 35 # Comments: 23",
-    "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
-    "published": "Fri, 03 Jul 2026 11:50:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Spotlight: Inside Pastmaps' Solo Climb to Six Figures",
-    "summary": "Article URL: https://runtimewire.com/article/startup-spotlight-inside-pastmaps-solo-climb-to-six-figures Comments URL: https://news.ycombinator.com/item?id=48770948 Points: 2 # Comments: 0",
-    "url": "https://runtimewire.com/article/startup-spotlight-inside-pastmaps-solo-climb-to-six-figures",
-    "published": "Fri, 03 Jul 2026 05:00:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup sues Palo Alto Networks' Koi Security due to AI-hallucinated report",
-    "summary": "Article URL: https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201 Comments URL: https://news.ycombinator.com/item?id=48769007 Points: 8 # Comments: 2",
-    "url": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
-    "published": "Fri, 03 Jul 2026 00:02:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup JetZero builds novel plane to take on Airbus and Boeing",
-    "summary": "Article URL: https://www.reuters.com/business/media-telecom/mojave-desert-startup-jetzero-builds-novel-plane-take-airbus-boeing-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48768060 Points: 5 # Comments: 0",
-    "url": "https://www.reuters.com/business/media-telecom/mojave-desert-startup-jetzero-builds-novel-plane-take-airbus-boeing-2026-07-02/",
-    "published": "Thu, 02 Jul 2026 22:15:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Research vs. Founding a Tech Startup?",
-    "summary": "Engineering + math graduate whose goal is to maximize impact. I am currently deciding between two career paths, but have been struggling a lot to determine which would be more impactful: 1. Become a professor/researcher in robotics, working on mainstream technical problems such as zero-shot learning. (To be clear, I’m not primarily thinking about robotics safety or AI safety, but rather general robotics capabilities research.) 2. Try to found “low-sophistication” hard-tech startups — i.e. produc",
-    "url": "https://news.ycombinator.com/item?id=48767782",
-    "published": "Thu, 02 Jul 2026 21:44:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GitLab founder when facing terminal cancer attacks it like a startup problem",
-    "summary": "Article URL: https://twitter.com/afshineemrani/status/2072363127552016501 Comments URL: https://news.ycombinator.com/item?id=48767338 Points: 3 # Comments: 0",
-    "url": "https://twitter.com/afshineemrani/status/2072363127552016501",
-    "published": "Thu, 02 Jul 2026 21:02:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchPact - Get upvotes for your Product Hunt launch",
-    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=48767294 Points: 1 # Comments: 3",
-    "url": "https://www.launchpact.io",
-    "published": "Thu, 02 Jul 2026 20:59:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launchpanda: Save your product info once, launch everywhere",
-    "summary": "Article URL: https://www.launchpanda.dev Comments URL: https://news.ycombinator.com/item?id=48765448 Points: 3 # Comments: 0",
-    "url": "https://www.launchpanda.dev",
-    "published": "Thu, 02 Jul 2026 18:23:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Download: a startup has a solution for AI's groupthink problem",
-    "summary": "Article URL: https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/ Comments URL: https://news.ycombinator.com/item?id=48764318 Points: 1 # Comments: 0",
-    "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-    "published": "Thu, 02 Jul 2026 17:02:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon Leo mission updates: 375 satellites now in orbit after Atlas V launch",
-    "summary": "Article URL: https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates Comments URL: https://news.ycombinator.com/item?id=48763662 Points: 5 # Comments: 0",
-    "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
-    "published": "Thu, 02 Jul 2026 16:13:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-    "summary": "Hi HN, we are Pietro and Luigi, cofounders of Manufact ( https://manufact.com ), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: https://github.com/mcp-use/mcp-use . We did a Show HN about that last year: https://news.ycombinator.com/item?id=44747229 . Today we want to tell you about our cloud product, Manufact, which is to mcp-use as Vercel is to Next.js. Manufact is an MCP vertical cloud designed for dev teams putting MC",
-    "url": "https://manufact.com",
-    "published": "Thu, 02 Jul 2026 15:11:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-04"
+    "fetchedAt": "2026-07-04",
+    "meta": {
+      "hotValue": 86923,
+      "rank": 23
+    }
   },
   {
     "source": "GitHub新星",
@@ -1039,8 +873,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-04",
     "meta": {
-      "stars": 1544,
-      "forks": 131,
+      "stars": 1575,
+      "forks": 135,
       "language": null,
       "createdDaysAgo": 6
     }
