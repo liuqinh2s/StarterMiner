@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "瑞为技术暗盘破发，收盘跌17%｜敲钟时刻",
+    "summary": "《敲钟时刻》栏目聚焦企业正式登陆资本市场的关键时刻。每一次敲钟之后，市场都会给出它对一家企业增长、估值与成色的第一重答案。 在7月7日下午的暗盘， 视觉具身智能第一股瑞为技术（07656.HK） 破发了 。 暗盘收在17.99港元，较21.66港元的发行价跌16.94%，对应市值54.92亿港元。 整个暗盘交易中，盘中最高冲到 25港元 ，涨15.4%；最低砸到 16.07港元， 跌25.8%； 振幅高达41.23% ，均价20.26港元，全天成交额5310万港元。 瑞为此次IPO， 既没有引入基石投资者，也没有设置绿鞋（超额配股权）机制。 无基石带来的连锁反应是： 全流通、且薄。 这次全球发售2808.70万股，仅占发行后总股本的 9.20%。 按发行价算，绝对流通市值只有约6.08亿港元。因为没有基石锁定，这9.20%从上市第一刻起就 全部可以自由交易 。 薄盘＋全流通＋无稳价，是一个天然放大波动的组合。可售筹码少，一点买盘就能冲高，一点卖压也能砸穿。暗盘里25.00到16.07港元的巨大区间，就是这种薄筹码在无稳价环境下的双向甩动。它可能在情绪好时助涨，但在情绪弱时，同样会加速下",
+    "url": "https://36kr.com/p/3885560015220997?f=rss",
+    "published": "2026-07-07 20:59:57  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "36氪",
     "title": "易控智驾暗盘破发：盘中一度跌近两成、收涨4%｜敲钟时刻",
     "summary": "《敲钟时刻》栏目聚焦企业正式登陆资本市场的关键时刻。每一次敲钟之后，市场都会给出它对一家企业增长、估值与成色的第一重答案。 上市前夜，全球矿区无人驾驶第一股易控智驾（07687.HK）在富途暗盘走出一条 V 形。截至 7 月 7 日 18:30 暗盘收盘，报 91.50 港元 ，较发行价 87.92 港元上涨 4.07% 。但这抹红并不轻松，全天振幅接近 25%，是一场典型的开盘破发、盘中深跌、尾盘拉回。 关于易控智驾深度报道，请看 上市前夜｜套现十几亿后，他把矿卡开向港股 易控智驾最终以招股区间上限 87.92 港元 定价，发行市值约 130 亿港元，总股本 1.48 亿股。今天暗盘 开盘即破发， 以 82.70 港元开盘，低于发行价约 5.9%；随后一路下探，盘中最低砸至 71.00 港元 ，较发行价跌去 19.2% ，接近两成。 此后逐级回升，最高触及 92.70 港元（+5.4%），收报 91.50 港元。全天振幅 24.68% 。 其实，易控智驾 红得并不扎实。 暗盘平均成交价 87.07 港元，仍略低于发行价 。意味着全天大部分成交发生在发行价下方，尾盘的涨幅更像是收盘前拉",
     "url": "https://36kr.com/p/3885481886674951?f=rss",
@@ -52,7 +62,7 @@
   {
     "source": "36氪",
     "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
-    "summary": "采访 | 邓咏仪 肖思佳 李小霞 文 | 张雨忻 邓咏仪 编辑 | 张雨忻 杨轩 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。 曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交道的人告诉 36 氪，“而且很主动，对于相信的事情比较坚持，会想办法争取资源去实现。” 这个评价几乎复现了曾妍做 Seedance2.0 训练时的处境。“她想训一个参数量更大的模型，但当时团队内部有一些分歧，有人觉得把模型直接 scale up 到 200B-300B 的级别有点冒进了，并且整体的训练资源也紧张，可能先训一个 100B 级别的模型技更安全。”一位知情人士告诉 36 氪。 上述人士说，但恰巧有高管参与上述聚餐，了解到曾妍的想法后，说可以给 Seedance2.0 的训练协调一些资源，“后来在 Seed 内部最终的正式评审会上，Seed 负责人吴永辉和视觉多模态生成方向负责人周",
+    "summary": "采访 | 邓咏仪 肖思佳 李小霞 文 | 张雨忻 邓咏仪 编辑 | 张雨忻 杨轩 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。 曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交���的人告诉 36 氪，“而且很主动，对于相信的事情比较坚持，会想办法争取资源去实现。” 这个评价几乎复现了曾妍做 Seedance2.0 训练时的处境。“她想训一个参数量更大的模型，但当时团队内部有一些分歧，有人觉得把模型直接 scale up 到 200B-300B 的级别有点冒进了，并且整体的训练资源也紧张，可能先训一个 100B 级别的模型技更安全。”一位知情人士告诉 36 氪。 上述人士说，但恰巧有高管参与上述聚餐，了解到曾妍的想法后，说可以给 Seedance2.0 的训练协调一些资源，“后来在 Seed 内部最终的正式评审会上，Seed 负责人吴永辉和视觉多模态生成方向负责",
     "url": "https://36kr.com/p/3885177884078083?f=rss",
     "published": "2026-07-07 15:30:26  +0800",
     "lang": "zh",
@@ -91,30 +101,10 @@
   },
   {
     "source": "36氪",
-    "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
-    "summary": "图源/企业 本文约 2000 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，上海快粼光电科技有限公司（以下简称“快粼光电”）近期已完成数千万元天使轮融资。本轮融资由小苗朗程领投，一村资本跟投。中岚科创担任长期财务顾问，提供产业协同和资本对接服务。此次募集资金将主要用于公司超高速光探测芯片的研发迭代与送样验证，加速国产光探测芯片量产进程以及企业高端人才引进。 快粼光电2024年成立于上海，是一家专注于III-V族高速光电探测芯片的研发与产业化的硬科技公司，曾在AI光互联与6G通信核心的光芯片领域刷新世界纪录，填补了国内超高速收端光芯片的空白。 快粼光电的核心团队由4位师出同门、平均年龄不到30岁的年轻博士组成。创始人李林泽及三位联合创始人——王景熠、王鲁玉、龙天宇，均源自上海科技大学陈佰乐教授课题组。陈佰乐教授在高速光电子、III-V族半导体、光探测器件领域研究多年，具有深厚的行业影响力，创始人团队成员也有多项研究成果发表在《Nature》、《Nature Photonics》等顶级期刊。 AI算力集群正从“算力瓶颈”转向“互联瓶颈”。AI算力集群扩张、数据中心升级、高速光",
-    "url": "https://36kr.com/p/3884289424437511?f=rss",
-    "published": "2026-07-07 09:00:00  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-07"
-  },
-  {
-    "source": "36氪",
-    "title": "脑虎科技“三全”脑机接口系统正式启动GCP注册临床试验",
-    "summary": "36氪获悉，7月7日，脑虎科技宣布，其自主研发的“植入式脑机接口手部运动功能代偿系统”即“全植入、全无线、全功能（三全）脑机接口系统”在复旦大学附属华山医院正式启动GCP注册临床试验。本次GCP注册临床试验由复旦大学附属华山医院毛颖教授团队担任主要研究者，旨在评价“��入式脑机接口手部运动功能代偿系统”用于颈段脊髓损伤所致四肢瘫痪患者上肢功能代偿的安全性和有效性。",
-    "url": "https://36kr.com/newsflashes/3885433625636872?f=rss",
-    "published": "2026-07-07 18:27:28  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-07"
-  },
-  {
-    "source": "36氪",
-    "title": "威刚：Q3内存将涨价20%-30%，闪存将涨价35%-40%",
-    "summary": "威刚科技预警，2026年第三季度DRAM内存与NAND闪存价格将再度上调，内存及存储产品售价会进一步走高。威刚董事长陈立白表示，各大内存原厂已放出通知，2026年第三季度DRAM合约价将继续上涨20%至30%，NAND闪存价格涨幅更是达到35%至40%，两类存储芯片价格将持续上行，有望持续带动公司经营业绩增长。（财联社）",
-    "url": "https://36kr.com/newsflashes/3885412971606272?f=rss",
-    "published": "2026-07-07 18:06:27  +0800",
+    "title": "法律人工智能初创公司Norm Ai获1.2亿美元融资，估值12亿美元",
+    "summary": "Norm Ai周二表示，已在由Khosla Ventures领投的C轮融资中筹集了1.2亿美元，这家法律人工智能初创企业的估值达到12亿美元。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3886179597463552?f=rss",
+    "published": "2026-07-08 07:14:13  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-07"
@@ -381,60 +371,70 @@
   },
   {
     "source": "TechCrunch",
-    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-    "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "published": "Mon, 06 Jul 2026 19:01:59 +0000",
+    "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+    "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+    "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+    "published": "Tue, 07 Jul 2026 22:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-07"
   },
   {
     "source": "TechCrunch",
-    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-    "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-    "published": "Mon, 06 Jul 2026 15:22:08 +0000",
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "published": "Tue, 07 Jul 2026 20:04:32 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-07"
   },
   {
     "source": "TechCrunch",
-    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-    "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-    "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+    "title": "Figma acquires team behind a vibe-coding app",
+    "summary": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
+    "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+    "published": "Tue, 07 Jul 2026 18:37:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-07"
   },
   {
     "source": "TechCrunch",
-    "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-    "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
-    "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-    "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+    "title": "VC firm Chemistry is raising $500M for its second fund",
+    "summary": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
+    "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+    "published": "Tue, 07 Jul 2026 15:02:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-07"
   },
   {
     "source": "TechCrunch",
-    "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
-    "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
-    "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
-    "published": "Mon, 06 Jul 2026 06:05:29 +0000",
+    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+    "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+    "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+    "published": "Tue, 07 Jul 2026 14:35:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-07"
   },
   {
     "source": "TechCrunch",
-    "title": "Uber’s European expansion plans may have hit a speed bump",
-    "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
-    "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
-    "published": "Sun, 05 Jul 2026 21:35:17 +0000",
+    "title": "This startup pits dealerships against each other to bid on your used car",
+    "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
+    "url": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+    "published": "Tue, 07 Jul 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "published": "Tue, 07 Jul 2026 12:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-07"
@@ -700,6 +700,93 @@
     "fetchedAt": "2026-07-07"
   },
   {
+    "source": "The Verge",
+    "title": "Of course viewers are giving up on Netflix shows",
+    "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be some confusion […]",
+    "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+    "published": "2026-07-07T17:58:39-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI […]",
+    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "published": "2026-07-07T16:31:58-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "X says top accounts steal videos from other users as it announces new video tools",
+    "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up close to half the impressions on X.\" According to Bier, X is launching a […]",
+    "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+    "published": "2026-07-07T14:28:08-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+    "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-60 time or its self-driving features (it has none). Instead, it takes […]",
+    "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+    "published": "2026-07-07T13:52:51-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "published": "2026-07-07T13:46:59-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google announces Pixel 11 launch event in August",
+    "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. The email also includes a brief animation teasing […]",
+    "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+    "published": "2026-07-07T13:22:48-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-07"
+  },
+  {
+    "source": "B站",
+    "title": "DeepSeek被曝自研芯片",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=DeepSeek被曝自研芯片",
+    "published": "2026-07-07",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-07",
+    "meta": {
+      "hotValue": 260164
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "华为天才少年吐槽 DeepSeek 面试不规范，程序员的你怎么看？",
+    "summary": "如题，OP 非程序员，无从点评。 来源[联合早报]( https://www.zaobao.com.sg/news/china/story20260707-9326742?ref=home-sidebar-china-realtime) > 有“华为天才少年”之称的李博杰公开批评中国人工智能公司深度求索（ DeepSeek ）面试流程，相关话题冲上微博热搜。 >据澎湃新闻报道，李博杰星期一（ 7 月 6 日）称，在通过 DeepSeek 笔试后，半个月不安排面试，其他公司 offer 都已经下来了，经过反复催促才安排面试。去其他公司面试都不需要代码面，但 DeepSeek 仍然",
+    "url": "https://www.v2ex.com/t/1225610",
+    "published": 1783412953,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-07-07",
+    "meta": {
+      "replies": 86,
+      "node": "程序员"
+    }
+  },
+  {
     "source": "V2EX",
     "title": "小红书的骚操作会不会毁掉整个行业的 VIE？",
     "summary": "已核实，主要事实属实。 前小红书华南商业化负责人陈浩于 6 月 28/29 日实名向港交所及香港证监会提交投诉，附一二审判决书、期权诉讼卷宗等材料。 他在 2022 年入职获境外期权，2023 年底行权前 5 个月被解约。法院认定违法解除，判赔违法解除金+期权损失（合计约 85 万），并明确 VIE 架构下期权属劳动报酬。这是国内首例相关司法认定。 公司曾在诉讼中主张“境内运营实体与境外期权主体无关联”，但 VIE 红筹上市需证明控制关系并合并报表，举报直指此披露矛盾及系统性劳工合规问题（称近 50 名前员工类似遭遇）。 正值小红书筹备港股 IPO （ 6 月中传闻月底",
@@ -709,7 +796,7 @@
     "type": "community",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "replies": 77,
+      "replies": 81,
       "node": "分享发现"
     }
   },
@@ -723,7 +810,7 @@
     "type": "community",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "replies": 68,
+      "replies": 76,
       "node": "推广"
     }
   },
@@ -737,8 +824,24 @@
     "type": "signal",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "stars": 2930,
-      "forks": 685,
+      "stars": 3281,
+      "forks": 750,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "synthetic-sciences/openscience",
+    "summary": "The open-source AI workbench for scientific research",
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "published": "2026-07-03T15:06:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-07",
+    "meta": {
+      "stars": 1325,
+      "forks": 181,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -753,8 +856,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "stars": 1227,
-      "forks": 91,
+      "stars": 1281,
+      "forks": 101,
       "language": "C++",
       "createdDaysAgo": 3
     }
@@ -769,26 +872,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "stars": 1112,
-      "forks": 66,
+      "stars": 1169,
+      "forks": 70,
       "language": "Shell",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "synthetic-sciences/openscience",
-    "summary": "The open-source AI workbench for scientific research",
-    "url": "https://github.com/synthetic-sciences/openscience",
-    "published": "2026-07-03T15:06:45Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-07",
-    "meta": {
-      "stars": 1065,
-      "forks": 143,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -801,42 +888,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "stars": 860,
-      "forks": 54,
+      "stars": 1035,
+      "forks": 72,
       "language": "Rust",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "xuchonglang/investing-for-beginners",
-    "summary": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-    "url": "https://github.com/xuchonglang/investing-for-beginners",
-    "published": "2026-07-03T03:56:00Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-07",
-    "meta": {
-      "stars": 751,
-      "forks": 39,
-      "language": null,
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "jmerelnyc/Talos",
-    "summary": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-    "url": "https://github.com/jmerelnyc/Talos",
-    "published": "2026-07-02T14:43:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-07",
-    "meta": {
-      "stars": 722,
-      "forks": 13,
-      "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 2
     }
   },
   {
@@ -849,26 +904,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "stars": 685,
-      "forks": 88,
+      "stars": 997,
+      "forks": 117,
       "language": "HTML",
       "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "uzairansaruzi/hermex",
-    "summary": "Native iPhone app for your Hermes agent",
-    "url": "https://github.com/uzairansaruzi/hermex",
-    "published": "2026-07-02T12:47:31Z",
+    "title": "Shpigford/knockoff",
+    "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+    "url": "https://github.com/Shpigford/knockoff",
+    "published": "2026-07-06T15:06:06Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-07-07",
     "meta": {
-      "stars": 671,
-      "forks": 72,
-      "language": "Swift",
-      "createdDaysAgo": 4
+      "stars": 903,
+      "forks": 26,
+      "language": "JavaScript",
+      "createdDaysAgo": 1
     }
   }
 ]
