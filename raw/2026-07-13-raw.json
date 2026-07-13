@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+    "summary": "大公司： 洽洽食品：上半年净利润同比预增170.75%—198.96% 36氪获悉，洽洽食品披露业绩预告，预计2026年上半年归属于上市公司股东的净利润为2.4亿元—2.65亿元，同比增长170.75%—198.96%。 好上好：上半年净利润同比预增301.65%—376.03% 36氪获悉，好上好披露业绩预告，预计2026年半年度归属于上市公司股东的净利润1.35亿元—1.6亿元，同比增长301.65%—376.03%。 Meta宣布将追加400亿美元投资路易斯安那州数据中心 7月13日，Meta宣布将追加400亿美元投资路易斯安那州数据中心，路易斯安那州数据中心是Meta的最大项目。（界面） 北斗星通：上半年净利润同比预增2368.27%—3426.09% 36氪获悉，北斗星通披露业绩预告，预计2026年半年度归属于上市公司股东的净利润3500万元—5000万元，同比增长2368.27%—3426.09%。 字节探索自动驾驶，Seed世界模型团队负责 36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不",
+    "url": "https://36kr.com/p/3893943402707460?f=rss",
+    "published": "2026-07-13 19:59:05  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "36氪",
     "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
     "summary": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶或自动驾驶人才发出了邀约，一些看好字节这一布局的技术人才也计划加入。 针对以上消息，36氪向字节求证，字节回应：“字节在AI大模型前沿探索领域，包括物理AI领域，有很多早期研究和探索，但并没有做智能驾驶业务的计划。” Seed是字节旗下的大模型基础研究团队，成立于2023年，是字节的一级战略级部门。 周畅是字节Seed AI研发核心负责人之一。他于2024年加入字节，负责多模态大模型的研发等，此后他管理的业务范畴不断扩大。去年，视觉生成业务已划入其负责范围，今年Seed Robotics团队也",
     "url": "https://36kr.com/p/3893815451417347?f=rss",
@@ -52,7 +62,7 @@
   {
     "source": "36氪",
     "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
-    "summary": "一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。 三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出“端侧原生流式多模态”这一全新模型架构，而通过这个从Day 1为端侧算力约束设计的架构，VLX模型首次在端侧打通“持续感知+精准定位+行动决策”的物理AI完整闭环。 VLX概览图 毫无疑问，站在2026年夏天的时间节点，AI行业的热度已经开始从数字AI转向物理AI。不同于数字AI的2023年，虽然物理AI的热度很高，但是行业仍未收敛，多路线并存，距生产落地尚远：以语言为中心的VLA、以像素为中心的视频生成、以3D结构为中心的仿真、以视觉表征为中心的JEPA……行业对最主流的VLA与世界模型两条概念路线的选择，也依然摇摆不定，���替代，还是并存，抑或是融合？ 就在这一行业还在争论谁是物理AI终极答案",
+    "summary": "一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。 三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出“端侧原生流式多模态”这一全新模型架构，而通过这个从Day 1为端侧算力约束设计的架构，VLX模型首次在端侧打通“持续感知+精准定位+行动决策”的物理AI完整闭环。 VLX概览图 毫无疑问，站在2026年夏天的时间节点，AI行业的热度已经开始从数字AI转向物理AI。不同于数字AI的2023年，虽然物理AI的热度很高，但是行业仍未收敛，多路线并存，距生产落地尚远：以语言为中心的VLA、以像素为中心的视频生成、以3D结构为中心的仿真、以视觉表征为中心的JEPA……行业对最主流的VLA与世界模型两条概念路线的选择，也依然摇摆不定，是替代，还是并存，抑或是融合？ 就在这一行业还在争论谁是物理AI终极答案之时",
     "url": "https://36kr.com/p/3893445208717826?f=rss",
     "published": "2026-07-13 10:39:18  +0800",
     "lang": "zh",
@@ -62,7 +72,7 @@
   {
     "source": "36氪",
     "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
-    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。 人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产能与可靠性成为真正的瓶颈。当本体厂商进入量产焦虑，上游核心零部件公司的选择与判断，或许更能反映赛道的真实水温。 零差云控是硬氪长期关注的企业。公司成立于2016年，长期专注高可靠、高精度、标准化的机器人关键核心零部件的研发与制造，服务全球机器人与自动化产业，聚焦原本依赖人工的高可靠性应用场景。 官方数据显示，2025年零差云控营收同比增长超过100%，预计2026年将保持翻倍增速。其中，来自人形及具身智能机器人领域的订单初步放量，贡献约65%的增速。 零差云控一体化关节（图源/企业） “下游客户的需求已经从‘有没有成熟的产品’迅速转变为‘能不能及时供得上货’。”零差云控创始人贾玺庆告诉硬氪，“头部客户的订单几乎",
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。 人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产能与可靠性成为真正的瓶颈。当本体厂商进入量产焦虑，上游核心零部件公司的选择与判断，或许更能反映赛道的真实水温。 零差云控是硬氪长期关注的企业。公司成立于2016年，长期专注高可靠、高精度、标准化的机器人关键核心零部件的研发与制造，服务全球机器人与自动化产业，聚焦原本依赖人工的高可靠性应用场景。 官方数据显示，2025年零差云控营收同比增长超过100%，预计2026年将保持翻倍增速。其中，来自人形及具身智能机器人领域的订单初步放量，贡���约65%的增速。 零差云控一体化关节（图源/企业） “下游客户的需求已经从‘有没有成熟的产品’迅速转变为‘能不能及时供得上货’。”零差云控创始人贾玺庆告诉硬氪，“头部客户的订单",
     "url": "https://36kr.com/p/3885232033378308?f=rss",
     "published": "2026-07-13 10:37:39  +0800",
     "lang": "zh",
@@ -71,30 +81,70 @@
   },
   {
     "source": "36氪",
-    "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
-    "summary": "文｜���香赟 编辑｜海若镜 36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。 纽邦生物 专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀巢、联合利华、百事等600余个终端品牌；公司自建制剂工厂、生物合成工厂，并规划建设占地超200亩、年产万吨级的综合工厂。2025年，纽邦生物全年营收突破4亿元人民币。 纽邦生物产品矩阵示意 纽邦生物创始人廖琪林深耕膳食补充剂行业十余年，据他观察，近年来，健康消费市场有两大转变，一是需求端从基础营养转向精准调理；另一方面，便捷性成为重要消费诉求，消费者期待通过日常饮食、饮品直接获取营养与调理功效。这也使得过往倾向于做片剂、粉剂、软糖等传统形态产品的终端品牌，如今在大力布局适配日常场景的功能饮料、特色功能食品。 “这类新型产品形态已成为主流。而下游需求端与产品形态的革新，也改变了终端品牌对我们这类原料供应商的",
-    "url": "https://36kr.com/p/3890940898867712?f=rss",
-    "published": "2026-07-13 08:00:00  +0800",
+    "title": "微型脑部植入物利用温度双向调控神经活动",
+    "summary": "韩国高丽大学医学院团队研制出一款新型脑部植入物，能利用温度双向调节神经活动，为下一代脑机接口和神经疾病治疗带来了全新可能。相关论文发表于新一期《科学进展》杂志。（科技日报）",
+    "url": "https://36kr.com/newsflashes/3894691285613575?f=rss",
+    "published": "2026-07-14 07:24:51  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-13"
   },
   {
     "source": "36氪",
-    "title": "多家头部量化机构回应“韩国因子”传言：行业极少使用韩国数据",
-    "summary": "13日盘后，一则关于“A股的量化策略早已将韩国科技股走势纳入因子模型，并在A股市场内部引发不同科技板块连锁反应”的市场传闻，在业内广泛传播。对此，某规模超200亿元的量化私募创始人表示：“从行业层面看，国内头部量化机构极少会使用韩国数据来挖掘因子，这种所谓传闻纯属外行‘小作文’。今天量化行业也是普遍大亏，我盘后了解到，大部分同行今天的超额收益都是负数。”对于今天市场的下跌原因，上述私募人士认为：“市场涨多了就会跌，跌多了就会涨，不应当有‘阴谋论’”。另一家百亿级量化私募总经理则回应称，上述传闻并不公允，“假如量化机构完全依据海外科技股的涨跌来进行交易，长期必然会是负超额，大部分量化机构不会这么做。量化行业总体还是通过寻找并持有优质公司来获取超额。”此外，一家以量化中性为特色的知名量化私募创始人也表示，“这种说法完全没道理”。近几天A股的调整更多是全球市场的相关性体现，以及前期科技资产拥挤度偏高所导致。该私募人士进一步强调，目前A股主要权重指数估值合理，后续市场进一步调整空间有限。（中证报）",
-    "url": "https://36kr.com/newsflashes/3893969146215433?f=rss",
-    "published": "2026-07-13 19:10:15  +0800",
+    "title": "科学家开发出芯片堆叠新工艺",
+    "summary": "韩国工业技术研究所和浦项科技大学科学家开发出一项新工艺，能稳定堆叠10余片超薄半导体芯片，由此实现了约4倍于商用高带宽存储器（HBM）的集成密度。这一突破有望缓解人工智能（AI）面临的存储瓶颈。相关论文发表于新一期《工程成果》杂志。（科技日报）",
+    "url": "https://36kr.com/newsflashes/3894675140672521?f=rss",
+    "published": "2026-07-14 07:19:23  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-13"
   },
   {
     "source": "36氪",
-    "title": "“领铄智能”完成A轮融资",
-    "summary": "36氪获悉，“领铄智能”宣布已完成A轮融资，由中信建投资本与西安财金共同参与。此前，公司已获讯飞创投与泰中合投资的Pre-A轮融资。据了解，领铄智能是一家聚焦智能化平台关键技术研发与产业化应用的AI公司，核心产品包括Blade Agentic OS智能体操作系统、Blade Agent Box智能体一体机和Blade Agentic OS Edge边缘智能体板卡。",
-    "url": "https://36kr.com/newsflashes/3893918561450755?f=rss",
-    "published": "2026-07-13 18:28:43  +0800",
+    "title": "世界首台超导量子热机研制成功",
+    "summary": "芬兰阿尔托大学研究团队成功研制出全球首个基于超导电路的循环量子热机。这一成果标志着量子热力学从理论走向实验的关键一步，也为未来高量子比特量子计算机的发展提供了新的技术路径。相关论文13日发表于《自然·通讯》杂志。（科技日报）",
+    "url": "https://36kr.com/newsflashes/3894674754681859?f=rss",
+    "published": "2026-07-14 07:16:59  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "36氪",
+    "title": "Mastercard考虑出售Vocalink多数股权，交易估值约4亿英镑",
+    "summary": "据相关报道，Mastercard正考虑将旗下英国支付子公司Vocalink的多数股权出售给英国本土银行，以回应外界对这项关键资产由美国企业持有的担忧。报道称，Mastercard内部的讨论尚处于非常初步的阶段，尚未有正式报价。Vocalink是英国零售支付系统的核心运营主体，负责设计、构建和运营基于银行账户的支付系统。根据其官网数据，该公司处理着英国超过90%的工资发放、70%以上的家庭账单支付以及98%的国家福利发放。该系统还覆盖了超过4.7万台ATM机的网络连接。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3894672062332161?f=rss",
+    "published": "2026-07-14 07:05:17  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "36氪",
+    "title": "苹果调整Mac芯片路线图，加速AI芯片研发",
+    "summary": "当地时间7月12日，科技记者马克·古尔曼发文称，苹果正调整Mac芯片路线图，以适应AI发展需求。苹果将在今年秋季推出M6基础版芯片后，首次跳过M6 Pro、M6 Max和M6 Ultra等高端版本，直接推进M7系列研发，M7预计于2027年上半年发布，M7 Ultra将于2028年推出。据悉，M7 Ultra将大幅提升AI性能，目标接近英伟达Blackwell等专用AI加速器，并有望成为苹果下一代AI服务器芯片基础。此外，苹果已着手研发AI能力更强的M8及后续芯片，2028年产品将采用1.4纳米制程。（界面）",
+    "url": "https://36kr.com/newsflashes/3894068327759108?f=rss",
+    "published": "2026-07-13 20:51:08  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "36氪",
+    "title": "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能",
+    "summary": "英特尔7月13日宣布，将向爱尔兰莱克斯利普（Leixlip）园区追加投资50亿欧元（约57亿美元），扩大先进芯片制造能力，以满足人工智能和高性能计算需求。英特尔表示，此次投资将用于升级现有晶圆厂设施、安装先进制造设备，并扩建自动化生产系统，以提升Intel 3制程节点下Intel Xeon 6及下一代Xeon服务器处理器产能，同时扩大研发活动。（界面）",
+    "url": "https://36kr.com/newsflashes/3894027379899655?f=rss",
+    "published": "2026-07-13 20:09:29  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "36氪",
+    "title": "阶跃发布大模型原生AI��端品牌STEPX及Step AOS",
+    "summary": "36氪获悉，7月13日，阶跃星辰正式发布全球首个大模型原生AI终端品牌STEPX，并同步推出全球首个智能体原生操作系统Step AOS（Step Agentic-native OS）和阶跃新一代个人智能体阶跃Amoo。发布会现场，全球首款大模型原生智能体手机（Agentic Phone）STEPX Neo同步亮相。",
+    "url": "https://36kr.com/newsflashes/3894017412726018?f=rss",
+    "published": "2026-07-13 19:59:21  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-13"
@@ -310,16 +360,6 @@
     "fetchedAt": "2026-07-13"
   },
   {
-    "source": "钛媒体",
-    "title": "“远景天机”气象大模型FE首秀：高精度超短期降雨预报助力车队登上领奖台",
-    "summary": "远景正率先推动AI气象大模型从能源走向真实场景。",
-    "url": "https://www.tmtpost.com/8062394.html",
-    "published": "Mon, 13 Jul 2026 18:21:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-13"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜微信新增转账红包「一键直达」功能/GPT-5.6正式上线/小米澎程车内「可变大空间」",
     "summary": "· 借助 AI 气象大模型发台风预测，网络博主涉嫌违反《气象法》 · OpenClaw 成立非营利基金会 · 6 月汽车出口首破百万辆，同比增长 75.1% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -351,6 +391,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+    "summary": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
+    "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+    "published": "Mon, 13 Jul 2026 15:49:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "TechCrunch",
     "title": "This slushie machine was a lifesaver during NYC’s heat wave",
     "summary": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
     "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
@@ -365,46 +415,6 @@
     "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
     "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
     "published": "Sat, 11 Jul 2026 00:29:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-    "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
-    "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-    "published": "Fri, 10 Jul 2026 17:42:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "China is catching up to Elon Musk’s reusable rockets",
-    "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
-    "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-    "published": "Fri, 10 Jul 2026 16:51:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Disney+ is considering a free streaming tier, report says",
-    "summary": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
-    "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
-    "published": "Fri, 10 Jul 2026 16:29:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Netflix could be planning ‘always-on’ live TV channels",
-    "summary": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
-    "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
-    "published": "Fri, 10 Jul 2026 14:53:08 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-13"
@@ -690,31 +700,67 @@
     "fetchedAt": "2026-07-13"
   },
   {
-    "source": "微博",
-    "title": "#台积电2nm芯片开始量产#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23台积电2nm芯片开始量产%23",
-    "published": "2026-07-13",
-    "lang": "zh",
+    "source": "The Verge",
+    "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+    "summary": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and other potential hazards, and right now they're on sale for $109 ($50 off) at Amazon, Walmart, and B&H Photo. That […]",
+    "url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
+    "published": "2026-07-13T16:57:44-04:00",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-07-13",
-    "meta": {
-      "hotValue": 395136,
-      "rank": 17
-    }
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "The Verge",
+    "title": "Apple’s public betas for iOS 27 and more are out now",
+    "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now […]",
+    "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+    "published": "2026-07-13T16:45:40-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "The Verge",
+    "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+    "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get […]",
+    "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+    "published": "2026-07-13T16:44:20-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "The Verge",
+    "title": "Siri AI is already changing how I use my iPhone",
+    "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard […]",
+    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "published": "2026-07-13T16:43:20-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
+  },
+  {
+    "source": "The Verge",
+    "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+    "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on Tahoe and disliking all the transparency). […]",
+    "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+    "published": "2026-07-13T16:43:15-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-13"
   },
   {
     "source": "微博",
-    "title": "#存储芯片暴涨后回调原因#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23存储芯片暴涨后回调原因%23",
+    "title": "#中国自研AI芯片取得架构突破#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23中国自研AI芯片取得架构突破%23",
     "published": "2026-07-13",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-13",
     "meta": {
-      "hotValue": 241262,
-      "rank": 46
+      "hotValue": 256781,
+      "rank": 8
     }
   },
   {
@@ -727,7 +773,7 @@
     "type": "community",
     "fetchedAt": "2026-07-13",
     "meta": {
-      "replies": 174,
+      "replies": 191,
       "node": "生活"
     }
   }
