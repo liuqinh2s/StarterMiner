@@ -1,6 +1,26 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+    "summary": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。 中国人寿：预计上半年净利润同比增长约215%-235% 36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.19亿元，同比增长约215%到235%。业绩变动主要系公司持续深化资产负债联动，优化资产配置，提升投资专业能力，取得良好投资业绩。 光迅科技：预计上半年净利润同比增长50%-65.15% 36氪获悉，光迅科技公告，预计2026年半年度归属于上市公司股东的净利润为5.59亿元-6.15亿元，同比增长50%-65.15%。报告期内，得益于全球AI算力投资浪潮驱动数通光模块需求快速增长，叠加国内云服务商加大数据中心建设投入，公司凭借完备的产品体系覆盖数据中心及通信网络全场景，有效支撑了经营业绩的持续提升。预计净利润较上年同期大幅增长。 脸书母公司计划在美建50",
+    "url": "https://36kr.com/p/3895322613185543?f=rss",
+    "published": "2026-07-14 19:21:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-14"
+  },
+  {
+    "source": "36氪",
+    "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
+    "summary": "凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服���，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名全职财务人员，业务却已经跨越多个市场、币种和监管辖区。 AI正在让这样的创业路径成为可能。过去需要市场、运营、客服等一整套全球化团队才能完成的工作，现在借助智能体就能承担相当一部分。新一代初创企业不必再按照“先站稳本土、再逐步出海”的传统顺序扩张，而可能从成立第一天起，就直接面对全球客户和供应商。 但当AI以足够快的速度跑在前面时，大多数企业的金融管道仍未为此做好准备。这也是为什么，全球顶级资本开始押注金融基础设施的AI化重构。 2025年6月，全球金融基础设施平台Airwallex空中云汇宣布完成3.2亿美元H轮融资，估值达110亿美元，较半年前的80亿美元大幅跃升，本轮融资由老股东Addition领投，Baillie Gifford、T. Rowe Price、Amex Ventures等现有及新晋投资者跟投。 这笔融资也传递出一个明确的信号：AI经济需要一套与之匹配的金融操作系统，而空中云汇正是少数既有全球合规底座、又在主动重构",
+    "url": "https://36kr.com/p/3895355856403456?f=rss",
+    "published": "2026-07-14 18:48:32  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-14"
+  },
+  {
+    "source": "36氪",
     "title": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛",
     "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，桌面级CNC（数控机床）企业「奇塑科技」于近期完成近亿元人民币天使轮融资。本轮融资由商汤国香、首形科技、全新世、奇绩创坛共同投资。本轮资金将主要用于桌面级CNC软硬件产品的研发、量产以及后续的市场营销。 在消费级3D打印机和激光雕刻机已完成大众市场教育，并诞生了诸如拓竹、xTool等多个头部企业后，能够实现“从软材到硬材强三维加工”的CNC产品，被视为消费级制造领域的下一片万亿蓝海。 早在2018年行业普遍聚焦3D打印赛道时，奇塑科技团队就已将目光投向CNC领域。在创始人夏楠看来，CNC是制造业最基础、通用性最强的加工方式，覆盖的场景比3D打印更广，拥有万亿级的产业底盘；如果能用AI重构CNC的制造范式、降低门槛，将进一步拓宽CNC的使用场景，甚至下沉到普通用户的桌面端。这会改变全社会的生产模式，释放极大的增量价值。 当前，市面上已涌现出数家消费级CNC初创公司，资本也争相涌入。企业共同面临的问题是：如何降低CNC使用门槛。这是工业界花费几十年也未解决的难题。 具体来看，第一个难题，使用CAM软件极其复杂。CAM即计算机辅助制造（Compu",
     "url": "https://36kr.com/p/3894935854677249?f=rss",
@@ -12,7 +32,7 @@
   {
     "source": "36氪",
     "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
-    "summary": "触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视角的“异购”数据采集，服务于自动驾驶与机器人训练。成本优势较为突出",
+    "summary": "触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型���术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视角的“异购”数据采集，服务于自动驾驶与机器人训练。成本优势较为",
     "url": "https://36kr.com/p/3894821059918855?f=rss",
     "published": "2026-07-14 09:38:13  +0800",
     "lang": "zh",
@@ -62,7 +82,7 @@
   {
     "source": "36氪",
     "title": "潜入《遗忘之海》，我才读懂网易的心气",
-    "summary": "文丨小葵 编辑丨果脯 7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。 这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿元。 管理层连续三个季度在财报会上点名力挺，称其“令人耳目一新”。七年打磨、三端互通、五千万元创作者扶持计划，从研发资源到生态投入全部拉满这款游戏几乎是网易近年来押注最狠的一款产品。 这是做出《第五人格》的团队头一回涉足大世界，美术风格延续了工作室一贯的怪诞路线。在如今国产游戏不是拼命卷写实就是扎堆唯美二次元的大潮里，Joker选择用明亮、高饱和度色彩搭起一个由木偶造型和波普艺术缝合的海洋大世界。 捏脸系统 对于Joker工作室来说，一以贯之的美术风格也为《遗忘之海》带来了辨识度。如今市面上的大世界游戏在写实和二次元两条路上都挤满了人，这样的格局下，《遗忘之海》的木偶主角，在美术风格上就能让人眼前一亮，与其",
+    "summary": "文丨小葵 编辑丨果脯 7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。 这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站��多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿元。 管理层连续三个季度在财报会上点名力挺，称其“令人耳目一新”。七年打磨、三端互通、五千万元创作者扶持计划，从研发资源到生态投入全部拉满这款游戏几乎是网易近年来押注最狠的一款产品。 这是做出《第五人格》的团队头一回涉足大世界，美术风格延续了工作室一贯的怪诞路线。在如今国产游戏不是拼命卷写实就是扎堆唯美二次元的大潮里，Joker选择用明亮、高饱和度色彩搭起一个由木偶造型和波普艺术缝合的海洋大世界。 捏脸系统 对于Joker工作室来说，一以贯之的美术风格也为《遗忘之海》带来了辨识度。如今市面上的大世界游戏在写实和二次元两条路上都挤满了人，这样的格局下，《遗忘之海》的木偶主角，在美术风格上就能让人眼前一亮，与",
     "url": "https://36kr.com/p/3893769618569985?f=rss",
     "published": "2026-07-13 16:31:34  +0800",
     "lang": "zh",
@@ -71,80 +91,40 @@
   },
   {
     "source": "36氪",
-    "title": "B站AI创造公开赛投币榜上线",
-    "summary": "36氪获悉，7月14日，哔哩哔哩（简称“B站”）正式上线“build in bilibili · AI创造公开赛”作品投币入围榜。数据显示，启动仅一个月，大赛投稿创作者已接近5000人，站内“vibe coding”相关关键词的日均搜索量飙升6倍。尤为值得关注的是，目前投币榜前十名中，约半数为粉丝量不过万、且无专业开发经验的UP主，另有两到三个席位由创业团队占据。",
-    "url": "https://36kr.com/newsflashes/3894986255744001?f=rss",
-    "published": "2026-07-14 12:24:54  +0800",
+    "title": "金饰克价年内大跌485元",
+    "summary": "7月14日，国内黄金零售市场延续跌势，周大福、老凤祥等主流品牌足金饰品报价普遍下探至1215元/克左右，单日跌幅超20元/克，创近两个月最大单日跌幅。相比今年最高点的1700元/克，年内跌幅已近485元/克。7月14日，上海黄金交易所AU9999黄金收盘价为879.9元/克，而2026年1月份，AU9999黄金的年内最高点为1256元/克。这意味着，以我国婚嫁传统的“三金”购买量50g来计算，当前购买价格比年初可以便宜近2万元。（中新经纬）",
+    "url": "https://36kr.com/newsflashes/3895374748646402?f=rss",
+    "published": "2026-07-14 19:06:58  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-14"
   },
   {
     "source": "36氪",
-    "title": "长飞光纤等在武汉成立智能创投基金，出资额5亿",
-    "summary": "36氪获悉，天眼查App显示，近日，长飞江城智能创业投资基金（武汉）合伙企业（有限合伙）成立，执行事务合伙人为武汉长飞产业基金管理有限公司，出资额5亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务。合伙人信息显示，该基金由长飞光纤旗下武汉市长飞资本管理有限责任公司、江城产业投资基金（武汉）有限公司、彼岸科创投资基金（武汉）有限公司等共同出资。",
-    "url": "https://36kr.com/newsflashes/3894952813886722?f=rss",
-    "published": "2026-07-14 12:15:47  +0800",
+    "title": "上纬新材发布全球首个可变形个人机器人启元T1，将亮相WAIC 2026",
+    "summary": "36氪获悉，近日，上纬新材正式发布旗下消费级具身智能品牌启元机器人的全新产品——启元T1（Transformer 1）。作为全球首个可变形个人机器人，启元T1采用行业首创的Transformer跨形态一体架构，可实现轮足人形与四足形态的自主切换，进一步拓展机器人在家庭陪伴、户外出行、移动拍摄等多元场景中的应用能力。据了解，启元T1将于7月17日至20日举行的2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC）期间首次公开亮相。",
+    "url": "https://36kr.com/newsflashes/3895342578809862?f=rss",
+    "published": "2026-07-14 18:44:33  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-14"
   },
   {
     "source": "36氪",
-    "title": "荣耀与阿里将开展AI智能体终端合作",
-    "summary": "荣耀将于7月18日在2026世界人工智能大会举办“从数字屏幕到具身智能——物理世界新范式”分论坛。除之前已官宣的世界著名科技未来学家凯文·凯利外，阿里巴巴集团副总裁、ATH事业群Token Foundry多模态交互负责人许主洪的加入，也引发了业界对后续各方合作的猜想。记者从荣耀和阿里内部渠道获悉，双方将官宣重磅合作，联手方向极有可能是下一代终端操作系统 Agentic OS 的落地实践。据此前公开消息，本次论坛将聚焦AI的智能度和生命感，探讨从“工具”到“伙伴”的 Agentic OS 趋势演进。（财联社）",
-    "url": "https://36kr.com/newsflashes/3894943679167744?f=rss",
-    "published": "2026-07-14 11:41:36  +0800",
+    "title": "天齐锂业：预计上半年净利润同比增长3276%-4935%",
+    "summary": "36氪获悉，天齐锂业公告，预计2026年半年度归属于上市公司股东的净利润为28.50亿元-42.50亿元，同比增长3276%-4935%。业绩变动主要系受益于新能源产业发展与下游需求增长，公司主要锂产品销售均价较上年同期明显增长，同时联营公司SQM业绩预计同比大幅增长，公司确认的投资收益较上年同期大幅增长。",
+    "url": "https://36kr.com/newsflashes/3895345923734537?f=rss",
+    "published": "2026-07-14 18:35:47  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-14"
   },
   {
     "source": "36氪",
-    "title": "“新奇机器人”完成A+轮融资",
-    "summary": "36氪获悉，近日，“新奇机器人”宣布完成A+轮融资。这是新奇机器人自2025年底启动首轮市场化融资以来，半年内完成的第三轮融资。本轮融资完成后，新奇机器人的投资人阵容涵盖经纬创投、沃赋创投、云晖资本、厚雪资本、Synstellation Capital等市场化投资机构，智元机器人、福然德等产业投资方，以及建发新兴投资、吴中金控、雉荟投资、宁波天使等国有背景资本。",
-    "url": "https://36kr.com/newsflashes/3894938156465413?f=rss",
-    "published": "2026-07-14 11:35:58  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "36氪",
-    "title": "A股三大指数午间休盘集体下跌，油气股走强",
-    "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.66%，深成指跌0.42%，创业板指跌0.29%；煤炭、油气、零售板块领涨，大有能源、泰山石油、中百集团涨停；互联网、电脑硬件、航天军工板块跌幅居前，中国长城、中国卫星跌停，卓易信息跌超14%。",
-    "url": "https://36kr.com/newsflashes/3894935460527361?f=rss",
-    "published": "2026-07-14 11:33:14  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "36氪",
-    "title": "小米景明在绵阳成立新科技公司，注册资本100万",
-    "summary": "36氪获悉，天眼查App显示，近日，绵阳小米景明科技有限公司成立，法定代表人为樊家麟，注册资本100万人民币，经营范围含汽车销售、新能源汽车整车销售、新能源汽车换电设施销售、电动汽车充电基础设施运营、充电桩销售等。股东信息显示，该公司由小米景明科技有限公司全资持股。",
-    "url": "https://36kr.com/newsflashes/3894904700828672?f=rss",
-    "published": "2026-07-14 11:01:56  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "36氪",
-    "title": "启境汽车增资至30.2亿，增幅约44%",
-    "summary": "36氪获悉，天眼查App显示，近日，启境汽车关联公司启境智能汽车科技（广州）有限公司发生工商变更，新增泓途一号企业管理（广州）合伙企业（有限合伙）、嘉兴博原亿成股权投资合伙企业（有限合伙）等为股东。同时，注册资本由21亿人民币增至约30.2亿人民币，增幅约44%。该公司成立于2025年3月，法定代表人为閤先庆，经营范围包括汽车销售，汽车零部件及配件制造，智能车载设备制造，新能源汽车电附件销售，工程和技术研究和试验发展等，现由广州汽车集团股份有限公司、广汽埃安新能源汽车股份有限公司及上述新增股东共同持股。",
-    "url": "https://36kr.com/newsflashes/3894888469150725?f=rss",
-    "published": "2026-07-14 10:57:23  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "少数派",
-    "title": "本周看什么 | 最近值得一看的 8 部作品",
-    "summary": "📅本周新预告《恐怖游轮》内地定档7月17日7月8日，电影《恐怖游轮》发布了中国内地定档预告，将于7月17日上映。克里斯托弗·史密斯执导、编剧，梅利莎·乔治主演，单亲母亲杰西和一帮朋友乘游艇出海游玩，但 ... 查看全文",
-    "url": "https://sspai.com/post/112169",
-    "published": "Fri, 10 Jul 2026 17:44:19 +0800",
+    "title": "梁文锋身家飙升至360亿美元，超越 Anthropic和OpenAI联合创始人",
+    "summary": "DeepSeek完成最新一轮融资后，创始人梁文锋的个人财富增长逾一倍，使其成为全球 AI大模型创始人中身家最高的人。根据彭博亿万富豪指数，梁文锋目前身家达360亿美元（此前约167亿美元），超过了Anthropic联合创始人达里奥·阿莫代伊和OpenAI联合创始人格雷格·布罗克曼。此次比较仅涵盖主营业务及大部分收入直接来自AI大模型的企业，不包括阿里巴巴、腾讯等业务多元化大型科技集团，也不包括数据中心、半导体等AI产业链相关企业。",
+    "url": "https://36kr.com/newsflashes/3895324497542407?f=rss",
+    "published": "2026-07-14 18:08:59  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-14"
@@ -290,41 +270,21 @@
     "fetchedAt": "2026-07-14"
   },
   {
-    "source": "创业邦",
-    "title": "融资丨「可灵 AI」落地近 30 亿美元融资，创全球多模态大模型公司单轮融资规模新纪录",
-    "summary": "7 月 2 日，快手旗下视频生成大模型「可灵 AI」落地近 30 亿美元融资，投后估值有望达到 180 亿美元。此次融资，可灵 AI 创下全球多模态大模型公司单轮最大额融资纪录，预示着其独立商业化发展进程正式开启。光源资本担任本次融资独家财务顾问。 本轮融资由 CPE 源峰、国方创投、BlueFive、腾讯、中信证券、中关村科学城基金（联合国科投资）联合领投，L2F 光源创业者基金等数十家一线机构共同参与。 本次融资汇聚顶级产业资本，腾讯、阿里云、百度三大互联网公司同步战略布局，华策影视和芒果产业投资人（厚为资本）等头部文娱产业方重磅参与。快手联合创始人杨远熙也参与了本次融资。 光源资本创始人、CEO郑烜乐表示：“热烈祝贺可灵 AI 创下全球多模态大模型公司单轮最大额融资纪录！作为快手长期资本市场伙伴，光源资本非常荣幸以独家财务顾问及 L2F 光源创业者基金跟投方的双重身份深度参与本次融资，并助力公司以极快速度、极大交易额，搭配极具代表性的多元化顶尖资金方，顺利如期完成交易，也充分体现了市场对可灵团队技术实力和商业化前景的高度认可。光源 12 年前从0到1助力快手持续融资，到现在助力可",
-    "url": "http://www.cyzone.cn/article/838745.html",
-    "published": "Fri, 03 Jul 2026 01:43:47 GMT",
+    "source": "钛媒体",
+    "title": "AI融资489亿背后的焦虑：技术领先者，如何跨越心智鸿沟",
+    "summary": "超级技术时代，如何找到被理解的位置？",
+    "url": "https://www.tmtpost.com/8063785.html",
+    "published": "Tue, 14 Jul 2026 18:59:11 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-14"
   },
   {
     "source": "钛媒体",
-    "title": "对话逐际动力张巍：人形机器人已经有“大脑”，但“有脑”和“有技能”是两回事",
-    "summary": "不走“堆技能融资”的短跑路线，而是从底层运控基础模型做起。",
-    "url": "https://www.tmtpost.com/8063449.html",
-    "published": "Tue, 14 Jul 2026 10:11:14 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "钛媒体",
-    "title": "【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划",
-    "summary": "国务院批复同意《扩大消费“十五五”规划》；国务院印发《国民健康“十五五”规划》；中办、国办发布关于完善自然资源资产管理制度体系的意见；民政部等14部门联合发文，推动中国康复辅具产业扩能提质；内部人士：菜鸟供应链定位独立公司，将继续加大投入；阶跃星辰发布大模型原生智能体手机；苹果调整Mac芯片路线图，加速AI芯片研发；中国首个禁售燃油车省份确认：海南",
-    "url": "https://www.tmtpost.com/8063498.html",
-    "published": "Tue, 14 Jul 2026 07:20:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "钛媒体",
-    "title": "前小米副总卖咖啡机器人，融资数亿",
-    "summary": "唐沐透露，2026 年公司手握的订单金额已接近3至5亿元。",
-    "url": "https://www.tmtpost.com/8062012.html",
-    "published": "Mon, 13 Jul 2026 18:54:19 +0800",
+    "title": "物理AI，让自动驾驶迎来了“第二春”",
+    "summary": "当字节跳动带着它的“世界模型”团队悄然叩响自动驾驶大门时，一个被行业讨论了近十年的命题，突然换了种全新的念法。这一次，颠覆它的不是更贵的传感器、更大的车队，而是一套能“脑补”物理世界运行规律的数字大脑。",
+    "url": "https://www.tmtpost.com/8064199.html",
+    "published": "Tue, 14 Jul 2026 18:58:10 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-14"
@@ -361,6 +321,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Pinwheel launches a retro-inspired landline phone for kids",
+    "summary": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
+    "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+    "published": "Tue, 14 Jul 2026 09:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-14"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
     "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
     "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
@@ -385,6 +355,26 @@
     "summary": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
     "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
     "published": "Mon, 13 Jul 2026 15:49:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "China’s electric vehicle exports rise 68.7% in H1 2026",
+    "summary": "China’s electric vehicle exports rose 68.7% year-on-year in the first half of 2026, according to customs data released on July 14. Exports of electric motorcycles and bicycles increased 31.5%, electric locomotives 45.1%, lithium batteries 37.6% and wind turbines 35.6%. The same data showed that exports of AI-integrated intelligent bionic robots exceeded 10,000 units and reached […]",
+    "url": "https://technode.com/2026/07/14/chinas-electric-vehicle-exports-rise-68-7-in-h1-2026/",
+    "published": "Tue, 14 Jul 2026 06:13:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "Amap launches ABot-World Studio for interactive video and 3D scene generation",
+    "summary": "Amap, Alibaba’s digital mapping and navigation platform, has launched ABot-World Studio and opened it for testing. The product combines interactive video generation with 3D Gaussian splatting, allowing users to create explorable 3D scenes from text or images rather than producing only a fixed video. ABot-World Studio is part of Amap’s broader ABot world-model product line. […]",
+    "url": "https://technode.com/2026/07/14/amap-launches-abot-world-studio-for-interactive-video-and-3d-scene-generation/",
+    "published": "Tue, 14 Jul 2026 06:05:21 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-14"
@@ -650,21 +640,11 @@
     "fetchedAt": "2026-07-14"
   },
   {
-    "source": "TechNode",
-    "title": "Bytedance’s Doubao expands into ride-hailing with in-app taxi beta test",
-    "summary": "After expanding into e-commerce and group-buying—two key pillars of the local services sector—Doubao, the AI assistant app developed by ByteDance, is now moving further into the instant mobility space. On Monday, the “Doubao app taxi-hailing beta test” climbed to the top of Weibo’s trending list. On social media platforms, users reported that Doubao is currently […]",
-    "url": "https://technode.com/2026/06/23/bytedances-doubao-expands-into-ride-hailing-with-in-app-taxi-beta-test-in-beijing-and-hangzhou/",
-    "published": "Tue, 23 Jun 2026 04:16:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "JD.com founder says delivery workers will no longer be needed in future",
-    "summary": "At the 2026 APEC China CEO Forum held on Sunday, JD.com founder Liu Qiangdong revealed that the company has launched an internal Nirvana Plan aimed at helping its 700,000 delivery workers and other frontline employees adapt to the impact of AI and automation. Liu said he believes robots will eventually take over package deliveries, eliminating […]",
-    "url": "https://technode.com/2026/06/22/jd-com-founder-says-delivery-workers-will-no-longer-be-needed-in-future/",
-    "published": "Mon, 22 Jun 2026 01:58:13 +0000",
+    "source": "The Verge",
+    "title": "The first sunlight reflecting space mirror has been cleared for launch",
+    "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in low-Earth orbit later this year, despite concerns over how the technology […]",
+    "url": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+    "published": "2026-07-14T07:10:39-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-14"
@@ -695,206 +675,6 @@
     "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get […]",
     "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
     "published": "2026-07-13T16:44:20-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "The Verge",
-    "title": "Siri AI is already changing how I use my iPhone",
-    "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard […]",
-    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-    "published": "2026-07-13T16:43:20-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "The Verge",
-    "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-    "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on Tahoe and disliking all the transparency). […]",
-    "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
-    "published": "2026-07-13T16:43:15-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Alarm over launch of facial recognition in UK shops that instantly alerts police",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties Comments URL: https://news.ycombinator.com/item?id=48900361 Points: 6 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
-    "published": "Mon, 13 Jul 2026 23:31:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple acquires observability startup SigScalr",
-    "summary": "Article URL: https://9to5mac.com/2026/07/13/apple-acquires-observability-startup-sigscalr/ Comments URL: https://news.ycombinator.com/item?id=48897762 Points: 4 # Comments: 0",
-    "url": "https://9to5mac.com/2026/07/13/apple-acquires-observability-startup-sigscalr/",
-    "published": "Mon, 13 Jul 2026 19:42:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How an Indian startup is using software to break China's rare earth monopoly",
-    "summary": "Article URL: https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12 Comments URL: https://news.ycombinator.com/item?id=48897411 Points: 3 # Comments: 1",
-    "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
-    "published": "Mon, 13 Jul 2026 19:16:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Screwing up vulnerability management at scale, and building a startup to fix it",
-    "summary": "Article URL: https://www.subimage.io/blog/screwing-up-vuln-mgmt-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48895376 Points: 4 # Comments: 0",
-    "url": "https://www.subimage.io/blog/screwing-up-vuln-mgmt-at-scale/",
-    "published": "Mon, 13 Jul 2026 16:50:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FCC approves orbital space mirrors, first test satellites will launch this year",
-    "summary": "Article URL: https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more Comments URL: https://news.ycombinator.com/item?id=48893775 Points: 1 # Comments: 1",
-    "url": "https://www.tomshardware.com/tech-industry/fcc-approves-orbital-space-mirrors-first-test-satellites-will-launch-this-year-large-spacecraft-reflects-sunlight-to-earths-surface-for-construction-sites-search-and-rescue-lighting-and-more",
-    "published": "Mon, 13 Jul 2026 15:00:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I had rival LLMs judge 205 of my own startup ideas",
-    "summary": "Article URL: https://skeptral.com Comments URL: https://news.ycombinator.com/item?id=48892654 Points: 1 # Comments: 2",
-    "url": "https://skeptral.com",
-    "published": "Mon, 13 Jul 2026 13:50:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI agent startup uses agent to lead 100M round",
-    "summary": "Article URL: https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/ Comments URL: https://news.ycombinator.com/item?id=48885853 Points: 7 # Comments: 0",
-    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "published": "Sun, 12 Jul 2026 23:15:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Don't Build an RL Environment Startup",
-    "summary": "Article URL: https://benanderson.work/blog/dont-build-rl-env-startup/ Comments URL: https://news.ycombinator.com/item?id=48884805 Points: 4 # Comments: 1",
-    "url": "https://benanderson.work/blog/dont-build-rl-env-startup/",
-    "published": "Sun, 12 Jul 2026 21:07:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China lands rocket during an orbital launch for first time",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever Comments URL: https://news.ycombinator.com/item?id=48884642 Points: 3 # Comments: 0",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
-    "published": "Sun, 12 Jul 2026 20:49:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Free tool matches your startup or nonprofit to open federal grants",
-    "summary": "Article URL: https://autogranthunter.com/grant-match/ Comments URL: https://news.ycombinator.com/item?id=48883527 Points: 2 # Comments: 0",
-    "url": "https://autogranthunter.com/grant-match/",
-    "published": "Sun, 12 Jul 2026 18:55:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Fuels Startup Boom Across the US",
-    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-10/ai-powered-entrepreneurs-set-to-launch-record-number-of-new-businesses Comments URL: https://news.ycombinator.com/item?id=48882643 Points: 2 # Comments: 1",
-    "url": "https://www.bloomberg.com/news/features/2026-07-10/ai-powered-entrepreneurs-set-to-launch-record-number-of-new-businesses",
-    "published": "Sun, 12 Jul 2026 17:03:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Battery Startup Taking on China's Giants",
-    "summary": "Article URL: https://www.wired.com/story/prologium-battery-startup-betting-against-china/ Comments URL: https://news.ycombinator.com/item?id=48882619 Points: 2 # Comments: 0",
-    "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-    "published": "Sun, 12 Jul 2026 17:01:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Launch first-party blogs at scale for free",
-    "summary": "Article URL: https://www.letterstory.com Comments URL: https://news.ycombinator.com/item?id=48882312 Points: 2 # Comments: 0",
-    "url": "https://www.letterstory.com",
-    "published": "Sun, 12 Jul 2026 16:23:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch third-party blogs for AEO in 5 minutes",
-    "summary": "Article URL: https://phantomstory.com Comments URL: https://news.ycombinator.com/item?id=48882303 Points: 2 # Comments: 0",
-    "url": "https://phantomstory.com",
-    "published": "Sun, 12 Jul 2026 16:23:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Landmark – an algorithmic index of relevant names, unclaimed at launch",
-    "summary": "Article URL: https://landmarkindex.org Comments URL: https://news.ycombinator.com/item?id=48878236 Points: 2 # Comments: 0",
-    "url": "https://landmarkindex.org",
-    "published": "Sun, 12 Jul 2026 04:23:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Sanfransim.com – a long waited startup simulation game",
-    "summary": "Article URL: https://sanfransim.com/ Comments URL: https://news.ycombinator.com/item?id=48875532 Points: 2 # Comments: 0",
-    "url": "https://sanfransim.com/",
-    "published": "Sat, 11 Jul 2026 20:28:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Physical AI scale up chemistry startup gaining traction at Big Pharma",
-    "summary": "Article URL: https://skydeckconnect.com/telescope-innovations-telif Comments URL: https://news.ycombinator.com/item?id=48874653 Points: 4 # Comments: 0",
-    "url": "https://skydeckconnect.com/telescope-innovations-telif",
-    "published": "Sat, 11 Jul 2026 18:53:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia RTX 3060 returns to retail 5 years after original launch, priced at $339",
-    "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition Comments URL: https://news.ycombinator.com/item?id=48874329 Points: 2 # Comments: 0",
-    "url": "https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition",
-    "published": "Sat, 11 Jul 2026 18:18:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-14"
