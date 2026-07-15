@@ -1,8 +1,28 @@
 [
   {
     "source": "36氪",
+    "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+    "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段。 △来源：网信中国 同日，阿里巴巴向媒体确认，阿里千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS和visionOS的国行设备，用户无需切换App即可在苹果设备上体验千问的文本与图像理解、内容生成等能力。此后，阿里股价应声上涨超过5%。 此前，国内手机厂商的端侧AI能力大多由自研模型支撑——华为有小艺、OPPO有AndesGPT、vivo有蓝心、小米有澎湃AI。而如今",
+    "url": "https://36kr.com/p/3896830362601351?f=rss",
+    "published": "2026-07-15 19:47:14  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-15"
+  },
+  {
+    "source": "36氪",
+    "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+    "summary": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士周三透露，韩国LG新能源将为谷歌规模最大的太阳能与储能项目供应电池，此举标志着该公司进一步拓展了与AI数据中心激增的电力需求相关的能源基础设施业务。谷歌与可再生能源开发商Cypress Creek Energy在阿肯色州联合公布了“钢铁河能源中心”项目。该项目初期将配置1.6吉瓦（GW）的太阳能发电能力与约2吉瓦时（GWh）的电池储能系统；到2029年，规模将扩大至2.5吉瓦太阳能发电和2.9吉瓦",
+    "url": "https://36kr.com/p/3896563671222147?f=rss",
+    "published": "2026-07-15 19:37:31  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-15"
+  },
+  {
+    "source": "36氪",
     "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-    "summary": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏 UGC 领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC 创作者大多停留在 「用爱发电」 的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到 AI 的深度渗透，让这层天花板开始松动。 上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进一步升级AI能力在创作全链路中的应用。 相比一次简单的工具升级，此次调整更像是一次UGC基础设施的重构：通过AI能力与编辑器体系的结合，《蛋仔派对》正在探索如",
+    "summary": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完��项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏 UGC 领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC 创作者大多停留在 「用爱发电」 的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到 AI 的深度渗透，让这层天花板开始松动。 上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进一步升级AI能力在创作全链路中的应用。 相比一次简单的工具升级，此次调整更像是一次UGC基础设施的重构：通过AI能力与编辑器体系的结合，《蛋仔派对》正在探索",
     "url": "https://36kr.com/p/3896755010963333?f=rss",
     "published": "2026-07-15 18:36:56  +0800",
     "lang": "zh",
@@ -61,90 +81,40 @@
   },
   {
     "source": "36氪",
-    "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后， 智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作 ，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。 智创芯成立于2022年， 由前阿里巴巴平头哥高管陈昊创立，核心团队来自阿里平头哥、中兴、海思等半导体企业 ，拥有多年的行业经验，聚焦RISC-V处理器及SoC芯片研发。 近年来，随着标准体系不断完善，RISC-V正成为全球增长最快的开放指令集架构之一。RISC-V International持续推进向量扩展、DSP扩展、加密安全、虚拟化等标准演进，使RISC-V逐步覆盖智能终端、工业控制、边缘计算、物联网等更多应用场景。根据The SHD Group预测，到2030年，全球RISC-V SoC累计出货量将达到1618.1亿颗，市场规模有望达到927亿美元。 目前，",
-    "url": "https://36kr.com/p/3896295689569922?f=rss",
-    "published": "2026-07-15 10:37:46  +0800",
+    "title": "日本议会通过法律，将加密货币重新归类为金融资产",
+    "summary": "日本将加密货币重新归类为金融工具，这一结构性变化确立了加密资产单独征税的法律框架以及未来加密交易所交易基金（ETF）的基础。该立法周三经议会批准修订了《金融工具和交易法》及《支付服务法》（PSA）。该修订将加密货币从主要作为支付工具的框架转变为与其他金融工具一同作为投资对待。新规预计将于2027年生效。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3897516767938176?f=rss",
+    "published": "2026-07-16 07:19:04  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "36氪",
-    "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
-    "summary": "今日热点导览 小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案 TOP 3大新闻 LV起诉国家知识产权局，案件定于16日开庭审理 人民法院公告网显示，北京知识产权法院将于2026年7月16日公开审理一起涉及路易威登的商标行政纠纷案。该案案号为（2026）京73行初4727号，原告为路易威登马利蒂，被告为国家知识产权局，黄民耀作为第三人参加诉讼。路易威登马利蒂也是此前起诉茉莉奶白商标侵权案的原告。公告暂未披露涉案商标及具体争议内容。案件定于16日9时30分在北京知识产权法院第15法庭开庭审理。（界面新闻） DeepSeek梁文锋身价飙升至360亿美元，成为AI公司新首富 根据最新的彭博亿万富豪指数（截至2026年7月14日），DeepSeek创始人梁文锋的身价飙升193亿美元，达到360亿美元（注：现汇率约合2443.78亿元人民币），成为全球AI公司领域的新",
-    "url": "https://36kr.com/p/3896138695706497?f=rss",
-    "published": "2026-07-15 07:57:20  +0800",
+    "title": "Uber接近收购德国外卖公司Delivery Hero，对后者估值近125亿欧元",
+    "summary": "据报道，Uber接近达成协议收购德国外卖公司Delivery Hero，最快当地时间7月16日对外宣布，这笔交易对后者的估值约为125亿欧元。报道称，根据拟议交易，Delivery Hero将剥离部分业务，包括把土耳其子公司 Yemeksepeti及数项欧洲业务出售给一家投资公司，旨在减少与Uber在地理区域上的业务重叠，并降低面临反垄断审查的可能性。（界面）",
+    "url": "https://36kr.com/newsflashes/3897516279695238?f=rss",
+    "published": "2026-07-16 07:18:35  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "36氪",
-    "title": "上线一周，腾讯混元大模型Hy3总调用量增长超68倍",
-    "summary": "36氪获悉，7月15日，腾讯混元大模型Hy3总调用量较上一代模型（Hy2）增长超68倍。延续Hy3 preview版本的增长态势，Hy3展现出更高的增长斜率。发布一周后，Hy3在OpenRouter全球大模型调用量总榜排名第一。",
-    "url": "https://36kr.com/newsflashes/3896804710647431?f=rss",
-    "published": "2026-07-15 19:14:44  +0800",
+    "title": "Anthropic、黑石集团等联合推出企业AI服务公司Ode",
+    "summary": "7月15日，Anthropic、黑石集团与Hellman & Friedman联合推出今年早些时候公布的企业AI服务公司Ode with Anthropic（简称“Ode”），现以正式名称和品牌亮相。Ode公司由Chris Taylor担任首席执行官，Eddie Siegel担任首席技术官。除创始合伙人外，投资者联盟还包括高盛、General Atlantic、Leonard Green & Partners、阿波罗全球管理公司、新加坡政府投资公司（GIC）和红杉资本。（界面）",
+    "url": "https://36kr.com/newsflashes/3897510510855817?f=rss",
+    "published": "2026-07-16 07:12:43  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "36氪",
-    "title": "小鹏计划明年在全球推出人形机器人",
-    "summary": "据报道，小鹏计划明年在全球推出人形机器人，计划年底前每月生产1000台机器人。（财联社）",
-    "url": "https://36kr.com/newsflashes/3896801391609737?f=rss",
-    "published": "2026-07-15 19:11:21  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-15"
-  },
-  {
-    "source": "36氪",
-    "title": "美数据中心运营商Switch正筹备IPO，估值或达800亿美元",
-    "summary": "美数据中心运营商Switch正筹备IPO，估值或达800亿美元。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3896793962661766?f=rss",
-    "published": "2026-07-15 19:03:48  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-15"
-  },
-  {
-    "source": "36氪",
-    "title": "“问天量子”完成B轮融资",
-    "summary": "36氪获悉，近日，“问天量子”完成B轮融资，获得6亿元资金注入，新进投资方包括海南晴澜、海南量启、淄博汇富齐嘉等多家机构。此次融资资金将主要用于核心技术的规模化商用、量子随机数芯片的量产扩能，以及面向人工智能时代的量子AI融合产品研发。",
-    "url": "https://36kr.com/newsflashes/3896750928775041?f=rss",
-    "published": "2026-07-15 18:20:01  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-15"
-  },
-  {
-    "source": "36氪",
-    "title": "印度宣布再投1.28万亿卢比，提升本土芯片制造能力",
-    "summary": "7月15日，据报道，印度承诺再投入1.28万亿卢比（约合133亿美元）以促进国内芯片制造发展。报道称，此项举措将建立在印度2021年推出的100亿美元激励计划基础之上，该计划曾承诺承担半导体项目建设成本的一半。（界面）",
-    "url": "https://36kr.com/newsflashes/3896725242300288?f=rss",
-    "published": "2026-07-15 18:08:30  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-15"
-  },
-  {
-    "source": "36氪",
-    "title": "百度为苹果智能提供AI搜索功能",
-    "summary": "36氪获悉，网信办发布7款提供手机端侧生成式人工智能服务备案信息，其中苹果技术开发（上海）有限公司的“Apple智能”大模型已于2026年7月8日备案。据了解，苹果与百度的合作重点在开发一种基于人工智能的搜索功能。这些功能是一套名为“苹果智能”的功能套件的一部分，能够处理图像和文本，并升级为中国版的 Siri语音助手。",
-    "url": "https://36kr.com/newsflashes/3896728075323271?f=rss",
-    "published": "2026-07-15 17:56:46  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-15"
-  },
-  {
-    "source": "36氪",
-    "title": "佰维存储：上半年预计实现净利润70亿元—75亿元，同比扭亏",
-    "summary": "36氪获悉，佰维存储公告，预计2026年半年度实现归属于母公司所有者的净利润70亿元至75亿元，上年同期亏损2.26亿元。本期业绩大幅增长，主要受益于AI算力爆发与存储行业进入高景气周期，公司的产品和客户结构持续优化，同时公司在芯片设计、解决方案、先进封测及测试设备等领域不断加大投入力度，增强市场竞争力。",
-    "url": "https://36kr.com/newsflashes/3896712794949512?f=rss",
-    "published": "2026-07-15 17:41:14  +0800",
+    "title": "神州股份科创板IPO审核状态变更为“已问询”",
+    "summary": "36氪获悉，上交所官网显示，7月15日，江苏神州半导体科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+    "url": "https://36kr.com/newsflashes/3897509646124936?f=rss",
+    "published": "2026-07-16 07:11:50  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-15"
@@ -311,70 +281,80 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
-    "summary": "Cofounded by senior entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
-    "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-    "published": "Wed, 15 Jul 2026 11:00:00 +0000",
+    "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+    "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+    "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+    "published": "Wed, 15 Jul 2026 20:22:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "TechCrunch",
-    "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
-    "summary": "Someone has to bundle all the wires that go into rockets, missiles, and satellites.",
-    "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
-    "published": "Wed, 15 Jul 2026 10:30:00 +0000",
+    "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+    "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+    "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+    "published": "Wed, 15 Jul 2026 19:46:54 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "published": "Wed, 15 Jul 2026 00:27:04 +0000",
+    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+    "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+    "published": "Wed, 15 Jul 2026 18:06:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "TechCrunch",
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-    "published": "Tue, 14 Jul 2026 19:42:27 +0000",
+    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "published": "Wed, 15 Jul 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "TechCrunch",
-    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-    "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-    "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-    "published": "Tue, 14 Jul 2026 19:39:39 +0000",
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "published": "Wed, 15 Jul 2026 15:29:33 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "TechCrunch",
-    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-    "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
-    "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-    "published": "Tue, 14 Jul 2026 16:45:23 +0000",
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie Siegel, who founded Fractional AI, […]",
+    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+    "published": "Wed, 15 Jul 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
   },
   {
     "source": "TechCrunch",
-    "title": "Reflection inks $1B compute deal with Nebius",
-    "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-    "published": "Tue, 14 Jul 2026 14:37:48 +0000",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "published": "Wed, 15 Jul 2026 13:10:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+    "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+    "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+    "published": "Wed, 15 Jul 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-15"
@@ -630,14 +610,34 @@
     "fetchedAt": "2026-07-15"
   },
   {
-    "source": "The Verge",
-    "title": "Spotify’s Daniel Ek is bringing his body-scanning clinics to the US",
-    "summary": "Spotify founder Daniel Ek's body-scanning startup, Neko Health, is setting its sights on the United States after raising $700 million from a star-studded group of celebrities, entrepreneurs, and investment firms. It plans to open its first clinic in New York this year before expanding rapidly across the country. Neko operates private clinics offering full-body scans […]",
-    "url": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push",
-    "published": "2026-07-15T06:13:47-04:00",
-    "lang": "en",
+    "source": "微博",
+    "title": "#小米人形机器人#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23小米人形机器人%23",
+    "published": "2026-07-15",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-07-15"
+    "fetchedAt": "2026-07-15",
+    "meta": {
+      "hotValue": 878052,
+      "rank": 9
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "xai-org/grok-build",
+    "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "url": "https://github.com/xai-org/grok-build",
+    "published": "2026-07-14T20:04:23Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-15",
+    "meta": {
+      "stars": 1885,
+      "forks": 265,
+      "language": "Rust",
+      "createdDaysAgo": 1
+    }
   },
   {
     "source": "GitHub新星",
@@ -649,26 +649,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-15",
     "meta": {
-      "stars": 1175,
-      "forks": 226,
+      "stars": 1321,
+      "forks": 255,
       "language": "Python",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "summary": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "published": "2026-07-09T16:23:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-15",
-    "meta": {
-      "stars": 985,
-      "forks": 114,
-      "language": "Python",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -681,10 +665,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-15",
     "meta": {
-      "stars": 930,
-      "forks": 34,
+      "stars": 1012,
+      "forks": 41,
       "language": "Python",
       "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "summary": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "published": "2026-07-09T16:23:29Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-15",
+    "meta": {
+      "stars": 1010,
+      "forks": 115,
+      "language": "Python",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -697,7 +697,7 @@
     "type": "signal",
     "fetchedAt": "2026-07-15",
     "meta": {
-      "stars": 805,
+      "stars": 810,
       "forks": 148,
       "language": "TypeScript",
       "createdDaysAgo": 3
@@ -713,8 +713,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-15",
     "meta": {
-      "stars": 756,
-      "forks": 107,
+      "stars": 785,
+      "forks": 112,
       "language": "Python",
       "createdDaysAgo": 5
     }
