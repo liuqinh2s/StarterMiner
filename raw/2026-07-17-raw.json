@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+    "summary": "大公司： 成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验 36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。 苏宁易购携手人工智能合作伙伴，布局家用服务机器人 36氪获悉，近日，苏宁易购旗下碧英科技入围工信部人工智能揭榜挂帅项目，将联合产业生态合作伙伴研发智能家庭陪护机器人。该项目面向老龄化背景下的居家照护需求，结合具身智能技术，探索家用机器人商业化路径。 阿里1688将推出AI时代B2B交易互联互通开放标准 7月17日，在2026世界人工智能大会上，阿里1688宣布将在本月底推出UTP通用交易协议（UniversalTradeProtocol，简称“UTP”）。随着AI越来越会做生意，B2B正在演变为A2A——买家的AI直接对接工厂的AI自动完成交易，但不同AI之间缺一套行业通用交易协议。UTP相当于为A2A时代的全球贸易建立统一的交易基础设施。UT",
+    "url": "https://36kr.com/p/3896564485572489?f=rss",
+    "published": "2026-07-17 21:01:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
     "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
     "summary": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。 森博科技董事长于林义 在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。 本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只是一个“会回答”的工具，而是要成为能够协同人类、嵌入组织、创造ROI的业务伙伴。 这也让企业级Agent的落地逻辑变得更清晰。通用模型能力已经足够强，但进入企业现场后，真正决定应用效果的，往往不是模型本身，而是业务上下文、行业方法论、流程拆解能力和可验证的结果反馈。森博科技的观察正落在这一点上：企业级AI的胜负手，不在“技术找场景”，而在“场景炼技术”。 以下为对谈实录，经36氪编辑： 36kr：今年 WAIC 的主",
     "url": "https://36kr.com/p/3899556701128578?f=rss",
@@ -12,7 +22,7 @@
   {
     "source": "36氪",
     "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
-    "summary": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到322起，同比增长137%。 但硬币的另一面同样刺眼。智源研究院在《2026十大AI技术趋势》中直言，具身智能创业公司业务模式同质化严重，普遍采用“通用开源大模型+运动控制”的组合在单一场景做优化。国家发改委近��也公开提醒，具身智能产业要着力防范重复度高的产品“扎堆”上市等风险。 一边是万亿市场、数百亿热钱涌入；一边是同质化严重、淘汰加速的行业预警。 2026年，人工智能正在经历一个重要的阶段切换，如何将技术转化为真实应用、商业价值和产业影响力，正在成为企业下一阶段发展的关键。 多年来，36氪持续关注人工智能产业的",
+    "summary": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到322起，同比增长137%。 但硬币的另一面同样刺眼。智源研究院在《2026十大AI技术趋势》中直言，具身智能创业公司业务模式同质化严重，普遍采用“通用开源大模型+运动控制”的组合在单一场景做优化。国家发改委近期也公开提醒，具身智能产业要着力防范重复度高的产品“扎堆”上市等风险。 一边是万亿市场、数百亿热钱涌入；一边是同质化严重、淘汰加速的行业预警。 2026年，人工智能正在经历一个重要的阶段切换，如何将技术转化为真实应用、商业价值和产业影响力，正在成为企业下一阶段发展的关键。 多年来，36氪持续关注人工智能产业的演",
     "url": "https://36kr.com/p/3899597215745664?f=rss",
     "published": "2026-07-17 18:45:58  +0800",
     "lang": "zh",
@@ -81,10 +91,70 @@
   },
   {
     "source": "36氪",
-    "title": "自研氢能催化剂关键材料，稳定性提升50%，「铂氢科技」完成数千万元Pre-A轮融资 | 36氪首发",
-    "summary": "36氪获悉，苏州铂氢科技源科技有限公司（以下简称「铂氢科技」）宣布完成数千万元Pre-A轮融资。本轮融资由东运创投领投、新晖资本跟投，老股东熔拓资本追投，资金将主要用于催化剂与膜电极新产线建设、研发及运营团队扩充。 铂氢科技成立于2023年5月，专注于氢能等新兴领域的贵金属催化剂及膜电极等下游产品研发、生产与销售。 产品矩阵覆盖燃料电池催化剂（铂碳、铂黑、铂钌黑、铂基合金等系列）和水电解催化剂（氧化铱、铱黑、负载型氧化铱、铱钌合金等）两大品类，并申请发明专利和实用新型专利15余件。 公司负责人邹亮亮是中国科学院大学博士，现担任苏州科技大学教授、博士生导师，拥有十余年贵金属催化剂研发经验。运营团队核心成员长期在能源和材料领域从事项目研发与市场拓展。 1.以配方和结构设计创新，解决催化剂效率难题 当下我国氢能产业正处在一个微妙的发展节点。一方面，据GEP Research统计，2026年中国在全球氢燃料电池催化剂市场中的占比提升至38.7%，达到108.1亿美元，成为全球最大的单一区域市场。氢能不仅被《能源法》纳入国家能源体系，还被列为“十五五”规划六大未来产业之一。但另一方面，产业实际需",
-    "url": "https://36kr.com/p/3899040301876868?f=rss",
-    "published": "2026-07-17 09:09:52  +0800",
+    "title": "快看加速原创漫画IP孵化：未来一年将推出100+部精品漫画",
+    "summary": "36氪获悉，7月17日，在第五届KKWORLD快看漫乐园现场，快看漫画成功举办2026快看IP生态联盟发布会。发布会上，快看女频统筹负责人鲁韵子分享了快看漫画的内容长跑方法论。她表示，漫画仍是年轻一代最喜爱的创作与表达形式之一，未来也依然会是。快看未来一年将推出100+部精品漫画，持续孵化能被年轻用户长期喜欢的原创漫画IP。",
+    "url": "https://36kr.com/newsflashes/3899755294312329?f=rss",
+    "published": "2026-07-17 21:16:13  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
+    "title": "湖南裕能：拟投资240亿元建设矿化一体新能源电池材料循环产业项目",
+    "summary": "36氪获悉，湖南裕能公告，公司拟在贵州省瓮安县投资建设贵州裕能(瓮安)矿化一体新能源电池材料循环产业项目，总投资约240亿元。项目规划建设周期预计5年，计划在正式开始建设后的18个月内投资50-80亿元，后续将根据市场需求调整实施节奏。项目主要内容包括80万吨磷酸铁锂、100万吨磷酸铁及其上游产业链，涉及磷源、铁源、碳酸锂加工及锂电池回收等。本次投资旨在完善一体化布局，巩固行业龙头地位，但存在项目建设、财务资金、市场需求及管理风险。",
+    "url": "https://36kr.com/newsflashes/3899699021465223?f=rss",
+    "published": "2026-07-17 20:18:59  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
+    "title": "保济元和（TCM）有限公司递表港交所",
+    "summary": "36氪获悉，据港交所文件，保济元和（TCM）有限公司向港交所提交上市申请书，独家保荐人为华富建业企业融资。",
+    "url": "https://36kr.com/newsflashes/3899681837254272?f=rss",
+    "published": "2026-07-17 20:01:30  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
+    "title": "年内科创板公司新增计划回购金额上限超80亿",
+    "summary": "根据统计，科创板年内已有50余家公司新增披露了股份回购计划，计划回购金额上限合计超过80亿元。在市场调整期间，也有不少公司披露回购计划。例如，澜起科技7月17日披露回购计划，拟回购金额高达3亿至6亿元；道通科技、海泰新光、三友医疗等公司也在本周内相继发布了回购计划，计划回购金额均在数千万元至亿元级别。股东及高管的增持行动也同步展开。2026年以来，有近20家科创板公司披露了增持计划，增持主体涵盖了控股股东、实际控制人、董事及高管等，增持金额上限合计超过6亿元。（第一财经）",
+    "url": "https://36kr.com/newsflashes/3899676458960773?f=rss",
+    "published": "2026-07-17 19:56:01  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
+    "title": "神玑公司首次参加世界人工智能大会，发布睿动具身智能开发平台",
+    "summary": "36氪获悉，7月17日，2026世界人工智能大会正式开幕，蔚来芯片子公司安徽神玑技术有限公司首次独立参展。除了展出神玑NX9031芯片和车载域控外，还在会展期间推出“睿动”具身智能开发平台、分布式智能体平台等AI新产品。目前，神玑公司已形成由NX9031X、NX9031U、NX9031C等多颗芯片构成的完整产品序列，全面覆盖智能辅助驾驶、具身智能、Agent推理三大AI赛道。",
+    "url": "https://36kr.com/newsflashes/3899667446613640?f=rss",
+    "published": "2026-07-17 19:46:51  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
+    "title": "惠科股份：拟出资40亿元设立全资子公司投建先进封装及测试项目",
+    "summary": "36氪获悉，惠科股份公告，公司于2026年7月17日与杭绍临空经济一体化发展示范区绍兴片区管理委员会就开展惠科先进封装及测试项目签署《先进封装及测试项目合作协议》，拟出资40亿元设立全资子公司浙江惠芯先进半导体有限公司，作为惠科先进封装及测试项目的实施主体。项目分二期建设，一期计划建设12寸混合芯片先进封装及测试，达产后产能为2000万颗/月，建设周期不超过三年。",
+    "url": "https://36kr.com/newsflashes/3899663098333057?f=rss",
+    "published": "2026-07-17 19:42:26  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "36氪",
+    "title": "IDC：2030年全球活跃Agent数量或将超过22亿个",
+    "summary": "36氪获悉，IDC预发布《DAA研究报告》，系统解析DAA（Daily Active Agents，日活智能体数）指标。报告显示，全球活跃Agent数量2025年是2860万个，预计2026年达到7940万个，2030年增长到22.16亿个。据了解，DAA度量衡指标由百度创始人李彦宏在Create 2026大会上首次提出。与模型参数、Token消耗等传统指标相比，DAA更关注每天有多少智能体真正进入业务流程、完成任务并创造价值。",
+    "url": "https://36kr.com/newsflashes/3899647452677769?f=rss",
+    "published": "2026-07-17 19:26:31  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-17"
@@ -95,36 +165,6 @@
     "summary": "36氪获悉，国科微公告，公司拟向不超过35名特定投资者发行股票，募集资金总额不超过50.61亿元，扣除发行费用后用于新一代AI视觉处理芯片及解决方案研发与产业化项目、媒体交互AI芯片研发及产业化项目、端侧AI芯片研发及产业化项目及补充流动资金。",
     "url": "https://36kr.com/newsflashes/3899639438280323?f=rss",
     "published": "2026-07-17 19:18:22  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "36氪",
-    "title": "海航控股：拟购买40架A320NEO系列飞机，总价不超53.6亿美元",
-    "summary": "36氪获悉，海航控股公告，公司与空客公司签订协议，拟购买40架A320NEO系列飞机，交易总金额不超过53.6亿美元。本次交易不构成关联交易或重大资产重组，尚需股东会及国家主管部门批准。飞机预计于2028年至2032年分批交付，资金来源包括自有资金、银行贷款及融资租赁等。",
-    "url": "https://36kr.com/newsflashes/3899610285295238?f=rss",
-    "published": "2026-07-17 18:48:43  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "36氪",
-    "title": "4天3板九安医疗：拟不超过1亿元参与认购砺思星雀基金份额",
-    "summary": "36氪获悉，九安医疗公告，公司拟以自有资金向天津砺思星雀创业投资合伙企业（有限合伙）出资不超过1亿元（不含管理费），作为有限合伙人进行财务性投资。该基金目标认缴出资总额为10亿元，主要投资方向为数字科技类计算机及软件技术开发企业。",
-    "url": "https://36kr.com/newsflashes/3899604495533697?f=rss",
-    "published": "2026-07-17 18:42:49  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "36氪",
-    "title": "TCL中环：子公司拟投资119.6亿元建设集成电路用半导体大硅片深圳项目",
-    "summary": "36氪获悉，TCL中环公告，公司子公司中环领先拟以深圳中环领先为主体，投资建设“集成电路用半导体大硅片深圳项目”，项目总投资预计约119.6亿元。项目规划产能为12英寸抛光片、外延片及测试片共计70万片/月，建设期共60个月。资金来源包括自有资金、股权融资及银团贷款等。",
-    "url": "https://36kr.com/newsflashes/3899566678263430?f=rss",
-    "published": "2026-07-17 18:04:21  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-17"
@@ -321,90 +361,50 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+    "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world’s most […]",
+    "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+    "published": "Fri, 17 Jul 2026 23:08:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "published": "Fri, 17 Jul 2026 22:12:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+    "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+    "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+    "published": "Fri, 17 Jul 2026 19:22:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+    "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage […]",
+    "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+    "published": "Fri, 17 Jul 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-17"
+  },
+  {
+    "source": "TechCrunch",
     "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
     "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
     "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
     "published": "Thu, 16 Jul 2026 23:01:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-    "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
-    "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-    "published": "Thu, 16 Jul 2026 20:07:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "published": "Thu, 16 Jul 2026 18:22:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-    "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
-    "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-    "published": "Thu, 16 Jul 2026 17:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-    "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
-    "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-    "published": "Thu, 16 Jul 2026 16:08:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Yes, you can now order DoorDash from the command line",
-    "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "published": "Thu, 16 Jul 2026 15:38:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "published": "Thu, 16 Jul 2026 15:02:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-    "summary": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
-    "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
-    "published": "Thu, 16 Jul 2026 15:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-    "published": "Thu, 16 Jul 2026 14:40:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-17"
@@ -671,237 +671,43 @@
   },
   {
     "source": "The Verge",
-    "title": "The war on ‘woke science’ comes for space research",
-    "summary": "The Trump administration is waging a culture war on science, and the latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management and Budget (OMB) that could threaten the future of US science as we know it. The proposal would give political appointees unprecedented control over grant funding, the […]",
-    "url": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
-    "published": "2026-07-17T07:00:00-04:00",
+    "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+    "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded […]",
+    "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+    "published": "2026-07-17T18:09:47-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-17"
   },
   {
     "source": "The Verge",
-    "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-    "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use as NPCs. The characters include Fortnite staples like Agent […]",
-    "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-    "published": "2026-07-16T17:30:35-04:00",
+    "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+    "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do people trust the product […]",
+    "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+    "published": "2026-07-17T15:14:42-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-17"
   },
   {
-    "source": "Hacker News",
-    "title": "Rokit to launch what it calls first human kidney regeneration surgery in July",
-    "summary": "Article URL: https://www.koreabiomed.com/news/articleView.html?idxno=32016 Comments URL: https://news.ycombinator.com/item?id=48945787 Points: 1 # Comments: 0",
-    "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32016",
-    "published": "Fri, 17 Jul 2026 10:57:57 +0000",
+    "source": "The Verge",
+    "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
+    "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcomm […]",
+    "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+    "published": "2026-07-17T11:52:50-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-17"
   },
   {
-    "source": "Hacker News",
-    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-    "summary": "Article URL: https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/ Comments URL: https://news.ycombinator.com/item?id=48945363 Points: 5 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "published": "Fri, 17 Jul 2026 09:57:50 +0000",
+    "source": "The Verge",
+    "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
+    "summary": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 […]",
+    "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+    "published": "2026-07-17T11:34:35-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Databricks is raising funding at $188B valuation",
-    "summary": "Article URL: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation Comments URL: https://news.ycombinator.com/item?id=48944210 Points: 1 # Comments: 0",
-    "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation",
-    "published": "Fri, 17 Jul 2026 07:07:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Starship launch aborted on the pad at the last moment",
-    "summary": "Article URL: https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228 Comments URL: https://news.ycombinator.com/item?id=48943523 Points: 4 # Comments: 0",
-    "url": "https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228",
-    "published": "Fri, 17 Jul 2026 05:08:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Neko Health raises $700M Series C ahead of US launch",
-    "summary": "Article URL: https://www.nekohealth.com/gb/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch Comments URL: https://news.ycombinator.com/item?id=48943475 Points: 1 # Comments: 0",
-    "url": "https://www.nekohealth.com/gb/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch",
-    "published": "Fri, 17 Jul 2026 04:58:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI Staffers Are Funding a Rival Super Pac to Take on Their Boss",
-    "summary": "Article URL: https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/ Comments URL: https://news.ycombinator.com/item?id=48942913 Points: 7 # Comments: 0",
-    "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-    "published": "Fri, 17 Jul 2026 02:58:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google Gemini launch delayed as tech falls short of internal goals",
-    "summary": "Article URL: https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48938835 Points: 6 # Comments: 0",
-    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
-    "published": "Thu, 16 Jul 2026 19:06:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals Comments URL: https://news.ycombinator.com/item?id=48938111 Points: 24 # Comments: 5",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
-    "published": "Thu, 16 Jul 2026 18:13:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Funding Canonical Visions //GMs",
-    "summary": "Article URL: https://amazing-lantern-c21.notion.site/Funding-canonical-visions-GMs-396adeecc3dc804ab012f015f3be3741 Comments URL: https://news.ycombinator.com/item?id=48937750 Points: 1 # Comments: 0",
-    "url": "https://amazing-lantern-c21.notion.site/Funding-canonical-visions-GMs-396adeecc3dc804ab012f015f3be3741",
-    "published": "Thu, 16 Jul 2026 17:44:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-    "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce ( https://www.traceforce.ai/ ). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool https://github.com/traceforce/mcp-xray to detect vulnerable MCPs. The purpose of Traceforce is ",
-    "url": "https://news.ycombinator.com/item?id=48937020",
-    "published": "Thu, 16 Jul 2026 16:52:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
-    "summary": "Article URL: https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff Comments URL: https://news.ycombinator.com/item?id=48933207 Points: 7 # Comments: 3",
-    "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-    "published": "Thu, 16 Jul 2026 11:46:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "RuntimeWire – Startup intelligence for the AI economy",
-    "summary": "Article URL: https://runtimewire.com/ Comments URL: https://news.ycombinator.com/item?id=48929965 Points: 2 # Comments: 0",
-    "url": "https://runtimewire.com/",
-    "published": "Thu, 16 Jul 2026 03:16:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI and Guardian Media Group launch content partnership",
-    "summary": "Article URL: https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership/ Comments URL: https://news.ycombinator.com/item?id=48929940 Points: 3 # Comments: 0",
-    "url": "https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership/",
-    "published": "Thu, 16 Jul 2026 03:12:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A few tips from the (startup) trenches for managing stress",
-    "summary": "Article URL: https://vishal.rs/essay/habits-that-will-keep-the-stress-under-control Comments URL: https://news.ycombinator.com/item?id=48929516 Points: 3 # Comments: 0",
-    "url": "https://vishal.rs/essay/habits-that-will-keep-the-stress-under-control",
-    "published": "Thu, 16 Jul 2026 01:53:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Five Signs Your Startup May Be a Hobby",
-    "summary": "Article URL: https://www.skmurphy.com/blog/2026/06/23/five-signs-your-startup-may-be-a-hobby/ Comments URL: https://news.ycombinator.com/item?id=48927617 Points: 4 # Comments: 1",
-    "url": "https://www.skmurphy.com/blog/2026/06/23/five-signs-your-startup-may-be-a-hobby/",
-    "published": "Wed, 15 Jul 2026 21:58:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "What time is SpaceX's Starship Flight 13 launch on July 16? (Full mission timeli",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time Comments URL: https://news.ycombinator.com/item?id=48926349 Points: 3 # Comments: 0",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time",
-    "published": "Wed, 15 Jul 2026 20:03:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Every fusion startup that has raised over $100M",
-    "summary": "Article URL: https://insurancedimes.com/2026/07/09/every-fusion-startup-that-has-raised-over-100-million/ Comments URL: https://news.ycombinator.com/item?id=48926312 Points: 2 # Comments: 0",
-    "url": "https://insurancedimes.com/2026/07/09/every-fusion-startup-that-has-raised-over-100-million/",
-    "published": "Wed, 15 Jul 2026 20:00:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Funding Signals – an API that finds companies the moment they raise money",
-    "summary": "Article URL: https://funding-signals-api.onrender.com/ Comments URL: https://news.ycombinator.com/item?id=48925051 Points: 2 # Comments: 0",
-    "url": "https://funding-signals-api.onrender.com/",
-    "published": "Wed, 15 Jul 2026 18:25:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Garry Tan to Keynote the SF Ruby Startup Conference",
-    "summary": "Article URL: https://evilmartians.com/events/sf-ruby-startup-conference-2026 Comments URL: https://news.ycombinator.com/item?id=48923452 Points: 5 # Comments: 0",
-    "url": "https://evilmartians.com/events/sf-ruby-startup-conference-2026",
-    "published": "Wed, 15 Jul 2026 16:37:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-    "summary": "Hey HN, we’re Nitish and Prateek, the founders of Coasty ( https://coasty.ai/computer-use ). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs. Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then operates the interface through screenshots, mouse, and keyboard input, verifi",
-    "url": "https://coasty.ai/docs",
-    "published": "Wed, 15 Jul 2026 15:51:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-17"
-  },
-  {
-    "source": "微博",
-    "title": "#创业板大跌引满仓抄底#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23创业板大跌引满仓抄底%23",
-    "published": "2026-07-17",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-17",
-    "meta": {
-      "hotValue": 316309,
-      "rank": 29
-    }
   },
   {
     "source": "GitHub新星",
@@ -913,10 +719,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-17",
     "meta": {
-      "stars": 14509,
-      "forks": 2699,
+      "stars": 16355,
+      "forks": 3004,
       "language": "Rust",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -929,10 +735,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-17",
     "meta": {
-      "stars": 8063,
-      "forks": 862,
+      "stars": 8649,
+      "forks": 921,
       "language": "JavaScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -945,26 +751,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-17",
     "meta": {
-      "stars": 1816,
-      "forks": 344,
+      "stars": 1875,
+      "forks": 353,
       "language": "Python",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "littledivy/mimic",
-    "summary": "Intercept any app, then call it from Python like a library",
-    "url": "https://github.com/littledivy/mimic",
-    "published": "2026-07-13T05:13:00Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-17",
-    "meta": {
-      "stars": 1124,
-      "forks": 61,
-      "language": "Python",
-      "createdDaysAgo": 4
     }
   },
   {
@@ -977,9 +767,25 @@
     "type": "signal",
     "fetchedAt": "2026-07-17",
     "meta": {
-      "stars": 1119,
-      "forks": 62,
+      "stars": 1162,
+      "forks": 63,
       "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "littledivy/mimic",
+    "summary": "Intercept any app, then call it from Python like a library",
+    "url": "https://github.com/littledivy/mimic",
+    "published": "2026-07-13T05:13:00Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-17",
+    "meta": {
+      "stars": 1149,
+      "forks": 66,
+      "language": "Python",
       "createdDaysAgo": 4
     }
   }
