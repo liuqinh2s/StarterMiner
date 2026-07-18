@@ -261,6 +261,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家",
+    "summary": "音乐大模型竞争从“第一次生成是否惊艳”转向对创作过程理解。",
+    "url": "https://www.tmtpost.com/8070478.html",
+    "published": "Sat, 18 Jul 2026 20:14:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-18"
+  },
+  {
+    "source": "钛媒体",
     "title": "徕芬，把电机做成“芯片”",
     "summary": "摘下流量网红滤镜。",
     "url": "https://www.tmtpost.com/8070101.html",
@@ -275,16 +285,6 @@
     "summary": "WAIC 2026真正信号不在超节点展品参数，而在于客户提问从\"多少张卡\"变为\"Token成本和时延\"。这折射算力从固定资产转向运营支出、需求从训练转向推理、竞争从产能规模转向成本效率，预示产业链估值坐标正从芯片数量向单位Token经济性迁移。",
     "url": "https://www.tmtpost.com/8070307.html",
     "published": "Sat, 18 Jul 2026 15:32:20 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "钛媒体",
-    "title": "WAIC，我们看到这六个趋势",
-    "summary": "大模型不再比谁大，机器人忙着打工。",
-    "url": "https://www.tmtpost.com/8070197.html",
-    "published": "Sat, 18 Jul 2026 10:22:44 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-18"
@@ -365,16 +365,6 @@
     "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
     "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
     "published": "Fri, 17 Jul 2026 19:22:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-    "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage […]",
-    "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-    "published": "Fri, 17 Jul 2026 14:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-18"
@@ -640,31 +630,51 @@
     "fetchedAt": "2026-07-18"
   },
   {
-    "source": "The Verge",
-    "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-    "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded […]",
-    "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-    "published": "2026-07-17T18:09:47-04:00",
+    "source": "Hacker News",
+    "title": "Relationships and Power in Startup Ecosystems (2019)",
+    "summary": "Article URL: https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/ Comments URL: https://news.ycombinator.com/item?id=48961819 Points: 1 # Comments: 0",
+    "url": "https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/",
+    "published": "Sat, 18 Jul 2026 20:10:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-18"
   },
   {
-    "source": "The Verge",
-    "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-    "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do people trust the product […]",
-    "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-    "published": "2026-07-17T15:14:42-04:00",
+    "source": "Hacker News",
+    "title": "StartupForge AI – Generate a startup blueprint from an idea",
+    "summary": "Article URL: https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/ Comments URL: https://news.ycombinator.com/item?id=48961254 Points: 1 # Comments: 0",
+    "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
+    "published": "Sat, 18 Jul 2026 19:14:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-18"
   },
   {
-    "source": "The Verge",
-    "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
-    "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcomm […]",
-    "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
-    "published": "2026-07-17T11:52:50-04:00",
+    "source": "Hacker News",
+    "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
+    "summary": "Article URL: https://shippingszn.com/ Comments URL: https://news.ycombinator.com/item?id=48960665 Points: 2 # Comments: 0",
+    "url": "https://shippingszn.com/",
+    "published": "Sat, 18 Jul 2026 18:19:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
+    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48959462 Points: 4 # Comments: 0",
+    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+    "published": "Sat, 18 Jul 2026 16:19:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google Gemini launch delayed as tech falls short of internal goals",
+    "summary": "Article URL: https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48958489 Points: 5 # Comments: 2",
+    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
+    "published": "Sat, 18 Jul 2026 14:29:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-18"
@@ -682,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "Vikram-1, India's first private orbital rocket, aces debut launch",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1 Comments URL: https://news.ycombinator.com/item?id=48956052 Points: 6 # Comments: 0",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1 Comments URL: https://news.ycombinator.com/item?id=48956052 Points: 7 # Comments: 0",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
     "published": "Sat, 18 Jul 2026 07:52:37 +0000",
     "lang": "en",
@@ -701,30 +711,10 @@
   },
   {
     "source": "Hacker News",
-    "title": "StartupForge AI – Turn Any Business Idea into a Startup Blueprint",
-    "summary": "Article URL: https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/ Comments URL: https://news.ycombinator.com/item?id=48954624 Points: 1 # Comments: 0",
-    "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
-    "published": "Sat, 18 Jul 2026 02:30:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "Hacker News",
     "title": "Opus 5 expected to launch on July 20-21",
     "summary": "Article URL: https://twitter.com/pankajkumar_dev/status/2078000475685929375 Comments URL: https://news.ycombinator.com/item?id=48950614 Points: 4 # Comments: 0",
     "url": "https://twitter.com/pankajkumar_dev/status/2078000475685929375",
     "published": "Fri, 17 Jul 2026 18:27:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google Gemini launch delayed as tech falls short of internal goals",
-    "summary": "Article URL: https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48948315 Points: 4 # Comments: 1",
-    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
-    "published": "Fri, 17 Jul 2026 15:08:41 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-18"
@@ -810,67 +800,17 @@
     "fetchedAt": "2026-07-18"
   },
   {
-    "source": "Hacker News",
-    "title": "Funding Canonical Visions //GMs",
-    "summary": "Article URL: https://amazing-lantern-c21.notion.site/Funding-canonical-visions-GMs-396adeecc3dc804ab012f015f3be3741 Comments URL: https://news.ycombinator.com/item?id=48937750 Points: 1 # Comments: 0",
-    "url": "https://amazing-lantern-c21.notion.site/Funding-canonical-visions-GMs-396adeecc3dc804ab012f015f3be3741",
-    "published": "Thu, 16 Jul 2026 17:44:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-    "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce ( https://www.traceforce.ai/ ). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via MCPs. We also have an open-source dynamic MCP pentesting tool https://github.com/traceforce/mcp-xray to detect vulnerable MCPs. The purpose of Traceforce is ",
-    "url": "https://news.ycombinator.com/item?id=48937020",
-    "published": "Thu, 16 Jul 2026 16:52:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
-    "summary": "Article URL: https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff Comments URL: https://news.ycombinator.com/item?id=48933207 Points: 7 # Comments: 3",
-    "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-    "published": "Thu, 16 Jul 2026 11:46:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "RuntimeWire – Startup intelligence for the AI economy",
-    "summary": "Article URL: https://runtimewire.com/ Comments URL: https://news.ycombinator.com/item?id=48929965 Points: 2 # Comments: 0",
-    "url": "https://runtimewire.com/",
-    "published": "Thu, 16 Jul 2026 03:16:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI and Guardian Media Group launch content partnership",
-    "summary": "Article URL: https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership/ Comments URL: https://news.ycombinator.com/item?id=48929940 Points: 3 # Comments: 0",
-    "url": "https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership/",
-    "published": "Thu, 16 Jul 2026 03:12:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-18"
-  },
-  {
     "source": "V2EX",
-    "title": "深圳的西瓜是镶了金边吗，这么贵",
-    "summary": "实体店普遍最便宜的麒麟瓜都要 5 元/斤 外卖最便宜的叮咚买菜都接近 3.5/斤，但是运费要 7 元！！！ 无力吐槽！！ 坐标，深圳南山。",
-    "url": "https://www.v2ex.com/t/1228103",
-    "published": 1784289900,
+    "title": "PowerShell 和 Codex 在打架？可以试试这份提示词",
+    "summary": "今天花时间写了篇 codex 下使用 PowerShell 的文章 在 V2EX 上也发一份 ## 背景 最近半年一直 Windows 下使用 **Codex** 开发项目，逐渐把开发环境打造得更接近 Linux 下的开发体验。最近看到很多人反馈 PowerShell 和 Codex 打架的情况，因为这问题我之前就解决了，所以想分享下我的方案。 现在这套环境谈不上多复杂，主要有两个重点： **先把终端环境统一，再用提示词把大模型的命令习惯掰过来。** ## 先安装 pwsh 7 和 Windows Terminal 如果你还在使用系统自带的 Window",
+    "url": "https://www.v2ex.com/t/1228204",
+    "published": 1784353539,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-07-18",
     "meta": {
-      "replies": 58,
-      "node": "深圳"
+      "replies": 23,
+      "node": "程序员"
     }
   },
   {
@@ -883,10 +823,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-18",
     "meta": {
-      "stars": 17658,
-      "forks": 3228,
+      "stars": 18712,
+      "forks": 3378,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -899,10 +839,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-18",
     "meta": {
-      "stars": 9371,
-      "forks": 985,
+      "stars": 9727,
+      "forks": 1017,
       "language": "JavaScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   }
 ]
