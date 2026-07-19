@@ -91,6 +91,16 @@
   },
   {
     "source": "36氪",
+    "title": "台积电将美国投资承诺增至2650亿美元，称AI需求和竞争压力推动扩产",
+    "summary": "近日，台积电首席财务官黄仁昭表示，公司计划追加1000亿美元美国投资，将对美投资承诺总额提升至2650亿美元，主要受美国客户强劲需求以及来自英特尔、马斯克旗下Terafab等竞争对手的压力推动。黄仁昭表示，人工智能浪潮将在未来数年继续推动芯片需求增长，公司目前仍面临产能不足、无法满足所有客户订单的挑战，因此正在尽可能扩大产能。他称，追加投资也旨在向市场证明，台积电不会将AI芯片需求机会让给竞争对手。（界面）",
+    "url": "https://36kr.com/newsflashes/3903173412161415?f=rss",
+    "published": "2026-07-20 07:13:19  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "36氪",
     "title": "我国千亿元潮玩赛道要来了",
     "summary": "据不完全统计，目前，我国潮玩相关企业超过了3.6万家。“潮玩设计师”这一新兴职业也受到越来越多年轻人的青睐。为了培养行业的后备力量，有潮玩企业与艺术院校开设了“校企合作公开课”。除了同学们本身所学专业的技术背景和能力要求之外，还有关于AI技术方面的一些应用能力。数据显示，预计2027年我国IP潮玩消费市场规模将突破1000亿元，2029年达到近1300亿元。未来，潮玩行业还将释放大量岗位需求。（央视财经）",
     "url": "https://36kr.com/newsflashes/3902363827766920?f=rss",
@@ -125,36 +135,6 @@
     "summary": "36氪获悉，菲利华公告称，预计2026年半年度归属于上市公司股东的净利润为2.70亿元-3.10亿元，同比增长21.78%-39.82%。业绩变动主要系全球半导体行业景气度提升，公司把握国产替代机遇，半导体板块营收稳步增长，同时石英电子布测试需求提升，报告期内实现销售收入1.5亿元。小财注：公司Q2净利润预计1.26亿-1.66亿，Q1净利润1.44亿，据此计算，Q2净利润预计环比变动-12%-15%。",
     "url": "https://36kr.com/newsflashes/3902295340189316?f=rss",
     "published": "2026-07-19 16:38:58  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "36氪",
-    "title": "星宸科技：预计2026年半年度净利润同比增长584%-650%",
-    "summary": "星宸科技公告称，预计2026年半年度归属于上市公司股东的净利润为8.20亿元-9.00亿元，同比增长583.72%-650.42%。业绩变动主要系端边侧AI产业需求全面爆发，公司产品结构优化升级，高附加值芯片出货占比提升，同时供应链体系韧性凸显，产能保障能力持续强化。小财注：公司Q2净利润预计6亿-6.8亿，Q1净利润2.2亿，据此计算，Q2净利润预计环比增长172%-208%。",
-    "url": "https://36kr.com/newsflashes/3902191399225221?f=rss",
-    "published": "2026-07-19 14:50:16  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "36氪",
-    "title": "商汤科技旗舰级SenseNova U1 Pro正式发布",
-    "summary": "36氪获悉，7月18日，商汤科技正式发布旗舰级大模型SenseNova U1 Pro（以下简称U1 Pro）。U1 Pro定位为面向长程任务的交付级原生多模态智能体基座，实现理解、生成和行动的深度统一。在原生统一架构的基础上，通过在视觉创作领域的深度迭代，U1 Pro已具备“交付级”复杂图片创作能力。",
-    "url": "https://36kr.com/newsflashes/3902187700766593?f=rss",
-    "published": "2026-07-19 14:30:36  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "36氪",
-    "title": "一目科技完成超10亿元E轮融资 估值过百亿元",
-    "summary": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
-    "url": "https://36kr.com/newsflashes/3902093496813441?f=rss",
-    "published": "2026-07-19 13:15:39  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-19"
@@ -291,6 +271,36 @@
   },
   {
     "source": "钛媒体",
+    "title": "广东上市公司价值重估：金融与硬科技抬升上限，先进制造分层加速",
+    "summary": "作为中国制造业、外贸经济、科技创新和民营经济最活跃的区域之一，广东上市公司的产业结构具有鲜明的“金融资本+电子制造+先进制造+消费品牌+新能源链条”特征。",
+    "url": "https://www.tmtpost.com/8071341.html",
+    "published": "Mon, 20 Jul 2026 00:48:55 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：跌停板的投资机会和风险提示（7月17日）｜上市公司观察",
+    "summary": "整体来看，当前市场资金彻底摒弃纯题材炒作，聚焦低估值、有基本面支撑的低位标的。操作上需坚决规避高位高溢价、无业绩支撑的题材股，规避估值泡沫出清风险，短期以防御为主，重点关注电力、优质低位实体产业等安全边际充足的赛道。",
+    "url": "https://www.tmtpost.com/8071333.html",
+    "published": "Mon, 20 Jul 2026 00:48:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "钛媒体",
+    "title": "对话松禾资本厉伟：AI与硬科技时代，中国创投为什么更需要重新理解\"常识、耐心与失败\"?",
+    "summary": "AI 浪潮下，什么是真 AI，什么只是 AI 包装？泡沫与机会又该如何判断？",
+    "url": "https://www.tmtpost.com/8070606.html",
+    "published": "Sun, 19 Jul 2026 20:41:42 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "钛媒体",
     "title": "三年跻身独角兽，智能眼镜的风向真的变了",
     "summary": "百镜大战落幕，智能眼镜进入取舍时代。",
     "url": "https://www.tmtpost.com/8070811.html",
@@ -305,46 +315,6 @@
     "summary": "首轮融资6.5亿美元、估值46.5亿美元，嘉加资本创始管理合伙人郑泓Holly对话田渊栋，首次揭秘八位顶尖AI科学家如何共同创业、用AI做研究，并让Research本身成为产品。",
     "url": "https://www.tmtpost.com/8070765.html",
     "published": "Sun, 19 Jul 2026 16:28:11 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "大模型进不了内网之后，企业 AI 的生意才真正开始",
-    "summary": "模型已经便宜到论分卖，企业真正花上百万买的，是权限、验收和责任。",
-    "url": "https://www.tmtpost.com/8070771.html",
-    "published": "Sun, 19 Jul 2026 16:15:40 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "【数智周报】孙正义：任何关于AI领域正在形成泡沫的说法都是荒谬的；苹果智能集成阿里、百度AI能力；DeepSeek估值超3500亿元",
-    "summary": "（7月13日-19日）中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺；黄仁勋称AI没有意识：本质是软件和工具，不要过度拟人化；阶跃星辰发布大模型原生智能体手机；昇腾950超节点真机首展，专为万亿级大模型训练与高并发推理设计；全国产十万卡AI超集群真机全球首秀...",
-    "url": "https://www.tmtpost.com/8070816.html",
-    "published": "Sun, 19 Jul 2026 14:31:56 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Databricks估值飙升1880亿美元，CEO：采用中国开源模型是AI成本控制关键一环",
-    "summary": "对于开源模型，Databricks需自行提供GPU算力，这也是Databricks此次融资的核心目的。",
-    "url": "https://www.tmtpost.com/8070738.html",
-    "published": "Sun, 19 Jul 2026 13:04:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "对话云天励飞董事长陈宁：推理就是生产力，2030年将实现“百亿Token一分钱”",
-    "summary": "推理时代，AI算力的竞争正在从单颗芯片性能走向Token生成效率。",
-    "url": "https://www.tmtpost.com/8070642.html",
-    "published": "Sun, 19 Jul 2026 13:03:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-19"
@@ -386,6 +356,16 @@
     "url": "https://cn.technode.com/post/2026-07-16/apple-is-reportedly-shopping-for-ai-chip-companies/",
     "published": "Thu, 16 Jul 2026 01:56:23 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+    "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+    "published": "Sun, 19 Jul 2026 21:45:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-19"
   },
@@ -681,8 +661,38 @@
   },
   {
     "source": "Hacker News",
+    "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
+    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48970736 Points: 1 # Comments: 1",
+    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+    "published": "Sun, 19 Jul 2026 18:53:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d Comments URL: https://news.ycombinator.com/item?id=48970146 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
+    "published": "Sun, 19 Jul 2026 17:45:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Postmortem of a British Startup: Tract",
+    "summary": "Article URL: https://buildwithtract.com/ Comments URL: https://news.ycombinator.com/item?id=48968474 Points: 1 # Comments: 0",
+    "url": "https://buildwithtract.com/",
+    "published": "Sun, 19 Jul 2026 14:25:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-19"
+  },
+  {
+    "source": "Hacker News",
     "title": "Linux Foundation Announces the Intent to Launch the Tokenomics Foundation",
-    "summary": "Article URL: https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management Comments URL: https://news.ycombinator.com/item?id=48966282 Points: 4 # Comments: 1",
+    "summary": "Article URL: https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management Comments URL: https://news.ycombinator.com/item?id=48966282 Points: 4 # Comments: 2",
     "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management",
     "published": "Sun, 19 Jul 2026 09:12:21 +0000",
     "lang": "en",
@@ -705,16 +715,6 @@
     "summary": "Article URL: https://www.youtube.com/watch?v=2KKZbSX9SgI Comments URL: https://news.ycombinator.com/item?id=48965644 Points: 2 # Comments: 0",
     "url": "https://www.youtube.com/watch?v=2KKZbSX9SgI",
     "published": "Sun, 19 Jul 2026 07:08:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Netflix Pays $587M for Ben Affleck's AI Startup InterPositive",
-    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48964935 Points: 3 # Comments: 1",
-    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-    "published": "Sun, 19 Jul 2026 04:20:50 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-19"
@@ -820,36 +820,6 @@
     "fetchedAt": "2026-07-19"
   },
   {
-    "source": "Hacker News",
-    "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-    "summary": "Article URL: https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/ Comments URL: https://news.ycombinator.com/item?id=48945363 Points: 6 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "published": "Fri, 17 Jul 2026 09:57:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Databricks is raising funding at $188B valuation",
-    "summary": "Article URL: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation Comments URL: https://news.ycombinator.com/item?id=48944210 Points: 2 # Comments: 0",
-    "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation",
-    "published": "Fri, 17 Jul 2026 07:07:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Starship launch aborted on the pad at the last moment",
-    "summary": "Article URL: https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228 Comments URL: https://news.ycombinator.com/item?id=48943523 Points: 5 # Comments: 0",
-    "url": "https://apnews.com/article/starship-spacex-rocket-musk-nasa-455927b93b0fdc5512a4567a53eb3228",
-    "published": "Fri, 17 Jul 2026 05:08:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-19"
-  },
-  {
     "source": "V2EX",
     "title": "有结婚后上交工资卡，让妻子管理家庭财政的吗？",
     "summary": "1 ，前奥运冠军、世界拳王邹市明退役 7 年跨界创业、投资，累计亏损超 2 亿，卖掉房产偿债、陷入资金链危机; 2 ，我朋友的前妻，离婚时指责他没有上交工资卡，结果离婚几年后，朋友经常收到关于他前妻追债的短信； 我就打死都不上交，各管各的，只允许她审计资金流水",
@@ -859,8 +829,22 @@
     "type": "community",
     "fetchedAt": "2026-07-19",
     "meta": {
-      "replies": 31,
+      "replies": 44,
       "node": "生活"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "Kimi K3 这波真的爆了，你们用着感觉怎么样？",
+    "summary": "这几天被 Kimi K3 刷屏了，X 上在吹，HN 上在吹，都说是国产之光，deepseek 时刻 2.0 来了。 我也试了一下，浅浅分享自己的体验吧。 先说好的地方： - 前端能力很强。 Kimi K3 前端能力这块，算是跻身全球第一梯队，真要个人排名的话，目前我给它排第二，还超越不了 Fable 5--LMArena 人类盲投榜上它前端甚至排第一，但我实测体感，Fable 5 还是更稳。 不过比 GPT-5.6 强得多，这是 GPT 系列家族的通病，前端能力一直很弱。 特别是那个刷屏的 3D 建模，我不知道设计圈怎么看，我觉得挺牛的。 - 长时复",
+    "url": "https://www.v2ex.com/t/1228376",
+    "published": 1784455897,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-07-19",
+    "meta": {
+      "replies": 26,
+      "node": "程序员"
     }
   },
   {
@@ -873,10 +857,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-19",
     "meta": {
-      "stars": 19661,
-      "forks": 3523,
+      "stars": 19994,
+      "forks": 3618,
       "language": "Rust",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -889,10 +873,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-19",
     "meta": {
-      "stars": 10078,
-      "forks": 1050,
+      "stars": 10273,
+      "forks": 1071,
       "language": "JavaScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
