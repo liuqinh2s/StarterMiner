@@ -72,7 +72,7 @@
   {
     "source": "36氪",
     "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
-    "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案��� 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办",
+    "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办。本",
     "url": "https://36kr.com/p/3903383663478403?f=rss",
     "published": "2026-07-20 10:49:41  +0800",
     "lang": "zh",
@@ -101,30 +101,40 @@
   },
   {
     "source": "36氪",
-    "title": "郑栅洁：目前企业生产经营平稳 市场预期稳步改善，有能力、有信心完成全年生产经营目标",
-    "summary": "36氪获悉，据国家发展改革委消息，7月20日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，与来自食品加工、工业自动化测试设备制造、营销服务、人形机器人研发、物联网服务等领域的三全食品、华兴源创、易点天下、银河通用机器人、飞尚科技等5家企业负责人沟通交流，围绕上半年经济形势和下半年经济工作听取意见建议。会上，参会企业负责人围绕会议主题，结合各自行业特点与企业生产经营情况等，对上半年经济形势进行了分析。大家普遍认为，今年以来外部不稳定不确定因素增多，我国经济顶住压力、稳中有进，展现出强大韧性和活力，目前企业生产经营平稳，市场预期稳步改善，有能力、有信心完成全年生产经营目标。",
-    "url": "https://36kr.com/newsflashes/3903866748274309?f=rss",
-    "published": "2026-07-20 18:58:36  +0800",
+    "title": "报道称谷歌正计划开发新芯片",
+    "summary": "7月20日，据报道，谷歌正计划开发一款“Frozen V2”芯片，以更高效地为其Gemini AI模型提供服务。（界面）",
+    "url": "https://36kr.com/newsflashes/3904568264279684?f=rss",
+    "published": "2026-07-21 07:21:06  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "36氪",
-    "title": "阿里云发布轻量应用服务器“智能体专用型实例”",
-    "summary": "36氪获悉，阿里云推出轻量应用服务器智能体专用型实例，将vCPU、内存、云盘、200Mbps峰值带宽（免流量费）与大模型Tokens（1亿至32亿不等）打包为预付费套餐，为用户提供一站式AI Agent运行环境。目前已在北京、上海、广州等12个地域上线，未来将支持更多国内及海外地域。",
-    "url": "https://36kr.com/newsflashes/3903863735732103?f=rss",
-    "published": "2026-07-20 18:55:33  +0800",
+    "title": "“尼卡光学”完成近亿元A轮融资",
+    "summary": "36氪获悉，全息技术领域企业“尼卡光学”宣布完成近亿元A轮融资。本轮融资由中银国际投资、天津滨海产业基金、Gobi Partners、中信建投、珠海全志科技等机构共同投资。融资资金将主要用于体全息光波导产线投产及加速技术迭代。据了解，尼卡光学成立于2022年7月，专注于体全息技术及其在AI眼镜、车载AR-HUD等场景中的产业化应用。",
+    "url": "https://36kr.com/newsflashes/3903974776292998?f=rss",
+    "published": "2026-07-20 20:48:30  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "36氪",
-    "title": "影身智能与多家越南企业达成战略合作，首批交付数百台机器人",
-    "summary": "36氪获悉，杭州影身智能技术有限公司宣布与宝龙鞋业、顺斐鞋业、越韩鞋业等多家越南制鞋企业达成战略合作。影身智能将向越南制鞋企业交付ShadowGlue和ShadowPress两款制鞋具身机器人。依托全栈自研的4D世界模型技术、具身智能算法及机器人产品，影身智能将持续助力越南企业制鞋产线向柔性化、智能化方向升级。据了解，影身智能此次向越出口的首批柔性具身机器人数量达数百台，订单金额达人民币数千万元。",
-    "url": "https://36kr.com/newsflashes/3903839074617220?f=rss",
-    "published": "2026-07-20 18:45:26  +0800",
+    "title": "曝零一万物启动新一轮融资，拟2027年申请IPO",
+    "summary": "据报道，由国际知名人工智能专家李开复创立的零一万物正推进融资计划，并计划在2027年进行申请首次公开募股（IPO）。据悉，李开复计划在零一万物首次公布年度业绩前后完成这轮融资，但未透露融资目标金额和潜在投资者情况。目前，零一万物正逐步解除其离岸控股架构，这是顺利进行海外上市的先决条件。对于融资及相关IPO计划，截至发稿零一万物方面暂无回应。（新浪科技）",
+    "url": "https://36kr.com/newsflashes/3903968879511169?f=rss",
+    "published": "2026-07-20 20:45:20  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
+    "title": "招商证券终止为中韩半导体等6只基金提供主做市服务，回应：单纯商业行为，非市场方向判断",
+    "summary": "近日，上交所公告称，经招商证券股份有限公司备案申请，自2026年7月20日起，招商证券终止为6只QDII基金提供主做市服务。对此，招商证券20日回复称，这只是单纯的商业行为，不涉及对市场方向的判断。具体来看，6只基金包括华泰柏瑞中韩半导体交易型开放式指数证券投资基金（QDII）、华夏野村日经225交易型开放式指数证券投资基金（QDII）的基金、华安三菱日联日经225交易型开放式指数证券投资基金（QDII）、富国纳斯达克100交易型开放式指数证券投资基金（QDII）、博时纳斯达克100交易型开放式指数证券投资基金（QDII）、华夏纳斯达克100交易型开放式指数证券投资基金（QDII）。 （中新经纬）",
+    "url": "https://36kr.com/newsflashes/3903961766037124?f=rss",
+    "published": "2026-07-20 20:42:13  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -261,6 +271,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】国常会：分门别类完善服务业支持政策，系统推进“六张网”规划建设；事关资本市场，吴清发声，五大险资巨头集体表态；港交所考虑延长交易时间，取消午休？最新回应",
+    "summary": "新易盛：预计下半年订单交付情况仍处于快速增长阶段；广发证券上调两融总规模上限；国投电力拟与宁德时代合资投资水电站项目；谷歌研发新型“Frozen”芯片，大幅提升Gemini AI模型运行效率；工信部：深入实施“人工智能+制造”行动，加强算力、模型、数据等核心技术供给。",
+    "url": "https://www.tmtpost.com/8072626.html",
+    "published": "Tue, 21 Jul 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "钛媒体",
     "title": "台积电：赚钱逻辑变了",
     "summary": "芯片越卖越贵，花钱越来越快。",
     "url": "https://www.tmtpost.com/8072223.html",
@@ -351,40 +371,70 @@
   },
   {
     "source": "TechCrunch",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "summary": "X says the rebuilt version of its Android app is now available globally.",
+    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "published": "Mon, 20 Jul 2026 19:37:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "published": "Mon, 20 Jul 2026 19:33:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+    "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+    "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+    "published": "Mon, 20 Jul 2026 19:11:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+    "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+    "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+    "published": "Mon, 20 Jul 2026 15:15:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+    "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+    "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+    "published": "Mon, 20 Jul 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+    "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+    "published": "Mon, 20 Jul 2026 12:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
     "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
     "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
     "published": "Sun, 19 Jul 2026 21:45:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-    "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world’s most […]",
-    "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-    "published": "Fri, 17 Jul 2026 23:08:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "published": "Fri, 17 Jul 2026 22:12:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-    "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-    "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-    "published": "Fri, 17 Jul 2026 19:22:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -620,9 +670,89 @@
     "fetchedAt": "2026-07-20"
   },
   {
+    "source": "The Verge",
+    "title": "LG’s glossy OLED gaming monitor is rare to find under $400",
+    "summary": "If you’ve been thinking about upgrading your gaming monitor, LG’s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99 (about $70 off) at Amazon and directly from LG, marking a new low price. It originally launched at $799.99, but has been available for under $500 since […]",
+    "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
+    "published": "2026-07-20T12:34:24-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What Is Yuanjiwei, the Chinese Startup Promising 5nm Chips Without EUV?",
+    "summary": "Article URL: https://mrkt30.com/what-is-yuanjiwei-the-chinese-startup-promising-5nm-chips-without-euv/ Comments URL: https://news.ycombinator.com/item?id=48982978 Points: 1 # Comments: 0",
+    "url": "https://mrkt30.com/what-is-yuanjiwei-the-chinese-startup-promising-5nm-chips-without-euv/",
+    "published": "Mon, 20 Jul 2026 18:35:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy ( https://bloomylearning.com ) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing). How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer. The goal is",
+    "url": "https://news.ycombinator.com/item?id=48981136",
+    "published": "Mon, 20 Jul 2026 16:32:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
+    "summary": "Article URL: https://mastodon.online/users/mwichary/statuses/116952836351215165 Comments URL: https://news.ycombinator.com/item?id=48980930 Points: 15 # Comments: 3",
+    "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
+    "published": "Mon, 20 Jul 2026 16:17:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Startup Graveyard Is Full of Problem Solvers",
+    "summary": "Article URL: https://www.minid.net/2019/7/30/find-a-problem-and-solve-it Comments URL: https://news.ycombinator.com/item?id=48980187 Points: 2 # Comments: 0",
+    "url": "https://www.minid.net/2019/7/30/find-a-problem-and-solve-it",
+    "published": "Mon, 20 Jul 2026 15:24:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rocket launch costs have dropped 96% since 1960. How low can they go?",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go Comments URL: https://news.ycombinator.com/item?id=48979934 Points: 4 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go",
+    "published": "Mon, 20 Jul 2026 15:07:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
+    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48979905 Points: 10 # Comments: 1",
+    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+    "published": "Mon, 20 Jul 2026 15:05:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Researchers copy NASA climate data to Swiss supercomputer amid US funding cuts",
+    "summary": "Article URL: https://www.rfi.fr/en/international-news/20260720-swiss-researchers-hoard-vast-trove-of-nasa-climate-data Comments URL: https://news.ycombinator.com/item?id=48977653 Points: 3 # Comments: 1",
+    "url": "https://www.rfi.fr/en/international-news/20260720-swiss-researchers-hoard-vast-trove-of-nasa-climate-data",
+    "published": "Mon, 20 Jul 2026 12:09:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
     "source": "Hacker News",
     "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-    "summary": "Article URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/ Comments URL: https://news.ycombinator.com/item?id=48977247 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/ Comments URL: https://news.ycombinator.com/item?id=48977247 Points: 2 # Comments: 0",
     "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
     "published": "Mon, 20 Jul 2026 11:21:42 +0000",
     "lang": "en",
@@ -645,16 +775,6 @@
     "summary": "Article URL: https://www.youtube.com/@bewideai Comments URL: https://news.ycombinator.com/item?id=48972957 Points: 1 # Comments: 1",
     "url": "https://www.youtube.com/@bewideai",
     "published": "Mon, 20 Jul 2026 00:15:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48970736 Points: 1 # Comments: 1",
-    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-    "published": "Sun, 19 Jul 2026 18:53:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -730,69 +850,6 @@
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
-    "summary": "Article URL: https://shippingszn.com/ Comments URL: https://news.ycombinator.com/item?id=48960665 Points: 2 # Comments: 0",
-    "url": "https://shippingszn.com/",
-    "published": "Sat, 18 Jul 2026 18:19:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google Gemini launch delayed as tech falls short of internal goals",
-    "summary": "Article URL: https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48958489 Points: 5 # Comments: 2",
-    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
-    "published": "Sat, 18 Jul 2026 14:29:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup credits hiding your real burn rate",
-    "summary": "Article URL: https://economi.co/learn/cloud-credits-hiding-your-burn Comments URL: https://news.ycombinator.com/item?id=48956409 Points: 1 # Comments: 0",
-    "url": "https://economi.co/learn/cloud-credits-hiding-your-burn",
-    "published": "Sat, 18 Jul 2026 09:11:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Vikram-1, India's first private orbital rocket, aces debut launch",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1 Comments URL: https://news.ycombinator.com/item?id=48956052 Points: 7 # Comments: 0",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
-    "published": "Sat, 18 Jul 2026 07:52:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: I've told everyone about my startup and its been harder than I thought",
-    "summary": "Im feeling immense pressure . I told everyone about this startup I've been working on, and Its been deteriorating my mental health more and more. Im running out of $$. I dont want to let everyone down. but I feel too tired to work, but im too tired to embarrass myself and quit. I dont want to quit on my mission. I feel so alone. I isolated myself from friends and family. I talked to thousands of my users. I dont know what to do. Would like some advice. Kind of feeling doomful/dreadful I am prett",
-    "url": "https://news.ycombinator.com/item?id=48955898",
-    "published": "Sat, 18 Jul 2026 07:12:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "B站",
-    "title": "人形机器人实景挑战",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=人形机器人实景挑战",
-    "published": "2026-07-20",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20",
-    "meta": {
-      "hotValue": 262526
-    }
-  },
-  {
     "source": "V2EX",
     "title": "吃瓜吧。表弟骗了 50 多万，如何对账知道他在干嘛？",
     "summary": "年初的时候找家里说缺 20 万。家里给了 10 万。 5 月份骗他哥说要去招标啥的，一个月给还，拿了 50 万。 到期了说没钱得缓，转头给他妈说没钱。创业失败之类的。 他妈心软，给他哥说这钱别找你弟要，我给你还。 他哥的意思是，明显谎话连篇。 1 、不可能 50 万的招标项目。 2 、表弟的说法是：公司每个月亏 5 万，他亏了半年扛不住了去借的网贷给员工发工资然后倒闭 他哥觉得，创业、有公司的人不会动网贷的心思，其次，宁愿欠员工也不可能欠网贷。再次，他都一个月亏 5 万了，他还继续亏是脑子有包？ 他妈也有点回过神来，但农村人啥都不懂，他妈打算过去查账 我的想法是：",
@@ -802,8 +859,22 @@
     "type": "community",
     "fetchedAt": "2026-07-20",
     "meta": {
-      "replies": 69,
+      "replies": 75,
       "node": "生活"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "所以说，你们对大模型是一点黏性都没有的？",
+    "summary": "从 DP4 ，到 GLM 5.2 ，到 K3 ，说换就换，毫无纠结，就跟渣男一样…… 那，做了一半的任务，是直接在新模型上继续了？",
+    "url": "https://www.v2ex.com/t/1228568",
+    "published": 1784531495,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-07-20",
+    "meta": {
+      "replies": 66,
+      "node": "程序员"
     }
   },
   {
@@ -816,10 +887,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-20",
     "meta": {
-      "stars": 20521,
-      "forks": 3748,
+      "stars": 20769,
+      "forks": 3820,
       "language": "Rust",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -832,10 +903,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-20",
     "meta": {
-      "stars": 10924,
-      "forks": 1116,
+      "stars": 11055,
+      "forks": 1134,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
