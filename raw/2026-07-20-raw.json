@@ -1,6 +1,66 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+    "summary": "大公司： 摩根士丹利成为华尔街AI债务交易头号银行 摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。 三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍 据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。 马斯克称特斯拉FSD会模仿驾驶风格 7月20日，埃隆·马斯克已确认特斯拉FSD（Full Self-Driving）软件正在从过去的“通用型、一套方案适用于所有用户”的驾驶系统，转变为真正的个性化驾驶系统。 近日，一名特斯拉FSD用户在X平台上抱怨，车辆经常会在不该离开的位置驶出高载客车道或快速车道，主动退出左侧高效车道后进入拥堵车流，而旁边最左侧车道上的车辆仍然畅通无阻，非常令人烦恼。 对此，马斯克回应称：“车辆将开始记住你具体的人工干预行为，并根据每个人的个人偏好进行调整。” 月之暗面Kimi团队：算力紧缺，会员暂停开放 36氪获悉，7月19日，月之",
+    "url": "https://36kr.com/p/3903710346790535?f=rss",
+    "published": "2026-07-20 18:22:28  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
+    "title": "WAIC上，AI开始接管人类的欲望",
+    "summary": "24.8万的仿生人形机器人，“比彩礼都贵！” 撰文 | 刘思洁 编辑 | 张薇 在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。 一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Labubu的毛绒AI玩具主打亲子陪伴，父母想传递的教育内容，可以借一个AI玩偶的嘴说出来；还有一种陪伴被设计成了肩膀上的毛绒挂件，通过声音感知用户的情绪变化。 展会上的AI陪伴类硬件产品 毛茸茸，是陪伴类产品最常见的形态。仿生人形机器人则是更直接的一种。在WAIC的会场上，仿生机器人公司对外展示时，把产品的用途设定为歌姬、迎宾人员、健康咨询顾问。而它当下最有商业场景的用途，则是一副能让硅胶娃娃动起来的骨骼，批量卖给情趣用品厂。用户对于仿生机器人的期望，也是替代“另一半”，当听到产品报价，脱口而出“比彩礼都贵”。 当然，人类的欲望不仅需要一个可以被投射的实体、",
+    "url": "https://36kr.com/p/3903687507904387?f=rss",
+    "published": "2026-07-20 18:06:08  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
+    "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
+    "summary": "一台80cm高的毛绒人形机器人，可以承载多少想象力？ “它虽然没有完全像人，但拥有全套的传感器，可以跟你交互、分析你的表情，去看你是高兴还是低落。只要算力可以满足，它可以提供各种各样的东西，软件能增量开发的东西是有无限想象力的。” 青心意创CTO曾俊告诉硬氪。他所谈论的是Amoo——青心意创推出的首款智能机器人产品Amoo，身高80cm，拟人双足，无棱角毛绒全包覆。 曾俊曾担任全球自动驾驶巨头Cruise的核心模型科学家，带领团队取得多项行业领先成果。他是加州大学伯克利分校博士，本科是由上海交大和法国巴黎综合理工联合培养的应用数学与力学系精英。曾在在双足机器人强化学习控制与安全关键系统领域发表了20余篇机器人国际顶会顶刊论文，并多次登顶最高引用及最佳论文。 他坦言，自动驾驶和研发机器人难点完全不一样。“车有近乎无限的电力和算力，但本质上只有方向盘和油门两个输出。但机器人的输出可太多了——它要说话、要做动作，还要和环境耦合，虽然有一定容错率，算力却相对较少，又有续航和电池的限制。”用曾俊的比喻来说，“水已经定好量了，要把选好的面放进去”。 因此，在曾俊看来，B端和C端对底层能力的要求不在",
+    "url": "https://36kr.com/p/3903761449617027?f=rss",
+    "published": "2026-07-20 17:12:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
+    "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
+    "summary": "硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。 两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。 两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。 作为十五五规划明确重点发展的未来产业，量子计算的水温正在持续升高，当前，全球正围绕超导、离子阱、原子等多种主流技术路线展开激烈竞逐。 两仪万象正是原子技术路线的代表企业，原子捕获数量上，团队已实现了11000原子的捕获，打破了美国加州理工大学之前保持的6100个原子的世界纪录，拿到了单一指标的新世界纪录。“我们的目标就是对照加州理工、哈佛和MIT等国际顶尖团队去竞争”，董事长石琦告诉硬氪。 两仪万象的第一代原子量子计算机，在自主研发的光镊囚禁超冷铷原子阵列平台上，将通过动态",
+    "url": "https://36kr.com/p/3903756643255940?f=rss",
+    "published": "2026-07-20 17:08:15  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
+    "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
+    "summary": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。 该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。 博顿光电成立于2016年，是国家级“专精特新”小巨人企业。公司专注于全国产自主可控离子源和离子束超精密工艺设备， 是业内唯一掌握核心部件离子源-离子束整机装备-应用工艺方案全链条核心技术并自研自制的企业。 （图源/企业） 在商业化落地上，博顿以精密光学、泛半导体、航空航天构成提供稳健现金流的业绩基本盘，同时凭借稀缺的卡位，成为了可控核聚变、光通信、量子科技等 前沿赛道的核心工艺设备“独家卖铲人” ，近年来，公司营收年增长率达50%以上。 比如当下狂飙的可控核聚变领域，博顿光电展现出了近乎100%市占率的统治力。高温超导带材是实现高场强磁体的不可替代材料，而第二代高温超导带材（REBCO体系）的制备工艺中，采用IBAD（离子束辅助沉积）设备镀氧化镁种子层是不可绕过的关键工序",
+    "url": "https://36kr.com/p/3903739699005058?f=rss",
+    "published": "2026-07-20 16:51:01  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
+    "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+    "summary": "华为公司高级副总裁、引望公司CEO 靳玉志 文｜肖漫 编辑｜李勤、杨轩 过去几年，华为一直强调自己在汽车行业的身份只有一个——“智能网联汽车的增量部件提供商”。 尽管一遍遍地强调，但随着合作车型不断扩容，“界”（指鸿蒙智行生态联盟中的问界、享界、智界、尊界、尚界）之外又出现了“境”（启境、奕境等），华为乾崑智驾授权体验中心开始向消费者开放，华为在汽车产业中的角色再一次被审视：它究竟是一家供应商，还是已经越来越像一家汽车品牌？“界”和“境”的关系是什么？ “我们的定位从来没有变化。”面对外界讨论，华为公司高级副总裁、引望公司CEO靳玉志近日接受采访时再次强调，引望始终坚持“电子螺丝钉”的战略定位，不和整车造车产生冲突，帮助车企造好车、卖好车，使华为乾崑真正成为汽车行业智能化的公共平台。 靳玉志自1998年加入华为，从波分领域工程师一路晋升为光产品线总裁，2023年担任华为智能汽车解决方案BU CEO，主导华为乾崑的研发，以及与车企的合作。 “互补而非竞争”，这是华为乾崑首次回应“界”与“境”之间的关系，两者都是建立在华为乾崑公共技术底座上的全栈样板点。 在华为内部，很早就达成了共识：鸿蒙",
+    "url": "https://36kr.com/p/3902068392658566?f=rss",
+    "published": "2026-07-20 12:32:43  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "36氪",
     "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
     "summary": "6个年轻创业者在WAIC的故事 文｜温丽虹 王欣逸 编辑｜张雨忻 在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。 经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着操纵具身智能机器人的知名厂商工程师翻了翻他们群聊里的展会地图，抱歉地告诉我，他们也不清楚：“这里只有H1到H3，没有H4。你是不是去分会场找找？” 属于初创团队的场地在主展馆地下一层偏居一隅，一道亮黄色的大门默不作声地支在场馆西北侧的角落。穿过这道大门，就是遍布初创公司的一方天地。 来之前，我们知道并非所有的AI创业者与科创公司都对参加WAIC怀抱热情。但对于手握产品与创业理想，又欠缺助力的初创团队来说，参与这次展会是一件有点“不得不去”的事情。 你能轻易辨认出那些为这个机会拼尽全力的人。他们中的一些人，手中用于演示的样机还贴着临时修补的胶带，但站在那里时，目光总在捕捉每一个放慢脚步的观众。一天下来，他们所做的，就是把产品的逻辑和未来的愿景一遍遍说给人听。 也有些人，连展位的方寸之地都无法拥有。他们穿梭在展馆的人流里，胸前挂着的参会证可能是整个团队团队唯一的入场凭证",
     "url": "https://36kr.com/p/3903396279125888?f=rss",
@@ -12,7 +72,7 @@
   {
     "source": "36氪",
     "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
-    "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办。本",
+    "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案��� 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办",
     "url": "https://36kr.com/p/3903383663478403?f=rss",
     "published": "2026-07-20 10:49:41  +0800",
     "lang": "zh",
@@ -41,160 +101,30 @@
   },
   {
     "source": "36氪",
-    "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-    "summary": "史上最热的WAIC都整了哪些活？看这一篇就够了。 文｜邓咏仪 周鑫雨 王欣逸 温丽虹 编辑｜张雨忻 如果你想知道今年的AI圈第一盛事热度如何，只要来上海感受逼近40度的高温，就能同频共振。 没有很热，只有更热。 7月17日，2026年世界人工智能大会在上海世博展览馆正式开幕。展览面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品全球首发。从展商数量来看，和2023年400家、2025年800家相比——两年翻了一倍还多。 从网传的消息来看，本届WAIC门票售罄的日子比以往也要更早—— 原价168元的单日票已经被黄牛炒到近十倍价格，三天通票则被炒到3000元。 论坛阵容同样也比此前要更豪华。9位图灵奖、诺贝尔奖得主出席本届WAIC大会，强化学习之父理查德·萨顿、深度学习三巨头之一约书亚·本吉奥悉数到场。 继2023年的数十款大模型竞相争抢风头，2024年应用井喷，2025年的具身爆发，2026年的WAIC可以说真正做到全面开花——展品的多样性远胜以往，超过108款芯片、261款大模型、208款具身智能终端，都在这次展会中亮相。 如果说以前WAIC还在追",
-    "url": "https://36kr.com/p/3902007640459145?f=rss",
-    "published": "2026-07-20 09:20:44  +0800",
+    "title": "郑栅洁：目前企业生产经营平稳 市场预期稳步改善，有能力、有信心完成全年生产经营目标",
+    "summary": "36氪获悉，据国家发展改革委消息，7月20日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，与来自食品加工、工业自动化测试设备制造、营销服务、人形机器人研发、物联网服务等领域的三全食品、华兴源创、易点天下、银河通用机器人、飞尚科技等5家企业负责人沟通交流，围绕上半年经济形势和下半年经济工作听取意见建议。会上，参会企业负责人围绕会议主题，结合各自行业特点与企业生产经营情况等，对上半年经济形势进行了分析。大家普遍认为，今年以来外部不稳定不确定因素增多，我国经济顶住压力、稳中有进，展现出强大韧性和活力，目前企业生产经营平稳，市场预期稳步改善，有能力、有信心完成全年生产经营目标。",
+    "url": "https://36kr.com/newsflashes/3903866748274309?f=rss",
+    "published": "2026-07-20 18:58:36  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "36氪",
-    "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-    "summary": "36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。 据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四大核心应用场景的市场覆盖。 在经历了大模型参数量与算力的早期竞赛后，行业正逐步步入“以应用论英雄”的商业化深水区。目前，围绕大模型“记忆层（Memory）”这一维度的技术成为重要的攻坚点。 今年融资事件频发，并明显呈加速状态：由在Anthropic负责Claude预训练工作的Andrej Karpathy等参与投资、估值达6亿美元的13人团队Engram已公开亮相；定位于连接个人数据与智能体生态记忆层的Clipto，已获红杉中国、高瓴创投等多轮追投；国内完成近亿元天使轮融资、专注于开发开源记忆操作系统MemOS的“记忆张量”，以及在2026年春季相继完成种子轮与种子+轮、两轮累计融资金额超1亿元",
-    "url": "https://36kr.com/p/3899612612494976?f=rss",
-    "published": "2026-07-20 09:00:00  +0800",
+    "title": "阿里云发布轻量应用服务器“智能体专用型实例”",
+    "summary": "36氪获悉，阿里云推出轻量应用服务器智能体专用型实例，将vCPU、内存、云盘、200Mbps峰值带宽（免流量费）与大模型Tokens（1亿至32亿不等）打包为预付费套餐，为用户提供一站式AI Agent运行环境。目前已在北京、上海、广州等12个地域上线，未来将支持更多国内及海外地域。",
+    "url": "https://36kr.com/newsflashes/3903863735732103?f=rss",
+    "published": "2026-07-20 18:55:33  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "36氪",
-    "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
-    "summary": "今日热点导览 任泽平团队回应VIP群聊解散 市场监管总局发布《个体工商户信用信息应用指南》 “工业维生素”价格暴涨，钼铁一天跳涨1500元 黄仁勋皮夹克拍出96万美元天价 韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标 TOP3大新闻 长鑫科技中签号出炉：共约770.22万个 36氪获悉，长鑫科技披露首次公开发行股票网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A股股票。 长鑫科技中签号出炉 西班牙队1-0战胜阿根廷队，夺得本届世界杯冠军 北京时间7月20日，2026美加墨世界杯迎来终极对决。比赛常规时间，西班牙与阿根廷0-0战平。加时赛阶段，西班牙凭借费兰·托雷斯的进球，最终1-0战胜阿根廷，夺得本届世界杯冠军。这也是西班牙时隔16年再度登顶。 上半场比赛，双方0-0战平，阿根廷0射门，西班牙3脚射门2次射正。全场补时阶段，阿根廷队球员费尔南德斯收到本场比赛个人第二张黄牌，两黄变一红被罚下。常规时间结束，双方均未取得进球，比赛进入加时赛阶段。加时赛上半场，西班牙前场连线破门，犯规在先被判无效。第106分钟，西班牙队球员费兰·托雷斯劲射破门。最",
-    "url": "https://36kr.com/p/3903220264404608?f=rss",
-    "published": "2026-07-20 08:05:13  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
-    "summary": "在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。 WAIC现场图片 两项首发背后，是一套从感知层到算法层再到输出层的完整技术体系。 核心引擎：天回·AI脉诊算法与三重置信体系 安顿双核首发的技术底座，是一套名为\"天回·AI脉诊算法\"的自研核心技术。该算法首次将中医24种脉象细分为120余个可量化的特征点，实现了中医脉诊从经验判断到数据驱动的范式转换。 算法之上，安顿构建了三重置信体系：天回中医药大模型、西医临床诊断模型、以及个人专属健康模型协同评估。 在数据监测端，安顿生命预警表以每日2000组高频监测心率、血压、血氧、ECG心电、体温等深层生理信号，可对心梗、脑卒中、肿瘤等重大风险实现提前1至7天的发现与预警，真正做到主动健康管理。 七诊合参与三大首创 安顿中医机器人的七诊合参体系，是安顿在本届WAIC上最受关注的技术亮点。传统中医\"望闻问切\"被拓展为七个维度的同步采集与融合分析： AI面诊：高清视觉摄像头完成面部气色与形态的数字化采集。 红外面诊（首创）：基于高精度红外热成",
-    "url": "https://36kr.com/p/3902428274427525?f=rss",
-    "published": "2026-07-19 18:35:30  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
-    "summary": "今日热点导览 月之暗面正式推出开源模型Kimi K3 智谱ARR达到10亿美元，半年增长15倍 国际足联：世界杯冠军将有戒指，每枚均有独立编号 国内成品油价7月17日晚上调 A股存储板块龙头股遭遇两个跌停 TOP3大新闻 ofo停更5年突然发文，运营主体仍处存续状态 7月15日，沉寂近5年的ofo小黄车官方微信公众号突然更新。此次公众号发布的内容，是一则皮肤病患者援助招募信息。虽然与共享单车业务并无关联，这次更新仍然迅速引发关注。不少网友提及尚未退回的押金问题：“我的199元什么时候退？”“退款队伍还排着吗？”“这么多年过去了，押金还有希望吗？” 此前有不少网友认为，ofo早已倒闭。然而，天眼查显示，ofo关联运营主体北京拜克洛克科技有限公司目前仍处于存续状态，公司风险信息较高，涉及大量司法案件、被执行信息及限制消费令。（扬子晚报） 苹果市值重返全球第一 7月17日，苹果股价超越英伟达，成为全球市值最高公司。英伟达下跌3.2%，市值进一步缩水至约4.86万亿美元；苹果则依靠近期强势上涨，市值上升至约4.90万亿美元，时隔3个月重返全球市值第一。（界面新闻） 乐事：“蓝色薯片”系着色验证",
-    "url": "https://36kr.com/p/3900449325287305?f=rss",
-    "published": "2026-07-18 09:05:45  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
-    "summary": "2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学家持续探索的肩膀上，也受益于信息技术、移动互联网、云计算、半导体、新能源等产业积累，能够参与这场时代变革无比幸运。 印奇判断，2026 年模型能力正在跨越关键临界点，AI 已从只能连续执行数秒任务，进阶到能够独立工作数十小时，行业正站在 AGI 高峰的山脚下。继自然语言之后，编程正成为衡量 AI 能力跃迁的重要标尺。随着智能体模型与下一代终端产品加速结合，智能正从数字屏幕走向真实物理世界，智能体也将从聊天工具进化为能够感知、决策和执行任务的生产力最小单元。未来，工程师、设计师、研究员等都能拥有专属智能体，使一个人具备一支团队的能力。 印奇指出，智能体浪潮将推动新系统、新载体、新网络三大结构性变革。在",
-    "url": "https://36kr.com/p/3900439867147909?f=rss",
-    "published": "2026-07-18 08:53:35  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "量坤科技携三大核心产品亮相WAIC 2026",
-    "summary": "36氪获悉，日前，2026世界人工智能大会（WAIC 2026）于上海正式开幕。量坤科技携旗下最新“量子×AI×HPC”异构智能计算平台登陆本届大会并主办“量超智融合论坛”。量坤科技创始人吕定顺博士于论坛期间发表“当量子计算遇见AI与HPC”主题演讲，并正式发布三款最新核心产品：国内首个量子智能体平台“量启AI Agent”，量子软硬件统一控制套件 “fieldqkit”，以及材料科学数据智能预测平台“元材智库”。",
-    "url": "https://36kr.com/newsflashes/3903464856520328?f=rss",
-    "published": "2026-07-20 12:20:44  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "AI大模型公司零一万物计划2027年在香港上市",
-    "summary": "市场消息：AI大模型公司零一万物计划2027年在香港上市。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3903439153186692?f=rss",
-    "published": "2026-07-20 11:43:38  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "A股三大指数午间休盘集体上涨，古井贡酒涨停",
-    "summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨1.18%，深成指涨0.21%，创业板指涨1.13%；油气、白酒、保险板块领涨，中国海油、古井贡酒涨停，中国太保涨超5%；电子元器件、建材、工业机械板块跌幅居前，铜冠铜箔跌停，华锐精密跌超15%，国际复材跌超11%。",
-    "url": "https://36kr.com/newsflashes/3903428944676486?f=rss",
-    "published": "2026-07-20 11:33:15  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "工信部：正在加紧制定培育全国一体化技术市场相关文件，破除交易壁垒和制度障碍",
-    "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，今年以来，工信部聚焦畅通成果产业化渠道和科技型企业孵化链条，以培育壮大科技服务业为抓手，重点开展了三个方面的工作。一是做强孵化率，建立了从研发到中试再到孵化的全链条服务能力；二是建好交易市场，不少优质成果本身技术过硬，但是受到地区和渠道的限制，难以对接全国市场，酒香也怕巷子深。目前我们正在加紧制定培育全国一体化技术市场的政策文件，着力破除技术交易过程当中的区域壁垒和制度障碍，建设国家统一技术交易服务平台，促进技术要素在全国范围内自由流动；三是畅通供需成果转化。“不能拿着锤子找钉子”，我们要坚持产业出题、科技答题，发挥好技术经理人的作用，畅通科研产出、中介撮合应用落地等环节。目前，工信部正在加快制定加强技术经理人队伍建设的改革举措，有关政策和标准将在不久后出台。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3903409120987008?f=rss",
-    "published": "2026-07-20 11:13:05  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "工信部：将加快出台人工智能+软件行动方案",
-    "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部新闻发言人、运行监测协调局局长陶青表示，软件是新一代信息技术的灵魂，是数字经济发展的重要基础，是制造强国、网络强国、数字中国建设的关键支撑。下一步我们将按照国家软件发展战略部署，持续增强关键软件产品和服务供给能力，加快出台人工智能+软件行动方案，推动软件开发智能化转型，软件产品及服务智能化升级和智能体软件新业态的培育，持续提升开源基础设施在项目孵化、供应链安全治理、新兴场景探索、海外市场落地等方面的能力，加快推动国家级人工智能开源社区成长为新兴技术的创新策源地和软硬件产品落地的重要场景。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3903399623542657?f=rss",
-    "published": "2026-07-20 11:03:25  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "工信部：将加快光子、时空信息等新兴增长点培育，加速算电一体化布局落地",
-    "summary": "工业和信息化部新闻发言人、运行监测协调局局长陶青在国新办新闻发布会上表示，下一步，我们将深入推进数字中国建设和智能经济发展，着力加强三方面工作。一是强化政策规划引领，加快《电子信息制造业发展“十五五”规划》《新型电池产业发展“十五五”规划》宣贯落实，夯实“十五五”时期产业高质量发展制度保障。二是深化应用示范带动，开展2026年先进计算、视听电子、智能体育等典型案例征集活动，加速成熟产品和解决方案规模化推广。三是前瞻布局新兴赛道，加快光子、时空信息等新兴增长点培育，加速算电一体化布局落地，不断塑造产业发展新动能新优势，推动电子信息制造业高质量发展。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3903396870211207?f=rss",
-    "published": "2026-07-20 11:00:37  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "工信部：将印发算力标准体系建设指南，推动建立算力市场化定价等标准",
-    "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部新闻发言人、信息通信发展司司长谢存表示，近两年围绕国家算力枢纽节点建设超70条算力大通道，相关算力枢纽节点间网络性能提升10%。当前人工智能大模型和智能体应用的爆发式增长，使得智能算力需求不断提升。下一步工信部将持续按照点、链、网、面、体系化工作思路，优化算力基础设施资源部署，打造算力互联互通节点，提升算力资源利用效率。在点上发力方面，将优化算力资源供给部署，统筹产业发展和能源供给等因素，推动智算集群建设和算电协同发展，打造梯次化算力布局，加强算力统筹监测。此外，将印发算力标准体系建设指南，推动建立算力服务能力评估、算力市场化定价等标准。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3903384861771649?f=rss",
-    "published": "2026-07-20 10:48:24  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "我国人形机器人整机产品超全球半数",
-    "summary": "工业和信息化部7月20日发布数据显示，上半年，我国一批具有国际竞争优势的产业加快壮大。智能机器人领域，我国研发的四足机器人占全球销量份额接近70%，人形机器人整机产品达400余款、超全球半数。人工智能、半导体、新能源、生物医药等领域，涌现一批全球独角兽企业，在国际标准研制、产业治理等方面积极贡献中国方案。（新华社）",
-    "url": "https://36kr.com/newsflashes/3903383107110785?f=rss",
-    "published": "2026-07-20 10:46:37  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "工信部：持续实施新一轮机械、汽车等行业稳增长工作方案，全方位扩大优质供给和有效需求",
-    "summary": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年，装备工业出口交货值同比增长18.2%, 对工业出口增长的贡献率达到了近50%。下一步，工信部将全力推动装备工业转型升级。一是推动行业实现平稳增长，紧扣“十五五”规划，落实各项统筹部署，做好智能网联新能源汽车“十五五”发展规划宣贯和落实，持续实施新一轮机械、汽车、电力装备等行业稳增长工作方案，全方位扩大优质供给和有效需求；二是加快关键核心技术攻关，统筹推进产业技术再造和重大技术装备攻关工程，持续提升重点产业链供应链韧性和安全水平；三是加快国产装备推广应用，深入实施工业母机、智能机器人、医疗装备等行业的供需对接，加快首台（套）重大技术装备推广应用，做好新能源汽车下乡活动，持续开展智能网联汽车车路云一体化应用试点准入和上路通行试点，激活大宗商品市场消费潜力。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3903369632794241?f=rss",
-    "published": "2026-07-20 10:32:55  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "36氪",
-    "title": "Meshy完成近4亿美元B轮融资",
-    "summary": "36氪获悉，Meshy今日宣布完成近4亿美元B轮融资，投后估值超过100亿元人民币。本轮由IDG资本、经纬中国、Monolith砺思资本等投资机构和战略投资方共同投资，Granite Asia、红杉中国、BAI资本、源码资本等现有股东超额跟投，持续加注。这是AI 3D领域迄今规模最大的单轮融资，刷新单轮规模与估值两项纪录。本轮融资将主要用于AI多模态模型研发与全球市场拓展。",
-    "url": "https://36kr.com/newsflashes/3903365138270088?f=rss",
-    "published": "2026-07-20 10:28:21  +0800",
+    "title": "影身智能与多家越南企业达成战略合作，首批交付数百台机器人",
+    "summary": "36氪获悉，杭州影身智能技术有限公司宣布与宝龙鞋业、顺斐鞋业、越韩鞋业等多家越南制鞋企业达成战略合作。影身智能将向越南制鞋企业交付ShadowGlue和ShadowPress两款制鞋具身机器人。依托全栈自研的4D世界模型技术、具身智能算法及机器人产品，影身智能将持续助力越南企业制鞋产线向柔性化、智能化方向升级。据了解，影身智能此次向越出口的首批柔性具身机器人数量达数百台，订单金额达人民币数千万元。",
+    "url": "https://36kr.com/newsflashes/3903839074617220?f=rss",
+    "published": "2026-07-20 18:45:26  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -330,51 +260,51 @@
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "创业邦",
-    "title": "清华火神队携手加速进化卫冕2026 RoboCup冠军！加速进化机器人包揽双足人形所有组别的全部金牌",
-    "summary": "7月5日，2026年RoboCup（机器人世界杯）在韩国仁川正式落下帷幕。在备受瞩目的人形机器人项目中，中国战队清华火神队搭载加速进化 Booster T1，成功卫冕 Large 组世界冠军。继去年在巴西打破中国战队 28 年冠军荒后，火神队在面对全球顶尖强队的针对性挑战下再次登顶，证明了其在具身智能算法领域的领先水平。与此同时，本届赛场传递出一个更具产业风向标意义的信号：具身智能底层硬件的“平台化共识”正在全球范围内加速形成。 在竞技体育与前沿科技的交汇点，完成卫冕意味着技术体系经受住了全球顶尖同行的持续拆解与极限施压。然而，本届 RoboCup 赛场上最具行业震撼力的事件，并非单一战队的夺冠，而是越来越多来自不同国家、不同技术路线的队伍，因为同一款机器人站上了领奖台。据赛事信息显示，本届 RoboCup 共有 38 支队伍使用了加速进化的机器人作为比赛载体。除了清华火神队使用 Booster T1 卫冕 Large 组外，B-Human 队搭载 Booster K1 获得 Middle 组冠军；武大 Invic 队搭载 Booster K1 Air 斩获 Small 组冠军，加速进",
-    "url": "https://www.cyzone.cn/article/838994.html",
-    "published": "Sun, 05 Jul 2026 13:36:06 GMT",
+    "source": "钛媒体",
+    "title": "台积电：赚钱逻辑变了",
+    "summary": "芯片越卖越贵，花钱越来越快。",
+    "url": "https://www.tmtpost.com/8072223.html",
+    "published": "Mon, 20 Jul 2026 18:41:21 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "钛媒体",
-    "title": "具身智能还在“前GPT时代”| WAIC观察",
-    "summary": "今年是跑通年。",
-    "url": "https://www.tmtpost.com/8071481.html",
-    "published": "Mon, 20 Jul 2026 10:54:00 +0800",
+    "title": "【Fintech 周报】四大行提示“存100万元解锁5.25%利息”不实；年内支付机构被罚超3亿元",
+    "summary": "酷宝支付增资罕见被否；浙江稠州商业银行被罚555万元；摩宝支付被“双罚”超3000万元；消费金融ABS上半年发行4000亿元；多家银行美元定存利率突破3%；全国首单低空经济跨境保险落地；顺德农商行两年拿下七家村镇银行 ；宁波通商银行行长王勉接任党委书记；袁军获批任江苏银行董事长，高增银获聘行长；两券商各斥资10亿元顶格跟投长鑫科技；南银法巴消金上线自营分期商城；信泰保险1500万股股权流拍；珠江人寿第三大股东拟减持10%股份；新华保险上半年净利润同比预增40%—60%；中国人寿上半年净利润首破千亿；哈啰二度拿下保险经纪牌照；财付通小贷再获100亿ABN注册额度；拉卡拉上半年净利润最高预增205%。",
+    "url": "https://www.tmtpost.com/8071260.html",
+    "published": "Mon, 20 Jul 2026 17:53:45 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "钛媒体",
-    "title": "具身智能的“ChatGPT时刻”，可能不会同一天到来",
-    "summary": "问题变成了它能不能连续做几百次、几千次，换一个环境还能不能做，失败以后能不能自己恢复，以及部署出去以后，能力能否继续增长。",
-    "url": "https://www.tmtpost.com/8071091.html",
-    "published": "Mon, 20 Jul 2026 10:51:15 +0800",
+    "title": "千问补课苹果AI：阿里有了自己的“豆包手机”",
+    "summary": "在大模型这场战争里，备案从来都不是终点",
+    "url": "https://www.tmtpost.com/8071836.html",
+    "published": "Mon, 20 Jul 2026 17:06:46 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "钛媒体",
-    "title": "广东上市公司价值重估：金融与硬科技抬升上限，先进制造分层加速",
-    "summary": "作为中国制造业、外贸经济、科技创新和民营经济最活跃的区域之一，广东上市公司的产业结构具有鲜明的“金融资本+电子制造+先进制造+消费品牌+新能源链条”特征。",
-    "url": "https://www.tmtpost.com/8071341.html",
-    "published": "Mon, 20 Jul 2026 00:48:55 +0800",
+    "title": "独家｜今年已有18家国产医疗机器人拿下融资，眼科、显微外科是主线",
+    "summary": "截至7月9日，2026年以来已有18家国产医疗机器人相关企业获得融资。",
+    "url": "https://www.tmtpost.com/8071507.html",
+    "published": "Mon, 20 Jul 2026 16:37:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
     "source": "钛媒体",
-    "title": "价值判断：跌停板的投资机会和风险提示（7月17日）｜上市公司观察",
-    "summary": "整体来看，当前市场资金彻底摒弃纯题材炒作，聚焦低估值、有基本面支撑的低位标的。操作上需坚决规避高位高溢价、无业绩支撑的题材股，规避估值泡沫出清风险，短期以防御为主，重点关注电力、优质低位实体产业等安全边际充足的赛道。",
-    "url": "https://www.tmtpost.com/8071333.html",
-    "published": "Mon, 20 Jul 2026 00:48:37 +0800",
+    "title": "全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望",
+    "summary": "脑机接口第一次以正式医疗产品 的身份打开了应用入口。",
+    "url": "https://www.tmtpost.com/8068237.html",
+    "published": "Mon, 20 Jul 2026 16:37:37 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -395,16 +325,6 @@
     "summary": "六边形战士回来了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1672196?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Thu, 16 Jul 2026 14:57:46 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-20"
-  },
-  {
-    "source": "爱范儿",
-    "title": "早报｜国行苹果AI要来了，将搭载千问模型/曝DeepSeek计划明年上市/Codex首款硬件发布",
-    "summary": "· ChatGPT 服务中断约 45 分钟，登录、聊天等功能受影响 · 京东与元宝打通购物服务，商品咨询后可直接跳转下单 · 上海开出脑机接口首张处方，获批产品完成首例植入手术 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1672097?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 16 Jul 2026 00:49:18 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -465,6 +385,16 @@
     "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
     "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
     "published": "Fri, 17 Jul 2026 19:22:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "TechNode",
+    "title": "Yimu Tech raises over RMB1 billion for robot tactile sensing and production",
+    "summary": "Yimu Tech, a Chinese developer of tactile sensing hardware and software for embodied-intelligence systems, has completed a Series E financing round of more than RMB1 billion, bringing its valuation above RMB10 billion. The financing was jointly backed by multiple leading RMB funds, USD funds and industrial investors. The company is developing tactile sensing materials, chips, […]",
+    "url": "https://technode.com/2026/07/20/yimu-tech-raises-over-rmb1-billion-for-robot-tactile-sensing-and-production/",
+    "published": "Mon, 20 Jul 2026 08:09:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
@@ -690,67 +620,190 @@
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "TechNode",
-    "title": "Tencent launches Ubisoft-licensed Just Dance: Party on mobile platforms with AI body tracking",
-    "summary": "Tencent today launched Just Dance: Party, a mobile rhythm game based on Ubisoft’s Just Dance franchise, across iOS, Android and HarmonyOS devices. The game uses a proprietary AI-powered skeletal tracking algorithm that enables full-body motion capture through a smartphone’s front-facing camera, eliminating the need for external accessories such as dance mats or motion controllers. Players […]",
-    "url": "https://technode.com/2026/07/02/tencent-launches-ubisoft-licensed-just-dance-party-on-mobile-platforms-with-ai-body-tracking/",
-    "published": "Thu, 02 Jul 2026 08:01:29 +0000",
+    "source": "Hacker News",
+    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+    "summary": "Article URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/ Comments URL: https://news.ycombinator.com/item?id=48977247 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "published": "Mon, 20 Jul 2026 11:21:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "TechNode",
-    "title": "Xiaohongshu reportedly launches internal Darwin project to develop new products",
-    "summary": "Chinese social media platform Xiaohongshu has launched an internal startup incubation program, codenamed Darwin, aimed at developing new products beyond its flagship app, according to Sina Tech. The initiative, which recently opened applications to employees, allows selected participants to work full-time on new ventures under the guidance of the company’s senior executives, the report said. […]",
-    "url": "https://technode.com/2026/07/02/xiaohongshu-reportedly-launches-internal-darwin-project-to-develop-new-products/",
-    "published": "Thu, 02 Jul 2026 03:12:09 +0000",
+    "source": "Hacker News",
+    "title": "PEP 829 – Package Startup Configuration Files",
+    "summary": "Article URL: https://peps.python.org/pep-0829/ Comments URL: https://news.ycombinator.com/item?id=48973063 Points: 1 # Comments: 1",
+    "url": "https://peps.python.org/pep-0829/",
+    "published": "Mon, 20 Jul 2026 00:31:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "TechNode",
-    "title": "Xiaomi launches crowdfunding for its first smart storage device",
-    "summary": "Xiaomi on Wednesday launched crowdfunding for its first smart storage device on the Xiaomi Youpin platform, marking the company’s debut in the home data storage market. The device is powered by a high-performance quad-core processor and comes with up to 16TB of storage capacity. It supports automatic backup across multiple devices, remote file access, and […]",
-    "url": "https://technode.com/2026/07/02/xiaomi-launches-crowdfunding-for-its-first-smart-storage-device/",
-    "published": "Thu, 02 Jul 2026 02:15:12 +0000",
+    "source": "Hacker News",
+    "title": "BeWide AI – I'm building one startup per week on YouTube",
+    "summary": "Article URL: https://www.youtube.com/@bewideai Comments URL: https://news.ycombinator.com/item?id=48972957 Points: 1 # Comments: 1",
+    "url": "https://www.youtube.com/@bewideai",
+    "published": "Mon, 20 Jul 2026 00:15:48 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "TechNode",
-    "title": "UBTECH unveils consumer humanoid robot U1, says orders secure 11,000 ahead of first deliveries",
-    "summary": "Chinese robotics company UBTECH on Tuesday unveiled its first full-sized consumer humanoid robot, the U1 Series, marking a major push into the home robotics market as demand for AI-powered companions gains momentum. The launch event, held in Shenzhen, introduced the U1 Series under UBTECH’s new consumer brand, UWorld. More than 50 robot models with different […]",
-    "url": "https://technode.com/2026/07/01/ubtech-unveils-consumer-humanoid-robot-u1-says-orders-secure-11000-ahead-of-first-deliveries/",
-    "published": "Wed, 01 Jul 2026 05:52:41 +0000",
+    "source": "Hacker News",
+    "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
+    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48970736 Points: 1 # Comments: 1",
+    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+    "published": "Sun, 19 Jul 2026 18:53:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
   },
   {
-    "source": "TechNode",
-    "title": "Paper Games cancels Love and Deepspace’s new male lead Ao Yin after player backlash",
-    "summary": "On Tuesday, Paper Games issued a public apology on Chinese social platform Weibo, announcing that it has canceled the launch and further development of Ao Yin, a planned new male protagonist for its romance game Love and Deepspace. In its statement, the company said that from the very beginning of the project’s development, it had […]",
-    "url": "https://technode.com/2026/07/01/paper-games-cancels-love-and-deepspaces-new-male-lead-ao-yin-after-player-backlash/",
-    "published": "Wed, 01 Jul 2026 03:17:25 +0000",
+    "source": "Hacker News",
+    "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d Comments URL: https://news.ycombinator.com/item?id=48970146 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
+    "published": "Sun, 19 Jul 2026 17:45:13 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Postmortem of a British Startup: Tract",
+    "summary": "Article URL: https://buildwithtract.com/ Comments URL: https://news.ycombinator.com/item?id=48968474 Points: 1 # Comments: 0",
+    "url": "https://buildwithtract.com/",
+    "published": "Sun, 19 Jul 2026 14:25:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Linux Foundation Announces the Intent to Launch the Tokenomics Foundation",
+    "summary": "Article URL: https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management Comments URL: https://news.ycombinator.com/item?id=48966282 Points: 4 # Comments: 2",
+    "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management",
+    "published": "Sun, 19 Jul 2026 09:12:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tech-Infused Pool Hall Startup Raises $55M",
+    "summary": "Article URL: https://www.nytimes.com/2026/07/17/business/dealbook/poolhouse-fundraise-topgolf.html Comments URL: https://news.ycombinator.com/item?id=48965821 Points: 2 # Comments: 0",
+    "url": "https://www.nytimes.com/2026/07/17/business/dealbook/poolhouse-fundraise-topgolf.html",
+    "published": "Sun, 19 Jul 2026 07:47:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Skyroot Vikram-1 India's First Private Orbital Rocket Launch [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2KKZbSX9SgI Comments URL: https://news.ycombinator.com/item?id=48965644 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=2KKZbSX9SgI",
+    "published": "Sun, 19 Jul 2026 07:08:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Relationships and Power in Startup Ecosystems (2019)",
+    "summary": "Article URL: https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/ Comments URL: https://news.ycombinator.com/item?id=48961819 Points: 2 # Comments: 0",
+    "url": "https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/",
+    "published": "Sat, 18 Jul 2026 20:10:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "StartupForge AI – Generate a startup blueprint from an idea",
+    "summary": "Article URL: https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/ Comments URL: https://news.ycombinator.com/item?id=48961254 Points: 2 # Comments: 0",
+    "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
+    "published": "Sat, 18 Jul 2026 19:14:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
+    "summary": "Article URL: https://shippingszn.com/ Comments URL: https://news.ycombinator.com/item?id=48960665 Points: 2 # Comments: 0",
+    "url": "https://shippingszn.com/",
+    "published": "Sat, 18 Jul 2026 18:19:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google Gemini launch delayed as tech falls short of internal goals",
+    "summary": "Article URL: https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48958489 Points: 5 # Comments: 2",
+    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
+    "published": "Sat, 18 Jul 2026 14:29:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup credits hiding your real burn rate",
+    "summary": "Article URL: https://economi.co/learn/cloud-credits-hiding-your-burn Comments URL: https://news.ycombinator.com/item?id=48956409 Points: 1 # Comments: 0",
+    "url": "https://economi.co/learn/cloud-credits-hiding-your-burn",
+    "published": "Sat, 18 Jul 2026 09:11:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Vikram-1, India's first private orbital rocket, aces debut launch",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1 Comments URL: https://news.ycombinator.com/item?id=48956052 Points: 7 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+    "published": "Sat, 18 Jul 2026 07:52:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: I've told everyone about my startup and its been harder than I thought",
+    "summary": "Im feeling immense pressure . I told everyone about this startup I've been working on, and Its been deteriorating my mental health more and more. Im running out of $$. I dont want to let everyone down. but I feel too tired to work, but im too tired to embarrass myself and quit. I dont want to quit on my mission. I feel so alone. I isolated myself from friends and family. I talked to thousands of my users. I dont know what to do. Would like some advice. Kind of feeling doomful/dreadful I am prett",
+    "url": "https://news.ycombinator.com/item?id=48955898",
+    "published": "Sat, 18 Jul 2026 07:12:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-20"
+  },
+  {
+    "source": "B站",
+    "title": "人形机器人实景挑战",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=人形机器人实景挑战",
+    "published": "2026-07-20",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-20",
+    "meta": {
+      "hotValue": 262526
+    }
   },
   {
     "source": "V2EX",
-    "title": "Kimi K3 这波真的爆了，你们用着感觉怎么样？",
-    "summary": "这几天被 Kimi K3 刷屏了，X 上在吹，HN 上在吹，都说是国产之光，deepseek 时刻 2.0 来了。 我也试了一下，浅浅分享自己的体验吧。 先说好的地方： - 前端能力很强。 Kimi K3 前端能力这块，算是跻身全球第一梯队，真要个人排名的话，目前我给它排第二，还超越不了 Fable 5--LMArena 人类盲投榜上它前端甚至排第一，但我实测体感，Fable 5 还是更稳。 不过比 GPT-5.6 强得多，这是 GPT 系列家族的通病，前端能力一直很弱。 特别是那个刷屏的 3D 建模，我不知道设计圈怎么看，我觉得挺牛的。 - 长时复",
-    "url": "https://www.v2ex.com/t/1228376",
-    "published": 1784455897,
+    "title": "吃瓜吧。表弟骗了 50 多万，如何对账知道他在干嘛？",
+    "summary": "年初的时候找家里说缺 20 万。家里给了 10 万。 5 月份骗他哥说要去招标啥的，一个月给还，拿了 50 万。 到期了说没钱得缓，转头给他妈说没钱。创业失败之类的。 他妈心软，给他哥说这钱别找你弟要，我给你还。 他哥的意思是，明显谎话连篇。 1 、不可能 50 万的招标项目。 2 、表弟的说法是：公司每个月亏 5 万，他亏了半年扛不住了去借的网贷给员工发工资然后倒闭 他哥觉得，创业、有公司的人不会动网贷的心思，其次，宁愿欠员工也不可能欠网贷。再次，他都一个月亏 5 万了，他还继续亏是脑子有包？ 他妈也有点回过神来，但农村人啥都不懂，他妈打算过去查账 我的想法是：",
+    "url": "https://www.v2ex.com/t/1228512",
+    "published": 1784519299,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-07-20",
     "meta": {
-      "replies": 58,
-      "node": "程序员"
+      "replies": 69,
+      "node": "生活"
     }
   },
   {
@@ -763,8 +816,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-20",
     "meta": {
-      "stars": 20258,
-      "forks": 3689,
+      "stars": 20521,
+      "forks": 3748,
       "language": "Rust",
       "createdDaysAgo": 5
     }
@@ -779,8 +832,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-20",
     "meta": {
-      "stars": 10542,
-      "forks": 1089,
+      "stars": 10924,
+      "forks": 1116,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
