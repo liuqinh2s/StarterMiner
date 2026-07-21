@@ -81,30 +81,60 @@
   },
   {
     "source": "36氪",
-    "title": "三星电子扩大与英伟达NAND供应合作，加速V9、V10闪存布局",
-    "summary": "7月21日消息，三星电子正扩大与英伟达在NAND闪存领域的合作，在此前已开展DRAM、高带宽内存（HBM）及晶圆代工合作的基础上，进一步深化存储芯片供应关系。据报道，三星已开始量产第十代V-NAND（V10）并向英伟达供货，同时扩大第九代V-NAND（V9）产能，并推进第十一代500层级V-NAND（V11）开发。据悉，三星目前已具备月产超过10万片V-NAND的产能，其中约60%产能分配给V9产品。（界面）",
-    "url": "https://36kr.com/newsflashes/3905254401017478?f=rss",
-    "published": "2026-07-21 18:37:07  +0800",
+    "title": "SK海力士据悉正洽购英特尔俄亥俄州园区，拟生产存储芯片",
+    "summary": "据报道，SK海力士正与英特尔谈判，拟收购英特尔位于美国俄亥俄州的大型半导体园区，目标是在五年内于该地启动存储芯片的前道工序生产。SK海力士目前正就此收购事宜进行内部评估并履行政府审批程序，具体的收购价格和时间表尚在协调之中。（财联社）",
+    "url": "https://36kr.com/newsflashes/3905998816449927?f=rss",
+    "published": "2026-07-22 07:13:24  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-21"
   },
   {
     "source": "36氪",
-    "title": "去哪儿旅行签约接入国家级AI协同生态",
-    "summary": "36氪获悉，7月21日，《人工智能智能体互联》系列标准（AIP）应用推进专题会议在北京中关村展示中心召开。会上，去哪儿旅行正式签约接入AIP，成为首批加入该国家级AI生态的在线旅游平台。接入后，去哪儿旅行将率先开展国标试点应用。",
-    "url": "https://36kr.com/newsflashes/3905211953710728?f=rss",
-    "published": "2026-07-21 18:23:52  +0800",
+    "title": "月之暗面Kimi将以投前500亿美元估值洽谈IPO前最后一轮融资",
+    "summary": "国内大模型独角兽月之暗面计划于8月启动上市前最后一轮融资谈判，目标估值为投前500亿美元。据知情人士透露，公司预计将在未来几天完成Kimi K3发布前启动的一轮融资，该轮融资估值约投前315亿美元。融资完成后，月之暗面将立即启动新一轮融资洽谈，这将成为公司赴港上市前的最后一次私募股权融资。公司最快可能于6个月内登陆香港资本市场。 （财联社）",
+    "url": "https://36kr.com/newsflashes/3905993552319880?f=rss",
+    "published": "2026-07-22 07:02:06  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-21"
   },
   {
     "source": "36氪",
-    "title": "字节旗下XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
-    "summary": "36氪独家获悉，字节旗下XR（扩展现实）业务PICO近日完成业务负责人调整：由于个人规划原因，创始人周宏伟不再担任 PICO 负责人，李晓凯接任负责人，全面负责PICO业务。据了解，此次管理交接不会影响PICO既定的战略方向、研发工作和产品计划。今年，PICO将按计划带来全新的混合现实（MR）产品。字节内部人士也表示，公司对XR长期价值的判断没有变化，将继续支持PICO推进核心技术探索和产品创新。",
-    "url": "https://36kr.com/newsflashes/3905230227507072?f=rss",
-    "published": "2026-07-21 18:05:37  +0800",
+    "title": "深圳：聚焦人工智能、生物医药等风口抓重点产业，不断巩固提升工业良好增长态势",
+    "summary": "7月21日，深圳市委财经委员会扩大会议召开，分析深圳市上半年经济运行情况，部署推动下半年经济工作。会议指出，工业要研趋势抓重点，充分把握阶段性特征，聚焦龙头新锐抓重点企业，聚焦人工智能、生物医药等风口抓重点产业，聚焦上市新品抓重点产品，不断巩固提升工业良好增长态势。外贸要拓市场优结构，及时跟进分析研判、调整工作举措，积极拓展多元市场，扩大货物贸易和服务贸易，强化企业服务，保持外贸发展良好势头。（深圳特区报）",
+    "url": "https://36kr.com/newsflashes/3905401649566856?f=rss",
+    "published": "2026-07-21 20:59:59  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-21"
+  },
+  {
+    "source": "36氪",
+    "title": "微软与Mistral扩大AI合作，签署数十亿美元欧洲AI基础设施协议",
+    "summary": "微软与法国人工智能初创公司Mistral AI于7月21日宣布扩大双方战略合作，围绕欧洲AI基础设施建设达成一项价值数十亿美元的协议，以提升欧洲地区AI计算能力。根据协议，微软将利用Mistral扩大的欧洲GPU基础设施，为其云计算和AI服务提供支持。该基础设施将基于数千颗英伟达Vera Rubin GPU。产品方面，Mistral Medium 3.5和OCR 4模型现已接入微软Foundry平台，Mistral Medium 3.5同时加入Microsoft Copilot Studio，可用于智能体应用、文档处理流程及行业定制化工作流。此外，双方将通过Azure和Azure Local扩展AI部署方式，支持云端、云连接以及完全离线环境，面向金融、医疗、制造等对数据合规要求较高的行业。（界面）",
+    "url": "https://36kr.com/newsflashes/3905378728268932?f=rss",
+    "published": "2026-07-21 20:36:40  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-21"
+  },
+  {
+    "source": "36氪",
+    "title": "北京：将布局建设Token工厂，力争下半年新增智能算力5万P",
+    "summary": "从北京市经信局获悉，上半年，全市数字经济增加值增速7.8%，其中数字经济核心产业增加值增速9.8%，对全市GDP增长的带动作用显著。下半年，北京将推进人工智能全域赋能，推动智能翻译、智能同传等在文旅消费领域的应用。制定Token经济发展政策，围绕Token生产、分发和应用等关键环节，布局建设Token工厂、Token分发平台，推动在工业、教育、文旅等重点领域创新应用。举办“创赢未来”OPC专场路演活动，激发超级个体的人工智能应用与创作活力。开发面向OPC的AIGC培训精品课程，释放AIGC技术价值。依托开源芯片研究院、北京通明湖信息技术应用创新中心，打造“RISC-V+AI OS”开源开放生态，构建从芯片指令集到操作系统到智能体应用的全栈自主技术体系。进一步提升智能算力供给能力。打造“超级节点+行业节点”支撑体系，力争下半年新增智能算力5万P，年内算力总规模突破13万P。（财联社）",
+    "url": "https://36kr.com/newsflashes/3905376144676231?f=rss",
+    "published": "2026-07-21 20:34:03  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-21"
+  },
+  {
+    "source": "36氪",
+    "title": "香港高院驳回宗馥莉上诉许可申请，判决维持18亿美元资产冻结令，并要求宗馥莉方支付25万港元讼费",
+    "summary": "7月21日，记者获悉，香港高等法院当天就娃哈哈集团创始人宗庆后家族遗产纠纷案作出最新裁决，驳回被告方宗馥莉（第一被告）及Jian Hao Ventures Limited（建浩创投有限公司，第二被告）的上诉许可申请，维持原审法官于2025年8月1日作出的资产保全及披露命令。法庭同时下令宗馥莉方支付原告方25万港元的讼费。（每日经济新闻）",
+    "url": "https://36kr.com/newsflashes/3905358049990017?f=rss",
+    "published": "2026-07-21 20:15:38  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-21"
@@ -241,6 +271,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "从PVC地板到存储测试，爱丽家居豪赌半年估值飙升40%的欧康诺 | 并购一线",
+    "summary": "当北美的地板生意不好做了，爱丽家居把目光投向了光谷存储测试新贵",
+    "url": "https://www.tmtpost.com/8074487.html",
+    "published": "Tue, 21 Jul 2026 21:33:29 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-21"
+  },
+  {
+    "source": "钛媒体",
     "title": "印奇的手机，阶跃星辰的赌局",
     "summary": "卖手机还是卖估值？",
     "url": "https://www.tmtpost.com/8071509.html",
@@ -265,16 +305,6 @@
     "summary": "一场关于“默认”的战争。",
     "url": "https://www.tmtpost.com/8073933.html",
     "published": "Tue, 21 Jul 2026 17:14:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "钛媒体",
-    "title": "机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
-    "summary": "让机器人在虚拟世界修炼几百万年，回来帮你拧瓶盖。",
-    "url": "https://www.tmtpost.com/8073956.html",
-    "published": "Tue, 21 Jul 2026 17:11:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-21"
@@ -311,80 +341,20 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-    "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
-    "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-    "published": "Mon, 20 Jul 2026 23:39:35 +0000",
+    "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+    "summary": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
+    "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+    "published": "Tue, 21 Jul 2026 18:18:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-21"
   },
   {
     "source": "TechCrunch",
-    "title": "X relaunches a rebuilt Android app after year-long effort",
-    "summary": "X says the rebuilt version of its Android app is now available globally.",
-    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-    "published": "Mon, 20 Jul 2026 19:37:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "published": "Mon, 20 Jul 2026 19:33:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-    "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
-    "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-    "published": "Mon, 20 Jul 2026 19:11:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-    "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
-    "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-    "published": "Mon, 20 Jul 2026 15:15:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-    "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
-    "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
-    "published": "Mon, 20 Jul 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
-    "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
-    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-    "published": "Mon, 20 Jul 2026 12:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-    "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-    "published": "Sun, 19 Jul 2026 21:45:00 +0000",
+    "title": "Light made a flip phone — it’s colorful and it’s cheap",
+    "summary": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over 20 years later, the flip phone is relevant again.",
+    "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
+    "published": "Tue, 21 Jul 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-21"
@@ -580,171 +550,31 @@
     "fetchedAt": "2026-07-21"
   },
   {
-    "source": "Hacker News",
-    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-    "summary": "https://archive.ph/20260720174223/https://asia.nikkei.com/bu... Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 294 # Comments: 194",
-    "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-    "published": "Tue, 21 Jul 2026 03:56:03 +0000",
+    "source": "The Verge",
+    "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+    "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease. Gurman […]",
+    "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+    "published": "2026-07-21T13:12:06-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-21"
   },
   {
-    "source": "Hacker News",
-    "title": "What Is Yuanjiwei, the Chinese Startup Promising 5nm Chips Without EUV?",
-    "summary": "Article URL: https://mrkt30.com/what-is-yuanjiwei-the-chinese-startup-promising-5nm-chips-without-euv/ Comments URL: https://news.ycombinator.com/item?id=48982978 Points: 1 # Comments: 0",
-    "url": "https://mrkt30.com/what-is-yuanjiwei-the-chinese-startup-promising-5nm-chips-without-euv/",
-    "published": "Mon, 20 Jul 2026 18:35:26 +0000",
+    "source": "The Verge",
+    "title": "Tesla Robotaxis go to Florida",
+    "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to […]",
+    "url": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+    "published": "2026-07-21T12:11:41-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-21"
   },
   {
-    "source": "Hacker News",
-    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-    "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy ( https://bloomylearning.com ) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing). How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer. The goal is",
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "published": "Mon, 20 Jul 2026 16:32:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
-    "summary": "Article URL: https://mastodon.online/users/mwichary/statuses/116952836351215165 Comments URL: https://news.ycombinator.com/item?id=48980930 Points: 18 # Comments: 3",
-    "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
-    "published": "Mon, 20 Jul 2026 16:17:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Startup Graveyard Is Full of Problem Solvers",
-    "summary": "Article URL: https://www.minid.net/2019/7/30/find-a-problem-and-solve-it Comments URL: https://news.ycombinator.com/item?id=48980187 Points: 2 # Comments: 0",
-    "url": "https://www.minid.net/2019/7/30/find-a-problem-and-solve-it",
-    "published": "Mon, 20 Jul 2026 15:24:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Rocket launch costs have dropped 96% since 1960. How low can they go?",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go Comments URL: https://news.ycombinator.com/item?id=48979934 Points: 4 # Comments: 0",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go",
-    "published": "Mon, 20 Jul 2026 15:07:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-    "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48979905 Points: 10 # Comments: 1",
-    "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-    "published": "Mon, 20 Jul 2026 15:05:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Researchers copy NASA climate data to Swiss supercomputer amid US funding cuts",
-    "summary": "Article URL: https://www.rfi.fr/en/international-news/20260720-swiss-researchers-hoard-vast-trove-of-nasa-climate-data Comments URL: https://news.ycombinator.com/item?id=48977653 Points: 3 # Comments: 1",
-    "url": "https://www.rfi.fr/en/international-news/20260720-swiss-researchers-hoard-vast-trove-of-nasa-climate-data",
-    "published": "Mon, 20 Jul 2026 12:09:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-    "summary": "Article URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/ Comments URL: https://news.ycombinator.com/item?id=48977247 Points: 2 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-    "published": "Mon, 20 Jul 2026 11:21:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "PEP 829 – Package Startup Configuration Files",
-    "summary": "Article URL: https://peps.python.org/pep-0829/ Comments URL: https://news.ycombinator.com/item?id=48973063 Points: 1 # Comments: 1",
-    "url": "https://peps.python.org/pep-0829/",
-    "published": "Mon, 20 Jul 2026 00:31:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "BeWide AI – I'm building one startup per week on YouTube",
-    "summary": "Article URL: https://www.youtube.com/@bewideai Comments URL: https://news.ycombinator.com/item?id=48972957 Points: 1 # Comments: 1",
-    "url": "https://www.youtube.com/@bewideai",
-    "published": "Mon, 20 Jul 2026 00:15:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d Comments URL: https://news.ycombinator.com/item?id=48970146 Points: 2 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
-    "published": "Sun, 19 Jul 2026 17:45:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Postmortem of a British Startup: Tract",
-    "summary": "Article URL: https://buildwithtract.com/ Comments URL: https://news.ycombinator.com/item?id=48968474 Points: 12 # Comments: 19",
-    "url": "https://buildwithtract.com/",
-    "published": "Sun, 19 Jul 2026 14:25:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Linux Foundation Announces the Intent to Launch the Tokenomics Foundation",
-    "summary": "Article URL: https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management Comments URL: https://news.ycombinator.com/item?id=48966282 Points: 4 # Comments: 2",
-    "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management",
-    "published": "Sun, 19 Jul 2026 09:12:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tech-Infused Pool Hall Startup Raises $55M",
-    "summary": "Article URL: https://www.nytimes.com/2026/07/17/business/dealbook/poolhouse-fundraise-topgolf.html Comments URL: https://news.ycombinator.com/item?id=48965821 Points: 2 # Comments: 0",
-    "url": "https://www.nytimes.com/2026/07/17/business/dealbook/poolhouse-fundraise-topgolf.html",
-    "published": "Sun, 19 Jul 2026 07:47:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Skyroot Vikram-1 India's First Private Orbital Rocket Launch [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=2KKZbSX9SgI Comments URL: https://news.ycombinator.com/item?id=48965644 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=2KKZbSX9SgI",
-    "published": "Sun, 19 Jul 2026 07:08:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Relationships and Power in Startup Ecosystems (2019)",
-    "summary": "Article URL: https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/ Comments URL: https://news.ycombinator.com/item?id=48961819 Points: 2 # Comments: 0",
-    "url": "https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/",
-    "published": "Sat, 18 Jul 2026 20:10:03 +0000",
+    "source": "The Verge",
+    "title": "Samsung can’t afford to play it safe with Apple’s first foldable looming",
+    "summary": "Tomorrow's foldable-centric Galaxy Unpacked event looks like it will be Samsung's biggest in years. The company is expected to launch new versions of its Fold and Flip phones while also introducing a brand new Fold form factor that's shorter and wider. It would be the second upheaval to Samsung's foldable lineup in less than 12 […]",
+    "url": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
+    "published": "2026-07-21T11:20:33-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-21"
@@ -759,7 +589,7 @@
     "type": "community",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "replies": 56,
+      "replies": 71,
       "node": "推广"
     }
   },
@@ -773,10 +603,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 11395,
-      "forks": 1159,
+      "stars": 11496,
+      "forks": 1165,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "lopopolo/harness-engineering",
+    "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "published": "2026-07-18T21:42:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-21",
+    "meta": {
+      "stars": 1518,
+      "forks": 135,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -789,8 +635,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 1252,
-      "forks": 100,
+      "stars": 1439,
+      "forks": 117,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -805,26 +651,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 1245,
-      "forks": 181,
+      "stars": 1282,
+      "forks": 186,
       "language": "JavaScript",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "lopopolo/harness-engineering",
-    "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "published": "2026-07-18T21:42:28Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-21",
-    "meta": {
-      "stars": 1012,
-      "forks": 70,
-      "language": "Python",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -837,8 +667,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 907,
-      "forks": 97,
+      "stars": 957,
+      "forks": 100,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -853,9 +683,41 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 891,
-      "forks": 53,
+      "stars": 911,
+      "forks": 55,
       "language": "Go",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "v-modal/vmodal_sdk_flutter",
+    "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
+    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+    "published": "2026-07-16T12:25:48Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-21",
+    "meta": {
+      "stars": 774,
+      "forks": 2,
+      "language": "Dart",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "published": "2026-07-17T09:45:22Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-21",
+    "meta": {
+      "stars": 739,
+      "forks": 497,
+      "language": "Solidity",
       "createdDaysAgo": 4
     }
   },
@@ -869,26 +731,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 686,
-      "forks": 144,
+      "stars": 700,
+      "forks": 146,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "v-modal/vmodal_sdk_flutter",
-    "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
-    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-    "published": "2026-07-16T12:25:48Z",
+    "title": "Blaizzy/nativ",
+    "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "url": "https://github.com/Blaizzy/nativ",
+    "published": "2026-07-20T15:37:29Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 605,
-      "forks": 1,
-      "language": "Dart",
-      "createdDaysAgo": 4
+      "stars": 607,
+      "forks": 34,
+      "language": "Swift",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -901,8 +763,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 555,
-      "forks": 86,
+      "stars": 579,
+      "forks": 88,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -917,10 +779,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 527,
-      "forks": 57,
+      "stars": 549,
+      "forks": 62,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -936,22 +798,22 @@
       "stars": 487,
       "forks": 19,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "MIgHTy-alIeN/Trading-Bot",
-    "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-    "published": "2026-07-17T09:45:22Z",
+    "title": "smixs/pohuy",
+    "summary": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+    "url": "https://github.com/smixs/pohuy",
+    "published": "2026-07-17T15:22:53Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 469,
-      "forks": 285,
-      "language": "Solidity",
+      "stars": 467,
+      "forks": 7,
+      "language": null,
       "createdDaysAgo": 4
     }
   },
@@ -965,42 +827,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 445,
-      "forks": 102,
+      "stars": 459,
+      "forks": 107,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Blaizzy/nativ",
-    "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-    "url": "https://github.com/Blaizzy/nativ",
-    "published": "2026-07-20T15:37:29Z",
+    "title": "Vincentwei1021/video-shotcraft",
+    "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "published": "2026-07-19T11:44:41Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-07-21",
     "meta": {
-      "stars": 415,
-      "forks": 26,
-      "language": "Swift",
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "smixs/pohuy",
-    "summary": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-    "url": "https://github.com/smixs/pohuy",
-    "published": "2026-07-17T15:22:53Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-21",
-    "meta": {
-      "stars": 390,
-      "forks": 7,
-      "language": null,
-      "createdDaysAgo": 3
+      "stars": 409,
+      "forks": 29,
+      "language": "TypeScript",
+      "createdDaysAgo": 2
     }
   }
 ]
