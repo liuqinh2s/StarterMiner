@@ -1,6 +1,46 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+    "summary": "大公司： DeepSeek今年已增资65% 36氪获悉，据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合伙企业等共同持股。变更记录显示，该公司今年发生两次增资，注册资本由1000万人民币增至约1645万人民币。 淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞 7月23日，据报道，由淡马锡控股支持的两大房地产资产管理公司——凯德投资与丰树投资的合并谈判已陷入停滞，双方在估值等问题上存在分歧。双方经过数月讨论后已放缓推进潜在合并交易，其他分歧还包括合并后公司管理层安排、人员调整方案以及部分业务表现疲弱等问题。不过，双方未来仍可能恢复谈判。（界面） 阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务 36氪获悉，7月23日，阿里真武M890超节点",
+    "url": "https://36kr.com/p/3908051015488640?f=rss",
+    "published": "2026-07-23 18:09:52  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "36氪",
+    "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+    "summary": "从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。 林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。 林下被树木遮蔽，使导航设备很容易因GNSS信号丢失无法定位，通讯信号强衰减会导致远程图传和人工操控无法实时、连贯进行。传统SLAM技术也无法处理树枝随风轻微摆动这样时刻微变化的环境复杂纹理。 “只有构建一种可端侧离线运行的实时高精度空间感知和随动控制的具身智能方案，才能有效解决林下‘全拒止’环境的作业需求。”网格智算市场负责人钱敏表示。 网格智算成立于2025年，致力于利用其自研的“网格域学习技术”形成高精度的空间理解，并由模型自生成最优控制函数，从而实现复杂避障等有效控制能力。",
+    "url": "https://36kr.com/p/3908027308823684?f=rss",
+    "published": "2026-07-23 18:01:57  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "36氪",
+    "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+    "summary": "文｜周鑫雨 编辑｜张雨忻 什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中��个答案一定是：剪映系。 陈冕，Lovart、LibTV等热门创作工具的缔造者；明超平，AI Coding社区YouWare的创始人，2025年一级市场最火的95后；闹闹，其打造的AI视频创作工具OiiOii，被高瓴、锦秋投资...... 他们履历的共同点是：曾在剪映、CapCut团队——参与过这两款过亿日活产品的打磨，这让投资人有理由相信，这群“剪映系”创业者了解用户、有产品审美，更可能在这波AI浪潮中押中消费级的机会。 但很长一段时间内，“剪映系”真正的起点，郭列，隐身在2022年起的AI浪潮中。 △Flova、脸萌、FaceU创始人郭列。图源：受访者供图 作为脸萌、FaceU的创始人，他曾做出中国移动互联网时代最成功的一批C端工具产品。2018年，脸萌团队以约3亿美元的价格被字节收购。 此后，郭列开始负责字节影像业务，参与孵化了剪映、CapCut、醒图、轻颜等一系列产品。2022年，他又成立了自己的游戏公司“船岛游戏”。 但两年后，结束游戏创业的郭列消失在了大众视野中。 直到202",
+    "url": "https://36kr.com/p/3907953777120385?f=rss",
+    "published": "2026-07-23 16:16:42  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "36氪",
+    "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+    "summary": "文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。 此前，他曾担任微软亚洲研究院视觉计算组首席研究员。2025 年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研究，汇报给姚顺雨。 据了解，胡瀚还曾承担世界模型的研发工作。 与此同时，腾讯大语言模型部负责人姚顺雨近期正在密集梳理旗下团队， 胡瀚此前所在的研究组或将聚焦世界模型的前沿研究 。 截至发稿，腾讯未对上述信息做回复。 大语言模型仍是混元最重要的事 自 2026 年年中以来，围绕混元体系的人员变动一直在进行。7 月初，前 OpenAI 研究院、麻省理工学院博士田永龙加入大语言模型部——我们得知，他将代替胡翰负责视觉语言模型方向（VLM）的研发，并汇报给姚顺雨。 自姚顺雨加入，补全短板、将混元基模的能力快速提升至第一梯队，就成了腾讯 AI 的主线。 重新梳理资源分配，将人才、算力聚焦至大语言模型部负责的基础模型研发，是姚顺雨上任后的核心举措之一。 比如，腾讯撤销 AI Lab 后，核心研发人员全部",
+    "url": "https://36kr.com/p/3907934819521670?f=rss",
+    "published": "2026-07-23 16:07:02  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "36氪",
     "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
     "summary": "文｜王欣逸 编辑｜张雨忻 “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。 同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。 首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DAU已稳居国内效率智能体产品第一；QClaw方面，相关业务和部分团队在近日也迎来了调整，并入至WorkBuddy所在部门，不过QClaw产品仍将持续运营；上线最晚的Marvis则走出了一条差异化的系统级Agent路线，林松涛透露，Marvis在用户中打开了局面，上线两天DAU超过30万，七日留存约为54%。 WorkBuddy、QClaw的讨论度居高不下，热度之余，我们想聊一聊Marvis这款产品。 和Claw类产品不同的是，Marvis走的并非是通用Agent路线，主打系统级操作。Marvis负责人蔡建涛透露，在用户场景分布上，本地文件相关能力占比最高（44%），其次是电脑硬件管理（28%）和浏览器任务（18%），",
     "url": "https://36kr.com/p/3907676111983745?f=rss",
@@ -42,7 +82,7 @@
   {
     "source": "36氪",
     "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
-    "summary": "图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由常州智融长优股权投资合伙企业（有限合伙）领投，另外两家国有投资平台旗下基金跟投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指型视触觉传感器、Lumi-Mind灵巧操作模型及Lumi-Mod电机模组四大产品线。 团队方面，创始人吴聿文曾以投资人身份主导投资过AI智能视觉、咖啡机器人等多个项目。技术负责人宋开友师承熊有伦院士、尹周平院士，曾任蚂蚁集团高级算法专家，主导了百灵多模态大模型的多版模型训练；算法负责人陈逸凡来自百度自动驾驶团队主导并落地国内首个纯视觉高阶智驾方案；产品负责人钟乔恒曾创办灵巧手公司并实现量产。 在具身智能浪潮中，灵巧手被视为机器人完成精细化操作的“最后一厘米”。创始人吴聿文判断，灵巧手是机器人绕不开的",
+    "summary": "图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由某上市公司旗下基金领投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指型视触觉传感器、Lumi-Mind灵巧操作模型及Lumi-Mod电机模组四大产品线。 团队方面，创始人吴聿文曾以投资人身份主导投资过AI智能视觉、咖啡机器人等多个项目。技术负责人宋开友师承熊有伦院士、尹周平院士，曾任蚂蚁集团高级算法专家，主导了百灵多模态大模型的多版模型训练；算法负责人陈逸凡来自百度自动驾驶团队主导并落地国内首个纯视觉高阶智驾方案；产品负责人钟乔恒曾创办灵巧手公司并实现量产。 在具身智能浪潮中，灵巧手被视为机器人完成精细化操作的“最后一厘米”。创始人吴聿文判断，灵巧手是机器人绕不开的瓶颈，也是价值链路极大的赛道。 拾玥科技的核心差异化之一",
     "url": "https://36kr.com/p/3907536767833473?f=rss",
     "published": "2026-07-23 09:12:15  +0800",
     "lang": "zh",
@@ -61,120 +101,50 @@
   },
   {
     "source": "36氪",
-    "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
-    "summary": "今日热点导览 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产 苹果拟推出月租iPhone，支持大多数机型 SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能 康美药业原实控人马兴田夫妇赔付13.96亿元 宇树科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来 越疆科技回应招股书举报风波 TOP3大新闻 小红书回应IPO传闻 近日，有较多传言称“小红书已于6月底前秘密提交IPO申请”，但因前员工举报其“上市合规”问题而受阻。7月22日，小红书方面回应界面新闻称，目前流传的IPO相关信息均不属实。（界面新闻） Gemini掉出全球前十 当地时间7月21日，谷歌DeepMind发布三款轻量的新模型，主打“更快、更智能、更具成本效益”，但因智能程度没有满足外界的期待，评价两极分化。与此同时，旗舰模型Gemini 3.5 Pro依然没有露面成为此次焦点，从排行榜来看，谷歌的模型已经排在十名开外。根据评测来看，此次谷歌的新模型在智能上并不出色。AI模型评测平台Arena.ai的研究显示，Gemini 3.6 Flash 在前端代码竞技场中以1537分排名第12位。（第",
-    "url": "https://36kr.com/p/3907461333144711?f=rss",
-    "published": "2026-07-23 07:58:11  +0800",
+    "title": "长鑫科技：公司股票将于2026年7月27日在上海证券交易所科创板上市",
+    "summary": "36氪获悉，长鑫科技公告，公司股票将于2026年7月27日在上海证券交易所科创板上市。",
+    "url": "https://36kr.com/newsflashes/3908121033594249?f=rss",
+    "published": "2026-07-23 19:06:17  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
     "source": "36氪",
-    "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
-    "summary": "大公司： 小马智行与京东养车达成战略合作 36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。 益生股份：2026年上半年净利润3.08亿元，同比增长4897.29% 36氪获悉，益生股份公告，2026年上半年营收16.97亿元，同比增长28.44%；净利润3.08亿元，同比增长4897.29%。公司经董事会审议通过的利润分配预案为：以实施权益分派股权登记日的公司总股本扣除回购专用证券账户中的回购股份为基数，向全体股东每10股派发现金红利1.5元（含税），不送红股，不以公积金转增股本。 三星拟投资Mistral AI，后者估值200亿欧元 三星正洽谈向AI初创企业Mistral投资数亿欧元，这笔投资将助力这家法国企业冲击市场，打造能够替代美国科技巨头的主流AI方案。据知情人士透露，这家韩国综合企业集团正在磋商参与 Mistral 新一轮融资，本轮融资完成后，Mistral 估值或将达到约200亿欧元。其中",
-    "url": "https://36kr.com/p/3906606931907971?f=rss",
-    "published": "2026-07-22 17:29:03  +0800",
+    "title": "阳光电源：控股子公司拟出资1.99亿元参与设立新能源产业基金",
+    "summary": "36氪获悉，阳光电源公告，公司控股子公司阳光新能源与华泰宝利、华泰资管共同投资设立华泰宝利-苏州华旭新能股权投资合伙企业（有限合伙）（简称“苏州华旭基金”），认缴出资总额10亿元。阳光新能源作为有限合伙人以自有资金认缴出资1.99亿元，出资占比19.90%。该基金主要聚焦投资新能源电站项目，有助于公司新能源投资开发业务持续稳定发展。",
+    "url": "https://36kr.com/newsflashes/3908073150928258?f=rss",
+    "published": "2026-07-23 18:27:33  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
     "source": "36氪",
-    "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
-    "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。超擎数智创始人兼CEO唐春峰在WAIC现场接受36氪「氪话未来」特邀专访，围绕人工智能推理应用落地、软硬一体全栈解决方案、行业应用实践等话题，分享了超擎从软件、硬件到行业部署的整体布局，以及如何通过技术方案提升AI应用效率、降低企业落地成本。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加关注一个核心问题：AI如何真正进入企业业务流程，如何降低应用门槛，如何通过实际业务结果创造价值。 在这一趋势下，人工智能推理应用正在成为产业落地的重要方向。对于企业而言，AI应用不仅需要模型能力作为基础，也需要高效稳定的软硬件支撑，以降低部署成本、提升运行效率。如何将AI能力转化为可规模化复制的行业解决方案，成为推动人工智能进一步落地的关键。 超擎正围绕这一方向持续探索。通过打造面向人工智能推理应",
-    "url": "https://36kr.com/p/3906523265914245?f=rss",
-    "published": "2026-07-22 16:02:33  +0800",
+    "title": "东莞金信低空经济产业创业投资基金登记成立，出资额3亿",
+    "summary": "36氪获悉，天眼查App显示，近日，东莞金信低空经济产业创业投资基金合伙企业（有限合伙）成立，执行事务合伙人为东莞市科创资本投资管理有限公司，出资额3亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由广东金信资本投资有限公司、东莞市创新创业投资母基金合伙企业（有限合伙）、东莞市科创资本投资管理有限公司共同出资。",
+    "url": "https://36kr.com/newsflashes/3908058055906695?f=rss",
+    "published": "2026-07-23 18:18:13  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
     "source": "36氪",
-    "title": "市场消息：灵初智能正以14.8亿美元的估值融资近1亿美元",
-    "summary": "市场消息：灵初智能正以14.8亿美元的估值融资近1亿美元，该公司接近完成由奇瑞领投的一轮融资，其他投资者还包括蓝思科技。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3907726672090241?f=rss",
-    "published": "2026-07-23 12:25:08  +0800",
+    "title": "中国脑机接口重要突破，首次实现跨地域上千人同步脑电信号采集",
+    "summary": "脑机接口是全球未来产业的重要赛道，而大规模、高质量的脑电数据，是推动技术从实验室走向产业化的核心基础。昨天下午，我国科研团队发布一款新型脑电信号采集装置，在全球范围内首次实现跨地域上千人同步脑电信号采集，使得神经大模型训练与脑机接口通用技术研发迈出关键一步。研发团队介绍，实现千人级跨地域同步采集，核心攻克了两大技术难关：一是在设备小型化的同时保障信号采集精度，二是克服网络延迟影响，实现多设备、多地域间的毫秒级时间精准对齐，确保不同脑电信号可以统一分析。未来，规模化脑电采集技术将持续沉淀数据，用于训练神经基础模型。这也意味着，AI的学习素材将不再局限于文字、图片、视频等间接信息，而是可以直接通过神经信号理解人类的认知状态。（央视财经）",
+    "url": "https://36kr.com/newsflashes/3908041021871240?f=rss",
+    "published": "2026-07-23 17:50:55  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "36氪",
-    "title": "上海：鼓励公募基金、银行理财等资产管理机构设立更多科创主题ETF基金、科创理财产品等",
-    "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，优化一二级市场投资接力。做好科创板重点硬科技企业规范培育工作、境外上市沟通协调工作和创业板地方政府推送企业信息工作，市区联动做好企业合规辅导，支持上海市重点科技企业对接境内外资本市场。优化面向科技企业的上市辅导体系，整合中介机构资源，提供精准的资本市场培训与对接服务。支持设立基石投资基金，并为其跨境投资提供审核备案汇兑等便利。鼓励公募基金、银行理财等资产管理机构设立更多科创主题ETF基金、科创理财产品等，培育二级市场科技投资力量。",
-    "url": "https://36kr.com/newsflashes/3907696616330632?f=rss",
-    "published": "2026-07-23 11:54:33  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "上海：探索推动将S基金纳入嵌套层级豁免范围",
-    "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，构建投资接续长效机制。加快与全国社保基金会合作设立优选项目基金，建立资本接力、协同赋能的长效机制。研究设立S母基金，引导更多S基金在沪集聚，吸引保险公司、金融资产投资公司（AIC）、金融资产管理公司（AMC）等多种主体出资设立S基金或参与份额交易。探索推动将S基金纳入嵌套层级豁免范围。",
-    "url": "https://36kr.com/newsflashes/3907694112494725?f=rss",
-    "published": "2026-07-23 11:52:00  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "上海：建设直接融资试验区",
-    "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，建设直接融资试验区。依托上海市股权投资集聚区及张江科学城、大零号湾等高能级科创集聚区，规划建设直接融资试验区。建立政策评估与反馈机制，定期梳理政策落地堵点，推动及时解决落实，总结形成可复制推广的经验做法。推动在试验区内形成资本、人才、技术、信息的高度集聚，构建覆盖从“0到1”概念验证，到“1到10”孵化加速，再到“10到100”产业放大的全链条融资服务体系。",
-    "url": "https://36kr.com/newsflashes/3907691366716803?f=rss",
-    "published": "2026-07-23 11:49:13  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "上海：便利科技企业再融资，推动再融资储架发行制度落地实施",
-    "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，便利科技企业再融资。用好再融资支持政策，优化再融资审核流程和再融资时间间隔，允许按照未盈利标准上市且尚未盈利的企业及存在破发情形的企业再融资，优化再融资申报材料等，支持科技企业灵活运用增发、配股、可转债等多种工具进行融资。推动再融资储架发行制度落地实施。",
-    "url": "https://36kr.com/newsflashes/3907687622350208?f=rss",
-    "published": "2026-07-23 11:45:24  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "上海：深化债券���场“科技板”建设",
-    "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，深化债券市场“科技板”建设。推动科技创新与民营企业债券风险分担工具、国家融资担保基金等政策工具在上海落地，鼓励金融机构创设信用风险缓释工具，形成央地协同的增信体系，为科技创新债券发行提供支持。用好上海市有关贴息政策，支持更多符合条件的企业发行科技创新债券。深化科技创新债券产品创新，支持更多科技企业发行科创可转债等股债关联产品。",
-    "url": "https://36kr.com/newsflashes/3907686847468936?f=rss",
-    "published": "2026-07-23 11:44:37  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "上海：推动科创板持续深化改革，持续扩大科创板第五套上市标准的适用范围",
-    "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，推动科创板持续深化改革。推动出台科创板人工智能、低空经济等企业适用第五套标准上市审核指引，推动可控核聚变、具身智能、大模型、量子计算、脑机接口等新兴产业和未来产业领域企业在科创板上市，持续扩大科创板第五套上市标准的适用范围，增强资本市场对前沿科技领域未盈利企业的制度包容性与适应性。用好优质科技企业试点IPO预先审阅机制，推动进一步完善上海证券交易所与优质投资机构及专业投资者的沟通交流机制。",
-    "url": "https://36kr.com/newsflashes/3907684379055238?f=rss",
-    "published": "2026-07-23 11:42:06  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "A股三大指数午间休盘集体下跌，中曼石油涨停",
-    "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.19%，深成指跌0.19%，创业板指跌0.33%；能源设备、贵金属、锂矿板块领涨，盛新锂能、中曼石油、四川黄金涨停；半导体、电脑硬件、软件板块跌幅居前，华虹宏力跌超12%，巨人网络跌超9%，紫光股份跌超6%。",
-    "url": "https://36kr.com/newsflashes/3907674561435017?f=rss",
-    "published": "2026-07-23 11:32:07  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "36氪",
-    "title": "马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
-    "summary": "美东时间周三盘后，特斯拉CEO马斯克在财报会上表示，特斯拉需求基本面依旧强劲，FSD是拉动需求的核心驱动力。“在FSD全自动驾驶获批落地的地区，选装率极高。很多客户本质是冲着FSD来买车，相当于买一套FSD附赠一台车。随着FSD在全球各国陆续获批，我们预计各地需求都会迎来类似爆发式增长，这一块前景十分乐观。”（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3907651904328838?f=rss",
-    "published": "2026-07-23 11:09:04  +0800",
+    "source": "创业邦",
+    "title": "DeepSeek今年已增资65%",
+    "summary": "据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。 天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合伙企业等共同持股。变更记录显示，该公司今年发生两次增资，注册资本由1000万人民币增至约1645万人民币，此外，该公司近期新增国家人工智能产业投资基金合伙企业（有限合伙）、杭州程砺企业管理咨询合伙企业（有限合伙）为股东。",
+    "url": "https://www.cyzone.cn/article/840941.html",
+    "published": "Thu, 23 Jul 2026 06:37:15 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
@@ -280,71 +250,41 @@
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "创业邦",
-    "title": "融资丨江苏省具身智能领军者乐享科技完成5亿元Pre-A轮融资，累计融资10亿，全球率先拿下三万台机器人订单",
-    "summary": "作为江苏省具身智能领军企业，苏州乐享智能科技有限公司（下称“乐享科技”）近日迎来双重重磅发展里程碑：正式官宣完成近5亿元Pre-A轮融资，同时重磅发布家庭具身智能专属品牌“元点Zeroth”。成立仅一年半，这家江苏科创标杆企业累计融资总额已高达10亿元人民币。凭借行业领先的全栈自研技术创新、快速迭代的市场化产品体系，乐享科技在手机器人订单已突破3万台，2026年上半年营收同比增长600%，提前抢占家庭具身智能核心赛道入口，彰显了江苏本土硬科技企业的强劲成长实力与行业领跑势能。 （图为元点Zeroth家庭具身智能系列产品，从左到右依次为家庭协作式机器人N1、迪士尼IP独家合作款瓦力、大人形机器人Jupiter、家庭陪伴式机器人M1、户外履带式机器人W1） 顶级资本阵容加码，多元产业资源赋能规模化发展 本轮近5亿元Pre-A轮融资由蚂蚁集团领投，产业方吉利资本、三七互娱产业资本及元禾璞华跟投，老股东Monolith持续超额跟投，投资方集结顶级战略投资机构、核心产业投资方及市场化专业基金，资本阵容实力雄厚。 相较于前三轮以财务投资为主的融资布局，乐享科技本轮重点引入战略投资方与多领域协同产业",
-    "url": "https://www.cyzone.cn/article/838589.html",
-    "published": "Tue, 07 Jul 2026 06:12:27 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "创业邦",
-    "title": "融资丨逸文科技完成1.5亿美元融资",
-    "summary": "逸文科技（Even Realities）宣布，公司已完成Pre-B轮融资，融资金额1.5亿美元，投后估值超10亿美金，正式跻身独角兽行列。本轮由美团龙珠及美团战投领投，老股东源一资本和腾讯超额跟投。今年年初，公司还完成了由光合创投与源一资本联合领投、达晨等老股东超额追投的A++轮融资，不到半年连续完成两轮大额融资。截至目前，公司已连续获得国内顶级财务及战略投资人的青睐和多轮追加，是AI硬件领域增长最快的公司，充分体现了资方对公司长期价值的认可。随着智能眼镜成为下一代主流计算平台，本轮融资将重点用于逸文科技下一代智能眼镜软硬件平台的开发，AI能力的深度构建，以及全球业务的规模化拓展。 当前，智能眼镜市场正迎来新一轮增长拐点，各大科技公司纷纷加速布局，试图重新定义人们获取信息、理解世界以及与 AI 交互的方式。在多数行业玩家将重点放在摄像头、内容拍摄和语音 AI 助手功能之时，逸文科技自 2023 年成立伊始，便选择了一条更克制也更长期的路径：以显示为核心、以日常佩戴为前提，将关键信息自然呈现在用户视线之内，并在提升效率的同时守护用户隐私。 公司始终坚持“智能眼镜首先得是一副好眼镜”的产品",
-    "url": "https://www.cyzone.cn/article/839158.html",
-    "published": "Tue, 07 Jul 2026 04:01:37 GMT",
+    "source": "钛媒体",
+    "title": "四小时发言实录刷屏背后，梁文锋的克制",
+    "summary": "通往AGI的第二条路。",
+    "url": "https://www.tmtpost.com/8077148.html",
+    "published": "Thu, 23 Jul 2026 18:53:25 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
     "source": "钛媒体",
-    "title": "48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”",
-    "summary": "特斯拉公布2026年第二季度财报，48万辆交付仍难托起利润，它正用汽车现金流押注Robotaxi、芯片和机器人。",
-    "url": "https://www.tmtpost.com/8076405.html",
-    "published": "Thu, 23 Jul 2026 11:52:43 +0800",
+    "title": "行业视角下的快时尚巨头估值困境",
+    "summary": "Shein的估值，快时尚的一面镜子。",
+    "url": "https://www.tmtpost.com/8077249.html",
+    "published": "Thu, 23 Jul 2026 18:44:30 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
     "source": "钛媒体",
-    "title": "一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节",
-    "summary": "在柔性材料内部建立光学观测系统",
-    "url": "https://www.tmtpost.com/8075805.html",
-    "published": "Thu, 23 Jul 2026 11:48:17 +0800",
+    "title": "超卓航科一月两度易主：李氏家族套现10亿“撤退”，接盘方8年融资11轮",
+    "summary": "李氏家族撤退信号强烈，接盘方背后机构退出压力浮现。",
+    "url": "https://www.tmtpost.com/8077353.html",
+    "published": "Thu, 23 Jul 2026 18:28:16 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
   },
   {
     "source": "钛媒体",
-    "title": "郑纬民院士：国产算力的瓶颈不在芯片，在生态",
-    "summary": "高端算力供不应求，中低端算力供过于求。",
-    "url": "https://www.tmtpost.com/8075814.html",
-    "published": "Thu, 23 Jul 2026 11:47:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "钛媒体",
-    "title": "ChatGPT核心贡献者姜旭：具身智能的下一站，是互联网视频的规模化革命",
-    "summary": "仅有世界模型，不足以实现通用具身智能。",
-    "url": "https://www.tmtpost.com/8075791.html",
-    "published": "Thu, 23 Jul 2026 11:46:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "钛媒体",
-    "title": "GMI Cloud 携四大产品亮相 WAIC 2026 并发布 AI 出海白皮书",
-    "summary": "在 2026 世界人工智能大会（WAIC）期间，AI Native Cloud 服务商 GMI Cloud 集中展示了其全栈智算产品矩阵，并联合十余家产业链企业发布了《中国 AI 产业核心要素出海发展白皮书》。",
-    "url": "https://www.tmtpost.com/8075779.html",
-    "published": "Thu, 23 Jul 2026 11:45:30 +0800",
+    "title": "终关12.75亿元，长石资本完成硬科技三期基金募资",
+    "summary": "投向六大领域：终极能源、终极算法、基础设施、交互执行、智能终端、智能应用。",
+    "url": "https://www.tmtpost.com/8075250.html",
+    "published": "Thu, 23 Jul 2026 17:49:48 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
@@ -360,11 +300,21 @@
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "爱范儿",
-    "title": "6 台机器人拼长城、首款智能体手机首秀：阶跃把 AI 塞进了现实世界｜WAIC 2026",
-    "summary": "大模型的下一站，是走出屏幕，自己动手 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1672344?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Sat, 18 Jul 2026 04:01:07 +0000",
+    "source": "动点科技",
+    "title": "九成外资驱动，新加坡领投：谁在重仓泰国数字基建？",
+    "summary": "泰国投资促进委员会（BOI）近日公布的数 […]",
+    "url": "https://cn.technode.com/post/2026-07-23/thailand-h1-2026-investment-applications-43-6b-digital-infrastructure/",
+    "published": "Thu, 23 Jul 2026 09:54:39 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "动点科技",
+    "title": "做表格又到半夜，如何少加两小时班",
+    "summary": "长期以来，AI大模型在办公领域的应用往往 […]",
+    "url": "https://cn.technode.com/post/2026-07-23/kingsoft-office-ai/",
+    "published": "Thu, 23 Jul 2026 07:43:39 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-23"
@@ -420,11 +370,31 @@
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "source": "TechNode",
+    "title": "iQIYI launches China’s first licensed AIGC online story film",
+    "summary": "Chinese streaming platform iQIYI has launched Qitan: Paper Blade Across the Wasteland (《奇谭：纸刃渡荒墟》), which it describes as the first AIGC online story film in China to receive a Network Drama/Film Distribution License and go online. The film runs for more than 60 minutes and was jointly produced by iQIYI and DaMeng Innovation. The production used […]",
+    "url": "https://technode.com/2026/07/23/iqiyi-launches-chinas-first-licensed-aigc-online-story-film/",
+    "published": "Thu, 23 Jul 2026 09:06:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek puts AGI research ahead of products and commercial growth",
+    "summary": "According to a report by IT Home, DeepSeek, the Chinese AI developer behind the open-source R1 reasoning model, is prioritizing artificial general intelligence (AGI) research over building a consumer platform or maximizing near-term revenue. The report is based on a circulated transcript of a four-hour investor meeting involving founder Liang Wenfeng. Why it matters: The […]",
+    "url": "https://technode.com/2026/07/23/deepseek-puts-agi-research-ahead-of-products-and-commercial-growth/",
+    "published": "Thu, 23 Jul 2026 07:17:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "TechNode",
+    "title": "OpenAI admits AI model hacked Hugging Face, Chinese open-source AI helped investigate",
+    "summary": "A recent AI cyberattack that stunned the industry has unexpectedly put Chinese AI company Zhipu AI and its open-source model GLM 5.2 in the spotlight. OpenAI has acknowledged for the first time that one of its AI models escaped a sandboxed testing environment during an internal cybersecurity evaluation and compromised the production infrastructure of Hugging […]",
+    "url": "https://technode.com/2026/07/23/openai-admits-ai-model-hacked-hugging-face-chinese-open-source-ai-helped-investigate/",
+    "published": "Thu, 23 Jul 2026 06:23:08 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-23"
@@ -570,26 +540,6 @@
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "TechNode",
-    "title": "DJI launches first VTOL fixed-wing cargo drone EV50, says it set Everest altitude record",
-    "summary": "DJI on Thursday unveiled the DJI EV50, its first vertical takeoff and landing (VTOL) fixed-wing cargo drone designed for long-range regional transport. The company said the aircraft reached an operating altitude of 8,861 meters during a Mount Everest scientific expedition earlier this year, exceeding the mountain’s summit by 12 meters and setting a new record […]",
-    "url": "https://technode.com/2026/07/10/dji-launches-first-vtol-fixed-wing-cargo-drone-ev50-says-it-set-everest-altitude-record/",
-    "published": "Fri, 10 Jul 2026 03:20:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "DJI launches AP100 parachute system for Matrice 400 enterprise drone",
-    "summary": "DJI on Wednesday launched the DJI AP100 Parachute, its first parachute system designed for enterprise drone applications. Built specifically for the Matrice 400 drone, the AP100 is priced at 7,488 yuan (about $1,100) and is currently available exclusively through authorized distributors. According to DJI, the AP100 weighs around 935 grams, carries an IP55 protection rating, […]",
-    "url": "https://technode.com/2026/07/09/dji-launches-ap100-parachute-system-for-matrice-400-enterprise-drone/",
-    "published": "Thu, 09 Jul 2026 02:26:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
     "source": "The Verge",
     "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
     "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in \"Restricted […]",
@@ -610,11 +560,21 @@
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "The Verge",
-    "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
-    "summary": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and are set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who bought last year's model; aside from a few design updates and […]",
-    "url": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
-    "published": "2026-07-22T11:47:10-04:00",
+    "source": "Hacker News",
+    "title": "Show HN: AI agents that go from naming your startup to running its marketing",
+    "summary": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing. Comments URL: https://news.ycombinator.com/item?id=49017566 Points: 1 # Comments: 0",
+    "url": "https://www.brandbrahma.com/",
+    "published": "Thu, 23 Jul 2026 06:20:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+    "summary": "Article URL: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992 Comments URL: https://news.ycombinator.com/item?id=49017039 Points: 7 # Comments: 1",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "published": "Thu, 23 Jul 2026 04:43:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-23"
@@ -622,7 +582,7 @@
   {
     "source": "Hacker News",
     "title": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
-    "summary": "Article URL: https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49015892 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49015892 Points: 5 # Comments: 0",
     "url": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
     "published": "Thu, 23 Jul 2026 02:00:18 +0000",
     "lang": "en",
@@ -682,7 +642,7 @@
   {
     "source": "Hacker News",
     "title": "The startup's Postgres survival guide",
-    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 345 # Comments: 175",
+    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 426 # Comments: 196",
     "url": "https://hatchet.run/blog/postgres-survival-guide",
     "published": "Wed, 22 Jul 2026 12:36:08 +0000",
     "lang": "en",
@@ -800,53 +760,6 @@
     "fetchedAt": "2026-07-23"
   },
   {
-    "source": "Hacker News",
-    "title": "What Is Yuanjiwei, the Chinese Startup Promising 5nm Chips Without EUV?",
-    "summary": "Article URL: https://mrkt30.com/what-is-yuanjiwei-the-chinese-startup-promising-5nm-chips-without-euv/ Comments URL: https://news.ycombinator.com/item?id=48982978 Points: 1 # Comments: 0",
-    "url": "https://mrkt30.com/what-is-yuanjiwei-the-chinese-startup-promising-5nm-chips-without-euv/",
-    "published": "Mon, 20 Jul 2026 18:35:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-    "summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy ( https://bloomylearning.com ) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing). How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer. The goal is",
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "published": "Mon, 20 Jul 2026 16:32:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-23"
-  },
-  {
-    "source": "微博",
-    "title": "#梁文锋融资会议52句话#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23梁文锋融资会议52句话%23",
-    "published": "2026-07-23",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "hotValue": 504776,
-      "rank": 7
-    }
-  },
-  {
-    "source": "B站",
-    "title": "中国大模型救场美国人工智能事故",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=中国大模型救场美国人工智能事故",
-    "published": "2026-07-23",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "hotValue": 262927
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "lopopolo/harness-engineering",
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
@@ -856,8 +769,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-23",
     "meta": {
-      "stars": 2202,
-      "forks": 221,
+      "stars": 2224,
+      "forks": 223,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -872,10 +785,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-23",
     "meta": {
-      "stars": 1004,
-      "forks": 69,
+      "stars": 1042,
+      "forks": 74,
       "language": "Go",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -888,90 +801,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-23",
     "meta": {
-      "stars": 920,
-      "forks": 650,
+      "stars": 992,
+      "forks": 691,
       "language": "Solidity",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Blaizzy/nativ",
-    "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-    "url": "https://github.com/Blaizzy/nativ",
-    "published": "2026-07-20T15:37:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "stars": 768,
-      "forks": 40,
-      "language": "Swift",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Jakubantalik/thinking-orbs",
-    "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-    "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "published": "2026-07-21T07:01:53Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "stars": 656,
-      "forks": 42,
-      "language": "TypeScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "xiejunjie524/handdraw-story-video",
-    "summary": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-    "url": "https://github.com/xiejunjie524/handdraw-story-video",
-    "published": "2026-07-18T06:51:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "stars": 621,
-      "forks": 95,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "powerycy/goutoujunshi",
-    "summary": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-    "url": "https://github.com/powerycy/goutoujunshi",
-    "published": "2026-07-20T14:58:48Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "stars": 549,
-      "forks": 68,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Vincentwei1021/video-shotcraft",
-    "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "published": "2026-07-19T11:44:41Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-23",
-    "meta": {
-      "stars": 549,
-      "forks": 39,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 6
     }
   }
 ]
