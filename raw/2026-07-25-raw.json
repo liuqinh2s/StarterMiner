@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+    "summary": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。 公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。 招聘方向上，她把当时国内数得上的初创团队几乎都聊了一遍，一家都没投。徐新给出的理由是：这些团队对招聘这件事的理解，没有超越上一个世代的产品经理。AI在哪个环节创造增量、怎么重构撮合效率，没有团队给她一个超出预期的答案。 婚恋方向，徐新只聊了良配一家。徐新投他之前曾提到过，她希望找到一个对“AI搜索、匹配人”这件事的理解超出她、超出她过往所投公司的创业团队。如果没有超出，只是打平，就没有押注的价值。 目前，良配小程序已上线，Ap",
+    "url": "https://36kr.com/p/3910880823202948?f=rss",
+    "published": "2026-07-25 19:00:21  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-25"
+  },
+  {
+    "source": "36氪",
     "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
     "summary": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻） 公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接近Fabl",
     "url": "https://36kr.com/p/3910351337821318?f=rss",
@@ -91,40 +101,20 @@
   },
   {
     "source": "36氪",
-    "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
-    "summary": "从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。 林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。 林下被树木遮蔽，使导航设备很容易因GNSS信号丢失无法定位，通讯信号强衰减会导致远程图传和人工操控无法实时、连贯进行。传统SLAM技术也无法处理树枝随风轻微摆动这样时刻微变化的环境复杂纹理。 “只有构建一种可端侧离线运行的实时高精度空间感知和随动控制的具身智能方案，才能有效解决林下‘全拒止’环境的作业需求。”网格智算市场负责人钱敏表示。 网格智算成立于2025年，致力于利用其自研的“网格域学习技术”形成高精度的空间理解，并由模型自生成最优控制函数，从而实现复杂避障等有效控制能力。",
-    "url": "https://36kr.com/p/3908027308823684?f=rss",
-    "published": "2026-07-23 18:01:57  +0800",
+    "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
+    "summary": "记者今天（25日）从中国企业改革与发展研究会获悉，《2026能源产业生态报告》正式发布。报告显示，“十四五”时期，我国风电光伏装机历史性超越火电，核能、生物质能领域领跑全球。“十四五”期间，我国能源产业实现安全保供与绿色低碳转型双向协同发展。2025年全国能源重点项目投资额首超3.5万亿元，同比增长近11%。新能源产业实现跨越式发展，2020至2025年风电光伏装机从5.3亿千瓦增至18.4亿千瓦。核电运行装机总量稳居全球第一，生物质能发电装机连续7年规模全球第一。（央视新闻）",
+    "url": "https://36kr.com/newsflashes/3910816808457602?f=rss",
+    "published": "2026-07-25 17:27:27  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-25"
   },
   {
     "source": "36氪",
-    "title": "机构调研券商“高频词”生变 硬科技投资受关注",
-    "summary": "Wind数据显示，截至7月24日记者发稿时，6月以来已有19家上市券商及券商母公司累计接待了43次机构调研。与以往聚焦经纪和资管业务不同，如今调研机构最关心的是各家券商在科创领域的项目储备和投资回报能力，硬科技行业投资布局已成调研必问话题。在业内人士看来，投资者对券商另类子公司和私募股权平台的关注度大幅提升，不只是看中短期投资收益，更是认可券商商业模式的转型，即从传统轻资产通道中介转向重资产的产业资本，市场也在为这一转型重新估值。（中国证券报）",
-    "url": "https://36kr.com/newsflashes/3910383325762689?f=rss",
-    "published": "2026-07-25 10:14:25  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "36氪",
-    "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
-    "summary": "据报道，英伟达表示，将协助海力士设计未来的高带宽内存芯片，此举将有助于确保内存供应。英伟达还表示，与SK集团合作的“人工智能计划”总价值将超过5000亿美元。黄仁勋在采访中表示，这个数字包括英伟达购买内存芯片的资金，以及SK集团购买英伟达超级计算机的资金。SK电讯计划使用英伟达Vera Rubin芯片和SK海力士HBM4内存构建2吉瓦AI数据中心。这大约相当于150万户家庭的用电量。（财联社）",
-    "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
-    "published": "2026-07-25 09:24:14  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "36氪",
-    "title": "美股三大指数收盘涨跌不一，存储芯片、光通信跌幅居前",
-    "summary": "美股三大指数收盘涨跌不一，纳指跌0.64%，本周累跌2.13%；标普500指数涨0.05%，本周累跌0.61%；道指涨0.46%，本周累跌0.38%。其中，纳指、标普500指数周线两连跌，道指周线三连跌。费城半导体指数跌4.25%。存储芯片、光通信跌幅居前，闪迪跌超10%，SK海力士、Lumentum跌逾8%，特斯拉跌超2%，本周累跌近18%，创2022年以来最大单周跌幅。",
-    "url": "https://36kr.com/newsflashes/3910365150319750?f=rss",
-    "published": "2026-07-25 09:09:07  +0800",
+    "title": "三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目",
+    "summary": "媒体援引韩国总统顾问消息：三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3910551543289216?f=rss",
+    "published": "2026-07-25 14:11:43  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-25"
@@ -251,10 +241,10 @@
   },
   {
     "source": "钛媒体",
-    "title": "2026世界杯：AI改变了足球......吗？",
-    "summary": "数据黑箱、“长不大的独角兽”与“最后的堡垒”。",
-    "url": "https://www.tmtpost.com/8078756.html",
-    "published": "Sat, 25 Jul 2026 09:23:00 +0800",
+    "title": "苹果压价20%、英伟达涨价、Meta烧120亿：AI产业链正陷入\"三明治陷阱\"",
+    "summary": "英伟达涨价、苹果压价、Meta烧钱——AI产业链正形成危险的三明治结构：上游存储/GPU吸走利润，下游云厂商锁定需求，夹在中间的精密制造被上下挤压。这不是芯片通胀，是利润分配权的结构性掠夺。英特尔\"高双位数增长\"预言，更可能是制造端产能过剩的死亡预告。",
+    "url": "https://www.tmtpost.com/8078916.html",
+    "published": "Sat, 25 Jul 2026 19:13:15 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-25"
@@ -561,6 +551,16 @@
   },
   {
     "source": "Hacker News",
+    "title": "Elon Musk's Boring Company Eyes $20B Valuation in New Funding Round",
+    "summary": "Article URL: https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef Comments URL: https://news.ycombinator.com/item?id=49046275 Points: 2 # Comments: 0",
+    "url": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
+    "published": "Sat, 25 Jul 2026 10:15:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-25"
+  },
+  {
+    "source": "Hacker News",
     "title": "The challenges companies face to launch robotaxis in Europe",
     "summary": "Article URL: https://www.euronews.com/business/2026/07/24/the-challenges-companies-face-to-launch-robotaxis-in-europe Comments URL: https://news.ycombinator.com/item?id=49042518 Points: 2 # Comments: 0",
     "url": "https://www.euronews.com/business/2026/07/24/the-challenges-companies-face-to-launch-robotaxis-in-europe",
@@ -582,7 +582,7 @@
   {
     "source": "Hacker News",
     "title": "AMD and Cerebras Launch AI Inference Solution",
-    "summary": "Article URL: https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference Comments URL: https://news.ycombinator.com/item?id=49041347 Points: 18 # Comments: 4",
+    "summary": "Article URL: https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference Comments URL: https://news.ycombinator.com/item?id=49041347 Points: 22 # Comments: 5",
     "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
     "published": "Fri, 24 Jul 2026 20:44:05 +0000",
     "lang": "en",
@@ -592,7 +592,7 @@
   {
     "source": "Hacker News",
     "title": "Trump says US to launch EU probe over 'illegal' Google fine",
-    "summary": "Article URL: https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/ Comments URL: https://news.ycombinator.com/item?id=49040013 Points: 9 # Comments: 2",
+    "summary": "Article URL: https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/ Comments URL: https://news.ycombinator.com/item?id=49040013 Points: 10 # Comments: 2",
     "url": "https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/",
     "published": "Fri, 24 Jul 2026 18:48:42 +0000",
     "lang": "en",
@@ -602,7 +602,7 @@
   {
     "source": "Hacker News",
     "title": "I got into YC Startup School by hacking it",
-    "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Comments URL: https://news.ycombinator.com/item?id=49039448 Points: 101 # Comments: 66",
+    "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Comments URL: https://news.ycombinator.com/item?id=49039448 Points: 104 # Comments: 67",
     "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
     "published": "Fri, 24 Jul 2026 18:03:22 +0000",
     "lang": "en",
@@ -692,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "summary": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1038 # Comments: 850",
+    "summary": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1047 # Comments: 866",
     "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "published": "Thu, 23 Jul 2026 15:18:40 +0000",
     "lang": "en",
@@ -738,43 +738,5 @@
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
-    "summary": "Article URL: https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49015892 Points: 5 # Comments: 0",
-    "url": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
-    "published": "Thu, 23 Jul 2026 02:00:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "微博",
-    "title": "#特朗普宣布新一轮加征关税#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23特朗普宣布新一轮加征关税%23",
-    "published": "2026-07-25",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-25",
-    "meta": {
-      "hotValue": 173636,
-      "rank": 46
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "永远不要给你的 codex 直接运行命令的权限，已经在准备重装电脑了。",
-    "summary": "需要用到几个老的二进制，发现没有 arm 架构，偷懒了就想让 codex 找源码重新编译。说：找到正确的二进制并替换。 codex 上网找了源码但是编译失败了：源码原生化被上游跨版本 ABI 卡住了。到这里应该就停下了，但是 codex 还在继续，也没有询问我，AI 会为了目标而不择手段。 谁能想到它自己运行了命令安装了 rosetta ，我看到的时候立刻点了停止并且马上关机了，但是还是装上了。这个东西装了就卸不掉了，现在已经在准备重装了。 一定要每次都亲自审核，或者提前准备好快照，AI 受害人+1 。 >我是用这条 Apple 官方命令触发安装的： /usr/sbin/",
-    "url": "https://www.v2ex.com/t/1229528",
-    "published": 1784867460,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-07-25",
-    "meta": {
-      "replies": 34,
-      "node": "macOS"
-    }
   }
 ]
