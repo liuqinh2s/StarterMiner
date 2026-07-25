@@ -22,7 +22,7 @@
   {
     "source": "36氪",
     "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
-    "summary": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“ AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program） 。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。 图片1 随着 AI 加速演进，AI 应用正在从简单信息交互迈向复杂任务执行，AI Agent 正在成为下一代应用的主流形态。在这一趋势下，实时、高质量的信息获取能力是 AI Agent 看见世界、完成任务的关键基础。然而，对大量学生和早期开发者而言，获取稳定、可靠的基础设施服务仍存在一定门槛。 AnySearch 希望通过“学生与开发者成长计划”，进一步降低 AI 创新的成本，让更多创造者能够依托高质量的信息获取能力，快速验证想法、构建应用，并参与到下一代 AI 生态的构建中。“AI 的发展不仅依赖模型能力的突破，更需要广大开发者将技术转化为真实应用。”薛冠群表示，“我们希望借助这一计划，让全球在校学生和开发者便",
+    "summary": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“ AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program） 。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。 图片1 随着 AI 加速演进，AI 应用正在从简单信息交互迈向复杂任务执行，AI Agent 正在成为下一代应用的主���形态。在这一趋势下，实时、高质量的信息获取能力是 AI Agent 看见世界、完成任务的关键基础。然而，对大量学生和早期开发者而言，获取稳定、可靠的基础设施服务仍存在一定门槛。 AnySearch 希望通过“学生与开发者成长计划”，进一步降低 AI 创新的成本，让更多创造者能够依托高质量的信息获取能力，快速验证想法、构建应用，并参与到下一代 AI 生态的构建中。“AI 的发展不仅依赖模型能力的突破，更需要广大开发者将技术转化为真实应用。”薛冠群表示，“我们希望借助这一计划，让全球在校学生和开发",
     "url": "https://36kr.com/p/3909565569324163?f=rss",
     "published": "2026-07-24 19:36:12  +0800",
     "lang": "zh",
@@ -112,7 +112,7 @@
   {
     "source": "36氪",
     "title": "三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目",
-    "summary": "媒体援引韩国总统顾问消息：三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目。（新浪财经）",
+    "summary": "媒体援引韩国总统顾问消息：三星电子、SK海��士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目。（新浪财经）",
     "url": "https://36kr.com/newsflashes/3910551543289216?f=rss",
     "published": "2026-07-25 14:11:43  +0800",
     "lang": "zh",
@@ -241,6 +241,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "AI下一步将迈向何方？一场正在发生的范式革命",
+    "summary": "当这场“革命”真正到来时，人类对“智能”的理解将被彻底刷新，它不再是快速执行命令的工具，而是能够主动思考和探索未知的“大脑”。到那时，我们再回头看今天的大模型竞赛，或许就像今天回头看当年的功能机之争，声势浩大，却远不是终局。",
+    "url": "https://www.tmtpost.com/8078921.html",
+    "published": "Sat, 25 Jul 2026 19:33:59 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-25"
+  },
+  {
+    "source": "钛媒体",
     "title": "苹果压价20%、英伟达涨价、Meta烧120亿：AI产业链正陷入\"三明治陷阱\"",
     "summary": "英伟达涨价、苹果压价、Meta烧钱——AI产业链正形成危险的三明治结构：上游存储/GPU吸走利润，下游云厂商锁定需求，夹在中间的精密制造被上下挤压。这不是芯片通胀，是利润分配权的结构性掠夺。英特尔\"高双位数增长\"预言，更可能是制造端产能过剩的死亡预告。",
     "url": "https://www.tmtpost.com/8078916.html",
@@ -280,32 +290,12 @@
     "fetchedAt": "2026-07-25"
   },
   {
-    "source": "动点科技",
-    "title": "新加坡机器人数据服务商Ropedia获得2200万美元Pre-A轮融资",
-    "summary": "动点出海获悉，新加坡机器人数据服务商Ro […]",
-    "url": "https://cn.technode.com/post/2026-07-24/ropedia-raises-22m-pre-series-a-for-robotics-data-services/",
-    "published": "Fri, 24 Jul 2026 09:39:22 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "动点科技",
-    "title": "九成外资驱动，新加坡领投：谁在重仓泰国数字基建？",
-    "summary": "泰国投资促进委员会（BOI）近日公布的数 […]",
-    "url": "https://cn.technode.com/post/2026-07-23/thailand-h1-2026-investment-applications-43-6b-digital-infrastructure/",
-    "published": "Thu, 23 Jul 2026 09:54:39 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "动点科技",
-    "title": "做表格又到半夜，如何少加两小时班",
-    "summary": "长期以来，AI大模型在办公领域的应用往往 […]",
-    "url": "https://cn.technode.com/post/2026-07-23/kingsoft-office-ai/",
-    "published": "Thu, 23 Jul 2026 07:43:39 +0000",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+    "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+    "published": "Sat, 25 Jul 2026 19:23:32 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-25"
   },
@@ -345,16 +335,6 @@
     "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
     "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
     "published": "Fri, 24 Jul 2026 17:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-    "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-    "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-    "published": "Fri, 24 Jul 2026 16:11:56 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-25"
@@ -521,220 +501,10 @@
   },
   {
     "source": "The Verge",
-    "title": "Midjourney bought the astrology app Co-Star",
-    "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-    "published": "2026-07-24T15:06:58-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "The Verge",
-    "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-    "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is […]",
-    "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-    "published": "2026-07-24T14:27:00-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "The Verge",
-    "title": "Nothing confirms layoffs, but calls market exit rumors ‘fake news’",
-    "summary": "In response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the reported numbers are way overblown.\" Evangelidis disputed a claim about underwhelming sales for Nothing's Phone 4B, saying it \"sold […]",
-    "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
-    "published": "2026-07-24T14:10:22-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Elon Musk's Boring Company Eyes $20B Valuation in New Funding Round",
-    "summary": "Article URL: https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef Comments URL: https://news.ycombinator.com/item?id=49046275 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
-    "published": "Sat, 25 Jul 2026 10:15:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The challenges companies face to launch robotaxis in Europe",
-    "summary": "Article URL: https://www.euronews.com/business/2026/07/24/the-challenges-companies-face-to-launch-robotaxis-in-europe Comments URL: https://news.ycombinator.com/item?id=49042518 Points: 2 # Comments: 0",
-    "url": "https://www.euronews.com/business/2026/07/24/the-challenges-companies-face-to-launch-robotaxis-in-europe",
-    "published": "Fri, 24 Jul 2026 22:43:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Claude Opus 5 pricing and launch-day cost-per-task result",
-    "summary": "Article URL: https://www.aipricing.guru/news/anthropic-claude-opus-5-pricing-impact-july-2026/ Comments URL: https://news.ycombinator.com/item?id=49041500 Points: 4 # Comments: 0",
-    "url": "https://www.aipricing.guru/news/anthropic-claude-opus-5-pricing-impact-july-2026/",
-    "published": "Fri, 24 Jul 2026 20:58:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AMD and Cerebras Launch AI Inference Solution",
-    "summary": "Article URL: https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference Comments URL: https://news.ycombinator.com/item?id=49041347 Points: 22 # Comments: 5",
-    "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
-    "published": "Fri, 24 Jul 2026 20:44:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump says US to launch EU probe over 'illegal' Google fine",
-    "summary": "Article URL: https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/ Comments URL: https://news.ycombinator.com/item?id=49040013 Points: 10 # Comments: 2",
-    "url": "https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/",
-    "published": "Fri, 24 Jul 2026 18:48:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I got into YC Startup School by hacking it",
-    "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Comments URL: https://news.ycombinator.com/item?id=49039448 Points: 104 # Comments: 67",
-    "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-    "published": "Fri, 24 Jul 2026 18:03:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "StartupsCult – Track active tech startups, VC funding rounds and live careers",
-    "summary": "https://startupscult.vercel.app/ text Comments URL: https://news.ycombinator.com/item?id=49036757 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=49036757",
-    "published": "Fri, 24 Jul 2026 15:04:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The assault on science funding continues",
-    "summary": "Article URL: https://www.science.org/content/blog-post/assault-science-funding-continues Comments URL: https://news.ycombinator.com/item?id=49034912 Points: 6 # Comments: 1",
-    "url": "https://www.science.org/content/blog-post/assault-science-funding-continues",
-    "published": "Fri, 24 Jul 2026 12:58:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: YC Has It – describe your problem, find the YC startup that solves it",
-    "summary": "Article URL: https://www.ychasit.com/ Comments URL: https://news.ycombinator.com/item?id=49034163 Points: 5 # Comments: 0",
-    "url": "https://www.ychasit.com/",
-    "published": "Fri, 24 Jul 2026 11:41:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber's New Litigation Funding Terms Would Hinder Accountability",
-    "summary": "Article URL: https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/ubers-new-litigation-funding-terms-would-hinder-accountability Comments URL: https://news.ycombinator.com/item?id=49030810 Points: 3 # Comments: 0",
-    "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/ubers-new-litigation-funding-terms-would-hinder-accountability",
-    "published": "Fri, 24 Jul 2026 03:06:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN:YC 2026 fall rfs: is it ok \"lowering the cost per kill\" in startup world?",
-    "summary": "Article URL: https://www.ycombinator.com/rfs Comments URL: https://news.ycombinator.com/item?id=49027526 Points: 7 # Comments: 0",
-    "url": "https://www.ycombinator.com/rfs",
-    "published": "Thu, 23 Jul 2026 20:22:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I built a tool that tells who tried your startup idea, and how they died",
-    "summary": "Article URL: https://dejaview.bsct.so/ Comments URL: https://news.ycombinator.com/item?id=49025840 Points: 18 # Comments: 5",
-    "url": "https://dejaview.bsct.so/",
-    "published": "Thu, 23 Jul 2026 18:13:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-    "summary": "Hi Hacker News, I'm Louis. I built Screenpipe ( https://screenpipe.com ), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on. I made a HN-style demo video at https://www.tella.tv/video/build-your-ai-second-brain-with-s... and there’s a marketing video at https://www.youtube.com/watch?v=c1jV6E9pyu",
-    "url": "https://news.ycombinator.com/item?id=49024620",
-    "published": "Thu, 23 Jul 2026 16:48:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Solo devs / small teams, how do you do SEO for any projects you launch?",
-    "summary": "SEO takes sometime to give you results, do you care about it in the beginning or its not in your TODO list generally. I have been avoiding it as a extremely long term benefit thingy but have changed my position a little recently. Just curious what other solo / small team folks think / do about it, is there a playbook for it which you follow and have you ever seen it give substantial results for smaller projects. Comments URL: https://news.ycombinator.com/item?id=49024284 Points: 1 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=49024284",
-    "published": "Thu, 23 Jul 2026 16:28:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "summary": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1047 # Comments: 866",
-    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "published": "Thu, 23 Jul 2026 15:18:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Future of Space Is Too Big to Launch",
-    "summary": "Article URL: https://theexistentialhope.substack.com/p/the-future-of-space-is-too-big-to Comments URL: https://news.ycombinator.com/item?id=49022972 Points: 4 # Comments: 0",
-    "url": "https://theexistentialhope.substack.com/p/the-future-of-space-is-too-big-to",
-    "published": "Thu, 23 Jul 2026 15:15:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AMD to launch next generation of AI infrastructure to challenge Nvidia",
-    "summary": "Article URL: https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49020887 Points: 2 # Comments: 0",
-    "url": "https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/",
-    "published": "Thu, 23 Jul 2026 13:01:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Europe Doesn't Have a Funding Problem",
-    "summary": "Article URL: https://maximerumpler.substack.com/p/europe-doesnt-have-a-funding-problem Comments URL: https://news.ycombinator.com/item?id=49020180 Points: 1 # Comments: 0",
-    "url": "https://maximerumpler.substack.com/p/europe-doesnt-have-a-funding-problem",
-    "published": "Thu, 23 Jul 2026 11:58:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: AI agents that go from naming your startup to running its marketing",
-    "summary": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing. Comments URL: https://news.ycombinator.com/item?id=49017566 Points: 1 # Comments: 0",
-    "url": "https://www.brandbrahma.com/",
-    "published": "Thu, 23 Jul 2026 06:20:43 +0000",
+    "title": "Synth historian Oli Freke will spend big on a good bicycle",
+    "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, […]",
+    "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+    "published": "2026-07-25T11:15:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-25"

@@ -4226,8 +4226,19 @@
         "fetchedAt": "2026-07-25",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "info@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
+          ],
+          "socials": {
+            "twitter": "_LatitudeMedia",
+            "linkedin": "latitude-media-inc"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -4930,7 +4941,14 @@
           "socials": {},
           "careerPage": "https://link-ai.cc/careers",
           "jobListings": [
-            "content=\"统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。\""
+            "\"name\": \"AI API Gateway\",",
+            "\"name\": \"AI API 中转站\"",
+            "\"name\": \"AI 图片生成\"",
+            "\"name\": \"AI 视频生成\"",
+            "AI API Gateway - AI API中转站、AI图片生成与视频生成平台",
+            "AI API Gateway",
+            "这是一个面向个人与团队的 AI API 中转站与大模型接口网关，帮助你通过统一域名与密钥接入 OpenAI、Claude、Gemini 等主流模型。",
+            "你可以在这里使用高级图片生成、图生图、AI 视频生成和视频规划能力，也可以查看模型价格、创建访问密钥、统一管理模型路由、查看调用用量，并为团队建立更清晰的权限与计费规则。"
           ]
         },
         "github": {},
