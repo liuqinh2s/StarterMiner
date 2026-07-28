@@ -155,8 +155,8 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "gkotte1",
-          "linkedin": "gkotte"
+          "twitter": "MythThrazz",
+          "linkedin": "marcin-dudek-4992a297"
         },
         "careerPage": null,
         "jobListings": []
@@ -1294,6 +1294,8 @@
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
+          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
+          "Data Center",
           "Data privacy policy"
         ]
       },
@@ -1548,8 +1550,19 @@
       "fetchedAt": "2026-07-28",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [],
-        "socials": {},
+        "emails": [
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
+        ],
+        "socials": {
+          "twitter": "_LatitudeMedia",
+          "linkedin": "latitude-media-inc"
+        },
         "careerPage": null,
         "jobListings": []
       },
