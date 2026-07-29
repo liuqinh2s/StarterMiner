@@ -1,0 +1,592 @@
+[
+  {
+    "source": "36氪",
+    "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+    "summary": "文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。 他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。 几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验驱动，而静态标注数据模式已触达天花板。DeepSeek近期也把持续学习带进了更多人的视野之中，声称 Agent之后需要的解决的问题是持续学习，这也是下一代模型必须具",
+    "url": "https://36kr.com/p/3916202023660929?f=rss",
+    "published": "2026-07-29 12:10:36  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。 尧乐科技以柔性织物传感为硬件入口，面向具身智能与世界模型所需的真实物理交互数据采集与预处理。创始人兼CEO吕莉蕴曾任国际汽车电子头部企业Harman首席架构工程师，曾主导多模态传感器融合计算平台的研发工作；核心团队成员多来自中科院、密歇根大学、北京大学等头部院校，覆盖底层传感材料到上层智能算法的全链条研发能力。 随着人形机器人本体、电机、关节控制等硬件工程逐一突破，行业竞争发生阶段性切换，深层制约来自数据供给的结构性短缺。根据《中国具身智能产业发展报告》报告显示，截至2026年初，全球高质量真实物理交互数据总量约为50万小时，而训练具备基础泛化能力的通用具身模型至少需要千万小时级数据，缺口达九成以上。 相较于视觉、文本可通过线上渠道大规模归集",
+    "url": "https://36kr.com/p/3915175290901889?f=rss",
+    "published": "2026-07-29 09:30:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+    "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由蓝湾资本、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。” 基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。 2025年，这个模式已产生规模化营收。 米能科技相关负责人介绍称，当前，行业主流传",
+    "url": "https://36kr.com/p/3878652674715905?f=rss",
+    "published": "2026-07-29 08:15:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+    "summary": "今日热点导览 李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力 TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票杠杆产品投资过热未能平息，将引入个人投资上限等追加监管措施。目前正在重点研究将个股杠杆投资额限制在全部金融投资产品投资额20%以内的方案。韩国官方此前披露的统计数据显示，截至7月13日，7月累积强制平仓规模达到3442亿韩元(约合人民币15.7亿元)，超120万个杠杆散户账户触及保证金追缴线，其中约32万至36万个账户已经被券商全额强制平仓，部分账户甚至出现倒欠券商资金情况。（中新经纬） 雷军打新长鑫科技浮盈7亿？小米高管回应。 7月27日，长鑫科技集团股份有限公司正式登陆科创板，上市首日股价大涨，收盘涨幅达465.82%，市值升至3.28万亿元，成为A",
+    "url": "https://36kr.com/p/3915953688604296?f=rss",
+    "published": "2026-07-29 07:54:15  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+    "summary": "当前，AI技术正加速��实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场景规模化落地不足、数据安全合规要求升级等现实挑战。传统依托硬件参数堆砌、低价代工走量的增长路径，已难以适配AI原生阶段的竞争要求。基于上述行业背景，36氪研究院发布《2026年中国智能硬件行业发展研究报告》，系统梳理行业发展脉络与产业生态格局，拆解产业链上中下游的升级方向，并结合典型企业实践，研判未来技术演进、场景拓展与全球化布局趋势，为行业各方参与者提供多维度的决策参考。 中国智能硬件迈入AI",
+    "url": "https://36kr.com/p/3915066350327176?f=rss",
+    "published": "2026-07-29 07:30:00  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+    "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业���术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。 推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，聘任慕思集团CTO陈文泽为行政总师。 官方图片 伴随AI、传感技术与临床医学的深度迭代，传统睡眠家居已突破单一硬件属性，迈入数字化、医疗级的智慧健康服务新阶段。创新联合体通过搭建家居制造、前沿工科、临床医学、数字算力深度协同的一体化创新平台，为传统家具产业数智化升级、培育制造业新质生产力开辟全新路径，这也是慕思立足东莞世界级家具产业根基，以人工智能赋能传统制造、布局未来生命健康赛道的标志性实践。 官方图片 六位一体聚势启新，打造“人工智能+生命健康”融合标杆 当下，失眠多梦、睡眠质量差等问题普遍存在，隐匿性睡眠慢病威胁大众健康。传统睡眠管理依赖主观判",
+    "url": "https://36kr.com/p/3915239611739781?f=rss",
+    "published": "2026-07-28 19:48:20  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+    "summary": "大公司： YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务 7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经） Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心 7月28日，Meta和贝莱德宣布成立合资企业，将在德克萨斯州埃尔帕索开发并拥有一处数据中心园区。其中，贝莱德管理的基金将持有该合资企业80%的权益，Meta将持有剩余20%的所有权。双方已承诺按各自比例出资，用于园区建筑及长期电力、冷却和连接基础设施的全部开发成本，总额约140亿美元。此外，Meta将与合资企业签订租赁协议，租用整个数据中心园区。租约初始期限为四年，并包含四个续约选项，为Meta提供最长可达20年的长期灵活性。（界面） OpenAI首席执行官将与美国财长、商务部长及国会议员会谈，讨论人工智能相关政策 据知情人士透露，OpenAI首席执行官",
+    "url": "https://36kr.com/p/3913321294369924?f=rss",
+    "published": "2026-07-28 19:39:56  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+    "summary": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。 这也是公司成立半年内完成的第六轮融资，此前，投资方包括北京通研院、智元机器人、乐聚机器人、星海图等人形机器人主机厂，高瓴创投、元禾控股、复星锐正、华映资本、联想创投等财务机构，以及汽车、半导体领域资本。 德塔智能成立于2026年1月，专注研究原生通用人形机器人基础模型 HFMs（Humanoid Foundation Models），最终实现通用的人形全身协同操作（Loco-Manipulation），推动具身智能向工业与家庭场景的真实应用。以人形机器人为载体，加速物理通用人工智能（Physical AGI）的到来。 三位核心创始人均获UCLA博士学位，具有清华本科、北大任教等学术背景。团队的技术专长覆盖机器人学习、大规模机器学习、机器人系统与具身",
+    "url": "https://36kr.com/p/3913213962540164?f=rss",
+    "published": "2026-07-28 18:38:46  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+    "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃内部代号为“561”的D级轿车项目，是这位\"豪华车操盘手\"履新后的首场硬仗。这款车的成败，将影响他交给沃尔沃的第一份答卷成色。 36氪了解到，这款新车拟定为中国专属车型，将采用与XC70等车型相同的联合开发模式。具体而言， 沃尔沃中国负责产品定义、把控安全标准与整车认证等，三电开发、整车工程及供应链等则由吉利中国研发团队负责。 7月17日，沃尔沃全球CEO在Q2季度财报会上透露，将在今年初秋披露两款电动化新车。其中是否包括“561”项目，目前尚不明确。 代号“561”的新车，将是沃尔沃成立100年来首款D级行政轿车，也是吉利集团成立40年来首次布局该细分",
+    "url": "https://36kr.com/p/3913637793059968?f=rss",
+    "published": "2026-07-28 17:24:01  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+    "summary": "文｜邓咏仪 编辑｜张雨忻 吴秉哲每天至少复盘一次。 作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。 这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。 “你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CEO毛书翰同为活跃的二级市场投资者。两个人的共性是，都在高频地做不确定性环境下的决策，而且也意识到，这些决策背后的认知模式，从未被数字化。 2026年6月，两人正式创立了Kando AI，希望让AI从真实决策及其结果中持续学习，构建下一代自进化决策系统。 《智能涌现》获悉，Kando AI已完成数千万元种子轮融资，星连资本领投，力合金控跟投，知名产业方参与投资。 Kando团队目前约有10人，团队来自腾讯、字节、美团、华泰证券等国内头部机构。创始人/首席科学家吴秉哲毕业于北大数学系本科，并取得计算机博士学位，曾是苹果博士奖学金大陆首位获得者、前腾讯AI Lab可信AI负责人；联合创始人/CEO毛书翰为连续创业者，本科毕业",
+    "url": "https://36kr.com/p/3915057199535233?f=rss",
+    "published": "2026-07-28 16:42:58  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "A股三大指数午间休盘集体下跌，中公教育涨停",
+    "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.53%，深成指跌0.43%，创业板指跌0.47%；教育、饮料、汽车板块领涨，中公教育、李子园涨停，赛力斯涨超3%；电脑硬件、半导体、电子元器件板块跌幅居前，茂莱光学跌超18%，微导纳米跌超16%，浪潮信息跌超7%。",
+    "url": "https://36kr.com/newsflashes/3916168229498501?f=rss",
+    "published": "2026-07-29 11:32:19  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "36氪",
+    "title": "国家知识产权局：预计在“十五五”时期战略性新兴产业专利比重将进一步提升",
+    "summary": "国家知识产权局战略规划司司长梁心新7月29日在国新办新闻发布会上表示，目前，我国高价值发明专利中，战略性新兴产业的专利占比超过七成，预计在“十五五”时期，这一比重将进一步提升，为新兴产业提质扩容和未来产业布局落地，提供更加有力的创新支撑。（证券时报）",
+    "url": "https://36kr.com/newsflashes/3916131177328262?f=rss",
+    "published": "2026-07-29 10:54:38  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "DeepSeek今年已增资65%",
+    "summary": "据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。 天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合伙企业等共同持股。变更记录显示，该公司今年发生两次增资，注册资本由1000万人民币增至约1645万人民币，此外，该公司近期新增国家人工智能产业投资基金合伙企业（有限合伙）、杭州程砺企业管理咨询合伙企业（有限合伙）为股东。",
+    "url": "https://www.cyzone.cn/article/840941.html",
+    "published": "Thu, 23 Jul 2026 06:37:15 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "药企以创新出海破局承压，现存医药制造相关企业超10.4万家",
+    "summary": "第43届全国医药工业信息年会披露，2025年国内百强医药工业企业主营收入回落至10002.2亿元，仅34家实现营收利润双增长，35家企业双降，行业整体面临国内市场竞争加剧、全球供应链调整等多重压力，经营持续承压。 行业普遍将“创新”作为核心突破口，2025年百强药企平均研发投入达8.4亿元，全年获批的76个创新药中有30个来自百强企业，多家头部药企已完成从仿制药向创新药的业务转型，超八成营收来自创新产品。 出海正成为第二增长曲线，2025年百强药企出口交货值同比增长30.6%，从单一产品外销升级为全产业链布局，覆盖欧美、东南亚及共建“一带一路”国家，叠加国内多部门搭建的出海制度支撑体系，为医药产业打开长期增长空间。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的医药制造相关企业超10.4万家。其中，2026年截至目前新增注册相关企业约1.3万余家，从企业注册数量趋势来看，近五年间，医药制造相关企业的注册数量呈现出逐年增长的态势，并在2025年达到顶峰。 从区域分布来看，江苏省、广东省、山东省医药制造相关企业数量位居前列，分别拥有超9400余家、9200余家和6600余家。排在其",
+    "url": "https://www.cyzone.cn/article/840825.html",
+    "published": "Wed, 22 Jul 2026 09:51:45 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "晶科能源旗下海宁公司增资至43.5亿 增幅约22%",
+    "summary": "天眼查App显示，近日，晶科能源（海宁）有限公司发生工商变更，新增中邮金融资产投资有限公司等为股东，同时，注册资本由35.7亿人民币增至约43.5亿人民币，增幅约22%。 该公司成立于2017年12月，法定代表人为陈经纬，经营范围包括新兴能源技术研发、光伏设备及元器件制造、电池制造、电子专用材料研发等，现由嘉兴科联投资合伙企业（有限合伙）、晶科能源（688223）、海宁阳光科技小镇投资合伙企业（有限合伙）及上述新增股东等共同持股。",
+    "url": "https://www.cyzone.cn/article/840695.html",
+    "published": "Tue, 21 Jul 2026 07:25:25 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "“算电协同×Token工厂”东盟绿色智算与AI创新生态大会在上海WAIC2026成功举办！",
+    "summary": "7月18日，WAIC2026世界人工智能大会期间，“算电协同×Token工厂——东盟绿色智算与AI创新生态大会”在WAIC会场隆重举行，本次大会由世界人工智能大会组委会办公室、南宁市人民政府、中国共产党广西壮族自治区委员会网络安全和信息化委员会办公室、中国国际贸易促进委员会广西壮族自治区分会、中国-东盟商务与投资峰会秘书处、广西壮族自治区大数据发展局、中国—东盟国家人工智能应用合作中心、广西壮族自治区商务厅、广西壮族自治区外事办公室、广西壮族自治区科学技术协会、广西科学院指导，润建股份、五象云谷主办，创业邦、深圳市人工智能产业协会、广西人工智能产业联合会承办，广西人工智能学会、广西电子信息协会协办。 大会聚焦“绿电底座-Token工厂-Token服务-Token出海-产业生态”完整价值闭环，汇聚来自中国及东盟国家的政府政要、院士专家、产业领袖及合作伙伴代表，共同探讨Token时代产业发展新路径。会上，五象云谷Token工厂润蟾平台、“润建·智御”AI安全系列产品、润建股份Token销售服务体系正式发布，中国—东盟Token战略合作及生态合作正式签约，润建股份携手信通院推进Token工厂",
+    "url": "https://www.cyzone.cn/article/840439.html",
+    "published": "Sun, 19 Jul 2026 10:20:27 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "ofo运营公司已被申请破产",
+    "summary": "据媒体报道，停更5年的ofo小黄车账号近日突然发布“皮肤病援助”内容，引发网友对押金退还问题的再次关注。 天眼查App显示，ofo小黄车运营主体北京拜克洛克科技有限公司成立于2015年8月，法定代表人为戴威，注册资本约38.5万人民币，经营范围包括技术开发、技术推广、技术转让、技术咨询、技术服务等，由戴威、北京经纬美创科技有限公司等共同持股。法律诉讼信息显示，该公司现存一则破产审查案件，申请人为聂某。经营风险信息显示，此前，该公司因通过登记的住所或者经营场所无法联系，被北京市海淀区市场监督管理局列入经营异常名录。",
+    "url": "https://www.cyzone.cn/article/840285.html",
+    "published": "Fri, 17 Jul 2026 03:50:43 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "WAIC2026亮点 | 润建股份“算电协同xToken工厂——东盟绿色智算与AI创新生态大会”",
+    "summary": "当人工智能进入Token时代，真正决定AI生产力的，不只是模型，而是持续、稳定、低成本的Token供给能力。 Token从哪里来？如何高效生产？又如何真正走进产业、走向海外？ 7月17日至20日，2026世界人工智能大会（WAIC 2026）将在上海举办，以“智能伙伴，共创未来”为主题，汇聚千余家企业及行业嘉宾，将举办140余场产业论坛，共有3000余项展品集中亮相。作为WAIC 2026“卓越合作伙伴”，润建股份将亮相上海世博展览馆H2馆C609展位，以“Token涌动，价值共生（Token Flow, Value Grow）”为主题，以Token工厂、DEV WORKSHOP、Token应用、Token出海四大展区，全面展示Token全栈能力体系。 7月18日，润建股份还将举办“算电协同x Token工厂——东盟绿色智算与AI创新生态大会”，汇聚Token行业领域专家、产业领袖、东盟生态伙伴，围绕Token服务交付标准、Token商业化、Token工厂开展主旨分享、圆桌研讨、战略合作，共同探索智能时代的新机遇。 精彩将启，亮点速递 相约WAIC 2026，共赴Token时代 润建股",
+    "url": "https://www.cyzone.cn/article/839948.html",
+    "published": "Wed, 15 Jul 2026 02:57:01 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "融资丨「RoboParty」完成近5亿元天使++轮和Pre-A轮融资",
+    "summary": "近日，开源具身全栈平台「RoboParty 萝博派对」连续完成近5亿元天使++轮和 Pre-A 轮融资，其中，天使++轮由顺为资本、经纬创投、小米战投、商汤国香等老股东持续加注，Pre-A 轮由宁德时代独家投资。光源资本担任孵化方和独家财务顾问。 老股东多轮持续加注，验证了 RoboParty 稀缺的技术实力、极致的产品 taste 与迭代速度、同时带来强大的产业生态位与资本势能。宁德时代的战略加持进一步打开了 RoboParty 的产业想象空间。继小米战投之后，宁德战投再次重注 RoboParty，意味着 RoboParty 的标签不止于开源，更是一个有机会进入真实制造、能源、供应链和复杂作业场景的具身智能平台，宁德时代与公司将共同探索产业链上下游合作的各种可能。 Open Body × Party OS × Developer Ecosystem 过去几年，具身智能赛道快速升温，随着供应链成熟、硬件形态收敛和头部公司加速量产，留给新生代公司的窗口期正在迅速收窄。越来越多公司从世界模型或具身基础模型切入，但许多大脑公司并不拥有自己的机器人本体，训练、验证和部署仍然依赖第三方硬件平台。",
+    "url": "https://www.cyzone.cn/article/839944.html",
+    "published": "Wed, 15 Jul 2026 02:50:28 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "湖南省金芙蓉达晨未来产业创业投资基金成立 出资额30亿",
+    "summary": "天眼查App显示，近日，湖南省金芙蓉达晨未来产业创业投资基金合伙企业（有限合伙）成立，执行事务合伙人为深圳市达晨财智创业投资管理有限公司、湖南省财信产业基金管理有限公司，出资额30亿人民币，经营范围为以私募基金从事股权投资、创业投资。合伙人信息显示，该基金由湖南省金芙蓉产业引导基金合伙企业（有限合伙）、湖南兴湘新兴产业投资基金合伙企业（有限合伙）、湖南省财信精联股权投资合伙企业（有限合伙）等共同出资。",
+    "url": "https://www.cyzone.cn/article/839743.html",
+    "published": "Mon, 13 Jul 2026 08:10:55 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "融资丨清研精准完成数亿元B轮融资",
+    "summary": "6月8日，工业和信息化部、国务院国资委联合印发通知，正式启动2026年度人形机器人与具身智能实景实训专项行动。明确要求到年底前，人形机器人在一批代表性场景中完成应用验证和常态部署，开启“作业模式”，凝练百个以上高价值应用场景，带动万台级规模落地。 几乎同一时间，清研精准在6月内迅速完成两轮数亿元融资，并于此番获得国机产业基金的战略投资。这一战略布局不仅是资本的入场，也意味着产业端力量对“扎根真实场景做数据”这一技术路线的实质性认可。 至此，清研精准B轮融资正式落定，“国家队+汽车产业圈”重仓押注，北汽产投、星源资本、一汽富晟、长城资本、陕汽资本、裕隆集团，六家车企产业资本罕见联手，共同将目光投向物理AI在真实场景中的落地能力。每一轮投资方的引入，都对应着关键场景的卡位与关键能力的互补，最终形成资本、场景与技术的多方共赢。他们投的不是一个“造机器人”的公司，而是一个让机器人在真实工业场景里学会干活的基础设施。 01“作业”模式开启，直指“真场景”，清研精准八年工业现场早已就位 本次专项行动中的“作业模式”要求具身智能产品像工人一样，在真实岗位上完成真实任务，接受真实工况的检验。也因此，政",
+    "url": "https://www.cyzone.cn/article/839671.html",
+    "published": "Mon, 13 Jul 2026 01:59:50 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "黄仁勋组了个联盟，AI圈几乎全员到齐，只有这一家唱反调",
+    "summary": "黄仁勋组建“开放安全AI联盟”，英伟达携37家成员推动透明化AI安全体系，旨在抵御闭源模型风险并巩固自身算力生态。此举表面上倡导开放与安全，实则为应对芯片自研潮与政策挤压的商业博弈。OpenAI、谷歌补签加入，唯有Anthropic因商业模式冲突而孤立反对，路线之争背后皆是商业利益。",
+    "url": "https://www.tmtpost.com/8083127.html",
+    "published": "Wed, 29 Jul 2026 12:24:27 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "宁德时代的焦虑，和英伟达一模一样",
+    "summary": "新能源行业所有的争议，最终都会落在宁王的账本上。",
+    "url": "https://www.tmtpost.com/8082769.html",
+    "published": "Wed, 29 Jul 2026 12:08:36 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "脑机接口，风再起时",
+    "summary": "这样一个极具诱惑力的未知未来，值得更多勇敢者参与探索。",
+    "url": "https://www.tmtpost.com/8082842.html",
+    "published": "Wed, 29 Jul 2026 12:03:47 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "据传古瑞瓦特一高管因行贿在澳大利亚被捕，一包茶叶、两万澳元，砸穿企业出海路",
+    "summary": "中国企业高管海外行贿被捕，IPO再添变数。",
+    "url": "https://www.tmtpost.com/8082831.html",
+    "published": "Wed, 29 Jul 2026 11:58:34 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "缺席新能源汽车下乡，零跑把目光瞄准了海外",
+    "summary": "海外为何卖得好？",
+    "url": "https://www.tmtpost.com/8083097.html",
+    "published": "Wed, 29 Jul 2026 11:58:16 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "从跟跑到定义：中国机器人凭什么站上《时代》封面",
+    "summary": "时隔八年，中国科技创业者再登《时代》封面。从百度李彦宏到宇树王兴兴，从搜索引擎到载人机甲，改变的不仅是主角和赛道，更是中国产业从跟随到定义的历史性跨越。",
+    "url": "https://www.tmtpost.com/8083064.html",
+    "published": "Wed, 29 Jul 2026 11:49:02 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "具身智能“200亿俱乐部”：8家公司、吸金千亿，豪赌一个未来",
+    "summary": "同样200亿，买的不是同一样东西。",
+    "url": "https://www.tmtpost.com/8082765.html",
+    "published": "Wed, 29 Jul 2026 11:40:41 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "两个最懂女人的IPO",
+    "summary": "小红书和SHEIN的估值底牌。",
+    "url": "https://www.tmtpost.com/8083080.html",
+    "published": "Wed, 29 Jul 2026 11:34:38 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "消费企业集体涌入硬科技，钱花得值吗？",
+    "summary": "资本买不到时间。",
+    "url": "https://www.tmtpost.com/8082824.html",
+    "published": "Wed, 29 Jul 2026 11:31:43 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "爱范儿",
+    "title": "早报｜雷军解释小米澎程为何无纯电版/腾讯QQ宠物官宣回归/曝三星手机拟采用长鑫内存",
+    "summary": "· SK 电信成立 SK Hyper，计划到 2035 年建设 15GW AI 数据中心 · 曝英伟达拟为 OpenAI 数据中心项目提供 2500 亿美元融资担保 · Pixel Watch 或加入「手机解锁手表」功能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1673221?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Tue, 28 Jul 2026 00:13:38 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "爱范儿",
+    "title": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+    "summary": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应· #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Mon, 27 Jul 2026 00:10:33 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "爱范儿",
+    "title": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格",
+    "summary": "· 菲尔兹奖得主 Jacob Tsimerman 将加入 OpenAI 安全部门 · 腾讯 WXG 员工因泄露敏感信息被辞退，年末激励约 317 万元 · Patreon 裁减 20% 员工，CEO 强调重组并非因为 AI 替代人类 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Sat, 25 Jul 2026 00:23:18 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "爱范儿",
+    "title": "对话腾讯副总裁林松涛：意图正在代替入口，Agent 需要一颗「小脑」",
+    "summary": "大模型是「大脑」，Marvis 想补上「小脑」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1673039?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Fri, 24 Jul 2026 07:43:20 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "published": "Tue, 28 Jul 2026 20:45:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+    "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+    "published": "Tue, 28 Jul 2026 19:09:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "published": "Tue, 28 Jul 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+    "summary": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
+    "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+    "published": "Tue, 28 Jul 2026 13:50:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Granola launches an Apple Watch app",
+    "summary": "AI note-taking app Granola is launching an app for the Apple Watch in hopes that its users will want to record meetings and take notes without using their smartphones.",
+    "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+    "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "InfiMaker seeks to bring industrial manufacturing to every desktop with AI",
+    "summary": "When people think of advanced manufacturing, they typically picture multimillion-dollar industrial machines operating inside factories, not a compact device sitting on a desk. But that’s precisely the perception InfiMaker, a startup founded in 2024, is trying to change. The startup positions itself as a desktop manufacturing company, developing manufacturing tools for engineers, designers, entrepreneurs, and […]",
+    "url": "https://technode.com/2026/07/28/infimaker-seeks-to-bring-industrial-manufacturing-to-every-desktop-with-ai/",
+    "published": "Tue, 28 Jul 2026 06:02:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Moonshot AI to make Kimi K3 available for public download",
+    "summary": "Moonshot AI is set to release the model weights for Kimi K3 on July 27, allowing developers to download, modify, and host the model independently. Kimi K3 was launched earlier this month with 2.8 trillion parameters, native visual understanding, and a one-million-token context window. The Beijing-based company positions Kimi K3 as an open-weight model for […]",
+    "url": "https://technode.com/2026/07/27/moonshot-ai-to-make-kimi-k3-available-for-public-download/",
+    "published": "Mon, 27 Jul 2026 10:10:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Momenta expands into autonomous freight with Robovan",
+    "summary": "Chinese autonomous driving company Momenta has launched its Robovan autonomous freight business, with vehicles already operating in Suzhou’s Xiangcheng district. The company said the vehicles are being deployed for express delivery and overnight delivery, using its R7 world model and a map-free approach adapted from passenger-car deployments. Momenta said the same model platform will support […]",
+    "url": "https://technode.com/2026/07/27/momenta-expands-into-autonomous-freight-with-robovan/",
+    "published": "Mon, 27 Jul 2026 10:09:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Enterprise WeChat opens beta testing of AI assistant Dayuan",
+    "summary": "Tencent’s workplace communication and collaboration platform Enterprise WeChat has opened beta testing of an AI assistant named Dayuan. Users can swipe left from any interface to activate the assistant, which can access Enterprise WeChat’s documents, spreadsheets, meetings, and calendar tools. Dayuan is designed to understand the context of ongoing work and provide help without interrupting […]",
+    "url": "https://technode.com/2026/07/27/enterprise-wechat-opens-beta-testing-of-ai-assistant-dayuan/",
+    "published": "Mon, 27 Jul 2026 10:08:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "CXMT becomes China’s most valuable A-share company after $8.6 billion IPO",
+    "summary": "ChangXin Memory Technologies (CXMT), China’s largest DRAM maker, raised RMB57.92 billion ($8.6 billion) in its Shanghai STAR Market IPO on July 27, in what became the largest mainland semiconductor offering on record. By the midday break, its shares had risen 531% from the IPO price, pushing its market value to RMB3.66 trillion and making it […]",
+    "url": "https://technode.com/2026/07/27/cxmt-becomes-chinas-most-valuable-a-share-company-after-8-6-billion-ipo/",
+    "published": "Mon, 27 Jul 2026 07:23:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Honor confirms August launch for Robot Phone with 4DoF gimbal",
+    "summary": "Honor has confirmed that its Robot Phone will launch in August, bringing a four-degree-of-freedom mechanical gimbal to the top of a smartphone. The titanium-alloy gimbal uses miniature motors, with a volume that is 70% smaller than mainstream solutions, according to the company. The phone will use Qualcomm’s Snapdragon 8 Elite Gen 5 chip and introduce […]",
+    "url": "https://technode.com/2026/07/24/honor-confirms-august-launch-for-robot-phone-with-4dof-gimbal/",
+    "published": "Fri, 24 Jul 2026 05:28:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance’s PICO changes head as it prepares new MR device",
+    "summary": "ByteDance’s PICO XR business has appointed Li Xiaokai as its new head after founder Zhou Hongyi stepped down for personal career planning. The leadership transition is not expected to change PICO’s existing strategy, research and development work or product plans. PICO plans to launch a new mixed-reality device this year under the codename Project Swan. […]",
+    "url": "https://technode.com/2026/07/24/bytedances-pico-changes-head-as-it-prepares-new-mr-device/",
+    "published": "Fri, 24 Jul 2026 05:20:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "iQIYI launches China’s first licensed AIGC online story film",
+    "summary": "Chinese streaming platform iQIYI has launched Qitan: Paper Blade Across the Wasteland (《奇谭：纸刃渡荒墟》), which it describes as the first AIGC online story film in China to receive a Network Drama/Film Distribution License and go online. The film runs for more than 60 minutes and was jointly produced by iQIYI and DaMeng Innovation. The production used […]",
+    "url": "https://technode.com/2026/07/23/iqiyi-launches-chinas-first-licensed-aigc-online-story-film/",
+    "published": "Thu, 23 Jul 2026 09:06:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek puts AGI research ahead of products and commercial growth",
+    "summary": "According to a report by IT Home, DeepSeek, the Chinese AI developer behind the open-source R1 reasoning model, is prioritizing artificial general intelligence (AGI) research over building a consumer platform or maximizing near-term revenue. The report is based on a circulated transcript of a four-hour investor meeting involving founder Liang Wenfeng. Why it matters: The […]",
+    "url": "https://technode.com/2026/07/23/deepseek-puts-agi-research-ahead-of-products-and-commercial-growth/",
+    "published": "Thu, 23 Jul 2026 07:17:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "OpenAI admits AI model hacked Hugging Face, Chinese open-source AI helped investigate",
+    "summary": "A recent AI cyberattack that stunned the industry has unexpectedly put Chinese AI company Zhipu AI and its open-source model GLM 5.2 in the spotlight. OpenAI has acknowledged for the first time that one of its AI models escaped a sandboxed testing environment during an internal cybersecurity evaluation and compromised the production infrastructure of Hugging […]",
+    "url": "https://technode.com/2026/07/23/openai-admits-ai-model-hacked-hugging-face-chinese-open-source-ai-helped-investigate/",
+    "published": "Thu, 23 Jul 2026 06:23:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Moonshot AI reportedly plans final pre-IPO round at $50 billion valuation",
+    "summary": "Moonshot AI, the developer of the Kimi chatbot, reportedly plans to begin talks in August for a final pre-IPO funding round targeting a pre-money valuation of up to $50 billion. The company could pursue a Hong Kong listing within six months. The round would follow current financing expected to value Moonshot at about $31.5 billion […]",
+    "url": "https://technode.com/2026/07/22/moonshot-ai-reportedly-plans-final-pre-ipo-round-at-50-billion-valuation/",
+    "published": "Wed, 22 Jul 2026 03:35:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Yimu Tech raises over RMB1 billion for robot tactile sensing and production",
+    "summary": "Yimu Tech, a Chinese developer of tactile sensing hardware and software for embodied-intelligence systems, has completed a Series E financing round of more than RMB1 billion, bringing its valuation above RMB10 billion. The financing was jointly backed by multiple leading RMB funds, USD funds and industrial investors. The company is developing tactile sensing materials, chips, […]",
+    "url": "https://technode.com/2026/07/20/yimu-tech-raises-over-rmb1-billion-for-robot-tactile-sensing-and-production/",
+    "published": "Mon, 20 Jul 2026 08:09:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Kimi K3 overwhelms capacity just days after launch, suspends new consumer subscriptions",
+    "summary": "Moonshot AI has temporarily suspended new consumer subscriptions for Kimi after demand for its newly launched Kimi K3 model exceeded expectations and pushed its compute infrastructure close to its limits. In a statement titled To Kimi Users: An Update on Compute Capacity Constraints and Subscription Suspension, the company said user requests in the 48 hours […]",
+    "url": "https://technode.com/2026/07/20/kimi-k3-overwhelms-capacity-just-days-after-launch-suspends-new-consumer-subscriptions/",
+    "published": "Mon, 20 Jul 2026 03:37:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Honor confirms August global launch of its first Robot Phone at WAIC 2026",
+    "summary": "At the 2026 World Artificial Intelligence Conference (WAIC), Honor CEO Li Jian unveiled the company’s first Robot Phone, confirming it will launch globally in August with pre-orders now open across all sales channels. The device is powered by Qualcomm’s latest Snapdragon 8 Elite Gen 5 platform and features a 1.5K flat display with ultra-narrow, symmetrical […]",
+    "url": "https://technode.com/2026/07/20/honor-confirms-august-global-launch-of-its-first-robot-phone-at-waic-2026/",
+    "published": "Mon, 20 Jul 2026 02:27:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "XPeng launches MONA L03 in Munich, taking aim at Europe’s electric SUV market",
+    "summary": "On Thursday, XPeng unveiled the MONA L03 smart SUV at its global launch event in Munich, Germany. The model will be launched in 65 countries and regions, including China, Europe, and other overseas markets, according to the Chinese automaker. The launch marks a strategic move in XPeng’s global expansion, as the MONA L03 is the […]",
+    "url": "https://technode.com/2026/07/17/xpeng-launches-mona-l03-in-munich-taking-aim-at-europes-electric-suv-market/",
+    "published": "Fri, 17 Jul 2026 03:15:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple CEO Tim Cook and successor John Ternus meet POP MART founder Wang Ning at Apple Park",
+    "summary": "Apple CEO Tim Cook posted on Weibo today, welcoming the POP MART team to visit Apple Park, Apple’s headquarters in Cupertino, California. He also shared a photo of himself with Apple’s incoming CEO John Ternus and POP MART founder Wang Ning during their meeting. This marks the second public interaction between Cook and POP MART […]",
+    "url": "https://technode.com/2026/07/16/apple-ceo-tim-cook-and-successor-john-ternus-meet-pop-mart-founder-wang-ning-at-apple-park/",
+    "published": "Thu, 16 Jul 2026 07:42:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-29"
+  },
+  {
+    "source": "V2EX",
+    "title": "兄弟们都买了什么新能源车？理想 I6、ModelY、极氪？",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1230594",
+    "published": 1785290207,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-07-29",
+    "meta": {
+      "replies": 58,
+      "node": "问与答"
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MoonshotAI/Kimi-K3",
+    "summary": "Open Frontier Intelligence",
+    "url": "https://github.com/MoonshotAI/Kimi-K3",
+    "published": "2026-07-27T08:01:37Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-29",
+    "meta": {
+      "stars": 3592,
+      "forks": 295,
+      "language": null,
+      "createdDaysAgo": 1
+    }
+  }
+]
