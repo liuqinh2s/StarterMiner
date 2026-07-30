@@ -1,6 +1,16 @@
 [
   {
     "source": "36氪",
+    "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+    "summary": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行的洽谈已进入收尾阶段。（界面） OpenAI承认AI模型失控入侵事件涉及多个平台 美国开放人工智能研究中心（OpenAI）28日更新发布的调查结果显示，该公司人工智能（AI）模型失控入侵美国抱抱脸公司系统期间，还曾利用网上公开的信息，访问了多个公开服务平台上的账户。OpenAI不久前承认，该公司包括GPT-5.6 Sol在内的多个AI模型在内部评估时突破隔离测试环境，入侵了运营人工智能开源平台的美国抱抱脸公司的系统。其最新公布的调查结果显示，涉事模型在攻击过程中还访问了至少4个公开服务平台上的4个账户。其中一个账户被用作中继与暂存通道；一个账户被用于数据",
+    "url": "https://36kr.com/p/3917972674735747?f=rss",
+    "published": "2026-07-30 21:56:03  +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "36氪",
     "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
     "summary": "消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿。此外，《2026年二季度中国消费者消费意愿调查报告》显示，在覆盖城乡5000名消费者的调查中，有近八成受访者认为AI已经影响自己的消费决策。 入口在迁移，规则也在被重新定义。 今年5月，36氪联合PureblueAI清蓝发布首期“2026消费品牌AI推荐力名册”，首次尝试观察消费品牌在AI决策推荐场景中的表现。 第一期研究发现，一个品牌是否能够进入AI推荐结果，不仅取决于市场认知，也取决于其产品价值是否能够被AI准确理解，以及是否与消费者具体需求形成匹配。 也就是说，品牌竞争正从过去争夺消费者认知，转向争夺具体消费场景中的优先选择。 消费者提出什么问题",
     "url": "https://36kr.com/p/3917984470576769?f=rss",
@@ -71,30 +81,30 @@
   },
   {
     "source": "36氪",
-    "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
-    "summary": "导语： 凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。 2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。 母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。 图片1 育儿需求 从“满足生存”转向“精准科学养护” 90、95 后双职工父母成为母婴消费主力，育儿理念彻底摆脱传统经验主义，科学化、轻量化、低焦虑成为核心诉求。据易观《Z 世代新母婴人群消费洞察 2023》，51% Z 世代宝妈选购母婴产品优先选择智能款，44.1% 认为智能产品安全性更高，43.1% 看重便捷性。结合多份行业调研，新一代父母核心需求分为四点： 职场育儿双重压力，急需减负工具 92% Z 世代夫妻为双职工，95 后家庭母婴支出占家庭收入 30%，育",
-    "url": "https://36kr.com/p/3916187215408776?f=rss",
-    "published": "2026-07-29 16:30:52  +0800",
+    "title": "Anthropic拟获150亿美元融资建设得州AI数据中心，谷歌提供担保并供应芯片",
+    "summary": "7月31日消息，据报道，数据中心开发商Nexus Data Centers正就为其位于美国得州、服务Anthropic的AI数据中心项目筹集约150亿美元资金进行深入谈判，谷歌将为该项目提供融资担保并供应芯片。谷歌已同意在Anthropic无法履行租赁和电力支付义务时，为其相关承诺提供数十亿美元担保。该担保覆盖Anthropic签署的4份数据中心租赁协议，以及与现场电厂相关的购电协议。作为支持项目的回报，谷歌预计将获得该数据中心及电力项目约20%的股权。此外，Anthropic计划在该数据中心部署由谷歌与博通联合设计的张量处理单元（TPU）芯片，相关芯片采购将通过Anthropic与博通之间的单独供应商融资协议完成。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3918743493324164?f=rss",
+    "published": "2026-07-31 07:12:01  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "36氪",
-    "title": "欧盟计划投资114亿美元建设7座人工智能超级工厂",
-    "summary": "欧盟27国集团的执行官周四表示，欧盟将提供100亿欧元（114亿美元）的资金，资助企业建立7个人工智能巨型工厂，以缩小与美国的人工智能差距。欧盟委员会表示，希望公共融资能够吸引额外的200亿欧元（228亿美元）私人投资。企业现在可以竞标建造超级工厂的合同，这些工厂计划配备至少10万个尖端人工智能芯片，其性能大约是目前欧盟运行的数据中心性能的四倍。根据美国2025年的评估，欧洲在人工智能发展的关键领域远远落后于美国。根据6月份提交给欧洲议会的一份委员会报告，欧洲企业和公共当局将继续依赖美国人工智能提供商，这不利于在前沿工作的欧洲服务提供商。（新浪财经）",
-    "url": "https://36kr.com/newsflashes/3917985494150530?f=rss",
-    "published": "2026-07-30 18:20:56  +0800",
+    "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+    "summary": "36氪获悉，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6434万股，占发行后总股本的10%，发行后总股本为40446.4340万股。初步询价日为2026年8月5日，网上网下申购日为2026年8月10日。公司存在特别表决权机制安排，实际控制人王兴兴在表决权差异安排下合计控制公司68.78%的表决权。",
+    "url": "https://36kr.com/newsflashes/3918161688505730?f=rss",
+    "published": "2026-07-30 21:20:10  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "36氪",
-    "title": "地平线在高阶智驾芯片市场份额扩大至22.82%",
-    "summary": "36氪获悉，2026年上半年，在自主品牌乘用车智驾芯片（全阶）市场，地平线市场份额达到31.94%，保持行业第一的地位。在高阶智驾芯片市场，地平线凭借征程6系列的大规模量产，市场份额扩大至22.82%。",
-    "url": "https://36kr.com/newsflashes/3917979297689217?f=rss",
-    "published": "2026-07-30 18:14:38  +0800",
+    "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
+    "summary": "美国国家公路交通安全管理局（NHTSA）7月30日宣布，给予亚马逊旗下自动驾驶公司Zoox临时豁免权，允许其在两年内每年商业部署最多2500辆自动驾驶出租车，前提是必须遵守一套“强化且灵活的监管框架，该框架能随Zoox技术的进步而相应调整”。（界面）",
+    "url": "https://36kr.com/newsflashes/3918139475668360?f=rss",
+    "published": "2026-07-30 20:57:35  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-07-30"
@@ -201,6 +211,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+    "summary": "WorkBuddy上线“人机双写” 功能；高通9月1日起上调芯片价格，涨幅达到两位数；OpenAI承认AI模型失控入侵事件涉及多个平台；扎克伯格回应卖算力；特斯拉全球第1000万辆电动车下线；丰田汽车6月全球销量同比下降1.1%；国家知识产权局发布《专利优先审查管理办法》，9月1日起施行；商务部：优化国家级经开区考核评价指标体系，完善动态管理有关制度；国家广播电视总局：严格落实一体化电视技术标准，打通线上线下渠道、创新高效装维新模式；强生宣布完成收购生物技术公司Firefly Bio；2026暑期档电影票房破65亿；中国成功发射通信技术试验卫星二十七号A/B星",
+    "url": "https://www.tmtpost.com/8085654.html",
+    "published": "Fri, 31 Jul 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "钛媒体",
     "title": "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了",
     "summary": "医疗创新更像一场马拉松，今天成都的融资盛景，往往是过去十年，甚至二十年的科研、人才与产业建设的结果。",
     "url": "https://www.tmtpost.com/8084639.html",
@@ -241,90 +261,80 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "published": "Wed, 29 Jul 2026 21:16:39 +0000",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "published": "Thu, 30 Jul 2026 18:57:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "published": "Wed, 29 Jul 2026 21:07:48 +0000",
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile.",
+    "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "published": "Thu, 30 Jul 2026 17:50:11 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-    "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
-    "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-    "published": "Wed, 29 Jul 2026 21:02:12 +0000",
+    "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
+    "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
+    "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+    "published": "Thu, 30 Jul 2026 17:41:25 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
-    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
-    "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-    "published": "Wed, 29 Jul 2026 15:36:48 +0000",
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "published": "Thu, 30 Jul 2026 16:09:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "published": "Wed, 29 Jul 2026 15:35:09 +0000",
+    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+    "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+    "published": "Thu, 30 Jul 2026 15:45:36 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-    "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-    "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-    "published": "Wed, 29 Jul 2026 15:00:00 +0000",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "published": "Thu, 30 Jul 2026 15:41:16 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "published": "Wed, 29 Jul 2026 14:41:06 +0000",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "published": "Thu, 30 Jul 2026 15:19:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "TechCrunch",
-    "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-    "summary": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activists” pushing back against Big Tech, they think the rest of […]",
-    "url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-    "published": "Wed, 29 Jul 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-07-30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-    "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
-    "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-    "published": "Wed, 29 Jul 2026 12:00:00 +0000",
+    "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+    "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+    "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+    "published": "Thu, 30 Jul 2026 15:17:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
@@ -481,33 +491,237 @@
   },
   {
     "source": "The Verge",
-    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, […]",
-    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "published": "2026-07-29T18:17:38-04:00",
+    "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+    "summary": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — […]",
+    "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+    "published": "2026-07-30T15:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
     "source": "The Verge",
-    "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
-    "summary": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a world I’ve returned to a number of times to […]",
-    "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
-    "published": "2026-07-29T17:02:50-04:00",
+    "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+    "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previously only found them in small patches, […]",
+    "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+    "published": "2026-07-30T13:20:06-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
   },
   {
-    "source": "The Verge",
-    "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "published": "2026-07-29T14:15:02-04:00",
+    "source": "Hacker News",
+    "title": "Intel providing ATOM to startup led by co-investor of Tan in rare deal",
+    "summary": "Article URL: https://www.reuters.com/world/intel-providing-chip-technology-startup-led-by-co-investor-tan-rare-deal-2026-07-29/ Comments URL: https://news.ycombinator.com/item?id=49111888 Points: 1 # Comments: 0",
+    "url": "https://www.reuters.com/world/intel-providing-chip-technology-startup-led-by-co-investor-tan-rare-deal-2026-07-29/",
+    "published": "Thu, 30 Jul 2026 16:00:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Free SaaS Launch Platform for Indie Founders",
+    "summary": "Article URL: https://www.bestmillionstartups.com/startups Comments URL: https://news.ycombinator.com/item?id=49111346 Points: 1 # Comments: 0",
+    "url": "https://www.bestmillionstartups.com/startups",
+    "published": "Thu, 30 Jul 2026 15:25:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How did you fund your startup without VC?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49111197 Points: 5 # Comments: 2",
+    "url": "https://news.ycombinator.com/item?id=49111197",
+    "published": "Thu, 30 Jul 2026 15:12:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+    "summary": "Hi HN, we're Marinos and Hudson, founders of Prized ( https://prized.dev )! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to their company’s data and deployed behind the company’s sign-in, without them ever juggling API keys or connectors. Here's a demo: https://www.youtube.com/watch?v=730MuYOfZTY The way Prized provides security is by limiting what the agent can reach at the network layer and by keeping credentials out of the sandbox ent",
+    "url": "https://prized.dev",
+    "published": "Thu, 30 Jul 2026 13:29:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Mental health startup graveyard: an analysis of 542 dead companies, 2000–2026",
+    "summary": "Article URL: https://mentalium.me/en/research/mental-health-startup-graveyard/ Comments URL: https://news.ycombinator.com/item?id=49107879 Points: 3 # Comments: 0",
+    "url": "https://mentalium.me/en/research/mental-health-startup-graveyard/",
+    "published": "Thu, 30 Jul 2026 09:57:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms Comments URL: https://news.ycombinator.com/item?id=49104050 Points: 9 # Comments: 0",
+    "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+    "published": "Wed, 29 Jul 2026 22:43:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How HN: Vetted Startup – discover, buy, and sell startups with verified revenue",
+    "summary": "Article URL: https://vettedstartup.com/ Comments URL: https://news.ycombinator.com/item?id=49104042 Points: 2 # Comments: 0",
+    "url": "https://vettedstartup.com/",
+    "published": "Wed, 29 Jul 2026 22:42:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "NanoClaw and Echo launch agent runtime that secures browsers, tools and libs",
+    "summary": "Article URL: https://thenewstack.io/nanoclaw-echo-agent-runtime/ Comments URL: https://news.ycombinator.com/item?id=49103298 Points: 8 # Comments: 0",
+    "url": "https://thenewstack.io/nanoclaw-echo-agent-runtime/",
+    "published": "Wed, 29 Jul 2026 21:27:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "YC startup offers interviews to people who get their name permanently tattooed",
+    "summary": "Thought this was interesting. Clever recruitment tactic or too much? linkedin.com/posts/jordan-zietz_7-people-left-our-yc-afterparty-with-permanent-activity-7487979543744614401-IFU- Comments URL: https://news.ycombinator.com/item?id=49102371 Points: 17 # Comments: 11",
+    "url": "https://news.ycombinator.com/item?id=49102371",
+    "published": "Wed, 29 Jul 2026 20:09:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: RepoInPeace – A marketplace to buy and sell abandoned startup IP",
+    "summary": "I made a site to sell the husk of your stupid startup/project/whatever that you stopped working on for some reason. The idea is that you may have worked on some projects, wrote code, bought a domain, got customers even; and then life happened and you quietly abandoned your thing and now it's just collecting dust. Your useless project of the week might have some utility though for someone else, who knows? You can post anything for free that you're interested in dumping, and you can browse the pro",
+    "url": "https://repoinpeace.app/",
+    "published": "Wed, 29 Jul 2026 15:57:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+    "summary": "Hi HN, Rohit here from Tokenless ( https://usetokenless.com/ ), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend. The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected. Frontier models are amazing for dev work, but are so expensive. Open-source models are ch",
+    "url": "https://usetokenless.com/",
+    "published": "Wed, 29 Jul 2026 15:55:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A \"roast my startup\" space that won't shadowban you for self-promotion",
+    "summary": "Article URL: https://medium.com/@peakd/peakd-arena-we-built-a-space-where-builders-can-ask-for-feedback-without-getting-banned-fe21c05a0465 Comments URL: https://news.ycombinator.com/item?id=49099138 Points: 2 # Comments: 0",
+    "url": "https://medium.com/@peakd/peakd-arena-we-built-a-space-where-builders-can-ask-for-feedback-without-getting-banned-fe21c05a0465",
+    "published": "Wed, 29 Jul 2026 15:54:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Japan's Genki Robotics to launch first product this year, says CEO",
+    "summary": "Article URL: https://asia.nikkei.com/editor-s-picks/interview/japan-s-genki-robotics-to-launch-first-product-this-year-says-ceo Comments URL: https://news.ycombinator.com/item?id=49094986 Points: 2 # Comments: 1",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-genki-robotics-to-launch-first-product-this-year-says-ceo",
+    "published": "Wed, 29 Jul 2026 09:01:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I made a convenient file sharing service (NOT A STARTUP)",
+    "summary": "Simply upload a file, and it returns a link, get-ing this link gives you the file, no embedding or nonsense like that, so its compatible with anything that understands how to use the http protocol XD. Really i only made this so that i could have a easier time sharing stuff with friends. Its not a startup just a site to make my life easier. To use it, go to the site, drag or select a file, click upload. Then share the link it provides however you see fit. Comments URL: https://news.ycombinator.co",
+    "url": "https://coldfiles.dev/",
+    "published": "Wed, 29 Jul 2026 07:09:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google Calendar \"Unable to launch event\" – caused by missing DTSTAMP",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/ Comments URL: https://news.ycombinator.com/item?id=49094270 Points: 3 # Comments: 0",
+    "url": "https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/",
+    "published": "Wed, 29 Jul 2026 07:05:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+    "summary": "Article URL: https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/ Comments URL: https://news.ycombinator.com/item?id=49090548 Points: 4 # Comments: 0",
+    "url": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+    "published": "Tue, 28 Jul 2026 22:05:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup's security policies are concerning",
+    "summary": "Article URL: https://www.svix.com/blog/security-at-svix/ Comments URL: https://news.ycombinator.com/item?id=49089254 Points: 2 # Comments: 0",
+    "url": "https://www.svix.com/blog/security-at-svix/",
+    "published": "Tue, 28 Jul 2026 20:09:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sam Altman – How to Start a Startup [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Vv3CEAS_w34 Comments URL: https://news.ycombinator.com/item?id=49085686 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=Vv3CEAS_w34",
+    "published": "Tue, 28 Jul 2026 15:47:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Injex – tiny typed DI for Python validates the graph before startup",
+    "summary": "Article URL: https://github.com/vshulcz/injex Comments URL: https://news.ycombinator.com/item?id=49085263 Points: 2 # Comments: 0",
+    "url": "https://github.com/vshulcz/injex",
+    "published": "Tue, 28 Jul 2026 15:19:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Amazon's trying to launch a global satellite cellphone network in 2028",
+    "summary": "Article URL: https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network Comments URL: https://news.ycombinator.com/item?id=49082971 Points: 4 # Comments: 0",
+    "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+    "published": "Tue, 28 Jul 2026 12:44:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-07-30"
+  },
+  {
+    "source": "微博",
+    "title": "#美股芯片半导体反弹#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23美股芯片半导体反弹%23",
+    "published": "2026-07-30",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-07-30",
+    "meta": {
+      "hotValue": 49451,
+      "rank": 41
+    }
   },
   {
     "source": "V2EX",
@@ -519,7 +733,7 @@
     "type": "community",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "replies": 91,
+      "replies": 111,
       "node": "推广"
     }
   },
@@ -533,8 +747,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 7381,
-      "forks": 483,
+      "stars": 7524,
+      "forks": 503,
       "language": null,
       "createdDaysAgo": 3
     }
@@ -549,10 +763,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 2326,
-      "forks": 339,
+      "stars": 2397,
+      "forks": 352,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -565,8 +779,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 1783,
-      "forks": 117,
+      "stars": 2372,
+      "forks": 151,
       "language": "Swift",
       "createdDaysAgo": 5
     }
@@ -581,24 +795,8 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 982,
+      "stars": 987,
       "forks": 23,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "MoonshotAI/MoonEP",
-    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-    "url": "https://github.com/MoonshotAI/MoonEP",
-    "published": "2026-07-24T09:07:21Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-30",
-    "meta": {
-      "stars": 901,
-      "forks": 93,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -613,10 +811,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 898,
-      "forks": 53,
+      "stars": 930,
+      "forks": 52,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MoonshotAI/MoonEP",
+    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+    "url": "https://github.com/MoonshotAI/MoonEP",
+    "published": "2026-07-24T09:07:21Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-30",
+    "meta": {
+      "stars": 924,
+      "forks": 99,
+      "language": "Python",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -629,26 +843,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 632,
-      "forks": 53,
+      "stars": 672,
+      "forks": 56,
       "language": "JavaScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "0xwilliamortiz/openclaude-improved",
-    "summary": "runs anywhere. uses anything",
-    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "published": "2026-07-26T21:58:28Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-30",
-    "meta": {
-      "stars": 558,
-      "forks": 80,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 2
     }
   },
   {
@@ -661,10 +859,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 555,
-      "forks": 124,
+      "stars": 564,
+      "forks": 125,
       "language": "JavaScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "0xwilliamortiz/openclaude-improved",
+    "summary": "runs anywhere. uses anything",
+    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+    "published": "2026-07-26T21:58:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-30",
+    "meta": {
+      "stars": 562,
+      "forks": 80,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -677,10 +891,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 534,
+      "stars": 538,
       "forks": 68,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -693,26 +907,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 451,
-      "forks": 42,
+      "stars": 487,
+      "forks": 37,
       "language": "TypeScript",
       "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "NikolayS/PGSimCity",
-    "summary": "An explorable 3D city that shows how Postgres actually works",
-    "url": "https://github.com/NikolayS/PGSimCity",
-    "published": "2026-07-25T22:15:09Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-30",
-    "meta": {
-      "stars": 416,
-      "forks": 29,
-      "language": "TypeScript",
-      "createdDaysAgo": 4
     }
   },
   {
@@ -725,10 +923,26 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 399,
-      "forks": 37,
+      "stars": 472,
+      "forks": 48,
       "language": "Python",
       "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "NikolayS/PGSimCity",
+    "summary": "An explorable 3D city that shows how Postgres actually works",
+    "url": "https://github.com/NikolayS/PGSimCity",
+    "published": "2026-07-25T22:15:09Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-07-30",
+    "meta": {
+      "stars": 437,
+      "forks": 31,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -741,58 +955,10 @@
     "type": "signal",
     "fetchedAt": "2026-07-30",
     "meta": {
-      "stars": 372,
-      "forks": 43,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "deerwork-ai/deer-workflow",
-    "summary": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "url": "https://github.com/deerwork-ai/deer-workflow",
-    "published": "2026-07-26T04:20:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-30",
-    "meta": {
-      "stars": 352,
-      "forks": 27,
+      "stars": 396,
+      "forks": 48,
       "language": "TypeScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "achimala/TheLongSilence",
-    "summary": "A space exploration game built by Claude Opus 5",
-    "url": "https://github.com/achimala/TheLongSilence",
-    "published": "2026-07-27T08:43:36Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-30",
-    "meta": {
-      "stars": 337,
-      "forks": 47,
-      "language": "JavaScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Eversmile12/leaked-llm-prompts",
-    "summary": "collections-of-leaked-prompts",
-    "url": "https://github.com/Eversmile12/leaked-llm-prompts",
-    "published": "2026-07-24T18:16:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-07-30",
-    "meta": {
-      "stars": 329,
-      "forks": 247,
-      "language": null,
-      "createdDaysAgo": 5
     }
   }
 ]
