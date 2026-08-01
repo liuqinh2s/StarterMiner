@@ -611,6 +611,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "summary": "How one founder house is betting work-life balance can beat burnout .",
+    "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "published": "Sat, 01 Aug 2026 21:14:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "published": "Sat, 01 Aug 2026 19:45:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-01"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
     "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
     "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
@@ -655,26 +675,6 @@
     "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
     "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
     "published": "Fri, 31 Jul 2026 19:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-01"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "published": "Fri, 31 Jul 2026 14:47:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-01"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-    "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
-    "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-    "published": "Fri, 31 Jul 2026 12:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-01"
@@ -841,20 +841,30 @@
   },
   {
     "source": "The Verge",
-    "title": "Google Earth’s AI deepfake tool only lasted one day",
-    "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]",
-    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-    "published": "2026-07-31T15:13:29-04:00",
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "published": "2026-08-01T14:20:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-01"
   },
   {
-    "source": "The Verge",
-    "title": "Google might launch a ‘Pixel Tag’",
-    "summary": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that describes the gadget as an item tracker with a speaker […]",
-    "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-    "published": "2026-07-31T14:27:24-04:00",
+    "source": "Hacker News",
+    "title": "Startup Game",
+    "summary": "would any one like a game that teaches you how to start a startup step by step? I am trying to come up with a game for that Comments URL: https://news.ycombinator.com/item?id=49134701 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=49134701",
+    "published": "Sat, 01 Aug 2026 14:20:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Don't Start a Travel Startup",
+    "summary": "Article URL: https://skift.com/2026/07/30/dont-start-a-travel-startup/ Comments URL: https://news.ycombinator.com/item?id=49133975 Points: 4 # Comments: 2",
+    "url": "https://skift.com/2026/07/30/dont-start-a-travel-startup/",
+    "published": "Sat, 01 Aug 2026 12:45:13 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-01"
@@ -1030,24 +1040,18 @@
     "fetchedAt": "2026-08-01"
   },
   {
-    "source": "Hacker News",
-    "title": "Mental health startup graveyard: an analysis of 542 dead companies, 2000–2026",
-    "summary": "Article URL: https://mentalium.me/en/research/mental-health-startup-graveyard/ Comments URL: https://news.ycombinator.com/item?id=49107879 Points: 3 # Comments: 0",
-    "url": "https://mentalium.me/en/research/mental-health-startup-graveyard/",
-    "published": "Thu, 30 Jul 2026 09:57:28 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#存储芯片利好来了#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23存储芯片利好来了%23",
+    "published": "2026-08-01",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms Comments URL: https://news.ycombinator.com/item?id=49104050 Points: 9 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
-    "published": "Wed, 29 Jul 2026 22:43:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-01"
+    "fetchedAt": "2026-08-01",
+    "meta": {
+      "hotValue": 103279,
+      "rank": 15
+    }
   },
   {
     "source": "V2EX",
@@ -1059,22 +1063,8 @@
     "type": "community",
     "fetchedAt": "2026-08-01",
     "meta": {
-      "replies": 35,
+      "replies": 36,
       "node": "深圳"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "离谱，这帮狗软件是如何突破 iOS 限制黑科技运行到我 iOS 进程的呀？这不跟安卓一样了吗？甚至还不如安卓？",
-    "summary": "![ProcFlowGG 截图](//share-text.org/api/imgUrlV2?text=share-text-uploads/2026-7-31/d5815877-7ac1-4218-94e5-c33dfa0058dc-ce27cd09519dbc0ad2633f5688ab523f.png) 手机是 iOS16.6.1 也就是巨魔最后一版，安装了一个 ProcFlowGG 的 巨魔工具可以查看到 iOS 进程，然后就发现如图一幕。。。 我可以确信，我已经是很小心的限制权限了，比如直接关闭了后台刷新，以及这些软件都没有通知提醒权限，并且大部分软件都已经一两周都没有运",
-    "url": "https://www.v2ex.com/t/1231328",
-    "published": 1785499764,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-01",
-    "meta": {
-      "replies": 27,
-      "node": "iPhone"
     }
   },
   {
@@ -1087,8 +1077,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-01",
     "meta": {
-      "stars": 7769,
-      "forks": 546,
+      "stars": 7822,
+      "forks": 558,
       "language": null,
       "createdDaysAgo": 5
     }
@@ -1103,10 +1093,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-01",
     "meta": {
-      "stars": 3514,
-      "forks": 323,
+      "stars": 4906,
+      "forks": 483,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   }
 ]
