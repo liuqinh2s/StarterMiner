@@ -86,10 +86,7 @@
         "fetchedAt": "2026-08-03",
         "website": {
           "website": "https://cursor.com",
-          "emails": [
-            "hi@cursor.com",
-            "frances@anysphere.co"
-          ],
+          "emails": [],
           "socials": {
             "twitter": "cursor_ai",
             "linkedin": "cursorai",
@@ -468,8 +465,8 @@
           "website": "https://buildhop.io",
           "emails": [],
           "socials": {
-            "twitter": "tinytechfox",
-            "linkedin": "clairewagner91"
+            "twitter": "thijs_smudde",
+            "linkedin": "thijs-smudde"
           },
           "careerPage": null,
           "jobListings": []
