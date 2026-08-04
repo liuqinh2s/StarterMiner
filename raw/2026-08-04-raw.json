@@ -32,7 +32,7 @@
   {
     "source": "36氪",
     "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
-    "summary": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。 今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常使用的三类ChatGPT工具中，图片上传排在搜索和数据分析之后，位列第三。 随着Agent开始生成网页、操作软件并检查运行结果，视觉的作用正在逐步进化：它不再只是用户交给模型的一张图片，也开始成为模型检查工作、发现错误和调整行动的反馈。 刚刚过去的7月，月之暗面发布Kimi K3。这款总参数2.8万亿、支持100万token上下文的MoE（混合专家模型），在Coding和长程Agent能力之外，出色的原生多模态能力是K3的另一个标签。 所谓原生多模态，是让图像、文字等数据从预训练或持续预训练阶段就共同塑造主模型，并在后训练中继续优化，最终",
+    "summary": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代��层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。 今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常使用的三类ChatGPT工具中，图片上传排在搜索和数据分析之后，位列第三。 随着Agent开始生成网页、操作软件并检查运行结果，视觉的作用正在逐步进化：它不再只是用户交给模型的一张图片，也开始成为模型检查工作、发现错误和调整行动的反馈。 刚刚过去的7月，月之暗面发布Kimi K3。这款总参数2.8万亿、支持100万token上下文的MoE（混合专家模型），在Coding和长程Agent能力之外，出色的原生多模态能力是K3的另一个标签。 所谓原生多模态，是让图像、文字等数据从预训练或持续预训练阶段就共同塑造主模型，并在后训练中继续优化，最",
     "url": "https://36kr.com/p/3924826666301831?f=rss",
     "published": "2026-08-04 14:32:05  +0800",
     "lang": "zh",
@@ -52,7 +52,7 @@
   {
     "source": "36氪",
     "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.2亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。 陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。 目前，陶世产品已进入富士康、蓝思科技、先导智能、凌云光等企业供应链，并在人形机器人领域与近百家机器人企业开展合作。其中，公司面向灵巧手推出的关节模组已签署10万台供货协议，客户包括灵心巧手、超维动力、绳肌妙算、中科硅纪等。 随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成超亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。 陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。 目前，陶世产品已进入多家消费电子与智能制造领域头部企业的供应链，并在人形机器人领域与近百家上下游企业建立合作。其中，面向灵巧手推出的关节模组已签署10万台供货协议，客户覆盖灵巧手产业链核心企业。 随着人形机器人进入产业化阶段，核心零部件供应链正在加速成熟。行业数据显示，人形机器人中执行器系统（电机、减速器、丝杠等）约占整机成本45%，传感器系统约占15%，两者合计超过60%。作为连接动力源与执行端的核心部件，减速器承担着动力传递和精度控制作用，直接影响机器人关节的力量、速度、稳定性和灵活性。目前，减速器也是机器人产业链国产替代的重要",
     "url": "https://36kr.com/p/3924628805351811?f=rss",
     "published": "2026-08-04 10:59:50  +0800",
     "lang": "zh",
@@ -81,70 +81,10 @@
   },
   {
     "source": "36氪",
-    "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
-    "summary": "图片1 今日A股收盘数据 上证指数：3809.66 点，-0.59% 深证成指：13448.29 点，-0.96% 创业板指：3302.55 点，-1.24% 德明利8月3日下跌9.56% 349.00 -36.90 -9.56% 当日开盘价373.94；交易量27.21万手； 换手率16.49%；缩量幅度0.36% 3日涨幅-1.57%；5日涨幅-13.10% 成交额：97.75亿；总市值：791.69亿 对于投资者来说，真正有价值的并不是股价下跌之后再去复盘，而是在市场情绪变化时，第一时间发现值得关注的信号。 这正是36氪企业全情报持续监测企业动态和舆情变化的价值所在。 更多德明利相关股价信息点击进入小程序查看 股价异动前，企业全情报已捕捉到市场关注事件 财联社7月31日消息，有投资者询问，网传德明利第五大股东李东璘近期爆仓致股价大跌是否属实，还问及公司高管是否履职尽责保护投资者，以及公司有无回购计划。德明利在互动平台回应，前十大股东信息会按规则在定期报告披露，5%以下股东个人股份处:置及融资事宜属股东自身事务，非公司法定披露范畴。公司保持与投资者沟通畅通，将结合自身情况审慎评估举",
-    "url": "https://36kr.com/p/3923603053686151?f=rss",
-    "published": "2026-08-03 17:44:31  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "36氪",
-    "title": "商业火箭独角兽星际荣耀完成E轮近10亿元首批交割",
-    "summary": "国内商业火箭独角兽星际荣耀航天科技集团股份有限公司（简称 “星际荣耀”）近期已完成E轮融资近10亿元首批资金交割，本轮投资方以多家银行系AIC机构为主，整体E轮募资工作仍在持续推进。据了解，本次E轮募集资金将重点投向双曲线三号可重复使用运载火箭研发与批产、焦点二号液氧甲烷发动机产能建设、发射及海上回收配套工程、重型运载火箭技术预研四大核心板块。资金落地将加速主力可回收液体火箭首飞进程，降低入轨发射成本，面向国内外各类星座运营商提供稳定、高频次、高性价比商业发射服务。（财联社）",
-    "url": "https://36kr.com/newsflashes/3925099056822660?f=rss",
-    "published": "2026-08-04 18:57:14  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "36氪",
-    "title": "“AIROBO”完成数亿元首轮融资，创机器人运营赛道最大首轮纪录",
-    "summary": "成立仅半年的全球机器人运营平台“AIROBO”今日宣布完成数亿元级首轮融资，融资款已全额交割，创下国内机器人运营赛道最大首轮融资纪录。本轮由多家产业资本、知名投资机构及战略合作方联合注资，重点投向城市级运营网络建设、社区物业场景落地及机器人世界模型体系研发。据透露，下一轮融资已获超额认购，料将近期启动。目前，AIROBO已签约绿城服务、龙湖智创生活等物业，在北、杭、成等地推进示范项目。",
-    "url": "https://36kr.com/newsflashes/3925093337692553?f=rss",
-    "published": "2026-08-04 18:51:25  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "36氪",
-    "title": "“恺望数据”完成逾亿元新一轮战略融资",
-    "summary": "8月4日，全链路AI数据基建科技公司“恺望数据”宣布完成逾亿元规模新一轮战略融资。本轮融资由北京亦庄产业升级基金、华方资本、天际资本多方联合领投，新鼎资本、迈睿资管、兴华鼎立等投资机构，松延动力、智元旗下觅蜂科技等具身智能公司跟投，亚盛资本、清智资本、璞跃资本等老股东追加投资。本轮融资将重点投向一体化数据交易平台研发、世界模型专项技术人才引进，以及进行深入商业、工业、家庭三大重点领域真实场景的规模化数据产能扩建，持续强化公司全链路数据服务核心能力。",
-    "url": "https://36kr.com/newsflashes/3925089016100995?f=rss",
-    "published": "2026-08-04 18:47:01  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "36氪",
-    "title": "矩子科技：取得金融机构不超1.44亿元回购股份专项融资支持",
-    "summary": "36氪获悉，矩子科技公告，公司已取得中信银行股份有限公司上海分行出具的《贷款承诺函》，承诺向公司提供金额最高不超过1.44亿元的股票回购专项贷款，期限不超过2年。",
-    "url": "https://36kr.com/newsflashes/3925084080896393?f=rss",
-    "published": "2026-08-04 18:42:00  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "36氪",
-    "title": "我国成功发射卫星互联网低轨23组卫星",
-    "summary": "北京时间8月4日16时52分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨23组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。（央视新闻）",
-    "url": "https://36kr.com/newsflashes/3925074330368129?f=rss",
-    "published": "2026-08-04 18:32:05  +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "36氪",
-    "title": "7月两融新开户13.94万户，同比增长12.78%",
-    "summary": "近日，中证数据有限责任公司披露，今年7月全市场两融新开户13.94万户，同比12.78%，环比下降22.12%。截至7月末，全市场融资融券账户总数达到1658.44万户。（证券时报）",
-    "url": "https://36kr.com/newsflashes/3925050850736518?f=rss",
-    "published": "2026-08-04 18:08:11  +0800",
+    "title": "Anthropic据悉与Volta达成100亿美元算力协议，满足AI需求增长",
+    "summary": "知情人士称，Anthropic PBC与成立仅数月的基础设施初创公司Volta Infra Holdings Ltd.达成一项价值100亿美元的算力协议，此举是这家Claude开发商为满足产品需求而采取的最新举措。知情人士表示，Anthropic已签署协议，将使用由英伟达支持的云基础设施初创公司Volta管理的数据中心。Volta周二早些时候宣布，已与一家未具名AI实验室达成一项价值100亿美元的协议，并将与运营数据中心的比特币矿企Bitdeer Technologies Group合作，利用位于挪威的设施。该协议为期六年。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3925367691524483?f=rss",
+    "published": "2026-08-05 07:10:20  +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-04"
@@ -251,6 +191,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】事关自动驾驶系统安全，强制性国标正式发布；央行今日将开展5000亿元买断式逆回购；申通快递被立案调查、鸿蒙智行回应“竹知了”事件",
+    "summary": "蚂蚁阿福辟谣1号位伟鹤调整：假消息；台积电1.4纳米工厂建设进度超前；蜂助手：全资子公司签署算力业务重大合同，总金额约76.7亿元；英伟达、思科、CrowdStrike等企业推动起草AI网络安全指南；中国成功发射卫星互联网低轨23组卫星；外媒：美国拟禁止进口中国新型数据中心设备。",
+    "url": "https://www.tmtpost.com/8091566.html",
+    "published": "Wed, 05 Aug 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-04"
+  },
+  {
+    "source": "钛媒体",
     "title": "智元发奖金，离职员工也有份——一份年中奖是补给站，不是分水岭",
     "summary": "智元机器人、人形机器人 、IPO 、人才激励 、离职员工、机器人赛道、具身智能。",
     "url": "https://www.tmtpost.com/8089876.html",
@@ -275,16 +225,6 @@
     "summary": "从制作流程到商业化路径，《奇谭》的探索证明，AI影视的发展并非简单替代传统影视，而是在人工创意与AI能力结合下，重新定义影视生产方式。",
     "url": "https://www.tmtpost.com/8090424.html",
     "published": "Tue, 04 Aug 2026 17:56:37 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "女首富又要上市，估值 225 亿，带弟弟干出“光学帝国”",
-    "summary": "立景创新递表港交所。",
-    "url": "https://www.tmtpost.com/8090915.html",
-    "published": "Tue, 04 Aug 2026 17:49:45 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-04"
@@ -611,70 +551,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "published": "Mon, 03 Aug 2026 20:00:00 +0000",
+    "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+    "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+    "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+    "published": "Tue, 04 Aug 2026 22:24:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
     "source": "TechCrunch",
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "published": "Mon, 03 Aug 2026 19:28:57 +0000",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "published": "Tue, 04 Aug 2026 19:48:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
     "source": "TechCrunch",
-    "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-    "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
-    "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-    "published": "Mon, 03 Aug 2026 17:16:43 +0000",
+    "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+    "published": "Tue, 04 Aug 2026 17:20:54 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
     "source": "TechCrunch",
-    "title": "Base Power raises another $1B to save the grid using backyard batteries",
-    "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
-    "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-    "published": "Mon, 03 Aug 2026 16:46:57 +0000",
+    "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+    "summary": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
+    "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+    "published": "Tue, 04 Aug 2026 17:05:48 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
     "source": "TechCrunch",
-    "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
-    "summary": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
-    "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-    "published": "Mon, 03 Aug 2026 16:29:30 +0000",
+    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+    "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
+    "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+    "published": "Tue, 04 Aug 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
-    "source": "TechCrunch",
-    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-    "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
-    "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-    "published": "Mon, 03 Aug 2026 12:50:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "published": "Mon, 03 Aug 2026 10:00:00 +0000",
+    "source": "TechNode",
+    "title": "TNGlobal Acquires Jumpstart Media, Strengthening Hong Kong’s Bridge to Asia’s Innovation Ecosystem",
+    "summary": "KUALA LUMPUR and HONG KONG — TNGlobal (formerly TechNode Global), one of Asia’s leading technology and startup media platforms, today announced the acquisition of Jumpstart Media, publisher of Hong Kong’s renowned Jumpstart Magazine. The acquisition marks a significant milestone in TNGlobal’s mission to build Asia’s most connected innovation media platform. By combining Jumpstart’s deep roots […]",
+    "url": "https://technode.com/2026/08/04/tnglobal-acquires-jumpstart-media-strengthening-hong-kongs-bridge-to-asias-innovation-ecosystem/",
+    "published": "Tue, 04 Aug 2026 12:10:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
@@ -870,31 +800,51 @@
     "fetchedAt": "2026-08-04"
   },
   {
-    "source": "TechNode",
-    "title": "Honor confirms August launch for Robot Phone with 4DoF gimbal",
-    "summary": "Honor has confirmed that its Robot Phone will launch in August, bringing a four-degree-of-freedom mechanical gimbal to the top of a smartphone. The titanium-alloy gimbal uses miniature motors, with a volume that is 70% smaller than mainstream solutions, according to the company. The phone will use Qualcomm’s Snapdragon 8 Elite Gen 5 chip and introduce […]",
-    "url": "https://technode.com/2026/07/24/honor-confirms-august-launch-for-robot-phone-with-4dof-gimbal/",
-    "published": "Fri, 24 Jul 2026 05:28:17 +0000",
+    "source": "The Verge",
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "published": "2026-08-04T13:33:46-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
-    "source": "The Verge",
-    "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
-    "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning horse races into a card game, showing that it's […]",
-    "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
-    "published": "2026-08-03T20:00:00-04:00",
+    "source": "Hacker News",
+    "title": "Show HN: I built a web app that turns customer complaints into startup ideas",
+    "summary": "Over this past weekend I built a web app called Blink Ideas. It finds customer complaints and feedback on places like HN, StackExchange, app store reviews, and more. Then it generates real startup solutions, scored with their investment opportunity based risk, market appeal, scalability, and other major factors. It provides a solution, MVP, and even competitor list to help you gain insights before building. Now more than ever, starting a business or building an app is the easy part. Creating som",
+    "url": "https://blink-ideas-web.onrender.com/",
+    "published": "Tue, 04 Aug 2026 23:19:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
   },
   {
-    "source": "The Verge",
-    "title": "Palworld’s expanding to mobile with a new MMORPG",
-    "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of the original PC survival creature-collecting title for mobile.\" The core […]",
-    "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-    "published": "2026-08-03T10:50:29-04:00",
+    "source": "Hacker News",
+    "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
+    "summary": "Article URL: https://twitter.com/i/status/2084739205071343837 Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 51 # Comments: 19",
+    "url": "https://twitter.com/i/status/2084739205071343837",
+    "published": "Tue, 04 Aug 2026 20:48:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+    "summary": "We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder ",
+    "url": "https://edotenv.com/",
+    "published": "Tue, 04 Aug 2026 18:36:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SoftBank's AI funding plans to face reckoning at earnings",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/softbanks-ai-funding-plans-face-061407936.html Comments URL: https://news.ycombinator.com/item?id=49172081 Points: 5 # Comments: 0",
+    "url": "https://finance.yahoo.com/technology/ai/articles/softbanks-ai-funding-plans-face-061407936.html",
+    "published": "Tue, 04 Aug 2026 17:30:56 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-04"
@@ -922,7 +872,7 @@
   {
     "source": "Hacker News",
     "title": "Don't start a startup with the goal of getting acquired",
-    "summary": "Article URL: https://www.raymondyxu.com/blog/dontStartAStartupToGetAcquired Comments URL: https://news.ycombinator.com/item?id=49161820 Points: 19 # Comments: 12",
+    "summary": "Article URL: https://www.raymondyxu.com/blog/dontStartAStartupToGetAcquired Comments URL: https://news.ycombinator.com/item?id=49161820 Points: 24 # Comments: 15",
     "url": "https://www.raymondyxu.com/blog/dontStartAStartupToGetAcquired",
     "published": "Mon, 03 Aug 2026 21:41:02 +0000",
     "lang": "en",
@@ -1022,7 +972,7 @@
   {
     "source": "Hacker News",
     "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-    "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 205 # Comments: 106",
+    "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 210 # Comments: 106",
     "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
     "published": "Mon, 03 Aug 2026 02:30:30 +0000",
     "lang": "en",
@@ -1060,60 +1010,6 @@
     "fetchedAt": "2026-08-04"
   },
   {
-    "source": "Hacker News",
-    "title": "Don't Start a Travel Startup",
-    "summary": "Article URL: https://skift.com/2026/07/30/dont-start-a-travel-startup/ Comments URL: https://news.ycombinator.com/item?id=49133975 Points: 4 # Comments: 2",
-    "url": "https://skift.com/2026/07/30/dont-start-a-travel-startup/",
-    "published": "Sat, 01 Aug 2026 12:45:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Proactive V Reactive; from a Startup Founder's Perspective",
-    "summary": "Article URL: https://blog.nathanlangley.dev/posts/proactive-ai.html Comments URL: https://news.ycombinator.com/item?id=49130097 Points: 2 # Comments: 0",
-    "url": "https://blog.nathanlangley.dev/posts/proactive-ai.html",
-    "published": "Sat, 01 Aug 2026 00:49:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "No Joke: Scientists Launch OnlyFans Account to Raise Money for Marmot Project",
-    "summary": "Article URL: https://cowboystatedaily.com/2026/07/30/scientists-turn-to-onlymarms-videos-of-marmots-on-onlyfans-to-help-fund-project/ Comments URL: https://news.ycombinator.com/item?id=49129418 Points: 2 # Comments: 0",
-    "url": "https://cowboystatedaily.com/2026/07/30/scientists-turn-to-onlymarms-videos-of-marmots-on-onlyfans-to-help-fund-project/",
-    "published": "Fri, 31 Jul 2026 22:50:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Why your AI startup dies at customer six (and the three-layer fix)",
-    "summary": "Article URL: https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six Comments URL: https://news.ycombinator.com/item?id=49127950 Points: 2 # Comments: 1",
-    "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
-    "published": "Fri, 31 Jul 2026 20:04:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-04"
-  },
-  {
-    "source": "微博",
-    "title": "#自动驾驶国标发布#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23自动驾驶国标发布%23",
-    "published": "2026-08-04",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-04",
-    "meta": {
-      "hotValue": 152563,
-      "rank": 43
-    }
-  },
-  {
     "source": "V2EX",
     "title": "智友社回馈 V 站新老客户，抽送第 5 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
     "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们",
@@ -1123,7 +1019,21 @@
     "type": "community",
     "fetchedAt": "2026-08-04",
     "meta": {
-      "replies": 67,
+      "replies": 77,
+      "node": "推广"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "“万一免五”低佣低两融老倔驴开户巨靠谱！ 抽 JBL GO4 动次打次～动次打次～动次打次～",
+    "summary": "每周一抽，码农值得拥有的精选好物，继续抽 JBL GO4..做个显眼包 > 一款极具性价比的超便携蓝牙音箱。它以巴掌大小的体积、扎实的低音表现、IP67 防水防尘等级以及长达 7-9 小时的续航获得市场高度评价，是户外运动、露营和随身携带的理想选择。 🎲 回复即可参与！ 回复超过 150 加抽一台！ --- ![]( https://i.v2ex.co/QBtu3KFy.png) ## 🎈奖品由 “开户找老倔驴巨靠谱，已助千人” 赞助 老倔驴聚合几十家券商优惠，连接 100+家营业部，已帮助 3000+ ，优势如下： - **费率保障：** 若",
+    "url": "https://www.v2ex.com/t/1231874",
+    "published": 1785801687,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-04",
+    "meta": {
+      "replies": 73,
       "node": "推广"
     }
   },
@@ -1137,10 +1047,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-04",
     "meta": {
-      "stars": 10677,
-      "forks": 1133,
+      "stars": 11114,
+      "forks": 1206,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "trycompai/crm",
+    "summary": "An open-source, agentic-first CRM.",
+    "url": "https://github.com/trycompai/crm",
+    "published": "2026-07-31T21:38:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-04",
+    "meta": {
+      "stars": 4618,
+      "forks": 488,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
     }
   }
 ]
