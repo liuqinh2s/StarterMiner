@@ -152,8 +152,8 @@
         "website": "https://buildhop.io",
         "emails": [],
         "socials": {
-          "twitter": "luckyPipewrench",
-          "linkedin": "joshua-waldrep-443753183"
+          "twitter": "justinhammon_",
+          "linkedin": "justinhammon"
         },
         "careerPage": null,
         "jobListings": []
@@ -494,11 +494,7 @@
       "website": {
         "website": "https://lovable.dev",
         "emails": [],
-        "socials": {
-          "twitter": "lovable",
-          "linkedin": "lovable-dev",
-          "github": "lovablelabs"
-        },
+        "socials": {},
         "careerPage": "https://lovable.dev/careers",
         "jobListings": []
       },
