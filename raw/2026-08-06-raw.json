@@ -81,10 +81,30 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】工信部印发民爆行业\"十五五\"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元",
+    "summary": "自变量已秘密递表，估值已突破200亿人民币｜独家；DeepSeek拟上调API服务定价；DeepSeek、腾讯等获宇树科技战略配售；第八代五粮液市场批价近日持续走强；专家辟谣“车市半年发了五六百款新车”；通宇通讯：佳贤通信与英伟达不存在研发合作关系；部分银行房贷利率降至“2字头”，有银行房贷利率低于2.8%；特斯拉与SpaceX拟在得州建设Terafab芯片工厂，初期投资168亿美元",
+    "url": "https://www.tmtpost.com/8094590.html",
+    "published": "Fri, 07 Aug 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "钛媒体",
+    "title": "宇树600亿上市，具身赛道有了定价之锚",
+    "summary": "它终结了具身智能赛道最大的一个悬念，一家具身公司，到底值多少钱？",
+    "url": "https://www.tmtpost.com/8094474.html",
+    "published": "Thu, 06 Aug 2026 20:33:44 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "钛媒体",
     "title": "独家｜自变量已秘密递表，第三代机器人将在Q4面市",
     "summary": "据投行人士称，目前排队等在港交所外的具身智能企业众多，自变量机器人是唯一一个主打全栈自研端到端具身模型的机器人厂商。",
     "url": "https://www.tmtpost.com/8094329.html",
-    "published": "Thu, 06 Aug 2026 18:35:55 +0800",
+    "published": "Thu, 06 Aug 2026 18:35:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-06"
@@ -115,6 +135,16 @@
     "summary": "千亿融资潮背后，是一场定价权赎回。",
     "url": "https://www.tmtpost.com/8091646.html",
     "published": "Thu, 06 Aug 2026 17:45:44 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "极客公园",
+    "title": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
+    "summary": "未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影像体验。 刘靖康说：「也可以认为这是一种 Camera Agent」。 产品形态大概率是多样的。因为哪怕「前轻」，不同出片场景里人们依然需要不一样的镜头、焦段以及第一人称、第三人称等不同拍摄形式。 和具身领域一样，目前距离让设备本体在通用场景里「自由移动」，仍有不小的挑战。但 Cameraman 未必需要一个「通用」的大脑，因为对于记录和分享生活而言，「审美在线」很大程度上比「聪明地执行标准化任务」更重要。 据刘靖康介绍，目前影石已经尝试通过云端为用户直接提供 AI 剪辑服务。收费标准是 6 元/条，前两个月的灰度测试已经完成了数十万条的剪辑，导出率（类似于视频生成的「抽卡率」）超过50%。 但这条路仍然走在早期。Camera Agent 不止是一个独立存在的个人或服务，它需要提升的不仅是自身的智能和审美，还有对于人类在物理世界里",
+    "url": "http://www.geekpark.net/news/368503",
+    "published": "Thu, 06 Aug 2026 20:52:10 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-06"
@@ -410,16 +440,6 @@
     "fetchedAt": "2026-08-06"
   },
   {
-    "source": "极客公园",
-    "title": "Google 投资《后室》片方 A24：AI 最难学会的，是别急着优化",
-    "summary": "作者｜Bryan 编辑｜靖宇 作为一个常年在硅谷看项目的风险投资人，我听创业公司讲产品时，几乎绕不开一个词：friction，摩擦。 付款多点一步，是 friction。程序员还得自己写测试，是 friction。销售花半天整理客户记录，也是 friction。找到它，再用软件把它消灭掉。过去二十年，硅谷的很多好生意，就是这么做出来的。 正如硅谷顶级风投机构 a16z 联合创始人 Marc Andreessen 那句名言：Software is eating the world。软件吞噬世界，往往就是从吞掉这些摩擦开始的。 这套办法在硅谷一直很好用。好用久了，人就容易手痒，看见什么都想优化一下。电影偏偏经不起这种热心。 今年 6 月， Google DeepMind 宣布与电影公司 A24 建立长期研究合作，并向其投资约 7500 万美元 。 成立于 2012 年的 A24，以开发独具文艺气息的小众电影见长。它的代表作包括奥斯卡最佳影片《月光男孩》和《瞬息全宇宙》、全球票房大卖的《至尊马蒂》，以及今年热映的恐怖片《后室》。14 年间，A24 早已把片厂名字做成品牌：A24 三个字，本身",
-    "url": "http://www.geekpark.net/news/367974",
-    "published": "Sat, 25 Jul 2026 23:55:53 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
     "source": "爱范儿",
     "title": "突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业",
     "summary": "模型延期、股价下跌、人才出走，谷歌迎来压力测试 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -471,90 +491,30 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
+    "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+    "published": "Thu, 06 Aug 2026 22:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
     "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-    "published": "Wed, 05 Aug 2026 22:55:43 +0000",
+    "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+    "published": "Thu, 06 Aug 2026 21:20:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-06"
   },
   {
     "source": "TechCrunch",
-    "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-    "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
-    "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-    "published": "Wed, 05 Aug 2026 21:26:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Why Lightspeed is going all-in on creator-led venture capital",
-    "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own notable hire in that vein, bringing on Claire Zau, a seed investor with a major following on Instagram and […]",
-    "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-    "published": "Wed, 05 Aug 2026 20:48:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "published": "Wed, 05 Aug 2026 20:05:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-    "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
-    "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-    "published": "Wed, 05 Aug 2026 17:02:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-    "summary": "This marks the official launch of Zoox's commercial operations.",
-    "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
-    "published": "Wed, 05 Aug 2026 15:06:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-    "summary": "Climate nonprofits can again access their federal funding more than a year after the Trump EPA ordered Citibank to freeze their accounts.",
-    "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-    "published": "Wed, 05 Aug 2026 14:40:13 +0000",
+    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+    "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+    "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+    "published": "Thu, 06 Aug 2026 19:02:57 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-06"
@@ -831,20 +791,230 @@
   },
   {
     "source": "The Verge",
-    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-    "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information […]",
-    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "published": "2026-08-06T05:33:11-04:00",
+    "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
+    "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Alex Cooper […]",
+    "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+    "published": "2026-08-06T17:15:47-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-06"
   },
   {
     "source": "The Verge",
-    "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "published": "2026-08-05T20:25:10-04:00",
+    "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "published": "2026-08-06T16:55:39-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "The Verge",
+    "title": "Suno shares plans to combat spammy AI music",
+    "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "published": "2026-08-06T13:39:43-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Challenger Launch Decision",
+    "summary": "Article URL: https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html Comments URL: https://news.ycombinator.com/item?id=49203815 Points: 2 # Comments: 1",
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html",
+    "published": "Thu, 06 Aug 2026 23:02:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html Comments URL: https://news.ycombinator.com/item?id=49202481 Points: 3 # Comments: 1",
+    "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "published": "Thu, 06 Aug 2026 21:00:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production. Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run ",
+    "url": "https://provenmetal.com",
+    "published": "Thu, 06 Aug 2026 15:59:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump Admin Hijacked $21B in Internet Access Funding and Then Went Mute",
+    "summary": "Article URL: https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/ Comments URL: https://news.ycombinator.com/item?id=49196930 Points: 8 # Comments: 1",
+    "url": "https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/",
+    "published": "Thu, 06 Aug 2026 14:09:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google's Top AI Brains Are Leaving–and Launching Their Own AI Startup",
+    "summary": "Article URL: https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/ Comments URL: https://news.ycombinator.com/item?id=49192090 Points: 2 # Comments: 0",
+    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "published": "Thu, 06 Aug 2026 03:30:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "TechCrunch Launch: Outernet turns your scrolling into IRL adventuring",
+    "summary": "Article URL: https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/ Comments URL: https://news.ycombinator.com/item?id=49190846 Points: 3 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+    "published": "Thu, 06 Aug 2026 00:22:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch own startups",
+    "summary": "Article URL: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/ Comments URL: https://news.ycombinator.com/item?id=49190400 Points: 2 # Comments: 2",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "published": "Wed, 05 Aug 2026 23:21:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have. All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause. Here is the link to ",
+    "url": "https://www.hyperprobe.co",
+    "published": "Wed, 05 Aug 2026 16:47:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic Inks $10B Computing Deal with New Startup Volta Park",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup Comments URL: https://news.ycombinator.com/item?id=49183773 Points: 6 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
+    "published": "Wed, 05 Aug 2026 14:48:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What's behind the $4B funding cut for California's high-speed rail?",
+    "summary": "Article URL: https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/ Comments URL: https://news.ycombinator.com/item?id=49183230 Points: 2 # Comments: 0",
+    "url": "https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/",
+    "published": "Wed, 05 Aug 2026 14:14:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Kernel Fusion in Nvidia CUDA: Optimizing Memory Traffic and Launch Overhead",
+    "summary": "Article URL: https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/ Comments URL: https://news.ycombinator.com/item?id=49180396 Points: 2 # Comments: 0",
+    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+    "published": "Wed, 05 Aug 2026 09:13:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding found for free meals in Seattle schools",
+    "summary": "Article URL: https://www.seattletimes.com/education-lab/funding-found-for-free-meals-in-seattle-schools/ Comments URL: https://news.ycombinator.com/item?id=49177787 Points: 2 # Comments: 0",
+    "url": "https://www.seattletimes.com/education-lab/funding-found-for-free-meals-in-seattle-schools/",
+    "published": "Wed, 05 Aug 2026 02:10:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Design cinematic mecha startup sequences in seconds",
+    "summary": "Article URL: https://reactorcore.itch.io/ignition-mecha-startup-sequence-maker Comments URL: https://news.ycombinator.com/item?id=49177157 Points: 1 # Comments: 0",
+    "url": "https://reactorcore.itch.io/ignition-mecha-startup-sequence-maker",
+    "published": "Wed, 05 Aug 2026 00:33:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Your next startup, ready in the blink of an eye",
+    "summary": "Over this past weekend I built a web app called Blink Ideas. It finds customer complaints and feedback on places like HN, StackExchange, app store reviews, and more. Then it generates real startup solutions, scored with their investment opportunity based risk, market appeal, scalability, and other major factors. It provides a solution, MVP, and even competitor list to help you gain insights before building. Now more than ever, starting a business or building an app is the easy part. Creating som",
+    "url": "https://blink-ideas-web.onrender.com/",
+    "published": "Tue, 04 Aug 2026 23:19:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+    "summary": "https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 314 # Comments: 234",
+    "url": "https://twitter.com/gwern/status/2084739205071343837",
+    "published": "Tue, 04 Aug 2026 20:48:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+    "summary": "We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder ",
+    "url": "https://edotenv.com/",
+    "published": "Tue, 04 Aug 2026 18:36:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SoftBank's AI funding plans to face reckoning at earnings",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/softbanks-ai-funding-plans-face-061407936.html Comments URL: https://news.ycombinator.com/item?id=49172081 Points: 5 # Comments: 0",
+    "url": "https://finance.yahoo.com/technology/ai/articles/softbanks-ai-funding-plans-face-061407936.html",
+    "published": "Tue, 04 Aug 2026 17:30:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Marketing 101",
+    "summary": "Article URL: https://skeptrune.substack.com/p/startup-marketing-101 Comments URL: https://news.ycombinator.com/item?id=49163975 Points: 1 # Comments: 0",
+    "url": "https://skeptrune.substack.com/p/startup-marketing-101",
+    "published": "Tue, 04 Aug 2026 03:05:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Launch – A Mac Script Launcher",
+    "summary": "Hi HN, I’ve made a Mac launcher that runs JS scripts. There are the usual scripts for opening applications and finding emojis, but you can also `cd` around and run scripts in the working folder (there are built-in scripts for copying, moving and deleting, and I’ve made my own custom scripts to e.g. clear out build artifacts). It’s kind of half launcher/half command line. - 100% Mac native - Your scripts live in ~/Launch (or another folder if you prefer) - You can connect to a Git backend (my scr",
+    "url": "https://staunchapps.com/launch/",
+    "published": "Mon, 03 Aug 2026 23:47:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-06"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Don't start a startup with the goal of getting acquired",
+    "summary": "Article URL: https://www.raymondyxu.com/blog/dontStartAStartupToGetAcquired Comments URL: https://news.ycombinator.com/item?id=49161820 Points: 26 # Comments: 16",
+    "url": "https://www.raymondyxu.com/blog/dontStartAStartupToGetAcquired",
+    "published": "Mon, 03 Aug 2026 21:41:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-06"
@@ -859,24 +1029,8 @@
     "type": "community",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "replies": 259,
-      "node": "程序员"
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "trycompai/crm",
-    "summary": "An open-source, agentic-first CRM.",
-    "url": "https://github.com/trycompai/crm",
-    "published": "2026-07-31T21:38:51Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-06",
-    "meta": {
-      "stars": 6876,
-      "forks": 697,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
+      "replies": 279,
+      "node": "推广"
     }
   },
   {
@@ -889,10 +1043,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 6254,
-      "forks": 297,
+      "stars": 8217,
+      "forks": 380,
       "language": "Rust",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "trycompai/crm",
+    "summary": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+    "url": "https://github.com/trycompai/crm",
+    "published": "2026-07-31T21:38:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-06",
+    "meta": {
+      "stars": 7177,
+      "forks": 742,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -905,8 +1075,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 2708,
-      "forks": 450,
+      "stars": 2820,
+      "forks": 470,
       "language": "C",
       "createdDaysAgo": 5
     }
@@ -921,10 +1091,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 2229,
-      "forks": 286,
+      "stars": 2291,
+      "forks": 292,
       "language": "HTML",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -937,8 +1107,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 1947,
-      "forks": 314,
+      "stars": 2036,
+      "forks": 337,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -953,8 +1123,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 1756,
-      "forks": 500,
+      "stars": 1856,
+      "forks": 532,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -969,10 +1139,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 1604,
-      "forks": 118,
+      "stars": 1700,
+      "forks": 122,
       "language": "Shell",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -985,8 +1155,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 1426,
-      "forks": 123,
+      "stars": 1555,
+      "forks": 137,
       "language": "Python",
       "createdDaysAgo": 1
     }
@@ -1001,8 +1171,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 1040,
-      "forks": 293,
+      "stars": 1303,
+      "forks": 346,
       "language": "Python",
       "createdDaysAgo": 1
     }
@@ -1017,8 +1187,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-06",
     "meta": {
-      "stars": 1034,
-      "forks": 70,
+      "stars": 1036,
+      "forks": 74,
       "language": "HTML",
       "createdDaysAgo": 4
     }
