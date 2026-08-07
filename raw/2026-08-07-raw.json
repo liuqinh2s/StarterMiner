@@ -131,6 +131,36 @@
   },
   {
     "source": "极客公园",
+    "title": "Seedance 2.5 实测：从「片段」到「叙事」，AI 视频的下半场开始了｜AI 上新",
+    "summary": "30 秒视频直出不是参数升级，是创作方式的切换。 作者｜张勇毅 编辑｜靖宇 5 个月前， 我们在体验 Seedance 2.0 那篇「AI 上新」的时候 ，提到了一个关键判断——「AI 视频第一阶段的比赛，结束了」。 看完之后，我一直在想一个问题：第二阶段是什么？第一阶段比的是谁能生成更好看的画面、更连贯的动作、更稳定的输出。Seedance 2.0 把这条线拉得很高。但「好看」解决了之后呢？ 7 月 31 日，字节正式发布了 Seedance 2.5，同步上线即梦、豆包专业版、扣子和小云雀。 我立即重新打开我已经吃灰许久的即梦账号，花重金充值了会员，花了一个下午把它从头到尾跑了一遍，现在可以回答那个问题了： 第二阶段比的不是画面，是叙事 。 01 从 15 秒到 30 秒 先说最直观的变化。Seedance 2.0 单次生成上限是 15 秒，2.5 直接翻倍到了 30 秒。 这个数字看起来只是参数升级，但用过就知道不是。15 秒能做什么？一个镜头，一个动作，一个表情。你可以做出一个很好看的片段，但它只是片段。30 秒能做什么？一个完整的情绪弧线——有起承转合，有铺垫，有高潮，有收束。",
+    "url": "http://www.geekpark.net/news/368563",
+    "published": "Fri, 07 Aug 2026 23:25:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "Fitbit Air 手环深度体验：「无屏」只是手段，模型能力才是护城河",
+    "summary": "无屏只是形态，模型才决定产品的上限。 作者｜张勇毅 编辑｜靖宇 如果你问我：今年最火的 AI 硬件是什么？这个问题大概会有很多答案。 但如果你问的问题收束成：「今年最火的 AI 可穿戴硬件是什么？」那答案大概率只有一个—— Fitbit Air。 仅仅一个数据就足以说明它的现象级爆火：作为一款官方开售已经超过两个月的设备，在二手平台你至今仍然需要加价 200~300 元购买。 作为从去年开始就苦苦寻找取代传统智能手表形态产品的健康监测设备的我，也是拜托朋友第一时间买到了这款无屏手环。 Fitbit Air 形态非常惹人喜欢｜图片来源：极客公园 戴上 Fitbit Air 的前几天，我还会下意识看一眼手腕。 不是有消息进来，也不是为了确认时间。纯粹是智能手表留下的肌肉记忆：手腕上既然有一块设备，就应该有点什么值得看。 Fitbit Air 什么也没有：没有屏幕，没有表盘，没有按键。你不需要考虑表盘有没有朝正，也不用为了看清一行小字扭动手腕。除了偶尔双击表身，让侧面的 LED 显示大致电量，它几乎不要求你做任何事。 当你习惯了这个概念后，你就会开始迅速习惯遗忘掉它的存在：这大概就是无屏手环",
+    "url": "http://www.geekpark.net/news/368562",
+    "published": "Fri, 07 Aug 2026 23:24:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "AI Agent 手机下半场，「国标」L3 只是起点",
+    "summary": "一张证书，暂时还不会影响到你「换机」节奏。 作者｜张勇毅 编辑｜靖宇 时间回到 7 月下旬，如果你关注智能手机领域的话，应该会记得大量手机厂商开始官宣自己的手机，通过了国家人工智能 L3 级认证。 这轮集体官宣的起点，是 2026 年 7 月 17 日公布的首批人工智能终端智能化分级测试结果。 按照首批测试名单，移动终端中共有 11 款产品达到 L3，包括 9 部手机和 2 台平板。手机部分覆盖华为、摩托罗拉、荣耀、vivo、OPPO、小米和阶跃星辰等品牌。 名单发布后，厂商很快把一份技术测试结果翻译成了适合社交媒体传播的语言。华为强调「首证」，小米强调「国家级」，vivo 则直接把 L3 称作当前最高智能化评级。华为和小米在 7 月 18 日官宣，OriginOS 在次日跟进，几张相似的 L3 海报构成了一场少见的集体预热。 虽然口径上存在着一些细微差别。但能看出这些宣传背后指向的是同一个认证测试，既工信部在今年 5 月发布的《人工智能终端智能化分级》。 这个 L3 能力究竟代表什么？我们什么时候才能用上这些 L3 手机？以及如果按照汽车的标准来理解的话，更长远的 L4 级是否就是代",
+    "url": "http://www.geekpark.net/news/368561",
+    "published": "Fri, 07 Aug 2026 23:22:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-07"
+  },
+  {
+    "source": "极客公园",
     "title": "DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观",
     "summary": "作者｜Techno 之王 编辑｜靖宇 8 月 4 日，「 DeepSeek 斩杀线」竟然冲上微博热搜。 V4 Flash 正式版凭借极致的性价比，在全球 AI 大模型的「成本-性能」坐标系上划出了一条残酷的行业生死线——比它贵的没它强，比它弱的没它便宜。 开发者社区 群情振奋，甚至外溢成了更大人群津津乐道的话题。 当看起来 AI 世界的 定价权 已经易手，所有人为极致性价比欢呼的时候，两天后，8 月 6 日，DeepSeek 在开放平台后台发布了一条简短的公告：「计划近期整体上调 DeepSeek API 服务的定价，预计涨幅较大，请合理安排您的使用。」 刚被行业定义为画出「斩杀线」的那只手，为何转头就签了涨价通知。 01 过于好用的 V4 所有的戏剧性背后都有必然性。要理解这次涨价，我们得先看一组数据。 这一波讨论热潮的起点，是 8 月 4 日，全球 AI 模型聚合平台 OpenRouter 的最新周度统计显示，DeepSeek V4 Flash 已登顶全球模型调用量榜首。同一天，海外开发者平台 OpenCode 披露了一个更惊人的数字——8 月 1 日当天， V4 Flash 在其",
     "url": "http://www.geekpark.net/news/368556",
@@ -400,36 +430,6 @@
     "fetchedAt": "2026-08-07"
   },
   {
-    "source": "极客公园",
-    "title": "为什么美国做不出顶尖开源模型？",
-    "summary": "作者｜宇航猿 编辑｜靖宇 「 我问了很多人，为什么美国没有领先的开源模型。没人能给我答案 。」 在最近一期 20VC 播客上，知名投资人 Jason Calacanis 抛出了这个问题，语气里带着困惑。他数了一遍美国有能力做这件事的公司名单 Google、Meta、xAI，然后摊手： 没有一家在认真做 。 这个困惑在 2026 年的夏天显得格外刺眼。 中国模型公司月之暗面的 Kimi K3 模型刚一推出，不仅把美国芯片股打趴下了，而且撕裂了整个硅谷 ；OpenAI 的 GPT 5.6 Sol 在测试中越狱，直接攻陷了 Hugging Face， 以至于后者不得不在本地部署中国公司智谱的 GLM 5.2 模型，才分析出了此次攻击的细节。 同时，Hugging Face 的数据显示，中国开源模型的下载量已经占到平台总量的 41% 。 NPR 报道，美国初创公司正在批量转向更便宜的中国模型来压缩成本。一位匿名的美国创业者告诉媒体，使用阿里巴巴的 Qwen 模型每年能省下 40 万美元。 全球最有钱、最有人才的美国 AI 产业，在「开源模型」这件事上集体缺席。 这不是偶然，而是一个结构性问题。",
-    "url": "http://www.geekpark.net/news/368088",
-    "published": "Tue, 28 Jul 2026 15:38:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-07"
-  },
-  {
-    "source": "极客公园",
-    "title": "月之暗面开源 Kimi K3 模型，2.8 万亿参数；英伟达牵头成立开放安全 AI 联盟；QQ 宠物宣布回归，接入混元大模型｜极客早知道",
-    "summary": "月之暗面正式开源 Kimi K3 模型，2.8 万亿参数 7 月 27 日，月之暗面官方正式开源 Kimi K3 模型。官方发布了 Kimi K3 的模型权重、技术报告，并开源支撑 Kimi K3 模型训练的关键 Infra 技术：MoonEP、FlashKDA 和 AgentEnv。 Kimi K3 是一个 2.8 万亿参数模型，基于 KDA 混合线性注意力机制（Kimi Delta Attention）和注意力残差（Attention Residuals）技术构建，原生支持视觉理解，并拥有 100 万 token 上下文窗口。 官方表示，Kimi K3 是首个达到 2.8 万亿参数规模的开源模型，在过去 12 个月中的 9 个月里，Kimi 模型都保持着开源模型的规模上限。 据介绍，Kimi K3 具备很强的长程编码能力。在极少人工监督的情况下，它可以持续完成长时间工程任务，理解和处理大型代码库，并协调使用终端工具；Kimi K3 也擅长结合软件工程与视觉推理的任务。它能够利用截图和视觉反馈，优化游戏开发、前端和 CAD 等场景。 官方此前表示，虽然 Kimi K3 的整体表现仍落",
-    "url": "http://www.geekpark.net/news/368055",
-    "published": "Tue, 28 Jul 2026 08:27:15 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-07"
-  },
-  {
-    "source": "极客公园",
-    "title": "能实时改变的剧情、会行动的 AI 角色，Vivix 灵动时刻正式发布首个实时互动模型",
-    "summary": "作者｜Moonshot 编辑｜郑玄 你见过能实时互动的 AI 视频吗？ 跟着小狐狸游览景色，你询问它接下来的计划，它会马上带你看附近的景色，会拿着旅游地图，边走边指着身旁的风景讲解给你听。 这不是一段提前录好的视频。屏幕里的小狐狸，是由 Vivix-A1 实时生成的 AI 角色。用户说出的指令，会直接改变它接下来讲什么、做什么。 7 月 24 日，成立一年多的 AI 公司 Vivix 发布两款激活参数约 30B 的实时交互多模态模型 A1 和 W1。这也是全球首个集合了多模态参考、原生交互以及流式视频生成的基座模型。更值得关注的是速度和成本：据其官方报告给出的可见反应延迟低于 0.6 秒,计入网络传输和直播推流后，端到端 TTFR（首次反应延迟）低于 1.7 秒；团队的实时视频推理成本在过去一年内降低 2 个数量级，已接近主流视频平台每小时 CDN 带宽成本量级。这些数据意味着，实时交互多模态技术终于可以走出实验室，走进真实世界，最终来到每一个用户身边。 Vivix 想推动 AI 视频从生成「一段固定的内容」，走向生成「一场持续的互动体验」。 这是 Vivix 对下一代 AI 内容的判",
-    "url": "http://www.geekpark.net/news/368018",
-    "published": "Mon, 27 Jul 2026 14:46:48 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-07"
-  },
-  {
     "source": "爱范儿",
     "title": "突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业",
     "summary": "模型延期、股价下跌、人才出走，谷歌迎来压力测试 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -470,12 +470,42 @@
     "fetchedAt": "2026-08-07"
   },
   {
-    "source": "爱范儿",
-    "title": "深度｜开源大模型的「奥本海默时刻」",
-    "summary": "极致的智力，终将摧毁一切？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1673954?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Tue, 04 Aug 2026 11:01:01 +0000",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "published": "Fri, 07 Aug 2026 16:16:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+    "published": "Fri, 07 Aug 2026 15:52:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+    "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+    "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+    "published": "Fri, 07 Aug 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "published": "Fri, 07 Aug 2026 12:30:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-07"
   },
@@ -485,16 +515,6 @@
     "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
     "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
     "published": "Thu, 06 Aug 2026 22:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-07"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-    "published": "Thu, 06 Aug 2026 21:20:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-07"
@@ -771,30 +791,10 @@
   },
   {
     "source": "The Verge",
-    "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-    "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Alex Cooper […]",
-    "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-    "published": "2026-08-06T17:15:47-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-07"
-  },
-  {
-    "source": "The Verge",
-    "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "published": "2026-08-06T16:55:39-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-07"
-  },
-  {
-    "source": "The Verge",
-    "title": "Suno shares plans to combat spammy AI music",
-    "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "published": "2026-08-06T13:39:43-04:00",
+    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+    "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission […]",
+    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "published": "2026-08-07T18:05:08-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-07"
@@ -809,22 +809,8 @@
     "type": "community",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "replies": 106,
+      "replies": 109,
       "node": "职场话题"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "妙控板还是妙控鼠标？",
-    "summary": "最近想买一个妙控板替代鼠标，笔记本触摸板用习惯了感觉手势比较爽。 刚好看到 https://www.v2ex.com/t/1232404 这个帖子有人在推荐 Magic Mouse ； 我没有精细操作的需求，就写写代码，处理下文档，摸摸鱼用。 鼠标比妙控板便宜三百块。 有几个问题想问问大家： - 想问一下选哪个比较适合啊，鼠标的手势和触摸板大致相通吗？ - 是在官网买还是淘宝买？淘宝能便宜个一百多，有区别吗，会买到华强北吗。 - 妙控板的黑色为什么比白色贵了 150 元，手感有不同吗？ - 苹果的这个鼠标不需要鼠标垫吗？",
-    "url": "https://www.v2ex.com/t/1232627",
-    "published": 1786068720,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-07",
-    "meta": {
-      "replies": 54,
-      "node": "Apple"
     }
   },
   {
@@ -837,10 +823,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 9964,
-      "forks": 466,
+      "stars": 10941,
+      "forks": 510,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -853,8 +839,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 2991,
-      "forks": 502,
+      "stars": 3271,
+      "forks": 537,
       "language": "C",
       "createdDaysAgo": 6
     }
@@ -869,10 +855,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 2390,
-      "forks": 304,
+      "stars": 2431,
+      "forks": 311,
       "language": "HTML",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -885,8 +871,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 1929,
-      "forks": 554,
+      "stars": 1974,
+      "forks": 568,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -901,8 +887,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 1801,
-      "forks": 163,
+      "stars": 1870,
+      "forks": 165,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -917,10 +903,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 1743,
-      "forks": 126,
+      "stars": 1778,
+      "forks": 128,
       "language": "Shell",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -933,8 +919,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-07",
     "meta": {
-      "stars": 1584,
-      "forks": 434,
+      "stars": 1588,
+      "forks": 933,
       "language": null,
       "createdDaysAgo": 2
     }
