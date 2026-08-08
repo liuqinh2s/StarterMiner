@@ -81,6 +81,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
+    "summary": "8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
+    "url": "https://www.tmtpost.com/8096463.html",
+    "published": "Sat, 08 Aug 2026 22:24:52 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "钛媒体",
     "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
     "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
     "url": "https://www.tmtpost.com/8096279.html",
@@ -451,6 +461,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
     "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
@@ -485,26 +505,6 @@
     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
     "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
     "published": "Fri, 07 Aug 2026 12:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
-    "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-    "published": "Thu, 06 Aug 2026 22:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-    "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
-    "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-    "published": "Thu, 06 Aug 2026 19:02:57 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-08"
@@ -771,10 +771,40 @@
   },
   {
     "source": "The Verge",
+    "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+    "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in […]",
+    "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+    "published": "2026-08-08T17:15:12-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "The Verge",
+    "title": "My favorite feel-good show is back",
+    "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, […]",
+    "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+    "published": "2026-08-08T08:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "The Verge",
     "title": "The gaming site sponsored by Walmart lays off its editorial staff",
     "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission […]",
     "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
     "published": "2026-08-07T18:05:08-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Checked my dashboard mid-launch and saw a referral I've never seen before",
+    "summary": "Article URL: https://www.rainydaygc.com Comments URL: https://news.ycombinator.com/item?id=49224680 Points: 2 # Comments: 0",
+    "url": "https://www.rainydaygc.com",
+    "published": "Sat, 08 Aug 2026 18:48:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-08"
@@ -960,14 +990,32 @@
     "fetchedAt": "2026-08-08"
   },
   {
-    "source": "Hacker News",
-    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-    "summary": "https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 316 # Comments: 235",
-    "url": "https://twitter.com/gwern/status/2084739205071343837",
-    "published": "Tue, 04 Aug 2026 20:48:17 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#刘亦菲下沉市场路人缘#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23刘亦菲下沉市场路人缘%23",
+    "published": "2026-08-08",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-08"
+    "fetchedAt": "2026-08-08",
+    "meta": {
+      "hotValue": 104032,
+      "rank": 11
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#89岁钟南山每周健身3次#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%2389岁钟南山每周健身3次%23",
+    "published": "2026-08-08",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-08",
+    "meta": {
+      "hotValue": 88216,
+      "rank": 46
+    }
   },
   {
     "source": "GitHub新星",
@@ -979,10 +1027,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-08",
     "meta": {
-      "stars": 11729,
-      "forks": 549,
+      "stars": 12093,
+      "forks": 578,
       "language": "Rust",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -995,8 +1043,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-08",
     "meta": {
-      "stars": 2006,
-      "forks": 580,
+      "stars": 2033,
+      "forks": 587,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -1011,25 +1059,9 @@
     "type": "signal",
     "fetchedAt": "2026-08-08",
     "meta": {
-      "stars": 1944,
-      "forks": 170,
+      "stars": 1986,
+      "forks": 174,
       "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Binaryify/open-kimi-ppt-skill",
-    "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-    "published": "2026-08-05T07:30:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-08",
-    "meta": {
-      "stars": 1589,
-      "forks": 1084,
-      "language": null,
       "createdDaysAgo": 3
     }
   }
