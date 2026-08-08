@@ -81,30 +81,30 @@
   },
   {
     "source": "钛媒体",
+    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
+    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
+    "url": "https://www.tmtpost.com/8096279.html",
+    "published": "Sat, 08 Aug 2026 18:17:45 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "钛媒体",
+    "title": "估值610亿元之后，宇树要卖多少台机器人？",
+    "summary": "如果宇树未来仍然主要依靠销售硬件，610亿元大概要每年卖出10万台以上。但如果宇树能把机器人变成“持续服务入口”，那可能就是另一个答案。",
+    "url": "https://www.tmtpost.com/8095572.html",
+    "published": "Sat, 08 Aug 2026 18:06:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "钛媒体",
     "title": "Shopify赢麻了",
     "summary": "Shopify的创始人说，亚马逊想构建一个帝国，而Shopify要做的，是为所有的叛军提供武器。",
     "url": "https://www.tmtpost.com/8096066.html",
     "published": "Sat, 08 Aug 2026 11:10:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "从PPT到生产线，巨头们跨过具身智能“理想国”",
-    "summary": "从技术崇拜走向价值落地。",
-    "url": "https://www.tmtpost.com/8095622.html",
-    "published": "Sat, 08 Aug 2026 09:58:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "年薪千万不如估值百亿，AI大神“看不上”大厂",
-    "summary": "AI大神从大厂出走。",
-    "url": "https://www.tmtpost.com/8095177.html",
-    "published": "Sat, 08 Aug 2026 09:52:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-08"
@@ -780,32 +780,194 @@
     "fetchedAt": "2026-08-08"
   },
   {
-    "source": "微博",
-    "title": "#投资或达8000亿元的芯片工厂来了#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23投资或达8000亿元的芯片工厂来了%23",
-    "published": "2026-08-08",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Startup Lumilens Raises $700M to Replace Data-Center Wires with Light",
+    "summary": "Article URL: https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358 Comments URL: https://news.ycombinator.com/item?id=49215985 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358",
+    "published": "Fri, 07 Aug 2026 20:41:44 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-08-08",
-    "meta": {
-      "hotValue": 138449,
-      "rank": 48
-    }
+    "fetchedAt": "2026-08-08"
   },
   {
-    "source": "V2EX",
-    "title": "抽奖：量产 AI 硬件的通讯协议和小程序源码全开源了，配合 AI 编程可以直接改成自己的产品",
-    "summary": "--- 先亮明身份：我是做硬件的（四博智联 DOIT ），这帖是广告 购买地址淘宝： https://item.taobao.com/item.htm?id=1068722425053 但下面链的东西是真开源，MIT 协议，不用注册不用留资，clone 下来就能编译。 GitHub: https://github.com/doit-open-org ## 一、开源了什么 不是开源某个玩具项目，是把已经量产、淘宝上能直接买到的几款设备，它们的通讯协议文档和微信小程序源码完整放了出来。 **esp32s3_chat_badge** —— 电子吧唧 Wi-F",
-    "url": "https://www.v2ex.com/t/1232693",
-    "published": 1786079882,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-08",
-    "meta": {
-      "replies": 27,
-      "node": "推广"
-    }
+    "source": "Hacker News",
+    "title": "LaunchUp: A New Community Helping Founders Get Discovered Beyond Launch Day",
+    "summary": "Article URL: https://www.launchup.club Comments URL: https://news.ycombinator.com/item?id=49209990 Points: 1 # Comments: 0",
+    "url": "https://www.launchup.club",
+    "published": "Fri, 07 Aug 2026 13:21:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Startup ideas from customer complaints, in seconds instead of months",
+    "summary": "I built an idea machine that finds customer complaints, reviews, and requests and turns them into real startup ideas. Now you don't have to keep building products or services that people don't use, no more guessing, just winning. These are real requests, from real potential customers, and they are grounded in their market appeal and competitive landscape. Comments URL: https://news.ycombinator.com/item?id=49204761 Points: 1 # Comments: 0",
+    "url": "https://blink-ideas-web.onrender.com/",
+    "published": "Fri, 07 Aug 2026 01:14:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "One Startup Built a (Mostly) China-Free Robot",
+    "summary": "Article URL: https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/ Comments URL: https://news.ycombinator.com/item?id=49204391 Points: 4 # Comments: 0",
+    "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "published": "Fri, 07 Aug 2026 00:10:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Quake: Dawn of the Machine – Launch Trailer [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2Uf4PcgE8gA Comments URL: https://news.ycombinator.com/item?id=49204077 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=2Uf4PcgE8gA",
+    "published": "Thu, 06 Aug 2026 23:32:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Challenger Launch Decision",
+    "summary": "Article URL: https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html Comments URL: https://news.ycombinator.com/item?id=49203815 Points: 2 # Comments: 1",
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html",
+    "published": "Thu, 06 Aug 2026 23:02:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html Comments URL: https://news.ycombinator.com/item?id=49202481 Points: 3 # Comments: 1",
+    "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "published": "Thu, 06 Aug 2026 21:00:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production. Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run ",
+    "url": "https://provenmetal.com",
+    "published": "Thu, 06 Aug 2026 15:59:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump Admin Hijacked $21B in Internet Access Funding and Then Went Mute",
+    "summary": "Article URL: https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/ Comments URL: https://news.ycombinator.com/item?id=49196930 Points: 8 # Comments: 1",
+    "url": "https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/",
+    "published": "Thu, 06 Aug 2026 14:09:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google's Top AI Brains Are Leaving–and Launching Their Own AI Startup",
+    "summary": "Article URL: https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/ Comments URL: https://news.ycombinator.com/item?id=49192090 Points: 3 # Comments: 0",
+    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "published": "Thu, 06 Aug 2026 03:30:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "TechCrunch Launch: Outernet turns your scrolling into IRL adventuring",
+    "summary": "Article URL: https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/ Comments URL: https://news.ycombinator.com/item?id=49190846 Points: 3 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+    "published": "Thu, 06 Aug 2026 00:22:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch own startups",
+    "summary": "Article URL: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/ Comments URL: https://news.ycombinator.com/item?id=49190400 Points: 2 # Comments: 2",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "published": "Wed, 05 Aug 2026 23:21:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have. All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause. Here is the link to ",
+    "url": "https://www.hyperprobe.co",
+    "published": "Wed, 05 Aug 2026 16:47:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic Inks $10B Computing Deal with New Startup Volta Park",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup Comments URL: https://news.ycombinator.com/item?id=49183773 Points: 6 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
+    "published": "Wed, 05 Aug 2026 14:48:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What's behind the $4B funding cut for California's high-speed rail?",
+    "summary": "Article URL: https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/ Comments URL: https://news.ycombinator.com/item?id=49183230 Points: 2 # Comments: 0",
+    "url": "https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/",
+    "published": "Wed, 05 Aug 2026 14:14:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Kernel Fusion in Nvidia CUDA: Optimizing Memory Traffic and Launch Overhead",
+    "summary": "Article URL: https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/ Comments URL: https://news.ycombinator.com/item?id=49180396 Points: 2 # Comments: 0",
+    "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+    "published": "Wed, 05 Aug 2026 09:13:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding found for free meals in Seattle schools",
+    "summary": "Article URL: https://www.seattletimes.com/education-lab/funding-found-for-free-meals-in-seattle-schools/ Comments URL: https://news.ycombinator.com/item?id=49177787 Points: 2 # Comments: 0",
+    "url": "https://www.seattletimes.com/education-lab/funding-found-for-free-meals-in-seattle-schools/",
+    "published": "Wed, 05 Aug 2026 02:10:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Design cinematic mecha startup sequences in seconds",
+    "summary": "Article URL: https://reactorcore.itch.io/ignition-mecha-startup-sequence-maker Comments URL: https://news.ycombinator.com/item?id=49177157 Points: 1 # Comments: 0",
+    "url": "https://reactorcore.itch.io/ignition-mecha-startup-sequence-maker",
+    "published": "Wed, 05 Aug 2026 00:33:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+    "summary": "https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 316 # Comments: 235",
+    "url": "https://twitter.com/gwern/status/2084739205071343837",
+    "published": "Tue, 04 Aug 2026 20:48:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-08"
   },
   {
     "source": "GitHub新星",
@@ -817,8 +979,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-08",
     "meta": {
-      "stars": 11228,
-      "forks": 521,
+      "stars": 11729,
+      "forks": 549,
       "language": "Rust",
       "createdDaysAgo": 4
     }
@@ -833,10 +995,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-08",
     "meta": {
-      "stars": 1991,
-      "forks": 572,
+      "stars": 2006,
+      "forks": 580,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -849,8 +1011,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-08",
     "meta": {
-      "stars": 1901,
-      "forks": 166,
+      "stars": 1944,
+      "forks": 170,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -866,9 +1028,9 @@
     "fetchedAt": "2026-08-08",
     "meta": {
       "stars": 1589,
-      "forks": 1028,
+      "forks": 1084,
       "language": null,
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   }
 ]
