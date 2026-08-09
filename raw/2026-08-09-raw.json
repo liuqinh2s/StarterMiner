@@ -81,6 +81,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo",
+    "summary": "腾讯WorkBuddy手机端实现与桌面端跨设备协同；于东来发文回应关闭胖东来许昌生活广场店；苹果中国官网删除Apple智能接入阿里千问手册；马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元；摩尔线程：筹划发行H股股票并在港交所主板上市；遭遇持续高温，韩国电力需求创今年新高",
+    "url": "https://www.tmtpost.com/8096820.html",
+    "published": "Mon, 10 Aug 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "钛媒体",
     "title": "935亿之后，具身智能的账该怎么算？",
     "summary": "头部企业在用产能数字互相较劲，而腰部以下的公司，很多已经三个月没听到过投资机构的电话了。这种分化不是坏事，反而是产业成熟的标志。只是对创业者来说，这个过程有点残酷。",
     "url": "https://www.tmtpost.com/8096557.html",
@@ -461,6 +471,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "summary": "The AI-focused hedge fund is still making some big bets.",
+    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+    "published": "Sun, 09 Aug 2026 16:05:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "TechCrunch",
     "title": "OpenAI acquires presentation startup NextSlide",
     "summary": "NextSlide says its team members are now working on ChatGPT.",
     "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
@@ -485,26 +515,6 @@
     "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
     "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
     "published": "Fri, 07 Aug 2026 15:52:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-    "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
-    "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-    "published": "Fri, 07 Aug 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-    "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "published": "Fri, 07 Aug 2026 12:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-09"
@@ -771,6 +781,16 @@
   },
   {
     "source": "The Verge",
+    "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
+    "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted […]",
+    "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+    "published": "2026-08-09T13:20:30-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "The Verge",
     "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
     "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in […]",
     "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
@@ -780,21 +800,201 @@
     "fetchedAt": "2026-08-09"
   },
   {
-    "source": "The Verge",
-    "title": "My favorite feel-good show is back",
-    "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, […]",
-    "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-    "published": "2026-08-08T08:00:00-04:00",
+    "source": "Hacker News",
+    "title": "A startup is able to detect fires within minutes using satellites and AI",
+    "summary": "Article URL: https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html Comments URL: https://news.ycombinator.com/item?id=49236903 Points: 2 # Comments: 0",
+    "url": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
+    "published": "Sun, 09 Aug 2026 22:35:56 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-09"
   },
   {
-    "source": "The Verge",
-    "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-    "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission […]",
-    "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-    "published": "2026-08-07T18:05:08-04:00",
+    "source": "Hacker News",
+    "title": "Show HN: YC Startup School, but AI-Native",
+    "summary": "Hi HN, YC Startup School is a great resource and was part of the inspiration. But I think right now, much of the startup education model became capable of actually working alongside a founder with AI agents. So I'm experimenting with what an AI-native version of Startup School. I'm looking for early users who are willing to try it and give me brutally useful feedback. At Foundera, our AI Agents can help you research a problem, challenge assumptions around an idea, validate the market, define mil",
+    "url": "https://foundera.app/",
+    "published": "Sun, 09 Aug 2026 13:04:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 48 # Comments: 17",
+    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "published": "Sun, 09 Aug 2026 13:03:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Equity Survival Guide: what can go wrong with your equity before an IPO",
+    "summary": "Article URL: https://github.com/huanghe/startup-equity-guide Comments URL: https://news.ycombinator.com/item?id=49228814 Points: 2 # Comments: 0",
+    "url": "https://github.com/huanghe/startup-equity-guide",
+    "published": "Sun, 09 Aug 2026 05:59:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Checked my dashboard mid-launch and saw a referral I've never seen before",
+    "summary": "Article URL: https://www.rainydaygc.com Comments URL: https://news.ycombinator.com/item?id=49224680 Points: 2 # Comments: 0",
+    "url": "https://www.rainydaygc.com",
+    "published": "Sat, 08 Aug 2026 18:48:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Lumilens Raises $700M to Replace Data-Center Wires with Light",
+    "summary": "Article URL: https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358 Comments URL: https://news.ycombinator.com/item?id=49215985 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358",
+    "published": "Fri, 07 Aug 2026 20:41:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "LaunchUp: A New Community Helping Founders Get Discovered Beyond Launch Day",
+    "summary": "Article URL: https://www.launchup.club Comments URL: https://news.ycombinator.com/item?id=49209990 Points: 1 # Comments: 0",
+    "url": "https://www.launchup.club",
+    "published": "Fri, 07 Aug 2026 13:21:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Startup ideas from customer complaints, in seconds instead of months",
+    "summary": "I built an idea machine that finds customer complaints, reviews, and requests and turns them into real startup ideas. Now you don't have to keep building products or services that people don't use, no more guessing, just winning. These are real requests, from real potential customers, and they are grounded in their market appeal and competitive landscape. Comments URL: https://news.ycombinator.com/item?id=49204761 Points: 1 # Comments: 0",
+    "url": "https://blink-ideas-web.onrender.com/",
+    "published": "Fri, 07 Aug 2026 01:14:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "One Startup Built a (Mostly) China-Free Robot",
+    "summary": "Article URL: https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/ Comments URL: https://news.ycombinator.com/item?id=49204391 Points: 4 # Comments: 0",
+    "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "published": "Fri, 07 Aug 2026 00:10:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Quake: Dawn of the Machine – Launch Trailer [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2Uf4PcgE8gA Comments URL: https://news.ycombinator.com/item?id=49204077 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=2Uf4PcgE8gA",
+    "published": "Thu, 06 Aug 2026 23:32:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Challenger Launch Decision",
+    "summary": "Article URL: https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html Comments URL: https://news.ycombinator.com/item?id=49203815 Points: 2 # Comments: 1",
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html",
+    "published": "Thu, 06 Aug 2026 23:02:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html Comments URL: https://news.ycombinator.com/item?id=49202481 Points: 3 # Comments: 1",
+    "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "published": "Thu, 06 Aug 2026 21:00:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production. Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run ",
+    "url": "https://provenmetal.com",
+    "published": "Thu, 06 Aug 2026 15:59:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump Admin Hijacked $21B in Internet Access Funding and Then Went Mute",
+    "summary": "Article URL: https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/ Comments URL: https://news.ycombinator.com/item?id=49196930 Points: 8 # Comments: 1",
+    "url": "https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/",
+    "published": "Thu, 06 Aug 2026 14:09:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google's Top AI Brains Are Leaving–and Launching Their Own AI Startup",
+    "summary": "Article URL: https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/ Comments URL: https://news.ycombinator.com/item?id=49192090 Points: 3 # Comments: 0",
+    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "published": "Thu, 06 Aug 2026 03:30:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "TechCrunch Launch: Outernet turns your scrolling into IRL adventuring",
+    "summary": "Article URL: https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/ Comments URL: https://news.ycombinator.com/item?id=49190846 Points: 3 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+    "published": "Thu, 06 Aug 2026 00:22:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch own startups",
+    "summary": "Article URL: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/ Comments URL: https://news.ycombinator.com/item?id=49190400 Points: 2 # Comments: 2",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "published": "Wed, 05 Aug 2026 23:21:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have. All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause. Here is the link to ",
+    "url": "https://www.hyperprobe.co",
+    "published": "Wed, 05 Aug 2026 16:47:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic Inks $10B Computing Deal with New Startup Volta Park",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup Comments URL: https://news.ycombinator.com/item?id=49183773 Points: 6 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
+    "published": "Wed, 05 Aug 2026 14:48:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What's behind the $4B funding cut for California's high-speed rail?",
+    "summary": "Article URL: https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/ Comments URL: https://news.ycombinator.com/item?id=49183230 Points: 2 # Comments: 0",
+    "url": "https://www.cbsnews.com/news/california-high-speed-rail-train-procurement-newsom/",
+    "published": "Wed, 05 Aug 2026 14:14:31 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-09"
@@ -809,10 +1009,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-09",
     "meta": {
-      "stars": 12428,
-      "forks": 605,
+      "stars": 12697,
+      "forks": 630,
       "language": "Rust",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -825,8 +1025,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-09",
     "meta": {
-      "stars": 2043,
-      "forks": 180,
+      "stars": 2093,
+      "forks": 186,
       "language": "Python",
       "createdDaysAgo": 4
     }
