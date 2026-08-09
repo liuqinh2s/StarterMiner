@@ -81,6 +81,36 @@
   },
   {
     "source": "钛媒体",
+    "title": "935亿之后，具身智能的账该怎么算？",
+    "summary": "头部企业在用产能数字互相较劲，而腰部以下的公司，很多已经三个月没听到过投资机构的电话了。这种分化不是坏事，反而是产业成熟的标志。只是对创业者来说，这个过程有点残酷。",
+    "url": "https://www.tmtpost.com/8096557.html",
+    "published": "Sun, 09 Aug 2026 16:32:55 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "钛媒体",
+    "title": "A股发展能力百强榜：谁还在持续打开增长空间？",
+    "summary": "这一结果显示，发展能力百强与规模实力榜呈现出完全不同的结构：大型银行、能源和基建企业不再占据主导，电子、通信、有色金属、机械设备和新能源企业成为主要力量。榜单更关注企业当前正在形成的增长斜率，而不是已经积累的资产体量。",
+    "url": "https://www.tmtpost.com/8096693.html",
+    "published": "Sun, 09 Aug 2026 16:10:49 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：涨停板的投资机会和风险提示（8月7日）｜上市公司观察",
+    "summary": "今日A股结构性分化显著，资金持续高低切换，整体呈现弃高追低、重价值轻投机的风格。市场涨停个股分为两大阵营：三只医药首板标的大幅折价、基本面扎实，超跌修复逻辑明确，具备避险配置价值；三只连板标的依托题材情绪炒作，估值大幅溢价、无基本面支撑，行情延续性极差。",
+    "url": "https://www.tmtpost.com/8096682.html",
+    "published": "Sun, 09 Aug 2026 16:10:32 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-09"
+  },
+  {
+    "source": "钛媒体",
     "title": "宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家",
     "summary": "610亿估值、203亿身家、171人造富，宇树上市如何锚定一个行业？",
     "url": "https://www.tmtpost.com/8096400.html",
@@ -90,41 +120,11 @@
     "fetchedAt": "2026-08-09"
   },
   {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（8月9日）",
-    "summary": "谷歌创始人回归写代码，AI战略从研究优先转向产品驱动；Backflip AI以100倍成本坍塌撬动制造业数字化；英伟达与CoreWeave押注亚美尼亚，AI基础设施转向能源地缘。Gemini隐私争议、数字所有权信任崩塌、微软AI侵入邮件无关闭，引发用户信任危机。",
-    "url": "https://www.tmtpost.com/8096504.html",
-    "published": "Sun, 09 Aug 2026 08:28:08 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-09"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
-    "summary": "8月8日，“Link-X Demo Day 2026（创新项目展示日）——Spark Moment·灵光一闪”活动在北京中关村国际技术交易中心举行。",
-    "url": "https://www.tmtpost.com/8096463.html",
-    "published": "Sat, 08 Aug 2026 22:24:52 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-09"
-  },
-  {
-    "source": "钛媒体",
-    "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
-    "summary": "（8月3日-8日）“AI支出巨浪”很快消退？资深策略师“捕捉”到两大危险信号；谷歌人工智能领导层重大调整：AI元老效力27年后离职，DeepMind创始人转任首席科学家；阿里Qwen3.8正式发布，编程与办公再进化；自变量已秘密递表，估值已突破200亿人民币...",
-    "url": "https://www.tmtpost.com/8096279.html",
-    "published": "Sat, 08 Aug 2026 18:17:45 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-09"
-  },
-  {
-    "source": "钛媒体",
-    "title": "估值610亿元之后，宇树要卖多少台机器人？",
-    "summary": "如果宇树未来仍然主要依靠销售硬件，610亿元大概要每年卖出10万台以上。但如果宇树能把机器人变成“持续服务入口”，那可能就是另一个答案。",
-    "url": "https://www.tmtpost.com/8095572.html",
-    "published": "Sat, 08 Aug 2026 18:06:50 +0800",
+    "source": "极客公园",
+    "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+    "summary": "浏览器是功能，不是目的地。 作者｜张勇毅 编辑｜靖宇 2025 年 10 月 21 日，OpenAI 发布自己的 AI 原生浏览器 Atlas 的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome 杀手」。 OpenAI 自研 AI Agent 浏览器 ChatGPT Atlas 于 2025 年 10 月发布｜图片来源：OpenAI 官号 那是手握八亿周活的 OpenAI 第一次入口级出手，不少人相信，统治了互联网三十年的浏览器，终于等来了换代时刻。 甚至 OpenAI 要发布浏览器的消息，还在硅谷引发了一阵不大不小的产品抢发潮：许多致力于开发 AI 浏览器的大小厂团队为了避免自己的心血被 OpenAI 彻底淹没，选择提前发布他们的产品，事实上促成了 2025 年的一阵 AI 浏览器热潮。 为了推广自家 AI 浏览器，OpenAI 还曾用赠送 ChatGPT 额度的方式推销｜图片来源：X 292 天后，2026 年 8 月 9 日，Atlas 停止运行。 这 292 天里，Chrome 的全球份额还是那个三分之二。而围攻者这一边，Arc 停更，Sidekick 关停，The",
+    "url": "http://www.geekpark.net/news/368579",
+    "published": "Sun, 09 Aug 2026 12:28:04 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-09"
@@ -415,16 +415,6 @@
     "summary": "作者｜苏子华 编辑｜靖宇 上周，Kickstarter 上出现了一款现象级的爆品——全球首款桌面级全彩 3D&UV 打印机 G1X ，24 小时内销售额 722 万美元，约人民币 5000 万。不到一周，金额已经达到 1000 万美元。 极客公园了解到，很多在线下提前见过实物的人，给出了极其高的评价： 这可能是消费级 3D 打印的「Game Changer」。 一些用 G1X 打印的产品图流出后，有人质疑这是假的。我们先直接展示几个打印实物的拍摄效果吧： G1X 的机器长这样，体积不大，可以放在书桌上： G1X 真机｜图片来源：黑格科技 G1X 的出现， 打破了大众对于「3D 打印」的固有印象 。过去，3D 打印仍然意味着单调的颜色、层层堆叠的塑料模型、粗糙的表面和「玩具感」的作品。而 G1X 能够直接制造 全彩商品级 的产品。 它代表的是和「 拓竹 」完全不同的路线，而前者可能是行业的未来。 简单讲，消费级 3D 打印一直有四大技术路线：FDM（多色）和光固化（单色），以及材料喷射（全彩）、金属等因为成本问题无法普及的高端流派。 FDM 多色路线的代表企业是「拓竹」。而另一条「光固化",
     "url": "http://www.geekpark.net/news/368150",
     "published": "Wed, 29 Jul 2026 16:54:25 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-09"
-  },
-  {
-    "source": "极客公园",
-    "title": "硅谷的「AI 加速精英」，开始真正担心他们造出了「天网」",
-    "summary": "作者｜桦林舞王 编辑｜靖宇 「我们可能需要调节 AI 发展的节奏，给社会足够的时间，来应对这些新的能力等级。」 说出这句话的不是伦理学家，不是政客，而是 Sam Altman——全球最激进地推动 AI 前沿的那个人。 7 月 28 日，在播客 Invest Like the Best 中， 他用了一个不常见的词来形容自己对近期 OpenAI 入侵 Hugging Face 安全事件的感受：「viscerally」——发自内心的震动 。 Pacing the Frontier 公开信网站于 7 月 28 日上线｜图片来源：Pacing the Frontier 同一天，一封名为「Pacing the Frontier」的公开信网站悄然上线。 1134 名来自前沿 AI 公司的员工签下了自己的名字。签名者包括 OpenAI 首席科学家 Jakub Pachocki、Anthropic CEO Dario Amodei、Meta AI 首席科学家 Shengjia Zhao。 他们请求美国政府支持一项国际协调努力，为自动化 AI 研发的推进速度设定「刹车机制」。 这不是硅谷第一次喊「AI 慢",
-    "url": "http://www.geekpark.net/news/368144",
-    "published": "Wed, 29 Jul 2026 16:04:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-09"
@@ -810,20 +800,6 @@
     "fetchedAt": "2026-08-09"
   },
   {
-    "source": "微博",
-    "title": "#刘亦菲下沉市场路人缘#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23刘亦菲下沉市场路人缘%23",
-    "published": "2026-08-09",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-09",
-    "meta": {
-      "hotValue": 355895,
-      "rank": 12
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "firecrawl/anydoc",
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -833,8 +809,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-09",
     "meta": {
-      "stars": 12214,
-      "forks": 588,
+      "stars": 12428,
+      "forks": 605,
       "language": "Rust",
       "createdDaysAgo": 5
     }
@@ -849,8 +825,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-09",
     "meta": {
-      "stars": 1997,
-      "forks": 175,
+      "stars": 2043,
+      "forks": 180,
       "language": "Python",
       "createdDaysAgo": 4
     }
