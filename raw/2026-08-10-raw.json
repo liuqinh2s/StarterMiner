@@ -91,10 +91,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "中一签或赚35万，这可能是今年最难中的新股",
-    "summary": "“科创板90后首富”要诞生了。",
-    "url": "https://www.tmtpost.com/8097743.html",
-    "published": "Mon, 10 Aug 2026 17:34:47 +0800",
+    "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
+    "summary": "宇树科技：科创板IPO网上发行最终中签率0.0181%；英特尔宣布拟议的150亿美元普通股发行计划；Meta发布轻量化AI模型，单张显卡即可运行；花旗Q2持仓市值突破3000亿美元，大举增持半导体产业链；7月IPO注册批文创年内单月新高，北交所占比过半；近200家硅谷初创企业反对限制中国开源模型；《煤炭工业发展“十五五”规划》、《生态保护“十五五”规划》印发",
+    "url": "https://www.tmtpost.com/8098284.html",
+    "published": "Tue, 11 Aug 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "钛媒体",
+    "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
+    "summary": "易主折戟，对于公司目前的实控人来说，迫在眉睫的问题是如何脱离亏损泥沼",
+    "url": "https://www.tmtpost.com/8098227.html",
+    "published": "Mon, 10 Aug 2026 20:48:29 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "极客公园",
+    "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
+    "summary": "作者｜连冉 编辑｜郑玄 我们正在悄然进入一个「打字越来越少」的时代。 过去，语音只是键盘输入的补充：开车时发消息、开会时记笔记，它是「不方便打字时的替代方案」；但现在，语音正在成为人机交互的核心入口之一—— 有人用语音写完一天的工作文档，有人靠语音驱动 AI 写完代码，甚至有产品从诞生起就没有打字框，全程靠说话完成所有操作。 这股「语音原生」的浪潮，也已经从用户习惯渗透到了一级市场。 海外 AI 语音输入工具 Wispr 半年估值翻近三倍逼近 20 亿美元，用户规模同比暴涨超百倍；从主打私密输入的 AI 语音戒指，到全场景语音交互助手，国内初创公司融资消息接连不断，2026 年第一季度全球语音 AI 赛道融资总额已超 70 亿美元。 当语音可以直接产出工作成果、触发完整业务流程的生产力入口，整个赛道的竞争逻辑也正在被改写。海外已经跑出了 ElevenLabs 这样估值超百亿美金的全链路语音平台，而国内市场还缺少一个真正意义上的语音生产力基建级产品。 8 月 7 日，阿里巴巴推出国内首个 AI 语音生产力平台 CosyVoice Studio ，整合开放语音识别、语音合成、实时语音交互三",
+    "url": "http://www.geekpark.net/news/368638",
+    "published": "Mon, 10 Aug 2026 20:41:27 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -390,16 +410,6 @@
     "fetchedAt": "2026-08-10"
   },
   {
-    "source": "极客公园",
-    "title": "顶配预售价 30 万元，小米澎程不当「红米汽车」",
-    "summary": "小米终于进入了主流 SUV 这个正面「战场」。 过去两年，凭借着 SU7、YU7 两款现象级的爆款单品，小米进入汽车领域的首轮战役可谓风卷残云。累计交付超过 70 万台新车，汽车业务快速实现盈亏平衡。 但这两款车，其实并没有进入竞争最激烈的主流市场——SU7、YU7 的成功，和它们在相对小众的细分领域里差异化竞争力的战略思路不无关系。 而全新的澎程系列，从设计思路、目标用户再到市场定位，都和前两款车截然不同： 设计是前者的重要标签，无论配色、外形还是内饰语言，都做到了行业标杆；但澎程系列则要求「先做空间，再用空间撑起外形」。前者瞄准了「悦己」的用户群体，后者希望突破的，显然是更挑剔的家庭市场。 这是小米第一次进入中国汽车市场过去 3-5 年增长最快，也是竞争最激烈的增程 SUV 市场。 7 月 30 日，在小米澎程技术发布会上，雷军用近 2 小时的时间，较为详细地解释了小米对这个全新系列 SUV 的定义过程，并发布了其中两款车型的预售价格： 其中， 三排七座的小米澎程 N90 Max，预售价为 29.99 万元；而两排五座的小米澎程 N70 Max，预售价为 24.99 万元 。 值得",
-    "url": "http://www.geekpark.net/news/368196",
-    "published": "Fri, 31 Jul 2026 00:39:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
     "summary": "· 苹果测试长鑫存储芯片，拟用于中国市场 iPhone 和 MacBook · SpaceX 收购 Cursor 临近落地 · Pixel 11 Pro 真机曝光：沙丘色、哑光黑，改用圆形长焦开孔 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -421,6 +431,46 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Now Rippling is counter-suing tiny startup Runlayer",
+    "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+    "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+    "published": "Mon, 10 Aug 2026 22:26:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+    "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+    "published": "Mon, 10 Aug 2026 21:20:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+    "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state.",
+    "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+    "published": "Mon, 10 Aug 2026 15:22:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "summary": "The AI-focused hedge fund is still making some big bets.",
     "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -435,36 +485,6 @@
     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
     "published": "Sun, 09 Aug 2026 16:05:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-    "published": "Fri, 07 Aug 2026 15:52:33 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -711,20 +731,70 @@
   },
   {
     "source": "The Verge",
-    "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
-    "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted […]",
-    "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-    "published": "2026-08-09T13:20:30-04:00",
+    "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+    "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and perhaps a brand […]",
+    "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+    "published": "2026-08-10T13:30:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-10"
   },
   {
     "source": "The Verge",
-    "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-    "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in […]",
-    "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-    "published": "2026-08-08T17:15:12-04:00",
+    "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
+    "summary": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, which matches the lowest price we’ve seen occur a few […]",
+    "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
+    "published": "2026-08-10T10:27:23-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Instant Ruby Deployment – Heroku's 2009 launch blog",
+    "summary": "Article URL: https://adam.herokuapp.com/past/2009/3/9/instant_ruby_deployment/ Comments URL: https://news.ycombinator.com/item?id=49250045 Points: 1 # Comments: 0",
+    "url": "https://adam.herokuapp.com/past/2009/3/9/instant_ruby_deployment/",
+    "published": "Mon, 10 Aug 2026 21:32:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX plan for rocket launch site on Louisiana coast sparks backlash",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash Comments URL: https://news.ycombinator.com/item?id=49248518 Points: 4 # Comments: 0",
+    "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
+    "published": "Mon, 10 Aug 2026 19:28:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "South Korea to launch $3.5B chip fund, speed development of semiconductor hubs",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/south-koreas-lee-wants-military-airbase-relocated-by-mid-2028-chip-cluster-2026-08-10/ Comments URL: https://news.ycombinator.com/item?id=49247730 Points: 1 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-wants-military-airbase-relocated-by-mid-2028-chip-cluster-2026-08-10/",
+    "published": "Mon, 10 Aug 2026 18:30:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa ( https://www.stoaexchange.com ), a marketplace for new and used GPUs and AI servers. GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute. If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral. The lender’s ",
+    "url": "https://www.stoaexchange.com",
+    "published": "Mon, 10 Aug 2026 16:35:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Research: Mental health startup graveyard v1.2. 542 dead companies.",
+    "summary": "Article URL: https://mentalium.me/en/research/mental-health-startup-graveyard-v1-2/ Comments URL: https://news.ycombinator.com/item?id=49243070 Points: 2 # Comments: 1",
+    "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-v1-2/",
+    "published": "Mon, 10 Aug 2026 13:02:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -732,7 +802,7 @@
   {
     "source": "Hacker News",
     "title": "Germany Sets New Six-Month Startup Record",
-    "summary": "Article URL: https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048 Comments URL: https://news.ycombinator.com/item?id=49241942 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048 Comments URL: https://news.ycombinator.com/item?id=49241942 Points: 31 # Comments: 4",
     "url": "https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048",
     "published": "Mon, 10 Aug 2026 10:42:26 +0000",
     "lang": "en",
@@ -742,7 +812,7 @@
   {
     "source": "Hacker News",
     "title": "Digitvest – Buy ready-to-launch SaaS businesses with integrated payments",
-    "summary": "Article URL: https://digitvest.com/en Comments URL: https://news.ycombinator.com/item?id=49241460 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://digitvest.com/en Comments URL: https://news.ycombinator.com/item?id=49241460 Points: 2 # Comments: 0",
     "url": "https://digitvest.com/en",
     "published": "Mon, 10 Aug 2026 09:41:09 +0000",
     "lang": "en",
@@ -752,7 +822,7 @@
   {
     "source": "Hacker News",
     "title": "Ask HN: How do you set comp at an early stage startup?",
-    "summary": "Primarily curious about product and engineering Comments URL: https://news.ycombinator.com/item?id=49237839 Points: 2 # Comments: 1",
+    "summary": "Primarily curious about product and engineering Comments URL: https://news.ycombinator.com/item?id=49237839 Points: 4 # Comments: 4",
     "url": "https://news.ycombinator.com/item?id=49237839",
     "published": "Mon, 10 Aug 2026 00:31:55 +0000",
     "lang": "en",
@@ -880,84 +950,6 @@
     "fetchedAt": "2026-08-10"
   },
   {
-    "source": "Hacker News",
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production. Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run ",
-    "url": "https://provenmetal.com",
-    "published": "Thu, 06 Aug 2026 15:59:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump Admin Hijacked $21B in Internet Access Funding and Then Went Mute",
-    "summary": "Article URL: https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/ Comments URL: https://news.ycombinator.com/item?id=49196930 Points: 8 # Comments: 1",
-    "url": "https://www.techdirt.com/2026/08/06/trump-admin-hijacked-21-billion-in-taxpayer-money-earmarked-for-internet-access-and-then-went-mute/",
-    "published": "Thu, 06 Aug 2026 14:09:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google's Top AI Brains Are Leaving–and Launching Their Own AI Startup",
-    "summary": "Article URL: https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/ Comments URL: https://news.ycombinator.com/item?id=49192090 Points: 3 # Comments: 0",
-    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-    "published": "Thu, 06 Aug 2026 03:30:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "TechCrunch Launch: Outernet turns your scrolling into IRL adventuring",
-    "summary": "Article URL: https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/ Comments URL: https://news.ycombinator.com/item?id=49190846 Points: 3 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-    "published": "Thu, 06 Aug 2026 00:22:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch own startups",
-    "summary": "Article URL: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/ Comments URL: https://news.ycombinator.com/item?id=49190400 Points: 2 # Comments: 2",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "published": "Wed, 05 Aug 2026 23:21:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "微博",
-    "title": "#多位大疆员工离职后创业成功#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23多位大疆员工离职后创业成功%23",
-    "published": "2026-08-10",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-10",
-    "meta": {
-      "hotValue": 1118977,
-      "rank": 6
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "你们的车还能卖多少钱？",
-    "summary": "感觉最近几年，车的价格下降的很厉害，你们的油车、新能源都还值多少钱。会准备开到报废吗？ 我 17 年的速腾，落地快 15W ，24 年 4.1W 卖给个人（车商 3.5W 收）。 24 年的领克 08 ，落地 20W ，现在估计 12W 左右",
-    "url": "https://www.v2ex.com/t/1233286",
-    "published": 1786349417,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-10",
-    "meta": {
-      "replies": 81,
-      "node": "问与答"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "KKKKhazix/human-writing",
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -967,8 +959,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-10",
     "meta": {
-      "stars": 2211,
-      "forks": 194,
+      "stars": 2271,
+      "forks": 198,
       "language": "Python",
       "createdDaysAgo": 5
     }
