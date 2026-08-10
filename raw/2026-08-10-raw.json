@@ -91,20 +91,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "宇树科技上市，具身智能开始第一次“清场”",
-    "summary": "从资本到市场，再到产业链、政策支持，这是具身智能厂商最好的时间窗口，也是弯道超车的机会。宇树科技的上市，是具身智能阶段性的高潮，也意味着行业竞争即将进入更残酷的阶段。",
-    "url": "https://www.tmtpost.com/8097114.html",
-    "published": "Mon, 10 Aug 2026 10:59:06 +0800",
+    "title": "中一签或赚35万，这可能是今年最难中的新股",
+    "summary": "“科创板90后首富”要诞生了。",
+    "url": "https://www.tmtpost.com/8097743.html",
+    "published": "Mon, 10 Aug 2026 17:34:47 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-10"
   },
   {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（8月10日）",
-    "summary": "英特尔250亿晶圆厂因以色列军费挪用停摆，芯片产能受地缘政治冲击。LLM可观测性平台市场达26.9亿美元，LangSmith、Langfuse等四阵营竞争。AI原生Git托管SmolForge重构开发者工具。开源Meetily以本地运行挑战会议AI收费。Meta CTO拒绝用AI效率换取休假，硅谷红利分配规则显露。",
-    "url": "https://www.tmtpost.com/8096942.html",
-    "published": "Mon, 10 Aug 2026 09:37:27 +0800",
+    "source": "极客公园",
+    "title": "顶尖 AI 人才，不敢结婚",
+    "summary": "作者｜宇航猿 编辑｜靖宇 在一期科技播客 No Priors 里，硅谷知名投资人 Elad Gil 随口提到一件事，让人心里一沉。 他说自己认识一些顶级 AI 实验室的研究员，这些人最近在认真讨论一个问题——「 我该不该结婚 ？」不是因为感情出了状况，而是因为他们觉得： 18 个月后，世界可能就不一样了 。 AI 可能实现递归自我改进，届时人类研究员将不再被需要。既然未来不确定，那婚姻还有意义吗？ Elad 的搭档、投资人 Sarah Guo 听完后说了一个词——tragic（悲剧性的）。她把这种心态类比为「人们觉得自己快要死了」的状态。 不是肉体死亡，而是作为一个有价值的智识工作者，职业生命的死亡。 这不是段子，是 2026 年，全球最聪明的一批人正在经历的精神状态。 01 恐慌的 AI 人才 过去半年，AI 行业出现了一波罕见的「出走潮」。 和以往的跳槽不同，这些人离开时，带着的不是更好的 offer，而是一封封措辞沉重的公开信。 2026 年 2 月 9 日，Anthropic 安全研究团队负责人 Mrinank Sharma 在 X 上发布辞职信，写道「世界正处于危险之中」。这",
+    "url": "http://www.geekpark.net/news/368625",
+    "published": "Mon, 10 Aug 2026 16:32:52 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "极客公园",
+    "title": "美国本土直播带货，长出一头 200 亿美元「巨兽」",
+    "summary": "作者｜Wildcard 编辑｜靖宇 当直播带货，在中国已经近乎成为网民购物基本操作时候，习惯了 Copy From China 的硅谷大厂，不是没动心过。 2022 年 10 月，Facebook 关闭了直播购物功能。五个月后，Instagram 跟进。Amazon Live 则更惨，被行业分析师评价为「内容质量令人尴尬，大多数用户甚至不知道它的存在」。 硅谷大厂一系列失败，得出一个结论—— 直播电商在美国做不起来。 中国有李佳琦和 4.5 万亿的直播电商 GMV，而美国消费者就是不买账。这个结论放在 2022 年底看，是合理的。 但四年之后的今天，一家从洛杉矶出租屋里长出来的直播电商公司 Whatnot，刚刚完成了 5.45 亿美元的 G 轮融资，估值 200 亿美元。在欧美直播电商市场，这家名不见经传的创业公司，已经占据了 60% 的份额，是绝对的霸主。 更可怕的是，Whatnot 上 用户日均观看时长超过 80 分钟！ 那些说美国做不了直播电商的人，显然说错了。但更值得追问的是，美国最终跑出来的赢家，为什么跟中国版本长得完全不一样？ 01 美国版「得物」开局 Whatnot 的创",
+    "url": "http://www.geekpark.net/news/368627",
+    "published": "Mon, 10 Aug 2026 16:31:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -390,26 +400,6 @@
     "fetchedAt": "2026-08-10"
   },
   {
-    "source": "极客公园",
-    "title": "美国，封杀了中国扫地机",
-    "summary": "作者｜Techno 之王 编辑｜靖宇 这世界，有时候疯癫得超过任何人的想象。 当地时间 7 月 29 日，美国联邦通信委员会（FCC）正式宣布，将外国制造的「先进机器人设备」和连接式逆变器加入其「受限清单」（Covered List）。 消息一出，所有人的注意力都在人形机器人上——毕竟，这正是硅谷最火的赛道，波士顿动力的四足机器人、Figure 的人形机器人，画面感十足。 但真正被这条禁令「扫」到的，是一个谁都没想到的品类——扫地机器人。 FCC 媒体关系总监 Katie Gorscak 向美国媒体确认，扫地机器人确实在禁令覆盖范围内。 一条本意针对人形机器人的国家安全禁令，意外命中了全球最普及的消费级机器人品类。更重要的问题是，美国是重要的海外市场，中国扫地机器人公司，要如何应对？ 「机器人」的定义问题 事情要从 FCC 对「先进机器人设备」的定义说起。 根据 FCC 的标准，只要一个设备同时满足以下条件，就算作「先进机器人设备」——由软件控制的自主机器人，能够感知周围环境，重量超过 2 公斤（约 4.4 磅，含充电基站），在地面移动，并具备无线连接功能。 把这五条标准逐一对照，你会",
-    "url": "http://www.geekpark.net/news/368187",
-    "published": "Thu, 30 Jul 2026 17:13:12 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "极客公园",
-    "title": "三星二季度利润同比增长 18 倍；Deepmind 拆散重组诺奖项目团队；Hugging Face 披露 AI 入侵全过程报告",
-    "summary": "OpenAI 称 7 月年化收入继续走高，正面临 Anthropic 与开源模型双重竞争 7 月 30 日消息，据 CNBC 今日报道，OpenAI 首席财务官萨拉 · 弗里亚尔（Sarah Friar）在当地时间 7 月 29 日举行的一场内部员工会议上透露，公司 7 月份的年化经常性收入（ARR）已超过整个第二季度的任一一个月。OpenAI 第二季度表现并不弱，而 7 月收入增长势头进一步增强。 此举旨在向员工传递公司业务仍保持增长态势的信息，也需要向外部投资者证明其高达 8520 亿美元（现汇率约合 5.78 万亿元人民币）的估值具备支撑，因为 OpenAI 正在为可能进行的大规模首次公开募股（IPO）做准备。 OpenAI 方面认为，增长动能主要来自 GPT-5.6 系列模型的发布、新款企业级智能体 ChatGPT Work，以及 AI 编程工具 Codex 的采用率持续上升。 与此同时，竞争对手 Anthropic 的增长势头强劲。今年 5 月，Anthropic 的年化收入运行率已突破 470 亿美元。 OpenAI 和 Anthropic 均已于 6 月向美国证券交易委员",
-    "url": "http://www.geekpark.net/news/368160",
-    "published": "Thu, 30 Jul 2026 08:51:29 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
     "summary": "· 苹果测试长鑫存储芯片，拟用于中国市场 iPhone 和 MacBook · SpaceX 收购 Cursor 临近落地 · Pixel 11 Pro 真机曝光：沙丘色、哑光黑，改用圆形长焦开孔 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -425,26 +415,6 @@
     "summary": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Sat, 08 Aug 2026 00:52:06 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "爱范儿",
-    "title": "突发｜谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业",
-    "summary": "模型延期、股价下跌、人才出走，谷歌迎来压力测试 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1673985?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 06 Aug 2026 02:18:38 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "爱范儿",
-    "title": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
-    "summary": "· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片 · Anthropic 组建 Claude 芯片设计团队 · 宇树科技科创板 IPO 开启初步询价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1674104?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 06 Aug 2026 00:41:27 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -495,6 +465,16 @@
     "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
     "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
     "published": "Fri, 07 Aug 2026 15:52:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple says mainland China has not launched Qwen integration after Mac guide disappears",
+    "summary": "Apple customer service told Chinese media that mainland China has not launched an “Apple Intelligence with Qwen” feature after a Chinese-language Mac support guide mentioning the integration disappeared from Apple’s website. The guide appeared on Aug. 8 and said Apple Intelligence could work with Alibaba’s Qwen model. Apple customer service said it had not received […]",
+    "url": "https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
+    "published": "Mon, 10 Aug 2026 07:23:12 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -730,36 +710,6 @@
     "fetchedAt": "2026-08-10"
   },
   {
-    "source": "TechNode",
-    "title": "China’s AMEC targets more than 100 high-end semiconductor equipment types within five years",
-    "summary": "China’s AMEC plans to expand its portfolio to more than 100 types of high-end semiconductor equipment within five years through in-house development and external acquisitions. Founder and chairman Yin Zhiyao made the remarks at the company’s 22nd anniversary event on Aug. 1. AMEC said it has developed 54 types of high-end semiconductor equipment, including 26 […]",
-    "url": "https://technode.com/2026/08/03/chinas-amec-targets-more-than-100-high-end-semiconductor-equipment-types-within-five-years/",
-    "published": "Mon, 03 Aug 2026 04:42:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "TechNode",
-    "title": "Shanghai registers 11 more generative AI services, taking total to 211",
-    "summary": "Shanghai added 11 generative AI services to its completed registration list on Aug. 3, bringing the city’s cumulative total to 211, according to information released by the Shanghai cyberspace authority. The update is a regulatory milestone rather than a model or app launch. It shows the continued expansion of Shanghai’s registered generative AI service pool, […]",
-    "url": "https://technode.com/2026/08/03/shanghai-registers-11-more-generative-ai-services-taking-total-to-211/",
-    "published": "Mon, 03 Aug 2026 04:41:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
-    "source": "TechNode",
-    "title": "Shanghai-based BCI startup raises RMB330 million in record-setting angel round",
-    "summary": "Shanghai-based brain-computer interface startup Active Technology (our translation of 主动科技, the company’s Chinese name) has completed a RMB330 million angel round, setting a record for angel financing in China’s brain-computer interface sector. The company focuses on invasive brain-computer interface technology and was established in February 2026. The round was led by Zhongke Chuangxing, with Lenovo […]",
-    "url": "https://technode.com/2026/08/03/shanghai-based-bci-startup-raises-rmb330-million-in-record-setting-angel-round/",
-    "published": "Mon, 03 Aug 2026 04:39:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
-  },
-  {
     "source": "The Verge",
     "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
     "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted […]",
@@ -775,6 +725,26 @@
     "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in […]",
     "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
     "published": "2026-08-08T17:15:12-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Germany Sets New Six-Month Startup Record",
+    "summary": "Article URL: https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048 Comments URL: https://news.ycombinator.com/item?id=49241942 Points: 1 # Comments: 0",
+    "url": "https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048",
+    "published": "Mon, 10 Aug 2026 10:42:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Digitvest – Buy ready-to-launch SaaS businesses with integrated payments",
+    "summary": "Article URL: https://digitvest.com/en Comments URL: https://news.ycombinator.com/item?id=49241460 Points: 1 # Comments: 0",
+    "url": "https://digitvest.com/en",
+    "published": "Mon, 10 Aug 2026 09:41:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-10"
@@ -812,7 +782,7 @@
   {
     "source": "Hacker News",
     "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-    "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 51 # Comments: 18",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 52 # Comments: 17",
     "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
     "published": "Sun, 09 Aug 2026 13:03:49 +0000",
     "lang": "en",
@@ -960,24 +930,32 @@
     "fetchedAt": "2026-08-10"
   },
   {
-    "source": "Hacker News",
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-    "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have. All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause. Here is the link to ",
-    "url": "https://www.hyperprobe.co",
-    "published": "Wed, 05 Aug 2026 16:47:15 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#多位大疆员工离职后创业成功#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23多位大疆员工离职后创业成功%23",
+    "published": "2026-08-10",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-10"
+    "fetchedAt": "2026-08-10",
+    "meta": {
+      "hotValue": 1118977,
+      "rank": 6
+    }
   },
   {
-    "source": "Hacker News",
-    "title": "Anthropic Inks $10B Computing Deal with New Startup Volta Park",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup Comments URL: https://news.ycombinator.com/item?id=49183773 Points: 6 # Comments: 1",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup",
-    "published": "Wed, 05 Aug 2026 14:48:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-10"
+    "source": "V2EX",
+    "title": "你们的车还能卖多少钱？",
+    "summary": "感觉最近几年，车的价格下降的很厉害，你们的油车、新能源都还值多少钱。会准备开到报废吗？ 我 17 年的速腾，落地快 15W ，24 年 4.1W 卖给个人（车商 3.5W 收）。 24 年的领克 08 ，落地 20W ，现在估计 12W 左右",
+    "url": "https://www.v2ex.com/t/1233286",
+    "published": 1786349417,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-10",
+    "meta": {
+      "replies": 81,
+      "node": "问与答"
+    }
   },
   {
     "source": "GitHub新星",
@@ -989,8 +967,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-10",
     "meta": {
-      "stars": 2141,
-      "forks": 189,
+      "stars": 2211,
+      "forks": 194,
       "language": "Python",
       "createdDaysAgo": 5
     }

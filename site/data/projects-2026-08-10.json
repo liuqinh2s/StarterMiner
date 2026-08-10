@@ -466,7 +466,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "justinhammon"
+            "linkedin": "will-ballentine-a34908222"
           },
           "careerPage": null,
           "jobListings": []
@@ -8624,8 +8624,18 @@
           "website": "https://www.termark.app",
           "emails": [],
           "socials": {},
-          "careerPage": null,
-          "jobListings": []
+          "careerPage": "https://www.termark.app/careers",
+          "jobListings": [
+            "Termark - The Cross-Platform SSH Client for Modern Developers",
+            "\"applicationCategory\": \"DeveloperApplication\",",
+            "androidBetaDataUrl: 'https://f.next-terminal.com/termark-android/beta.json',",
+            "AI assistant",
+            "Short videos showing how Termark feels in terminal, file transfer, AI, and external tool workflows.",
+            "AI Agent",
+            "Let AI follow your terminal context",
+            "aria-label=\"Termark AI Agent workflow demo\">",
+            "'AI assistant with terminal context and command confirmation',"
+          ]
         },
         "github": {},
         "hiring": [],
