@@ -131,6 +131,26 @@
   },
   {
     "source": "极客公园",
+    "title": "AI 硬件都在做加法，阅星曈靠一块「减法屏」拿下近 5000 万融资",
+    "summary": "头图来源：阅星曈 极客公园获悉，超便携电子纸品牌阅星曈近期完成一笔接近 5000 万元的 A 轮追加融资，由顺为资本、经纬创投、博裕创投和小红书四家老股东继续投资。 此前在今年 4 月，阅星曈曾对外披露，自天使轮至 A 轮累计完成五轮、总额超过亿元的融资。公司方面称，此次近 5000 万元是滚动融资中近期完成的一笔 A 轮交割。资金将主要用于提前锁定电子纸屏幕和产能、研发新硬件、改善软件交互、探索 AI 能力，以及拓展内容版权和海外市场。 过去两年，AI 硬件普遍在做加法：加入麦克风、摄像头、更多传感器和更大的模型，希望设备能够听见、看见并主动理解用户。 阅星曈目前获得市场反馈的产品，却是一块功能克制的电子纸。它没有开放的应用商店，没有短视频和信息流，也没有一套需要被反复强调的 AI 功能。它只是磁吸在手机背面，让用户在地铁上、排队时或睡觉前读几页内容。 但阅星曈也开始尝试把 AI 接入这套原本克制的产品体系。按照创始人兼 CEO 胡宇沸的介绍，公司正在测试一套由云端、手机 App 和电子纸设备组成的三端架构，已经调通部分 Agent-to-Agent 测试。 按照胡宇沸的设想，AI ",
+    "url": "http://www.geekpark.net/news/368690",
+    "published": "Tue, 11 Aug 2026 21:00:26 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "极客公园",
+    "title": "对话格式塔彭雷：AI 的下一站，是解读人的大脑",
+    "summary": "过去半年，脑机接口行业同时踩下了几脚油门。 2026 年 1 月，Neuralink 宣布全球临床试验参与者增至 21 人。从 2024 年完成首例人体植入，到将试验扩展至多个国家，侵入式脑机接口正在越过单个患者的演示阶段。 同一个月，OpenAI 成为 Merge Labs 约 2.5 亿美元种子轮融资中的最大出资方。这家由 Sam Altman 联合创办的公司没有继续沿用电极，转而把筹码押在超声上，希望在不开颅的情况下读取和调控大脑。 另一条经血管植入路线上的 Synchron，也完成了 2 亿美元 D 轮融资，资金将用于关键性试验和商业化准备。 国内市场也迅速升温。公开统计显示，2026 年一季度国内脑机接口领域发生 17 起融资，金额约 38 亿元，单季规模已经超过 2025 年全年。7 月，成立仅半年多的格式塔又完成 4.2 亿元天使+轮融资，两轮累计融资接近 1 亿美元。 钱为什么迅速涌向一个临床周期漫长、商业模式仍未完全跑通的行业？ 一个直接答案是，脑机接口终于开始从实验室进入真实患者。更深一层的变化在于，这个行业的想象力正在越过「用意念控制光标」：当 AI 从语言模型走",
+    "url": "http://www.geekpark.net/news/368694",
+    "published": "Tue, 11 Aug 2026 21:00:08 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "极客公园",
     "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
     "summary": "作者｜张鹏 整理｜ 徐珊 世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World Labs 发布 Marble，NVIDIA 用 Cosmos 拉起联盟，国内的大厂与创业公司也在密集进场。让 AI 理解物理世界，已经是今年的主流方向。 但模型智能的上限，最终取决于喂给它的数据。 语言模型和视频模型的成长，都建立在互联网三十年的积累上；而这一次，世界模型的牌桌上，没有任何一家的数据够得到训练基础模型所需的量级。 行业不是没有努力。从遥操到第一视角采集，具身公司都在重金投入数据。但在影溯科技创始人兼董事长、浙江大学求是特聘教授 章国锋看来，这些方式像伐木和挖石油，有价值但却要时间积累，耗时耗力。真正能支撑训练数据能源应该像阳光，无处不在、取之不竭。 唯一够得到互联网量级的，其实就藏在人人每天刷过的视频里，这也是他眼中真正的「阳光」。视频的每一帧里，其实都藏着这个世界的运动、物理的规律。3D数据一直都在，只是从没有人能把它取出来。 从阳光中获得能量，给 3D 世界造一块「太阳能板」，正是影溯在做的事。它要把海量视频数据转化成能直接训练",
     "url": "http://www.geekpark.net/news/368667",
@@ -390,26 +410,6 @@
     "fetchedAt": "2026-08-11"
   },
   {
-    "source": "极客公园",
-    "title": "AIGC 的中场，我们需要创作领域的「Codex」",
-    "summary": "作者｜Moonshot 编辑｜郑玄 最近，影视飓风开始进入 AI 影视赛道，选择与 TapNow 推出一套 AI 影像创作教程。 一套教程的出现，本身就是个信号，它说明 AI 影像正在走出「展示奇观」的阶段，开始形成可以被讲解、学习和复用的创作方法。 被教程吸引进来的，也未必都是准备拍电影的人。 车企、游戏公司和消费品牌都在增加视频内容的使用：产品发布需要概念片，游戏上线需要世界观短片，市场部门则要持续生产品牌视频、更新社交媒体。 对这些团队来说，AI 影像正在从一项新技术，变成工作里可以调用的制作能力。 但真正开始做视频以后，问题很快就从「怎么生成」变成了「怎么把视频做下去」。 一条完整的视频还要经过创意开发、视觉设定、分镜、素材生成、修改和剪辑。视频一旦从十秒左右的镜头走向完整作品，人物、场景和前后决定都要保持连续，原本分散在不同工具里的问题也会同时出现。 观众看到的是一条视频，但创作者面对的是一个项目。AI 影像已经不缺会生成的工具，缺的是一套能把项目做完的系统。 为此，TapNow 推出了 Creative OS，并将其定位为「世界首个 AI 原生创作系统」，平台的创作者们也把",
-    "url": "http://www.geekpark.net/news/368267",
-    "published": "Fri, 31 Jul 2026 18:07:42 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-11"
-  },
-  {
-    "source": "极客公园",
-    "title": "无人机加了条腿，跳出了一个新硬件品类",
-    "summary": "越来越多的具身技术正先一步外溢到消费电子领域，包括这款会跳的机器人。 作者｜Li Yuan 编辑｜ 郑玄 会飞的无人机，我们见过。 会跳舞的人形机器人，我们也见过。 但你见过，行走方式纯粹靠跳的机器人吗？ 近期极客公园了解到，眺月科技正在做这样一款硬件——长得像无人机加了条腿。为了让世界认识跳跃机，他们年底将发布第一款遥控产品，瞄准的是穿越机发烧友和科技潮玩爱好者。 不管是机器狗还是人形机器人，腿脚再灵活，通常也迈不过比自己还高的坎。 这台机器不一样，原型机能跳到 2 米高，是自身高度的好几倍 ，人形、四足机器人过不去的障碍，它一跃而过，实在跨不过的沟壑，甚至可以直接飞过去，扛着它直接去野外玩也没问题。 这款硬件被定义成了一个新品类，他们给它起了个自己的名字，跳跃机，英文 hopcopter。 在它之前，已经有机器人能连续跳了——2016 年伯克利做的 Salto 就是个例子，但结构复杂，没法量产。 眺月科技的 CEO 王方正是个 99 年的年轻人，博士在香港城市大学就读。 在读博士期间，同实验室的师兄解决了这个问题：把整台会跳的机器抽象成一根弹簧——弹簧绕支点旋转、压缩、伸展，正是人",
-    "url": "http://www.geekpark.net/news/368257",
-    "published": "Fri, 31 Jul 2026 16:16:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-11"
-  },
-  {
     "source": "爱范儿",
     "title": "大模型开始卷「越狱」了",
     "summary": "是骡子是马，让它自己越狱出来看看 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -451,60 +451,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+    "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+    "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+    "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+    "published": "Tue, 11 Aug 2026 21:39:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
   },
   {
     "source": "TechCrunch",
-    "title": "Now Rippling is counter-suing tiny startup Runlayer",
-    "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
-    "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
-    "published": "Mon, 10 Aug 2026 22:26:54 +0000",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "published": "Tue, 11 Aug 2026 19:15:35 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
   },
   {
     "source": "TechCrunch",
-    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
-    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
-    "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
-    "published": "Mon, 10 Aug 2026 21:20:04 +0000",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "published": "Tue, 11 Aug 2026 17:41:22 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
   },
   {
     "source": "TechCrunch",
-    "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-    "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state.",
-    "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-    "published": "Mon, 10 Aug 2026 15:22:42 +0000",
+    "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+    "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
+    "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+    "published": "Tue, 11 Aug 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
   },
   {
     "source": "TechCrunch",
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-11"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "summary": "The AI-focused hedge fund is still making some big bets.",
-    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+    "title": "Bumble ditches its rule that kept men from making the first move",
+    "summary": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
+    "url": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
+    "published": "Tue, 11 Aug 2026 13:59:26 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
@@ -711,23 +701,247 @@
   },
   {
     "source": "The Verge",
-    "title": "What to expect from Google’s 2026 Pixel hardware launch event",
-    "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and perhaps a brand […]",
-    "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
-    "published": "2026-08-10T13:30:00-04:00",
+    "title": "Threads has a VR app now",
+    "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that […]",
+    "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+    "published": "2026-08-11T15:10:14-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
   },
   {
     "source": "The Verge",
-    "title": "Keychron’s wireless Hall effect keyboard is back to its lowest price",
-    "summary": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, which matches the lowest price we’ve seen occur a few […]",
-    "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
-    "published": "2026-08-10T10:27:23-04:00",
+    "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
+    "summary": "Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive appearances were replaced with celebrity cameos and awkward skits, to the confusion of many diehard Pixel fans. But it […]",
+    "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+    "published": "2026-08-11T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "The Verge",
+    "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+    "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where […]",
+    "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+    "published": "2026-08-11T12:19:15-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The 19th-Century Family Fortunes Funding Degrowth",
+    "summary": "Article URL: https://www.effort.news/p4ne Comments URL: https://news.ycombinator.com/item?id=49264352 Points: 16 # Comments: 17",
+    "url": "https://www.effort.news/p4ne",
+    "published": "Tue, 11 Aug 2026 20:56:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI's head of ethics leaves startup less than one year after joining",
+    "summary": "Article URL: https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0 Comments URL: https://news.ycombinator.com/item?id=49262284 Points: 5 # Comments: 1",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "published": "Tue, 11 Aug 2026 18:15:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cursor and SpaceXAI launch Grok Bot for work beyond coding",
+    "summary": "Article URL: https://runtimewire.com/article/cursor-spacexai-launch-grok-bot-general-purpose-agents Comments URL: https://news.ycombinator.com/item?id=49261449 Points: 2 # Comments: 0",
+    "url": "https://runtimewire.com/article/cursor-spacexai-launch-grok-bot-general-purpose-agents",
+    "published": "Tue, 11 Aug 2026 17:19:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+    "summary": "Hi HN! We’re Zack and Tommy the Co-Founders of Keet ( https://trykeet.com ). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time. Tommy and I met in linear algebra class in college and spent the next 4 years taking classes together. Our friendship was formed around learning new things. In school, someone else designs the curriculum, deliv",
+    "url": "https://www.trykeet.com/",
+    "published": "Tue, 11 Aug 2026 14:48:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rocket Lab's GHOST packs a whole launch pad into shipping containers",
+    "summary": "Article URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-unveils-ghost-deployable-launch-system-enable Comments URL: https://news.ycombinator.com/item?id=49258909 Points: 2 # Comments: 1",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-unveils-ghost-deployable-launch-system-enable",
+    "published": "Tue, 11 Aug 2026 14:23:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I generate launch videos from a URL and never render one on a server",
+    "summary": "Article URL: https://venturehand.com Comments URL: https://news.ycombinator.com/item?id=49258023 Points: 1 # Comments: 0",
+    "url": "https://venturehand.com",
+    "published": "Tue, 11 Aug 2026 13:31:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Looking for marketing-focused co-founder for our startup",
+    "summary": "Article URL: https://www.rakupay.io Comments URL: https://news.ycombinator.com/item?id=49257513 Points: 1 # Comments: 0",
+    "url": "https://www.rakupay.io",
+    "published": "Tue, 11 Aug 2026 12:53:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Instant Ruby Deployment – Heroku's 2009 launch blog",
+    "summary": "Article URL: https://adam.herokuapp.com/past/2009/3/9/instant_ruby_deployment/ Comments URL: https://news.ycombinator.com/item?id=49250045 Points: 1 # Comments: 0",
+    "url": "https://adam.herokuapp.com/past/2009/3/9/instant_ruby_deployment/",
+    "published": "Mon, 10 Aug 2026 21:32:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX plan for rocket launch site on Louisiana coast sparks backlash",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash Comments URL: https://news.ycombinator.com/item?id=49248518 Points: 5 # Comments: 0",
+    "url": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
+    "published": "Mon, 10 Aug 2026 19:28:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "South Korea to launch $3.5B chip fund, speed development of semiconductor hubs",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/south-koreas-lee-wants-military-airbase-relocated-by-mid-2028-chip-cluster-2026-08-10/ Comments URL: https://news.ycombinator.com/item?id=49247730 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-wants-military-airbase-relocated-by-mid-2028-chip-cluster-2026-08-10/",
+    "published": "Mon, 10 Aug 2026 18:30:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa ( https://www.stoaexchange.com ), a marketplace for new and used GPUs and AI servers. GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute. If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral. The lender’s ",
+    "url": "https://www.stoaexchange.com",
+    "published": "Mon, 10 Aug 2026 16:35:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Research: Mental health startup graveyard v1.2. 542 dead companies.",
+    "summary": "Article URL: https://mentalium.me/en/research/mental-health-startup-graveyard-v1-2/ Comments URL: https://news.ycombinator.com/item?id=49243070 Points: 2 # Comments: 1",
+    "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-v1-2/",
+    "published": "Mon, 10 Aug 2026 13:02:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Germany Sets New Six-Month Startup Record",
+    "summary": "Article URL: https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048 Comments URL: https://news.ycombinator.com/item?id=49241942 Points: 44 # Comments: 18",
+    "url": "https://www.gtai.de/en/meta/press/germany-sets-new-six-month-start-up-record-2012048",
+    "published": "Mon, 10 Aug 2026 10:42:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Digitvest – Buy ready-to-launch SaaS businesses with integrated payments",
+    "summary": "Article URL: https://digitvest.com/en Comments URL: https://news.ycombinator.com/item?id=49241460 Points: 2 # Comments: 0",
+    "url": "https://digitvest.com/en",
+    "published": "Mon, 10 Aug 2026 09:41:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: How do you set comp at an early stage startup?",
+    "summary": "Primarily curious about product and engineering Comments URL: https://news.ycombinator.com/item?id=49237839 Points: 6 # Comments: 6",
+    "url": "https://news.ycombinator.com/item?id=49237839",
+    "published": "Mon, 10 Aug 2026 00:31:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A startup is able to detect fires within minutes using satellites and AI",
+    "summary": "Article URL: https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html Comments URL: https://news.ycombinator.com/item?id=49236903 Points: 2 # Comments: 0",
+    "url": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
+    "published": "Sun, 09 Aug 2026 22:35:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: YC Startup School, but AI-Native",
+    "summary": "Hi HN, YC Startup School is a great resource and was part of the inspiration. But I think right now, much of the startup education model became capable of actually working alongside a founder with AI agents. So I'm experimenting with what an AI-native version of Startup School. I'm looking for early users who are willing to try it and give me brutally useful feedback. At Foundera, our AI Agents can help you research a problem, challenge assumptions around an idea, validate the market, define mil",
+    "url": "https://foundera.app/",
+    "published": "Sun, 09 Aug 2026 13:04:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html Comments URL: https://news.ycombinator.com/item?id=49231022 Points: 53 # Comments: 17",
+    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "published": "Sun, 09 Aug 2026 13:03:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Equity Survival Guide: what can go wrong with your equity before an IPO",
+    "summary": "Article URL: https://github.com/huanghe/startup-equity-guide Comments URL: https://news.ycombinator.com/item?id=49228814 Points: 2 # Comments: 0",
+    "url": "https://github.com/huanghe/startup-equity-guide",
+    "published": "Sun, 09 Aug 2026 05:59:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Checked my dashboard mid-launch and saw a referral I've never seen before",
+    "summary": "Article URL: https://www.rainydaygc.com Comments URL: https://news.ycombinator.com/item?id=49224680 Points: 2 # Comments: 0",
+    "url": "https://www.rainydaygc.com",
+    "published": "Sat, 08 Aug 2026 18:48:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-11"
+  },
+  {
+    "source": "V2EX",
+    "title": "聊聊我从赚 5 万到亏 6 万的的经历",
+    "summary": "我的经历大致如下： 六月份的存储有一波大行情， 相信很多人买了存储的人的收益率在那时估计都是上半年最高的，我当时买了南方两倍做多海力士，入场时间算比较晚，成本均价 98 ， 当时想着赚个 20%-30% 就走，买入后几天就行情跌跌涨涨的，但是很快就突破了前高到了 126 ， 此时收益率已经有 30%+ 了，其实已经达到了一开始的目标了，但看着一天涨个 20%+，于是想着多等个一两天，多赚一点再走。 后面一个月里，虽然有下跌，但是整体是行情是上行的， 记得 6 月 25 号，两倍海力士来到了最高价，到了 193.65 ， 我当时收益来到了 96% 多，此时，有点想卖了，及时落袋为安，",
+    "url": "https://www.v2ex.com/t/1233435",
+    "published": 1786413219,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-11",
+    "meta": {
+      "replies": 64,
+      "node": "投资"
+    }
   },
   {
     "source": "GitHub新星",
@@ -739,8 +953,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-11",
     "meta": {
-      "stars": 2373,
-      "forks": 205,
+      "stars": 2406,
+      "forks": 207,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -756,7 +970,7 @@
     "fetchedAt": "2026-08-11",
     "meta": {
       "stars": 1603,
-      "forks": 1191,
+      "forks": 1194,
       "language": null,
       "createdDaysAgo": 6
     }
@@ -771,10 +985,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-11",
     "meta": {
-      "stars": 1431,
-      "forks": 121,
+      "stars": 1494,
+      "forks": 129,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -787,10 +1001,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-11",
     "meta": {
-      "stars": 1365,
-      "forks": 110,
+      "stars": 1480,
+      "forks": 117,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
