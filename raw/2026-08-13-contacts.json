@@ -153,7 +153,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "gkotte"
+          "linkedin": "viktor-h-97942b125"
         },
         "careerPage": null,
         "jobListings": []
@@ -176,8 +176,29 @@
           "twitter": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/join-us",
-        "jobListings": []
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
       },
       "github": {},
       "hiring": [],
@@ -644,7 +665,8 @@
           "support@meshy.ai",
           "name@domain.com",
           "u003esupport@meshy.ai",
-          "careers@meshy.ai"
+          "careers@meshy.ai",
+          "jane@company.com"
         ],
         "socials": {
           "twitter": "MeshyAI",
@@ -924,8 +946,29 @@
           "github": "cmc",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/join-us",
-        "jobListings": []
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
       },
       "github": {},
       "hiring": [],
@@ -1240,11 +1283,11 @@
         "website": "https://www.minimax.com",
         "emails": [],
         "socials": {
-          "twitter": "de"
+          "twitter": "de",
+          "linkedin": "41399013"
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
-          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
           "Data Center",
           "Data privacy policy"
         ]
@@ -1655,8 +1698,29 @@
           "twitter": "github",
           "linkedin": "github"
         },
-        "careerPage": "https://github.com/join-us",
-        "jobListings": []
+        "careerPage": "https://github.com/careers",
+        "jobListings": [
+          "Taylor, Engineering",
+          "Developer API",
+          "Product",
+          "This is a partial file for gtmDataLayer.dot where `dataLayer` is defined",
+          "var eventData = window._jibe.models.jobs.searchImpression.allFilterTerms;",
+          "var videoData;",
+          "if (window.altruWidget && window.altruWidget.getCachedData()) {",
+          "var videoWidgetData = window.altruWidget.getCachedData()[0];",
+          "for (var answer of videoWidgetData.answers) {",
+          "videoData = answer;",
+          "video_url: videoData && videoData.video_url ? videoData.video_url : '', // Video URL ex.",
+          "item_id:socialShareData.item_id ? socialShareData.item_id : '',  // Unique Job ID ex. 18013544",
+          "job_zip:socialShareData.job_zip ? socialShareData.job_zip : '', // Job Zip Code ex. 12345",
+          "window._jibe.models.jobs.paramsImpression.paramsData;",
+          "Candidate Data Privacy",
+          "Write better code with AI",
+          "var xmlRiskyhttp = new XMLHttpRequest();",
+          "var xmlSafehttp = new XMLHttpRequest();",
+          "newText.innerHTML = '';",
+          "window.useHTML4 = true;"
+        ]
       },
       "github": {},
       "hiring": [],
