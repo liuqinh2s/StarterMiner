@@ -61,6 +61,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI",
+    "summary": "本期主角是Aibee爱笔智能创始人兼CEO 林元庆博士。爱笔智能专注于线下空间数字化与智能化，融合计算机视觉、自然语言理解、大数据分析、机器人学等多模态 AI 技术，帮助线下空间实现全面的数字化，走向智能化的运营、管理和触达。",
+    "url": "https://www.tmtpost.com/8104183.html",
+    "published": "Fri, 14 Aug 2026 21:29:43 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-14"
+  },
+  {
+    "source": "钛媒体",
     "title": "重启人生的Manus，能重启AI出海的游戏规则吗？",
     "summary": "AI出海再不能事后“换马甲”。",
     "url": "https://www.tmtpost.com/8102509.html",
@@ -400,12 +410,12 @@
     "fetchedAt": "2026-08-14"
   },
   {
-    "source": "爱范儿",
-    "title": "Manus 突然宣布独立运营，一夜回到创业状态",
-    "summary": "进了 Meta，Manus 怎么又独立了？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1674998?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Wed, 12 Aug 2026 01:07:13 +0000",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-14"
   },
@@ -445,16 +455,6 @@
     "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
     "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "published": "Thu, 13 Aug 2026 19:22:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-    "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-    "published": "Thu, 13 Aug 2026 16:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-14"
@@ -601,220 +601,20 @@
   },
   {
     "source": "The Verge",
-    "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
-    "summary": "Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build \"a grand monument\" to Musk on the parcel of land it owns near Starbase, Texas, with the aim to \"make […]",
-    "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
-    "published": "2026-08-14T04:40:13-04:00",
+    "title": "Samsung has new Galaxy headphones in the works",
+    "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones […]",
+    "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+    "published": "2026-08-14T15:18:45-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-14"
   },
   {
     "source": "The Verge",
-    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last […]",
-    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "published": "2026-08-13T17:42:38-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Phoebe Gates' startup Phia faces cookie stuffing allegations",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-11/phia-app-co-founders-pushed-for-features-taking-credit-for-sales-it-didn-t-drive Comments URL: https://news.ycombinator.com/item?id=49294884 Points: 7 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/phia-app-co-founders-pushed-for-features-taking-credit-for-sales-it-didn-t-drive",
-    "published": "Fri, 14 Aug 2026 04:55:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trump orders aircraft carrier redesign to use steam catapults to launch jets",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults Comments URL: https://news.ycombinator.com/item?id=49294801 Points: 9 # Comments: 1",
-    "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
-    "published": "Fri, 14 Aug 2026 04:38:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
-    "summary": "Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it Comments URL: https://news.ycombinator.com/item?id=49294070 Points: 4 # Comments: 0",
-    "url": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
-    "published": "Fri, 14 Aug 2026 02:16:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "ParleHub – Enterprise AI Collaboration and Cost Control – Launch Today on PH",
-    "summary": "Article URL: https://parlehub.com/ Comments URL: https://news.ycombinator.com/item?id=49292559 Points: 1 # Comments: 0",
-    "url": "https://parlehub.com/",
-    "published": "Thu, 13 Aug 2026 22:23:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Forklane AI – Public Beta Launch",
-    "summary": "Article URL: https://forklane.ai Comments URL: https://news.ycombinator.com/item?id=49291014 Points: 2 # Comments: 1",
-    "url": "https://forklane.ai",
-    "published": "Thu, 13 Aug 2026 19:50:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: WireDoctor – Spring Boot startup and bean cycle analyzer",
-    "summary": "Article URL: https://medium.com/@ddsha441981/a-story-about-40-second-boot-times-silent-bean-cycles-and-the-analysis-layer-nobody-ships-9634686ad693 Comments URL: https://news.ycombinator.com/item?id=49286747 Points: 1 # Comments: 0",
-    "url": "https://medium.com/@ddsha441981/a-story-about-40-second-boot-times-silent-bean-cycles-and-the-analysis-layer-nobody-ships-9634686ad693",
-    "published": "Thu, 13 Aug 2026 14:43:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Medical Startup Selling Prescription Kit for Nuclear Disaster",
-    "summary": "Article URL: https://www.404media.co/medical-startup-selling-prescription-kit-for-nuclear-disaster/ Comments URL: https://news.ycombinator.com/item?id=49285556 Points: 3 # Comments: 1",
-    "url": "https://www.404media.co/medical-startup-selling-prescription-kit-for-nuclear-disaster/",
-    "published": "Thu, 13 Aug 2026 13:25:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-    "summary": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent. Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So, Bullet started as an AI hedge fund, a browser-use agent, synthetic financial data (oof), a mobile IDE, and a bunch of other things. We wanted ",
-    "url": "https://www.codewithbullet.com",
-    "published": "Thu, 13 Aug 2026 08:14:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion Comments URL: https://news.ycombinator.com/item?id=49280945 Points: 35 # Comments: 4",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-    "published": "Thu, 13 Aug 2026 01:50:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Jeff Dean has been in talks for a $10B valuation for his new AI startup",
-    "summary": "Article URL: https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8 Comments URL: https://news.ycombinator.com/item?id=49280640 Points: 4 # Comments: 0",
-    "url": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8",
-    "published": "Thu, 13 Aug 2026 01:09:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How to Spot a Terrorist in Your Startup [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=pQErhgTsCOw Comments URL: https://news.ycombinator.com/item?id=49280307 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=pQErhgTsCOw",
-    "published": "Thu, 13 Aug 2026 00:18:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Website Developer Startup Built2WinWeb",
-    "summary": "Article URL: https://built2winweb.com/ Comments URL: https://news.ycombinator.com/item?id=49279687 Points: 2 # Comments: 0",
-    "url": "https://built2winweb.com/",
-    "published": "Wed, 12 Aug 2026 22:54:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bill Gates' daughter's startup accused of 'cookie stuffing' scheme",
-    "summary": "Article URL: https://nypost.com/2026/08/12/business/bill-gates-daughter-phoebe-accused-of-cookie-stuffing-scheme-that-has-max-penalty-of-20-years-in-prison-reports/ Comments URL: https://news.ycombinator.com/item?id=49279488 Points: 12 # Comments: 3",
-    "url": "https://nypost.com/2026/08/12/business/bill-gates-daughter-phoebe-accused-of-cookie-stuffing-scheme-that-has-max-penalty-of-20-years-in-prison-reports/",
-    "published": "Wed, 12 Aug 2026 22:33:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Music Startup Suno Bets Anyone Can Be a Rock Star",
-    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music Comments URL: https://news.ycombinator.com/item?id=49279439 Points: 5 # Comments: 4",
-    "url": "https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music",
-    "published": "Wed, 12 Aug 2026 22:26:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Japanese Self-Driving Startup Plans US Office, Targets $10B IPO",
-    "summary": "Article URL: https://www.wsj.com/business/autos/japanese-self-driving-startup-plans-u-s-office-targets-10-billion-ipo-valuation-15bcb68e Comments URL: https://news.ycombinator.com/item?id=49279251 Points: 5 # Comments: 1",
-    "url": "https://www.wsj.com/business/autos/japanese-self-driving-startup-plans-u-s-office-targets-10-billion-ipo-valuation-15bcb68e",
-    "published": "Wed, 12 Aug 2026 22:05:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Vibe-Coding Startup Lovable Hits $13B Valuation",
-    "summary": "Article URL: https://www.wsj.com/business/entrepreneurship/vibe-coding-startup-lovable-hits-13-billion-valuation-0c87ff8a Comments URL: https://news.ycombinator.com/item?id=49277994 Points: 5 # Comments: 2",
-    "url": "https://www.wsj.com/business/entrepreneurship/vibe-coding-startup-lovable-hits-13-billion-valuation-0c87ff8a",
-    "published": "Wed, 12 Aug 2026 20:17:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I rebuilt my launch platform's SEO in a week. DR went 3 → 30",
-    "summary": "Article URL: https://liftoapp.com/ Comments URL: https://news.ycombinator.com/item?id=49277840 Points: 1 # Comments: 0",
-    "url": "https://liftoapp.com/",
-    "published": "Wed, 12 Aug 2026 20:03:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Energy Startup Raises $750M for Rust-Powered Batteries",
-    "summary": "Article URL: https://www.wsj.com/business/energy-oil/energy-startup-raises-750-million-for-rust-powered-batteries-e2354154 Comments URL: https://news.ycombinator.com/item?id=49277794 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/business/energy-oil/energy-startup-raises-750-million-for-rust-powered-batteries-e2354154",
-    "published": "Wed, 12 Aug 2026 20:00:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI coding startup Cognition in talks to raise at $40B valuation",
-    "summary": "Article URL: https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/ Comments URL: https://news.ycombinator.com/item?id=49276706 Points: 3 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "published": "Wed, 12 Aug 2026 18:30:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple Skipping iPhone 18 Launch This Year",
-    "summary": "Article URL: https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/ Comments URL: https://news.ycombinator.com/item?id=49273784 Points: 3 # Comments: 0",
-    "url": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
-    "published": "Wed, 12 Aug 2026 15:18:56 +0000",
+    "title": "Google’s best new camera feature is only for the Pixel 11 series",
+    "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use […]",
+    "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+    "published": "2026-08-14T13:34:14-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-14"
@@ -829,10 +629,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-14",
     "meta": {
-      "stars": 85817,
-      "forks": 7601,
+      "stars": 95091,
+      "forks": 8787,
       "language": "TypeScript",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
     }
   },
   {
@@ -845,9 +645,25 @@
     "type": "signal",
     "fetchedAt": "2026-08-14",
     "meta": {
-      "stars": 6433,
-      "forks": 684,
+      "stars": 8075,
+      "forks": 842,
       "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "zhu1090093659/dsh-web-ui",
+    "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "published": "2026-08-12T05:15:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-14",
+    "meta": {
+      "stars": 1931,
+      "forks": 96,
+      "language": "TypeScript",
       "createdDaysAgo": 2
     }
   },
@@ -861,10 +677,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-14",
     "meta": {
-      "stars": 1821,
-      "forks": 118,
+      "stars": 1850,
+      "forks": 121,
       "language": "C",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "anywhere-labs/deepseek-harness-desktop",
+    "summary": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "published": "2026-08-13T16:30:50Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-14",
+    "meta": {
+      "stars": 1792,
+      "forks": 94,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   }
 ]
