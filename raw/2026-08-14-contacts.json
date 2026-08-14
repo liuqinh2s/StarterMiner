@@ -153,7 +153,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "melvinrook"
+          "linkedin": "jakecounsell"
         },
         "careerPage": null,
         "jobListings": []
@@ -3010,6 +3010,7 @@
           "AI Agent",
           "Let AI follow your terminal context",
           "aria-label=\"Termark AI Agent workflow demo\">",
+          "AI SSH",
           "'AI assistant with terminal context and command confirmation',"
         ]
       },
