@@ -61,6 +61,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+    "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
+    "url": "https://www.tmtpost.com/8104508.html",
+    "published": "Sat, 15 Aug 2026 20:04:24 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "钛媒体",
+    "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+    "summary": "第二季度营收突破110亿美元、首现调整后营业利润，Claude母公司有望改写史上最大IPO纪录——但2万亿估值仍缺利润背书",
+    "url": "https://www.tmtpost.com/8104597.html",
+    "published": "Sat, 15 Aug 2026 20:04:21 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "钛媒体",
     "title": "A股资本结构百强榜：谁把融资与经营放在了更稳的位置？",
     "summary": "本期榜单，带你看清哪些企业具备更强的资本结构能力，以及这种优势主要集中在哪些产业与市场板块。",
     "url": "https://www.tmtpost.com/8104560.html",
@@ -75,16 +95,6 @@
     "summary": "8月14日A股呈现震荡分化格局，资金高低切换持续演绎，上证指数窄幅震荡微涨0.01%，深证成指收涨0.45%，创业板指盘中反复拉锯，市场做多意愿出现明显分歧。两市合计成交2.14万亿元，较前一交易日有所缩量，市场涨跌家数均衡，题材轮动速度加快。高位题材博弈情绪升温，低位低估板块持续得到资金布局。",
     "url": "https://www.tmtpost.com/8104548.html",
     "published": "Sat, 15 Aug 2026 13:07:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "钛媒体",
-    "title": "张一鸣的10万亿参数大模型：还能跑赢时间吗？",
-    "summary": "顶层的固执与底层的焦虑",
-    "url": "https://www.tmtpost.com/8104495.html",
-    "published": "Sat, 15 Aug 2026 11:26:49 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-15"
@@ -391,6 +401,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Every fusion startup that has raised over $100M",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "published": "Sat, 15 Aug 2026 13:15:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Kog is going deeper to squeeze more inference out of GPUs",
     "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
     "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
@@ -405,36 +435,6 @@
     "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
     "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
     "published": "Thu, 13 Aug 2026 22:12:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "published": "Thu, 13 Aug 2026 21:13:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "published": "Thu, 13 Aug 2026 20:14:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "published": "Thu, 13 Aug 2026 19:22:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-15"
@@ -581,20 +581,50 @@
   },
   {
     "source": "The Verge",
-    "title": "Samsung has new Galaxy headphones in the works",
-    "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones […]",
-    "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-    "published": "2026-08-14T15:18:45-04:00",
+    "title": "Don’t overlook Elektron’s budget electronic music instruments",
+    "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, […]",
+    "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+    "published": "2026-08-15T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-15"
   },
   {
-    "source": "The Verge",
-    "title": "Google’s best new camera feature is only for the Pixel 11 series",
-    "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use […]",
-    "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-    "published": "2026-08-14T13:34:14-04:00",
+    "source": "Hacker News",
+    "title": "Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding",
+    "summary": "Article URL: https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/ Comments URL: https://news.ycombinator.com/item?id=49314341 Points: 11 # Comments: 2",
+    "url": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
+    "published": "Sat, 15 Aug 2026 21:07:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "MTV Cribs: SF Startup (Parody) – Programmers are also human [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=x0Cr-UhKhZI Comments URL: https://news.ycombinator.com/item?id=49313074 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=x0Cr-UhKhZI",
+    "published": "Sat, 15 Aug 2026 18:35:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX has acquired coding AI startup Cursor",
+    "summary": "Article URL: https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/ Comments URL: https://news.ycombinator.com/item?id=49311628 Points: 4 # Comments: 0",
+    "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
+    "published": "Sat, 15 Aug 2026 15:57:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Europe is stuck between \"rock and a hard place\" on launch costs & rocket reuse",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/ Comments URL: https://news.ycombinator.com/item?id=49309794 Points: 11 # Comments: 8",
+    "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+    "published": "Sat, 15 Aug 2026 11:47:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-15"
@@ -602,7 +632,7 @@
   {
     "source": "Hacker News",
     "title": "Chinese firm to launch Arctic shipping route",
-    "summary": "Article URL: https://news.rthk.hk/rthk/en/component/k2/1866196-20260814.htm Comments URL: https://news.ycombinator.com/item?id=49308538 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://news.rthk.hk/rthk/en/component/k2/1866196-20260814.htm Comments URL: https://news.ycombinator.com/item?id=49308538 Points: 4 # Comments: 0",
     "url": "https://news.rthk.hk/rthk/en/component/k2/1866196-20260814.htm",
     "published": "Sat, 15 Aug 2026 07:29:17 +0000",
     "lang": "en",
@@ -760,44 +790,18 @@
     "fetchedAt": "2026-08-15"
   },
   {
-    "source": "Hacker News",
-    "title": "How to Spot a Terrorist in Your Startup [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=pQErhgTsCOw Comments URL: https://news.ycombinator.com/item?id=49280307 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=pQErhgTsCOw",
-    "published": "Thu, 13 Aug 2026 00:18:57 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#美国大模型帮日本对AI进行投毒#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23美国大模型帮日本对AI进行投毒%23",
+    "published": "2026-08-15",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Website Developer Startup Built2WinWeb",
-    "summary": "Article URL: https://built2winweb.com/ Comments URL: https://news.ycombinator.com/item?id=49279687 Points: 2 # Comments: 0",
-    "url": "https://built2winweb.com/",
-    "published": "Wed, 12 Aug 2026 22:54:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bill Gates' daughter's startup accused of 'cookie stuffing' scheme",
-    "summary": "Article URL: https://nypost.com/2026/08/12/business/bill-gates-daughter-phoebe-accused-of-cookie-stuffing-scheme-that-has-max-penalty-of-20-years-in-prison-reports/ Comments URL: https://news.ycombinator.com/item?id=49279488 Points: 12 # Comments: 3",
-    "url": "https://nypost.com/2026/08/12/business/bill-gates-daughter-phoebe-accused-of-cookie-stuffing-scheme-that-has-max-penalty-of-20-years-in-prison-reports/",
-    "published": "Wed, 12 Aug 2026 22:33:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Music Startup Suno Bets Anyone Can Be a Rock Star",
-    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music Comments URL: https://news.ycombinator.com/item?id=49279439 Points: 5 # Comments: 4",
-    "url": "https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music",
-    "published": "Wed, 12 Aug 2026 22:26:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
+    "fetchedAt": "2026-08-15",
+    "meta": {
+      "hotValue": 183649,
+      "rank": 17
+    }
   },
   {
     "source": "GitHub新星",
@@ -809,10 +813,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 106804,
-      "forks": 10244,
+      "stars": 114918,
+      "forks": 11189,
       "language": "TypeScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -825,10 +829,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 9112,
-      "forks": 929,
+      "stars": 9701,
+      "forks": 1000,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -841,26 +845,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 4148,
-      "forks": 174,
+      "stars": 5805,
+      "forks": 249,
       "language": "TypeScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "zhu1090093659/dsh-web-ui",
-    "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-    "url": "https://github.com/zhu1090093659/dsh-web-ui",
-    "published": "2026-08-12T05:15:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-15",
-    "meta": {
-      "stars": 2366,
-      "forks": 126,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 2
     }
   },
   {
@@ -873,9 +861,41 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 2262,
-      "forks": 420,
+      "stars": 2976,
+      "forks": 597,
       "language": "Python",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "zhu1090093659/dsh-web-ui",
+    "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "published": "2026-08-12T05:15:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-15",
+    "meta": {
+      "stars": 2699,
+      "forks": 151,
+      "language": "TypeScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "xiaobright/dsh-anchored-standard",
+    "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "published": "2026-08-14T14:06:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-15",
+    "meta": {
+      "stars": 2170,
+      "forks": 68,
+      "language": "JavaScript",
       "createdDaysAgo": 1
     }
   },
@@ -889,8 +909,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 1876,
-      "forks": 122,
+      "stars": 1935,
+      "forks": 125,
       "language": "C",
       "createdDaysAgo": 6
     }
