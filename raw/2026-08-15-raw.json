@@ -61,6 +61,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "A股资本结构百强榜：谁把融资与经营放在了更稳的位置？",
+    "summary": "本期榜单，带你看清哪些企业具备更强的资本结构能力，以及这种优势主要集中在哪些产业与市场板块。",
+    "url": "https://www.tmtpost.com/8104560.html",
+    "published": "Sat, 15 Aug 2026 13:07:35 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：涨停板的投资机会和风险提示（8月14日）｜上市公司观察",
+    "summary": "8月14日A股呈现震荡分化格局，资金高低切换持续演绎，上证指数窄幅震荡微涨0.01%，深证成指收涨0.45%，创业板指盘中反复拉锯，市场做多意愿出现明显分歧。两市合计成交2.14万亿元，较前一交易日有所缩量，市场涨跌家数均衡，题材轮动速度加快。高位题材博弈情绪升温，低位低估板块持续得到资金布局。",
+    "url": "https://www.tmtpost.com/8104548.html",
+    "published": "Sat, 15 Aug 2026 13:07:16 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "钛媒体",
     "title": "张一鸣的10万亿参数大模型：还能跑赢时间吗？",
     "summary": "顶层的固执与底层的焦虑",
     "url": "https://www.tmtpost.com/8104495.html",
@@ -70,11 +90,11 @@
     "fetchedAt": "2026-08-15"
   },
   {
-    "source": "钛媒体",
-    "title": "创·问｜Aibee爱笔智能林元庆：“结硬寨，打呆战”，通向物理世界AGI",
-    "summary": "本期主角是Aibee爱笔智能创始人兼CEO 林元庆博士。爱笔智能专注于线下空间数字化与智能化，融合计算机视觉、自然语言理解、大数据分析、机器人学等多模态 AI 技术，帮助线下空间实现全面的数字化，走向智能化的运营、管理和触达。",
-    "url": "https://www.tmtpost.com/8104183.html",
-    "published": "Fri, 14 Aug 2026 21:29:43 +0800",
+    "source": "极客公园",
+    "title": "3 个月烧掉 105 亿，腾讯急了",
+    "summary": "头图来源：视觉中国 腾讯的 AI 故事，正在进入一个更昂贵的阶段。 8 月 12 日，腾讯发布 2026 年第二季度财报。本季度营收 2047.9 亿元，同比增长 11%；Non-IFRS 经营利润 756.4 亿元，同比增长 9%；Non-IFRS 归母净利润 684 亿元，同比增长 9%。 单看数字，这仍然是一份稳健的财报。但把 AI 拆出来之后，腾讯的增长曲线呈现出了明显的分叉：若剔除混元、元宝、CodeBuddy、WorkBuddy、小微等新 AI 产品的收入、成本与开支，腾讯本季度 Non-IFRS 经营利润为 861 亿元，同比增长 19%。 这意味着，腾讯原有业务的盈利能力并没有变弱，反而还在改善；只是新 AI 业务在这个季度对 Non-IFRS 经营利润造成了约 105 亿元的净影响，高于一季度的约 88 亿元。也因此，腾讯整体利润增速从剔除新 AI 产品后的 19%，被拉低到了 9%。 更直观的变化来自现金流。本季度腾讯资本开支达到 527.8 亿元，远超预期的 321 亿元，同比增长 176%、环比增长 65%；研发支出 272.8 亿元，同比增长 35%。在大规模",
+    "url": "http://www.geekpark.net/news/368852",
+    "published": "Sat, 15 Aug 2026 16:46:20 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-15"
@@ -330,26 +350,6 @@
     "fetchedAt": "2026-08-15"
   },
   {
-    "source": "极客公园",
-    "title": "OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道",
-    "summary": "古尔曼爆料 OpenAI 首款 AI 硬件：甜甜圈造型、冰球大小，先进语音交互等 8 月 7 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 7 日）发布 Power On 实时通讯，爆料称 OpenAI 的首款 AI 硬件为冰球（Hockey Puck，约 115.8 立方厘米）大小，售价预估在 300 美元到 400 美元（IT 之家注：现汇率约合 2,029 元到 2,705 元人民币）之间，有望 2027 年发布。 定位方面，这款 AI 硬件本质上是「没有显示屏的智能音箱」，面向家庭场景设计，用户可用单手在家中携带它移动，由 OpenAI 公司和前苹果设计师乔纳森 · 伊夫（Jony Ive）合作开发。 外观方面，消息称这款 AI 硬件外形呈「甜甜圈形」，大小约等于冰球。IT 之家查询公开资料，标准冰球（Hockey Puck）直径约为 7.62 厘米，体积约为 115.8 立方厘米。 硬件方面，古尔曼透露这款硬件配备可移动部件，其中部分部件可自动移动，用于提示设备正在响应或与用户互动。设备还将配备灯光、摄像头系统和其他传感器。 交互方式上，古尔曼透露该",
-    "url": "http://www.geekpark.net/news/368504",
-    "published": "Fri, 07 Aug 2026 08:18:42 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
-    "source": "极客公园",
-    "title": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
-    "summary": "未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影像体验。 刘靖康说：「也可以认为这是一种 Camera Agent」。 产品形态大概率是多样的。因为哪怕「前轻」，不同出片场景里人们依然需要不一样的镜头、焦段以及第一人称、第三人称等不同拍摄形式。 和具身领域一样，目前距离让设备本体在通用场景里「自由移动」，仍有不小的挑战。但 Cameraman 未必需要一个「通用」的大脑，因为对于记录和分享生活而言，「审美在线」很大程度上比「聪明地执行标准化任务」更重要。 据刘靖康介绍，目前影石已经尝试通过云端为用户直接提供 AI 剪辑服务。收费标准是 6 元/条，前两个月的灰度测试已经完成了数十万条的剪辑，导出率（类似于视频生成的「抽卡率」）超过50%。 但这条路仍然走在早期。Camera Agent 不止是一个独立存在的个人或服务，它需要提升的不仅是自身的智能和审美，还有对于人类在物理世界里",
-    "url": "http://www.geekpark.net/news/368503",
-    "published": "Thu, 06 Aug 2026 20:52:10 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-15"
-  },
-  {
     "source": "爱范儿",
     "title": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
     "summary": "Agent 时代，怎么挑选「高智效」模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -600,6 +600,206 @@
     "fetchedAt": "2026-08-15"
   },
   {
+    "source": "Hacker News",
+    "title": "Chinese firm to launch Arctic shipping route",
+    "summary": "Article URL: https://news.rthk.hk/rthk/en/component/k2/1866196-20260814.htm Comments URL: https://news.ycombinator.com/item?id=49308538 Points: 3 # Comments: 0",
+    "url": "https://news.rthk.hk/rthk/en/component/k2/1866196-20260814.htm",
+    "published": "Sat, 15 Aug 2026 07:29:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup creates tech for pain-free tattoos",
+    "summary": "Article URL: https://news.cornell.edu/stories/2026/08/alums-company-creates-tech-pain-free-tattoos Comments URL: https://news.ycombinator.com/item?id=49308484 Points: 1 # Comments: 0",
+    "url": "https://news.cornell.edu/stories/2026/08/alums-company-creates-tech-pain-free-tattoos",
+    "published": "Sat, 15 Aug 2026 07:19:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Malaysia to launch palm oil-based immersion cooling fluid for data centers",
+    "summary": "Article URL: https://www.datacenterdynamics.com/en/news/malaysia-to-launch-palm-oil-based-immersion-cooling-fluid-for-data-centers/ Comments URL: https://news.ycombinator.com/item?id=49308222 Points: 2 # Comments: 0",
+    "url": "https://www.datacenterdynamics.com/en/news/malaysia-to-launch-palm-oil-based-immersion-cooling-fluid-for-data-centers/",
+    "published": "Sat, 15 Aug 2026 06:29:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Dynatrace to buy AI observability startup Arize for $915M",
+    "summary": "Article URL: https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m Comments URL: https://news.ycombinator.com/item?id=49307465 Points: 1 # Comments: 1",
+    "url": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
+    "published": "Sat, 15 Aug 2026 03:49:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: What is next after your launch doesn't go as planned?",
+    "summary": "Nobody talks about the week after a launch that lands flat. You refresh the analytics. A few hundred visitors, a handful of signups, and then nothing. And the questions start. Was it the timing? The wording on the landing page? The video? Or is it the product, the one you spent months building and thought you had validated? That last one is the one that actually hurts, because it makes you rethink every decision you were confident about a week ago. I think the answer is to go back to the data an",
+    "url": "https://news.ycombinator.com/item?id=49298326",
+    "published": "Fri, 14 Aug 2026 13:21:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "We built a tool that helps run your startup",
+    "summary": "Article URL: https://app.firmgrove.com Comments URL: https://news.ycombinator.com/item?id=49297781 Points: 2 # Comments: 0",
+    "url": "https://app.firmgrove.com",
+    "published": "Fri, 14 Aug 2026 12:21:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Phoebe Gates' startup Phia faces cookie stuffing allegations",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-11/phia-app-co-founders-pushed-for-features-taking-credit-for-sales-it-didn-t-drive Comments URL: https://news.ycombinator.com/item?id=49294884 Points: 10 # Comments: 2",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/phia-app-co-founders-pushed-for-features-taking-credit-for-sales-it-didn-t-drive",
+    "published": "Fri, 14 Aug 2026 04:55:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump orders aircraft carrier redesign to use steam catapults to launch jets",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults Comments URL: https://news.ycombinator.com/item?id=49294801 Points: 10 # Comments: 1",
+    "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
+    "published": "Fri, 14 Aug 2026 04:38:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
+    "summary": "Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it Comments URL: https://news.ycombinator.com/item?id=49294070 Points: 4 # Comments: 0",
+    "url": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
+    "published": "Fri, 14 Aug 2026 02:16:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ParleHub – Enterprise AI Collaboration and Cost Control – Launch Today on PH",
+    "summary": "Article URL: https://parlehub.com/ Comments URL: https://news.ycombinator.com/item?id=49292559 Points: 1 # Comments: 0",
+    "url": "https://parlehub.com/",
+    "published": "Thu, 13 Aug 2026 22:23:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Forklane AI – Public Beta Launch",
+    "summary": "Article URL: https://forklane.ai Comments URL: https://news.ycombinator.com/item?id=49291014 Points: 2 # Comments: 1",
+    "url": "https://forklane.ai",
+    "published": "Thu, 13 Aug 2026 19:50:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: WireDoctor – Spring Boot startup and bean cycle analyzer",
+    "summary": "Article URL: https://medium.com/@ddsha441981/a-story-about-40-second-boot-times-silent-bean-cycles-and-the-analysis-layer-nobody-ships-9634686ad693 Comments URL: https://news.ycombinator.com/item?id=49286747 Points: 1 # Comments: 0",
+    "url": "https://medium.com/@ddsha441981/a-story-about-40-second-boot-times-silent-bean-cycles-and-the-analysis-layer-nobody-ships-9634686ad693",
+    "published": "Thu, 13 Aug 2026 14:43:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Medical Startup Selling Prescription Kit for Nuclear Disaster",
+    "summary": "Article URL: https://www.404media.co/medical-startup-selling-prescription-kit-for-nuclear-disaster/ Comments URL: https://news.ycombinator.com/item?id=49285556 Points: 3 # Comments: 1",
+    "url": "https://www.404media.co/medical-startup-selling-prescription-kit-for-nuclear-disaster/",
+    "published": "Thu, 13 Aug 2026 13:25:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+    "summary": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent. Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So, Bullet started as an AI hedge fund, a browser-use agent, synthetic financial data (oof), a mobile IDE, and a bunch of other things. We wanted ",
+    "url": "https://www.codewithbullet.com",
+    "published": "Thu, 13 Aug 2026 08:14:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion Comments URL: https://news.ycombinator.com/item?id=49280945 Points: 35 # Comments: 4",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+    "published": "Thu, 13 Aug 2026 01:50:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Jeff Dean has been in talks for a $10B valuation for his new AI startup",
+    "summary": "Article URL: https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8 Comments URL: https://news.ycombinator.com/item?id=49280640 Points: 4 # Comments: 0",
+    "url": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8",
+    "published": "Thu, 13 Aug 2026 01:09:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Spot a Terrorist in Your Startup [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=pQErhgTsCOw Comments URL: https://news.ycombinator.com/item?id=49280307 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=pQErhgTsCOw",
+    "published": "Thu, 13 Aug 2026 00:18:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Website Developer Startup Built2WinWeb",
+    "summary": "Article URL: https://built2winweb.com/ Comments URL: https://news.ycombinator.com/item?id=49279687 Points: 2 # Comments: 0",
+    "url": "https://built2winweb.com/",
+    "published": "Wed, 12 Aug 2026 22:54:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Bill Gates' daughter's startup accused of 'cookie stuffing' scheme",
+    "summary": "Article URL: https://nypost.com/2026/08/12/business/bill-gates-daughter-phoebe-accused-of-cookie-stuffing-scheme-that-has-max-penalty-of-20-years-in-prison-reports/ Comments URL: https://news.ycombinator.com/item?id=49279488 Points: 12 # Comments: 3",
+    "url": "https://nypost.com/2026/08/12/business/bill-gates-daughter-phoebe-accused-of-cookie-stuffing-scheme-that-has-max-penalty-of-20-years-in-prison-reports/",
+    "published": "Wed, 12 Aug 2026 22:33:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Music Startup Suno Bets Anyone Can Be a Rock Star",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music Comments URL: https://news.ycombinator.com/item?id=49279439 Points: 5 # Comments: 4",
+    "url": "https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music",
+    "published": "Wed, 12 Aug 2026 22:26:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-15"
+  },
+  {
     "source": "GitHub新星",
     "title": "deepseek-ai/deepseek-harness",
     "summary": "DeepSeek Harness: Everything is a Plugin.",
@@ -609,8 +809,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 99768,
-      "forks": 9400,
+      "stars": 106804,
+      "forks": 10244,
       "language": "TypeScript",
       "createdDaysAgo": 1
     }
@@ -625,8 +825,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 8448,
-      "forks": 870,
+      "stars": 9112,
+      "forks": 929,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -641,8 +841,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 2674,
-      "forks": 130,
+      "stars": 4148,
+      "forks": 174,
       "language": "TypeScript",
       "createdDaysAgo": 1
     }
@@ -657,10 +857,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 2071,
-      "forks": 100,
+      "stars": 2366,
+      "forks": 126,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "published": "2026-08-13T13:55:31Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-15",
+    "meta": {
+      "stars": 2262,
+      "forks": 420,
+      "language": "Python",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -673,10 +889,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-15",
     "meta": {
-      "stars": 1857,
+      "stars": 1876,
       "forks": 122,
       "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]
