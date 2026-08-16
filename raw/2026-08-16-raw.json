@@ -91,6 +91,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "186.88元！年内“最贵”新股8月18日科创板上市",
+    "summary": "186.88元！年内“最贵”新股8月18日科创板上市",
+    "url": "https://www.tmtpost.com/8105066.html",
+    "published": "Sun, 16 Aug 2026 08:15:59 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "钛媒体",
     "title": "兴锋作浪，大模型和机器人抢着“联姻”",
     "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
     "url": "https://www.tmtpost.com/8104508.html",
@@ -450,6 +460,146 @@
     "fetchedAt": "2026-08-16"
   },
   {
+    "source": "TechNode",
+    "title": "Against Claude Cowork, DeepSeek opens its open-source Harness to developers",
+    "summary": "DeepSeek has opened a developer preview of DeepSeek Harness, an open-source agent harness positioned against Anthropic’s Claude Cowork. The project provides a web interface for running AI agents and uses a plugin-based structure for adding capabilities. The project, also known as dsh, is powered by DeepSeek’s Cordis architecture and can be launched with npx @deepseek-ai/dsh […]",
+    "url": "https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers/",
+    "published": "Fri, 14 Aug 2026 05:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "HongShan invests in ZXMOTO as Chinese motorcycle maker targets global racing",
+    "summary": "HongShan, the China-focused venture capital firm formerly known in English as Sequoia China, has invested in ZXMOTO, the Chongqing-based motorcycle maker founded by Zhang Xue. The two sides will work together to develop world-class products and compete on international racing circuits. ZXMOTO focuses on high-performance motorcycles and entered the World Supersport class of the FIM […]",
+    "url": "https://technode.com/2026/08/14/hongshan-invests-in-zxmoto-as-chinese-motorcycle-maker-targets-global-racing/",
+    "published": "Fri, 14 Aug 2026 05:34:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "DJI launches Osmo 360 II 8K camera at RMB3,299",
+    "summary": "DJI has launched the Osmo 360 II, an 8K 360-degree camera, in China with a starting price of RMB3,299. The camera uses a 1-inch panoramic imaging sensor and offers 14.5 stops of dynamic range. It supports native 8K/60fps panoramic video, AI Super Night Scene 2.0, subject tracking, NFC one-tap pairing and AI-assisted editing, while offering […]",
+    "url": "https://technode.com/2026/08/14/dji-launches-osmo-360-ii-8k-camera-at-rmb3299/",
+    "published": "Fri, 14 Aug 2026 05:27:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent Backs Lovable in $400 Million Series C at $13.3 Billion Valuation",
+    "summary": "Lovable, a Stockholm-based software creation platform, has raised $400 million in Series C funding at a $13.3 billion valuation. The round was led by Menlo Ventures and co-led by EQT’s Scaleup Europe Fund. New investors include Tencent, Balderton Capital, Carmignac, Kaszek Ventures, LTS Growth, World Innovation Lab and Regent. Lovable provides tools that allow users […]",
+    "url": "https://technode.com/2026/08/13/tencent-backs-lovable-in-400-million-series-c-at-13-3-billion-valuation/",
+    "published": "Thu, 13 Aug 2026 05:45:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Honor Launches Robot Phone with Gimbal Camera and AI Agent Features",
+    "summary": "Honor has launched its Robot Phone, a smartphone equipped with a four-degree-of-freedom titanium gimbal and a system-level AI agent architecture. The phone measures about 9.59 millimeters thick, weighs 248 grams and includes a 7,060mAh battery and a 6.31-inch display. The 12GB+512GB version is priced at 9,999 yuan, while the 16GB+1TB version costs 12,999 yuan. Pre-orders […]",
+    "url": "https://technode.com/2026/08/13/honor-launches-robot-phone-with-gimbal-camera-and-ai-agent-features/",
+    "published": "Thu, 13 Aug 2026 05:40:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba Cloud Launches Qwen AI Arena for Real-World Agent Testing",
+    "summary": "Alibaba Cloud has launched Qwen AI Arena, a challenge and evaluation platform for AI agents. The platform creates tasks based on real business scenarios and provides developers with models, runtime environments and evaluation tools to submit and test agent solutions. Its first challenge focuses on cross-border e-commerce. Participants must generate product listings for the US, […]",
+    "url": "https://technode.com/2026/08/13/alibaba-cloud-launches-qwen-ai-arena-for-real-world-agent-testing/",
+    "published": "Thu, 13 Aug 2026 05:36:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Insta360 Confirms Development of Two Mirrorless Cameras",
+    "summary": "Insta360 founder and CEO JK Liu said the company is developing two mirrorless cameras with different designs. One of the models will use a form that consumers may not have seen before, following an interview held after the opening of Insta360’s first direct-run store in Japan. The company is considering new ways to combine interchangeable-lens […]",
+    "url": "https://technode.com/2026/08/13/insta360-confirms-development-of-two-mirrorless-cameras/",
+    "published": "Thu, 13 Aug 2026 05:13:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Honor Sets Aug. 12 Launch for Its Robot Phone in China",
+    "summary": "Honor has scheduled the China launch of its Robot Phone for Aug. 12. The device combines a smartphone with a motorized gimbal camera and AI-assisted subject tracking. Honor has also highlighted an imaging collaboration with ARRI. Pricing, sales channels and broader availability were not disclosed in the announcement. [IT Home, in Chinese]",
+    "url": "https://technode.com/2026/08/12/honor-sets-aug-12-launch-for-its-robot-phone-in-china/",
+    "published": "Wed, 12 Aug 2026 05:59:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "iOS 27 Beta Code Points to China-Specific Apple Intelligence Setup",
+    "summary": "Code found in iOS 27 beta 5 points to Apple preparing a mainland China-specific version of Apple Intelligence, but does not confirm a launch date or a local partner. The strings say user requests would be processed on-device and would not be sent to Apple or the local company providing the required security mechanism. The […]",
+    "url": "https://technode.com/2026/08/12/ios-27-beta-code-points-to-china-specific-apple-intelligence-setup/",
+    "published": "Wed, 12 Aug 2026 05:50:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Beyond mobility: Unitree’s GD01 signals the next phase of China’s robotics battle",
+    "summary": "In 2026, Unitree Robotics once again put itself at the center of the robotics industry’s conversation. Last month, Unitree founder and CEO Wang Xingxing appeared alongside the company’s GD01 manned mech on the cover of TIME magazine. In the image, the nearly 2.7-meter-tall GD01 takes up almost the entire frame, while Wang stands to its […]",
+    "url": "https://technode.com/2026/08/11/beyond-mobility-unitrees-gd01-signals-the-next-phase-of-chinas-robotics-battle/",
+    "published": "Tue, 11 Aug 2026 02:44:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple says mainland China has not launched Qwen integration after Mac guide disappears",
+    "summary": "Apple customer service told Chinese media that mainland China has not launched an “Apple Intelligence with Qwen” feature after a Chinese-language Mac support guide mentioning the integration disappeared from Apple’s website. The guide appeared on Aug. 8 and said Apple Intelligence could work with Alibaba’s Qwen model. Apple customer service said it had not received […]",
+    "url": "https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
+    "published": "Mon, 10 Aug 2026 07:23:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "GWM Says Haval H10 Secures 31,826 Orders in First 24 Hours",
+    "summary": "Great Wall Motor’s Haval brand said its H10 boxy SUV received more than 31,826 orders during its first 24 hours on the market. The five- and six-seat SUV was launched on Aug. 5, with promotional prices ranging from RMB201,800 to RMB223,800. The H10 uses GWM’s Hi4 plug-in hybrid system and a 42.8-kilowatt-hour battery, providing up […]",
+    "url": "https://technode.com/2026/08/07/gwm-says-haval-h10-secures-31826-orders-in-first-24-hours/",
+    "published": "Fri, 07 Aug 2026 07:01:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xpeng Says G9L Testing Covers 26 Countries and 6.74 Million Kilometers",
+    "summary": "Xpeng said its G9L SUV has undergone road testing across 26 countries and regions, covering more than 6.74 million kilometers since the project began three years ago. The company said the testing included complex road conditions and extreme environments. The G9L is positioned as a global five-seat flagship SUV and is expected to launch soon, […]",
+    "url": "https://technode.com/2026/08/07/xpeng-says-g9l-testing-covers-26-countries-and-6-74-million-kilometers/",
+    "published": "Fri, 07 Aug 2026 06:14:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "PokeBot Raises Hundreds of Millions of Dollars in Pre-A Funding",
+    "summary": "PokeBot, a Chinese embodied-AI startup, has raised hundreds of millions of dollars in a pre-A round led by Shunwei Capital and Matrix Partners. The months-old company is developing household robots for tasks including clothes folding and cooking. A demonstration showed one of its robots autonomously cooking mapo tofu in nine minutes. [TechNode reporting]",
+    "url": "https://technode.com/2026/08/06/pokebot-raises-hundreds-of-millions-of-dollars-in-pre-a-funding/",
+    "published": "Thu, 06 Aug 2026 06:15:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-16"
+  },
+  {
     "source": "The Verge",
     "title": "Don’t overlook Elektron’s budget electronic music instruments",
     "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, […]",
@@ -469,7 +619,7 @@
     "type": "community",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "replies": 36,
+      "replies": 48,
       "node": "NAS"
     }
   },
@@ -483,8 +633,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 118470,
-      "forks": 11635,
+      "stars": 124549,
+      "forks": 12338,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -499,8 +649,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 9897,
-      "forks": 1024,
+      "stars": 10338,
+      "forks": 1068,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -508,15 +658,15 @@
   {
     "source": "GitHub新星",
     "title": "anywhere-labs/deepseek-harness-desktop",
-    "summary": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
     "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "published": "2026-08-13T16:30:50Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 6584,
-      "forks": 288,
+      "stars": 7862,
+      "forks": 330,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -531,8 +681,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 3262,
-      "forks": 649,
+      "stars": 3950,
+      "forks": 761,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -547,10 +697,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 2850,
-      "forks": 163,
+      "stars": 3126,
+      "forks": 182,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -563,8 +713,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 2377,
-      "forks": 74,
+      "stars": 2684,
+      "forks": 84,
       "language": "JavaScript",
       "createdDaysAgo": 1
     }
@@ -579,8 +729,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-16",
     "meta": {
-      "stars": 1976,
-      "forks": 49,
+      "stars": 2435,
+      "forks": 60,
       "language": "PowerShell",
       "createdDaysAgo": 1
     }
