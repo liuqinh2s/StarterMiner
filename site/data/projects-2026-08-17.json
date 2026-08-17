@@ -466,7 +466,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "clairewagner91"
+            "linkedin": "jakecounsell"
           },
           "careerPage": null,
           "jobListings": []
@@ -3532,7 +3532,6 @@
           },
           "careerPage": "https://www.minimax.com/career",
           "jobListings": [
-            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
             "Data Center",
             "Data privacy policy"
           ]
@@ -4222,12 +4221,12 @@
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
-            "advertise@latitudemedia.com",
-            "editors@latitudemedia.com",
-            "careers@latitudemedia.com",
             "opencircuit@latitudemedia.com",
             "politicalclimatepodcast@gmail.com",
-            "events@latitudemedia.com"
+            "events@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -8625,7 +8624,7 @@
           "website": "https://www.termark.app",
           "emails": [],
           "socials": {
-            "github": "dushixiang"
+            "github": "termark-app"
           },
           "careerPage": "https://www.termark.app/careers",
           "jobListings": [
