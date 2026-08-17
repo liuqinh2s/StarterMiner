@@ -90,16 +90,6 @@
     "fetchedAt": "2026-08-17"
   },
   {
-    "source": "钛媒体",
-    "title": "“耐心资本”大迁徙：泰康保险少帅陈奕伦的宇树赌局",
-    "summary": "泰康保险集团创始人陈东升之子",
-    "url": "https://www.tmtpost.com/8105749.html",
-    "published": "Mon, 17 Aug 2026 15:55:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-17"
-  },
-  {
     "source": "极客公园",
     "title": "被 AI 碾压 30 年后，人们重新爱上了下棋",
     "summary": "作者｜Techno 之王 编辑｜靖宇 1997 年 5 月 11 日，纽约。 IBM 的超级计算机「深蓝」在六局对决中，以 3.5 比 2.5 击败国际象棋世界冠军卡斯帕罗夫。 这是人类第一次在智力游戏的最高殿堂输给机器。 那场比赛的最后一局只用了 19 步。卡斯帕罗夫在一个经典开局中走出了罕见的失误，深蓝精准地抓住了机会，迅速将局面推向不可挽回。 终局时，卡斯帕罗夫猛地站起来离开棋桌，脸上写满了震惊和愤怒。他后来公开指控 IBM 在幕后使用了人类棋手协助，拒绝接受这个结果。 那一天，全世界都在讨论同一个问题——在机器面前，人类的智力还有尊严吗？ 时间快进到 2016 年 3 月，首尔。 Google DeepMind 的 AlphaGo 以 4 比 1 击败韩国围棋九段李世石。这一次冲击比深蓝更大，因为围棋被视为「人类智慧的最后堡垒」。围棋的可能局面数远超宇宙中的原子总数，专家们此前预测 AI 至少还需要十年才能在围棋上战胜人类顶尖棋手。李世石在第四局下出的那步「神之一手」，以万分之一的概率让 AlphaGo 短暂迷失，赢下了人类仅有的一局。 后来人们意识到， 这可能是人类对围棋 A",
@@ -401,40 +391,100 @@
   },
   {
     "source": "TechCrunch",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "published": "Mon, 17 Aug 2026 19:33:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+    "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+    "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+    "published": "Mon, 17 Aug 2026 19:24:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+    "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
+    "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+    "published": "Mon, 17 Aug 2026 19:04:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+    "summary": "Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+    "url": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
+    "published": "Mon, 17 Aug 2026 18:32:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+    "summary": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
+    "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+    "published": "Mon, 17 Aug 2026 15:06:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "published": "Mon, 17 Aug 2026 13:10:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "published": "Sun, 16 Aug 2026 20:57:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Every fusion startup that has raised over $100M",
-    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-    "published": "Sat, 15 Aug 2026 13:15:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "published": "Fri, 14 Aug 2026 14:50:11 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-17"
@@ -580,6 +630,206 @@
     "fetchedAt": "2026-08-17"
   },
   {
+    "source": "The Verge",
+    "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
+    "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But […]",
+    "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+    "published": "2026-08-17T11:10:25-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "My friends all hate AI; I just joined an AI startup",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 11 # Comments: 4",
+    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+    "published": "Mon, 17 Aug 2026 21:47:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I made a 3D Globe platform to promote your startup based on your MRR",
+    "summary": "Hello! I'm Florian. I've been working on a cool project. I made a website with a 3D globe, fully browsable, without any signups, to promote startups for free, based on MRR. Basically the bigger MRR, the bigger your startup tower will be/grow with time. MRR is pulled straight from Stripe (for now, will add more payment provider connectors if this picks up), so no way of cheating. Also there is the possibility of putting your startup in orbit for better visiblity. Just thought it looked sick, woul",
+    "url": "https://mrrglo.be",
+    "published": "Mon, 17 Aug 2026 21:38:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Who needs funding for DB research?",
+    "summary": "This is the sibling post of “Who wants to fund DB research?“ [1], please see that post for context. In short, if you are working on non-AI related DB topics and are looking for funding, leave a comment below with a short summary of your work. I’m focusing on non-AI areas because their funding has been declining largely due to the spending on AI. Format: Name, Affiliation Research topics [1]: https://news.ycombinator.com/item?id=49336147 Comments URL: https://news.ycombinator.com/item?id=49336154",
+    "url": "https://news.ycombinator.com/item?id=49336154",
+    "published": "Mon, 17 Aug 2026 19:13:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "San Francisco Street Artists vs. AI Startup Ads",
+    "summary": "Article URL: https://docpop.org/2025/12/san-francisco-street-artists-vs-ai-startup-ads/ Comments URL: https://news.ycombinator.com/item?id=49334963 Points: 2 # Comments: 0",
+    "url": "https://docpop.org/2025/12/san-francisco-street-artists-vs-ai-startup-ads/",
+    "published": "Mon, 17 Aug 2026 17:52:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack",
+    "url": "https://speko.ai/",
+    "published": "Mon, 17 Aug 2026 15:36:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Groq Valued at $3.5B in Funding Round After Nvidia Deal",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal Comments URL: https://news.ycombinator.com/item?id=49332269 Points: 2 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal",
+    "published": "Mon, 17 Aug 2026 15:07:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/ Comments URL: https://news.ycombinator.com/item?id=49331710 Points: 5 # Comments: 1",
+    "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+    "published": "Mon, 17 Aug 2026 14:34:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Speeding up the Unreal Editor launch (again) by not loading 1585 files",
+    "summary": "Article URL: https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/ Comments URL: https://news.ycombinator.com/item?id=49327292 Points: 1 # Comments: 0",
+    "url": "https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/",
+    "published": "Mon, 17 Aug 2026 06:52:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rocket Lab's GHOST mobile rocket launch infrastructure",
+    "summary": "Article URL: https://newatlas.com/military/ghost-gives-rocket-launch-sites-flat-pack-treatment/ Comments URL: https://news.ycombinator.com/item?id=49327002 Points: 1 # Comments: 0",
+    "url": "https://newatlas.com/military/ghost-gives-rocket-launch-sites-flat-pack-treatment/",
+    "published": "Mon, 17 Aug 2026 05:59:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Satellite operators emphasize launch deals in a constrained market",
+    "summary": "Article URL: https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/ Comments URL: https://news.ycombinator.com/item?id=49326510 Points: 4 # Comments: 0",
+    "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
+    "published": "Mon, 17 Aug 2026 04:15:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The federal keyword lists that canceled billions in research funding",
+    "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news.ycombinator.com/item?id=49325159 Points: 274 # Comments: 175",
+    "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+    "published": "Mon, 17 Aug 2026 00:14:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump Family World Liberty Financial Gets Preliminary Approval to Launch a Bank",
+    "summary": "Article URL: https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b Comments URL: https://news.ycombinator.com/item?id=49323858 Points: 8 # Comments: 0",
+    "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b",
+    "published": "Sun, 16 Aug 2026 21:26:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Every fusion startup that has raised over $100M",
+    "summary": "Article URL: https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/ Comments URL: https://news.ycombinator.com/item?id=49322840 Points: 3 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "published": "Sun, 16 Aug 2026 19:22:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: WireDoctor – Spring Boot startup and bean cycle analyzer",
+    "summary": "Article URL: https://github.com/ddsha441981/wiredoctor Comments URL: https://news.ycombinator.com/item?id=49322570 Points: 2 # Comments: 0",
+    "url": "https://github.com/ddsha441981/wiredoctor",
+    "published": "Sun, 16 Aug 2026 18:47:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Beyond Demo Day: Sorting and Value Added in Startup Accelerators [pdf]",
+    "summary": "Article URL: https://www.nber.org/system/files/working_papers/w35063/w35063.pdf Comments URL: https://news.ycombinator.com/item?id=49320931 Points: 2 # Comments: 0",
+    "url": "https://www.nber.org/system/files/working_papers/w35063/w35063.pdf",
+    "published": "Sun, 16 Aug 2026 15:24:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "White House authorizes private companies to launch hack-back cyberattacks",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups Comments URL: https://news.ycombinator.com/item?id=49318280 Points: 2 # Comments: 0",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups",
+    "published": "Sun, 16 Aug 2026 09:07:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Just Got Approval to Test Beaming Sunlight to Earth",
+    "summary": "Article URL: https://www.smithsonianmag.com/smart-news/an-aerospace-startup-just-got-approval-to-test-beaming-sunlight-to-earth-heres-why-experts-are-worried-and-petitioning-180989323/ Comments URL: https://news.ycombinator.com/item?id=49317908 Points: 5 # Comments: 2",
+    "url": "https://www.smithsonianmag.com/smart-news/an-aerospace-startup-just-got-approval-to-test-beaming-sunlight-to-earth-heres-why-experts-are-worried-and-petitioning-180989323/",
+    "published": "Sun, 16 Aug 2026 08:03:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding",
+    "summary": "Article URL: https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/ Comments URL: https://news.ycombinator.com/item?id=49314341 Points: 13 # Comments: 2",
+    "url": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
+    "published": "Sat, 15 Aug 2026 21:07:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "MTV Cribs: SF Startup (Parody) – Programmers are also human [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=x0Cr-UhKhZI Comments URL: https://news.ycombinator.com/item?id=49313074 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=x0Cr-UhKhZI",
+    "published": "Sat, 15 Aug 2026 18:35:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-17"
+  },
+  {
     "source": "GitHub新星",
     "title": "deepseek-ai/deepseek-harness",
     "summary": "DeepSeek Harness: Everything is a Plugin.",
@@ -589,10 +839,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 145034,
-      "forks": 14749,
+      "stars": 149695,
+      "forks": 15334,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -605,10 +855,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 12694,
-      "forks": 1361,
+      "stars": 13423,
+      "forks": 1459,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -621,10 +871,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 11073,
-      "forks": 489,
+      "stars": 11606,
+      "forks": 520,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -637,9 +887,25 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 7215,
-      "forks": 1015,
+      "stars": 7558,
+      "forks": 1087,
       "language": "Python",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "yjh051108/dsh-routing-suite",
+    "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+    "url": "https://github.com/yjh051108/dsh-routing-suite",
+    "published": "2026-08-14T21:20:55Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-17",
+    "meta": {
+      "stars": 5271,
+      "forks": 90,
+      "language": "PowerShell",
       "createdDaysAgo": 3
     }
   },
@@ -653,8 +919,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 3961,
-      "forks": 238,
+      "stars": 4095,
+      "forks": 252,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -669,42 +935,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 3360,
-      "forks": 103,
+      "stars": 3421,
+      "forks": 102,
       "language": "JavaScript",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "yjh051108/dsh-routing-suite",
-    "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-    "url": "https://github.com/yjh051108/dsh-routing-suite",
-    "published": "2026-08-14T21:20:55Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-17",
-    "meta": {
-      "stars": 3257,
-      "forks": 77,
-      "language": "PowerShell",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "cordiverse/paper",
-    "summary": "A Programming Paradigm for Spatiotemporal Composability",
-    "url": "https://github.com/cordiverse/paper",
-    "published": "2026-08-13T09:53:33Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-17",
-    "meta": {
-      "stars": 2041,
-      "forks": 81,
-      "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 3
     }
   },
   {
@@ -717,9 +951,25 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 1959,
-      "forks": 31,
+      "stars": 2347,
+      "forks": 40,
       "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cordiverse/paper",
+    "summary": "A Programming Paradigm for Spatiotemporal Composability",
+    "url": "https://github.com/cordiverse/paper",
+    "published": "2026-08-13T09:53:33Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-17",
+    "meta": {
+      "stars": 2109,
+      "forks": 84,
+      "language": null,
       "createdDaysAgo": 4
     }
   },
@@ -733,10 +983,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 1763,
-      "forks": 77,
+      "stars": 1811,
+      "forks": 80,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -749,10 +999,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 1755,
-      "forks": 140,
+      "stars": 1776,
+      "forks": 143,
       "language": "C",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -765,26 +1015,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 1211,
+      "stars": 1250,
       "forks": 41,
       "language": "TypeScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Leutenegger/book-to-skill",
-    "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "url": "https://github.com/Leutenegger/book-to-skill",
-    "published": "2026-08-13T13:15:23Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-17",
-    "meta": {
-      "stars": 1164,
-      "forks": 142,
-      "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -797,10 +1031,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 1152,
-      "forks": 212,
+      "stars": 1182,
+      "forks": 215,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Leutenegger/book-to-skill",
+    "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "url": "https://github.com/Leutenegger/book-to-skill",
+    "published": "2026-08-13T13:15:23Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-17",
+    "meta": {
+      "stars": 1177,
+      "forks": 142,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -813,10 +1063,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 1060,
-      "forks": 87,
+      "stars": 1138,
+      "forks": 90,
       "language": "HTML",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "yetone/cumora",
+    "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "url": "https://github.com/yetone/cumora",
+    "published": "2026-08-17T09:13:52Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-17",
+    "meta": {
+      "stars": 1074,
+      "forks": 122,
+      "language": "TypeScript",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -829,26 +1095,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 944,
-      "forks": 86,
+      "stars": 957,
+      "forks": 87,
       "language": "HTML",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "sohaibdevv/youtube-music",
-    "summary": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-    "url": "https://github.com/sohaibdevv/youtube-music",
-    "published": "2026-08-11T18:17:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-17",
-    "meta": {
-      "stars": 855,
-      "forks": 0,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -861,10 +1111,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 849,
-      "forks": 57,
+      "stars": 880,
+      "forks": 58,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "sohaibdevv/youtube-music",
+    "summary": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+    "url": "https://github.com/sohaibdevv/youtube-music",
+    "published": "2026-08-11T18:17:18Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-17",
+    "meta": {
+      "stars": 854,
+      "forks": 0,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -877,26 +1143,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-17",
     "meta": {
-      "stars": 783,
-      "forks": 55,
+      "stars": 825,
+      "forks": 57,
       "language": "TypeScript",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "shadcn-ui/chatbot-template",
-    "summary": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-    "url": "https://github.com/shadcn-ui/chatbot-template",
-    "published": "2026-08-11T11:53:02Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-17",
-    "meta": {
-      "stars": 709,
-      "forks": 65,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
     }
   }
 ]

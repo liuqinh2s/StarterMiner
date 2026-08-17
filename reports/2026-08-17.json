@@ -86,7 +86,9 @@
         "fetchedAt": "2026-08-17",
         "website": {
           "website": "https://cursor.com",
-          "emails": [],
+          "emails": [
+            "hi@cursor.com"
+          ],
           "socials": {
             "twitter": "cursor_ai",
             "linkedin": "cursorai",
@@ -466,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "jakecounsell"
+            "linkedin": "jordyn-wallace"
           },
           "careerPage": null,
           "jobListings": []
@@ -1344,10 +1346,12 @@
         "website": {
           "website": "https://kimi.moonshot.cn",
           "emails": [],
-          "socials": {},
+          "socials": {
+            "wechat": "QrPanel-BNlr7hMb"
+          },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
-            "Kimi AI with K3 | Built for Agentic Coding &amp; Knowledge Work"
+            "Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造"
           ]
         },
         "github": {},
@@ -3532,6 +3536,7 @@
           },
           "careerPage": "https://www.minimax.com/career",
           "jobListings": [
+            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
             "Data Center",
             "Data privacy policy"
           ]
@@ -4221,12 +4226,12 @@
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
           "emails": [
             "info@latitudemedia.com",
-            "opencircuit@latitudemedia.com",
-            "politicalclimatepodcast@gmail.com",
-            "events@latitudemedia.com",
             "advertise@latitudemedia.com",
             "editors@latitudemedia.com",
-            "careers@latitudemedia.com"
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
           ],
           "socials": {
             "twitter": "_LatitudeMedia",
@@ -4884,10 +4889,12 @@
         "website": {
           "website": "https://kimi.moonshot.cn",
           "emails": [],
-          "socials": {},
+          "socials": {
+            "wechat": "QrPanel-BNlr7hMb"
+          },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
-            "Kimi AI with K3 | Built for Agentic Coding &amp; Knowledge Work"
+            "Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造"
           ]
         },
         "github": {},
