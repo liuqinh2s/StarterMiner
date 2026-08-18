@@ -70,26 +70,6 @@
     "fetchedAt": "2026-08-18"
   },
   {
-    "source": "钛媒体",
-    "title": "从“像人”到“超人”，IPO前夜宇树悄然变化的传播策略",
-    "summary": "8月19日，宇树即将在科创板正式挂牌",
-    "url": "https://www.tmtpost.com/8106294.html",
-    "published": "Tue, 18 Aug 2026 10:48:09 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-18"
-  },
-  {
-    "source": "钛媒体",
-    "title": "独到科技完成近亿元A+轮融资，赛富领投，清华系AI Agent公司打造业务世界的Agent编译器｜独家",
-    "summary": "独到科技创始人、首席执行官张文浩博士毕业于清华大学计算机系人工智能研究所，师从中国科学院院士、清华大学人工智能研究院名誉院长张钹教授，公司核心高管团队全部来自清华大学。",
-    "url": "https://www.tmtpost.com/8106792.html",
-    "published": "Tue, 18 Aug 2026 10:33:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-18"
-  },
-  {
     "source": "极客公园",
     "title": "从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板",
     "summary": "在天上，为全景影像打下地基。 作者｜张勇毅 编辑｜郑玄 即使你不怎么关注摩托车，今年你大概也刷到过张雪机车的故事：一支成立不到两年的中国车队，第一次征战世界超级摩托车锦标赛，今年 3 月底就在葡萄牙波尔蒂芒以近 4 秒的优势拿下队史首冠，周末连下两回合；到 6 月中旬，赛季第六冠已经到手。 比成绩更有戏剧性的是这支车队的来路。创始人张雪 14 岁在湖南山村骑上摩托，辍学进修理铺当学徒，20 岁左右就能闭着眼组装发动机；如今征战世界赛场的那台 820RR-RS，用的是自研的 819cc 直列三缸发动机，车架和电控全部国产。一个修车学徒，把「自己造」这件事做到了世界冠军的领奖台上。 7 月 23 日，大疆在重庆——也是张雪机车的大本营——办了一场全景技术分享会。这支团队出现在讲台上，讲的却是一个和赛场无关的细节：对机车内容团队来说，最痛的从来不是画质差一点，而是没拍到。 骑行中很难确认构图，回去才发现角度不对，几十公里的山路就得重新跑一遍；赛场和练习里的高光更不讲情面，错过就真的错过了。 机车、滑雪和户外这些彼此不相干的场景，其实共享同两条核心需求：解放双手，以及无死角记录。传统形态的相机",
@@ -340,11 +320,11 @@
     "fetchedAt": "2026-08-18"
   },
   {
-    "source": "极客公园",
-    "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
-    "summary": "浏览器是功能，不是目的地。 作者｜张勇毅 编辑｜靖宇 2025 年 10 月 21 日，OpenAI 发布自己的 AI 原生浏览器 Atlas 的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome 杀手」。 OpenAI 自研 AI Agent 浏览器 ChatGPT Atlas 于 2025 年 10 月发布｜图片来源：OpenAI 官号 那是手握八亿周活的 OpenAI 第一次入口级出手，不少人相信，统治了互联网三十年的浏览器，终于等来了换代时刻。 甚至 OpenAI 要发布浏览器的消息，还在硅谷引发了一阵不大不小的产品抢发潮：许多致力于开发 AI 浏览器的大小厂团队为了避免自己的心血被 OpenAI 彻底淹没，选择提前发布他们的产品，事实上促成了 2025 年的一阵 AI 浏览器热潮。 为了推广自家 AI 浏览器，OpenAI 还曾用赠送 ChatGPT 额度的方式推销｜图片来源：X 292 天后，2026 年 8 月 9 日，Atlas 停止运行。 这 292 天里，Chrome 的全球份额还是那个三分之二。而围攻者这一边，Arc 停更，Sidekick 关停，The",
-    "url": "http://www.geekpark.net/news/368579",
-    "published": "Sun, 09 Aug 2026 12:28:04 +0800",
+    "source": "爱范儿",
+    "title": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
+    "summary": "当 Agent 彼此协作，下一代互联网开始成形。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1675514?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Tue, 18 Aug 2026 10:00:26 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-18"
@@ -380,12 +360,22 @@
     "fetchedAt": "2026-08-18"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯",
-    "summary": "· Anthropic 投资者押注秋季 IPO，预期估值或超过 2 万亿美元 · 比亚迪辅助驾驶车型保有量超过 352 万辆 · 张雪机车获红杉中国独家投资，月交付量破万台 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1675193?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Fri, 14 Aug 2026 00:30:02 +0000",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+    "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+    "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+    "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+    "published": "Tue, 18 Aug 2026 10:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-18"
   },
@@ -480,11 +470,41 @@
     "fetchedAt": "2026-08-18"
   },
   {
-    "source": "TechCrunch",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+    "source": "TechNode",
+    "title": "Xiaomi SU7 deliveries surpass 500,000 in 28.5 months",
+    "summary": "Xiaomi said cumulative deliveries of its SU7 electric sedan have surpassed 500,000 units, about 28.5 months after the model was launched. The SU7 remains the core product in Xiaomi’s expansion from consumer electronics into electric vehicles. The milestone refers specifically to the SU7 and does not include deliveries of Xiaomi’s newer YU7 SUV. [21 Finance, […]",
+    "url": "https://technode.com/2026/08/18/xiaomi-su7-deliveries-surpass-500000-in-28-5-months/",
+    "published": "Tue, 18 Aug 2026 05:45:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba launches HappyShrimp 1.0 AI music model",
+    "summary": "Alibaba has officially launched HappyShrimp 1.0, an AI music model that can turn emotions, stories or memories into complete music tracks through natural-language prompts. The launch moves HappyShrimp from an earlier reported project into a publicly available product. Alibaba has not disclosed detailed information about the model’s technical architecture, usage limits or commercial pricing. [IT […]",
+    "url": "https://technode.com/2026/08/18/alibaba-launches-happyshrimp-1-0-ai-music-model/",
+    "published": "Tue, 18 Aug 2026 05:33:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "UCloud brings Hygon’s Tianxi AI accelerators to public cloud",
+    "summary": "Chinese cloud provider UCloud has brought servers equipped with Hygon’s Tianxi series AI accelerators to its public-cloud platform. The deployment is reportedly the first large-scale public-cloud rollout of the chip series. The move gives cloud customers access to domestically developed computing hardware for AI-related workloads. UCloud and Hygon have not disclosed the initial deployment scale […]",
+    "url": "https://technode.com/2026/08/18/ucloud-brings-hygons-tianxi-ai-accelerators-to-public-cloud/",
+    "published": "Tue, 18 Aug 2026 05:30:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "Ingenic launches HK$3.2 billion Hong Kong share offering",
+    "summary": "Ingenic, a chip company controlled by Beijing Junzheng, has launched its Hong Kong share offering. The company plans to issue 31.29 million shares and raise as much as HK$3.22 billion. The proceeds will be used mainly for chip research and development, product development and strategic investments. The offering adds another Chinese chip company to the […]",
+    "url": "https://technode.com/2026/08/18/ingenic-launches-hk3-2-billion-hong-kong-share-offering/",
+    "published": "Tue, 18 Aug 2026 05:26:20 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-18"
@@ -610,31 +630,51 @@
     "fetchedAt": "2026-08-18"
   },
   {
-    "source": "TechNode",
-    "title": "Apple says mainland China has not launched Qwen integration after Mac guide disappears",
-    "summary": "Apple customer service told Chinese media that mainland China has not launched an “Apple Intelligence with Qwen” feature after a Chinese-language Mac support guide mentioning the integration disappeared from Apple’s website. The guide appeared on Aug. 8 and said Apple Intelligence could work with Alibaba’s Qwen model. Apple customer service said it had not received […]",
-    "url": "https://technode.com/2026/08/10/apple-says-mainland-china-has-not-launched-qwen-integration-after-mac-guide-disappears/",
-    "published": "Mon, 10 Aug 2026 07:23:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-18"
-  },
-  {
-    "source": "TechNode",
-    "title": "GWM Says Haval H10 Secures 31,826 Orders in First 24 Hours",
-    "summary": "Great Wall Motor’s Haval brand said its H10 boxy SUV received more than 31,826 orders during its first 24 hours on the market. The five- and six-seat SUV was launched on Aug. 5, with promotional prices ranging from RMB201,800 to RMB223,800. The H10 uses GWM’s Hi4 plug-in hybrid system and a 42.8-kilowatt-hour battery, providing up […]",
-    "url": "https://technode.com/2026/08/07/gwm-says-haval-h10-secures-31826-orders-in-first-24-hours/",
-    "published": "Fri, 07 Aug 2026 07:01:48 +0000",
+    "source": "The Verge",
+    "title": "Fairphone’s latest repairable phone is going on sale in the US",
+    "summary": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and is sold unlocked with support for both T-Mobile and AT&T. In Europe it costs […]",
+    "url": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+    "published": "2026-08-18T07:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-18"
   },
   {
     "source": "The Verge",
-    "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
-    "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But […]",
-    "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-    "published": "2026-08-17T11:10:25-04:00",
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "published": "2026-08-18T07:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The most complex time in 20 years to build an enterprise software startup",
+    "summary": "Article URL: https://eportnoy.substack.com/p/the-chaotic-enterprise-startup-period Comments URL: https://news.ycombinator.com/item?id=49343927 Points: 1 # Comments: 0",
+    "url": "https://eportnoy.substack.com/p/the-chaotic-enterprise-startup-period",
+    "published": "Tue, 18 Aug 2026 11:06:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding internet freedom together: results of first participatory funding round",
+    "summary": "Article URL: https://blog.torproject.org/funding-internet-freedom-together/ Comments URL: https://news.ycombinator.com/item?id=49343276 Points: 2 # Comments: 0",
+    "url": "https://blog.torproject.org/funding-internet-freedom-together/",
+    "published": "Tue, 18 Aug 2026 09:22:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "At least 62 YC startups with over $1.9B in funding are hosting on Replit",
+    "summary": "Article URL: https://runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit Comments URL: https://news.ycombinator.com/item?id=49341424 Points: 2 # Comments: 0",
+    "url": "https://runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit",
+    "published": "Tue, 18 Aug 2026 04:53:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-18"
@@ -642,7 +682,7 @@
   {
     "source": "Hacker News",
     "title": "Satellite operators are in panic mode due to a worsening launch crisis",
-    "summary": "Article URL: https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/ Comments URL: https://news.ycombinator.com/item?id=49340481 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/ Comments URL: https://news.ycombinator.com/item?id=49340481 Points: 3 # Comments: 0",
     "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
     "published": "Tue, 18 Aug 2026 02:31:29 +0000",
     "lang": "en",
@@ -652,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "My friends all hate AI; I just joined an AI startup",
-    "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 30 # Comments: 98",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 50 # Comments: 155",
     "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
     "published": "Mon, 17 Aug 2026 21:47:30 +0000",
     "lang": "en",
@@ -742,9 +782,19 @@
   {
     "source": "Hacker News",
     "title": "The federal keyword lists that canceled billions in research funding",
-    "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news.ycombinator.com/item?id=49325159 Points: 278 # Comments: 180",
+    "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news.ycombinator.com/item?id=49325159 Points: 281 # Comments: 187",
     "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
     "published": "Mon, 17 Aug 2026 00:14:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "summary": "Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49324712 Points: 14 # Comments: 1",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "published": "Sun, 16 Aug 2026 23:07:07 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-18"
@@ -790,36 +840,6 @@
     "fetchedAt": "2026-08-18"
   },
   {
-    "source": "Hacker News",
-    "title": "White House authorizes private companies to launch hack-back cyberattacks",
-    "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups Comments URL: https://news.ycombinator.com/item?id=49318280 Points: 2 # Comments: 0",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups",
-    "published": "Sun, 16 Aug 2026 09:07:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Just Got Approval to Test Beaming Sunlight to Earth",
-    "summary": "Article URL: https://www.smithsonianmag.com/smart-news/an-aerospace-startup-just-got-approval-to-test-beaming-sunlight-to-earth-heres-why-experts-are-worried-and-petitioning-180989323/ Comments URL: https://news.ycombinator.com/item?id=49317908 Points: 5 # Comments: 2",
-    "url": "https://www.smithsonianmag.com/smart-news/an-aerospace-startup-just-got-approval-to-test-beaming-sunlight-to-earth-heres-why-experts-are-worried-and-petitioning-180989323/",
-    "published": "Sun, 16 Aug 2026 08:03:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding",
-    "summary": "Article URL: https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/ Comments URL: https://news.ycombinator.com/item?id=49314341 Points: 13 # Comments: 2",
-    "url": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
-    "published": "Sat, 15 Aug 2026 21:07:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-18"
-  },
-  {
     "source": "V2EX",
     "title": "公司要查看私人手机，是否合法",
     "summary": "背景 电信行业普通外包开发岗，非涉密，今天通知要检查电脑和手机。 之前强制要求电脑上安装云脉，这个软件会记录访问了哪些网站，扫描文件，还有密码无法卸载。之前查看 C 盘目录的时候，发现了它的记录文件。 手机是个人的，不是公司的。手机上装了一些翻墙软件和国外软件，手机从未连接公司网络。 问题一：这是否合法？如何应对？ 问题二: 要不要离开这家公司？现在大形势不好，离开不好找工作。考虑过去创业，但条件不太允许，有房贷有孩子。",
@@ -829,7 +849,7 @@
     "type": "community",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "replies": 51,
+      "replies": 88,
       "node": "职场话题"
     }
   },
@@ -843,8 +863,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 153000,
-      "forks": 15791,
+      "stars": 157276,
+      "forks": 16332,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -859,8 +879,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 12236,
-      "forks": 556,
+      "stars": 13067,
+      "forks": 595,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -875,8 +895,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 7856,
-      "forks": 1130,
+      "stars": 8296,
+      "forks": 1202,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -891,8 +911,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 5543,
-      "forks": 93,
+      "stars": 5845,
+      "forks": 100,
       "language": "PowerShell",
       "createdDaysAgo": 3
     }
@@ -907,10 +927,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 4234,
-      "forks": 259,
+      "stars": 4441,
+      "forks": 269,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -923,8 +943,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 3464,
-      "forks": 104,
+      "stars": 3519,
+      "forks": 106,
       "language": "JavaScript",
       "createdDaysAgo": 3
     }
@@ -939,8 +959,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 2417,
-      "forks": 42,
+      "stars": 2500,
+      "forks": 45,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -955,10 +975,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 2155,
-      "forks": 87,
+      "stars": 2222,
+      "forks": 93,
       "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "yetone/cumora",
+    "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "url": "https://github.com/yetone/cumora",
+    "published": "2026-08-17T09:13:52Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-18",
+    "meta": {
+      "stars": 2090,
+      "forks": 220,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -971,8 +1007,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 1861,
-      "forks": 80,
+      "stars": 1928,
+      "forks": 81,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -987,26 +1023,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 1786,
+      "stars": 1796,
       "forks": 144,
       "language": "C",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "yetone/cumora",
-    "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-    "url": "https://github.com/yetone/cumora",
-    "published": "2026-08-17T09:13:52Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-18",
-    "meta": {
-      "stars": 1688,
-      "forks": 184,
-      "language": "TypeScript",
-      "createdDaysAgo": 0
     }
   },
   {
@@ -1019,8 +1039,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 1274,
-      "forks": 43,
+      "stars": 1320,
+      "forks": 44,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -1035,10 +1055,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 1183,
-      "forks": 93,
+      "stars": 1297,
+      "forks": 102,
       "language": "HTML",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1051,7 +1071,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 1179,
+      "stars": 1187,
       "forks": 142,
       "language": "Python",
       "createdDaysAgo": 4
@@ -1067,9 +1087,41 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 971,
-      "forks": 89,
+      "stars": 996,
+      "forks": 91,
       "language": "HTML",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "dsh-market/dsh-market",
+    "summary": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "url": "https://github.com/dsh-market/dsh-market",
+    "published": "2026-08-14T04:58:15Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-18",
+    "meta": {
+      "stars": 963,
+      "forks": 62,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "dataelement/dsh-desktop",
+    "summary": "DeepSeek Harness Desktop",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "published": "2026-08-13T13:45:50Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-18",
+    "meta": {
+      "stars": 894,
+      "forks": 86,
+      "language": "TypeScript",
       "createdDaysAgo": 4
     }
   },
@@ -1083,7 +1135,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 884,
+      "stars": 891,
       "forks": 58,
       "language": "TypeScript",
       "createdDaysAgo": 5
@@ -1091,66 +1143,34 @@
   },
   {
     "source": "GitHub新星",
-    "title": "dsh-market/dsh-market",
-    "summary": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-    "url": "https://github.com/dsh-market/dsh-market",
-    "published": "2026-08-14T04:58:15Z",
+    "title": "ZSvirt/zsvirt",
+    "summary": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+    "url": "https://github.com/ZSvirt/zsvirt",
+    "published": "2026-08-14T06:47:26Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 882,
-      "forks": 58,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "dataelement/dsh-desktop",
-    "summary": "DeepSeek Harness Desktop",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "published": "2026-08-13T13:45:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-18",
-    "meta": {
-      "stars": 828,
-      "forks": 79,
-      "language": "TypeScript",
+      "stars": 854,
+      "forks": 103,
+      "language": "Java",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "elie222/rakazo",
-    "summary": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "published": "2026-08-13T06:28:56Z",
+    "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "published": "2026-08-16T11:38:42Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-18",
     "meta": {
-      "stars": 791,
-      "forks": 101,
-      "language": "TypeScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "zouyuxuan122/Deepseek-Harness-EAC",
-    "summary": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-    "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-    "published": "2026-08-14T16:29:54Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-18",
-    "meta": {
-      "stars": 773,
-      "forks": 18,
-      "language": "JavaScript",
-      "createdDaysAgo": 3
+      "stars": 845,
+      "forks": 49,
+      "language": null,
+      "createdDaysAgo": 1
     }
   }
 ]
