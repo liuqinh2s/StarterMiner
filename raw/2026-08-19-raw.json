@@ -90,11 +90,21 @@
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "钛媒体",
-    "title": "4400亿！宇树的狂欢和隐忧",
-    "summary": "7.44%流通股造就的狂欢定价之下，宇树仍要回答几个高估值绕不开的问题。",
-    "url": "https://www.tmtpost.com/8108614.html",
-    "published": "Wed, 19 Aug 2026 15:56:45 +0800",
+    "source": "极客公园",
+    "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+    "summary": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。 作者 | Li Yuan 8 月 19 日，宇树科技正式登陆科创板。上市首日，公司股价一度较发行价涨超 6 倍，总市值突破 4400 亿元。 当市场盯着这家「机器人身体最强公司」的股价时，一个更重要的问题随之出现：获得更多资金和资源之后，宇树接下来要做什么？ 当天中午，王兴兴参加了宇树的上市答谢午宴。这几乎是公司上市后的标准动作：感谢一路支持的政府、股东和合作伙伴，再回望一遍创业十年的艰辛。 但在略显磕巴地完成这些常规致谢后，王兴兴没有就此结束，而是突然把话题转向技术，开始讲述宇树上市后真正准备投入的一套系统。 他的状态也随之变化。表达明显流畅起来，语速越来越快，从大模型讲到自动编程，从仿真训练讲到真机测试，再讲到机器人技能的自我进化。 显然，这部分内容他已经想了很久。 01 当 AI 进入机器人研发全过程 王兴兴讲的并不是宇树即将发布的某个模型或产品，而是他对机器人技术下一阶段的判断：只做一个 AI 模型或者视频模型，整体竞争力和迭代速度已经不够。下一阶段真正重要的，是能否把模型、工具、仿真、",
+    "url": "http://www.geekpark.net/news/369051",
+    "published": "Wed, 19 Aug 2026 20:29:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "极客公园",
+    "title": "宇树往事",
+    "summary": "今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。 对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。 大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 2017 年极客公园旗下变量资本决定投资宇树天使轮至今，我们也已经陪伴宇树走过了九个年头。在我眼里，这是个脆弱与坚强交织、纠结与决断并存的过程。 上市的精彩只是一瞬间，但我想把陪伴宇树这段长跑里的往事好好「蒸馏」一下，也许能从中提炼出一些对当下及未来创业者依然有价值和有意义的东西。 适度悲观地「走夜路」 从融资的角度看，宇树出生在一个「错误的季节」。 今天，具身智能和人形机器人如日中天，但在我认识王兴兴的 2017 年，「具身智能」这个词甚至都还没开始流通，资本市场的叙事也完全是另一个世界。 现在回头看，那是一个中国互联网用户增长已经见顶，移动互联网浪潮开始进入尾声的阶段。但巨大的时代惯性拖着大家，还感知不到那个时代的减速。由「连接」逻辑和软件驱动的商业创新，比如共享经济、拼团经济，以及后来的 SaaS 热潮，这些依旧是大部分创业者和",
+    "url": "http://www.geekpark.net/news/369047",
+    "published": "Wed, 19 Aug 2026 20:19:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-19"
@@ -381,80 +391,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "published": "Wed, 19 Aug 2026 21:51:23 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+    "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+    "published": "Wed, 19 Aug 2026 20:12:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data […]",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "published": "Wed, 19 Aug 2026 17:26:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
     "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-    "published": "Tue, 18 Aug 2026 17:31:01 +0000",
+    "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "published": "Wed, 19 Aug 2026 16:16:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Etched’s valuation doubles to $21B in a month",
-    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "published": "Tue, 18 Aug 2026 17:21:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-    "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-    "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-    "published": "Tue, 18 Aug 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-    "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-    "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-    "published": "Tue, 18 Aug 2026 13:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-    "summary": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
-    "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-    "published": "Tue, 18 Aug 2026 11:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Fairphone is launching its latest repairable phone in the US too",
-    "summary": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
-    "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
-    "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "title": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
+    "summary": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
+    "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
+    "published": "Wed, 19 Aug 2026 14:02:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
@@ -641,40 +631,50 @@
   },
   {
     "source": "The Verge",
-    "title": "Framework gave its 12-inch laptop some hardware upgrades",
-    "summary": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework Laptop 12 now starts at $699 - $100 less than the previous version when it launched last year. Preorders are open now, with the first […]",
-    "url": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
-    "published": "2026-08-19T06:14:26-04:00",
+    "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+    "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I […]",
+    "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+    "published": "2026-08-19T13:03:11-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
     "source": "The Verge",
-    "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-    "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This […]",
-    "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-    "published": "2026-08-18T16:01:01-04:00",
+    "title": "Meta AI is getting a Mac app",
+    "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The […]",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "published": "2026-08-19T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "The Verge",
-    "title": "PlayStation’s wireless gaming speakers launch in November",
-    "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike sound across the entire audible spectrum,\" Sony says. […]",
-    "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-    "published": "2026-08-18T13:18:57-04:00",
+    "source": "Hacker News",
+    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
+    "summary": "Article URL: https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/ Comments URL: https://news.ycombinator.com/item?id=49367180 Points: 5 # Comments: 3",
+    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
+    "published": "Wed, 19 Aug 2026 21:02:31 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "The Verge",
-    "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-    "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing its public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in […]",
-    "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
-    "published": "2026-08-18T12:26:29-04:00",
+    "source": "Hacker News",
+    "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition Comments URL: https://news.ycombinator.com/item?id=49366053 Points: 6 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+    "published": "Wed, 19 Aug 2026 19:25:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+    "summary": "Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket. 3. manage team policy in one pl",
+    "url": "https://github.com/onecli/onecli",
+    "published": "Wed, 19 Aug 2026 16:29:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
@@ -682,7 +682,7 @@
   {
     "source": "Hacker News",
     "title": "OpenAI says announcement it would buy Irish teenager's startup was a 'joke'",
-    "summary": "Article URL: https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html Comments URL: https://news.ycombinator.com/item?id=49359767 Points: 4 # Comments: 1",
+    "summary": "Article URL: https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html Comments URL: https://news.ycombinator.com/item?id=49359767 Points: 7 # Comments: 2",
     "url": "https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html",
     "published": "Wed, 19 Aug 2026 10:53:00 +0000",
     "lang": "en",
@@ -692,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "US Military funding propelled China's robot dogs",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 7 # Comments: 0",
     "url": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
     "published": "Wed, 19 Aug 2026 08:34:09 +0000",
     "lang": "en",
@@ -702,7 +702,7 @@
   {
     "source": "Hacker News",
     "title": "FR LandSpace Zhuque-3 Y2 launch and landing, August 18th/19th 2026 [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=eEchnrdDvBc Comments URL: https://news.ycombinator.com/item?id=49357818 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eEchnrdDvBc Comments URL: https://news.ycombinator.com/item?id=49357818 Points: 4 # Comments: 1",
     "url": "https://www.youtube.com/watch?v=eEchnrdDvBc",
     "published": "Wed, 19 Aug 2026 06:48:59 +0000",
     "lang": "en",
@@ -752,7 +752,7 @@
   {
     "source": "Hacker News",
     "title": "AI chip startup Etched doubles valuation to $21B in under a month",
-    "summary": "Article URL: https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49349122 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49349122 Points: 3 # Comments: 2",
     "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
     "published": "Tue, 18 Aug 2026 17:23:34 +0000",
     "lang": "en",
@@ -840,34 +840,30 @@
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "Hacker News",
-    "title": "My friends all hate AI; I just joined an AI startup",
-    "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 203",
-    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-    "published": "Mon, 17 Aug 2026 21:47:30 +0000",
-    "lang": "en",
+    "source": "B站",
+    "title": "宇树是人形机器人第一名吗",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=宇树是人形机器人第一名吗",
+    "published": "2026-08-19",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-19"
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "hotValue": 267709
+    }
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: I made a 3D Globe platform to promote your startup based on your MRR",
-    "summary": "Hello! I'm Florian. I've been working on a cool project. I made a website with a 3D globe, fully browsable, without any signups, to promote startups for free, based on MRR. Basically the bigger MRR, the bigger your startup tower will be/grow with time. MRR is pulled straight from Stripe (for now, will add more payment provider connectors if this picks up), so no way of cheating. Also there is the possibility of putting your startup in orbit for better visiblity. Just thought it looked sick, woul",
-    "url": "https://mrrglo.be",
-    "published": "Mon, 17 Aug 2026 21:38:29 +0000",
-    "lang": "en",
+    "source": "B站",
+    "title": "世界人形机器人运动会选手测试",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=世界人形机器人运动会选手测试",
+    "published": "2026-08-19",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Who needs funding for DB research?",
-    "summary": "This is the sibling post of “Who wants to fund DB research?“ [1], please see that post for context. In short, if you are working on non-AI related DB topics and are looking for funding, leave a comment below with a short summary of your work. I’m focusing on non-AI areas because their funding has been declining largely due to the spending on AI. Format: Name, Affiliation Research topics [1]: https://news.ycombinator.com/item?id=49336147 Comments URL: https://news.ycombinator.com/item?id=49336154",
-    "url": "https://news.ycombinator.com/item?id=49336154",
-    "published": "Mon, 17 Aug 2026 19:13:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "hotValue": 267619
+    }
   },
   {
     "source": "V2EX",
@@ -879,8 +875,22 @@
     "type": "community",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "replies": 72,
+      "replies": 92,
       "node": "推广"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "读程序人的 7 年有感",
+    "summary": "# 从初中辍学到两次转行：普通人的人生，也可以不断重开 95 年出生在一个偏僻的农村，初三辍学，不到 16 岁便进入工厂。后来从流水线普工转行做程序员，再从程序员转到跨境电商。 一路走来谈不上逆袭，更没有什么爽文剧情。踩过坑、吃过亏，也经历过失业、欠薪和行业低谷。之所以写下这些，只是想把一个普通人的经历分享给各位老哥。 ## 1995—2011：新手村阶段 我出生在一个偏僻的农村，从小学到初中，读书这条路走得并不顺利。初三下学期，因为各种原因，我选择了辍学。 当时我的核心想法是：读书并不是唯一的出路，它只能提高一个人的素养。 现在回过头看，这句话有一定道理，",
+    "url": "https://www.v2ex.com/t/1235516",
+    "published": 1787107532,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "replies": 61,
+      "node": "生活"
     }
   },
   {
@@ -893,10 +903,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 164732,
-      "forks": 17471,
+      "stars": 167066,
+      "forks": 17834,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -909,10 +919,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 14648,
-      "forks": 681,
+      "stars": 15126,
+      "forks": 715,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -925,10 +935,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 9734,
-      "forks": 1431,
+      "stars": 10033,
+      "forks": 1477,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -941,10 +951,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 6214,
-      "forks": 111,
+      "stars": 6296,
+      "forks": 112,
       "language": "PowerShell",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -957,10 +967,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 3618,
-      "forks": 108,
+      "stars": 3639,
+      "forks": 109,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -973,8 +983,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 2610,
-      "forks": 291,
+      "stars": 2677,
+      "forks": 305,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -989,8 +999,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 2352,
-      "forks": 99,
+      "stars": 2392,
+      "forks": 101,
       "language": null,
       "createdDaysAgo": 6
     }
@@ -1005,26 +1015,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 2047,
-      "forks": 90,
+      "stars": 2077,
+      "forks": 92,
       "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "xoreaxeaxeax/skitter-creek-bath-salts",
-    "summary": "Unlocking _everything_ on the CPU with DRAM scrambling",
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "published": "2026-08-13T13:50:42Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 1832,
-      "forks": 148,
-      "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1037,24 +1031,56 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1615,
-      "forks": 68,
+      "stars": 2051,
+      "forks": 91,
       "language": null,
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "xoreaxeaxeax/skitter-creek-bath-salts",
+    "summary": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "published": "2026-08-13T13:50:42Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1850,
+      "forks": 148,
+      "language": "C",
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
     "title": "Small-tailqwq/dsh-deep-whale",
-    "summary": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+    "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
     "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
     "published": "2026-08-13T13:02:14Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1435,
+      "stars": 1461,
       "forks": 49,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "dsh-market/dsh-market",
+    "summary": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "url": "https://github.com/dsh-market/dsh-market",
+    "published": "2026-08-14T04:58:15Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1244,
+      "forks": 77,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -1069,26 +1095,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1196,
+      "stars": 1202,
       "forks": 142,
       "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "dsh-market/dsh-market",
-    "summary": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-    "url": "https://github.com/dsh-market/dsh-market",
-    "published": "2026-08-14T04:58:15Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 1175,
-      "forks": 76,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1101,26 +1111,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1161,
+      "stars": 1193,
       "forks": 4,
       "language": "JavaScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "alchaincyf/deepseek-harness-orange-book",
-    "summary": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
-    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
-    "published": "2026-08-14T03:14:33Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 1063,
-      "forks": 95,
-      "language": "HTML",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1133,9 +1127,41 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1037,
-      "forks": 91,
+      "stars": 1094,
+      "forks": 94,
       "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "alchaincyf/deepseek-harness-orange-book",
+    "summary": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+    "published": "2026-08-14T03:14:33Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1071,
+      "forks": 96,
+      "language": "HTML",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ZSvirt/zsvirt",
+    "summary": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+    "url": "https://github.com/ZSvirt/zsvirt",
+    "published": "2026-08-14T06:47:26Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1064,
+      "forks": 132,
+      "language": "Java",
       "createdDaysAgo": 5
     }
   },
@@ -1149,26 +1175,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1014,
-      "forks": 63,
+      "stars": 1018,
+      "forks": 66,
       "language": null,
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ZSvirt/zsvirt",
-    "summary": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-    "url": "https://github.com/ZSvirt/zsvirt",
-    "published": "2026-08-14T06:47:26Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 989,
-      "forks": 132,
-      "language": "Java",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1181,26 +1191,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 906,
-      "forks": 27,
+      "stars": 956,
+      "forks": 29,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "elie222/rakazo",
-    "summary": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "url": "https://github.com/elie222/rakazo",
-    "published": "2026-08-13T06:28:56Z",
+    "title": "Leutenegger/watermarks-remover",
+    "summary": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+    "url": "https://github.com/Leutenegger/watermarks-remover",
+    "published": "2026-08-19T15:20:24Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 865,
-      "forks": 109,
-      "language": "TypeScript",
-      "createdDaysAgo": 6
+      "stars": 911,
+      "forks": 94,
+      "language": "Python",
+      "createdDaysAgo": 0
     }
   }
 ]
