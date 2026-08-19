@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "宇树科技开盘每签赚47万",
+    "summary": "据媒体报道，8月19日，宇树科技高开629%，报1100元，单签收益为47.46万元，总市值达4449亿元，发行前宇树科技创始人王兴兴直接与间接合计持股比例超33%，身家已突破1000亿元。 天眼查App显示，宇树科技股份有限公司成立于2016年8月，注册资本约3.6亿人民币，法定代表人为王兴兴，经营范围包括智能机器人的研发、智能机器人销售、工业机器人制造等，由王兴兴、汉海信息技术（上海）有限公司等共同持股。",
+    "url": "https://www.cyzone.cn/article/843611.html",
+    "published": "Wed, 19 Aug 2026 02:35:13 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "创业邦",
     "title": "国电电力、淮河能源等在内蒙古成立新公司 注册资本2亿",
     "summary": "天眼查App显示，国电电力淮能大基地（内蒙古）能源有限公司近日成立，法定代表人为董卫东，注册资本2亿元人民币，注册地址位于内蒙古鄂尔多斯市，所属行业为电力、热力生产和供应业。 股权信息显示，该公司由国电电力发展股份有限公司持股51%、淮河能源（集团）股份有限公司持股34%、中石油太湖（北京）投资有限公司持股10%、鄂尔多斯市新能源开发利用有限公司持股5%。其经营范围涵盖风力发电技术服务，太阳能发电技术服务，储能技术服务，生物质能技术服务，发电业务、输电业务、供（配）电业务等。",
     "url": "https://www.cyzone.cn/article/843343.html",
@@ -61,30 +71,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
-    "summary": "AGI的“最后一英里”",
-    "url": "https://www.tmtpost.com/8107695.html",
-    "published": "Wed, 19 Aug 2026 11:41:15 +0800",
+    "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
+    "summary": "任务决定能力，任务决定形态。",
+    "url": "https://www.tmtpost.com/8109017.html",
+    "published": "Wed, 19 Aug 2026 18:36:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
     "source": "钛媒体",
-    "title": "市值4449亿，人形机器人第一股来了！",
-    "summary": "宇树四足机器人销量合计超33000台，人形机器人2025年出货量已超5500台。",
-    "url": "https://www.tmtpost.com/8108353.html",
-    "published": "Wed, 19 Aug 2026 11:11:40 +0800",
+    "title": "李书福在巅峰退场",
+    "summary": "激流勇退是一种智慧，但在行业风云变幻下，创始人离去的上市公司，未来依然充满了不确定性。 不同于马云通过合伙人制度掌控阿里，作为吉利汽车大股东，李书福仍然保有吉利集团董事长的身份，对上市公司的重大战略和人事调整拥有绝对的掌控。",
+    "url": "https://www.tmtpost.com/8108257.html",
+    "published": "Wed, 19 Aug 2026 17:01:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-19"
   },
   {
     "source": "钛媒体",
-    "title": "宇树科技IPO！“卖铲人”绿的谐波，能否撑起近700亿估值？",
-    "summary": "宇树科技IPO！“卖铲人”绿的谐波，能否撑起近700亿估值？",
-    "url": "https://www.tmtpost.com/8108147.html",
-    "published": "Wed, 19 Aug 2026 10:14:24 +0800",
+    "title": "4400亿！宇树的狂欢和隐忧",
+    "summary": "7.44%流通股造就的狂欢定价之下，宇树仍要回答几个高估值绕不开的问题。",
+    "url": "https://www.tmtpost.com/8108614.html",
+    "published": "Wed, 19 Aug 2026 15:56:45 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-19"
@@ -370,16 +380,6 @@
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "爱范儿",
-    "title": "34.99 万元起，神行者 8 要证明自己不是一台「新能源路虎」",
-    "summary": "翻身越岭师本色，公路驾控是主场，两边都是舒适区。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1675258?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Fri, 14 Aug 2026 16:00:55 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-19"
-  },
-  {
     "source": "TechCrunch",
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
@@ -455,6 +455,36 @@
     "summary": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
     "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
     "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Yuanxin Satellite reportedly raises nearly RMB7 billion at RMB50 billion valuation",
+    "summary": "Yuanxin Satellite has reportedly completed a financing round worth nearly RMB7 billion at a valuation of about RMB50 billion, according to Caixin’s report. The reported valuation is below the company’s earlier target of up to RMB75 billion. Yuanxin had previously disclosed plans to raise as much as RMB15 billion as it continues developing a satellite-internet […]",
+    "url": "https://technode.com/2026/08/19/yuanxin-satellite-reportedly-raises-nearly-rmb7-billion-at-rmb50-billion-valuation/",
+    "published": "Wed, 19 Aug 2026 06:23:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "LandSpace lands ZhuQue-3 booster in a reusable-rocket milestone",
+    "summary": "LandSpace’s ZhuQue-3 Y2 reached orbit and successfully landed its first-stage booster after launching on Aug. 19. The company confirmed the recovery in a post from its official account. It was LandSpace’s second attempt to recover a ZhuQue-3 booster. The first launch reached orbit in December 2025, but the booster was lost during the landing attempt. […]",
+    "url": "https://technode.com/2026/08/19/landspace-lands-zhuque-3-booster-in-a-reusable-rocket-milestone/",
+    "published": "Wed, 19 Aug 2026 06:10:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi says its next-generation self-developed chip is nearing release",
+    "summary": "Xiaomi CEO Lei Jun announced that the company’s next-generation self-developed chip is nearing release. He did not disclose a launch date, product name or technical specifications in the announcement. The announcement came in a post reviewing Xiaomi’s second-quarter performance. Lei said the company’s research and development spending rose 18.9% year over year to RMB9.2 billion […]",
+    "url": "https://technode.com/2026/08/19/xiaomi-says-its-next-generation-self-developed-chip-is-nearing-release/",
+    "published": "Wed, 19 Aug 2026 05:34:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
@@ -610,11 +640,11 @@
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "TechNode",
-    "title": "Beyond mobility: Unitree’s GD01 signals the next phase of China’s robotics battle",
-    "summary": "In 2026, Unitree Robotics once again put itself at the center of the robotics industry’s conversation. Last month, Unitree founder and CEO Wang Xingxing appeared alongside the company’s GD01 manned mech on the cover of TIME magazine. In the image, the nearly 2.7-meter-tall GD01 takes up almost the entire frame, while Wang stands to its […]",
-    "url": "https://technode.com/2026/08/11/beyond-mobility-unitrees-gd01-signals-the-next-phase-of-chinas-robotics-battle/",
-    "published": "Tue, 11 Aug 2026 02:44:52 +0000",
+    "source": "The Verge",
+    "title": "Framework gave its 12-inch laptop some hardware upgrades",
+    "summary": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework Laptop 12 now starts at $699 - $100 less than the previous version when it launched last year. Preorders are open now, with the first […]",
+    "url": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+    "published": "2026-08-19T06:14:26-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-19"
@@ -642,7 +672,7 @@
   {
     "source": "The Verge",
     "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-    "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in […]",
+    "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing its public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in […]",
     "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
     "published": "2026-08-18T12:26:29-04:00",
     "lang": "en",
@@ -650,59 +680,207 @@
     "fetchedAt": "2026-08-19"
   },
   {
-    "source": "微博",
-    "title": "#中国新能源的审美开窍了#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23中国新能源的审美开窍了%23",
-    "published": "2026-08-19",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "OpenAI says announcement it would buy Irish teenager's startup was a 'joke'",
+    "summary": "Article URL: https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html Comments URL: https://news.ycombinator.com/item?id=49359767 Points: 4 # Comments: 1",
+    "url": "https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html",
+    "published": "Wed, 19 Aug 2026 10:53:00 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "hotValue": 314717,
-      "rank": 33
-    }
+    "fetchedAt": "2026-08-19"
   },
   {
-    "source": "微博",
-    "title": "#宇树90后创始人身家超1300亿元#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23宇树90后创始人身家超1300亿元%23",
-    "published": "2026-08-19",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "US Military funding propelled China's robot dogs",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 4 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
+    "published": "Wed, 19 Aug 2026 08:34:09 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "hotValue": 259266,
-      "rank": 41
-    }
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FR LandSpace Zhuque-3 Y2 launch and landing, August 18th/19th 2026 [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eEchnrdDvBc Comments URL: https://news.ycombinator.com/item?id=49357818 Points: 3 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=eEchnrdDvBc",
+    "published": "Wed, 19 Aug 2026 06:48:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/ Comments URL: https://news.ycombinator.com/item?id=49356693 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+    "published": "Wed, 19 Aug 2026 04:10:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China's LandSpace beats SpaceX with steel-booster recovery after orbital launch",
+    "summary": "Article URL: https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch Comments URL: https://news.ycombinator.com/item?id=49355303 Points: 7 # Comments: 2",
+    "url": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch",
+    "published": "Wed, 19 Aug 2026 01:14:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Zorin OS: From the Hobby Project of Two Teenagers to a Growing Startup",
+    "summary": "Article URL: https://itsfoss.com/zorin-os-interview/ Comments URL: https://news.ycombinator.com/item?id=49350181 Points: 1 # Comments: 0",
+    "url": "https://itsfoss.com/zorin-os-interview/",
+    "published": "Tue, 18 Aug 2026 18:23:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI automation startup Relay.app shuts down, staff joins Google's Chrome team",
+    "summary": "Article URL: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/ Comments URL: https://news.ycombinator.com/item?id=49349596 Points: 4 # Comments: 1",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "published": "Tue, 18 Aug 2026 17:49:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI chip startup Etched doubles valuation to $21B in under a month",
+    "summary": "Article URL: https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49349122 Points: 3 # Comments: 1",
+    "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
+    "published": "Tue, 18 Aug 2026 17:23:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+    "summary": "Hi HN! I’m Barnaby, founder of machine0 ( https://machine0.io ). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP. Demo: https://www.youtube.com/watch?v=gyllkZ0M04E Agent workloads are moving from ephemeral to always-on. A coding agent working on a complex feature runs 6-8 hours. A",
+    "url": "https://machine0.io",
+    "published": "Tue, 18 Aug 2026 16:26:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: CoFoundMe – I gamified finding collaborators for your project/startup",
+    "summary": "Hi guys I know ur time is valuable so I will keep this short. Ever since I was in uni I saw that its been difficult for people finding collaborators for your project/startup. Building something is easier than ever but finding collaborators has never been more difficult. so I interviewed 1083 users (yea i know thats a lot but i needed some validation hehe). Half of them did not hear about yc cofounder matching and other platforms and the ones who were using them still found it quite painful and e",
+    "url": "https://cofoundme.app",
+    "published": "Tue, 18 Aug 2026 12:59:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: FundNI – Indexing fragmented community funding across Northern Ireland",
+    "summary": "Article URL: https://www.fundni.org/ Comments URL: https://news.ycombinator.com/item?id=49344449 Points: 2 # Comments: 1",
+    "url": "https://www.fundni.org/",
+    "published": "Tue, 18 Aug 2026 12:04:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Textlog Recap Since Launch: A lot has happened. Quietly, of course.",
+    "summary": "Article URL: https://textlog.cc/blog/recap-v1 Comments URL: https://news.ycombinator.com/item?id=49344374 Points: 1 # Comments: 1",
+    "url": "https://textlog.cc/blog/recap-v1",
+    "published": "Tue, 18 Aug 2026 11:57:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49344157 Points: 5 # Comments: 2",
+    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
+    "published": "Tue, 18 Aug 2026 11:33:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The most complex time in 20 years to build an enterprise software startup",
+    "summary": "Article URL: https://eportnoy.substack.com/p/the-chaotic-enterprise-startup-period Comments URL: https://news.ycombinator.com/item?id=49343927 Points: 2 # Comments: 0",
+    "url": "https://eportnoy.substack.com/p/the-chaotic-enterprise-startup-period",
+    "published": "Tue, 18 Aug 2026 11:06:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding internet freedom together: results of first participatory funding round",
+    "summary": "Article URL: https://blog.torproject.org/funding-internet-freedom-together/ Comments URL: https://news.ycombinator.com/item?id=49343276 Points: 3 # Comments: 0",
+    "url": "https://blog.torproject.org/funding-internet-freedom-together/",
+    "published": "Tue, 18 Aug 2026 09:22:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "At least 62 YC startups with over $1.9B in funding are hosting on Replit",
+    "summary": "Article URL: https://runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit Comments URL: https://news.ycombinator.com/item?id=49341424 Points: 2 # Comments: 0",
+    "url": "https://runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit",
+    "published": "Tue, 18 Aug 2026 04:53:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "My friends all hate AI; I just joined an AI startup",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 57 # Comments: 203",
+    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+    "published": "Mon, 17 Aug 2026 21:47:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I made a 3D Globe platform to promote your startup based on your MRR",
+    "summary": "Hello! I'm Florian. I've been working on a cool project. I made a website with a 3D globe, fully browsable, without any signups, to promote startups for free, based on MRR. Basically the bigger MRR, the bigger your startup tower will be/grow with time. MRR is pulled straight from Stripe (for now, will add more payment provider connectors if this picks up), so no way of cheating. Also there is the possibility of putting your startup in orbit for better visiblity. Just thought it looked sick, woul",
+    "url": "https://mrrglo.be",
+    "published": "Mon, 17 Aug 2026 21:38:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Who needs funding for DB research?",
+    "summary": "This is the sibling post of “Who wants to fund DB research?“ [1], please see that post for context. In short, if you are working on non-AI related DB topics and are looking for funding, leave a comment below with a short summary of your work. I’m focusing on non-AI areas because their funding has been declining largely due to the spending on AI. Format: Name, Affiliation Research topics [1]: https://news.ycombinator.com/item?id=49336147 Comments URL: https://news.ycombinator.com/item?id=49336154",
+    "url": "https://news.ycombinator.com/item?id=49336154",
+    "published": "Mon, 17 Aug 2026 19:13:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-19"
   },
   {
     "source": "V2EX",
-    "title": "我们做了一款专注于股票投资与投研领域的垂类 AI Agent，评论区送 5 个价值 ¥1000+ 的 Pro 年付会员",
-    "summary": "大家好，我们做了一款专注于股票投资与投研领域的垂类 AI Agent —— [Portwise]( https://portwise.io/)。 主要用于**股票深度研究、AI 实时盯盘、异动主动提醒**等，并已打通微信、飞书等主流 IM 通道。欢迎体验试用：👉 [https://portwise.io/]( https://portwise.io/) --- ## 核心亮点：与通用 Agent (如 Claude Code / Codex 等) 的差异 1. **金融垂直领域深度优化**：专为股票投资场景设计，懂金融逻辑与投研工作流。 2. **专业级付费数据源加持",
-    "url": "https://www.v2ex.com/t/1235297",
-    "published": 1787036018,
+    "title": "[BeefAPI] 已稳定运行 4 个月， 0 客诉｜ Claude/GPT 平价中转，新用户评论区留 id 送 5 刀额度",
+    "summary": "**BeefAPI ，推特牛肉粉老师实名创始，Claude / GPT 聚合中转站。** 已稳定运行 4 个月，0 客诉。本帖为新一轮拉新。 一个 Key 搞定 Claude 和 GPT ，价格 5 折起，支持 Claude Code / Cursor / Codex 一键接入。 承诺：不掺假、保护隐私、不随意涨价。 ✅ 福利发放 # 官网： [BeefAPI 官网]( https://beefapi.com) 新用户留 id 可领 5 叨",
+    "url": "https://www.v2ex.com/t/1235528",
+    "published": 1787108893,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "replies": 97,
+      "replies": 72,
       "node": "推广"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "今日份的阿里不带云笑话。。踩坑进行时。。",
-    "summary": "医药系统对接药品追溯码 溯源码系统之前是国家搞得，后来因为影响了药耗子倒卖医保药的挣钱路子，药耗子的后台势力，给公关没了 当年叫中国药品监管码 从生产线到最终消费者手里，全流程都公开，中间每一道单位全实名可查 2019 年你去北京市国大药房平安里分店买一盒 100 元药，你扫码一看 广州白云药业 生产 2018 年 4 月 1 日 广州白云药业销售公司 2018 年 4 月 27 日 北京畅通医药批发有限公司 2018 年 5 月 9 日 北京神通医药物流有限公司 2018 年 5 月 21 日 北京市西红门医院 2018 年 9 月 7 日 F 某患者 20",
-    "url": "https://www.v2ex.com/t/1235259",
-    "published": 1787027847,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "replies": 56,
-      "node": "程序员"
     }
   },
   {
@@ -715,8 +893,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 162074,
-      "forks": 17073,
+      "stars": 164732,
+      "forks": 17471,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -731,8 +909,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 13989,
-      "forks": 640,
+      "stars": 14648,
+      "forks": 681,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -747,8 +925,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 9195,
-      "forks": 1347,
+      "stars": 9734,
+      "forks": 1431,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -763,8 +941,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 6109,
-      "forks": 108,
+      "stars": 6214,
+      "forks": 111,
       "language": "PowerShell",
       "createdDaysAgo": 4
     }
@@ -779,8 +957,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 3583,
-      "forks": 107,
+      "stars": 3618,
+      "forks": 108,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -795,10 +973,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 2469,
-      "forks": 272,
+      "stars": 2610,
+      "forks": 291,
       "language": "TypeScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -811,10 +989,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 2317,
-      "forks": 97,
+      "stars": 2352,
+      "forks": 99,
       "language": null,
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -827,7 +1005,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 2008,
+      "stars": 2047,
       "forks": 90,
       "language": "TypeScript",
       "createdDaysAgo": 5
@@ -843,10 +1021,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1826,
-      "forks": 147,
+      "stars": 1832,
+      "forks": 148,
       "language": "C",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "s1dashu/ip-as-logo-skill",
+    "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+    "url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "published": "2026-08-18T13:59:23Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1615,
+      "forks": 68,
+      "language": null,
+      "createdDaysAgo": 0
     }
   },
   {
@@ -859,8 +1053,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1400,
-      "forks": 47,
+      "stars": 1435,
+      "forks": 49,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -875,26 +1069,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1194,
+      "stars": 1196,
       "forks": 142,
       "language": "Python",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "jdshfhds/northcinder",
-    "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-    "url": "https://github.com/jdshfhds/northcinder",
-    "published": "2026-08-17T11:42:31Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 1158,
-      "forks": 4,
-      "language": "JavaScript",
-      "createdDaysAgo": 1
     }
   },
   {
@@ -907,10 +1085,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1095,
-      "forks": 73,
+      "stars": 1175,
+      "forks": 76,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cinderline/northcinder",
+    "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+    "url": "https://github.com/cinderline/northcinder",
+    "published": "2026-08-17T11:42:31Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1161,
+      "forks": 4,
+      "language": "JavaScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -923,9 +1117,25 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1044,
-      "forks": 94,
+      "stars": 1063,
+      "forks": 95,
       "language": "HTML",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "dataelement/dsh-desktop",
+    "summary": "DeepSeek Harness Desktop",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "published": "2026-08-13T13:45:50Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-19",
+    "meta": {
+      "stars": 1037,
+      "forks": 91,
+      "language": "TypeScript",
       "createdDaysAgo": 5
     }
   },
@@ -939,42 +1149,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 1010,
-      "forks": 61,
+      "stars": 1014,
+      "forks": 63,
       "language": null,
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "s1dashu/ip-as-logo-skill",
-    "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-    "url": "https://github.com/s1dashu/ip-as-logo-skill",
-    "published": "2026-08-18T13:59:23Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 976,
-      "forks": 39,
-      "language": null,
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "dataelement/dsh-desktop",
-    "summary": "DeepSeek Harness Desktop",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "published": "2026-08-13T13:45:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-19",
-    "meta": {
-      "stars": 962,
-      "forks": 89,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -987,10 +1165,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 921,
-      "forks": 131,
+      "stars": 989,
+      "forks": 132,
       "language": "Java",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1003,7 +1181,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 870,
+      "stars": 906,
       "forks": 27,
       "language": "JavaScript",
       "createdDaysAgo": 4
@@ -1019,10 +1197,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-19",
     "meta": {
-      "stars": 858,
-      "forks": 107,
+      "stars": 865,
+      "forks": 109,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]

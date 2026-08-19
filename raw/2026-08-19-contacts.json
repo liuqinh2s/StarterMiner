@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "thijs-smudde"
+          "linkedin": "gkotte"
         },
         "careerPage": null,
         "jobListings": []
@@ -478,7 +478,7 @@
         "website": "https://kimi.moonshot.cn",
         "emails": [],
         "socials": {
-          "wechat": "QrPanel-CBd3NAde"
+          "wechat": "QrPanel-CSQLC04F"
         },
         "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
@@ -1796,7 +1796,7 @@
         "website": "https://kimi.moonshot.cn",
         "emails": [],
         "socials": {
-          "wechat": "QrPanel-CBd3NAde"
+          "wechat": "QrPanel-CSQLC04F"
         },
         "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
@@ -2680,7 +2680,7 @@
         "website": "https://linkup-nine-ruddy.vercel.app/",
         "emails": [],
         "socials": {},
-        "careerPage": "https://linkup-nine-ruddy.vercel.app/careers",
+        "careerPage": null,
         "jobListings": []
       },
       "github": {},
@@ -3011,14 +3011,12 @@
         "careerPage": "https://www.termark.app/careers",
         "jobListings": [
           "Termark - The Cross-Platform SSH Client for Modern Developers",
-          "Product facts",
           "androidBetaDataUrl: 'https://f.next-terminal.com/termark-android/beta.json',",
           "AI assistant",
           "Short videos showing how Termark feels in terminal, file transfer, AI, and external tool workflows.",
           "AI Agent",
           "Let AI follow your terminal context",
           "aria-label=\"Termark AI Agent workflow demo\">",
-          "AI SSH",
           "'Session and Global AI with configurable command approval',"
         ]
       },
