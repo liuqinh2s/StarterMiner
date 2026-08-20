@@ -1,7 +1,8 @@
 {
-  "lastUpdate": "2026-08-19",
+  "lastUpdate": "2026-08-20",
   "totalDiscussions": 569,
   "files": [
+    "discussions-2026-08-20.json",
     "discussions-2026-08-19.json",
     "discussions-2026-08-18.json",
     "discussions-2026-08-17.json",
@@ -120,5 +121,5 @@
     "discussions-2026-04-26.json",
     "discussions-2026-04-25.json"
   ],
-  "generatedAt": "2026-08-19T23:37:27.325264"
+  "generatedAt": "2026-08-20T04:38:40.762936"
 }
