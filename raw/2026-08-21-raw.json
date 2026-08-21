@@ -71,20 +71,70 @@
   },
   {
     "source": "钛媒体",
-    "title": "宇树4400亿市值狂欢之后，六个需要验证的信号",
-    "summary": "要判断宇树科技未来三年的走向，需要盯住六个可以核对的数据信号，这些信号中的每一个都足以让估值逻辑发生变化。",
-    "url": "https://www.tmtpost.com/8111159.html",
-    "published": "Fri, 21 Aug 2026 12:12:57 +0800",
+    "title": "具身机器人的万亿狂欢，在等待工厂的一张复购单",
+    "summary": "人形机器人今天还在“淘金热里卖铲子”。",
+    "url": "https://www.tmtpost.com/8111584.html",
+    "published": "Fri, 21 Aug 2026 17:53:30 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-21"
   },
   {
     "source": "钛媒体",
-    "title": "宇树4449亿封神：人形机器人的时代，正式开盘",
-    "summary": "中国资本市场第一次给人形机器人公开定价，超预期",
-    "url": "https://www.tmtpost.com/8110854.html",
-    "published": "Fri, 21 Aug 2026 10:10:26 +0800",
+    "title": "“龙餐馆”出海，百年还没通关",
+    "summary": "牌子、鸭子和厨子",
+    "url": "https://www.tmtpost.com/8111615.html",
+    "published": "Fri, 21 Aug 2026 17:53:27 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "钛媒体",
+    "title": "2026WRC，具身智能的非共识时刻",
+    "summary": "在这种“能力进化”的叙事之下，不同参与者的路线分歧正悄然撕裂行业共识。",
+    "url": "https://www.tmtpost.com/8111894.html",
+    "published": "Fri, 21 Aug 2026 17:16:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "极客公园",
+    "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
+    "summary": "作者｜Cynthia 编辑｜靖宇 7 月 31 日，MiniMax H3 发布当天，我们就做了实测。 屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便捷度，这无疑都是当前行业的 SOTA 级模型。 榜单成果也验证了我们的猜想。截至 8 月中旬，Artificial Analysis 的视频编辑榜上，H3 位列第一；在文生视频与图生视频榜单中，它同样处于第一梯队，全球前三。模型发布的同一时间，MiniMax 还顺便官宣了 H3 加量不加价，定价仅为同级别产品的三分之一，每秒 8 毛，一杯奶茶钱，就能完成一轮视频素材的 A/B/C 测试。 然后，新的问题来了：模型生成质量越来越高，成本越来越低，老板们想要一周发它个七八十条视频的宏伟商业构想也开始变得势不可挡。 但老板们似乎忘记了，写一条视频片段的提示词，仍需要老师傅非遗式古法手敲几千字；要保证片段间的风格一致性，也依然需要手动抽卡，赛博祈愿模型能够稳定发挥。 这部分真正费时费力的地方，效率并没有提升。 于是，仅仅过了 4 天，8 ",
+    "url": "http://www.geekpark.net/news/369201",
+    "published": "Fri, 21 Aug 2026 18:58:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "极客公园",
+    "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
+    "summary": "作者｜李苏 编辑｜靖宇 8 月 20 日晚，阿里巴巴发布新季度业绩。 阿里云外部商业化收入同比增长 45%，创 22 个季度以来的新高。AI 云及算力服务收入达到 484.37 亿元，经调整 EBITA 为 56.28 亿元，同比增长 133%，利润率升至 12%。AI 相关产品收入连续第 12 个季度实现三位数增长，本季度达到 123.76 亿元。 这组数字解释了市场对云业务的反应。同样亮眼的，还有以千问大模型为核心的一整套模型矩阵。过去一个月，阿里在大语言、图像、语音、视频、音乐五个方向上，密集摆出了一整排全球第一梯队的模型。 在这场愈演愈烈的模型大战里，绝大多数公司还在拼某一个单项，而阿里已经开始打团战。 01 模型 SOTA 是基操， 全线 SOTA 才是稀缺物 过去两年，一家 AI 公司拿下某个榜单的 SOTA，早已不算新闻。真正稀缺的，是同一家公司在同一时间窗口，把最重要的几类模型都推到全球第一梯队。 这份清单目前只有阿里能一次性交出： • 大语言模型 Qwen3.8-Max：总参数 2.4 万亿，CodeArena 编程竞技场全球第三，Artificial Analysi",
+    "url": "http://www.geekpark.net/news/369200",
+    "published": "Fri, 21 Aug 2026 18:15:12 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "极客公园",
+    "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
+    "summary": "头图来源：Wapoo 官网 极客公园获悉，面向 Gen Alpha 的视频共创社交平台 Wapoo 已完成近千万美元天使轮融资。本轮融资由某互联网集团旗下战略投资方投资，其在全球化产品运营、年轻用户生态及新兴市场拓展方面已具备一定积累，探奇资本担任公司独家融资顾问。目前，Wapoo 团队约 10 人，并已开始筹备下一轮融资。 过去十年，短视频完成了对全球用户注意力的接管，也逐渐逼近既有产品形态的边界。一个新的问题正在浮出水面：跟着 Roblox 和 Minecraft 长大的 Gen Alpha，是否还会满足于被动刷视频？ 他们习惯修改、共创，也习惯在数字世界留下自己的版本。但进入 TikTok、Instagram 等大众内容平台后，这些用户重新成为信息流里的观看者。现有平台承接了他们的注意力，却未必承接住了他们改变内容的欲望。 Wapoo 创始人杨名宇曾在快手负责用户研究，后在 TikTok 担任产品经理，从 0 到 1 负责 TikTok Stories、TikTok Now 等社交模块，并面对面访谈过大量来自不同国家和地区的短视频用户，对用户使用这类产品的需求和痛点有深刻了解。在",
+    "url": "http://www.geekpark.net/news/369162",
+    "published": "Fri, 21 Aug 2026 14:15:33 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "极客公园",
+    "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
+    "summary": "头图来源：chatgpt 生成 前几天，我们注意小红书在海外发布了一款大模型 dots3-note preview。 这款模型采用 MoE 架构，总参数 280B、激活参数 16B，支持 512K 上下文，并具备文本、视觉、语音的多模态理解能力。它属于 dots3 系列，后续还将有 jazz、aria 等不同定位的版本。作为先行发布的 note 版本，它更像是小红书将模型能力推向实际业务和开发者生态的第一步。 模型上线后，海外开发者社区很快开始讨论，Hugging Face 下载量破百，华为昇腾也在当天宣布完成适配；但在国内，这次发布暂时还没有掀起太大水花。 在这件事上，值得注意的并不只是又多了一款开源模型，而是 小红书开始公开展示自己的基础模型能力 。 作为一家月活超过 3 亿的平台，小红书拥有海量图文和视频内容，也积累了用户从「想去哪里」「买什么」到「如何解决一个生活问题」的消费决策数据。它选择自研并开源模型，意味着 AI 在小红书内部的角色，可能正在从搜索、推荐或创作工具中的一个功能，变成支撑整套产品能力的底座 。 如果把大模型看作数字世界的「工业母机」，这个动作就更容易理解。它",
+    "url": "http://www.geekpark.net/news/369161",
+    "published": "Fri, 21 Aug 2026 14:12:45 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-21"
@@ -310,46 +360,6 @@
     "fetchedAt": "2026-08-21"
   },
   {
-    "source": "极客公园",
-    "title": "Deepseek V4 Pro 正式版 API 上线，百万 Token 仅 6 元；腾讯计划近期发布 HY4 大模型；曝 iPhone18 至少涨价 2000 元起 | 极客早知道",
-    "summary": "DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5 8 月 13 日消息，DeepSeek V4 Pro 正式版正式发布，已更新至 API，调用模型名不变。 新版本增强了 Agent 能力，支持 Responses API 和 Codex 接入。 从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比之前的预览版能力大幅提升。 定价如下： 百万 tokens 输入（缓存命中）：0.025 元 百万 tokens 输入（缓存未命中）：3 元 百万 tokens 输出：6 元 （来源：IT 之家） 腾讯发布 2026 年 Q2 财报，第二季度营收 2048 亿元，计划近期发布 Hy4 腾讯控股发布 2026 年第二季度财报。财报显示，腾讯第二季度营收 2,047.9 亿元人民币，预估 2,028.4 亿元人民币；第二季度销售费用 118.7 亿元人民币，预估 119.6 亿元人民币；第二季度增值服务业务收入 984.1 亿元人民币。 腾讯表示，混",
-    "url": "http://www.geekpark.net/news/368747",
-    "published": "Thu, 13 Aug 2026 08:14:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "极客公园",
-    "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
-    "summary": "作者｜lfei 编辑｜靖宇 8 月 3 日， Genspark 创始人&CEO 景鲲在 AGI Playground 2026 大会上发布了 GenOffice 。这是一款 AI 深度集成的本地 Office 客户端，其亮点在于打通了从 AI 生成到工作交付间的链路：通过 GenOffice 打造的软件工程框架，模型得以 直接操作 Office 文件最复杂的底层格式，将生成内容转化为可编辑、可交付的 Word 和 PPT 成品。 Genspark 推出这样一款产品并不令人意外。 在 Genspark 的产品体系 AI WorkSpace 6.0 中，AI 办公套件是核心价值模块；Genspark 还上架了 Microsoft Office 插件 ，让用户能在本地的微软 Office 软件里，直接调用 Genspark 的 AI 能力。在文档的转换层上，Genspark 已经积累了足够的经验。 让人意外的是 Genspark 推出 GenOffice 的方式：开源、免费，Alpha 版即日推出，后续交给用户、团队和 AI Agent 共建迭代。 据 Genspark 介绍，产品的 Alp",
-    "url": "http://www.geekpark.net/news/368744",
-    "published": "Wed, 12 Aug 2026 17:24:24 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "极客公园",
-    "title": "AI 入口，开始收费",
-    "summary": "作者｜宇航猿 编辑｜靖宇 AI 将成为未来唯一的「入口」，这几乎是近年来的一个行业共识，但是这个「入口」如何变现，没人能给出答案。 不过，现在中国大厂的探索路径，已经清晰出现了。 8 月 10 日这个周末，两条看起来不相关的新闻几乎同时出现。 豆包宣布，通过其 AI 对话推荐跳转抖音来客成交的酒店订单，正式执行 12% 的独立佣金费率。 同一天，千问开放平台上线，顺丰、自如、盈米基金等十多个领域的服务商以 AI 智能体形态接入千问。 一个开始变现，一个把门打开。 这两件事放在一起看，信号非常明确——AI 助手喊了两年的「新入口」故事，现在终于开始探索变现了。 01 12%，贵吗？ 作为拥有超过 3.45 亿月活用户的超级 AI 应用，豆包此次曝出的手续费，无疑吸引了所有人的目光。 根据官方介绍， 12% 这个费率由 11.4% 的软件服务费和 0.6% 的支付手续费构成，从商家结算款里直接扣除，用户端不加价。 这件事真正值得注意的不是费率本身，而是一个身份转换。在此之前，豆包带来的酒店订单被直接合并为抖音自然流量，按 8% 的平台费率结算。从 8 月 10 日起，这些订单开始标注独立的",
-    "url": "http://www.geekpark.net/news/368740",
-    "published": "Wed, 12 Aug 2026 17:14:56 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "极客公园",
-    "title": "造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈",
-    "summary": "作者｜徐珊 编辑｜郑玄 上周 的 WAIC，人山人海。 每个展台 都在讲 AI，每件硬 件都说自己是「智能终端的下一代」。可你挤出场馆冷 静下来想想， 记住的产品 有几个？ 大部分设备，把 logo 遮住，你根本分不清谁是谁。 这就是 2026 年硬件行业最拧巴的地方，造东西从没这么容易过：模型写代码、3D 打印出外壳、深圳供应链一条龙。但也正因为谁都能造，同质化像潮水一样漫上来。真正的创新，成了比芯片还稀缺的东西。 可潮水底下，总有人在憋大招。而且我们发现，一旦谁真的跑出一个好的产品形态，市场会毫不犹豫地把钱砸过去。这就是造物时代的掘金逻辑：淘金的人挤破头，卖水的闷声发财，而定义新品类的人，直接画地图。 这一个月，我们顺 着几个 问题观察硬件创新的变化。 那些大技术会先在哪落地？ Starlink 的卫星信号绕过了手机，先去深山里接住了一只跑丢的狗，发短信都费劲的卫星直连，传一条狗的坐标刚刚好。 AI 硬件非得发明新物种吗？ 不一定。它钻进了孩子手里的放大镜、花坛里的一朵假花、你枕了三十年的枕头，旧物件，闹钟，AI 顺着人的旧习惯往里长，比让人适应新设备聪明多了。 我们还发现，现在传",
-    "url": "http://www.geekpark.net/news/368707",
-    "published": "Wed, 12 Aug 2026 11:39:29 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
     "source": "TechCrunch",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -415,6 +425,16 @@
     "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
     "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
     "published": "Thu, 20 Aug 2026 16:46:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei unveils Pura X View, a wide-screen slab phone",
+    "summary": "At an Aug. 20 launch event, Huawei unveiled the Pura X View, a conventional smartphone with a wider 16:9.5 display instead of the tall screen format used by most slab phones. The device has a 6.39-inch OLED display with 2,232-by-1,320 resolution and a 96.1% screen-to-body ratio, with four 1.05-millimeter bezels. The phone is 6.68 millimeters […]",
+    "url": "https://technode.com/2026/08/21/huawei-unveils-pura-x-view-a-wide-screen-slab-phone/",
+    "published": "Fri, 21 Aug 2026 05:48:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-21"
@@ -570,36 +590,6 @@
     "fetchedAt": "2026-08-21"
   },
   {
-    "source": "TechNode",
-    "title": "Tencent Backs Lovable in $400 Million Series C at $13.3 Billion Valuation",
-    "summary": "Lovable, a Stockholm-based software creation platform, has raised $400 million in Series C funding at a $13.3 billion valuation. The round was led by Menlo Ventures and co-led by EQT’s Scaleup Europe Fund. New investors include Tencent, Balderton Capital, Carmignac, Kaszek Ventures, LTS Growth, World Innovation Lab and Regent. Lovable provides tools that allow users […]",
-    "url": "https://technode.com/2026/08/13/tencent-backs-lovable-in-400-million-series-c-at-13-3-billion-valuation/",
-    "published": "Thu, 13 Aug 2026 05:45:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechNode",
-    "title": "Honor Launches Robot Phone with Gimbal Camera and AI Agent Features",
-    "summary": "Honor has launched its Robot Phone, a smartphone equipped with a four-degree-of-freedom titanium gimbal and a system-level AI agent architecture. The phone measures about 9.59 millimeters thick, weighs 248 grams and includes a 7,060mAh battery and a 6.31-inch display. The 12GB+512GB version is priced at 9,999 yuan, while the 16GB+1TB version costs 12,999 yuan. Pre-orders […]",
-    "url": "https://technode.com/2026/08/13/honor-launches-robot-phone-with-gimbal-camera-and-ai-agent-features/",
-    "published": "Thu, 13 Aug 2026 05:40:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechNode",
-    "title": "Alibaba Cloud Launches Qwen AI Arena for Real-World Agent Testing",
-    "summary": "Alibaba Cloud has launched Qwen AI Arena, a challenge and evaluation platform for AI agents. The platform creates tasks based on real business scenarios and provides developers with models, runtime environments and evaluation tools to submit and test agent solutions. Its first challenge focuses on cross-border e-commerce. Participants must generate product listings for the US, […]",
-    "url": "https://technode.com/2026/08/13/alibaba-cloud-launches-qwen-ai-arena-for-real-world-agent-testing/",
-    "published": "Thu, 13 Aug 2026 05:36:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
     "source": "The Verge",
     "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
     "summary": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing controllers. But what really sets it apart is […]",
@@ -620,216 +610,6 @@
     "fetchedAt": "2026-08-21"
   },
   {
-    "source": "The Verge",
-    "title": "It’s Greg Brockman’s OpenAI now",
-    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "published": "2026-08-20T11:45:55-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trying to launch a Spotify app? In this economy?",
-    "summary": "Article URL: https://bf.lol/blog/careless-spotify Comments URL: https://news.ycombinator.com/item?id=49382842 Points: 3 # Comments: 0",
-    "url": "https://bf.lol/blog/careless-spotify",
-    "published": "Fri, 21 Aug 2026 02:08:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-    "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs ",
-    "url": "https://github.com/runvendo/vendo",
-    "published": "Thu, 20 Aug 2026 15:29:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Sheeplaunch – Product Launch Platform",
-    "summary": "Article URL: https://sheeplaunch.com Comments URL: https://news.ycombinator.com/item?id=49373044 Points: 3 # Comments: 1",
-    "url": "https://sheeplaunch.com",
-    "published": "Thu, 20 Aug 2026 11:12:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49369420 Points: 4 # Comments: 0",
-    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
-    "published": "Thu, 20 Aug 2026 01:31:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "summary": "Article URL: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/ Comments URL: https://news.ycombinator.com/item?id=49369004 Points: 4 # Comments: 1",
-    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "published": "Thu, 20 Aug 2026 00:31:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "CIA funding helped keep NeXT afloat in the 80s",
-    "summary": "https://archive.is/JfB5V Comments URL: https://news.ycombinator.com/item?id=49368886 Points: 370 # Comments: 224",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "published": "Thu, 20 Aug 2026 00:15:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
-    "summary": "Article URL: https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/ Comments URL: https://news.ycombinator.com/item?id=49367180 Points: 13 # Comments: 6",
-    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
-    "published": "Wed, 19 Aug 2026 21:02:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition Comments URL: https://news.ycombinator.com/item?id=49366053 Points: 7 # Comments: 1",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
-    "published": "Wed, 19 Aug 2026 19:25:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-    "summary": "Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket. 3. manage team policy in one pl",
-    "url": "https://github.com/onecli/onecli",
-    "published": "Wed, 19 Aug 2026 16:29:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI says announcement it would buy Irish teenager's startup was a 'joke'",
-    "summary": "Article URL: https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html Comments URL: https://news.ycombinator.com/item?id=49359767 Points: 7 # Comments: 2",
-    "url": "https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html",
-    "published": "Wed, 19 Aug 2026 10:53:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "US Military funding propelled China's robot dogs",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 7 # Comments: 0",
-    "url": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
-    "published": "Wed, 19 Aug 2026 08:34:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "FR LandSpace Zhuque-3 Y2 launch and landing, August 18th/19th 2026 [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=eEchnrdDvBc Comments URL: https://news.ycombinator.com/item?id=49357818 Points: 4 # Comments: 1",
-    "url": "https://www.youtube.com/watch?v=eEchnrdDvBc",
-    "published": "Wed, 19 Aug 2026 06:48:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Satellite operators are in panic mode due to a worsening launch crisis",
-    "summary": "Article URL: https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/ Comments URL: https://news.ycombinator.com/item?id=49356693 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
-    "published": "Wed, 19 Aug 2026 04:10:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China's LandSpace beats SpaceX with steel-booster recovery after orbital launch",
-    "summary": "Article URL: https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch Comments URL: https://news.ycombinator.com/item?id=49355303 Points: 7 # Comments: 2",
-    "url": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch",
-    "published": "Wed, 19 Aug 2026 01:14:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Zorin OS: From the Hobby Project of Two Teenagers to a Growing Startup",
-    "summary": "Article URL: https://itsfoss.com/zorin-os-interview/ Comments URL: https://news.ycombinator.com/item?id=49350181 Points: 1 # Comments: 0",
-    "url": "https://itsfoss.com/zorin-os-interview/",
-    "published": "Tue, 18 Aug 2026 18:23:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI automation startup Relay.app shuts down, staff joins Google's Chrome team",
-    "summary": "Article URL: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/ Comments URL: https://news.ycombinator.com/item?id=49349596 Points: 4 # Comments: 1",
-    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "published": "Tue, 18 Aug 2026 17:49:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI chip startup Etched doubles valuation to $21B in under a month",
-    "summary": "Article URL: https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49349122 Points: 3 # Comments: 2",
-    "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
-    "published": "Tue, 18 Aug 2026 17:23:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-    "summary": "Hi HN! I’m Barnaby, founder of machine0 ( https://machine0.io ). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP. Demo: https://www.youtube.com/watch?v=gyllkZ0M04E Agent workloads are moving from ephemeral to always-on. A coding agent working on a complex feature runs 6-8 hours. A",
-    "url": "https://machine0.io",
-    "published": "Tue, 18 Aug 2026 16:26:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: CoFoundMe – I gamified finding collaborators for your project/startup",
-    "summary": "Hi guys I know ur time is valuable so I will keep this short. Ever since I was in uni I saw that its been difficult for people finding collaborators for your project/startup. Building something is easier than ever but finding collaborators has never been more difficult. so I interviewed 1083 users (yea i know thats a lot but i needed some validation hehe). Half of them did not hear about yc cofounder matching and other platforms and the ones who were using them still found it quite painful and e",
-    "url": "https://cofoundme.app",
-    "published": "Tue, 18 Aug 2026 12:59:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: FundNI – Indexing fragmented community funding across Northern Ireland",
-    "summary": "Article URL: https://www.fundni.org/ Comments URL: https://news.ycombinator.com/item?id=49344449 Points: 2 # Comments: 1",
-    "url": "https://www.fundni.org/",
-    "published": "Tue, 18 Aug 2026 12:04:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
     "source": "GitHub新星",
     "title": "s1dashu/ip-as-logo-skill",
     "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
@@ -839,8 +619,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 3215,
-      "forks": 157,
+      "stars": 3375,
+      "forks": 164,
       "language": null,
       "createdDaysAgo": 2
     }
@@ -855,10 +635,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 2788,
-      "forks": 331,
+      "stars": 2833,
+      "forks": 342,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -871,8 +651,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 1736,
-      "forks": 180,
+      "stars": 1911,
+      "forks": 199,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -887,7 +667,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 1200,
+      "stars": 1203,
       "forks": 5,
       "language": "JavaScript",
       "createdDaysAgo": 3
@@ -903,7 +683,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 1037,
+      "stars": 1036,
       "forks": 67,
       "language": null,
       "createdDaysAgo": 4
@@ -919,10 +699,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 926,
+      "stars": 929,
       "forks": 95,
       "language": "Python",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wang2122/sprix-sage-router",
+    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "published": "2026-08-18T04:08:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-21",
+    "meta": {
+      "stars": 926,
+      "forks": 12,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -935,8 +731,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 838,
-      "forks": 178,
+      "stars": 922,
+      "forks": 195,
       "language": "JavaScript",
       "createdDaysAgo": 2
     }
@@ -951,26 +747,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 801,
+      "stars": 802,
       "forks": 90,
       "language": "Python",
       "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "wang2122/sprix-sage-router",
-    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "published": "2026-08-18T04:08:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-21",
-    "meta": {
-      "stars": 716,
-      "forks": 11,
-      "language": "Python",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -983,7 +763,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 643,
+      "stars": 660,
       "forks": 38,
       "language": "Swift",
       "createdDaysAgo": 2
@@ -999,7 +779,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 634,
+      "stars": 651,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 4
