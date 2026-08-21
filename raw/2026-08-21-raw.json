@@ -90,16 +90,6 @@
     "fetchedAt": "2026-08-21"
   },
   {
-    "source": "钛媒体",
-    "title": "2026WRC，具身智能的非共识时刻",
-    "summary": "在这种“能力进化”的叙事之下，不同参与者的路线分歧正悄然撕裂行业共识。",
-    "url": "https://www.tmtpost.com/8111894.html",
-    "published": "Fri, 21 Aug 2026 17:16:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
     "source": "极客公园",
     "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
     "summary": "作者｜Cynthia 编辑｜靖宇 7 月 31 日，MiniMax H3 发布当天，我们就做了实测。 屏幕上的进度指示走到尽头，一段最高 2K 分辨率的视频出现在屏幕：画面、运动、声音被协调地装在同一个结果里。无论流畅度、画面精细程度，还是后期的视频修改操作便捷度，这无疑都是当前行业的 SOTA 级模型。 榜单成果也验证了我们的猜想。截至 8 月中旬，Artificial Analysis 的视频编辑榜上，H3 位列第一；在文生视频与图生视频榜单中，它同样处于第一梯队，全球前三。模型发布的同一时间，MiniMax 还顺便官宣了 H3 加量不加价，定价仅为同级别产品的三分之一，每秒 8 毛，一杯奶茶钱，就能完成一轮视频素材的 A/B/C 测试。 然后，新的问题来了：模型生成质量越来越高，成本越来越低，老板们想要一周发它个七八十条视频的宏伟商业构想也开始变得势不可挡。 但老板们似乎忘记了，写一条视频片段的提示词，仍需要老师傅非遗式古法手敲几千字；要保证片段间的风格一致性，也依然需要手动抽卡，赛博祈愿模型能够稳定发挥。 这部分真正费时费力的地方，效率并没有提升。 于是，仅仅过了 4 天，8 ",
@@ -361,70 +351,40 @@
   },
   {
     "source": "TechCrunch",
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "published": "Fri, 21 Aug 2026 22:10:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+    "published": "Fri, 21 Aug 2026 19:16:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "TechCrunch",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "published": "Fri, 21 Aug 2026 00:13:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle […]",
-    "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-    "published": "Thu, 20 Aug 2026 23:32:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "published": "Thu, 20 Aug 2026 19:15:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-    "summary": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-    "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-    "published": "Thu, 20 Aug 2026 19:01:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
-    "url": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "published": "Thu, 20 Aug 2026 17:27:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-21"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ramp launches its own AI model router, called Router",
-    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "published": "Thu, 20 Aug 2026 16:46:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-21"
@@ -591,20 +551,230 @@
   },
   {
     "source": "The Verge",
-    "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
-    "summary": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing controllers. But what really sets it apart is […]",
-    "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
-    "published": "2026-08-20T22:00:00-04:00",
+    "title": "HoverAir’s transforming modular drone has already been halted in the US",
+    "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping […]",
+    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+    "published": "2026-08-21T18:14:11-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-21"
   },
   {
     "source": "The Verge",
-    "title": "Riot is ending development on its League of Legends fighting game",
-    "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will […]",
-    "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
-    "published": "2026-08-20T15:59:09-04:00",
+    "title": "Why does it seem like food recalls are out of control this year?",
+    "summary": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come from Midwest Poultry Services, were distributed to Kroger and smaller grocery stores across the South and Southwest […]",
+    "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
+    "published": "2026-08-21T10:45:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google’s Pixel 10A is a great deal at 15 percent off",
+    "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold. They’re good phones, but if you don’t mind missing out on their new, […]",
+    "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
+    "published": "2026-08-21T10:35:22-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49393230 Points: 5 # Comments: 2",
+    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "published": "Fri, 21 Aug 2026 20:10:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Put your startup on the map. Get visibility. Anyone can steal your spot back",
+    "summary": "Article URL: https://www.flagwars.lol/ Comments URL: https://news.ycombinator.com/item?id=49390504 Points: 2 # Comments: 0",
+    "url": "https://www.flagwars.lol/",
+    "published": "Fri, 21 Aug 2026 16:30:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
+    "summary": "Article URL: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49386851 Points: 4 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "published": "Fri, 21 Aug 2026 12:05:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Building a startup in Europe: What visiting 58 Companies in 3 Weeks taught me",
+    "summary": "Article URL: https://bensdl.substack.com/p/building-a-startup-in-europe-what Comments URL: https://news.ycombinator.com/item?id=49386774 Points: 5 # Comments: 0",
+    "url": "https://bensdl.substack.com/p/building-a-startup-in-europe-what",
+    "published": "Fri, 21 Aug 2026 11:57:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Payluck – a startup directory where luck decides your discount",
+    "summary": "Article URL: https://payluck.lol/ Comments URL: https://news.ycombinator.com/item?id=49385687 Points: 1 # Comments: 0",
+    "url": "https://payluck.lol/",
+    "published": "Fri, 21 Aug 2026 09:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stripe Buys A.I. Startup OpenRouter for $7.5B",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html Comments URL: https://news.ycombinator.com/item?id=49385595 Points: 2 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+    "published": "Fri, 21 Aug 2026 09:05:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why to Start a Startup in a Bad Economy (2008)",
+    "summary": "Article URL: https://paulgraham.com/badeconomy.html Comments URL: https://news.ycombinator.com/item?id=49384951 Points: 1 # Comments: 0",
+    "url": "https://paulgraham.com/badeconomy.html",
+    "published": "Fri, 21 Aug 2026 07:32:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "California Draws More Startup Investment Than All Other 49 States Combined",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde Comments URL: https://news.ycombinator.com/item?id=49383972 Points: 6 # Comments: 4",
+    "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+    "published": "Fri, 21 Aug 2026 04:57:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trying to launch a Spotify app? In this economy?",
+    "summary": "Article URL: https://bf.lol/blog/careless-spotify Comments URL: https://news.ycombinator.com/item?id=49382842 Points: 3 # Comments: 0",
+    "url": "https://bf.lol/blog/careless-spotify",
+    "published": "Fri, 21 Aug 2026 02:08:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs ",
+    "url": "https://github.com/runvendo/vendo",
+    "published": "Thu, 20 Aug 2026 15:29:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sheeplaunch – Product Launch Platform",
+    "summary": "Article URL: https://sheeplaunch.com Comments URL: https://news.ycombinator.com/item?id=49373044 Points: 3 # Comments: 1",
+    "url": "https://sheeplaunch.com",
+    "published": "Thu, 20 Aug 2026 11:12:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49369420 Points: 4 # Comments: 0",
+    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
+    "published": "Thu, 20 Aug 2026 01:31:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "Article URL: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/ Comments URL: https://news.ycombinator.com/item?id=49369004 Points: 4 # Comments: 1",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "published": "Thu, 20 Aug 2026 00:31:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CIA funding helped keep NeXT afloat in the 80s",
+    "summary": "https://archive.is/JfB5V Comments URL: https://news.ycombinator.com/item?id=49368886 Points: 441 # Comments: 266",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "published": "Thu, 20 Aug 2026 00:15:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
+    "summary": "Article URL: https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/ Comments URL: https://news.ycombinator.com/item?id=49367180 Points: 13 # Comments: 6",
+    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
+    "published": "Wed, 19 Aug 2026 21:02:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition Comments URL: https://news.ycombinator.com/item?id=49366053 Points: 7 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+    "published": "Wed, 19 Aug 2026 19:25:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+    "summary": "Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat. 2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket. 3. manage team policy in one pl",
+    "url": "https://github.com/onecli/onecli",
+    "published": "Wed, 19 Aug 2026 16:29:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI says announcement it would buy Irish teenager's startup was a 'joke'",
+    "summary": "Article URL: https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html Comments URL: https://news.ycombinator.com/item?id=49359767 Points: 7 # Comments: 2",
+    "url": "https://www.independent.ie/business/irish-business/openai-says-announcement-it-would-buy-irish-teenagers-start-up-was-meant-as-a-joke/a/160138187.html",
+    "published": "Wed, 19 Aug 2026 10:53:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "US Military funding propelled China's robot dogs",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49358719 Points: 7 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
+    "published": "Wed, 19 Aug 2026 08:34:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FR LandSpace Zhuque-3 Y2 launch and landing, August 18th/19th 2026 [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eEchnrdDvBc Comments URL: https://news.ycombinator.com/item?id=49357818 Points: 4 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=eEchnrdDvBc",
+    "published": "Wed, 19 Aug 2026 06:48:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-21"
@@ -619,10 +789,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 3375,
-      "forks": 164,
+      "stars": 3478,
+      "forks": 171,
       "language": null,
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -635,8 +805,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 2833,
-      "forks": 342,
+      "stars": 2858,
+      "forks": 346,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -651,8 +821,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 1911,
-      "forks": 199,
+      "stars": 2111,
+      "forks": 226,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -670,7 +840,7 @@
       "stars": 1203,
       "forks": 5,
       "language": "JavaScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -686,23 +856,7 @@
       "stars": 1036,
       "forks": 67,
       "language": null,
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Leutenegger/watermarks-remover",
-    "summary": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-    "url": "https://github.com/Leutenegger/watermarks-remover",
-    "published": "2026-08-19T15:20:24Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-21",
-    "meta": {
-      "stars": 929,
-      "forks": 95,
-      "language": "Python",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 5
     }
   },
   {
@@ -715,7 +869,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 926,
+      "stars": 1009,
       "forks": 12,
       "language": "Python",
       "createdDaysAgo": 3
@@ -731,9 +885,25 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 922,
-      "forks": 195,
+      "stars": 982,
+      "forks": 196,
       "language": "JavaScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Leutenegger/watermarks-remover",
+    "summary": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+    "url": "https://github.com/Leutenegger/watermarks-remover",
+    "published": "2026-08-19T15:20:24Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-21",
+    "meta": {
+      "stars": 929,
+      "forks": 95,
+      "language": "Python",
       "createdDaysAgo": 2
     }
   },
@@ -747,10 +917,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 802,
-      "forks": 90,
+      "stars": 803,
+      "forks": 91,
       "language": "Python",
       "createdDaysAgo": 0
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "browser-use/macos-harness",
+    "summary": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+    "url": "https://github.com/browser-use/macos-harness",
+    "published": "2026-08-17T00:22:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-21",
+    "meta": {
+      "stars": 685,
+      "forks": 45,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -763,10 +949,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 660,
-      "forks": 38,
+      "stars": 675,
+      "forks": 39,
       "language": "Swift",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -779,7 +965,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-21",
     "meta": {
-      "stars": 651,
+      "stars": 668,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 4
