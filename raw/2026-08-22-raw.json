@@ -391,6 +391,36 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+    "published": "Sat, 22 Aug 2026 20:24:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "US battery startups have found a lifeline in defense",
+    "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+    "published": "Sat, 22 Aug 2026 15:20:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Michael Polansky is training an AI model on skin that’s still alive",
     "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
     "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
@@ -425,16 +455,6 @@
     "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
     "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
     "published": "Fri, 21 Aug 2026 19:16:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-22"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "summary": "There's about to be a big fight to secure access to space.",
-    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "published": "Fri, 21 Aug 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-22"
@@ -601,6 +621,16 @@
   },
   {
     "source": "The Verge",
+    "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+    "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
+    "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+    "published": "2026-08-22T09:41:01-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "The Verge",
     "title": "HoverAir’s transforming modular drone has already been halted in the US",
     "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping […]",
     "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
@@ -610,21 +640,31 @@
     "fetchedAt": "2026-08-22"
   },
   {
-    "source": "The Verge",
-    "title": "Why does it seem like food recalls are out of control this year?",
-    "summary": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The eggs, which come from Midwest Poultry Services, were distributed to Kroger and smaller grocery stores across the South and Southwest […]",
-    "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-    "published": "2026-08-21T10:45:00-04:00",
+    "source": "Hacker News",
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49402436 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "published": "Sat, 22 Aug 2026 18:32:51 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-22"
   },
   {
-    "source": "The Verge",
-    "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-    "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold. They’re good phones, but if you don’t mind missing out on their new, […]",
-    "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-    "published": "2026-08-21T10:35:22-04:00",
+    "source": "Hacker News",
+    "title": "Vallley – Live Startup Jobs",
+    "summary": "Article URL: https://vallley.xyz Comments URL: https://news.ycombinator.com/item?id=49401927 Points: 2 # Comments: 1",
+    "url": "https://vallley.xyz",
+    "published": "Sat, 22 Aug 2026 17:40:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Harvard's A.I. Clones Will Hear Your Startup Pitch Now",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html Comments URL: https://news.ycombinator.com/item?id=49400264 Points: 4 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+    "published": "Sat, 22 Aug 2026 14:41:26 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-22"
@@ -651,18 +691,8 @@
   },
   {
     "source": "Hacker News",
-    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49396296 Points: 4 # Comments: 2",
-    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-    "published": "Sat, 22 Aug 2026 03:20:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-22"
-  },
-  {
-    "source": "Hacker News",
     "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 0",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 1",
     "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
     "published": "Sat, 22 Aug 2026 00:07:06 +0000",
     "lang": "en",
@@ -800,75 +830,17 @@
     "fetchedAt": "2026-08-22"
   },
   {
-    "source": "Hacker News",
-    "title": "CIA funding helped keep NeXT afloat in the 80s",
-    "summary": "https://archive.is/JfB5V Comments URL: https://news.ycombinator.com/item?id=49368886 Points: 446 # Comments: 269",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "published": "Thu, 20 Aug 2026 00:15:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-22"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
-    "summary": "Article URL: https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/ Comments URL: https://news.ycombinator.com/item?id=49367180 Points: 13 # Comments: 6",
-    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
-    "published": "Wed, 19 Aug 2026 21:02:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-22"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition Comments URL: https://news.ycombinator.com/item?id=49366053 Points: 7 # Comments: 1",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
-    "published": "Wed, 19 Aug 2026 19:25:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-22"
-  },
-  {
     "source": "微博",
-    "title": "#人形机器人为什么一定要是人形#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23人形机器人为什么一定要是人形%23",
+    "title": "#世界人形机器人运动会亮点#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23世界人形机器人运动会亮点%23",
     "published": "2026-08-22",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "hotValue": 109747,
-      "rank": 49
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "李彦宏提出要让文心一言回到第一梯队",
-    "summary": "8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。",
-    "url": "https://www.v2ex.com/t/1236348",
-    "published": 1787364107,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "replies": 42,
-      "node": "人工智能"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了",
-    "summary": "这几天，当我们陆续完成即我桌面端到 DeepSeek Harness 的迁移后，我忽然发现，接下来我没活可派了。 Agent 的能力，DSH 的基建已经做的很好并在持续迭代；面向用户的所有界面，完全可由用户按自己的想法生成。实在懒得弄？插件市场有一堆他人开发的效果不错的插件。 我们唯一要做的，只是做好后端的定义，把数据存好，把接口给好。在用户哪些新场景需求没办法满足的时候，再对后端做点迭代。 绝大多数情况下，已经不需要开发者再干什么了！ 这不仅是我的个人感受，而是全团队都发现了的不可回避的事实。 在基于 DSH 的即我客户端落地的过程中，有几个同事，基于自己的需求",
-    "url": "https://www.v2ex.com/t/1236307",
-    "published": 1787323102,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "replies": 40,
-      "node": "AI Agent 智能体"
+      "hotValue": 551216,
+      "rank": 2
     }
   },
   {
@@ -881,10 +853,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 3609,
-      "forks": 178,
+      "stars": 3773,
+      "forks": 180,
       "language": null,
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -897,8 +869,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 2890,
-      "forks": 347,
+      "stars": 2900,
+      "forks": 350,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -913,58 +885,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 2226,
-      "forks": 248,
+      "stars": 2315,
+      "forks": 266,
       "language": "TypeScript",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "cinderline/northcinder",
-    "summary": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-    "url": "https://github.com/cinderline/northcinder",
-    "published": "2026-08-17T11:42:31Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 1203,
-      "forks": 5,
-      "language": "JavaScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "wang2122/sprix-sage-router",
-    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "published": "2026-08-18T04:08:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 1145,
-      "forks": 12,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "vvxw/deploy-vercel",
-    "summary": "Install Command：npm install",
-    "url": "https://github.com/vvxw/deploy-vercel",
-    "published": "2026-08-18T13:25:45Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 1062,
-      "forks": 217,
-      "language": "JavaScript",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -977,10 +901,58 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 1043,
-      "forks": 105,
+      "stars": 1834,
+      "forks": 185,
       "language": "HTML",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wang2122/sprix-sage-router",
+    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "published": "2026-08-18T04:08:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 1243,
+      "forks": 12,
+      "language": "Python",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cinderline/northcinder",
+    "summary": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+    "url": "https://github.com/cinderline/northcinder",
+    "published": "2026-08-17T11:42:31Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 1205,
+      "forks": 6,
+      "language": "JavaScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "vvxw/deploy-vercel",
+    "summary": "Install Command：npm install",
+    "url": "https://github.com/vvxw/deploy-vercel",
+    "published": "2026-08-18T13:25:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 1114,
+      "forks": 233,
+      "language": "JavaScript",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -993,10 +965,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 1038,
+      "stars": 1039,
       "forks": 67,
       "language": null,
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1009,10 +981,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 931,
+      "stars": 934,
       "forks": 95,
       "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1041,40 +1013,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 700,
-      "forks": 46,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "DenisSergeevitch/desktop-fly",
-    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-    "url": "https://github.com/DenisSergeevitch/desktop-fly",
-    "published": "2026-08-18T17:29:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 686,
-      "forks": 41,
-      "language": "Swift",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "SigmanticAI/apex-inference-chip",
-    "summary": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-    "url": "https://github.com/SigmanticAI/apex-inference-chip",
-    "published": "2026-08-17T04:25:26Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 675,
-      "forks": 1,
+      "stars": 708,
+      "forks": 49,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -1089,10 +1029,42 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 642,
-      "forks": 44,
+      "stars": 703,
+      "forks": 47,
       "language": "JavaScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "DenisSergeevitch/desktop-fly",
+    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "published": "2026-08-18T17:29:17Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 692,
+      "forks": 42,
+      "language": "Swift",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "SigmanticAI/apex-inference-chip",
+    "summary": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+    "url": "https://github.com/SigmanticAI/apex-inference-chip",
+    "published": "2026-08-17T04:25:26Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 680,
+      "forks": 1,
+      "language": "Python",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1106,9 +1078,9 @@
     "fetchedAt": "2026-08-22",
     "meta": {
       "stars": 608,
-      "forks": 79,
+      "forks": 78,
       "language": "Python",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1121,8 +1093,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 597,
-      "forks": 36,
+      "stars": 604,
+      "forks": 37,
       "language": "Swift",
       "createdDaysAgo": 3
     }
@@ -1137,10 +1109,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 579,
+      "stars": 580,
       "forks": 61,
       "language": "Shell",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+    "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "published": "2026-08-18T03:13:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 551,
+      "forks": 21,
+      "language": "JavaScript",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1153,10 +1141,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 537,
+      "stars": 541,
       "forks": 99,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1172,23 +1160,7 @@
       "stars": 526,
       "forks": 96,
       "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "flaqai/backlink_skills",
-    "summary": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
-    "url": "https://github.com/flaqai/backlink_skills",
-    "published": "2026-08-17T06:46:51Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 517,
-      "forks": 184,
-      "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 3
     }
   }
 ]
