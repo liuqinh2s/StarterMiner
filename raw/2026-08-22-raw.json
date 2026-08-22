@@ -71,10 +71,50 @@
   },
   {
     "source": "钛媒体",
+    "title": "王坚的“遗产”，为阿里留出后路",
+    "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
+    "url": "https://www.tmtpost.com/8112848.html",
+    "published": "Sat, 22 Aug 2026 18:27:40 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "钛媒体",
+    "title": "探展2026WRC：具身智能正开启一场PMF长跑",
+    "summary": "底层规则的改写从来不会立刻兑现成生意，具身智能是场宏大的实验，路线之争没有结论，场景之争刚开始，规模之争才冒头，PMF不是终点，而是一场正在进行的长跑。",
+    "url": "https://www.tmtpost.com/8112679.html",
+    "published": "Sat, 22 Aug 2026 17:58:11 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "钛媒体",
+    "title": "【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……",
+    "summary": "（8月17日~8月22日）王兴兴称机器人工厂工作暂时不能大规模推广；阿里二季度财报：AI投入继续影响利润和现金流；美商务部长：不希望苹果从中国采购存储芯片",
+    "url": "https://www.tmtpost.com/8112858.html",
+    "published": "Sat, 22 Aug 2026 16:22:33 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "钛媒体",
     "title": "WRC2026深度观察：机器人行业，正在去表演化、去差异化",
     "summary": "看似火热的WRC展会之下，人形机器人的创新红利正在悄悄消退。",
     "url": "https://www.tmtpost.com/8112444.html",
     "published": "Sat, 22 Aug 2026 10:11:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "极客公园",
+    "title": "越会用 AI 的人，学习能力退化得越快",
+    "summary": "「坏 AI，使人笨！」 作者｜张勇毅 编辑｜靖宇 「AI 用多了，人会不会逐渐变笨？」 这应该是过去三年被讨论最多的一个迷思之一，从 ChatGPT 走红那天就有。吵了三年多，两边都拿不出像样的证据： 担心的人只有体感，不担心的人只有立场。 8 月 18 日，《经济学人》给这场争论补上了迄今最硬的一份证据。 报道的主角是 2.7 万名中国中学生。用上 AI 之后，他们的作业分数平均涨了 18%，写一份作业的时间从 64 分钟缩到 45 分钟。到这里全是好消息，直到月考卷子发下来：闭卷考试里， 这批学生的成绩比不用 AI 的同学低了 20% 。 作业分曾是最可靠的「晴雨表」：作业越好，考试越好。而在用 AI 的学生中间，作业分越高，基本等于 AI 用得越深。于是曲线变成了：用得越狠的孩子，考试跌得越惨。 作业分，第一次开始撒谎。 作业分超过 100 的人之中，不用 AI 的人分数上涨到了 112，用 AI 之后一路跳水到 64。｜图片来源：经济学人 《经济学人》的数据底稿，是斯德哥尔摩大学和香港大学三位经济学家 6 月挂出的论文，标题就叫《生成式 AI 学习惩罚》。 《生成式 AI 学习",
+    "url": "http://www.geekpark.net/news/369212",
+    "published": "Sat, 22 Aug 2026 18:07:50 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-22"
@@ -590,6 +630,248 @@
     "fetchedAt": "2026-08-22"
   },
   {
+    "source": "Hacker News",
+    "title": "Im 18 and building my startup and this is what I feel",
+    "summary": "Hi My name is ritu and ive built an autoML tool. The intention of this post to let people know about my journey because im tired to express my self to chatGPT. I am women in tech, majority of women are in biology , i was about to but i took u turn and chose IT idk why i mean i had PCB in higher secondary and i decided to choose a tech degree so i can build my startup. things are bit frustrating for me because im young, inexperienced, exhausted. People now started glorifying young builders but if",
+    "url": "https://news.ycombinator.com/item?id=49398505",
+    "published": "Sat, 22 Aug 2026 11:09:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ISRO will not make any launch vehicle, all tech to be handed to private sector",
+    "summary": "Article URL: https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21 Comments URL: https://news.ycombinator.com/item?id=49398045 Points: 2 # Comments: 1",
+    "url": "https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21",
+    "published": "Sat, 22 Aug 2026 09:28:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49396296 Points: 4 # Comments: 2",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "published": "Sat, 22 Aug 2026 03:20:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+    "published": "Sat, 22 Aug 2026 00:07:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49393230 Points: 7 # Comments: 2",
+    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "published": "Fri, 21 Aug 2026 20:10:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Put your startup on the map. Get visibility. Anyone can steal your spot back",
+    "summary": "Article URL: https://www.flagwars.lol/ Comments URL: https://news.ycombinator.com/item?id=49390504 Points: 2 # Comments: 0",
+    "url": "https://www.flagwars.lol/",
+    "published": "Fri, 21 Aug 2026 16:30:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
+    "summary": "Article URL: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49386851 Points: 4 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "published": "Fri, 21 Aug 2026 12:05:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Building a startup in Europe: What visiting 58 Companies in 3 Weeks taught me",
+    "summary": "Article URL: https://bensdl.substack.com/p/building-a-startup-in-europe-what Comments URL: https://news.ycombinator.com/item?id=49386774 Points: 5 # Comments: 0",
+    "url": "https://bensdl.substack.com/p/building-a-startup-in-europe-what",
+    "published": "Fri, 21 Aug 2026 11:57:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Payluck – a startup directory where luck decides your discount",
+    "summary": "Article URL: https://payluck.lol/ Comments URL: https://news.ycombinator.com/item?id=49385687 Points: 1 # Comments: 0",
+    "url": "https://payluck.lol/",
+    "published": "Fri, 21 Aug 2026 09:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stripe Buys A.I. Startup OpenRouter for $7.5B",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html Comments URL: https://news.ycombinator.com/item?id=49385595 Points: 2 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+    "published": "Fri, 21 Aug 2026 09:05:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why to Start a Startup in a Bad Economy (2008)",
+    "summary": "Article URL: https://paulgraham.com/badeconomy.html Comments URL: https://news.ycombinator.com/item?id=49384951 Points: 1 # Comments: 0",
+    "url": "https://paulgraham.com/badeconomy.html",
+    "published": "Fri, 21 Aug 2026 07:32:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "California Draws More Startup Investment Than All Other 49 States Combined",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde Comments URL: https://news.ycombinator.com/item?id=49383972 Points: 6 # Comments: 4",
+    "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+    "published": "Fri, 21 Aug 2026 04:57:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trying to launch a Spotify app? In this economy?",
+    "summary": "Article URL: https://bf.lol/blog/careless-spotify Comments URL: https://news.ycombinator.com/item?id=49382842 Points: 3 # Comments: 0",
+    "url": "https://bf.lol/blog/careless-spotify",
+    "published": "Fri, 21 Aug 2026 02:08:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs ",
+    "url": "https://github.com/runvendo/vendo",
+    "published": "Thu, 20 Aug 2026 15:29:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sheeplaunch – Product Launch Platform",
+    "summary": "Article URL: https://sheeplaunch.com Comments URL: https://news.ycombinator.com/item?id=49373044 Points: 3 # Comments: 1",
+    "url": "https://sheeplaunch.com",
+    "published": "Thu, 20 Aug 2026 11:12:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49369420 Points: 4 # Comments: 0",
+    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
+    "published": "Thu, 20 Aug 2026 01:31:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "Article URL: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/ Comments URL: https://news.ycombinator.com/item?id=49369004 Points: 4 # Comments: 1",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "published": "Thu, 20 Aug 2026 00:31:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CIA funding helped keep NeXT afloat in the 80s",
+    "summary": "https://archive.is/JfB5V Comments URL: https://news.ycombinator.com/item?id=49368886 Points: 446 # Comments: 269",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "published": "Thu, 20 Aug 2026 00:15:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
+    "summary": "Article URL: https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/ Comments URL: https://news.ycombinator.com/item?id=49367180 Points: 13 # Comments: 6",
+    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
+    "published": "Wed, 19 Aug 2026 21:02:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition Comments URL: https://news.ycombinator.com/item?id=49366053 Points: 7 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+    "published": "Wed, 19 Aug 2026 19:25:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-22"
+  },
+  {
+    "source": "微博",
+    "title": "#人形机器人为什么一定要是人形#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23人形机器人为什么一定要是人形%23",
+    "published": "2026-08-22",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "hotValue": 109747,
+      "rank": 49
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "李彦宏提出要让文心一言回到第一梯队",
+    "summary": "8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。",
+    "url": "https://www.v2ex.com/t/1236348",
+    "published": 1787364107,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "replies": 42,
+      "node": "人工智能"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了",
+    "summary": "这几天，当我们陆续完成即我桌面端到 DeepSeek Harness 的迁移后，我忽然发现，接下来我没活可派了。 Agent 的能力，DSH 的基建已经做的很好并在持续迭代；面向用户的所有界面，完全可由用户按自己的想法生成。实在懒得弄？插件市场有一堆他人开发的效果不错的插件。 我们唯一要做的，只是做好后端的定义，把数据存好，把接口给好。在用户哪些新场景需求没办法满足的时候，再对后端做点迭代。 绝大多数情况下，已经不需要开发者再干什么了！ 这不仅是我的个人感受，而是全团队都发现了的不可回避的事实。 在基于 DSH 的即我客户端落地的过程中，有几个同事，基于自己的需求",
+    "url": "https://www.v2ex.com/t/1236307",
+    "published": 1787323102,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "replies": 40,
+      "node": "AI Agent 智能体"
+    }
+  },
+  {
     "source": "GitHub新星",
     "title": "s1dashu/ip-as-logo-skill",
     "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
@@ -599,8 +881,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 3515,
-      "forks": 173,
+      "stars": 3609,
+      "forks": 178,
       "language": null,
       "createdDaysAgo": 3
     }
@@ -615,10 +897,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 2872,
-      "forks": 346,
+      "stars": 2890,
+      "forks": 347,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -631,8 +913,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 2154,
-      "forks": 232,
+      "stars": 2226,
+      "forks": 248,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -640,7 +922,7 @@
   {
     "source": "GitHub新星",
     "title": "cinderline/northcinder",
-    "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+    "summary": "Open-source MCP server for comparing products and asking the buyer before purchase.",
     "url": "https://github.com/cinderline/northcinder",
     "published": "2026-08-17T11:42:31Z",
     "lang": "en",
@@ -655,18 +937,18 @@
   },
   {
     "source": "GitHub新星",
-    "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-    "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
-    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-    "published": "2026-08-16T11:38:42Z",
+    "title": "wang2122/sprix-sage-router",
+    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "published": "2026-08-18T04:08:11Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 1035,
-      "forks": 67,
-      "language": null,
-      "createdDaysAgo": 5
+      "stars": 1145,
+      "forks": 12,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -679,26 +961,42 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 1013,
-      "forks": 202,
+      "stars": 1062,
+      "forks": 217,
       "language": "JavaScript",
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "wang2122/sprix-sage-router",
-    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "url": "https://github.com/wang2122/sprix-sage-router",
-    "published": "2026-08-18T04:08:11Z",
+    "title": "MengTo/threeui",
+    "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+    "url": "https://github.com/MengTo/threeui",
+    "published": "2026-08-21T11:56:39Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 1009,
-      "forks": 12,
-      "language": "Python",
-      "createdDaysAgo": 4
+      "stars": 1043,
+      "forks": 105,
+      "language": "HTML",
+      "createdDaysAgo": 0
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "published": "2026-08-16T11:38:42Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 1038,
+      "forks": 67,
+      "language": null,
+      "createdDaysAgo": 5
     }
   },
   {
@@ -711,7 +1009,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 930,
+      "stars": 931,
       "forks": 95,
       "language": "Python",
       "createdDaysAgo": 2
@@ -735,22 +1033,6 @@
   },
   {
     "source": "GitHub新星",
-    "title": "MengTo/threeui",
-    "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-    "url": "https://github.com/MengTo/threeui",
-    "published": "2026-08-21T11:56:39Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 700,
-      "forks": 71,
-      "language": "HTML",
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
     "title": "browser-use/macos-harness",
     "summary": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
     "url": "https://github.com/browser-use/macos-harness",
@@ -759,8 +1041,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 693,
-      "forks": 45,
+      "stars": 700,
+      "forks": 46,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -775,8 +1057,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 679,
-      "forks": 39,
+      "stars": 686,
+      "forks": 41,
       "language": "Swift",
       "createdDaysAgo": 3
     }
@@ -791,10 +1073,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 672,
+      "stars": 675,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Spielewoy/autoprompt-skill",
+    "summary": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "published": "2026-08-17T22:40:47Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 642,
+      "forks": 44,
+      "language": "JavaScript",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -815,22 +1113,6 @@
   },
   {
     "source": "GitHub新星",
-    "title": "Spielewoy/autoprompt-skill",
-    "summary": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "url": "https://github.com/Spielewoy/autoprompt-skill",
-    "published": "2026-08-17T22:40:47Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 597,
-      "forks": 43,
-      "language": "JavaScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
     "title": "missuo/herdrm",
     "summary": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
     "url": "https://github.com/missuo/herdrm",
@@ -839,10 +1121,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 594,
-      "forks": 35,
+      "stars": 597,
+      "forks": 36,
       "language": "Swift",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -879,22 +1161,6 @@
   },
   {
     "source": "GitHub新星",
-    "title": "flaqai/backlink_skills",
-    "summary": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
-    "url": "https://github.com/flaqai/backlink_skills",
-    "published": "2026-08-17T06:46:51Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-22",
-    "meta": {
-      "stars": 511,
-      "forks": 183,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
     "title": "lanicer/cve-2026-41940-PoC",
     "summary": "A cPanel and WHM authentication bypassing tool",
     "url": "https://github.com/lanicer/cve-2026-41940-PoC",
@@ -903,10 +1169,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-22",
     "meta": {
-      "stars": 502,
+      "stars": 526,
       "forks": 96,
       "language": "Python",
       "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "flaqai/backlink_skills",
+    "summary": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+    "url": "https://github.com/flaqai/backlink_skills",
+    "published": "2026-08-17T06:46:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-22",
+    "meta": {
+      "stars": 517,
+      "forks": 184,
+      "language": "Python",
+      "createdDaysAgo": 5
     }
   }
 ]
