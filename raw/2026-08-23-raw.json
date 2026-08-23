@@ -71,6 +71,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察",
+    "summary": "盘面上贵金属板块全线领涨，湖南白银、白银有色、盛达资源涨停，现货黄金站上4500美元；算力硬件、光通信、锂矿局部活跃，瑞斯康达、星网锐捷、通鼎互联、融捷股份涨停。昨日爆发的医药板块今日大幅退潮，仅汉森制药3板及键凯科技、中关村、近岸蛋白、康希诺等2板晋级，创新药、CRO重挫；农业板块集体调整。市场连板高度由4板降至3板，资金由医药切向贵金属与科技硬件，缩量格局下板块\"一日游\"特征凸显，追涨容错率急剧下降。",
+    "url": "https://www.tmtpost.com/8113330.html",
+    "published": "Sun, 23 Aug 2026 16:14:18 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "钛媒体",
     "title": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话",
     "summary": "一个人就是一支AI 交易团队。",
     "url": "https://www.tmtpost.com/8111128.html",
@@ -85,16 +95,6 @@
     "summary": "特斯拉宣布9月3日Cybercab发布会，无方向盘自动驾驶出租车，制造效率与数据护城河之争；英伟达逆向工程揭示255纳秒指令延迟，护城河源于15年每纳秒优化；牛津大学MWM框架揭示世界模型忽略心智状态，物理与心智耦合为瓶颈；Meta发布Muse Glimmer 30B开源Agent模型，配合本地推理实现AI编程平权，推动云端与本地双世界分化。",
     "url": "https://www.tmtpost.com/8113186.html",
     "published": "Sun, 23 Aug 2026 08:42:03 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-23"
-  },
-  {
-    "source": "钛媒体",
-    "title": "王坚的“遗产”，为阿里留出后路",
-    "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
-    "url": "https://www.tmtpost.com/8112848.html",
-    "published": "Sat, 22 Aug 2026 18:27:40 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-23"
@@ -651,16 +651,43 @@
   },
   {
     "source": "微博",
-    "title": "#中国人形机器人跑出加速度#",
+    "title": "#见证中国具身智能产业的冰丝带时刻#",
     "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23中国人形机器人跑出加速度%23",
+    "url": "https://s.weibo.com/weibo?q=%23见证中国具身智能产业的冰丝带时刻%23",
     "published": "2026-08-23",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "hotValue": 1018238,
+      "hotValue": 1086117,
       "rank": 2
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#小米官宣新一代玄戒芯片技术发布会#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23小米官宣新一代玄戒芯片技术发布会%23",
+    "published": "2026-08-23",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "hotValue": 130082,
+      "rank": 48
+    }
+  },
+  {
+    "source": "B站",
+    "title": "在WRC看具身智能发展新成果",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=在WRC看具身智能发展新成果",
+    "published": "2026-08-23",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "hotValue": 268382
     }
   },
   {
@@ -673,8 +700,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 3801,
-      "forks": 181,
+      "stars": 3841,
+      "forks": 184,
       "language": null,
       "createdDaysAgo": 4
     }
@@ -689,10 +716,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 2903,
-      "forks": 352,
+      "stars": 2912,
+      "forks": 353,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -705,8 +732,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 2349,
-      "forks": 268,
+      "stars": 2402,
+      "forks": 273,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -721,8 +748,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 2019,
-      "forks": 204,
+      "stars": 2368,
+      "forks": 234,
       "language": "HTML",
       "createdDaysAgo": 1
     }
@@ -737,7 +764,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 1243,
+      "stars": 1359,
       "forks": 12,
       "language": "Python",
       "createdDaysAgo": 5
@@ -753,7 +780,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 1205,
+      "stars": 1206,
       "forks": 6,
       "language": "JavaScript",
       "createdDaysAgo": 5
@@ -769,42 +796,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 1146,
-      "forks": 240,
+      "stars": 1185,
+      "forks": 250,
       "language": "JavaScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Leutenegger/watermarks-remover",
-    "summary": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-    "url": "https://github.com/Leutenegger/watermarks-remover",
-    "published": "2026-08-19T15:20:24Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 936,
-      "forks": 95,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Leutenegger/vanity-eth",
-    "summary": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
-    "url": "https://github.com/Leutenegger/vanity-eth",
-    "published": "2026-08-21T00:42:33Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 803,
-      "forks": 91,
-      "language": "Python",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -817,8 +812,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 714,
-      "forks": 47,
+      "stars": 729,
+      "forks": 49,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -833,7 +828,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 709,
+      "stars": 714,
       "forks": 49,
       "language": "Python",
       "createdDaysAgo": 6
@@ -849,7 +844,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 694,
+      "stars": 696,
       "forks": 42,
       "language": "Swift",
       "createdDaysAgo": 4
@@ -865,42 +860,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 680,
+      "stars": 681,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Leutenegger/coldcard-airgap",
-    "summary": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-    "url": "https://github.com/Leutenegger/coldcard-airgap",
-    "published": "2026-08-20T23:14:34Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 608,
-      "forks": 78,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "missuo/herdrm",
-    "summary": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-    "url": "https://github.com/missuo/herdrm",
-    "published": "2026-08-19T06:55:39Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 607,
-      "forks": 37,
-      "language": "Swift",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -913,58 +876,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 581,
-      "forks": 22,
+      "stars": 639,
+      "forks": 28,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Leutenegger/claudish-to-english",
-    "summary": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.",
-    "url": "https://github.com/Leutenegger/claudish-to-english",
-    "published": "2026-08-21T20:20:04Z",
+    "title": "missuo/herdrm",
+    "summary": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+    "url": "https://github.com/missuo/herdrm",
+    "published": "2026-08-19T06:55:39Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 581,
-      "forks": 61,
-      "language": "Shell",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "lanicer/cve-2026-41940-PoC",
-    "summary": "A cPanel and WHM authentication bypassing tool",
-    "url": "https://github.com/lanicer/cve-2026-41940-PoC",
-    "published": "2026-08-19T12:46:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 526,
-      "forks": 96,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "flaqai/backlink_skills",
-    "summary": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
-    "url": "https://github.com/flaqai/backlink_skills",
-    "published": "2026-08-17T06:46:51Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 524,
-      "forks": 188,
-      "language": "Python",
-      "createdDaysAgo": 5
+      "stars": 608,
+      "forks": 37,
+      "language": "Swift",
+      "createdDaysAgo": 4
     }
   }
 ]
