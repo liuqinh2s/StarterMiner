@@ -71,6 +71,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购",
+    "summary": "上纬新材“启元机器人”正式开启预订，预计首发发货最早9月；DeepSeek API计费调整，周末统一按低谷时段价格计费；事涉儿童在线隐私保护，TikTok支付4亿美元和解；张雪机车宣布2027全年赛事赞助开放招商；SpaceX将组建内部天然气交易团队；Anthropic聘请谷歌定制芯片项目创始人，为进军自研半导体做准备；优衣库衣物回收服务扩展至全国门店；沃尔玛计划年内在全美门店和山姆会员店推出非接触支付服务；240小时过境免签政策适用国家增至57国；多家银行发布公告，单人在同家银行贴息上限提升到5000元；国常会：统筹推进基础网络、空间网络、国际网络、融合网络建设；市场监管总局：具身智能机器人、固态动力电池等纳入质量强链二期攻关方向；消息人士：博通债务交易规模预计最高可达700亿美元；2026年度电影总票房超270亿，暑期档成绩刷新两项纪录",
+    "url": "https://www.tmtpost.com/8113453.html",
+    "published": "Mon, 24 Aug 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "钛媒体",
     "title": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察",
     "summary": "盘面上贵金属板块全线领涨，湖南白银、白银有色、盛达资源涨停，现货黄金站上4500美元；算力硬件、光通信、锂矿局部活跃，瑞斯康达、星网锐捷、通鼎互联、融捷股份涨停。昨日爆发的医药板块今日大幅退潮，仅汉森制药3板及键凯科技、中关村、近岸蛋白、康希诺等2板晋级，创新药、CRO重挫；农业板块集体调整。市场连板高度由4板降至3板，资金由医药切向贵金属与科技硬件，缩量格局下板块\"一日游\"特征凸显，追涨容错率急剧下降。",
     "url": "https://www.tmtpost.com/8113330.html",
@@ -95,6 +105,26 @@
     "summary": "特斯拉宣布9月3日Cybercab发布会，无方向盘自动驾驶出租车，制造效率与数据护城河之争；英伟达逆向工程揭示255纳秒指令延迟，护城河源于15年每纳秒优化；牛津大学MWM框架揭示世界模型忽略心智状态，物理与心智耦合为瓶颈；Meta发布Muse Glimmer 30B开源Agent模型，配合本地推理实现AI编程平权，推动云端与本地双世界分化。",
     "url": "https://www.tmtpost.com/8113186.html",
     "published": "Sun, 23 Aug 2026 08:42:03 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "极客公园",
+    "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
+    "summary": "如果物理 AI 也能 scaling，意味着什么？ 作者｜Li Yuan 编辑｜靖宇 研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。 然后，他们把刷子拿走，换成一根香蕉。 机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。 随后，香蕉又被换成了一只簸箕。机器人这次没有继续照搬「扫」的动作，而是伸出另一只手，把积木推上簸箕，再端起来倒进碗里。 重点来了，研究人员从来没有在这项任务里教它用香蕉和簸箕，它是自己推理出来的。 已关注 关注 重播 分享 赞 随便看看 --> 关闭 观看更多 更多 退出全屏 切换到竖屏全屏 退出全屏 极客公园 已关注 分享视频 ，时长 00:24 0 / 0 00:00 / 00:24 切换到横屏模式 继续播放 进度条，百分之0 播放 00:00 / 00:24 00:24 倍速 全屏 倍速播放中 0.5倍 0.75倍 1.0倍 1.5倍 2.0倍 超清 流畅 您的浏览器不支持 video 标签 继续观看 Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻 观看更多 转载 , Gen1.5 模型带来重要进展：物理 AI 正在接近 GP",
+    "url": "http://www.geekpark.net/news/369223",
+    "published": "Sun, 23 Aug 2026 22:35:51 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "极客公园",
+    "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+    "summary": "从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。 作者｜Li Yuan 编辑｜ 靖宇 每年走进世界机器人大会，人们最先看到的都是身体。 有的机器人长出双腿，有的装上轮子；有的把手指做得越来越像人，有的用钢铁手臂扛起几十公斤重物。我们也因此习惯用外形给机器人分类：会跳舞的是一种，能搬箱子的是另一种，会进厨房和卧室的，又是另一种。 今年的世界机器人大会上，这套认识开始松动。 银河通用在分论坛发布了小型双足人形机器人 ET1。它第一次登台便跳起一段高动态舞蹈，也第一次让银河通用拥有了一副可以走路、舞动，并从人类动作中继续学习的双足身体。 银河通用创始人兼 CTO 王鹤说，ET1 的名字承载着一种期待：成为「有智能、会学习、会思考、会成长的人形机器人」。 但这副新身体并不是从零开始。 几十米外的展台上，轮式双臂机器人 G1 正在做早餐、叠衣服，重载机器人 S1 在拆垛和码垛，春晚亮相的「小盖」则在与人交互。它们看起来像四种机器人，银河通用却把它们放进同一套技术叙事：不同的身体，接入同一套银河星脑。 这并不意味着一套控制程序可以原封不动地塞进所有机器人。双足、轮式和重",
+    "url": "http://www.geekpark.net/news/369221",
+    "published": "Sun, 23 Aug 2026 22:33:26 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-23"
@@ -350,26 +380,6 @@
     "fetchedAt": "2026-08-23"
   },
   {
-    "source": "极客公园",
-    "title": "阿里云，接得住中国智驾吗？",
-    "summary": "作者｜李苏 编辑｜靖宇 8 月，乌兰察布。 近 30 位来自核心车企和方案商的智驾关键力量，被请进了阿里巴巴数据中心。 这里承载着中国智能驾驶研发 60% 的算力。数据中心昼夜不停，像一颗强健搏动的心脏；而道路上智能驾驶的车辆每一次从容的转弯、精准的刹停、安稳的跟车，背后都可能是这里彻夜的计算。几乎所有参会者正在训练的模型，就跑在脚下这片机房里。 把论坛开在数据中心所在地，本身就是一个信号： 智驾的竞争，已经从算法下沉到工程。 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光的开场白很简短—— 模型、芯片、云，这三样东西过去由三类供应商分别提供 ，在三种不同的会上讨论。 这一次，它们被放在同一张桌上，由同一批决策者一起追问。 没有人再争论车企要不要上云，问题变成了：当智驾进入大模型时代，中国车企需要什么样的基础设施？谁能把芯片、云、模型三层都做通，而不是只卖其中一层？ 阿里云给出的答案，是一条产线——从数据到模型再到算力，完整打通。 阿里巴巴在乌兰察布的数据中心之一｜图片来源：阿里云 01 问题在下沉 如今，智驾的路线正在分化。 端到端已成共识，但再往上，有人押注 VLA，有人赌世界模",
-    "url": "http://www.geekpark.net/news/368846",
-    "published": "Fri, 14 Aug 2026 18:02:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-23"
-  },
-  {
-    "source": "极客公园",
-    "title": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
-    "summary": "Agent 行业需要一个 Android。 作者｜张勇毅 编辑｜靖宇 北京时间 8 月 13 日晚上八点半，DeepSeek 正式公布了它成立以来的第一个 Agent 产品，之前预热很久，大家期待值很高的 Deepseek Harness。 截至发稿， 它的 GitHub 仓库已经涨到超过 5 万个 star —— 而仓库公开刚刚过了 12 个小时。 Deepseek Harness GitHub 主页截止发稿时已突破 5 万 star｜图片来源：GitHub DeepSeek 官方给它的定义其实和别家也差不多：模型加上 Harness，才等于 Agent。模型是脑子，Harness 是手脚；聊天机器人交付的是一段话，Agent 交付的是一件做完的事。 发布当晚，我们把它装进了自己的电脑，让它干了两件活：照着 The Verge 的风格重构极客公园官网，再调 GitHub 的接口，画出它自己的涨星曲线。两件活都交付了，全程花掉的 token 不到 3 块钱。 但它也确实还是个毛坯：界面对不写代码的人算不上友好，目前上传的开发者预览版的毛边随处可见。12 个小时用下来，我们的印象是——D",
-    "url": "http://www.geekpark.net/news/368809",
-    "published": "Fri, 14 Aug 2026 12:17:18 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-23"
-  },
-  {
     "source": "爱范儿",
     "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
     "summary": "我们在腌臜的广告泥潭中，畅想着美好的 AGI 未来。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -455,16 +465,6 @@
     "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
     "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
     "published": "Fri, 21 Aug 2026 22:10:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-    "published": "Fri, 21 Aug 2026 19:16:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-23"
@@ -650,45 +650,194 @@
     "fetchedAt": "2026-08-23"
   },
   {
-    "source": "微博",
-    "title": "#见证中国具身智能产业的冰丝带时刻#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23见证中国具身智能产业的冰丝带时刻%23",
-    "published": "2026-08-23",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/ Comments URL: https://news.ycombinator.com/item?id=49409505 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "published": "Sun, 23 Aug 2026 15:16:41 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "hotValue": 1086117,
-      "rank": 2
-    }
+    "fetchedAt": "2026-08-23"
   },
   {
-    "source": "微博",
-    "title": "#小米官宣新一代玄戒芯片技术发布会#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23小米官宣新一代玄戒芯片技术发布会%23",
-    "published": "2026-08-23",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49402436 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "published": "Sat, 22 Aug 2026 18:32:51 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "hotValue": 130082,
-      "rank": 48
-    }
+    "fetchedAt": "2026-08-23"
   },
   {
-    "source": "B站",
-    "title": "在WRC看具身智能发展新成果",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=在WRC看具身智能发展新成果",
-    "published": "2026-08-23",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Vallley – Live Startup Jobs",
+    "summary": "Article URL: https://vallley.xyz Comments URL: https://news.ycombinator.com/item?id=49401927 Points: 2 # Comments: 1",
+    "url": "https://vallley.xyz",
+    "published": "Sat, 22 Aug 2026 17:40:33 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "hotValue": 268382
-    }
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Harvard's A.I. Clones Will Hear Your Startup Pitch Now",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html Comments URL: https://news.ycombinator.com/item?id=49400264 Points: 4 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+    "published": "Sat, 22 Aug 2026 14:41:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Im 18 and building my startup and this is what I feel",
+    "summary": "Hi My name is ritu and ive built an autoML tool. The intention of this post to let people know about my journey because im tired to express my self to chatGPT. I am women in tech, majority of women are in biology , i was about to but i took u turn and chose IT idk why i mean i had PCB in higher secondary and i decided to choose a tech degree so i can build my startup. things are bit frustrating for me because im young, inexperienced, exhausted. People now started glorifying young builders but if",
+    "url": "https://news.ycombinator.com/item?id=49398505",
+    "published": "Sat, 22 Aug 2026 11:09:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ISRO will not make any launch vehicle, all tech to be handed to private sector",
+    "summary": "Article URL: https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21 Comments URL: https://news.ycombinator.com/item?id=49398045 Points: 2 # Comments: 1",
+    "url": "https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21",
+    "published": "Sat, 22 Aug 2026 09:28:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+    "published": "Sat, 22 Aug 2026 00:07:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49393230 Points: 7 # Comments: 2",
+    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "published": "Fri, 21 Aug 2026 20:10:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Put your startup on the map. Get visibility. Anyone can steal your spot back",
+    "summary": "Article URL: https://www.flagwars.lol/ Comments URL: https://news.ycombinator.com/item?id=49390504 Points: 2 # Comments: 0",
+    "url": "https://www.flagwars.lol/",
+    "published": "Fri, 21 Aug 2026 16:30:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
+    "summary": "Article URL: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49386851 Points: 4 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "published": "Fri, 21 Aug 2026 12:05:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Building a startup in Europe: What visiting 58 Companies in 3 Weeks taught me",
+    "summary": "Article URL: https://bensdl.substack.com/p/building-a-startup-in-europe-what Comments URL: https://news.ycombinator.com/item?id=49386774 Points: 5 # Comments: 0",
+    "url": "https://bensdl.substack.com/p/building-a-startup-in-europe-what",
+    "published": "Fri, 21 Aug 2026 11:57:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Payluck – a startup directory where luck decides your discount",
+    "summary": "Article URL: https://payluck.lol/ Comments URL: https://news.ycombinator.com/item?id=49385687 Points: 1 # Comments: 0",
+    "url": "https://payluck.lol/",
+    "published": "Fri, 21 Aug 2026 09:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stripe Buys A.I. Startup OpenRouter for $7.5B",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html Comments URL: https://news.ycombinator.com/item?id=49385595 Points: 2 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+    "published": "Fri, 21 Aug 2026 09:05:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why to Start a Startup in a Bad Economy (2008)",
+    "summary": "Article URL: https://paulgraham.com/badeconomy.html Comments URL: https://news.ycombinator.com/item?id=49384951 Points: 1 # Comments: 0",
+    "url": "https://paulgraham.com/badeconomy.html",
+    "published": "Fri, 21 Aug 2026 07:32:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "California Draws More Startup Investment Than All Other 49 States Combined",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde Comments URL: https://news.ycombinator.com/item?id=49383972 Points: 6 # Comments: 4",
+    "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+    "published": "Fri, 21 Aug 2026 04:57:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trying to launch a Spotify app? In this economy?",
+    "summary": "Article URL: https://bf.lol/blog/careless-spotify Comments URL: https://news.ycombinator.com/item?id=49382842 Points: 3 # Comments: 0",
+    "url": "https://bf.lol/blog/careless-spotify",
+    "published": "Fri, 21 Aug 2026 02:08:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs ",
+    "url": "https://github.com/runvendo/vendo",
+    "published": "Thu, 20 Aug 2026 15:29:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sheeplaunch – Product Launch Platform",
+    "summary": "Article URL: https://sheeplaunch.com Comments URL: https://news.ycombinator.com/item?id=49373044 Points: 3 # Comments: 1",
+    "url": "https://sheeplaunch.com",
+    "published": "Thu, 20 Aug 2026 11:12:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49369420 Points: 4 # Comments: 0",
+    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
+    "published": "Thu, 20 Aug 2026 01:31:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-23"
   },
   {
     "source": "GitHub新星",
@@ -700,10 +849,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 3841,
-      "forks": 184,
+      "stars": 3893,
+      "forks": 190,
       "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -716,24 +865,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 2912,
-      "forks": 353,
-      "language": "TypeScript",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "CopilotKit/OpenBot",
-    "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/OpenBot",
-    "published": "2026-08-17T00:44:59Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 2402,
-      "forks": 273,
+      "stars": 2946,
+      "forks": 354,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -748,10 +881,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 2368,
-      "forks": 234,
+      "stars": 2849,
+      "forks": 287,
       "language": "HTML",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "CopilotKit/OpenBot",
+    "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "published": "2026-08-17T00:44:59Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "stars": 2490,
+      "forks": 285,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -764,9 +913,25 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 1359,
-      "forks": 12,
+      "stars": 1412,
+      "forks": 23,
       "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "vvxw/deploy-vercel",
+    "summary": "Install Command：npm install",
+    "url": "https://github.com/vvxw/deploy-vercel",
+    "published": "2026-08-18T13:25:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "stars": 1212,
+      "forks": 256,
+      "language": "JavaScript",
       "createdDaysAgo": 5
     }
   },
@@ -783,23 +948,23 @@
       "stars": 1206,
       "forks": 6,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "vvxw/deploy-vercel",
-    "summary": "Install Command：npm install",
-    "url": "https://github.com/vvxw/deploy-vercel",
-    "published": "2026-08-18T13:25:45Z",
+    "title": "duty1g/x64dbg-mcp-server",
+    "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more. Built with Z",
+    "url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "published": "2026-08-22T14:28:41Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 1185,
-      "forks": 250,
-      "language": "JavaScript",
-      "createdDaysAgo": 4
+      "stars": 834,
+      "forks": 85,
+      "language": "Zig",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -812,10 +977,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 729,
-      "forks": 49,
+      "stars": 768,
+      "forks": 50,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ShadowAqueduct/watermark-remover",
+    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "published": "2026-08-23T21:14:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "stars": 759,
+      "forks": 72,
+      "language": "Python",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -828,40 +1009,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 714,
-      "forks": 49,
-      "language": "Python",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "DenisSergeevitch/desktop-fly",
-    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-    "url": "https://github.com/DenisSergeevitch/desktop-fly",
-    "published": "2026-08-18T17:29:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 696,
-      "forks": 42,
-      "language": "Swift",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "SigmanticAI/apex-inference-chip",
-    "summary": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-    "url": "https://github.com/SigmanticAI/apex-inference-chip",
-    "published": "2026-08-17T04:25:26Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-23",
-    "meta": {
-      "stars": 681,
-      "forks": 1,
+      "stars": 728,
+      "forks": 50,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -876,10 +1025,58 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 639,
+      "stars": 714,
       "forks": 28,
       "language": "JavaScript",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "DenisSergeevitch/desktop-fly",
+    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "published": "2026-08-18T17:29:17Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "stars": 703,
+      "forks": 43,
+      "language": "Swift",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "SigmanticAI/apex-inference-chip",
+    "summary": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+    "url": "https://github.com/SigmanticAI/apex-inference-chip",
+    "published": "2026-08-17T04:25:26Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "stars": 682,
+      "forks": 1,
+      "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cclank/lanshu-create-ai-presenter-video",
+    "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+    "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "published": "2026-08-20T13:40:06Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-23",
+    "meta": {
+      "stars": 643,
+      "forks": 103,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -892,7 +1089,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-23",
     "meta": {
-      "stars": 608,
+      "stars": 611,
       "forks": 37,
       "language": "Swift",
       "createdDaysAgo": 4
