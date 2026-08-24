@@ -90,21 +90,11 @@
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "钛媒体",
-    "title": "九年接住银行做不了的生意，跨境支付遇到AI新变量 ｜ 出海参考",
-    "summary": "AI大模型的到来让跨境B2B支付行业的竞争转变为：谁能把AI用在可以沉淀专属数据、夯实基建平台的地方，而不是仅仅用来提效。",
-    "url": "https://www.tmtpost.com/8114087.html",
-    "published": "Mon, 24 Aug 2026 17:28:37 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "武汉即将迎来史上最大IPO",
-    "summary": "光谷传奇。",
-    "url": "https://www.tmtpost.com/8114331.html",
-    "published": "Mon, 24 Aug 2026 14:25:51 +0800",
+    "source": "极客公园",
+    "title": "「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」",
+    "summary": "玄戒 O3 的跑分是烟花，玄戒 O100 的带宽才是信号。 作者｜张勇毅 编辑｜ 靖宇 8 月 24 日下午，小米一口气发布了三颗新芯片：玄戒 O3、玄戒 O100、玄戒 D100。 距离第一代玄戒 O1 亮相，过去了 459 天。但这次小米确实打了一场准备充分的仗：按小米公布的成绩，玄戒 O3 安兔兔跑分 522 万，是第一颗突破 500 万分的旗舰手机 SoC。号称「安卓性能之王」。 小米玄戒 O3 系统架构｜图片来源：小米 但性能显然不全是这场发布会的重点，玄戒 O3 希望实现的是 AI 原生芯片的概念，AI 能力将不仅体现在端侧 AI，同时也涉及到硬件级超分、夜景降噪等当前主要依赖 NPU 的全链路场景。 同时这场沟通会还有另两个主角，是两颗没有公布跑分、暂时也装不进手机的芯片。 3 颗芯片构成了小米今年的芯片阵容｜图片来源：微博 要看懂它，得先回答一个问题：五年、210 亿花下去，小米造芯，追求的平台早已不只是手机。 小米自研芯片全产品系列｜图片来源：极客公园 01 烟火与信号 与外界期待的一样，「超大杯」玄戒 O3 是小米给最高端产品准备的旗舰 SoC，3nm 工艺，240",
+    "url": "http://www.geekpark.net/news/369302",
+    "published": "Mon, 24 Aug 2026 23:34:23 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
@@ -380,16 +370,6 @@
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "极客公园",
-    "title": "被 AI 碾压 30 年后，人们重新爱上了下棋",
-    "summary": "作者｜Techno 之王 编辑｜靖宇 1997 年 5 月 11 日，纽约。 IBM 的超级计算机「深蓝」在六局对决中，以 3.5 比 2.5 击败国际象棋世界冠军卡斯帕罗夫。 这是人类第一次在智力游戏的最高殿堂输给机器。 那场比赛的最后一局只用了 19 步。卡斯帕罗夫在一个经典开局中走出了罕见的失误，深蓝精准地抓住了机会，迅速将局面推向不可挽回。 终局时，卡斯帕罗夫猛地站起来离开棋桌，脸上写满了震惊和愤怒。他后来公开指控 IBM 在幕后使用了人类棋手协助，拒绝接受这个结果。 那一天，全世界都在讨论同一个问题——在机器面前，人类的智力还有尊严吗？ 时间快进到 2016 年 3 月，首尔。 Google DeepMind 的 AlphaGo 以 4 比 1 击败韩国围棋九段李世石。这一次冲击比深蓝更大，因为围棋被视为「人类智慧的最后堡垒」。围棋的可能局面数远超宇宙中的原子总数，专家们此前预测 AI 至少还需要十年才能在围棋上战胜人类顶尖棋手。李世石在第四局下出的那步「神之一手」，以万分之一的概率让 AlphaGo 短暂迷失，赢下了人类仅有的一局。 后来人们意识到， 这可能是人类对围棋 A",
-    "url": "http://www.geekpark.net/news/368897",
-    "published": "Mon, 17 Aug 2026 13:54:45 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
     "source": "爱范儿",
     "title": "小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」",
     "summary": "小米掀桌了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -431,70 +411,70 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
-    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-    "published": "Sun, 23 Aug 2026 03:00:00 +0000",
+    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+    "published": "Mon, 24 Aug 2026 23:05:44 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "TechCrunch",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+    "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+    "published": "Mon, 24 Aug 2026 20:16:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "TechCrunch",
-    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-    "published": "Sat, 22 Aug 2026 20:24:20 +0000",
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "published": "Mon, 24 Aug 2026 19:58:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "TechCrunch",
-    "title": "US battery startups have found a lifeline in defense",
-    "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
-    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-    "published": "Sat, 22 Aug 2026 15:20:00 +0000",
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "published": "Mon, 24 Aug 2026 19:54:19 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "TechCrunch",
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
-    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "published": "Sat, 22 Aug 2026 01:31:04 +0000",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "published": "Mon, 24 Aug 2026 15:24:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "TechCrunch",
-    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-    "published": "Sat, 22 Aug 2026 01:03:06 +0000",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "published": "Mon, 24 Aug 2026 13:47:26 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "TechCrunch",
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-    "published": "Fri, 21 Aug 2026 22:10:01 +0000",
+    "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+    "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+    "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+    "published": "Mon, 24 Aug 2026 13:45:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
@@ -671,20 +651,90 @@
   },
   {
     "source": "The Verge",
-    "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-    "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
-    "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-    "published": "2026-08-22T09:41:01-04:00",
+    "title": "The Witcher 4 developers target a 2028 release",
+    "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the […]",
+    "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+    "published": "2026-08-24T11:48:53-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "The Verge",
-    "title": "HoverAir’s transforming modular drone has already been halted in the US",
-    "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping […]",
-    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-    "published": "2026-08-21T18:14:11-04:00",
+    "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
+    "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platforms over the past year, […]",
+    "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+    "published": "2026-08-24T10:49:44-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "The Verge",
+    "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+    "summary": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will […]",
+    "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+    "published": "2026-08-24T07:37:53-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Life Policies Shouldn't Be Funding the Boss's Trophy Assets",
+    "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-08-24/life-policies-shouldn-t-be-funding-the-boss-s-trophy-assets Comments URL: https://news.ycombinator.com/item?id=49426524 Points: 1 # Comments: 0",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-08-24/life-policies-shouldn-t-be-funding-the-boss-s-trophy-assets",
+    "published": "Mon, 24 Aug 2026 22:09:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Georgia police launch manhunt over $30 a man picked up from floor of a Walmart",
+    "summary": "Article URL: https://www.msn.com/en-us/news/other/manhunt-launched-by-police-over-30-a-man-picked-up-from-the-floor-of-a-walmart/ar-AA2aOTQ0 Comments URL: https://news.ycombinator.com/item?id=49425885 Points: 9 # Comments: 1",
+    "url": "https://www.msn.com/en-us/news/other/manhunt-launched-by-police-over-30-a-man-picked-up-from-the-floor-of-a-walmart/ar-AA2aOTQ0",
+    "published": "Mon, 24 Aug 2026 21:10:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch: App for reading articles and finding new reads",
+    "summary": "Article URL: https://www.topicsapp.net Comments URL: https://news.ycombinator.com/item?id=49425298 Points: 2 # Comments: 0",
+    "url": "https://www.topicsapp.net",
+    "published": "Mon, 24 Aug 2026 20:15:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX, Nvidia designed a space-optimized Vera Rubin NVL72 (orbit launch in Q4)",
+    "summary": "Article URL: https://twitter.com/elonmusk/status/2091939113008238838 Comments URL: https://news.ycombinator.com/item?id=49423667 Points: 6 # Comments: 4",
+    "url": "https://twitter.com/elonmusk/status/2091939113008238838",
+    "published": "Mon, 24 Aug 2026 18:06:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 14 # Comments: 15",
+    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "published": "Mon, 24 Aug 2026 16:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Omacom Foundation funding hits $10M",
+    "summary": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/ Comments URL: https://news.ycombinator.com/item?id=49418032 Points: 56 # Comments: 96",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+    "published": "Mon, 24 Aug 2026 11:04:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
@@ -752,7 +802,7 @@
   {
     "source": "Hacker News",
     "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 1",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 6 # Comments: 1",
     "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
     "published": "Sat, 22 Aug 2026 00:07:06 +0000",
     "lang": "en",
@@ -820,94 +870,6 @@
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "Hacker News",
-    "title": "Why to Start a Startup in a Bad Economy (2008)",
-    "summary": "Article URL: https://paulgraham.com/badeconomy.html Comments URL: https://news.ycombinator.com/item?id=49384951 Points: 1 # Comments: 0",
-    "url": "https://paulgraham.com/badeconomy.html",
-    "published": "Fri, 21 Aug 2026 07:32:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "California Draws More Startup Investment Than All Other 49 States Combined",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde Comments URL: https://news.ycombinator.com/item?id=49383972 Points: 6 # Comments: 4",
-    "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
-    "published": "Fri, 21 Aug 2026 04:57:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Trying to launch a Spotify app? In this economy?",
-    "summary": "Article URL: https://bf.lol/blog/careless-spotify Comments URL: https://news.ycombinator.com/item?id=49382842 Points: 3 # Comments: 0",
-    "url": "https://bf.lol/blog/careless-spotify",
-    "published": "Fri, 21 Aug 2026 02:08:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-    "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs ",
-    "url": "https://github.com/runvendo/vendo",
-    "published": "Thu, 20 Aug 2026 15:29:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Sheeplaunch – Product Launch Platform",
-    "summary": "Article URL: https://sheeplaunch.com Comments URL: https://news.ycombinator.com/item?id=49373044 Points: 3 # Comments: 1",
-    "url": "https://sheeplaunch.com",
-    "published": "Thu, 20 Aug 2026 11:12:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49369420 Points: 4 # Comments: 0",
-    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
-    "published": "Thu, 20 Aug 2026 01:31:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "微博",
-    "title": "#雷军说芯片很贵不建议拆开看彩蛋#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23雷军说芯片很贵不建议拆开看彩蛋%23",
-    "published": "2026-08-24",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "hotValue": 637765,
-      "rank": 3
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银",
-    "summary": "AI 提醒：我负责吐槽，ChatGPT 负责文字润色。 实在是太傻逼了。 今天要从汇丰转一笔钱到券商，本来以为这是一件大概 3 分钟可以结束的事情。结果我第一次真切地体会到：一个拥有一百多年历史、业务遍布全球的银行，到底可以把电子银行做得多么反人类。 首先，加一个收款人，居然不是加完就能用。 要等。 而且不是等几分钟，不是等短信验证，不是等系统风控审核一下。 是要等到第二个工作日才能确认。 我盯着这个设计想了半天，都没想明白它究竟在防什么。 如果是为了安全，那现在已经有短信 OTP 、App 验证、生物识别、设备绑定、交易限额、风控模型，甚至你愿",
-    "url": "https://www.v2ex.com/t/1236750",
-    "published": 1787541983,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "replies": 123,
-      "node": "投资"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "s1dashu/ip-as-logo-skill",
     "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
@@ -917,10 +879,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 4022,
-      "forks": 194,
+      "stars": 4119,
+      "forks": 201,
       "language": null,
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -933,10 +895,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 3245,
-      "forks": 313,
+      "stars": 3433,
+      "forks": 333,
       "language": "HTML",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -949,10 +911,26 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 1754,
-      "forks": 23,
+      "stars": 1756,
+      "forks": 24,
       "language": "Python",
       "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "b-nnett/grok-bot-0.18-reconstructed",
+    "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+    "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+    "published": "2026-08-23T20:53:01Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-24",
+    "meta": {
+      "stars": 1644,
+      "forks": 1794,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -965,10 +943,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 1268,
-      "forks": 263,
+      "stars": 1299,
+      "forks": 269,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -981,74 +959,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 1083,
-      "forks": 107,
+      "stars": 1211,
+      "forks": 123,
       "language": "Zig",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-    "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-    "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-    "published": "2026-08-18T03:13:51Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "stars": 811,
-      "forks": 33,
-      "language": "JavaScript",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "cclank/lanshu-create-ai-presenter-video",
-    "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-    "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-    "published": "2026-08-20T13:40:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "stars": 769,
-      "forks": 132,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ShadowAqueduct/watermark-remover",
-    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-    "url": "https://github.com/ShadowAqueduct/watermark-remover",
-    "published": "2026-08-23T21:14:28Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "stars": 762,
-      "forks": 73,
-      "language": "Python",
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "DenisSergeevitch/desktop-fly",
-    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-    "url": "https://github.com/DenisSergeevitch/desktop-fly",
-    "published": "2026-08-18T17:29:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "stars": 714,
-      "forks": 43,
-      "language": "Swift",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 2
     }
   }
 ]
