@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "新湃传媒已被腾讯音乐等限消",
+    "summary": "据媒体报道，近日，王一博因肖像权纠纷，正式起诉了《陈情令》的出品方新湃传媒等多家公司。 天眼查App显示，新湃传媒集团有限公司成立于2015年4月，法定代表人为王鑫，注册资本约8111.6万人民币，经营范围包括影视策划、动漫设计、市场营销策划、公关活动策划等，由宁波高新区新灿股权投资管理合伙企业（有限合伙）、广西腾讯创业投资有限公司、青岛春珈五号股权投资基金企业（有限合伙）等共同持股。风险信息显示，该公司现存多条限制消费令、失信被执行人（老赖）信息，申请人包括腾讯音乐娱乐（深圳）有限公司、网易有道信息技术（北京）有限公司等。",
+    "url": "https://www.cyzone.cn/article/844162.html",
+    "published": "Mon, 24 Aug 2026 07:06:17 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "创业邦",
     "title": "宇树科技开盘每签赚47万",
     "summary": "据媒体报道，8月19日，宇树科技高开629%，报1100元，单签收益为47.46万元，总市值达4449亿元，发行前宇树科技创始人王兴兴直接与间接合计持股比例超33%，身家已突破1000亿元。 天眼查App显示，宇树科技股份有限公司成立于2016年8月，注册资本约3.6亿人民币，法定代表人为王兴兴，经营范围包括智能机器人的研发、智能机器人销售、工业机器人制造等，由王兴兴、汉海信息技术（上海）有限公司等共同持股。",
     "url": "https://www.cyzone.cn/article/843611.html",
@@ -71,50 +81,100 @@
   },
   {
     "source": "钛媒体",
-    "title": "具身江湖志（二）：谁拿走了最聪明的钱？",
-    "summary": "一家具身智能企业，拿的是谁的钱，几乎决定了它的一切。",
-    "url": "https://www.tmtpost.com/8114154.html",
-    "published": "Mon, 24 Aug 2026 12:10:51 +0800",
+    "title": "维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段",
+    "summary": "专注泛机器人\"大小脑\"融合一体类脑芯片的研发",
+    "url": "https://www.tmtpost.com/8113528.html",
+    "published": "Mon, 24 Aug 2026 18:19:45 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "钛媒体",
-    "title": "WRC 2026：机器人的“试用期”结束了？",
-    "summary": "具身智能的下半场，拼的是交付。",
-    "url": "https://www.tmtpost.com/8113903.html",
-    "published": "Mon, 24 Aug 2026 12:08:24 +0800",
+    "title": "九年接住银行做不了的生意，跨境支付遇到AI新变量 ｜ 出海参考",
+    "summary": "AI大模型的到来让跨境B2B支付行业的竞争转变为：谁能把AI用在可以沉淀专属数据、夯实基建平台的地方，而不是仅仅用来提效。",
+    "url": "https://www.tmtpost.com/8114087.html",
+    "published": "Mon, 24 Aug 2026 17:28:37 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
     "source": "钛媒体",
-    "title": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资",
-    "summary": "AI是婚恋的良配吗?",
-    "url": "https://www.tmtpost.com/8114111.html",
-    "published": "Mon, 24 Aug 2026 12:08:15 +0800",
+    "title": "武汉即将迎来史上最大IPO",
+    "summary": "光谷传奇。",
+    "url": "https://www.tmtpost.com/8114331.html",
+    "published": "Mon, 24 Aug 2026 14:25:51 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "钛媒体",
-    "title": "具身智能的攻坚战：陪伴机器人需要翻越哪些技术高墙？",
-    "summary": "In2Mate影子科技用产业积累回答了一个问题：让硅基陪伴拥有碳基温度。",
-    "url": "https://www.tmtpost.com/8113992.html",
-    "published": "Mon, 24 Aug 2026 10:39:42 +0800",
+    "source": "极客公园",
+    "title": "硅谷押注的下一个 Harness，是整个桌面操作系统",
+    "summary": "不是 AI 操作系统，是 AI 读得懂的操作系统 作者｜张勇毅 编辑｜靖宇 截止目前，有了 DeepSeek Harness 之类 CLI 产品之后，你电脑里的 AI 几乎已经无所不能：它可以总结网页，润色邮件，改两张图。 目前做不了几乎只有一件事： 碰你的电脑本身 。 有一个操作系统反过来做了这件事。它叫 Omarchy，一个 Linux 发行版，8 月 14 日发布了 4.0 版本：AI 直接装在系统里，你用一句话告诉它要什么，它替你操作电脑。十天之内，社区给它写了 1,074 个插件。 Omarchy4 桌面｜图片来源：极客公园 这个周末，硅谷有八个人为它掏了 800 万美元。 8 月 21 日，Omarchy 的作者 DHH 宣布成立 Omacom 基金会，首期 800 万美元来自八个人，每人 100 万。 名单里有戴尔的老板 Michael Dell、推特联合创始人 Jack Dorsey、Shopify 和 Stripe 的两位 CEO、Cloudflare 的 CEO、Oculus 的联合创始人，以及 37signals 的两位创始人，DHH 自己是其中之一。 八位创始赞",
+    "url": "http://www.geekpark.net/news/369298",
+    "published": "Mon, 24 Aug 2026 17:57:38 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "钛媒体",
-    "title": "年产500万辆，“三蹦子”蹦出海外，背后是一个县城在操盘",
-    "summary": "从田间地头到全球市场：“三蹦子”的出海密码。",
-    "url": "https://www.tmtpost.com/8113874.html",
-    "published": "Mon, 24 Aug 2026 09:53:40 +0800",
+    "source": "极客公园",
+    "title": "130 亿美元，Hugging Face 要卖了",
+    "summary": "作者｜桦林舞王 编辑｜靖宇 又一家 AI 中间层公司，要卖了。 当地时间 8 月 23 日，外媒爆出消息，Hugging Face 正在探索出售，估值可能达到 130 亿美元甚至更高。这家总部位于纽约的公司，已经聘请了投行来试探潜在买家的兴趣。 这个价格放在三年前会显得荒唐。2023 年 Hugging Face 完成 D 轮融资时，由 Salesforce、Google 和 Nvidia 领投的估值是 45 亿美元。 三年不到，求购价翻了近三倍 。 但如果把这条消息放进过去一个月的时间线里看，事情就有趣多了。就在一周前，Stripe 刚刚以超过 80 亿美元的价格吞下了 AI 模型路由平台 OpenRouter；而 OpenRouter 在今年 5 月的 B 轮估值才 13 亿美元，三个月就被 5.4 倍溢价买走。 两笔交易证明，当下的 AI 生态里，模型和用户之间的「中间层」，正在被大公司战略性抢购。 01 「黑」出个未来 Hugging Face 大概是世界上唯一一家，被黑客攻击之后，估值不降反升的公司。 7 月 21 日， OpenAI 披露了一起令整个行业震动的安全事件。 公",
+    "url": "http://www.geekpark.net/news/369289",
+    "published": "Mon, 24 Aug 2026 16:45:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "年轻人的网络社交，正在偷偷「鸽化」",
+    "summary": "作者｜宇航猿 编辑｜靖宇 「 从前的日色变得慢，车，马，邮件都慢 。」 作家木心的小诗「车马慢」，到现在还是不少年轻人的微信签名。对于长在移动互联网中的年轻原住民来说，前互联网是时代的「慢」，不是不便，而是一种「怀古」的浪漫。 这也怪不了他们，微信等即时通信工具上，消息不仅是实时发送的，你甚至能在屏幕上看到「对方正在输入」的字样——一切都太快了。 当这种过快的互联网速度正在透支人们的精力时，反抗就出现了。 试想这样一个场景： 你发了一条消息。屏幕上没有「对方正在输入」，取而代之的是一只鸽子，正飞过俄亥俄州上空。预计到达时间还剩 18 小时。前提是它没在半路迷路死掉。 Carrier Pidge 应用的页面｜图片来源：TechSpot 这不是行为艺术。这是 2026 年夏天，美国 App Store 社交榜上真实在发生的事。 两款「用鸟送信」的消息应用几乎同时爆发。一个叫 Carrier Pidge，一个叫 Roost。合计用户超过 50 万，一个冲到社交榜 24 名，另一个三天内用户翻了十倍。它们做的事情一模一样： 让你的消息变得和 19 世纪一样慢。 在中国，微信消息从北京发到深圳只",
+    "url": "http://www.geekpark.net/news/369290",
+    "published": "Mon, 24 Aug 2026 16:43:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球",
+    "summary": "作者｜李苏 编辑｜ 郑玄 一场特殊的网球比赛，一次数字智能向物理智能的跨越。 人形机器人挥出第一拍之前，没有人确定它能不能接住对面飞来的球。 事实上，球贴着边线飞来，机器人横移数步挥拍回击，球落在界内。它接住了，比赛继续。 这是 8 月 22 日第二届世界人形机器人运动会上的真实场景。开幕式网球表演赛上，一台人形机器人在全球直播镜头下，与网坛顶尖运动员展开全自主对抗。 发球、正手、反手、接发、底线调动、网前截击，整套动作连贯流畅。双打环节，它与人类队友实时协作，根据场上局势调整战术。高速攻防中，它跑过大半个球场完成极限救球，摔倒后还能自主站起。 这是全球首次人与机器人的大型赛事直播，做出这款机器人的公司叫做银河通用——这也其被定义为 AstraTennis 时刻。 很多人恍惚想起十年前，AlphaGo 在棋盘上战胜李世石，彼时，人工智能在数字世界的复杂博弈中抵达顶峰。但那时候，还仅仅是人脑和机器之间智力的对决。 堪堪十年光景之后，机器人在另一个真实的赛场上接住了世界名将的回球——数字智能开始向物理智能延伸。 支撑这场表演赛的，是银河通用自主研发的具身智能大模型银河星脑，以及核心技术平台",
+    "url": "http://www.geekpark.net/news/369283",
+    "published": "Mon, 24 Aug 2026 15:25:24 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？",
+    "summary": "01 「AI 音乐，拼的早已不是产能」 流媒体平台 Deezer 最新披露了一组数据：AI 歌曲每天涌入平台的速度已经从 2025 年初的 1 万首飙升到 7.5 万首，占当日新增上传的 44%。但实际播放占比，只有 1%—3%。 7.5 万首进去，不到 3%能被听见。剩下的，沉默地沉在平台底层。 产能炸了，产品却过不了人的耳朵这一关。 更深层的问题是，听众越来越能分辨 AI 作品和人类创作，平台也开始用质量而非数量来筛选，比如 TIDAL 就上线了 AI 透明度标签，IFPI 要求「人类实质性参与」才能进入官方榜单。 当 AI 音乐从「能不能做」走到「该怎么做」，一个更根本的问题浮出水面：当所有人都能一键生成，「生成」本身不再是价值，什么才是？ AI 音乐用了三年时间，解决了「能不能做」的问题。 但「该怎么做」，怎么让音乐真正服务于人，怎么让创作不被产能淹没，怎么在产能洪流中让真正有灵魂的作品被人听见，这些问题才刚刚浮出水面。 02 一个想给妻子做首歌的人 音潮团队 CEO 姜涛最初做 AI 音乐的初衷，甚至带点浪漫色彩。 他想给妻子做一首专属纪念歌曲，却发现传统音乐制作成本动辄上万",
+    "url": "http://www.geekpark.net/news/369273",
+    "published": "Mon, 24 Aug 2026 15:17:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新",
+    "summary": "作者｜Wildcard 编辑｜靖宇 多模态也是「梁心」地板价。 「鲸鱼睁眼了！」 非常突然的，8 月 21 日 DeepSeek 官方正式宣布，V4-Flash-Vision-Exp 上线，开启多模态 API 服务。 等了这么久，DeepSeek 模型终于补上了多模态能力，欢喜的人们甚至差点忘了 DeepSeek 刚刚开始根据使用时间涨价的事儿。 梁文锋滑动变阻器，旋钮向着「梁圣」方向前进一格。 极客公园按耐不住，马上测试了起来。 栏目作者召集 极客公园的新栏目「AI 上新」，将带大家体验最新的 AI 应用和硬件，让你成为 AI 时代「最靓的仔」！ 现在，我们也向所有喜欢尝鲜和体验 AI 的同学发出召集，只要你发现并体验了新的 AI 应用或者功能，按照格式（参考案例： 实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人",
+    "url": "http://www.geekpark.net/news/369278",
+    "published": "Mon, 24 Aug 2026 15:14:16 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判",
+    "summary": "作者｜Cynthia 编辑｜郑玄 投资人广撒网式布局，但真正的全域沉浸式生成，还少之又少。 2024 年 8 月 27 日，DOOM 里的一声枪响，在 2026 年年中的资本市场，听到了震耳欲聋的回响。 这一天，一段《DOOM》的游戏画面出现在 Google Research、Google DeepMind 和特拉维夫大学研究团队公布的演示里。 棕红色的墙壁，幽暗的走廊，像素化的枪口，玩家移动，怪物出现。然后，玩家按下键盘，枪响了。 如果不去细看，这段演示与三十年来无数次《DOOM》游戏录像没有任何本质区别。 变化发生在屏幕背后：那里没有一个传统游戏引擎， 玩家扣动扳机之后，会出现什么画面，全是靠模型在毫秒内自行推演出的。 于是，过去互联网时代短视频 vs 直播的叙事，在 AI 视频生成赛道再次重演。 但很可惜，由于成本以及谷歌内部的诸多考虑，那声枪响，很快被离线生成视频带来的掌声盖住。此后一年里，行业的聚光灯逐渐集中到了 Sora、可灵、Seedance 这样的离线生成模型玩家之上。围绕分辨率、镜头语言、人物一致性和生成时长，整个行业都在研究如何把十秒钟的视频做得更像电影。 但枪声并",
+    "url": "http://www.geekpark.net/news/369264",
+    "published": "Mon, 24 Aug 2026 14:18:43 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
@@ -330,61 +390,11 @@
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "极客公园",
-    "title": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
-    "summary": "作者｜Li Yuan 编辑｜张鹏 8 月 10 日，宇树科技完成科创板申购，发行价 150.80 元，发行市值约 610 亿元，发行市盈率 219 倍，是通用设备行业平均值的近六倍。多家机构给出的挂牌后估值直接标到千亿以上，敲钟的日子很可能就落在这个月下旬，几乎与世界机器人大会撞在一起。 钱多，预期更高。 钱多，预期更高。对标电动车，意味着一个万亿级的制造业；对标 AI，则意味着根本没有天花板——毕竟具身智能被寄予的，是让 AI 真正落进物理世界。 热的是估值，冷的是订单。可作对照的是另一组数字。2025 年宇树人形机器人出货 5500 多台，全球第一；工信部预计 2026 年全年整机产量有望突破 10 万台，比去年跳升五倍。增速极快，但总产值仍远撑不起千亿估值。 而行业真实的状态是， 数据、本体、算法，没有一件可以叫收敛。但它跑得足够快，快到收敛那一天已经隐约能看见。 8 月 19 日至 23 日，2026 世界机器人大会在北京举行，300 多家企业、2000 多件展品。我们会去现场，和大家一起看看到时候今天真实的机器人产业到底是什么样。 先说一个可能不讨喜的预判：今年的 WRC，大",
-    "url": "http://www.geekpark.net/news/368887",
-    "published": "Mon, 17 Aug 2026 11:28:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "极客公园",
-    "title": "闭门、举牌、真话，这场路演有点不一样",
-    "summary": "作者｜Li Yuan 编辑｜郑玄 会算命的非遗挂件？专挑膝盖下手的外骨骼？会跳的机器人？ 8 月 7 日，地瓜机器人办的这场闭门路演「地心引力 DemoDay 2026」，十个项目轮番上台，画风一个比一个野。 有做具身智能的，也有做智能硬件的，大部分都还初具雏形：一些项目，半年前才刚正式启动。 地瓜选择本场 Demoday 选手的调性，与其他不太一样。CEO 王丛开场就说：他不太在乎地瓜自己出货量多大、市场占有率多高，他更想看到的画面是，被他们孵化出来的那些五花八门的东西，能被随便拿一个回家，给爸妈玩，给孩子玩，路边看到都是。 地瓜过去一年一直在用真金白银和工程资源接住这批人——如果你也对押注早期、押注还没长成形的怪点子感兴趣，这十个项目值得一个个看看。 01 早期，但已经能跑起来的产品 在路演中获得亚军巡领科技做的是一台能实时看懂你挥杆动作、指出问题出在哪、再给一套改进方案的 AI 高尔夫教练设备。 他们的产品 BirdieSense 用两套视觉系统，一套追踪球，一套理解人的身体和挥杆，把过去只有 TrackMan 这类接近两万美元的专业设备才有的测量能力，压到了消费级价格。 硬件只",
-    "url": "http://www.geekpark.net/news/368885",
-    "published": "Mon, 17 Aug 2026 11:26:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "极客公园",
-    "title": "问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑",
-    "summary": "IPO 前 Anthropic CEO 达里奥 · 阿莫迪罕见发长文回应质疑，预告未来 5-10 年 AI 将治愈多数疾病 Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）几乎从不碰社交媒体。但就在 IPO 估值被推到 2 万亿美元的节骨眼上，他罕见地发了一篇长文，正面回应 Anthropic 如何看待监管。 长文中，达里奥 · 阿莫迪回「我们设计的每一条政策，都让前沿公司承担更多成本，同时有利于规模更小的竞争者。」他同样支持 Demis Hassabis 提出的、建立一个 类似 FINRA（美国金融业监管局）的 AI 监管机构 的想法。 他认为，如果能够制定正确的「游戏规则」，完全有可能同时做到三件事： 1、应对 AI 在网络安全、生物安全以及对齐方面的风险； 2、通过制度约束前沿 AI 公司的权力； 3、为开放权重模型保留发展空间，同时针对它们特有的风险采取相应措施。 然后他话锋一转谈到 Anthropic 正全速加码生物医学 AI。 他的判断极其激进：未来 5-10 年，AI 将能治愈多数人类疾病。 他认为：到目前为止，对包括 Anthropic 在内的",
-    "url": "http://www.geekpark.net/news/368859",
-    "published": "Mon, 17 Aug 2026 08:29:59 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "极客公园",
-    "title": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
-    "summary": "2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展 8 月 16 日消息，2026 世界机器人大会将于 8 月 19 日至 23 日在北京经济技术开发区北人亦创国际会展中心举行。近日，2026 世界机器人大会展位图全揭晓。 作为大会展览的重要新增空间，智创馆面积达 2 万平方米，拥有更加开阔、通透的展示环境，将进一步提升企业参展和观众观展体验。 宇树科技、星海图、优必选、银河通用、自变量、明略科技、维他动力、智身科技、云深处、傅利叶、越疆、仙工、中科慧灵等代表性企业，将带来机器人整机、具身智能及人形机器人的最新成果。 北京、上海、浙江、湖北、广东、四川、吉林等地的人形机器人创新中心将齐聚智创馆，集中展示各地的创新成果。央企展区也将在这里亮相，集中展示中央企业在机器人领域的整体布局和应用成果。京东将整合物流、零售、工业、家政等应用场景，打造【未来人机共生新范式】超级展区。 智造馆将汇聚京城机电、珞石、中信重工、海尔集团、非夕、睿尔曼、云迹、擎朗、普渡、申昊科技、本末科技、国兴智能、美丽魔方机器人、源络科技等企业。绿的谐波、卧龙电驱、同川、新剑、五洲新春、鸣志",
-    "url": "http://www.geekpark.net/news/368854",
-    "published": "Sun, 16 Aug 2026 09:15:43 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "极客公园",
-    "title": "3 个月烧掉 105 亿，腾讯急了",
-    "summary": "头图来源：视觉中国 腾讯的 AI 故事，正在进入一个更昂贵的阶段。 8 月 12 日，腾讯发布 2026 年第二季度财报。本季度营收 2047.9 亿元，同比增长 11%；Non-IFRS 经营利润 756.4 亿元，同比增长 9%；Non-IFRS 归母净利润 684 亿元，同比增长 9%。 单看数字，这仍然是一份稳健的财报。但把 AI 拆出来之后，腾讯的增长曲线呈现出了明显的分叉：若剔除混元、元宝、CodeBuddy、WorkBuddy、小微等新 AI 产品的收入、成本与开支，腾讯本季度 Non-IFRS 经营利润为 861 亿元，同比增长 19%。 这意味着，腾讯原有业务的盈利能力并没有变弱，反而还在改善；只是新 AI 业务在这个季度对 Non-IFRS 经营利润造成了约 105 亿元的净影响，高于一季度的约 88 亿元。也因此，腾讯整体利润增速从剔除新 AI 产品后的 19%，被拉低到了 9%。 更直观的变化来自现金流。本季度腾讯资本开支达到 527.8 亿元，远超预期的 321 亿元，同比增长 176%、环比增长 65%；研发支出 272.8 亿元，同比增长 35%。在大规模",
-    "url": "http://www.geekpark.net/news/368852",
-    "published": "Sat, 15 Aug 2026 16:46:20 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "极客公园",
-    "title": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
-    "summary": "智谱正式发布 GLM-5.3，拥有更强编程能力 8 月 14 日，据介绍，与 GLM-5.2 相比，GLM-5.3 基座模型未变，但通过极致的后训练 Scaling 大大提高了模型的智能上界。 GLM-5.3 拥有更强的编程能力，在内部自建体感评测中较 GLM-5.2 提升 50%，在包括 TerminalBench3.0、Agents'LastExam(CLI)在内的公开基准测试中取得开源第一。 智谱还表示，将在发布两周后开放模型权重。 （来源：广角观察） 知情人士称苹果在阿里巴巴支持下为中国市场训练专属 AI 模型 据三位知情人士透露，苹果公司已经专门为中国市场训练了一个大型语言模型。 这一举措标志着这家 iPhone 制造商在华 AI 策略的重大转变，此前该公司曾计划主要依赖第三方模型来驱动其在当地的人工智能功能。据悉，该 AI 模型是苹果与阿里巴巴集团合作开发，并在这家中国科技巨头的支持下完成训练的。由于信息敏感且尚未公开，知情人士拒绝透露姓名。（来源：今日头条） 英伟达宣布 CPO 交换机全面量产 8 月 14 日，英伟达宣布 Spectrum-X Ethernet Phot",
-    "url": "http://www.geekpark.net/news/368849",
-    "published": "Sat, 15 Aug 2026 08:52:38 +0800",
+    "source": "爱范儿",
+    "title": "小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」",
+    "summary": "小米掀桌了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1676441?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Mon, 24 Aug 2026 09:07:58 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24"
@@ -485,6 +495,36 @@
     "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
     "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
     "published": "Fri, 21 Aug 2026 22:10:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba launches Wan3.0 video model with 30-second generation and document input",
+    "summary": "Alibaba Cloud has officially launched Wan3.0, a video-generation model that can create clips of up to 30 seconds and accept files including DOC, XLS, PPT, PDF and Markdown documents as inputs. The model had been available in public beta since early August. Alibaba Cloud said it has continued to improve instruction following, consistency across shots […]",
+    "url": "https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/",
+    "published": "Mon, 24 Aug 2026 06:18:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "TechNode",
+    "title": "SHEIN launches Hong Kong IPO at a valuation of up to US$27 billion",
+    "summary": "SHEIN has started bookbuilding for its Hong Kong IPO, offering about 280 million Class B shares at HK$47.60 to HK$49.50 each. The offering could raise up to HK$13.86 billion (US$1.77 billion), with trading scheduled to begin on Sept. 1. At the top of the price range, the online fashion retailer would be valued at close […]",
+    "url": "https://technode.com/2026/08/24/shein-launches-hong-kong-ipo-at-a-valuation-of-up-to-us27-billion/",
+    "published": "Mon, 24 Aug 2026 06:06:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "TechNode",
+    "title": "Dreame’s automotive project faces reported layoffs and executive departures",
+    "summary": "Dreame’s automotive project has reportedly experienced multiple rounds of layoffs, while several senior executives have begun looking for jobs elsewhere. Large sections of the company’s office space were also reported to be vacant. The project, known as “Skyline,” was launched as part of Dreame’s plan to develop premium electric vehicles. The latest reports point to […]",
+    "url": "https://technode.com/2026/08/24/dreames-automotive-project-faces-reported-layoffs-and-executive-departures/",
+    "published": "Mon, 24 Aug 2026 05:59:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-24"
@@ -630,26 +670,6 @@
     "fetchedAt": "2026-08-24"
   },
   {
-    "source": "TechNode",
-    "title": "HSG invests in ZXMOTO as Chinese motorcycle maker targets global racing",
-    "summary": "HSG, the China-focused venture capital firm formerly known in English as Sequoia China, has invested in ZXMOTO, the Chongqing-based motorcycle maker founded by Zhang Xue. The two sides will work together to develop world-class products and compete on international racing circuits. ZXMOTO focuses on high-performance motorcycles and entered the World Supersport class of the FIM […]",
-    "url": "https://technode.com/2026/08/14/hsg-invests-in-zxmoto-as-chinese-motorcycle-maker-targets-global-racing/",
-    "published": "Fri, 14 Aug 2026 05:34:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
-    "source": "TechNode",
-    "title": "DJI launches Osmo 360 II 8K camera at RMB3,299",
-    "summary": "DJI has launched the Osmo 360 II, an 8K 360-degree camera, in China with a starting price of RMB3,299. The camera uses a 1-inch panoramic imaging sensor and offers 14.5 stops of dynamic range. It supports native 8K/60fps panoramic video, AI Super Night Scene 2.0, subject tracking, NFC one-tap pairing and AI-assisted editing, while offering […]",
-    "url": "https://technode.com/2026/08/14/dji-launches-osmo-360-ii-8k-camera-at-rmb3299/",
-    "published": "Fri, 14 Aug 2026 05:27:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-24"
-  },
-  {
     "source": "The Verge",
     "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
     "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
@@ -670,17 +690,221 @@
     "fetchedAt": "2026-08-24"
   },
   {
+    "source": "Hacker News",
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/ Comments URL: https://news.ycombinator.com/item?id=49409505 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "published": "Sun, 23 Aug 2026 15:16:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49402436 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "published": "Sat, 22 Aug 2026 18:32:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Vallley – Live Startup Jobs",
+    "summary": "Article URL: https://vallley.xyz Comments URL: https://news.ycombinator.com/item?id=49401927 Points: 2 # Comments: 1",
+    "url": "https://vallley.xyz",
+    "published": "Sat, 22 Aug 2026 17:40:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Harvard's A.I. Clones Will Hear Your Startup Pitch Now",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html Comments URL: https://news.ycombinator.com/item?id=49400264 Points: 4 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+    "published": "Sat, 22 Aug 2026 14:41:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Im 18 and building my startup and this is what I feel",
+    "summary": "Hi My name is ritu and ive built an autoML tool. The intention of this post to let people know about my journey because im tired to express my self to chatGPT. I am women in tech, majority of women are in biology , i was about to but i took u turn and chose IT idk why i mean i had PCB in higher secondary and i decided to choose a tech degree so i can build my startup. things are bit frustrating for me because im young, inexperienced, exhausted. People now started glorifying young builders but if",
+    "url": "https://news.ycombinator.com/item?id=49398505",
+    "published": "Sat, 22 Aug 2026 11:09:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ISRO will not make any launch vehicle, all tech to be handed to private sector",
+    "summary": "Article URL: https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21 Comments URL: https://news.ycombinator.com/item?id=49398045 Points: 2 # Comments: 1",
+    "url": "https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21",
+    "published": "Sat, 22 Aug 2026 09:28:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+    "published": "Sat, 22 Aug 2026 00:07:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49393230 Points: 7 # Comments: 2",
+    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "published": "Fri, 21 Aug 2026 20:10:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Put your startup on the map. Get visibility. Anyone can steal your spot back",
+    "summary": "Article URL: https://www.flagwars.lol/ Comments URL: https://news.ycombinator.com/item?id=49390504 Points: 2 # Comments: 0",
+    "url": "https://www.flagwars.lol/",
+    "published": "Fri, 21 Aug 2026 16:30:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
+    "summary": "Article URL: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49386851 Points: 4 # Comments: 0",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "published": "Fri, 21 Aug 2026 12:05:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Building a startup in Europe: What visiting 58 Companies in 3 Weeks taught me",
+    "summary": "Article URL: https://bensdl.substack.com/p/building-a-startup-in-europe-what Comments URL: https://news.ycombinator.com/item?id=49386774 Points: 5 # Comments: 0",
+    "url": "https://bensdl.substack.com/p/building-a-startup-in-europe-what",
+    "published": "Fri, 21 Aug 2026 11:57:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Payluck – a startup directory where luck decides your discount",
+    "summary": "Article URL: https://payluck.lol/ Comments URL: https://news.ycombinator.com/item?id=49385687 Points: 1 # Comments: 0",
+    "url": "https://payluck.lol/",
+    "published": "Fri, 21 Aug 2026 09:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stripe Buys A.I. Startup OpenRouter for $7.5B",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html Comments URL: https://news.ycombinator.com/item?id=49385595 Points: 2 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+    "published": "Fri, 21 Aug 2026 09:05:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why to Start a Startup in a Bad Economy (2008)",
+    "summary": "Article URL: https://paulgraham.com/badeconomy.html Comments URL: https://news.ycombinator.com/item?id=49384951 Points: 1 # Comments: 0",
+    "url": "https://paulgraham.com/badeconomy.html",
+    "published": "Fri, 21 Aug 2026 07:32:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "California Draws More Startup Investment Than All Other 49 States Combined",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde Comments URL: https://news.ycombinator.com/item?id=49383972 Points: 6 # Comments: 4",
+    "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+    "published": "Fri, 21 Aug 2026 04:57:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trying to launch a Spotify app? In this economy?",
+    "summary": "Article URL: https://bf.lol/blog/careless-spotify Comments URL: https://news.ycombinator.com/item?id=49382842 Points: 3 # Comments: 0",
+    "url": "https://bf.lol/blog/careless-spotify",
+    "published": "Fri, 21 Aug 2026 02:08:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+    "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs ",
+    "url": "https://github.com/runvendo/vendo",
+    "published": "Thu, 20 Aug 2026 15:29:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sheeplaunch – Product Launch Platform",
+    "summary": "Article URL: https://sheeplaunch.com Comments URL: https://news.ycombinator.com/item?id=49373044 Points: 3 # Comments: 1",
+    "url": "https://sheeplaunch.com",
+    "published": "Thu, 20 Aug 2026 11:12:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A $21B 'Kids in Chips' Startup Is Scooping Up Nvidia Talent",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12 Comments URL: https://news.ycombinator.com/item?id=49369420 Points: 4 # Comments: 0",
+    "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12",
+    "published": "Thu, 20 Aug 2026 01:31:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-24"
+  },
+  {
     "source": "微博",
-    "title": "#世界人形机器人运动会现场画面#",
+    "title": "#雷军说芯片很贵不建议拆开看彩蛋#",
     "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23世界人形机器人运动会现场画面%23",
+    "url": "https://s.weibo.com/weibo?q=%23雷军说芯片很贵不建议拆开看彩蛋%23",
     "published": "2026-08-24",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "hotValue": 1697004,
-      "rank": 2
+      "hotValue": 637765,
+      "rank": 3
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银",
+    "summary": "AI 提醒：我负责吐槽，ChatGPT 负责文字润色。 实在是太傻逼了。 今天要从汇丰转一笔钱到券商，本来以为这是一件大概 3 分钟可以结束的事情。结果我第一次真切地体会到：一个拥有一百多年历史、业务遍布全球的银行，到底可以把电子银行做得多么反人类。 首先，加一个收款人，居然不是加完就能用。 要等。 而且不是等几分钟，不是等短信验证，不是等系统风控审核一下。 是要等到第二个工作日才能确认。 我盯着这个设计想了半天，都没想明白它究竟在防什么。 如果是为了安全，那现在已经有短信 OTP 、App 验证、生物识别、设备绑定、交易限额、风控模型，甚至你愿",
+    "url": "https://www.v2ex.com/t/1236750",
+    "published": 1787541983,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-24",
+    "meta": {
+      "replies": 123,
+      "node": "投资"
     }
   },
   {
@@ -693,8 +917,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 3959,
-      "forks": 191,
+      "stars": 4022,
+      "forks": 194,
       "language": null,
       "createdDaysAgo": 5
     }
@@ -709,8 +933,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 3051,
-      "forks": 304,
+      "stars": 3245,
+      "forks": 313,
       "language": "HTML",
       "createdDaysAgo": 2
     }
@@ -725,7 +949,7 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 1463,
+      "stars": 1754,
       "forks": 23,
       "language": "Python",
       "createdDaysAgo": 6
@@ -741,8 +965,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 1231,
-      "forks": 259,
+      "stars": 1268,
+      "forks": 263,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -757,26 +981,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 970,
-      "forks": 97,
+      "stars": 1083,
+      "forks": 107,
       "language": "Zig",
       "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ShadowAqueduct/watermark-remover",
-    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-    "url": "https://github.com/ShadowAqueduct/watermark-remover",
-    "published": "2026-08-23T21:14:28Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "stars": 760,
-      "forks": 73,
-      "language": "Python",
-      "createdDaysAgo": 0
     }
   },
   {
@@ -789,26 +997,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 751,
-      "forks": 31,
+      "stars": 811,
+      "forks": 33,
       "language": "JavaScript",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "DenisSergeevitch/desktop-fly",
-    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-    "url": "https://github.com/DenisSergeevitch/desktop-fly",
-    "published": "2026-08-18T17:29:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-08-24",
-    "meta": {
-      "stars": 706,
-      "forks": 43,
-      "language": "Swift",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -821,10 +1013,42 @@
     "type": "signal",
     "fetchedAt": "2026-08-24",
     "meta": {
-      "stars": 703,
-      "forks": 117,
+      "stars": 769,
+      "forks": 132,
       "language": "Python",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ShadowAqueduct/watermark-remover",
+    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "published": "2026-08-23T21:14:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-24",
+    "meta": {
+      "stars": 762,
+      "forks": 73,
+      "language": "Python",
+      "createdDaysAgo": 0
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "DenisSergeevitch/desktop-fly",
+    "summary": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "published": "2026-08-18T17:29:17Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-24",
+    "meta": {
+      "stars": 714,
+      "forks": 43,
+      "language": "Swift",
+      "createdDaysAgo": 5
     }
   }
 ]

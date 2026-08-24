@@ -468,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "melvinrook"
+            "linkedin": "get-your-hustle"
           },
           "careerPage": null,
           "jobListings": []
@@ -1347,7 +1347,7 @@
           "website": "https://kimi.moonshot.cn",
           "emails": [],
           "socials": {
-            "wechat": "QrPanel-DqGmMLn2"
+            "wechat": "QrPanel-ChnngkUA"
           },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
@@ -4222,8 +4222,19 @@
         "fetchedAt": "2026-08-24",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "info@latitudemedia.com",
+            "advertise@latitudemedia.com",
+            "editors@latitudemedia.com",
+            "careers@latitudemedia.com",
+            "opencircuit@latitudemedia.com",
+            "politicalclimatepodcast@gmail.com",
+            "events@latitudemedia.com"
+          ],
+          "socials": {
+            "twitter": "_LatitudeMedia",
+            "linkedin": "latitude-media-inc"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -4877,7 +4888,7 @@
           "website": "https://kimi.moonshot.cn",
           "emails": [],
           "socials": {
-            "wechat": "QrPanel-DqGmMLn2"
+            "wechat": "QrPanel-ChnngkUA"
           },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
@@ -8618,7 +8629,8 @@
           "website": "https://www.termark.app",
           "emails": [],
           "socials": {
-            "github": "termark-app"
+            "github": "termark-app",
+            "wechat": "-wrap-en"
           },
           "careerPage": "https://www.termark.app/careers",
           "jobListings": [
