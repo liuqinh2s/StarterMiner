@@ -81,6 +81,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "OpenAI 的 2027：资本周期下的上市平衡术",
+    "summary": "市场普遍将 OpenAI 规划 2027 年 IPO 视为技术兑现与万亿估值冲刺的行业里程碑。本文以资本久期匹配 + 6000 亿表外算力负债双框架拆解：上市并非单纯的技术高光时刻，而是资本周期与产业投入节奏相互校准的结构性平衡。",
+    "url": "https://www.tmtpost.com/8115750.html",
+    "published": "Tue, 25 Aug 2026 19:27:08 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "钛媒体",
     "title": "燧原科技启动科创板发行：拟募资60亿元，9月2日申购",
     "summary": "腾讯既是燧原科技的重要股东，也是公司第一大客户。",
     "url": "https://www.tmtpost.com/8116147.html",
@@ -90,21 +100,21 @@
     "fetchedAt": "2026-08-25"
   },
   {
-    "source": "钛媒体",
-    "title": "AI Moves Deeper Into Hospitals, but Who Pays Remains the Hard Question",
-    "summary": "The market for AI in healthcare has grown rapidly, with imaging tools widely deployed and large technology firms, device makers and specialist startups all competing. Scale is real; sustainable payment models are still forming.",
-    "url": "https://www.tmtpost.com/8116017.html",
-    "published": "Tue, 25 Aug 2026 16:09:02 +0800",
+    "source": "极客公园",
+    "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
+    "summary": "原来关注 App 被打开的次数，现在关注的是服务被调用的次数。 作者｜张勇毅 编辑｜靖宇 对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天的新增还剩多少，七日留存掉到了哪条线，还有那一大批装了就再没打开过的用户——你的图标被留在第四屏，和几十个 App 挤在一起。 下午改代码。一个编译错误卡了半小时，AI 给的写法改了三遍还是不对，因为它根本没见过多少这个平台的代码。 半夜被告警叫醒。线上崩溃率抬头，后台堆了几千条日志，没有一条直接告诉你为什么。 被找到、被用好、被修好——这三件事和操作系统的关系，过去十年几乎没变过：系统给你一个图标位、一套 SDK、一份崩溃日志，剩下的靠自己。 变化发生在 AI 进入系统层之后：操作系统第一次有机会替开发者接管这三件事的一部分，而不只是提供工具。HarmonyOS 7 是做得比较完整的一个样本，8 月 21 日 HDD 深圳站的 AI 专场把它拆成了五个议题。这篇文章不复述议题，只回答一个问题： 对一个应用开发者来说，这三件事现在分别变成了什么样，以及哪些还没变。 应用上线之后的三件事，以及 HarmonyOS 7 对应给出的能",
+    "url": "http://www.geekpark.net/news/369356",
+    "published": "Tue, 25 Aug 2026 23:52:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
-    "source": "钛媒体",
-    "title": "从1.1元出厂价到9.9美元售价，华北产业带想拿回“控价权”｜ 出海参考",
-    "summary": "华北产业带能不能拿回“售价差”，跨境电商不是答案本身，它只是让华北第一次有机会，回答这个问题。",
-    "url": "https://www.tmtpost.com/8114673.html",
-    "published": "Tue, 25 Aug 2026 15:10:25 +0800",
+    "source": "极客公园",
+    "title": "苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」",
+    "summary": "「内存涨价狂潮」，专门吃掉便宜的那一档 作者｜张勇毅 编辑｜靖宇 只要是今年持续有关注 AI 软件领域的人，你一定不会忘记 Mac mini 在其中的「江湖」地位：因为 OpenClaw 爆火，这类工具要一台机器长期开着跑，因此量大管饱的 Mac mini M4 成为了版本答案，即使它已经是 2024 年的产品，但依旧没有阻挡大家的热情，最终将其捧上龙虾神机的宝座。 半年过去，北京时间 8 月 25 日晚，苹果突然更新了 Mac mini 和 Mac Studio。国行 Mac mini 6999 元起，Mac Studio 19999 元起。 两台机器，一台每个配置都涨了 2500 元，另一台一分没涨。 新款 Mac mini 有两个版本。入门那版用 M6，苹果说这是它第一颗 2nm 制程的芯片，12 核 CPU、12 核 GPU，内存 16GB 起，国行 6999 元起；另一版用今年 3 月已经发布过的 M5 Pro，最高 18 核 CPU、20 核 GPU，内存 24GB 起，国行 12999 元起。 按苹果自己给的口径，M6 对比 M4，AI 性能快 4 倍、CPU 快 40%",
+    "url": "http://www.geekpark.net/news/369354",
+    "published": "Tue, 25 Aug 2026 22:46:38 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-25"
@@ -380,26 +390,6 @@
     "fetchedAt": "2026-08-25"
   },
   {
-    "source": "极客公园",
-    "title": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
-    "summary": "嘲讽与反转，是属于 DSH 同一个架构的因果两端。 作者｜ 张勇毅 编辑｜ 靖宇 8 月 14 日上午， DeepSeek Harness 上线 GitHub 还不到十二小时 ，项目 GitHub Star 就突破了 5 万。跻身 GitHub 史上最速达成记录之列。 极客公园曾在首发实测总结它的「一切皆插件」的概念是，「Agent 界的 Android」，但这个评价的另一面，是当时社区围绕 DeepSeek Harness（下文简称 DSH）的巨大争议：「对非开发者不是很友好」与「毛边随处可见」是不少第一时间体验之后的评论；还有一些第三方测显示同样跑 V4 Flash，DSH 比别家 harness 多烧三倍 token。 但五天之后，DSH 在社交媒体平台上已经经历了一轮完整的「口碑反转」：不仅 GitHub 达到了 14.9 万星，1.5 万个 fork。「赛博乐高」的概念也已经被社区所接受，已经累积起了超过 5100 个插件与超过 3500 位作者。 DeepSeek Harness 开源第五天的 GitHub 仓库页，星标 14.9 万、fork 1.5 万｜图片来源：Git",
-    "url": "http://www.geekpark.net/news/369003",
-    "published": "Wed, 19 Aug 2026 10:33:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
-    "source": "极客公园",
-    "title": "苹果「摄像头耳机」曝光；小米机器人将亮相机器人大会；特斯拉与 SpaceX 合并预期升温 | 极客早知道",
-    "summary": "OpenAI第二季度营收 67 亿美元，增速远不及 Anthropic 据《华尔街日报》报道，OpenAI 向投资者透露，其第二季度营收较第一季度增长了 18%，但亏损进一步扩大。这一业绩令部分股东感到失望，他们此前曾期望这家公司在追赶竞争对手 Anthropic 方面能展现出更大进展。 OpenAI 表示，截至 6 月的三个月内，公司营收增至 67 亿美元，高于第一季度的 57 亿美元。与此同时，据知情人士透露，其营业亏损率进一步扩大，使得该公司在备受期待的首次公开招股 (IPO) 之前，距离实现盈利更加遥远。 同期，Anthropic 的营收增长了一倍多，达到 116 亿美元，这是该公司营收首次超过成立时间更早的竞争对手 OpenAI。而且，Anthropic 还实现了小幅营业盈利。（来源：凤凰网科技） 百度李彦宏：目标让文心回到第一梯队 8 月 18 日，百度发布 2026 年第二季度业绩，实现营收 313 亿元，同比下降 4%。 其中，百度核心 AI 新业务收入达到 125 亿元，同比增长 25%，占百度一般性业务收入的 50%，连续第二个季度占比过半。与此同时，在线营销服务收",
-    "url": "http://www.geekpark.net/news/368995",
-    "published": "Wed, 19 Aug 2026 08:10:47 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型",
     "summary": "· 曝 Hugging Face 评估出售，交易估值至少 130 亿美元 · Counterpoint：今年全球智能手机出货量预计下降 14.3% · 蔚来智驾负责人任少卿创立具身智能公司 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -420,91 +410,91 @@
     "fetchedAt": "2026-08-25"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
-    "summary": "· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1676314?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Mon, 24 Aug 2026 00:00:15 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
-    "source": "爱范儿",
-    "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
-    "summary": "我们在腌臜的广告泥潭中，畅想着美好的 AGI 未来。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Sun, 23 Aug 2026 03:53:55 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
     "source": "TechCrunch",
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
-    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-    "published": "Mon, 24 Aug 2026 23:05:44 +0000",
+    "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
+    "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+    "published": "Tue, 25 Aug 2026 20:44:12 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "TechCrunch",
-    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-    "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
-    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-    "published": "Mon, 24 Aug 2026 20:16:34 +0000",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "summary": "The company's new fundraising total now stands at $232 million.",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "published": "Tue, 25 Aug 2026 19:03:47 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "TechCrunch",
-    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
-    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-    "published": "Mon, 24 Aug 2026 19:58:17 +0000",
+    "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+    "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
+    "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+    "published": "Tue, 25 Aug 2026 18:22:50 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "TechCrunch",
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "published": "Mon, 24 Aug 2026 19:54:19 +0000",
+    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+    "published": "Tue, 25 Aug 2026 18:01:30 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "TechCrunch",
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+    "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
+    "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
+    "published": "Tue, 25 Aug 2026 15:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "TechCrunch",
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "published": "Mon, 24 Aug 2026 13:47:26 +0000",
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "summary": "Lica co-founders are going to work on Gamma's new research team.",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "published": "Tue, 25 Aug 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "TechCrunch",
-    "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-    "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-    "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-    "published": "Mon, 24 Aug 2026 13:45:15 +0000",
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "published": "Tue, 25 Aug 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+    "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+    "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+    "published": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "published": "Tue, 25 Aug 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
@@ -701,30 +691,80 @@
   },
   {
     "source": "The Verge",
-    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-    "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other […]",
-    "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-    "published": "2026-08-24T19:38:10-04:00",
+    "title": "The Witcher 3 is getting a remaster",
+    "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]",
+    "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+    "published": "2026-08-25T16:24:24-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "The Verge",
-    "title": "The Witcher 4 developers target a 2028 release",
-    "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the […]",
-    "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-    "published": "2026-08-24T11:48:53-04:00",
+    "title": "Dreame’s dream of a rocket-powered car is dead",
+    "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called \"Project Starry Sky\" once employed over 1,000 people, but now only a handful legal and HR staffers remain, charged with […]",
+    "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+    "published": "2026-08-25T14:52:53-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
   },
   {
     "source": "The Verge",
-    "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-    "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platforms over the past year, […]",
-    "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-    "published": "2026-08-24T10:49:44-04:00",
+    "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+    "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E-Day, Capcom’s upcoming […]",
+    "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+    "published": "2026-08-25T13:20:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "The Verge",
+    "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+    "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example shared by Instagram shows […]",
+    "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+    "published": "2026-08-25T13:12:31-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Recent graduates struggle to launch careers in toughest job market in years",
+    "summary": "Article URL: https://www.youtube.com/watch?v=fAaG9RYHqiw Comments URL: https://news.ycombinator.com/item?id=49439650 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=fAaG9RYHqiw",
+    "published": "Tue, 25 Aug 2026 19:50:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding better evaluations of AI's impact on wellbeing",
+    "summary": "Article URL: https://www.anthropic.com/news/wellbeing-research-grants Comments URL: https://news.ycombinator.com/item?id=49436480 Points: 2 # Comments: 1",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "published": "Tue, 25 Aug 2026 16:15:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Perplexity and Nvidia to launch a local AI agent with zero token costs",
+    "summary": "Article URL: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs Comments URL: https://news.ycombinator.com/item?id=49435893 Points: 2 # Comments: 0",
+    "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "published": "Tue, 25 Aug 2026 15:33:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: GitRank.lol – GitHub repo battleground funding open source",
+    "summary": "Article URL: https://gitrank.lol Comments URL: https://news.ycombinator.com/item?id=49433672 Points: 1 # Comments: 0",
+    "url": "https://gitrank.lol",
+    "published": "Tue, 25 Aug 2026 13:27:27 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-25"
@@ -772,7 +812,7 @@
   {
     "source": "Hacker News",
     "title": "SpaceX, Nvidia designed a space-optimized Vera Rubin NVL72 (orbit launch in Q4)",
-    "summary": "Article URL: https://twitter.com/elonmusk/status/2091939113008238838 Comments URL: https://news.ycombinator.com/item?id=49423667 Points: 6 # Comments: 7",
+    "summary": "Article URL: https://twitter.com/elonmusk/status/2091939113008238838 Comments URL: https://news.ycombinator.com/item?id=49423667 Points: 6 # Comments: 11",
     "url": "https://twitter.com/elonmusk/status/2091939113008238838",
     "published": "Mon, 24 Aug 2026 18:06:08 +0000",
     "lang": "en",
@@ -782,7 +822,7 @@
   {
     "source": "Hacker News",
     "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
-    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 14 # Comments: 18",
+    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 15 # Comments: 19",
     "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
     "published": "Mon, 24 Aug 2026 16:46:56 +0000",
     "lang": "en",
@@ -792,7 +832,7 @@
   {
     "source": "Hacker News",
     "title": "Omacom Foundation funding hits $10M",
-    "summary": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/ Comments URL: https://news.ycombinator.com/item?id=49418032 Points: 58 # Comments: 103",
+    "summary": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/ Comments URL: https://news.ycombinator.com/item?id=49418032 Points: 59 # Comments: 105",
     "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
     "published": "Mon, 24 Aug 2026 11:04:42 +0000",
     "lang": "en",
@@ -870,67 +910,30 @@
     "fetchedAt": "2026-08-25"
   },
   {
-    "source": "Hacker News",
-    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49393230 Points: 7 # Comments: 2",
-    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-    "published": "Fri, 21 Aug 2026 20:10:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Put your startup on the map. Get visibility. Anyone can steal your spot back",
-    "summary": "Article URL: https://www.flagwars.lol/ Comments URL: https://news.ycombinator.com/item?id=49390504 Points: 2 # Comments: 0",
-    "url": "https://www.flagwars.lol/",
-    "published": "Fri, 21 Aug 2026 16:30:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
-    "summary": "Article URL: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49386851 Points: 4 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "published": "Fri, 21 Aug 2026 12:05:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Building a startup in Europe: What visiting 58 Companies in 3 Weeks taught me",
-    "summary": "Article URL: https://bensdl.substack.com/p/building-a-startup-in-europe-what Comments URL: https://news.ycombinator.com/item?id=49386774 Points: 5 # Comments: 0",
-    "url": "https://bensdl.substack.com/p/building-a-startup-in-europe-what",
-    "published": "Fri, 21 Aug 2026 11:57:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Payluck – a startup directory where luck decides your discount",
-    "summary": "Article URL: https://payluck.lol/ Comments URL: https://news.ycombinator.com/item?id=49385687 Points: 1 # Comments: 0",
-    "url": "https://payluck.lol/",
-    "published": "Fri, 21 Aug 2026 09:18:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-25"
-  },
-  {
     "source": "微博",
-    "title": "#全球首个6nm晶圆级垂直堆叠芯片#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23全球首个6nm晶圆级垂直堆叠芯片%23",
+    "title": "#苹果发布全球首款量产2nm芯片#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23苹果发布全球首款量产2nm芯片%23",
     "published": "2026-08-25",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-25",
     "meta": {
-      "hotValue": 460307,
-      "rank": 9
+      "hotValue": 92847,
+      "rank": 27
+    }
+  },
+  {
+    "source": "B站",
+    "title": "锐评人形机器人运动会",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=锐评人形机器人运动会",
+    "published": "2026-08-25",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-25",
+    "meta": {
+      "hotValue": 268783
     }
   },
   {
@@ -943,22 +946,8 @@
     "type": "community",
     "fetchedAt": "2026-08-25",
     "meta": {
-      "replies": 131,
+      "replies": 137,
       "node": "推广"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "我是真的犯贱，去 Linux DO 上推荐自己的开源项目。味太大了，生理不适",
-    "summary": "昨天注册了 LINUX DO 准备推广自己的开源项目。从注册到准备发帖，让我感受到的是：宏大叙事、意识形态灌输、入籍政审、跨域清算、告密有偿。怎么还有这样的地方，我不理解，甚至是绝望",
-    "url": "https://www.v2ex.com/t/1237009",
-    "published": 1787628665,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-08-25",
-    "meta": {
-      "replies": 86,
-      "node": "互联网"
     }
   },
   {
@@ -971,10 +960,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-25",
     "meta": {
-      "stars": 3762,
-      "forks": 367,
+      "stars": 3901,
+      "forks": 384,
       "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -987,10 +976,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-25",
     "meta": {
-      "stars": 2295,
-      "forks": 2627,
+      "stars": 2524,
+      "forks": 2826,
       "language": "TypeScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   }
 ]
