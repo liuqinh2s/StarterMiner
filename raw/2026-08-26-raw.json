@@ -81,20 +81,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "商业航天的人才竞争，为什么提前到了大学课堂？",
-    "summary": "抢人之外，商业航天企业开始自己培养人。",
-    "url": "https://www.tmtpost.com/8116703.html",
-    "published": "Wed, 26 Aug 2026 09:53:16 +0800",
+    "title": "长城汽车：国内销量掉两成，海外成了主战场",
+    "summary": "海外增长快，国内新能源还没带动整体销量。",
+    "url": "https://www.tmtpost.com/8117147.html",
+    "published": "Wed, 26 Aug 2026 18:51:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-26"
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】农产品相关“十五五”规划出炉，点名AI流通、农民主播、海外仓等；马云出手，与管理层合计增持阿里巴巴超8亿港元；章建平新进成为杭电股份第三大股东",
-    "summary": "人形机器人百米竞速再次刷新纪录；中国商业航天企业首次面向东南亚整星出口；中国聚变等9家企业将协同攻关高温超导强场托卡马克磁体研制；国家发改委召开“六网协同”协调推进工作会，研究“六张网”投融资机制和支持政策；高盛重申：预计到2026年底金价将达到每盎司4900美元。",
-    "url": "https://www.tmtpost.com/8116546.html",
-    "published": "Wed, 26 Aug 2026 07:20:00 +0800",
+    "title": "小鹏的新车很热，财报有点冷",
+    "summary": "小鹏二季度单车成本降低了9200元，汽车业务的毛利率却仍停在12.1%。新车订单不差，三季度指引却低于预期；机器人融资估值超63亿美元，也没能托住股价。销量回来了，毛利为什么没回来？",
+    "url": "https://www.tmtpost.com/8116611.html",
+    "published": "Wed, 26 Aug 2026 18:50:18 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "极客公园",
+    "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
+    "summary": "头图来源：OJO 官网 极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。 这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与剪映相关产品与业务。 在外界看来，她在剪映的经历是理解这次创业的重要背景：经历了一款工具产品从 0 到 1、再到大规模增长后寻找新曲线的完整过程。而当 Claude Code、Codex、Cursor 等 coding agent 让「做出一个产品」越来越容易，她把注意力转向了产品生产链路中另一处尚未被充分解决的断点——设计判断，以及这种判断如何在产品、设计与开发之间连续传递。 OJO 将自己定义为「Design Agent Team Workspace」。用户可以在一个工作台中，用自然语言完成产品思考、界面设计、迭代和代码交付。它所要回答的问题是：当 UI 生成、设计编辑和设计转代码逐渐普及后，一层连接设计与开发的工作台，为什么仍值得成为独立产品？ 张琪智的答案是，模型",
+    "url": "http://www.geekpark.net/news/369395",
+    "published": "Wed, 26 Aug 2026 15:10:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-26"
@@ -370,21 +380,11 @@
     "fetchedAt": "2026-08-26"
   },
   {
-    "source": "极客公园",
-    "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
-    "summary": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。 作者 | Li Yuan 8 月 19 日，宇树科技正式登陆科创板。上市首日，公司股价一度较发行价涨超 6 倍，总市值突破 4400 亿元。 当市场盯着这家「机器人身体最强公司」的股价时，一个更重要的问题随之出现：获得更多资金和资源之后，宇树接下来要做什么？ 当天中午，王兴兴参加了宇树的上市答谢午宴。这几乎是公司上市后的标准动作：感谢一路支持的政府、股东和合作伙伴，再回望一遍创业十年的艰辛。 但在略显磕巴地完成这些常规致谢后，王兴兴没有就此结束，而是突然把话题转向技术，开始讲述宇树上市后真正准备投入的一套系统。 他的状态也随之变化。表达明显流畅起来，语速越来越快，从大模型讲到自动编程，从仿真训练讲到真机测试，再讲到机器人技能的自我进化。 显然，这部分内容他已经想了很久。 01 当 AI 进入机器人研发全过程 王兴兴讲的并不是宇树即将发布的某个模型或产品，而是他对机器人技术下一阶段的判断：只做一个 AI 模型或者视频模型，整体竞争力和迭代速度已经不够。下一阶段真正重要的，是能否把模型、工具、仿真、",
-    "url": "http://www.geekpark.net/news/369051",
-    "published": "Wed, 19 Aug 2026 20:29:50 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-26"
-  },
-  {
-    "source": "极客公园",
-    "title": "宇树往事",
-    "summary": "今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。 对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。 大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 2017 年极客公园旗下变量资本决定投资宇树天使轮至今，我们也已经陪伴宇树走过了九个年头。在我眼里，这是个脆弱与坚强交织、纠结与决断并存的过程。 上市的精彩只是一瞬间，但我想把陪伴宇树这段长跑里的往事好好「蒸馏」一下，也许能从中提炼出一些对当下及未来创业者依然有价值和有意义的东西。 适度悲观地「走夜路」 从融资的角度看，宇树出生在一个「错误的季节」。 今天，具身智能和人形机器人如日中天，但在我认识王兴兴的 2017 年，「具身智能」这个词甚至都还没开始流通，资本市场的叙事也完全是另一个世界。 现在回头看，那是一个中国互联网用户增长已经见顶，移动互联网浪潮开始进入尾声的阶段。但巨大的时代惯性拖着大家，还感知不到那个时代的减速。由「连接」逻辑和软件驱动的商业创新，比如共享经济、拼团经济，以及后来的 SaaS 热潮，这些依旧是大部分创业者和",
-    "url": "http://www.geekpark.net/news/369047",
-    "published": "Wed, 19 Aug 2026 20:19:12 +0800",
+    "source": "爱范儿",
+    "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
+    "summary": "会让英伟达不开心 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Wed, 26 Aug 2026 09:46:32 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-26"
@@ -416,6 +416,16 @@
     "url": "https://www.ifanr.com/1676441?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Mon, 24 Aug 2026 09:07:58 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+    "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
+    "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+    "published": "Wed, 26 Aug 2026 07:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-26"
   },
@@ -500,11 +510,11 @@
     "fetchedAt": "2026-08-26"
   },
   {
-    "source": "TechCrunch",
-    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-    "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
-    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-    "published": "Tue, 25 Aug 2026 14:00:00 +0000",
+    "source": "TechNode",
+    "title": "China plans digital IDs for end-of-life EV batteries",
+    "summary": "China’s Ministry of Industry and Information Technology plans to draft administrative regulations on end-of-life EV batteries and introduce a digital identity system to track batteries from production and use through recycling, Vice Minister Xin Guobin said on Aug. 26. The ministry will also carry out joint enforcement campaigns to regulate battery recycling and improve traceability. […]",
+    "url": "https://technode.com/2026/08/26/china-plans-digital-ids-for-end-of-life-ev-batteries/",
+    "published": "Wed, 26 Aug 2026 06:42:50 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-26"
@@ -670,31 +680,21 @@
     "fetchedAt": "2026-08-26"
   },
   {
-    "source": "TechNode",
-    "title": "Xiaomi SU7 deliveries surpass 500,000 in 28.5 months",
-    "summary": "Xiaomi said cumulative deliveries of its SU7 electric sedan have surpassed 500,000 units, about 28.5 months after the model was launched. The SU7 remains the core product in Xiaomi’s expansion from consumer electronics into electric vehicles. The milestone refers specifically to the SU7 and does not include deliveries of Xiaomi’s newer YU7 SUV. [21 Finance, […]",
-    "url": "https://technode.com/2026/08/18/xiaomi-su7-deliveries-surpass-500000-in-28-5-months/",
-    "published": "Tue, 18 Aug 2026 05:45:18 +0000",
+    "source": "The Verge",
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "published": "2026-08-26T07:07:40-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-26"
   },
   {
-    "source": "TechNode",
-    "title": "Alibaba launches HappyShrimp 1.0 AI music model",
-    "summary": "Alibaba has officially launched HappyShrimp 1.0, an AI music model that can turn emotions, stories or memories into complete music tracks through natural-language prompts. The launch moves HappyShrimp from an earlier reported project into a publicly available product. Alibaba has not disclosed detailed information about the model’s technical architecture, usage limits or commercial pricing. [IT […]",
-    "url": "https://technode.com/2026/08/18/alibaba-launches-happyshrimp-1-0-ai-music-model/",
-    "published": "Tue, 18 Aug 2026 05:33:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-26"
-  },
-  {
-    "source": "TechNode",
-    "title": "UCloud brings Hygon’s Tianxi AI accelerators to public cloud",
-    "summary": "Chinese cloud provider UCloud has brought servers equipped with Hygon’s Tianxi series AI accelerators to its public-cloud platform. The deployment is reportedly the first large-scale public-cloud rollout of the chip series. The move gives cloud customers access to domestically developed computing hardware for AI-related workloads. UCloud and Hygon have not disclosed the initial deployment scale […]",
-    "url": "https://technode.com/2026/08/18/ucloud-brings-hygons-tianxi-ai-accelerators-to-public-cloud/",
-    "published": "Tue, 18 Aug 2026 05:30:55 +0000",
+    "source": "The Verge",
+    "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+    "summary": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand, laptop stand, side table, lounge chair, and multi-functional toolbox, with standout products like a stool, cushion, […]",
+    "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+    "published": "2026-08-26T06:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-26"
@@ -730,14 +730,208 @@
     "fetchedAt": "2026-08-26"
   },
   {
-    "source": "The Verge",
-    "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-    "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example shared by Instagram shows […]",
-    "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-    "published": "2026-08-25T13:12:31-04:00",
+    "source": "Hacker News",
+    "title": "A joke for founders about the perfect startup geography [20 secs]",
+    "summary": "Article URL: https://www.mangialardi.it/the-startup-paradox/ Comments URL: https://news.ycombinator.com/item?id=49445313 Points: 1 # Comments: 1",
+    "url": "https://www.mangialardi.it/the-startup-paradox/",
+    "published": "Wed, 26 Aug 2026 07:41:29 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49443397 Points: 7 # Comments: 7",
+    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
+    "published": "Wed, 26 Aug 2026 02:20:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Free Startup Dataroom Template",
+    "summary": "Article URL: https://github.com/emal-avala/data-room Comments URL: https://news.ycombinator.com/item?id=49443116 Points: 3 # Comments: 1",
+    "url": "https://github.com/emal-avala/data-room",
+    "published": "Wed, 26 Aug 2026 01:36:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Hacker News keeps flagging my startup – A multi-Platform search engine",
+    "summary": "Article URL: https://www.bluhe.ai/search?q=YC%20startups Comments URL: https://news.ycombinator.com/item?id=49442513 Points: 2 # Comments: 0",
+    "url": "https://www.bluhe.ai/search?q=YC%20startups",
+    "published": "Wed, 26 Aug 2026 00:11:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Recent graduates struggle to launch careers in toughest job market in years",
+    "summary": "Article URL: https://www.youtube.com/watch?v=fAaG9RYHqiw Comments URL: https://news.ycombinator.com/item?id=49439650 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=fAaG9RYHqiw",
+    "published": "Tue, 25 Aug 2026 19:50:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding better evaluations of AI's impact on wellbeing",
+    "summary": "Article URL: https://www.anthropic.com/news/wellbeing-research-grants Comments URL: https://news.ycombinator.com/item?id=49436480 Points: 2 # Comments: 1",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "published": "Tue, 25 Aug 2026 16:15:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Perplexity and Nvidia to launch a local AI agent with zero token costs",
+    "summary": "Article URL: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs Comments URL: https://news.ycombinator.com/item?id=49435893 Points: 2 # Comments: 0",
+    "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "published": "Tue, 25 Aug 2026 15:33:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: GitRank.lol – GitHub repo battleground funding open source",
+    "summary": "Article URL: https://gitrank.lol Comments URL: https://news.ycombinator.com/item?id=49433672 Points: 1 # Comments: 0",
+    "url": "https://gitrank.lol",
+    "published": "Tue, 25 Aug 2026 13:27:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Free-AI-Tools-Hub.com Launch",
+    "summary": "We have launch our new Free AI Tools website for common people to deal with their routine tasks and job things. From AI Chat to Ai Email writing and AI Songs lyrics, find 42+ tools on 1 website. Comments URL: https://news.ycombinator.com/item?id=49430180 Points: 1 # Comments: 1",
+    "url": "https://news.ycombinator.com/item?id=49430180",
+    "published": "Tue, 25 Aug 2026 07:20:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Life Policies Shouldn't Be Funding the Boss's Trophy Assets",
+    "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-08-24/life-policies-shouldn-t-be-funding-the-boss-s-trophy-assets Comments URL: https://news.ycombinator.com/item?id=49426524 Points: 2 # Comments: 0",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-08-24/life-policies-shouldn-t-be-funding-the-boss-s-trophy-assets",
+    "published": "Mon, 24 Aug 2026 22:09:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Georgia police launch manhunt over $30 a man picked up from floor of a Walmart",
+    "summary": "Article URL: https://www.msn.com/en-us/news/other/manhunt-launched-by-police-over-30-a-man-picked-up-from-the-floor-of-a-walmart/ar-AA2aOTQ0 Comments URL: https://news.ycombinator.com/item?id=49425885 Points: 9 # Comments: 1",
+    "url": "https://www.msn.com/en-us/news/other/manhunt-launched-by-police-over-30-a-man-picked-up-from-the-floor-of-a-walmart/ar-AA2aOTQ0",
+    "published": "Mon, 24 Aug 2026 21:10:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch: App for reading articles and finding new reads",
+    "summary": "Article URL: https://www.topicsapp.net Comments URL: https://news.ycombinator.com/item?id=49425298 Points: 3 # Comments: 0",
+    "url": "https://www.topicsapp.net",
+    "published": "Mon, 24 Aug 2026 20:15:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX, Nvidia designed a space-optimized Vera Rubin NVL72 (orbit launch in Q4)",
+    "summary": "Article URL: https://twitter.com/elonmusk/status/2091939113008238838 Comments URL: https://news.ycombinator.com/item?id=49423667 Points: 6 # Comments: 11",
+    "url": "https://twitter.com/elonmusk/status/2091939113008238838",
+    "published": "Mon, 24 Aug 2026 18:06:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 15 # Comments: 19",
+    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "published": "Mon, 24 Aug 2026 16:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Omacom Foundation funding hits $10M",
+    "summary": "Article URL: https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/ Comments URL: https://news.ycombinator.com/item?id=49418032 Points: 61 # Comments: 108",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+    "published": "Mon, 24 Aug 2026 11:04:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "summary": "Article URL: https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/ Comments URL: https://news.ycombinator.com/item?id=49409505 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "published": "Sun, 23 Aug 2026 15:16:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49402436 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "published": "Sat, 22 Aug 2026 18:32:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Vallley – Live Startup Jobs",
+    "summary": "Article URL: https://vallley.xyz Comments URL: https://news.ycombinator.com/item?id=49401927 Points: 2 # Comments: 1",
+    "url": "https://vallley.xyz",
+    "published": "Sat, 22 Aug 2026 17:40:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Harvard's A.I. Clones Will Hear Your Startup Pitch Now",
+    "summary": "Article URL: https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html Comments URL: https://news.ycombinator.com/item?id=49400264 Points: 4 # Comments: 1",
+    "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+    "published": "Sat, 22 Aug 2026 14:41:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-26"
+  },
+  {
+    "source": "V2EX",
+    "title": "macmini 出来了买什么配置呢？",
+    "summary": "M6 是不是没啥提升啊？ M5pro 48G 1T 版本怎么样？跑本地大模型效果如何？",
+    "url": "https://www.v2ex.com/t/1237240",
+    "published": 1787708336,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-26",
+    "meta": {
+      "replies": 58,
+      "node": "Apple"
+    }
   },
   {
     "source": "GitHub新星",
@@ -749,8 +943,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-26",
     "meta": {
-      "stars": 3983,
-      "forks": 392,
+      "stars": 4085,
+      "forks": 405,
       "language": "HTML",
       "createdDaysAgo": 4
     }
@@ -765,8 +959,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-26",
     "meta": {
-      "stars": 2600,
-      "forks": 2908,
+      "stars": 2670,
+      "forks": 2989,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
