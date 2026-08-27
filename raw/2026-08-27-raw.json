@@ -80,11 +80,11 @@
     "fetchedAt": "2026-08-27"
   },
   {
-    "source": "钛媒体",
-    "title": "最强 M 芯片不是 2nm：苹果把制程与性能彻底“倒挂”了",
-    "summary": "这是苹果 Mac 产品线首次让“制程先进”与“性能最强”脱钩，也宣告芯片竞赛的标尺正在从制程换到封装。",
-    "url": "https://www.tmtpost.com/8117414.html",
-    "published": "Thu, 27 Aug 2026 15:32:28 +0800",
+    "source": "极客公园",
+    "title": "一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼",
+    "summary": "作者 | siqi 编辑 | 郑玄 据 Hardwire 了解，消费级外骨骼领域头部企业极壳（Hypershell）近期已完成对多关节下肢外骨骼产品的研发。这款名为「Halo」的新一代旗舰产品将于 9 月 3 日在 IFA（柏林消费电子展）上正式发布。 极壳（qiào，四声）成立于 2021 年底，是全球最早把外骨骼带入消费市场的公司之一。2024 年 12 月，极壳第一代产品 Hypershell X 系列正式量产交付。2025 年，极壳在第一个量产年份交出了全球累计交付 3 万台的答卷，北美（美国）、欧洲（法德意英等）和中国是公司的三大核心市场。极壳的产品在户外运动、户外作业、银发人群这 3 个核心圈层里受到了早期用户的认可。 去年 11 月，极壳完成 B 轮融资，投后估值达到近 27 亿元。今年 5 月，极壳又官宣了最新一笔由蚂蚁集团和美团龙珠领投的 5000 万美元 B+轮融资。 不过，在极壳创始人孙宽看来，这个全新品类目前仍处于早期阶段。他认为，可穿戴外骨骼目前只完成了「从 0 到 0.1 阶段」的 PMF 验证。目前，孙宽的绝大部分精力都专注在产品预研层面，「某种程度上，对",
+    "url": "http://www.geekpark.net/news/369478",
+    "published": "Thu, 27 Aug 2026 19:57:55 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-27"
@@ -370,16 +370,6 @@
     "fetchedAt": "2026-08-27"
   },
   {
-    "source": "极客公园",
-    "title": "曝周杰伦将代言 vivo 手机；华为「阔直板」手机曝光；柯洁透露战胜 AI 秘诀：装弱智｜极客早知道",
-    "summary": "《黑神话：钟馗》全新 15 分钟游戏实机演示公布，首次展示主角战斗与部分剧情片段 8 月 20 日消息，由游戏科学开发的黑神话系列第二部作品《黑神话：钟馗》，今日带来全新 15 分钟游戏实机演示，首次展示主角战斗与部分剧情片段。 官方称，本视频为开发中版本录制，运行时屏幕宽高比设置为 21:9。因产品仍处于研发早期，最终发售内容可能有所不同。 据了解，《黑神话：钟馗》是游戏科学开发的《黑神话》系列第二部作品，目前处于早期研发阶段，发售日期尚未确定。作为《黑神话》系列的第二部作品，游戏以中国民间传说中的角色「钟馗」为创意来源，其骑虎形象灵感源于明代《钟馗骑虎图》及美术总监杨奇的梦境。游戏科学团队在《黑神话：悟空》发售后调整开发计划，决定放弃 DLC 转而开发新作《黑神话：钟馗》，旨在尝试更具差异性的游戏体验并修正前作不足。（来源：IT 之家） 宝马副总裁吴燕彦：行业应共同抵制压缩验证周期、测试中偷工减料的浮躁行为 8 月 20 日消息，据「睿见 Economy」报道，车百国际主办的新能源汽车全球合作发展论坛（GNEV2026）19-21 日在上海召开，宝马集团副总裁、大中华区政府和涉外事",
-    "url": "http://www.geekpark.net/news/369114",
-    "published": "Fri, 21 Aug 2026 08:05:46 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
     "source": "爱范儿",
     "title": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
     "summary": "具身智能的「ChatGPT 时刻」，看谁能更快走进现实 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -421,60 +411,170 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "published": "Thu, 27 Aug 2026 00:24:57 +0000",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "published": "Thu, 27 Aug 2026 23:16:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-    "summary": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
-    "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
-    "published": "Wed, 26 Aug 2026 18:35:40 +0000",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "published": "Thu, 27 Aug 2026 19:52:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Apple is holding its iPhone launch event on September 9",
-    "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
-    "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-    "published": "Wed, 26 Aug 2026 16:53:07 +0000",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "published": "Thu, 27 Aug 2026 17:43:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-27"
   },
   {
     "source": "TechCrunch",
-    "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-    "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis is joined by Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe’s startup […]",
-    "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-    "published": "Wed, 26 Aug 2026 16:00:00 +0000",
+    "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+    "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
+    "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+    "published": "Thu, 27 Aug 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
+    "summary": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
+    "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+    "published": "Thu, 27 Aug 2026 15:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "published": "Thu, 27 Aug 2026 14:56:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+    "summary": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
+    "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+    "published": "Thu, 27 Aug 2026 14:27:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "published": "Thu, 27 Aug 2026 14:01:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-27"
   },
   {
     "source": "The Verge",
-    "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it […]",
-    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-    "published": "2026-08-26T13:00:00-04:00",
+    "title": "Speedo’s new smart goggles module can track all four swim strokes",
+    "summary": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breaths, and track distance per stroke. Unlike other smart goggles, such as […]",
+    "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+    "published": "2026-08-27T12:18:51-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-27"
   },
   {
-    "source": "The Verge",
-    "title": "Apple announces September iPhone launch event",
-    "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's website. September's show could […]",
-    "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-    "published": "2026-08-26T12:03:49-04:00",
+    "source": "Hacker News",
+    "title": "Launch of Biological Data Center Prototype in Singapore",
+    "summary": "Article URL: https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49469068 Points: 2 # Comments: 0",
+    "url": "https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/",
+    "published": "Thu, 27 Aug 2026 18:21:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+    "summary": "Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot hardware with a few words from us: https://www.youtube.com/watch?v=U_228h3NE7c We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and de",
+    "url": "https://news.ycombinator.com/item?id=49466715",
+    "published": "Thu, 27 Aug 2026 15:46:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49466710 Points: 6 # Comments: 1",
+    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
+    "published": "Thu, 27 Aug 2026 15:45:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Shouldn't Have Merch",
+    "summary": "Article URL: https://posthog.com/blog/against-startup-merch Comments URL: https://news.ycombinator.com/item?id=49466463 Points: 2 # Comments: 2",
+    "url": "https://posthog.com/blog/against-startup-merch",
+    "published": "Thu, 27 Aug 2026 15:30:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Atlas – observability for startup operations via self-building agents",
+    "summary": "Article URL: https://www.atlasjoins.ai/ Comments URL: https://news.ycombinator.com/item?id=49466368 Points: 2 # Comments: 1",
+    "url": "https://www.atlasjoins.ai/",
+    "published": "Thu, 27 Aug 2026 15:25:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Bug in LINQPad causes it to crash on startup",
+    "summary": "Article URL: https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired Comments URL: https://news.ycombinator.com/item?id=49465654 Points: 2 # Comments: 0",
+    "url": "https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired",
+    "published": "Thu, 27 Aug 2026 14:40:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Banned on Reddit, Substack, and Etsy in my first month running a media startup",
+    "summary": "Article URL: https://tinyfound.com/p/tinyfound-july Comments URL: https://news.ycombinator.com/item?id=49465284 Points: 3 # Comments: 0",
+    "url": "https://tinyfound.com/p/tinyfound-july",
+    "published": "Thu, 27 Aug 2026 14:15:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Never Launch Alone",
+    "summary": "Article URL: https://launchgenius.app Comments URL: https://news.ycombinator.com/item?id=49464847 Points: 12 # Comments: 1",
+    "url": "https://launchgenius.app",
+    "published": "Thu, 27 Aug 2026 13:45:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-27"
@@ -522,7 +622,7 @@
   {
     "source": "Hacker News",
     "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-    "summary": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 163 # Comments: 80",
+    "summary": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 174 # Comments: 88",
     "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
     "published": "Wed, 26 Aug 2026 19:23:01 +0000",
     "lang": "en",
@@ -600,76 +700,6 @@
     "fetchedAt": "2026-08-27"
   },
   {
-    "source": "Hacker News",
-    "title": "A joke for founders about the perfect startup geography [20 secs]",
-    "summary": "Article URL: https://www.mangialardi.it/the-startup-paradox/ Comments URL: https://news.ycombinator.com/item?id=49445313 Points: 2 # Comments: 1",
-    "url": "https://www.mangialardi.it/the-startup-paradox/",
-    "published": "Wed, 26 Aug 2026 07:41:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49443397 Points: 8 # Comments: 9",
-    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
-    "published": "Wed, 26 Aug 2026 02:20:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Free Startup Dataroom Template",
-    "summary": "Article URL: https://github.com/emal-avala/data-room Comments URL: https://news.ycombinator.com/item?id=49443116 Points: 4 # Comments: 1",
-    "url": "https://github.com/emal-avala/data-room",
-    "published": "Wed, 26 Aug 2026 01:36:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Hacker News keeps flagging my startup – A multi-Platform search engine",
-    "summary": "Article URL: https://www.bluhe.ai/search?q=YC%20startups Comments URL: https://news.ycombinator.com/item?id=49442513 Points: 3 # Comments: 0",
-    "url": "https://www.bluhe.ai/search?q=YC%20startups",
-    "published": "Wed, 26 Aug 2026 00:11:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Recent graduates struggle to launch careers in toughest job market in years",
-    "summary": "Article URL: https://www.youtube.com/watch?v=fAaG9RYHqiw Comments URL: https://news.ycombinator.com/item?id=49439650 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=fAaG9RYHqiw",
-    "published": "Tue, 25 Aug 2026 19:50:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "summary": "Article URL: https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/ Comments URL: https://news.ycombinator.com/item?id=49436877 Points: 3 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "published": "Tue, 25 Aug 2026 16:40:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Funding better evaluations of AI's impact on wellbeing",
-    "summary": "Article URL: https://www.anthropic.com/news/wellbeing-research-grants Comments URL: https://news.ycombinator.com/item?id=49436480 Points: 2 # Comments: 1",
-    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-    "published": "Tue, 25 Aug 2026 16:15:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-27"
-  },
-  {
     "source": "GitHub新星",
     "title": "MengTo/threeui",
     "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
@@ -679,10 +709,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-27",
     "meta": {
-      "stars": 4260,
-      "forks": 426,
+      "stars": 4314,
+      "forks": 435,
       "language": "HTML",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -695,10 +725,10 @@
     "type": "signal",
     "fetchedAt": "2026-08-27",
     "meta": {
-      "stars": 3286,
-      "forks": 3206,
+      "stars": 3339,
+      "forks": 3239,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
