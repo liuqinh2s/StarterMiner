@@ -81,6 +81,36 @@
   },
   {
     "source": "钛媒体",
+    "title": "硬科技，开始拯救商场了",
+    "summary": "有流量、没销量？",
+    "url": "https://www.tmtpost.com/8121664.html",
+    "published": "Sat, 29 Aug 2026 15:50:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
+    "summary": "压力给到王兴兴",
+    "url": "https://www.tmtpost.com/8121600.html",
+    "published": "Sat, 29 Aug 2026 12:46:33 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "农村商业下沉了20年，县城为什么又开始成为主角",
+    "summary": "当商品可获得性问题解决大半，农村消费转向更多在地服务，“下沉市场”开始同时受到覆盖与集聚两股力量牵引。",
+    "url": "https://www.tmtpost.com/8121533.html",
+    "published": "Sat, 29 Aug 2026 12:46:27 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "钛媒体",
     "title": "人形机器人，进入淘汰赛",
     "summary": "落地为王。",
     "url": "https://www.tmtpost.com/8121235.html",
@@ -90,31 +120,11 @@
     "fetchedAt": "2026-08-29"
   },
   {
-    "source": "钛媒体",
-    "title": "46枚、45枚、10枚、5枚，人形机器人运动会的奖牌数到底在测什么",
-    "summary": "2026 世界人形机器人运动会企业合并奖牌榜，智元、天工、宇树、银河通用分列前列，但奖牌数受报项、第三方队伍、参赛模式影响，不能直接等同综合实力。各家技术侧重不同，赛事提供横向参照，评判企业还需结合量产、场景落地与长期运行表现。",
-    "url": "https://www.tmtpost.com/8120414.html",
-    "published": "Sat, 29 Aug 2026 11:22:58 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "孙宇晨被“崩”了？背靠2275亿元“加密帝国”",
-    "summary": "波场估值2275亿元，孙宇晨身价85亿美元。",
-    "url": "https://www.tmtpost.com/8121095.html",
-    "published": "Sat, 29 Aug 2026 11:01:45 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（8月29日）",
-    "summary": "微软数据中心遭政治阻力，640亿美元项目受阻；Meta拟百亿采购Anthropic服务后缩水，竞合关系深化；Anthropic发布MHS标准打通物理世界，并胜诉美国国防部违宪裁决；AMD ROCm 10升级挑战英伟达软件生态；Hugging Face开源399美元机器人颠覆具身智能成本。",
-    "url": "https://www.tmtpost.com/8121473.html",
-    "published": "Sat, 29 Aug 2026 08:23:17 +0800",
+    "source": "极客公园",
+    "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
+    "summary": "8 月 28 日，腾讯发布并开源混元 Hy4 preview。 这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBuddy、CodeBuddy、元宝和 ima，并可通过腾讯云 TokenHub 及 OpenRouter 调用。 此外，Hy4 preview 继续走普惠的高性价比路线。根据公布的价格信息，Hy4 preview 输入 6 元/百万 tokens，输出 18 元/百万 tokens，缓存命中 0.3 元/百万 tokens。 Hy3 此前已经替腾讯验证过一次产品化路径。它在 7 月发布后迅速进入腾讯的办公、编程和内容产品；腾讯披露，其 API 调用量在发布一周后达到上一代模型的 68 倍以上。Hy3 的优势是实用和高性价比：降低幻觉与常识错误，改善工具调用和多轮承接，让网页、表格、代码和文档从「能生成」变得「基本可用」。 Hy4 preview 要回答的，是下一道题。 相比 Hy3，Hy4 preview 把优化重点进一步推向软件工",
+    "url": "http://www.geekpark.net/news/369550",
+    "published": "Sat, 29 Aug 2026 13:58:53 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-29"
@@ -395,16 +405,6 @@
     "summary": "「坏 AI，使人笨！」 作者｜张勇毅 编辑｜靖宇 「AI 用多了，人会不会逐渐变笨？」 这应该是过去三年被讨论最多的一个迷思之一，从 ChatGPT 走红那天就有。吵了三年多，两边都拿不出像样的证据： 担心的人只有体感，不担心的人只有立场。 8 月 18 日，《经济学人》给这场争论补上了迄今最硬的一份证据。 报道的主角是 2.7 万名中国中学生。用上 AI 之后，他们的作业分数平均涨了 18%，写一份作业的时间从 64 分钟缩到 45 分钟。到这里全是好消息，直到月考卷子发下来：闭卷考试里， 这批学生的成绩比不用 AI 的同学低了 20% 。 作业分曾是最可靠的「晴雨表」：作业越好，考试越好。而在用 AI 的学生中间，作业分越高，基本等于 AI 用得越深。于是曲线变成了：用得越狠的孩子，考试跌得越惨。 作业分，第一次开始撒谎。 作业分超过 100 的人之中，不用 AI 的人分数上涨到了 112，用 AI 之后一路跳水到 64。｜图片来源：经济学人 《经济学人》的数据底稿，是斯德哥尔摩大学和香港大学三位经济学家 6 月挂出的论文，标题就叫《生成式 AI 学习惩罚》。 《生成式 AI 学习",
     "url": "http://www.geekpark.net/news/369212",
     "published": "Sat, 22 Aug 2026 18:07:50 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "极客公园",
-    "title": "微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车",
-    "summary": "DeepSeek V4-Flash-Vision-Exp 上线：开启多模态 API 服务，Agent 能力接近 Opus-4.8 8 月 21 日消息， 深度求索官方宣布全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台。 该模型支持在文本之外输入图片，可以让模型描述图片、识别截图中的文字、分析图表等。支持的图片格式包括 JPEG、PNG、GIF、WebP。 深度求索官方表示，V4-Flash-Vision-Exp 在各类 Agent 框架内展现出了较好的多模态适配能力，能够有效支持大家借助多样化的 Agent 工具解锁更多实用的工作场景。 据介绍，在纯文本能力（Agent、推理、世界知识等）方面，DeepSeek-V4-Flash-Vision-Exp 与 DeepSeek-V4-Flash 正式版持平；在需要视觉理解的 Agent Benchmark 上，DeepSeek-V4-Flash-Vision-Exp 相比 DeepSeek-V4-Flash 实现了大幅跃升，多模态 Agent 能力已接近 Opus-4",
-    "url": "http://www.geekpark.net/news/369206",
-    "published": "Sat, 22 Aug 2026 08:23:28 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-29"
@@ -715,6 +715,206 @@
     "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's […]",
     "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
     "published": "2026-08-28T09:47:36-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipp",
+    "summary": "Article URL: https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html Comments URL: https://news.ycombinator.com/item?id=49488737 Points: 1 # Comments: 0",
+    "url": "https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html",
+    "published": "Sat, 29 Aug 2026 10:42:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple Employee Worked 13-Hour Days Building Her Startup",
+    "summary": "Article URL: https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8 Comments URL: https://news.ycombinator.com/item?id=49483597 Points: 2 # Comments: 1",
+    "url": "https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8",
+    "published": "Fri, 28 Aug 2026 20:09:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Launch board built only for iOS apps?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49478812 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=49478812",
+    "published": "Fri, 28 Aug 2026 14:14:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I used AWS cognito for a startup. I wouldn't do it again",
+    "summary": "Article URL: https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/ Comments URL: https://news.ycombinator.com/item?id=49478091 Points: 178 # Comments: 128",
+    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
+    "published": "Fri, 28 Aug 2026 13:21:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Auto Pre Launch Checks",
+    "summary": "Article URL: https://digitaltrustpass.com/preflight Comments URL: https://news.ycombinator.com/item?id=49477746 Points: 3 # Comments: 1",
+    "url": "https://digitaltrustpass.com/preflight",
+    "published": "Fri, 28 Aug 2026 12:46:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A startup claims it's found a drug to make your blood young",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/ Comments URL: https://news.ycombinator.com/item?id=49475283 Points: 5 # Comments: 1",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "published": "Fri, 28 Aug 2026 07:01:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "US Military funding propelled China's robot dogs",
+    "summary": "Article URL: https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/ Comments URL: https://news.ycombinator.com/item?id=49474013 Points: 3 # Comments: 1",
+    "url": "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
+    "published": "Fri, 28 Aug 2026 03:27:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch of Biological Data Center Prototype in Singapore",
+    "summary": "Article URL: https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49469068 Points: 2 # Comments: 0",
+    "url": "https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/",
+    "published": "Thu, 27 Aug 2026 18:21:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+    "summary": "Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot hardware with a few words from us: https://www.youtube.com/watch?v=U_228h3NE7c We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and de",
+    "url": "https://news.ycombinator.com/item?id=49466715",
+    "published": "Thu, 27 Aug 2026 15:46:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49466710 Points: 6 # Comments: 1",
+    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
+    "published": "Thu, 27 Aug 2026 15:45:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Shouldn't Have Merch",
+    "summary": "Article URL: https://posthog.com/blog/against-startup-merch Comments URL: https://news.ycombinator.com/item?id=49466463 Points: 2 # Comments: 2",
+    "url": "https://posthog.com/blog/against-startup-merch",
+    "published": "Thu, 27 Aug 2026 15:30:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Atlas – observability for startup operations via self-building agents",
+    "summary": "Article URL: https://www.atlasjoins.ai/ Comments URL: https://news.ycombinator.com/item?id=49466368 Points: 2 # Comments: 1",
+    "url": "https://www.atlasjoins.ai/",
+    "published": "Thu, 27 Aug 2026 15:25:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Bug in LINQPad causes it to crash on startup",
+    "summary": "Article URL: https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired Comments URL: https://news.ycombinator.com/item?id=49465654 Points: 2 # Comments: 0",
+    "url": "https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired",
+    "published": "Thu, 27 Aug 2026 14:40:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Banned on Reddit, Substack, and Etsy in my first month running a media startup",
+    "summary": "Article URL: https://tinyfound.com/p/tinyfound-july Comments URL: https://news.ycombinator.com/item?id=49465284 Points: 3 # Comments: 0",
+    "url": "https://tinyfound.com/p/tinyfound-july",
+    "published": "Thu, 27 Aug 2026 14:15:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Never Launch Alone",
+    "summary": "Article URL: https://launchgenius.app Comments URL: https://news.ycombinator.com/item?id=49464847 Points: 13 # Comments: 1",
+    "url": "https://launchgenius.app",
+    "published": "Thu, 27 Aug 2026 13:45:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "X users are speculating that YC is funding and expanding \"visa factories\"",
+    "summary": "Article URL: https://twitter.com/afpost/status/2092762104407204095 Comments URL: https://news.ycombinator.com/item?id=49461545 Points: 2 # Comments: 0",
+    "url": "https://twitter.com/afpost/status/2092762104407204095",
+    "published": "Thu, 27 Aug 2026 08:20:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49461442 Points: 2 # Comments: 0",
+    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "published": "Thu, 27 Aug 2026 08:06:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AgeLab research inspires an A I startup",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/ Comments URL: https://news.ycombinator.com/item?id=49460908 Points: 1 # Comments: 0",
+    "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "published": "Thu, 27 Aug 2026 07:01:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Roast My Startup",
+    "summary": "Article URL: https://www.getstreek.com/ Comments URL: https://news.ycombinator.com/item?id=49459266 Points: 1 # Comments: 0",
+    "url": "https://www.getstreek.com/",
+    "published": "Thu, 27 Aug 2026 03:25:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+    "summary": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 175 # Comments: 89",
+    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+    "published": "Wed, 26 Aug 2026 19:23:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-29"
