@@ -451,6 +451,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "published": "Sat, 29 Aug 2026 17:51:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "published": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-29"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
     "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -485,16 +505,6 @@
     "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
     "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
     "published": "Fri, 28 Aug 2026 09:33:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "published": "Thu, 27 Aug 2026 23:16:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-29"
@@ -711,212 +721,25 @@
   },
   {
     "source": "The Verge",
-    "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-    "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's […]",
-    "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-    "published": "2026-08-28T09:47:36-04:00",
+    "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+    "summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, […]",
+    "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+    "published": "2026-08-29T11:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-29"
   },
   {
-    "source": "Hacker News",
-    "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipp",
-    "summary": "Article URL: https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html Comments URL: https://news.ycombinator.com/item?id=49488737 Points: 1 # Comments: 0",
-    "url": "https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html",
-    "published": "Sat, 29 Aug 2026 10:42:00 +0000",
-    "lang": "en",
+    "source": "B站",
+    "title": "自动驾驶前夜谁做好了准备",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=自动驾驶前夜谁做好了准备",
+    "published": "2026-08-29",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple Employee Worked 13-Hour Days Building Her Startup",
-    "summary": "Article URL: https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8 Comments URL: https://news.ycombinator.com/item?id=49483597 Points: 2 # Comments: 1",
-    "url": "https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8",
-    "published": "Fri, 28 Aug 2026 20:09:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Launch board built only for iOS apps?",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49478812 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=49478812",
-    "published": "Fri, 28 Aug 2026 14:14:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I used AWS cognito for a startup. I wouldn't do it again",
-    "summary": "Article URL: https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/ Comments URL: https://news.ycombinator.com/item?id=49478091 Points: 178 # Comments: 128",
-    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-    "published": "Fri, 28 Aug 2026 13:21:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Auto Pre Launch Checks",
-    "summary": "Article URL: https://digitaltrustpass.com/preflight Comments URL: https://news.ycombinator.com/item?id=49477746 Points: 3 # Comments: 1",
-    "url": "https://digitaltrustpass.com/preflight",
-    "published": "Fri, 28 Aug 2026 12:46:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A startup claims it's found a drug to make your blood young",
-    "summary": "Article URL: https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/ Comments URL: https://news.ycombinator.com/item?id=49475283 Points: 5 # Comments: 1",
-    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "published": "Fri, 28 Aug 2026 07:01:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "US Military funding propelled China's robot dogs",
-    "summary": "Article URL: https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/ Comments URL: https://news.ycombinator.com/item?id=49474013 Points: 3 # Comments: 1",
-    "url": "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
-    "published": "Fri, 28 Aug 2026 03:27:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch of Biological Data Center Prototype in Singapore",
-    "summary": "Article URL: https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49469068 Points: 2 # Comments: 0",
-    "url": "https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/",
-    "published": "Thu, 27 Aug 2026 18:21:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-    "summary": "Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot hardware with a few words from us: https://www.youtube.com/watch?v=U_228h3NE7c We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and de",
-    "url": "https://news.ycombinator.com/item?id=49466715",
-    "published": "Thu, 27 Aug 2026 15:46:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49466710 Points: 6 # Comments: 1",
-    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
-    "published": "Thu, 27 Aug 2026 15:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Shouldn't Have Merch",
-    "summary": "Article URL: https://posthog.com/blog/against-startup-merch Comments URL: https://news.ycombinator.com/item?id=49466463 Points: 2 # Comments: 2",
-    "url": "https://posthog.com/blog/against-startup-merch",
-    "published": "Thu, 27 Aug 2026 15:30:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Atlas – observability for startup operations via self-building agents",
-    "summary": "Article URL: https://www.atlasjoins.ai/ Comments URL: https://news.ycombinator.com/item?id=49466368 Points: 2 # Comments: 1",
-    "url": "https://www.atlasjoins.ai/",
-    "published": "Thu, 27 Aug 2026 15:25:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bug in LINQPad causes it to crash on startup",
-    "summary": "Article URL: https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired Comments URL: https://news.ycombinator.com/item?id=49465654 Points: 2 # Comments: 0",
-    "url": "https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired",
-    "published": "Thu, 27 Aug 2026 14:40:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Banned on Reddit, Substack, and Etsy in my first month running a media startup",
-    "summary": "Article URL: https://tinyfound.com/p/tinyfound-july Comments URL: https://news.ycombinator.com/item?id=49465284 Points: 3 # Comments: 0",
-    "url": "https://tinyfound.com/p/tinyfound-july",
-    "published": "Thu, 27 Aug 2026 14:15:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Never Launch Alone",
-    "summary": "Article URL: https://launchgenius.app Comments URL: https://news.ycombinator.com/item?id=49464847 Points: 13 # Comments: 1",
-    "url": "https://launchgenius.app",
-    "published": "Thu, 27 Aug 2026 13:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "X users are speculating that YC is funding and expanding \"visa factories\"",
-    "summary": "Article URL: https://twitter.com/afpost/status/2092762104407204095 Comments URL: https://news.ycombinator.com/item?id=49461545 Points: 2 # Comments: 0",
-    "url": "https://twitter.com/afpost/status/2092762104407204095",
-    "published": "Thu, 27 Aug 2026 08:20:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49461442 Points: 2 # Comments: 0",
-    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-    "published": "Thu, 27 Aug 2026 08:06:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AgeLab research inspires an A I startup",
-    "summary": "Article URL: https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/ Comments URL: https://news.ycombinator.com/item?id=49460908 Points: 1 # Comments: 0",
-    "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-    "published": "Thu, 27 Aug 2026 07:01:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Roast My Startup",
-    "summary": "Article URL: https://www.getstreek.com/ Comments URL: https://news.ycombinator.com/item?id=49459266 Points: 1 # Comments: 0",
-    "url": "https://www.getstreek.com/",
-    "published": "Thu, 27 Aug 2026 03:25:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-    "summary": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 175 # Comments: 89",
-    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-    "published": "Wed, 26 Aug 2026 19:23:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-29"
+    "fetchedAt": "2026-08-29",
+    "meta": {
+      "hotValue": 269245
+    }
   }
 ]
