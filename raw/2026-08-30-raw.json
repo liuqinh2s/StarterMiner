@@ -131,6 +131,16 @@
   },
   {
     "source": "极客公园",
+    "title": "折叠屏的尽头，是不折叠：华为 Pura X View 体验",
+    "summary": "阔直板不是「发明」，是用户投出来的票 作者｜张勇毅 编辑｜靖宇 Pura X View 到办公室的第一天，来围观的同事，好几个人的第一反应是同一句话「这个尺寸有点像曾经的黑莓手机」。 华为 Pura X View 实机，是一个直屏手机前所未见的尺寸｜图片来源：极客公园 我理解这个联想：方方正正一块宽屏，确实像那个年代的东西。但用了一周之后，我觉得「像黑莓」是个无心插柳的结果。它没打算致敬谁，只是一台顺着用户真实需求长出来的手机，恰好长成了这个样子。复古感是结果，不是目的。 真正有意思的，是它的来历。 01 先有用法后有机 阔直板这个形态是怎么来的，江湖上流传很广的说法是：华为翻用户数据的时候发现，小红书上有一批用户，买了 Pura X 这台小阔折，却把它当直板机用。配件厂商顺着这个用法，真的做出了「直屏保护壳」——把 Pura X 装进去，手机就不能折叠了。 小红书用户自发将折叠屏变成直屏手机来使用，是行业此前从未设想过的一种发展方向｜图片来源：小红书 注意这个产品有多抽象：折叠是 Pura X 最大的卖点，用户花折叠屏的钱把它买回来，再花几十块钱，主动把这个卖点封印掉。 这等于用户在",
+    "url": "http://www.geekpark.net/news/369558",
+    "published": "Mon, 31 Aug 2026 04:25:08 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "极客公园",
     "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
     "summary": "如果给模型安装个身体？你会选择什么。 这道题过去只属于硬件创业者，这个八月，它摆到了所有软件公司桌上。Hugging Face 交卷一只走路摇摇晃晃的鸭子，OpenAI 正在造自己的智能音箱，字节跳动旗下 TRAE 联名 FoloToy 开始改造自己挂在胸口的工牌。 很明显，软件公司造硬件的思路完全不同，他们想要的不是好用，而是主动以及可见。我可以看到我的 AI 走出电脑手机屏幕之外，更主动地参与用户生活的其他部分。 同时，硬件开始越来越便宜了，价格从过去的 799 美元，降低了 40 美元。很多硬件公司不再追求一个高利润的售价，而是选择用更便宜、更易上手、可玩度更高的硬件交给用户，让他们尽快走入自己的生态里，从而能长期收订阅费。 不仅如此，上一代硬件讲究交付一个定义完整的产品，像 Plaud 刚发的录音耳机，功能边界在出厂前被定义好，用户需要的只是使用。 但从近期产品展现的创新趋势来看，更多公司反而乐于去造一个半成品，搭好基本的框架，把更多的东西交给用户自己 DIY。这或许也是当下「造物」的另一种表现方式，不需要用户自己再手搓硬件，也能改造出自己想要的东西。放在用户面前的问题，从我要",
     "url": "http://www.geekpark.net/news/369556",
@@ -410,16 +420,6 @@
     "fetchedAt": "2026-08-30"
   },
   {
-    "source": "极客公园",
-    "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
-    "summary": "如果物理 AI 也能 scaling，意味着什么？ 作者｜Li Yuan 编辑｜靖宇 研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。 然后，他们把刷子拿走，换成一根香蕉。 机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。 随后，香蕉又被换成了一只簸箕。机器人这次没有继续照搬「扫」的动作，而是伸出另一只手，把积木推上簸箕，再端起来倒进碗里。 重点来了，研究人员从来没有在这项任务里教它用香蕉和簸箕，它是自己推理出来的。 已关注 关注 重播 分享 赞 随便看看 --> 关闭 观看更多 更多 退出全屏 切换到竖屏全屏 退出全屏 极客公园 已关注 分享视频 ，时长 00:24 0 / 0 00:00 / 00:24 切换到横屏模式 继续播放 进度条，百分之0 播放 00:00 / 00:24 00:24 倍速 全屏 倍速播放中 0.5倍 0.75倍 1.0倍 1.5倍 2.0倍 超清 流畅 您的浏览器不支持 video 标签 继续观看 Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻 观看更多 转载 , Gen1.5 模型带来重要进展：物理 AI 正在接近 GP",
-    "url": "http://www.geekpark.net/news/369223",
-    "published": "Sun, 23 Aug 2026 22:35:51 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
     "source": "爱范儿",
     "title": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
     "summary": "具身智能的「ChatGPT 时刻」，看谁能更快走进现实 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -456,6 +456,16 @@
     "url": "https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Wed, 26 Aug 2026 00:13:57 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+    "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+    "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+    "published": "Sun, 30 Aug 2026 18:33:44 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-30"
   },
@@ -505,16 +515,6 @@
     "summary": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
     "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
     "published": "Fri, 28 Aug 2026 15:35:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-    "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-    "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-    "published": "Fri, 28 Aug 2026 09:33:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-30"
@@ -731,26 +731,55 @@
   },
   {
     "source": "The Verge",
-    "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-    "summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, […]",
-    "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
-    "published": "2026-08-29T11:00:00-04:00",
+    "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+    "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you […]",
+    "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+    "published": "2026-08-30T17:18:59-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-30"
   },
   {
-    "source": "V2EX",
-    "title": "独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了",
-    "summary": "先自报家门，我做了一个 Mac AI 语音输入工具，叫 Openbroca ，官网是 openbroca.com 。 今天终于收到了第一个真实付费用户。 我原本以为自己会很开心，可能会截图纪念，或者找朋友喝一杯。真正看到订单的时候，我只是盯着后台确认了几遍，然后长出了一口气。 第一笔收入当然值得记录，可我心里更多的感觉是累。 Openbroca 最早来源于我自己的需求。我在 Mac 上写邮件、文档和长消息时，经常觉得思考速度比打字快很多。普通语音输入又会保留大量停顿、重复和口头语，最后还要重新修改一遍。 所以我做了 Openbroca 。 按下快捷键直接说话",
-    "url": "https://www.v2ex.com/t/1238099",
-    "published": 1788021504,
+    "source": "The Verge",
+    "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+    "summary": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe. Its field of view […]",
+    "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+    "published": "2026-08-30T12:36:39-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "published": "2026-08-30T11:35:10-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Chess.com launched a poker site and is planning even more classic games",
+    "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real […]",
+    "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+    "published": "2026-08-30T09:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "B站",
+    "title": "DRAM芯片克价超黄金",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=DRAM芯片克价超黄金",
+    "published": "2026-08-30",
     "lang": "zh",
-    "type": "community",
+    "type": "news",
     "fetchedAt": "2026-08-30",
     "meta": {
-      "replies": 32,
-      "node": "推广"
+      "hotValue": 269702
     }
   },
   {
@@ -763,8 +792,38 @@
     "type": "community",
     "fetchedAt": "2026-08-30",
     "meta": {
-      "replies": 26,
+      "replies": 31,
       "node": "职场话题"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "智友社回馈 V 站新老客户，抽送第 7 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们",
+    "url": "https://www.v2ex.com/t/1238121",
+    "published": 1788055998,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-30",
+    "meta": {
+      "replies": 29,
+      "node": "推广"
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "sapientinc/PRAXIST",
+    "summary": "Autonomous research system for measurable, computer-executable research.",
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "published": "2026-08-27T14:20:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-08-30",
+    "meta": {
+      "stars": 4526,
+      "forks": 365,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   }
 ]
