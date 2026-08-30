@@ -81,6 +81,46 @@
   },
   {
     "source": "钛媒体",
+    "title": "优必选走进窄门",
+    "summary": "当人形机器人行业的注意力，从展会舞台的后空翻，转向工厂车间的拆码垛，整个赛道的评判标尺已被彻底改写。概念炒作的红利逐渐退潮，能不能在真实物理世界创造商业价值，成为筛选玩家的重要标尺。",
+    "url": "https://www.tmtpost.com/8121851.html",
+    "published": "Sun, 30 Aug 2026 18:49:28 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "钛媒体",
+    "title": "人形机器人还撑不起极智嘉",
+    "summary": "基本盘还稳，第二曲线没兑现。",
+    "url": "https://www.tmtpost.com/8122055.html",
+    "published": "Sun, 30 Aug 2026 18:48:49 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "钛媒体",
+    "title": "自动驾驶入法后，罚单还得车主交?",
+    "summary": "“激活状态”或是未来官司的焦点。",
+    "url": "https://www.tmtpost.com/8122093.html",
+    "published": "Sun, 30 Aug 2026 18:45:34 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "钛媒体",
+    "title": "天数智芯盈利了，但钱不是卖芯片赚的",
+    "summary": "营收翻倍，毛利率从50.1%跌至17.2%。",
+    "url": "https://www.tmtpost.com/8122018.html",
+    "published": "Sun, 30 Aug 2026 18:45:20 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-30"
+  },
+  {
+    "source": "钛媒体",
     "title": "【数智周报】OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制；黄仁勋：AI已抵达产业拐点，彻底告别概念阶段；腾讯高管回应“腾讯做AI慢了”质疑",
     "summary": "（8月24日-29日）比尔·盖茨称向AI时代过渡将是人类史上最动荡时期之一，批科技行业淡化风险、呼吁对Token和机器人征税；亚马逊、苹果、微软、戴尔集体涨价，机构预测：全球内存紧缺或持续至2027年；小米发布大模型专用AI加速芯片玄戒O100",
     "url": "https://www.tmtpost.com/8121886.html",
@@ -90,21 +130,21 @@
     "fetchedAt": "2026-08-30"
   },
   {
-    "source": "钛媒体",
-    "title": "硬科技，开始拯救商场了",
-    "summary": "有流量、没销量？",
-    "url": "https://www.tmtpost.com/8121664.html",
-    "published": "Sat, 29 Aug 2026 15:50:50 +0800",
+    "source": "极客公园",
+    "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
+    "summary": "如果给模型安装个身体？你会选择什么。 这道题过去只属于硬件创业者，这个八月，它摆到了所有软件公司桌上。Hugging Face 交卷一只走路摇摇晃晃的鸭子，OpenAI 正在造自己的智能音箱，字节跳动旗下 TRAE 联名 FoloToy 开始改造自己挂在胸口的工牌。 很明显，软件公司造硬件的思路完全不同，他们想要的不是好用，而是主动以及可见。我可以看到我的 AI 走出电脑手机屏幕之外，更主动地参与用户生活的其他部分。 同时，硬件开始越来越便宜了，价格从过去的 799 美元，降低了 40 美元。很多硬件公司不再追求一个高利润的售价，而是选择用更便宜、更易上手、可玩度更高的硬件交给用户，让他们尽快走入自己的生态里，从而能长期收订阅费。 不仅如此，上一代硬件讲究交付一个定义完整的产品，像 Plaud 刚发的录音耳机，功能边界在出厂前被定义好，用户需要的只是使用。 但从近期产品展现的创新趋势来看，更多公司反而乐于去造一个半成品，搭好基本的框架，把更多的东西交给用户自己 DIY。这或许也是当下「造物」的另一种表现方式，不需要用户自己再手搓硬件，也能改造出自己想要的东西。放在用户面前的问题，从我要",
+    "url": "http://www.geekpark.net/news/369556",
+    "published": "Sun, 30 Aug 2026 18:58:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-30"
   },
   {
-    "source": "钛媒体",
-    "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
-    "summary": "压力给到王兴兴",
-    "url": "https://www.tmtpost.com/8121600.html",
-    "published": "Sat, 29 Aug 2026 12:46:33 +0800",
+    "source": "极客公园",
+    "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
+    "summary": "9 个月之后，OpenAI 的首款芯片成绩单终于揭晓了。 8 月 25 日，在 Hot Chips 大会上，OpenAI 硬件负责人 Richard Ho 站上讲台，公布了 Jalapeño 芯片的第一份公开跑分。 在 SemiAnalysis 的 InferenceX 基准测试中，这颗 OpenAI 与博通联合打造的推理芯片，在「每用户 token 数」和「每千瓦吞吐量」两项关键指标上，双双超过了当下市面上最先进的推理处理器英伟达 Blackwell 系统。 具体而言，OpenAI 用 SemiAnalysis 的公开基准工具 InferenceX，在 GPT-OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 三款公开大模型上，与英伟达对测。结果显示，三款模型上，Jalapeño 的峰值每瓦吞吐量是英伟达系统的 1.5 至 1.9 倍，用同样电量 Jalapeño 能多干近一倍的活。 三款模型峰值每千瓦吞吐对比｜图片来源：OpenAI 低延迟场景差距更大，跑 DeepSeek R1 时，单用户生成速度最高约 700 token/s，而英伟达 GB300",
+    "url": "http://www.geekpark.net/news/369555",
+    "published": "Sun, 30 Aug 2026 18:53:09 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-30"
@@ -375,26 +415,6 @@
     "summary": "如果物理 AI 也能 scaling，意味着什么？ 作者｜Li Yuan 编辑｜靖宇 研究人员先教机器人拿起刷子，把桌上的积木扫进碗里。 然后，他们把刷子拿走，换成一根香蕉。 机器人抓起香蕉，将它横过来贴住桌面，把积木一点点扫进碗中。 随后，香蕉又被换成了一只簸箕。机器人这次没有继续照搬「扫」的动作，而是伸出另一只手，把积木推上簸箕，再端起来倒进碗里。 重点来了，研究人员从来没有在这项任务里教它用香蕉和簸箕，它是自己推理出来的。 已关注 关注 重播 分享 赞 随便看看 --> 关闭 观看更多 更多 退出全屏 切换到竖屏全屏 退出全屏 极客公园 已关注 分享视频 ，时长 00:24 0 / 0 00:00 / 00:24 切换到横屏模式 继续播放 进度条，百分之0 播放 00:00 / 00:24 00:24 倍速 全屏 倍速播放中 0.5倍 0.75倍 1.0倍 1.5倍 2.0倍 超清 流畅 您的浏览器不支持 video 标签 继续观看 Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻 观看更多 转载 , Gen1.5 模型带来重要进展：物理 AI 正在接近 GP",
     "url": "http://www.geekpark.net/news/369223",
     "published": "Sun, 23 Aug 2026 22:35:51 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "极客公园",
-    "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-    "summary": "从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。 作者｜Li Yuan 编辑｜ 靖宇 每年走进世界机器人大会，人们最先看到的都是身体。 有的机器人长出双腿，有的装上轮子；有的把手指做得越来越像人，有的用钢铁手臂扛起几十公斤重物。我们也因此习惯用外形给机器人分类：会跳舞的是一种，能搬箱子的是另一种，会进厨房和卧室的，又是另一种。 今年的世界机器人大会上，这套认识开始松动。 银河通用在分论坛发布了小型双足人形机器人 ET1。它第一次登台便跳起一段高动态舞蹈，也第一次让银河通用拥有了一副可以走路、舞动，并从人类动作中继续学习的双足身体。 银河通用创始人兼 CTO 王鹤说，ET1 的名字承载着一种期待：成为「有智能、会学习、会思考、会成长的人形机器人」。 但这副新身体并不是从零开始。 几十米外的展台上，轮式双臂机器人 G1 正在做早餐、叠衣服，重载机器人 S1 在拆垛和码垛，春晚亮相的「小盖」则在与人交互。它们看起来像四种机器人，银河通用却把它们放进同一套技术叙事：不同的身体，接入同一套银河星脑。 这并不意味着一套控制程序可以原封不动地塞进所有机器人。双足、轮式和重",
-    "url": "http://www.geekpark.net/news/369221",
-    "published": "Sun, 23 Aug 2026 22:33:26 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "极客公园",
-    "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
-    "summary": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚「冰丝带」，666 支队伍竞技 51 赛项 8 月 22 日晚间，第二届世界人形机器人运动会在国家速滑馆「冰丝带」开幕。 本届赛事由北京市人民政府、中央广播电视总台、世界机器人合作组织、亚太机器人世界杯国际理事会联合主办。来自六大洲 16 个国家的 666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。 开幕式上，田径 100 米大型组预赛率先开跑。来自北京人形机器人创新中心的天工 Ultra 以 9.39 秒的成绩率先冲线，打破了博尔特保持的 9.58 秒人类百米世界纪录。 开幕式运动员入场环节，80 台加速进化 Booster T2 人形机器人迈着整齐步伐，每一台都可独立运算路径、动态调整姿态，行进中还集体变换阵型拼出「BEIJING」字样。 本届赛事赛项从首届的 26 项增加至 51 项，包含 30 项竞技赛和 21 项场景赛，共计 1301 场比赛。新增跳远、举重、拔河、乒乓球等高强度对抗项目；场景赛覆盖工业、物流、消防救援等领域，开展装配上料等赛项；还专门设置灵巧手赛项，包含粉末称量、开",
-    "url": "http://www.geekpark.net/news/369215",
-    "published": "Sun, 23 Aug 2026 08:20:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-30"
@@ -720,220 +740,6 @@
     "fetchedAt": "2026-08-30"
   },
   {
-    "source": "Hacker News",
-    "title": "The Pain of Knowing Your Child Will Never Launch",
-    "summary": "Article URL: https://www.thecut.com/article/brooding-pain-of-knowing-your-child-will-never-launch.html Comments URL: https://news.ycombinator.com/item?id=49491248 Points: 1 # Comments: 0",
-    "url": "https://www.thecut.com/article/brooding-pain-of-knowing-your-child-will-never-launch.html",
-    "published": "Sat, 29 Aug 2026 16:31:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipp",
-    "summary": "Article URL: https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html Comments URL: https://news.ycombinator.com/item?id=49488737 Points: 2 # Comments: 0",
-    "url": "https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html",
-    "published": "Sat, 29 Aug 2026 10:42:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple Employee Worked 13-Hour Days Building Her Startup",
-    "summary": "Article URL: https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8 Comments URL: https://news.ycombinator.com/item?id=49483597 Points: 2 # Comments: 1",
-    "url": "https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8",
-    "published": "Fri, 28 Aug 2026 20:09:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Launch board built only for iOS apps?",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49478812 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=49478812",
-    "published": "Fri, 28 Aug 2026 14:14:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I used AWS cognito for a startup. I wouldn't do it again",
-    "summary": "Article URL: https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/ Comments URL: https://news.ycombinator.com/item?id=49478091 Points: 189 # Comments: 130",
-    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-    "published": "Fri, 28 Aug 2026 13:21:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Auto Pre Launch Checks",
-    "summary": "Article URL: https://digitaltrustpass.com/preflight Comments URL: https://news.ycombinator.com/item?id=49477746 Points: 3 # Comments: 1",
-    "url": "https://digitaltrustpass.com/preflight",
-    "published": "Fri, 28 Aug 2026 12:46:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A startup claims it's found a drug to make your blood young",
-    "summary": "Article URL: https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/ Comments URL: https://news.ycombinator.com/item?id=49475283 Points: 5 # Comments: 1",
-    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "published": "Fri, 28 Aug 2026 07:01:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "US Military funding propelled China's robot dogs",
-    "summary": "Article URL: https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/ Comments URL: https://news.ycombinator.com/item?id=49474013 Points: 3 # Comments: 1",
-    "url": "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
-    "published": "Fri, 28 Aug 2026 03:27:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch of Biological Data Center Prototype in Singapore",
-    "summary": "Article URL: https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49469068 Points: 2 # Comments: 0",
-    "url": "https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/",
-    "published": "Thu, 27 Aug 2026 18:21:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-    "summary": "Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot hardware with a few words from us: https://www.youtube.com/watch?v=U_228h3NE7c We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and de",
-    "url": "https://news.ycombinator.com/item?id=49466715",
-    "published": "Thu, 27 Aug 2026 15:46:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49466710 Points: 6 # Comments: 1",
-    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
-    "published": "Thu, 27 Aug 2026 15:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Shouldn't Have Merch",
-    "summary": "Article URL: https://posthog.com/blog/against-startup-merch Comments URL: https://news.ycombinator.com/item?id=49466463 Points: 2 # Comments: 2",
-    "url": "https://posthog.com/blog/against-startup-merch",
-    "published": "Thu, 27 Aug 2026 15:30:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Atlas – observability for startup operations via self-building agents",
-    "summary": "Article URL: https://www.atlasjoins.ai/ Comments URL: https://news.ycombinator.com/item?id=49466368 Points: 2 # Comments: 1",
-    "url": "https://www.atlasjoins.ai/",
-    "published": "Thu, 27 Aug 2026 15:25:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bug in LINQPad causes it to crash on startup",
-    "summary": "Article URL: https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired Comments URL: https://news.ycombinator.com/item?id=49465654 Points: 2 # Comments: 0",
-    "url": "https://forum.linqpad.net/discussion/3641/ezirizs-net-reactor-expired",
-    "published": "Thu, 27 Aug 2026 14:40:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Banned on Reddit, Substack, and Etsy in my first month running a media startup",
-    "summary": "Article URL: https://tinyfound.com/p/tinyfound-july Comments URL: https://news.ycombinator.com/item?id=49465284 Points: 3 # Comments: 0",
-    "url": "https://tinyfound.com/p/tinyfound-july",
-    "published": "Thu, 27 Aug 2026 14:15:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Never Launch Alone",
-    "summary": "Article URL: https://launchgenius.app Comments URL: https://news.ycombinator.com/item?id=49464847 Points: 13 # Comments: 1",
-    "url": "https://launchgenius.app",
-    "published": "Thu, 27 Aug 2026 13:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "X users are speculating that YC is funding and expanding \"visa factories\"",
-    "summary": "Article URL: https://twitter.com/afpost/status/2092762104407204095 Comments URL: https://news.ycombinator.com/item?id=49461545 Points: 2 # Comments: 0",
-    "url": "https://twitter.com/afpost/status/2092762104407204095",
-    "published": "Thu, 27 Aug 2026 08:20:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-    "summary": "Article URL: https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/ Comments URL: https://news.ycombinator.com/item?id=49461442 Points: 2 # Comments: 0",
-    "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-    "published": "Thu, 27 Aug 2026 08:06:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AgeLab research inspires an A I startup",
-    "summary": "Article URL: https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/ Comments URL: https://news.ycombinator.com/item?id=49460908 Points: 1 # Comments: 0",
-    "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-    "published": "Thu, 27 Aug 2026 07:01:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Roast My Startup",
-    "summary": "Article URL: https://www.getstreek.com/ Comments URL: https://news.ycombinator.com/item?id=49459266 Points: 1 # Comments: 0",
-    "url": "https://www.getstreek.com/",
-    "published": "Thu, 27 Aug 2026 03:25:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-30"
-  },
-  {
-    "source": "微博",
-    "title": "#中美AI大模型对比#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23中美AI大模型对比%23",
-    "published": "2026-08-30",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-30",
-    "meta": {
-      "hotValue": 147133,
-      "rank": 48
-    }
-  },
-  {
     "source": "V2EX",
     "title": "独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了",
     "summary": "先自报家门，我做了一个 Mac AI 语音输入工具，叫 Openbroca ，官网是 openbroca.com 。 今天终于收到了第一个真实付费用户。 我原本以为自己会很开心，可能会截图纪念，或者找朋友喝一杯。真正看到订单的时候，我只是盯着后台确认了几遍，然后长出了一口气。 第一笔收入当然值得记录，可我心里更多的感觉是累。 Openbroca 最早来源于我自己的需求。我在 Mac 上写邮件、文档和长消息时，经常觉得思考速度比打字快很多。普通语音输入又会保留大量停顿、重复和口头语，最后还要重新修改一遍。 所以我做了 Openbroca 。 按下快捷键直接说话",
@@ -943,8 +749,22 @@
     "type": "community",
     "fetchedAt": "2026-08-30",
     "meta": {
-      "replies": 19,
-      "node": "程序员"
+      "replies": 32,
+      "node": "推广"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "工业软件行业对创业公司机会怎么样",
+    "summary": "自己离职创业折腾快一年了，目前以做外包软件开发为生 目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等 也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别 现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展 所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下 https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg",
+    "url": "https://www.v2ex.com/t/1238113",
+    "published": 1788051387,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-08-30",
+    "meta": {
+      "replies": 26,
+      "node": "职场话题"
     }
   }
 ]
