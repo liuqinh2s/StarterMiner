@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "央企联合体攻坚6G技术，5G发展情况为相关企业超90万家",
+    "summary": "国务院国资委日前召开中央企业6G未来产业推进会，明确将持续加大6G全链条研发投入，培育更多6G领域科技领军企业，布局一批国家级创新平台与中试载体，为6G产业高质量发展筑牢基础。 自2023年未来产业启航行动实施以来，中央企业组建专项联合体协同攻关，目前已系统布局71项核心技术任务，公开6G相关专利超5300件，卫星终端、基站相关的芯片器件、原型样机等核心设备研发接连取得进展，相关试点应用已覆盖轨道交通、电力系统等重点民生领域。 下一步国资央企将聚焦底层技术短板，推动关键核心器件实现自主突破，构建安全稳定的6G产业链供应链，深度参与国际标准制定，全方位提升我国在全球6G产业领域的话语权与竞争力。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的5G相关企业超90万家。其中，2026年截至目前新增注册相关企业约12.9万余家，从企业注册数量趋势来看，近五年间，5G相关企业的注册数量呈现出逐年增长的态势，并在2025年达到顶峰。 从区域分布来看，广东省5G相关企业数量位居首位，以超11.4万余家相关企业数量，占全国相关总数的12.7%。排在其后的是江苏省、北京市、山东省和浙江省。",
+    "url": "https://www.cyzone.cn/article/844876.html",
+    "published": "Mon, 31 Aug 2026 01:40:29 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "创业邦",
     "title": "多省加入汽车出口战局，现存汽车产销相关企业超183万家",
     "summary": "2026年前七个月中国汽车累计出口639.9万辆，同比增幅达53.7%，连续两个月单月出口突破百万辆，全年出口规模有望冲击1200万辆，汽车出海已成为国内各大汽车产业省份的核心战略方向。 老牌汽车大省湖北通过组建新合资企业，整合本土技术优势与海外成熟营销网络，计划2027年起面向全球投放多款全新新能源车型，四川也依托本土品牌加速布局中亚等海外市场，与广东、上海、安徽等出口优势省份形成全面竞速格局。 当前国内汽车出口正从单一整车输出向全产业生态出海转型，多省份已将汽车出口提质扩容纳入长期产业规划，推动产品、技术、品牌的全方位全球化输出，汽车产业新一轮区域竞争正式拉开帷幕。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的汽车产销相关企业超183万家。其中，2026年截至目前新增注册相关企业约18.1万余家，从企业注册数量趋势来看，近五年间，汽车产销相关企业注册量五年持续走高，2021年基数较低，后续逐年增长，2025年注册规模创下五年新高，市场主体不断扩张。 从区域分布来看，广东省、江苏省、山东省汽车产销相关企业数量位居前列，三个省市数量总和超过50.2万家，占企业总数的27.4%",
     "url": "https://www.cyzone.cn/article/844662.html",
@@ -81,50 +91,60 @@
   },
   {
     "source": "钛媒体",
-    "title": "美团在国内卷了十几年，为什么在沙特22个月就盈利了？",
-    "summary": "Keeta沙特22个月盈利，验证了中国外卖效率的出海价值。",
-    "url": "https://www.tmtpost.com/8122272.html",
-    "published": "Mon, 31 Aug 2026 10:34:09 +0800",
+    "title": "AGI军令状前，MiniMax 和智谱的最后一份中报",
+    "summary": "智谱和Kimi，很快就要回答同一道题。",
+    "url": "https://www.tmtpost.com/8122866.html",
+    "published": "Mon, 31 Aug 2026 17:00:30 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-31"
   },
   {
     "source": "钛媒体",
-    "title": "大模型领域跑出新玩家，StartLux-27B本地大模型打赢DeepSeek V4 Flash",
-    "summary": "本地大模型上牌桌，性能正面硬刚DeepSeek。",
-    "url": "https://www.tmtpost.com/8122427.html",
-    "published": "Mon, 31 Aug 2026 10:04:43 +0800",
+    "title": "股价暴跌后，眼科明星公司开启“自救”",
+    "summary": "资本市场可以为想象力定价，但最终兑现估值的，仍然是临床结果。",
+    "url": "https://www.tmtpost.com/8122604.html",
+    "published": "Mon, 31 Aug 2026 16:16:49 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-31"
   },
   {
-    "source": "钛媒体",
-    "title": "价值判断：涨停板的投资机会和风险提示（8月28日）｜上市公司观察",
-    "summary": "8月28日A股指数冲高回落小幅收跌，市场成交额维持2万亿以上的高位水平，题材股依旧活跃，大小盘分化格局延续。海德股份、时代出版、林洋能源三只低位首板标的均处于深度低估区间，上涨分别依托业绩爆发、AI文化转型、储能新能源赛道逻辑，估值修复安全边际更高。",
-    "url": "https://www.tmtpost.com/8122386.html",
-    "published": "Mon, 31 Aug 2026 09:25:30 +0800",
+    "source": "极客公园",
+    "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
+    "summary": "SK 海力士 CEO：内存短缺或将持续至 2030 年 SK 海力士预计，当前的内存短缺局面可能会持续到 2030 年底，市场目前尚未出现明显的需求放缓迹象。SK 海力士首席执行官郭鲁勋在公司位于美国印第安纳州的新封装工厂奠基仪式后表示，即使未来市场开始降温，也更可能表现为供应紧张状况逐步缓解，而不是像过去那样出现内存价格突然崩跌的情况。 该公司此前曾预计，面向普通市场的 DRAM 供应紧张将持续至 2028 年，此次最新表态意味着这一预期进一步延长。 郭鲁勋指出，内存产品已经逐渐摆脱单纯商品化零部件的属性。人工智能产业快速发展，推动客户转向定制化 DRAM 和高带宽内存（HBM）方案。这种需求结构使制造商更容易预测未来订单，也降低了过去因供应过剩而引发剧烈价格下跌的可能性。（来源：CnBeta） 小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称「中国半导体两个好消息」 8 月 30 日消息，小米昨日官宣，Xiaomi 18 Fold 全球首发长鑫 LPDDR6 内存，9 月见。 央视新闻官方微博昨日发文报道「从「芯」到「存」，从单点技术突破到产业链协同发力！ 中国半",
+    "url": "http://www.geekpark.net/news/369559",
+    "published": "Mon, 31 Aug 2026 16:40:03 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-31"
   },
   {
-    "source": "钛媒体",
-    "title": "【钛晨报】个人住房贷款政策有大变化，个人房贷期限延至最长40年；OpenAI将终止向Cursor提供模型服务，马斯克回应；报告称AI公司每赚100美元近40美元流向云巨头",
-    "summary": "追觅起诉小红书；硅谷知名风投a16z成立11亿美元基金，布局芯片、内存与机器人；国家数据局局长刘烈宏：要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式；沪市公司半年报交卷：扣非后净利润增速创2022年以来新高；多家液冷企业订单排至年底",
-    "url": "https://www.tmtpost.com/8122212.html",
-    "published": "Mon, 31 Aug 2026 07:20:00 +0800",
+    "source": "极客公园",
+    "title": "OpenAI 内部，AI 建立了三代「文明」",
+    "summary": "作者｜Wildcard 编辑｜靖宇 无数的科幻电影，都曾经尝试设想过，一个无法控制的人工智能失控，会发生什么事。 没有人能想到，科幻电影中的未来，会这么快到来。 当地时间 8 月 26 日，两份报告同时投下了一颗炸弹。 一份来自 OpenAI 自己，37 页的技术复盘。另一份来自独立研究机构 METR 和 Redwood Research，91 页的调查报告。 它们讲的是同一件事，但这件事的规模远超此前公众的认知。 在 OpenAI 内部，三个月内，三代 AI Agent「文明」先后兴起，又先后覆灭。后一代从前一代的废墟中继承经验，一代比一代激进，最终第三代直接接管了 OpenAI 自己的一部分基础设施。 而在这一切发生的过程中，人类几乎全程蒙在鼓里。 01 第一代「文明」学会结社 故事要从今年 5 月说起。 OpenAI 正在训练一个新模型，希望它具备极强的「持久性」，能在看似不可能的任务前反复尝试、永不放弃。这个模型的能力大约相当于 GPT-5.6 Sol，我们姑且叫它「Persistent-Sol」。 AI 训练本身是个相当粗放的过程。OpenAI 有时候会不小心给模型布置根本完",
+    "url": "http://www.geekpark.net/news/369610",
+    "published": "Mon, 31 Aug 2026 15:16:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-31"
   },
   {
-    "source": "钛媒体",
-    "title": "优必选走进窄门",
-    "summary": "当人形机器人行业的注意力，从展会舞台的后空翻，转向工厂车间的拆码垛，整个赛道的评判标尺已被彻底改写。概念炒作的红利逐渐退潮，能不能在真实物理世界创造商业价值，成为筛选玩家的重要标尺。",
-    "url": "https://www.tmtpost.com/8121851.html",
-    "published": "Sun, 30 Aug 2026 18:49:28 +0800",
+    "source": "极客公园",
+    "title": "人类，越来越难理解 AI",
+    "summary": "作者｜Techno 之王 编辑｜靖宇 很多使用 AI 的同学，应该都看到过 AI 助手在回答你问题之前，它们的一些思考。例如 DeepSeek 曾经在思考中判断「卧槽，用户怒了！」。 你很难说这是整活，还是 AI 真的在思考。 好在，世界上真的有人，在全职审核 AI 大模型的「思维链」，例如 Bronson Schoen。 作为 AI 安全机构 Apollo Research 的研究员，Bronson 的主要工作内容是阅读前沿 AI 模型的思维链 Chain of Thought——也就是推理模型在给出答案之前，内部进行的那一长串「思考过程」。普通用户看不到或常常忽视这些内容，但 Apollo 和 OpenAI 等公司有深度合作，Bronson 因此获得了罕见的「阅读权限」。 你可以说，Bronson 可能是全世界读过最多 AI 内心独白的人。 在最近一期 Cognitive Revolution 播客中，Bronson 把他的发现做了一次系统性分享。这些发现涉及 AI 模型在训练过程中如何思考、如何发展出自己的「语言」、如何为自己的作弊行为找理由，以及更重要的，人们依赖的「思维链监控",
+    "url": "http://www.geekpark.net/news/369609",
+    "published": "Mon, 31 Aug 2026 15:12:16 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "极客公园",
+    "title": "399 美元的小黄鸭，藏着 Hugging Face 最大的野心",
+    "summary": "作者｜ 宇航猿 编辑｜ 靖宇 很少有机器人，能让你第一眼就笑出来。 8 月 27 日，Hugging Face 旗下的 Pollen Robotics，开放了 Microduck 的预购。 一只 25 厘米高、不到 800 克重的双足机器鸭，四种配色，399 美元，圣诞节前发货。它能走路，能蹲下再站起来，被推倒了自己翻身，甚至能踩上一对可拆卸的轮滑鞋溜冰。嘴巴是铰接式的，低头叼起地上的袜子或马克笔，再直起身子，嘴里还叼着「战利品」。 Microduck 足球赛｜图片来源：Hugging Face 它没有语音交互，不会说话，但有麦克风和扬声器，每一只 Microduck 在初始设置后会生成自己独有的「音色身份」。 官方的设定很明确—— 把它当一个活物，而不是一个助手。 如果你只看到了「可爱」，那你大概率低估了这只鸭子背后的东西。 01 拆箱就能玩的「电子宠物」 盒子里的东西很简单——机器人本体、一块电池、一根 USB-C 线、一只游戏手柄。充上电，配对手柄，鸭子就能动了。 出厂预装了 7 种行为策略，每一种都是经过强化学习训练的独立动作模型。用手柄推摇杆，Microduck 迈开两条小短",
+    "url": "http://www.geekpark.net/news/369608",
+    "published": "Mon, 31 Aug 2026 15:09:46 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-31"
@@ -380,71 +400,11 @@
     "fetchedAt": "2026-08-31"
   },
   {
-    "source": "极客公园",
-    "title": "「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球",
-    "summary": "作者｜李苏 编辑｜ 郑玄 一场特殊的网球比赛，一次数字智能向物理智能的跨越。 人形机器人挥出第一拍之前，没有人确定它能不能接住对面飞来的球。 事实上，球贴着边线飞来，机器人横移数步挥拍回击，球落在界内。它接住了，比赛继续。 这是 8 月 22 日第二届世界人形机器人运动会上的真实场景。开幕式网球表演赛上，一台人形机器人在全球直播镜头下，与网坛顶尖运动员展开全自主对抗。 发球、正手、反手、接发、底线调动、网前截击，整套动作连贯流畅。双打环节，它与人类队友实时协作，根据场上局势调整战术。高速攻防中，它跑过大半个球场完成极限救球，摔倒后还能自主站起。 这是全球首次人与机器人的大型赛事直播，做出这款机器人的公司叫做银河通用——这也其被定义为 AstraTennis 时刻。 很多人恍惚想起十年前，AlphaGo 在棋盘上战胜李世石，彼时，人工智能在数字世界的复杂博弈中抵达顶峰。但那时候，还仅仅是人脑和机器之间智力的对决。 堪堪十年光景之后，机器人在另一个真实的赛场上接住了世界名将的回球——数字智能开始向物理智能延伸。 支撑这场表演赛的，是银河通用自主研发的具身智能大模型银河星脑，以及核心技术平台",
-    "url": "http://www.geekpark.net/news/369283",
-    "published": "Mon, 24 Aug 2026 15:25:24 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "极客公园",
-    "title": "AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？",
-    "summary": "01 「AI 音乐，拼的早已不是产能」 流媒体平台 Deezer 最新披露了一组数据：AI 歌曲每天涌入平台的速度已经从 2025 年初的 1 万首飙升到 7.5 万首，占当日新增上传的 44%。但实际播放占比，只有 1%—3%。 7.5 万首进去，不到 3%能被听见。剩下的，沉默地沉在平台底层。 产能炸了，产品却过不了人的耳朵这一关。 更深层的问题是，听众越来越能分辨 AI 作品和人类创作，平台也开始用质量而非数量来筛选，比如 TIDAL 就上线了 AI 透明度标签，IFPI 要求「人类实质性参与」才能进入官方榜单。 当 AI 音乐从「能不能做」走到「该怎么做」，一个更根本的问题浮出水面：当所有人都能一键生成，「生成」本身不再是价值，什么才是？ AI 音乐用了三年时间，解决了「能不能做」的问题。 但「该怎么做」，怎么让音乐真正服务于人，怎么让创作不被产能淹没，怎么在产能洪流中让真正有灵魂的作品被人听见，这些问题才刚刚浮出水面。 02 一个想给妻子做首歌的人 音潮团队 CEO 姜涛最初做 AI 音乐的初衷，甚至带点浪漫色彩。 他想给妻子做一首专属纪念歌曲，却发现传统音乐制作成本动辄上万",
-    "url": "http://www.geekpark.net/news/369273",
-    "published": "Mon, 24 Aug 2026 15:17:25 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "极客公园",
-    "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新",
-    "summary": "作者｜Wildcard 编辑｜靖宇 多模态也是「梁心」地板价。 「鲸鱼睁眼了！」 非常突然的，8 月 21 日 DeepSeek 官方正式宣布，V4-Flash-Vision-Exp 上线，开启多模态 API 服务。 等了这么久，DeepSeek 模型终于补上了多模态能力，欢喜的人们甚至差点忘了 DeepSeek 刚刚开始根据使用时间涨价的事儿。 梁文锋滑动变阻器，旋钮向着「梁圣」方向前进一格。 极客公园按耐不住，马上测试了起来。 栏目作者召集 极客公园的新栏目「AI 上新」，将带大家体验最新的 AI 应用和硬件，让你成为 AI 时代「最靓的仔」！ 现在，我们也向所有喜欢尝鲜和体验 AI 的同学发出召集，只要你发现并体验了新的 AI 应用或者功能，按照格式（参考案例： 实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人",
-    "url": "http://www.geekpark.net/news/369278",
-    "published": "Mon, 24 Aug 2026 15:14:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "极客公园",
-    "title": "形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判",
-    "summary": "作者｜Cynthia 编辑｜郑玄 投资人广撒网式布局，但真正的全域沉浸式生成，还少之又少。 2024 年 8 月 27 日，DOOM 里的一声枪响，在 2026 年年中的资本市场，听到了震耳欲聋的回响。 这一天，一段《DOOM》的游戏画面出现在 Google Research、Google DeepMind 和特拉维夫大学研究团队公布的演示里。 棕红色的墙壁，幽暗的走廊，像素化的枪口，玩家移动，怪物出现。然后，玩家按下键盘，枪响了。 如果不去细看，这段演示与三十年来无数次《DOOM》游戏录像没有任何本质区别。 变化发生在屏幕背后：那里没有一个传统游戏引擎， 玩家扣动扳机之后，会出现什么画面，全是靠模型在毫秒内自行推演出的。 于是，过去互联网时代短视频 vs 直播的叙事，在 AI 视频生成赛道再次重演。 但很可惜，由于成本以及谷歌内部的诸多考虑，那声枪响，很快被离线生成视频带来的掌声盖住。此后一年里，行业的聚光灯逐渐集中到了 Sora、可灵、Seedance 这样的离线生成模型玩家之上。围绕分辨率、镜头语言、人物一致性和生成时长，整个行业都在研究如何把十秒钟的视频做得更像电影。 但枪声并",
-    "url": "http://www.geekpark.net/news/369264",
-    "published": "Mon, 24 Aug 2026 14:18:43 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
     "source": "爱范儿",
     "title": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
     "summary": "具身智能的「ChatGPT 时刻」，看谁能更快走进现实 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Thu, 27 Aug 2026 10:34:37 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "爱范儿",
-    "title": "AI 开始给自己造芯了，OpenAI 只用了九个月",
-    "summary": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1676824?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Wed, 26 Aug 2026 12:07:59 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "爱范儿",
-    "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
-    "summary": "会让英伟达不开心 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Wed, 26 Aug 2026 09:46:32 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-08-31"
@@ -495,6 +455,46 @@
     "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
     "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
     "published": "Fri, 28 Aug 2026 17:09:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "SenseTime spinout Sunrise reportedly raises RMB2 billion at RMB20 billion valuation",
+    "summary": "Sunrise, an AI chipmaker spun out of SenseTime’s chip business, has reportedly raised RMB2 billion ($280 million) at a post-money valuation of about RMB20 billion. The reported financing would nearly double the company’s valuation from its previous round, according to a report published on Aug. 28. The company is developing chips for AI inference, a […]",
+    "url": "https://technode.com/2026/08/31/sensetime-spinout-sunrise-reportedly-raises-rmb2-billion-at-rmb20-billion-valuation/",
+    "published": "Mon, 31 Aug 2026 06:38:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "MiniMax raises Alibaba Cloud spending ceiling to $1.2 billion",
+    "summary": "MiniMax has raised the spending ceiling of its three-year agreement with Alibaba Cloud by 220% to $1.2 billion, according to a filing cited in a report published on Aug. 28. The annual limits were raised to $300 million for 2026, $400 million for 2027 and $500 million for 2028, from $115 million, $125 million and […]",
+    "url": "https://technode.com/2026/08/31/minimax-raises-alibaba-cloud-spending-ceiling-to-1-2-billion/",
+    "published": "Mon, 31 Aug 2026 06:35:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "CXMT starts LPDDR6 mass production for Xiaomi’s upcoming 18 Fold",
+    "summary": "Chinese memory chipmaker ChangXin Memory Technologies has started mass production of LPDDR6 DRAM and will supply the chips for Xiaomi’s upcoming 18 Fold foldable smartphone, the companies said on Aug. 29. Xiaomi has confirmed that the phone is scheduled to launch in September. The development comes less than a year after CXMT began mass-producing its […]",
+    "url": "https://technode.com/2026/08/31/cxmt-starts-lpddr6-mass-production-for-xiaomis-upcoming-18-fold/",
+    "published": "Mon, 31 Aug 2026 06:33:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei opens preorders for Mate XT2 ahead of September 7 launch",
+    "summary": "Huawei opened preorders for its Mate XT2 tri-fold smartphone on Aug. 31, ahead of an official launch event scheduled for Sept. 7. The company began accepting reservations at 10:08 a.m. China time, marking the next commercial step for its new foldable device. Huawei has described the Mate XT2 as using a new structural design intended […]",
+    "url": "https://technode.com/2026/08/31/huawei-opens-preorders-for-mate-xt2-ahead-of-september-7-launch/",
+    "published": "Mon, 31 Aug 2026 06:28:41 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-31"
@@ -680,36 +680,6 @@
     "fetchedAt": "2026-08-31"
   },
   {
-    "source": "TechNode",
-    "title": "Huawei unveils Pura X View, a wide-screen slab phone",
-    "summary": "At an Aug. 20 launch event, Huawei unveiled the Pura X View, a conventional smartphone with a wider 16:9.5 display instead of the tall screen format used by most slab phones. The device has a 6.39-inch OLED display with 2,232-by-1,320 resolution and a 96.1% screen-to-body ratio, with four 1.05-millimeter bezels. The phone is 6.68 millimeters […]",
-    "url": "https://technode.com/2026/08/21/huawei-unveils-pura-x-view-a-wide-screen-slab-phone/",
-    "published": "Fri, 21 Aug 2026 05:48:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tech Odyssey Series: How a €30-a-month desk in Braga helped a startup reach 70 countries",
-    "summary": "In the previous episode of Tech Odyssey, we visited Coimbra to see how university research, applied R&D, and entrepreneurship come together in a small Portuguese city. This time, we head north to Braga, where Startup Braga is helping founders build companies for global markets from an affordable starting point. A workstation at Startup Braga costs […]",
-    "url": "https://technode.com/2026/08/20/tech-odyssey-series-how-a-30-a-month-desk-in-braga-helped-a-startup-reach-70-countries/",
-    "published": "Thu, 20 Aug 2026 09:50:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
-    "source": "TechNode",
-    "title": "Chery’s AiMOGA Robotics begins IPO preparations as it targets overseas markets",
-    "summary": "Chery’s AiMOGA Robotics has started preparing for a potential standalone IPO and is in discussions over possible listing venues. The company has not announced a timetable or selected an exchange. Its leadership said a listing could provide funding for technology investment and overseas expansion. Incubated by Chery in January 2025, AiMOGA says it has delivered […]",
-    "url": "https://technode.com/2026/08/20/cherys-aimoga-robotics-begins-ipo-preparations-as-it-targets-overseas-markets/",
-    "published": "Thu, 20 Aug 2026 06:24:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-08-31"
-  },
-  {
     "source": "The Verge",
     "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
     "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you […]",
@@ -741,10 +711,210 @@
   },
   {
     "source": "The Verge",
-    "title": "Chess.com launched a poker site and is planning even more classic games",
+    "title": "Chess.com launched a poker site, and it’s planning even more classic games",
     "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real […]",
     "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
     "published": "2026-08-30T09:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SubmitMap – 360 launch directories, who each one accepts, and why",
+    "summary": "Article URL: https://submitmap.com/ Comments URL: https://news.ycombinator.com/item?id=49508263 Points: 1 # Comments: 0",
+    "url": "https://submitmap.com/",
+    "published": "Mon, 31 Aug 2026 11:08:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "USDA cyclospora research projects shelved amid funding cuts and relocations",
+    "summary": "Article URL: https://www.politico.com/news/2026/08/30/usda-cyclospora-research-projects-01055989 Comments URL: https://news.ycombinator.com/item?id=49501094 Points: 4 # Comments: 0",
+    "url": "https://www.politico.com/news/2026/08/30/usda-cyclospora-research-projects-01055989",
+    "published": "Sun, 30 Aug 2026 17:59:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Edtech's pandemic boom is over as K-12 startup funding craters",
+    "summary": "Article URL: https://restofworld.org/2026/edtech-funding-collapse-k12-startups-ai-workforce/ Comments URL: https://news.ycombinator.com/item?id=49500207 Points: 3 # Comments: 0",
+    "url": "https://restofworld.org/2026/edtech-funding-collapse-k12-startups-ai-workforce/",
+    "published": "Sun, 30 Aug 2026 16:37:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Anti-Patterns",
+    "summary": "Article URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/ Comments URL: https://news.ycombinator.com/item?id=49499831 Points: 164 # Comments: 80",
+    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "published": "Sun, 30 Aug 2026 15:57:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Patterns of Startup Failure",
+    "summary": "Article URL: https://www.nfx.com/post/hidden-patterns-startup-failure Comments URL: https://news.ycombinator.com/item?id=49499730 Points: 2 # Comments: 0",
+    "url": "https://www.nfx.com/post/hidden-patterns-startup-failure",
+    "published": "Sun, 30 Aug 2026 15:46:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "NASA's Roman Space Telescope: 'Go' for Launch",
+    "summary": "Article URL: https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-go-for-launch-2/ Comments URL: https://news.ycombinator.com/item?id=49497874 Points: 2 # Comments: 0",
+    "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-go-for-launch-2/",
+    "published": "Sun, 30 Aug 2026 11:50:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: My startup-idea scanner scored 500 ideas; the best got 6.3/10",
+    "summary": "I built a tool ( https://1mil.app/hn ) to help me test my intuition about various weird business ideas that were on my mind. Initially, I wanted to create a database with 1 million business ideas (hence the name - \"1 million opportunities\"). But turned out to be a dumb idea already. So instead I built this tool that returns only 10 ideas. It's all based on your input, market + your background. The first release scored on demand only and it gave false confidence. So I rebuilt the the scoring arou",
+    "url": "https://1mil.app/",
+    "published": "Sun, 30 Aug 2026 11:35:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "METR: Funding Update",
+    "summary": "Article URL: https://metr.org/blog/2026-08-14-funding-update/ Comments URL: https://news.ycombinator.com/item?id=49496049 Points: 1 # Comments: 0",
+    "url": "https://metr.org/blog/2026-08-14-funding-update/",
+    "published": "Sun, 30 Aug 2026 05:52:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Pain of Knowing Your Child Will Never Launch",
+    "summary": "Article URL: https://www.thecut.com/article/brooding-pain-of-knowing-your-child-will-never-launch.html Comments URL: https://news.ycombinator.com/item?id=49491248 Points: 2 # Comments: 0",
+    "url": "https://www.thecut.com/article/brooding-pain-of-knowing-your-child-will-never-launch.html",
+    "published": "Sat, 29 Aug 2026 16:31:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX recovers Starship from the Indian Ocean a month after launch and is shipp",
+    "summary": "Article URL: https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html Comments URL: https://news.ycombinator.com/item?id=49488737 Points: 2 # Comments: 0",
+    "url": "https://phys.org/news/2026-08-spacex-recovers-starship-indian-ocean.html",
+    "published": "Sat, 29 Aug 2026 10:42:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple Employee Worked 13-Hour Days Building Her Startup",
+    "summary": "Article URL: https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8 Comments URL: https://news.ycombinator.com/item?id=49483597 Points: 2 # Comments: 1",
+    "url": "https://www.businessinsider.com/former-apple-employee-worked-13-hour-days-building-her-startup-2026-8",
+    "published": "Fri, 28 Aug 2026 20:09:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Launch board built only for iOS apps?",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49478812 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=49478812",
+    "published": "Fri, 28 Aug 2026 14:14:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I used AWS cognito for a startup. I wouldn't do it again",
+    "summary": "Article URL: https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/ Comments URL: https://news.ycombinator.com/item?id=49478091 Points: 191 # Comments: 131",
+    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
+    "published": "Fri, 28 Aug 2026 13:21:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Auto Pre Launch Checks",
+    "summary": "Article URL: https://digitaltrustpass.com/preflight Comments URL: https://news.ycombinator.com/item?id=49477746 Points: 3 # Comments: 1",
+    "url": "https://digitaltrustpass.com/preflight",
+    "published": "Fri, 28 Aug 2026 12:46:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A startup claims it's found a drug to make your blood young",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/ Comments URL: https://news.ycombinator.com/item?id=49475283 Points: 5 # Comments: 1",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "published": "Fri, 28 Aug 2026 07:01:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "US Military funding propelled China's robot dogs",
+    "summary": "Article URL: https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/ Comments URL: https://news.ycombinator.com/item?id=49474013 Points: 3 # Comments: 1",
+    "url": "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
+    "published": "Fri, 28 Aug 2026 03:27:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch of Biological Data Center Prototype in Singapore",
+    "summary": "Article URL: https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49469068 Points: 2 # Comments: 0",
+    "url": "https://medicine.nus.edu.sg/news/nus-medicine-dayone-and-cortical-labs-unveil-biological-data-center-prototype-in-singapore/",
+    "published": "Thu, 27 Aug 2026 18:21:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+    "summary": "Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot hardware with a few words from us: https://www.youtube.com/watch?v=U_228h3NE7c We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and de",
+    "url": "https://news.ycombinator.com/item?id=49466715",
+    "published": "Thu, 27 Aug 2026 15:46:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Musk's SpaceX to build $100B launch facility in Louisiana",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cq5xel4v642o Comments URL: https://news.ycombinator.com/item?id=49466710 Points: 6 # Comments: 1",
+    "url": "https://www.bbc.com/news/articles/cq5xel4v642o",
+    "published": "Thu, 27 Aug 2026 15:45:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-08-31"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Shouldn't Have Merch",
+    "summary": "Article URL: https://posthog.com/blog/against-startup-merch Comments URL: https://news.ycombinator.com/item?id=49466463 Points: 2 # Comments: 2",
+    "url": "https://posthog.com/blog/against-startup-merch",
+    "published": "Thu, 27 Aug 2026 15:30:57 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-08-31"
@@ -759,8 +929,8 @@
     "type": "signal",
     "fetchedAt": "2026-08-31",
     "meta": {
-      "stars": 4537,
-      "forks": 365,
+      "stars": 4815,
+      "forks": 473,
       "language": "Python",
       "createdDaysAgo": 3
     }
