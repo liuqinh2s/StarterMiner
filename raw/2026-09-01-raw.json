@@ -101,6 +101,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
+    "summary": "Manus正式恢复独立运营；胖东来1-8月销售额超195亿，同比增长26.98%；SpaceX据悉重组数据中心领导团队；苹果官网更新，库克头衔已变为执行主席，约翰·特努斯正式担任苹果首席执行官；外籍个人从外商投资企业取得股息红利需缴个税；交易所制定L2行情使用规范，严禁“绕道抢跑”；《微短剧发展管理办法》9月1日起正式施行；中国牵头制定，全球首个腿式机器人国际标准发布；国家药监局：进一步加强药品信息化追溯管理工作；全链条治理流量造假、网络暴力，9月1日起互联网新规正式施行；上半年公募基金分仓佣金收入达87.27亿元，同比增长95.13%；乘联分会崔东树：1-7月世界汽车销量达到5611万台，新能源汽车达到1352万台；今年以旧换新带动消费超1.5万亿元，以旧换新惠及超2亿人次",
+    "url": "https://www.tmtpost.com/8125054.html",
+    "published": "Wed, 02 Sep 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "钛媒体",
     "title": "中国汽车出海，最难的已经不是把车卖出去",
     "summary": "中国汽车智能化出海，真正的考验变成了合规、本地化、生态协同与持续运营。",
     "url": "https://www.tmtpost.com/8124780.html",
@@ -135,16 +145,6 @@
     "summary": "2026年中报显示，机器人行业已明显分化。极智嘉、优必选、宇树科技营收超10亿领跑，但盈利差异悬殊——宇树盈利2.74亿唯一赚钱，优必选、珞石减亏，越疆、极智嘉、华沿亏损扩大。具身智能正成为分水岭，优必选人形收入占46.5%领跑，华沿增速仅0.6%陷入停滞。行业共识：宁可牺牲短期利润，也要死守技术高地。",
     "url": "https://www.tmtpost.com/8123956.html",
     "published": "Tue, 01 Sep 2026 17:51:39 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "钛媒体",
-    "title": "“薄利多销”不性感，机器人故事能拯救零跑估值吗？",
-    "summary": "只有销量还不够。",
-    "url": "https://www.tmtpost.com/8124477.html",
-    "published": "Tue, 01 Sep 2026 17:39:45 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-01"
@@ -450,61 +450,81 @@
     "fetchedAt": "2026-09-01"
   },
   {
-    "source": "爱范儿",
-    "title": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
-    "summary": "具身智能的「ChatGPT 时刻」，看谁能更快走进现实 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 27 Aug 2026 10:34:37 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
     "source": "TechCrunch",
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "published": "Tue, 01 Sep 2026 00:30:00 +0000",
+    "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+    "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+    "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+    "published": "Tue, 01 Sep 2026 23:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
   },
   {
     "source": "TechCrunch",
-    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-    "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-    "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-    "published": "Mon, 31 Aug 2026 23:41:10 +0000",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "published": "Tue, 01 Sep 2026 22:08:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
   },
   {
     "source": "TechCrunch",
-    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-    "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-    "published": "Mon, 31 Aug 2026 23:14:14 +0000",
+    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "published": "Tue, 01 Sep 2026 21:06:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
   },
   {
     "source": "TechCrunch",
-    "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-    "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
-    "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-    "published": "Mon, 31 Aug 2026 17:14:44 +0000",
+    "title": "X says attackers are targeting user accounts after the launch of X Money",
+    "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+    "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+    "published": "Tue, 01 Sep 2026 20:48:32 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
   },
   {
     "source": "TechCrunch",
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "published": "Mon, 31 Aug 2026 16:00:00 +0000",
+    "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+    "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+    "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+    "published": "Tue, 01 Sep 2026 19:45:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+    "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+    "published": "Tue, 01 Sep 2026 16:49:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "published": "Tue, 01 Sep 2026 16:31:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "published": "Tue, 01 Sep 2026 15:51:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
@@ -711,20 +731,80 @@
   },
   {
     "source": "The Verge",
-    "title": "Tim Cook’s Apple: his 10 biggest wins and misses",
-    "summary": "Expectations for Tim Cook were almost impossibly high when he stepped in to replace Apple's visionary cofounder in 2011. He inherited a company on a blockbuster run, after Steve Jobs returned and revitalized the Mac, launched the iPod, and oversaw the launch of the iPhone. Now, after 15 years in the CEO role, Tim Cook […]",
-    "url": "https://www.theverge.com/tech/987043/tim-cook-biggest-wins-misses",
-    "published": "2026-09-01T07:00:00-04:00",
+    "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "published": "2026-09-01T18:01:36-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
   },
   {
     "source": "The Verge",
-    "title": "The Google TV Streamer now costs $50 more",
-    "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new […]",
-    "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-    "published": "2026-08-31T18:32:51-04:00",
+    "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week’",
+    "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the […]",
+    "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+    "published": "2026-09-01T14:24:16-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+    "summary": "Article URL: https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/ Comments URL: https://news.ycombinator.com/item?id=49529021 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+    "published": "Tue, 01 Sep 2026 22:20:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "summary": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I buil",
+    "url": "https://www.norirobotics.com/",
+    "published": "Tue, 01 Sep 2026 17:35:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Maniquest Launch",
+    "summary": "Article URL: https://maniquest.com Comments URL: https://news.ycombinator.com/item?id=49523915 Points: 1 # Comments: 1",
+    "url": "https://maniquest.com",
+    "published": "Tue, 01 Sep 2026 16:05:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia's controversial DLSS 5 will launch September 3",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now Comments URL: https://news.ycombinator.com/item?id=49523527 Points: 3 # Comments: 0",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now",
+    "published": "Tue, 01 Sep 2026 15:43:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I gathered 992 posts about my startup idea. 7 were about my idea",
+    "summary": "Article URL: https://github.com/gokulsai1004-create/painpoint-finder Comments URL: https://news.ycombinator.com/item?id=49521697 Points: 1 # Comments: 0",
+    "url": "https://github.com/gokulsai1004-create/painpoint-finder",
+    "published": "Tue, 01 Sep 2026 13:24:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Textlog after launch, 1218 commits later",
+    "summary": "Article URL: https://textlog.cc/blog/recap-v2 Comments URL: https://news.ycombinator.com/item?id=49521125 Points: 1 # Comments: 0",
+    "url": "https://textlog.cc/blog/recap-v2",
+    "published": "Tue, 01 Sep 2026 12:36:29 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-01"
@@ -742,7 +822,7 @@
   {
     "source": "Hacker News",
     "title": "How to Build a Startup with AI",
-    "summary": "Article URL: https://contextgoblin.com/blog/how-to-build-a-startup-with-ai Comments URL: https://news.ycombinator.com/item?id=49518936 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://contextgoblin.com/blog/how-to-build-a-startup-with-ai Comments URL: https://news.ycombinator.com/item?id=49518936 Points: 2 # Comments: 0",
     "url": "https://contextgoblin.com/blog/how-to-build-a-startup-with-ai",
     "published": "Tue, 01 Sep 2026 07:10:01 +0000",
     "lang": "en",
@@ -762,7 +842,7 @@
   {
     "source": "Hacker News",
     "title": "Congress to vote on denying federal funding to universities that boycott Israel",
-    "summary": "Article URL: https://twitter.com/dylanotes/status/2094229210889965634 Comments URL: https://news.ycombinator.com/item?id=49515596 Points: 19 # Comments: 10",
+    "summary": "Article URL: https://twitter.com/dylanotes/status/2094229210889965634 Comments URL: https://news.ycombinator.com/item?id=49515596 Points: 27 # Comments: 12",
     "url": "https://twitter.com/dylanotes/status/2094229210889965634",
     "published": "Mon, 31 Aug 2026 22:24:39 +0000",
     "lang": "en",
@@ -782,7 +862,7 @@
   {
     "source": "Hacker News",
     "title": "Konrad Zuse Museum shutting down due to lack of funding",
-    "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch) Comments URL: https://news.ycombinator.com/item?id=49511917 Points: 158 # Comments: 76",
+    "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch) Comments URL: https://news.ycombinator.com/item?id=49511917 Points: 165 # Comments: 80",
     "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
     "published": "Mon, 31 Aug 2026 16:52:35 +0000",
     "lang": "en",
@@ -792,7 +872,7 @@
   {
     "source": "Hacker News",
     "title": "Paul Graham's Complete Startup Advice Simplified",
-    "summary": "Article URL: https://www.youtube.com/watch?v=JNoD4jKXmSs Comments URL: https://news.ycombinator.com/item?id=49511672 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.youtube.com/watch?v=JNoD4jKXmSs Comments URL: https://news.ycombinator.com/item?id=49511672 Points: 2 # Comments: 1",
     "url": "https://www.youtube.com/watch?v=JNoD4jKXmSs",
     "published": "Mon, 31 Aug 2026 16:32:27 +0000",
     "lang": "en",
@@ -860,76 +940,6 @@
     "fetchedAt": "2026-09-01"
   },
   {
-    "source": "Hacker News",
-    "title": "SubmitMap – 360 launch directories, who each one accepts, and why",
-    "summary": "Article URL: https://submitmap.com/ Comments URL: https://news.ycombinator.com/item?id=49508263 Points: 2 # Comments: 0",
-    "url": "https://submitmap.com/",
-    "published": "Mon, 31 Aug 2026 11:08:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "USDA cyclospora research projects shelved amid funding cuts and relocations",
-    "summary": "Article URL: https://www.politico.com/news/2026/08/30/usda-cyclospora-research-projects-01055989 Comments URL: https://news.ycombinator.com/item?id=49501094 Points: 4 # Comments: 0",
-    "url": "https://www.politico.com/news/2026/08/30/usda-cyclospora-research-projects-01055989",
-    "published": "Sun, 30 Aug 2026 17:59:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Edtech's pandemic boom is over as K-12 startup funding craters",
-    "summary": "Article URL: https://restofworld.org/2026/edtech-funding-collapse-k12-startups-ai-workforce/ Comments URL: https://news.ycombinator.com/item?id=49500207 Points: 5 # Comments: 0",
-    "url": "https://restofworld.org/2026/edtech-funding-collapse-k12-startups-ai-workforce/",
-    "published": "Sun, 30 Aug 2026 16:37:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Anti-Patterns",
-    "summary": "Article URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/ Comments URL: https://news.ycombinator.com/item?id=49499831 Points: 184 # Comments: 93",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "published": "Sun, 30 Aug 2026 15:57:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Patterns of Startup Failure",
-    "summary": "Article URL: https://www.nfx.com/post/hidden-patterns-startup-failure Comments URL: https://news.ycombinator.com/item?id=49499730 Points: 3 # Comments: 0",
-    "url": "https://www.nfx.com/post/hidden-patterns-startup-failure",
-    "published": "Sun, 30 Aug 2026 15:46:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NASA's Roman Space Telescope: 'Go' for Launch",
-    "summary": "Article URL: https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-go-for-launch-2/ Comments URL: https://news.ycombinator.com/item?id=49497874 Points: 2 # Comments: 0",
-    "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-go-for-launch-2/",
-    "published": "Sun, 30 Aug 2026 11:50:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: My startup-idea scanner scored 500 ideas; the best got 6.3/10",
-    "summary": "I built a tool ( https://1mil.app/hn ) to help me test my intuition about various weird business ideas that were on my mind. Initially, I wanted to create a database with 1 million business ideas (hence the name - \"1 million opportunities\"). But turned out to be a dumb idea already. So instead I built this tool that returns only 10 ideas. It's all based on your input, market + your background. The first release scored on demand only and it gave false confidence. So I rebuilt the the scoring arou",
-    "url": "https://1mil.app/",
-    "published": "Sun, 30 Aug 2026 11:35:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-01"
-  },
-  {
     "source": "V2EX",
     "title": "下周四到周日，三天去九寨沟+乐山，安排合理吗？",
     "summary": "10 号（周四）晚上从成都出发前往九寨沟沟口附近的酒店 大约晚上 11 点左右到达酒店 11 号（周五）早上 6 点多起床赶第一波 7 点半开门进入景区 周五和周六两天时间，九寨沟深度游玩 周六下午四五点结束九寨游玩，从成都东中转，晚 11 点左右到达乐山 周日早开始在乐山吃吃玩玩，可去乐山大佛也可不去 下午四点多的高铁从乐山回成都天府机场 17 点 50 抵达天府机场，19 点左右的航班回青岛 有点特种兵但我精力体力都比较好 准备了三合一冲锋衣+速干短袖+长袖防晒衣 还有什么需要准备和特别注意的吗？",
@@ -939,7 +949,7 @@
     "type": "community",
     "fetchedAt": "2026-09-01",
     "meta": {
-      "replies": 75,
+      "replies": 80,
       "node": "旅行"
     }
   },
@@ -953,10 +963,138 @@
     "type": "signal",
     "fetchedAt": "2026-09-01",
     "meta": {
-      "stars": 5720,
-      "forks": 494,
+      "stars": 6146,
+      "forks": 517,
+      "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "XiaoDuoYa/codex-with-chatgpt",
+    "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "published": "2026-08-28T12:57:24Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 2123,
+      "forks": 215,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "crmne/fastpotify",
+    "summary": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "url": "https://github.com/crmne/fastpotify",
+    "published": "2026-08-27T12:46:32Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 1521,
+      "forks": 62,
+      "language": "Rust",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Nanako0129/sepia",
+    "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "url": "https://github.com/Nanako0129/sepia",
+    "published": "2026-08-28T05:56:49Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 1352,
+      "forks": 79,
       "language": "Python",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MetaMask-AI/metamask-desktop",
+    "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "published": "2026-08-28T08:07:10Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 1229,
+      "forks": 91,
+      "language": "CSS",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wide-trace/open-higgsfield",
+    "summary": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "published": "2026-08-26T06:09:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 1201,
+      "forks": 18,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "damejan80/tokentab",
+    "summary": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/damejan80/tokentab",
+    "published": "2026-08-27T14:16:09Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 1135,
+      "forks": 210,
+      "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "cbrock84/headcount",
+    "summary": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "url": "https://github.com/cbrock84/headcount",
+    "published": "2026-08-28T18:03:04Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 941,
+      "forks": 146,
+      "language": "Markdown",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "jprx/darwin-vm",
+    "summary": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+    "url": "https://github.com/jprx/darwin-vm",
+    "published": "2026-08-27T22:24:31Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-01",
+    "meta": {
+      "stars": 868,
+      "forks": 72,
+      "language": "Python",
+      "createdDaysAgo": 5
     }
   }
 ]
