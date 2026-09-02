@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "欣旺达动力科技公司增资至约145.2亿",
+    "summary": "天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约140.9亿人民币增至约145.2亿人民币。 该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等。股东信息显示，该公司由欣旺达惠州新能源有限公司、嘉兴颀辰股权投资合伙企业（有限合伙）、青岛鑫旺绿色新能源投资合伙企业（有限合伙）等共同持股。",
+    "url": "https://www.cyzone.cn/article/845146.html",
+    "published": "Wed, 02 Sep 2026 03:42:53 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "创业邦",
     "title": "吉林农特产品借电出吉，全国现存电商相关企业超3400万家",
     "summary": "依托黑土地优质农牧资源，吉林本土农特产业正借力新电商实现快速突围，1-7月全国网上商品和服务零售额保持4.8%的增速，当地一批龙头企业完成了从传统农业向品牌农业的转型，区域特产的全国市场影响力持续提升。 当地头部农企分别探索出不同的数字化路径，头部肉牛企业依托大数据重构备货逻辑，大幅降低运营损耗；人参产业通过一物一码数字溯源体系，叠加产品年轻化改造，将传统滋补品转化为日常快消品，全网域布局实现销售额同比增长超两成。 新电商还进一步带动了县域全产业链发展，返乡创业群体通过孵化本土主播、培育区域特色品牌，直接带动当地农户增收、残疾人就业，依托配套物流体系与产业大会持续赋能，吉林农业正加速从“产得好”向“卖得俏”全面跃迁。 天眼查专业版数据显示，截至目前我国现存在业、存续状态的电商相关企业超3400.2万家。其中，2026年截至目前新增注册相关企业约564.6万余家，从企业注册数量趋势来看，近五年间，电商相关企业的注册数量呈现出逐年增长的态势，并在2025年达到顶峰。 从区域分布来看，广东省、浙江省、湖北省电商相关企业数量位居前列，分别拥有超541.4万余家、300.6万余家和254.7万余",
     "url": "https://www.cyzone.cn/article/845016.html",
@@ -101,10 +111,60 @@
   },
   {
     "source": "钛媒体",
-    "title": "大模型厂商，正忙着自备“干粮”",
-    "summary": "当模型公司开始用AI设计AI芯片，会对行业格局带来哪些影响？",
-    "url": "https://www.tmtpost.com/8124383.html",
-    "published": "Wed, 02 Sep 2026 11:53:25 +0800",
+    "title": "Keep的AI棋局",
+    "summary": "在Keep成立10周年之际，创始人王宁发布全员信，宣布All in AI。",
+    "url": "https://www.tmtpost.com/8125756.html",
+    "published": "Wed, 02 Sep 2026 18:53:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "钛媒体",
+    "title": "制造业有了本体，大模型就能落地吗 | 智造观察",
+    "summary": "从早期的手工梳理本体，到现在的平台化积累，工业大模型的落地正在从演示走向生产。",
+    "url": "https://www.tmtpost.com/8125160.html",
+    "published": "Wed, 02 Sep 2026 17:52:45 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "钛媒体",
+    "title": "炸了！“指纹芯片一哥”原总裁，栽在9.8万上",
+    "summary": "汇顶科技原总裁柳玉平因内幕交易被罚150万元，公司业绩同步下滑，上半年净利暴跌41.59%。指纹芯片主业承压，市值从1700亿缩水至241亿，向传感、音频、汽车电子等多元平台转型尚处验证期，第二增长曲线仍未形成。",
+    "url": "https://www.tmtpost.com/8125384.html",
+    "published": "Wed, 02 Sep 2026 16:42:43 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "极客公园",
+    "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
+    "summary": "作者｜苏子华 编辑｜靖宇 机器人行业现在最关心的一个问题：它能干完一整件事吗？ 几十秒的抓取物品的视频已经撑不起估值了。把一件事从头干到尾，成了最新的考题，行业里叫它「长程任务」。 8 月 19 日，世界机器人大会，一台机器人首次亮相，用 15 分钟回答了这道题：收拾客厅，检查冰箱，把烘干机里的衣服拿出来，放进新的一批，按下启动键，最后把衣服叠好。 里面大概有七八十个动作，自主完成，全程没掉链子。 正在忙活衣物烘洗家务的 MORPHI KINO 机器人｜图片来源：MORPHI 造它的公司叫墨奇（MORPHI），成立刚 8 个月。联合创始人 黄青虬 出生于 1994 年，清华自动化本科、香港中文大学 MMLab 博士。 在华为车 BU 的五年，他从研发飞速做到智驾 AI 部门一号位，主导了华为智驾 ADS 1.0 到 4.0 的算法突破与量产，管两百多人。根据公开信息，华为智驾系统已覆盖 35 家车企、50+ 款量产车型，搭载量超 170 万台。例如，被广为熟知的问界、智界、尊界等新能源汽车品牌。 离开前，他做了件大事：把整个智驾全部完成了 AI 化。也是在做完这一代之后，他亲手验证了用",
+    "url": "http://www.geekpark.net/news/369724",
+    "published": "Wed, 02 Sep 2026 14:59:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "极客公园",
+    "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
+    "summary": "作者｜苏子华 编辑｜靖宇 极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。 从一张几百元的价格，直接抬升到一万元。 婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。 关键变化发生在过去五年。 传感器、算法、电机第一次被装进一张床，价格随之跳升：美国智能婴儿床 SNOO 售价 1695 美元（约 1.2 万元人民币），Cradlewise 售价 1999 美元；而在今年年初的 CES 上， 中国公司 亲宝宝 展示的 AI 睡眠舱，官方定价 8999 元人民币。 目前只要打上「智能」的旗号，仅仅做到温度控制、视频记录，在电商平台上售卖 4000 元起步的也有大把存在。 在海外，SNOO、Cradlewise 等初创品牌已经用产品证明了：婴儿床可以被卖到一万元人民币以上，而且卖得动。 巨头们正在加速入场。德国工业巨头博世也发布了 AI 婴儿床 Revol，传统的母婴巨头厂商 HALO、Graco 也在全线跟进。 让婴儿睡得安全，解放父母夜里的睡眠时间和看护焦虑——这个小众品类已经从边缘走向台前。 而且，现在",
+    "url": "http://www.geekpark.net/news/369719",
+    "published": "Wed, 02 Sep 2026 14:54:16 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "极客公园",
+    "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
+    "summary": "作者｜苏子华 编辑｜靖宇 现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。 因为 Violoop 已经把它们变成了现实。 Violoop 实物图｜图片来源：Violoop Violoop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线连在电脑上，不挤占电脑的 CPU/GPU 资源。它可以通过实时读取电脑屏幕上的全局信息，获得用户全部的上下文，实现主动式的 AI 助手。 极客公园获悉，Violoop 半年内完成了亿元级天使轮及 Pre-A 轮融资。联想创投、中金保时捷、蓝驰创投、元生资本、启赋资本和 Zero2IPO Ventures 共同投资。 Violoop 的 CEO 何佳霖 是一位连续创业者，毕业于 UC San Diego 的 CS 专业，曾入选过 YC 创业营。CTO King Zhu 是一位天才学霸，曾在 MIT 的 EECS 专业用 3.5 年完成本硕，同届最快毕业，后来在微软的 Xbox、HoloLens、Surface 等多个业务线担任核心工程师。 左为何佳霖，右为",
+    "url": "http://www.geekpark.net/news/369718",
+    "published": "Wed, 02 Sep 2026 14:49:04 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-02"
@@ -370,31 +430,11 @@
     "fetchedAt": "2026-09-02"
   },
   {
-    "source": "极客公园",
-    "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
-    "summary": "头图来源：oxalpha.com 最近，海外开发者圈又被一个没有名字的模型刷屏了。 8 月 20 日，OpenRouter 上多了一个叫 Ox Alpha 的模型，100 万 token 上下文、支持图片和视频输入、能调用工具、免费。随后，它被接进 OpenCode、Hermes 等编程 Agent。有人拿它修代码，有人用它跑软件工程基准，还有人盯着 tokenizer 和报错信息，试图猜出它到底是谁家的。 目前，Ox Alpha 的身份还没有得到官方确认。社区最流行的猜测是，它与智谱 GLM-5.x 系列关系很近；依据是 tokenizer、推理模式报错和部分输出习惯的相似性。但这还只是技术分析，智谱官方目前还没有认领。 从 Ox Alpha 爆火，可以看到一个越来越常见的出海打法：模型先匿名上线，让海外开发者替它做第一轮测试、传播和身份鉴定。 一、从 HappyHorse 到 Ox Alpha Ox Alpha 并不是第一个蒙着脸跑出来的模型。 往前翻四个月，阿里的 HappyHorse（欢乐马）也是这个路数—— 没有发布会，没有公司名，直接空降到 AI 评测平台 Artifici",
-    "url": "http://www.geekpark.net/news/369324",
-    "published": "Tue, 25 Aug 2026 13:14:40 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-02"
-  },
-  {
-    "source": "极客公园",
-    "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
-    "summary": "TRAE、扣子并入豆包，字节将推统一办公品牌 \"豆包工作\" 8 月 24 日消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中 TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE 及 CLI 将作为豆包品牌下的编程产品线持续发展。 此次调整后，字节也进一步明确了豆包的 AI 主干业务定位，将 AI 办公类产品的重心集中到豆包。 此前，有消息称，豆包最快将于本周内推出一款独立的 AI 办公类产品，作为字节面向 AI 办公场景的统一产品及品牌。 针对该消息，字节方面回应称，此次调整旨在更好地协同产品和技术资源，为用户提供更优质的 AI 工作体验，现有用户权益不会受到影响。（来源: TechWeb） 蔡崇信、吴泳铭各增持 8000 万、4000 万港元阿里股票 8 月 24 日消息，据港交所最新信息，在阿里巴巴宣布 800 亿港元新股配售计划后，集团主席蔡崇信、CEO 吴泳铭出手增持合计约 1.2 亿港元阿里股票。 据了解，蔡崇信此次买入 72 万股阿里巴巴港股，均价约 112 港元，耗资约 8000 ",
-    "url": "http://www.geekpark.net/news/369303",
-    "published": "Tue, 25 Aug 2026 08:25:52 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-02"
-  },
-  {
-    "source": "极客公园",
-    "title": "「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」",
-    "summary": "玄戒 O3 的跑分是烟花，玄戒 O100 的带宽才是信号。 作者｜张勇毅 编辑｜ 靖宇 8 月 24 日下午，小米一口气发布了三颗新芯片：玄戒 O3、玄戒 O100、玄戒 D100。 距离第一代玄戒 O1 亮相，过去了 459 天。但这次小米确实打了一场准备充分的仗：按小米公布的成绩，玄戒 O3 安兔兔跑分 522 万，是第一颗突破 500 万分的旗舰手机 SoC。号称「安卓性能之王」。 小米玄戒 O3 系统架构｜图片来源：小米 但性能显然不全是这场发布会的重点，玄戒 O3 希望实现的是 AI 原生芯片的概念，AI 能力将不仅体现在端侧 AI，同时也涉及到硬件级超分、夜景降噪等当前主要依赖 NPU 的全链路场景。 同时这场沟通会还有另两个主角，是两颗没有公布跑分、暂时也装不进手机的芯片。 3 颗芯片构成了小米今年的芯片阵容｜图片来源：微博 要看懂它，得先回答一个问题：五年、210 亿花下去，小米造芯，追求的平台早已不只是手机。 小米自研芯片全产品系列｜图片来源：极客公园 01 烟火与信号 与外界期待的一样，「超大杯」玄戒 O3 是小米给最高端产品准备的旗舰 SoC，3nm 工艺，240",
-    "url": "http://www.geekpark.net/news/369302",
-    "published": "Mon, 24 Aug 2026 23:34:23 +0800",
+    "source": "爱范儿",
+    "title": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+    "summary": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Wed, 02 Sep 2026 07:31:39 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-02"
@@ -485,6 +525,26 @@
     "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
     "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
     "published": "Tue, 01 Sep 2026 15:51:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi sets September 7 launch for 18 Fold foldable phone",
+    "summary": "Xiaomi has scheduled its autumn flagship product event for 7 p.m. Beijing time on Sept. 7, where it is expected to launch the Xiaomi 18 Fold foldable phone, the Xiaomi Pad 9 Pro Max tablet and three Sky Nomad extended-range SUVs. The Xiaomi 18 Fold is expected to debut the company’s Xring O3 flagship AI […]",
+    "url": "https://technode.com/2026/09/02/xiaomi-september-7-launch-18-fold-foldable-phone/",
+    "published": "Wed, 02 Sep 2026 07:31:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Unitree employees reportedly describe founder-led management and high internal pressure",
+    "summary": "Current and former Unitree employees have reportedly described a tightly centralized management style and a demanding work environment at the Chinese robotics company. Accounts circulating online alleged that expenses above RMB100 required approval from CEO Wang Xingxing and that he was closely involved in product details. The reports also described strict confidentiality requirements and demanding […]",
+    "url": "https://technode.com/2026/09/02/unitree-employees-reportedly-describe-founder-led-management-high-internal-pressure/",
+    "published": "Wed, 02 Sep 2026 07:13:14 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-02"
@@ -650,41 +710,11 @@
     "fetchedAt": "2026-09-02"
   },
   {
-    "source": "TechNode",
-    "title": "Xiaomi’s Xring O3 chip hides a 60-micron ‘OK’ gesture",
-    "summary": "Xiaomi founder Lei Jun has revealed a hidden detail inside the company’s Xring O3 chip. A microscope image shows a tiny “OK” hand gesture etched into the chip, measuring just 60 micrometers across. Lei said the symbol represents “everything is OK.” Xring O3 was unveiled on Aug. 24 as Xiaomi’s flagship AI smartphone SoC. Xiaomi […]",
-    "url": "https://technode.com/2026/08/25/xiaomis-xring-o3-chip-hides-a-60-micron-ok-gesture/",
-    "published": "Tue, 25 Aug 2026 06:50:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-02"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance launches Doubao Work with Feishu integration and 30-day free access",
-    "summary": "ByteDance has formally launched Doubao Work, a new productivity-focused AI agent and product brand. The agent can break down user goals, call tools and continue working through complex tasks. It is integrated with Feishu and can use enterprise context to handle documents, spreadsheets, presentations and other office workflows. Users who download the desktop client or […]",
-    "url": "https://technode.com/2026/08/25/bytedance-launches-doubao-work-with-feishu-integration-and-30-day-free-access/",
-    "published": "Tue, 25 Aug 2026 06:41:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-02"
-  },
-  {
-    "source": "TechNode",
-    "title": "XPeng’s robotics unit raises over $900m at a $6.3bn valuation",
-    "summary": "XPeng said in an announcement that its robotics business has entered share purchase agreements with multiple investors to raise more than $900 million at a post-money valuation above $6.3 billion. The round is led by IDG Capital, with participation from Gaorong Ventures and strategic investment from Tencent and Alibaba. The funding will support humanoid robot […]",
-    "url": "https://technode.com/2026/08/25/xpengs-robotics-unit-raises-over-900m-at-a-6-3bn-valuation/",
-    "published": "Tue, 25 Aug 2026 06:20:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-02"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei sets Sept. 7 launch for new tri-fold phone",
-    "summary": "Huawei has scheduled a Sept. 7 event for a new tri-fold phone, according to an announcement report. The event is titled “HarmonyOS 7 | HUAWEI Mate XT 2 and All-Scenario New Product Launch.” Huawei has not yet disclosed the phone’s specifications or confirmed whether the device will use the Mate XT 2 name in its […]",
-    "url": "https://technode.com/2026/08/25/huawei-sets-sept-7-launch-for-new-tri-fold-phone/",
-    "published": "Tue, 25 Aug 2026 06:17:34 +0000",
+    "source": "The Verge",
+    "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
+    "summary": "Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the recently launched XPS 13 and offer another affordable laptop option as […]",
+    "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+    "published": "2026-09-02T03:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-02"
@@ -700,11 +730,11 @@
     "fetchedAt": "2026-09-02"
   },
   {
-    "source": "The Verge",
-    "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week’",
-    "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the […]",
-    "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
-    "published": "2026-09-01T14:24:16-04:00",
+    "source": "Hacker News",
+    "title": "AI startup Cognition set to raise around US$1B at a US$47B value",
+    "summary": "Article URL: https://theedgemalaysia.com/node/816527 Comments URL: https://news.ycombinator.com/item?id=49533052 Points: 2 # Comments: 0",
+    "url": "https://theedgemalaysia.com/node/816527",
+    "published": "Wed, 02 Sep 2026 07:40:57 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-02"
@@ -712,7 +742,7 @@
   {
     "source": "Hacker News",
     "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/ Comments URL: https://news.ycombinator.com/item?id=49529021 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/ Comments URL: https://news.ycombinator.com/item?id=49529021 Points: 4 # Comments: 0",
     "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
     "published": "Tue, 01 Sep 2026 22:20:39 +0000",
     "lang": "en",
@@ -772,7 +802,7 @@
   {
     "source": "Hacker News",
     "title": "California legislature passes a major local news funding bill",
-    "summary": "Article URL: https://www.niemanlab.org/2026/08/california-passes-a-major-local-news-funding-bill-if-you-hire-more-people-you-get-more-money/ Comments URL: https://news.ycombinator.com/item?id=49520378 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.niemanlab.org/2026/08/california-passes-a-major-local-news-funding-bill-if-you-hire-more-people-you-get-more-money/ Comments URL: https://news.ycombinator.com/item?id=49520378 Points: 2 # Comments: 0",
     "url": "https://www.niemanlab.org/2026/08/california-passes-a-major-local-news-funding-bill-if-you-hire-more-people-you-get-more-money/",
     "published": "Tue, 01 Sep 2026 11:08:57 +0000",
     "lang": "en",
@@ -802,7 +832,7 @@
   {
     "source": "Hacker News",
     "title": "Congress to vote on denying federal funding to universities that boycott Israel",
-    "summary": "Article URL: https://twitter.com/dylanotes/status/2094229210889965634 Comments URL: https://news.ycombinator.com/item?id=49515596 Points: 27 # Comments: 12",
+    "summary": "Article URL: https://twitter.com/dylanotes/status/2094229210889965634 Comments URL: https://news.ycombinator.com/item?id=49515596 Points: 28 # Comments: 12",
     "url": "https://twitter.com/dylanotes/status/2094229210889965634",
     "published": "Mon, 31 Aug 2026 22:24:39 +0000",
     "lang": "en",
@@ -822,7 +852,7 @@
   {
     "source": "Hacker News",
     "title": "Konrad Zuse Museum shutting down due to lack of funding",
-    "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch) Comments URL: https://news.ycombinator.com/item?id=49511917 Points: 165 # Comments: 80",
+    "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch) Comments URL: https://news.ycombinator.com/item?id=49511917 Points: 165 # Comments: 81",
     "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
     "published": "Mon, 31 Aug 2026 16:52:35 +0000",
     "lang": "en",
@@ -890,44 +920,6 @@
     "fetchedAt": "2026-09-02"
   },
   {
-    "source": "Hacker News",
-    "title": "Help Launch Threat Modeling 2nd Edition",
-    "summary": "Article URL: https://shostack.org/resources/help-launch-threatmodeling-designing-for-security-in-an-ai-world-2nd-edition Comments URL: https://news.ycombinator.com/item?id=49509542 Points: 1 # Comments: 0",
-    "url": "https://shostack.org/resources/help-launch-threatmodeling-designing-for-security-in-an-ai-world-2nd-edition",
-    "published": "Mon, 31 Aug 2026 13:27:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-02"
-  },
-  {
-    "source": "微博",
-    "title": "#数亿人冲破信息茧房感觉不舒服#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23数亿人冲破信息茧房感觉不舒服%23",
-    "published": "2026-09-02",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-02",
-    "meta": {
-      "hotValue": 353506,
-      "rank": 30
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "为什么 AI 在 win 平台天天都在肘击 powershell？🫪",
-    "summary": "powershell 如此难用吗，大模型都绷不住🫪",
-    "url": "https://www.v2ex.com/t/1238722",
-    "published": 1788254525,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-09-02",
-    "meta": {
-      "replies": 66,
-      "node": "程序员"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "sapientinc/PRAXIST",
     "summary": "Autonomous research system for measurable, computer-executable research.",
@@ -937,8 +929,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 6279,
-      "forks": 523,
+      "stars": 6760,
+      "forks": 558,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -953,8 +945,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 2163,
-      "forks": 218,
+      "stars": 2230,
+      "forks": 226,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -969,7 +961,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 1581,
+      "stars": 1682,
       "forks": 65,
       "language": "Rust",
       "createdDaysAgo": 5
@@ -985,10 +977,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 1371,
-      "forks": 82,
+      "stars": 1432,
+      "forks": 84,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1004,7 +996,7 @@
       "stars": 1229,
       "forks": 91,
       "language": "CSS",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1017,7 +1009,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 1139,
+      "stars": 1142,
       "forks": 210,
       "language": "Python",
       "createdDaysAgo": 5
@@ -1033,8 +1025,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 967,
-      "forks": 150,
+      "stars": 1012,
+      "forks": 156,
       "language": "Markdown",
       "createdDaysAgo": 4
     }
@@ -1049,10 +1041,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-02",
     "meta": {
-      "stars": 891,
-      "forks": 73,
+      "stars": 912,
+      "forks": 74,
       "language": "Python",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "GangTailorUpgrade/undress-service",
+    "summary": "Coomer Tool",
+    "url": "https://github.com/GangTailorUpgrade/undress-service",
+    "published": "2026-08-31T00:12:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-02",
+    "meta": {
+      "stars": 886,
+      "forks": 1,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   }
 ]
