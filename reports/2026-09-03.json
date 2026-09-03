@@ -468,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "jordyn-wallace"
+            "linkedin": "toddembleton"
           },
           "careerPage": null,
           "jobListings": []
@@ -1346,7 +1346,7 @@
           "website": "https://kimi.moonshot.cn",
           "emails": [],
           "socials": {
-            "wechat": "QrPanel-CvRlevs2"
+            "wechat": "QrPanel-Bpho-dSA"
           },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
@@ -1893,7 +1893,7 @@
             "name@domain.com",
             "u003esupport@meshy.ai",
             "careers@meshy.ai",
-            "meshy-webapp@v2026.09.02.post",
+            "meshy-webapp@v2026.09.03.post",
             "jane@company.com"
           ],
           "socials": {
@@ -4884,7 +4884,7 @@
           "website": "https://kimi.moonshot.cn",
           "emails": [],
           "socials": {
-            "wechat": "QrPanel-CvRlevs2"
+            "wechat": "QrPanel-Bpho-dSA"
           },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
@@ -6082,9 +6082,13 @@
         "website": {
           "website": "https://nexus.1982video.cn/",
           "emails": [],
-          "socials": {},
-          "careerPage": null,
-          "jobListings": []
+          "socials": {
+            "wechat": "_oauth_enabled"
+          },
+          "careerPage": "https://nexus.1982video.cn/careers",
+          "jobListings": [
+            "nexus(微信号：jjxxcc987) - AI API Gateway"
+          ]
         },
         "github": {},
         "hiring": [],

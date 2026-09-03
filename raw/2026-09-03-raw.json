@@ -111,40 +111,80 @@
   },
   {
     "source": "钛媒体",
-    "title": "人形机器人的天花板不在算法，在热力学",
-    "summary": "端侧大模型推理35–40W、流畅控制需200W+，电池越重越费电，人形机器人卡死在\"能用-重量-散热\"的物理内环。工厂平面工位，可拆掉双足；换个环境，腿无可替代。",
-    "url": "https://www.tmtpost.com/8126785.html",
-    "published": "Thu, 03 Sep 2026 11:41:35 +0800",
+    "title": "半年狂揽57亿，95后创业做AI3D，曾是商汤、MiniMax元老",
+    "summary": "VAST完成30亿元B轮和B+轮融资。",
+    "url": "https://www.tmtpost.com/8127562.html",
+    "published": "Thu, 03 Sep 2026 18:12:05 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-03"
   },
   {
     "source": "钛媒体",
-    "title": "国产芯片的两场豪赌：寒武纪买确定性，摩尔线程买时间",
-    "summary": "以盈利为界，半年报讲述着同一个行业里两种出身、两种战略、两种面对极限挑战的对策。学术派的厚积与产业派的快攻，正在共同谱写国产AI芯片的未来。",
-    "url": "https://www.tmtpost.com/8126347.html",
-    "published": "Thu, 03 Sep 2026 11:37:05 +0800",
+    "title": "“大”模型向左，“Flash”向右：国内外开卷轻量化背后的商业清算",
+    "summary": "大模型向左，继续探索通用人工智能的智力极限；Flash向右，向下扎根进入千行百业的生产线。",
+    "url": "https://www.tmtpost.com/8127474.html",
+    "published": "Thu, 03 Sep 2026 18:00:32 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-03"
   },
   {
     "source": "钛媒体",
-    "title": "河图探海，一家天使轮公司的“深海华为”野心",
-    "summary": "水下机器人跑出“新物种”。",
-    "url": "https://www.tmtpost.com/8126794.html",
-    "published": "Thu, 03 Sep 2026 10:53:00 +0800",
+    "title": "碧澄能源C1轮融资背后，天合、阿特斯、中联基金等已纷纷入局，新能源资产证券化从“首单”走向“批量”",
+    "summary": "碧澄能源完成融资，新能源资产证券化行业通路成型。",
+    "url": "https://www.tmtpost.com/8126384.html",
+    "published": "Thu, 03 Sep 2026 17:46:25 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-03"
   },
   {
     "source": "钛媒体",
-    "title": "一枚估值160亿美元的戒指，正被诉讼和质疑包围",
-    "summary": "OuraRing 、智能戒指、可穿戴设备、消费科技、硬件订阅、AI健康、IPO。",
-    "url": "https://www.tmtpost.com/8126704.html",
-    "published": "Thu, 03 Sep 2026 09:59:42 +0800",
+    "title": "FTC 打亚马逊不是反垄断，是一场用\"无刻度标尺\"收编算法时代的阳谋",
+    "summary": "全网误读 FTC 诉亚马逊为反垄断。真正武器是《联邦贸易委员会法》第5条——1914 年故意不定义\"骗\"，无需证明垄断，只比对话术与系统。对出海企业，这是继数据合规、内容合规之后，第三种必须计入 TCO 的美国成本。",
+    "url": "https://www.tmtpost.com/8127161.html",
+    "published": "Thu, 03 Sep 2026 16:47:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "极客公园",
+    "title": "成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了",
+    "summary": "头图来源：Fullive.ai 一家成立几个月、第一款产品即将量产的 AI 硬件公司，已经连续融了三轮：高瓴连续三轮加注，智元机器人等机构先后进入股东名单；到了今年 7 月，招商局创投又领投了它的新一轮融资。 这家公司叫 Fullive.ai，创始人郑昊本科就读于清华数学系，此后一路跨过生物统计、因果推断、AI、医学和硬科技投资；联合创始人韦骁龙来自北大计算机，此前曾在华为、荣耀负责消费电子产品。团队里还有参与过华为手环、WHOOP 等穿戴设备的硬件人员，以及来自百度、大疆等公司的算法和商业化老兵。 Fullive.ai 把第一款产品放在了床头。 它叫 Somni，是一款面向高压脑力人群的睡眠硬件。外形上，它不像传统健康硬件，更像一个安静的床头设备：没有屏幕、不需要佩戴，也不要求用户在睡前再学习一套交互。通过毫米波雷达、麦克风阵列和环境传感器，感知人在夜里的呼吸、心率、体动以及卧室环境，再用声音、光线、气味等神经系统调节方式帮助用户更快入睡、减少夜间醒来，并在早晨完成自然唤醒。 睡眠当然已经是一个拥挤的硬件市场。 手环、指环和床垫越来越擅长告诉人们昨晚睡得怎么样，助眠灯、耳机和眼罩也在",
+    "url": "http://www.geekpark.net/news/369768",
+    "published": "Thu, 03 Sep 2026 14:05:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "极客公园",
+    "title": "智谱和 MiniMax，把大模型做成了两种生意",
+    "summary": "头图来源：视觉中国 两家中国大模型公司，在五天里先后交出了上市后的首份中报。 MiniMax 先出：上半年收入 1.17 亿美元，同比增长 283%；8 月 ARR 超过 8 亿美元。智谱随后公布：上半年收入 9.54 亿元人民币，同比增长近 400%；8 月 ARR 达到 16 亿美元。 如果只看 ARR，结论似乎很简单：智谱更高，MiniMax 紧随其后；两家公司都在讲 Token 调用量暴涨、企业客户增加、模型能力开始换来收入。 把数字放回财报，事情会变得复杂一些。 智谱上半年确认收入约 1.42 亿美元，MiniMax 为 1.17 亿美元，两者实际收入规模相差不远；两家的经调整亏损也几乎相同，都接近 3 亿美元。ARR 代表某个时点的收入速度，但无法直接替代收入、毛利和现金流。 两家公司都还没有走到盈利那一页。两份中报里，「期内亏损收窄」都受到上市后优先股转换带来的会计因素影响；如果剥开这层，研发和经营投入其实仍然在高位。 不一样的是两家公司正在把模型卖向哪里。 智谱的 API 收入已经占到总收入的 86.5%，它开始把模型推到 Coding、网安和长程任务的工作现场；Min",
+    "url": "http://www.geekpark.net/news/369775",
+    "published": "Thu, 03 Sep 2026 13:54:42 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "极客公园",
+    "title": "当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向",
+    "summary": "作者｜Cynthia 编辑｜郑玄 2026 年夏天，林氏家居想卖一张布艺床。 然后，阿里妈妈万相点睛给它找到了一群电竞玩家。并建议他们投放那些搜索过「电竞房布置」「游戏房改造」「RGB 灯带」「二次元痛房」的用户。 对于林氏家居这样一家诞生于互联网、长期依赖数据经营的头部品牌来说，这是个让人匪夷所思的抉择。 过去，林氏家居品牌已经积累了超过 5500 万全平台粉丝、上万款在售 SKU 以及一千余家线下门店，是行业里公认的爆款制造机。 而在传统的匹配逻辑下，一张床最自然的消费者应该来自装修、新婚、换房，以及近期购买过家电家居的人。因此， 广告系统用预设的标签匹配受众，商家投流选择装修、家具、地板之类的关联词汇，就成为了团队刻在肌肉中的记忆。相应的，一个搜索电竞房布置的年轻人，怎么看都不像一张床最优先应该争取的消费者。 但常识并不能在一个存量市场中带来增长。 而 万相点睛 看到的并不是「电竞」这个标签，而是标签背后的一整套消费意图：它发现，这群年轻人为了获得更好的游戏体验，本身就有很强的消费意愿：他们会购买人体工学椅、4K 显示器、RGB 氛围灯，把自己的房间改造成一个更舒服、更沉浸、也更",
+    "url": "http://www.geekpark.net/news/369777",
+    "published": "Thu, 03 Sep 2026 13:30:32 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "极客公园",
+    "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
+    "summary": "头图来源：视觉中国 前段时间，Anthropic 发布了 Model Hardware Standard，尝试给 AI Agent 建立一套与硬件沟通的通用语言。接入这套标准后，显微镜、机械臂等不同厂商、不同接口的设备，可以被 Agent 发现、理解和调用。 这件事指向了 AI 行业正在发生的一次变化。过去一年，竞争主要围绕模型的推理、生成和多模态能力展开；如今，Agent 开始走出聊天窗口，进入实验室、工厂和企业现场。行业的问题随之向下移动：模型已经足够聪明之后，谁来连接工具、硬件、数据和任务？ 9 月 2 日，腾讯 WorkBuddy 宣布面向更多伙伴开放合作。通达信、广发证券、北大法宝、腾讯 SSV 教师助手、微盟、北森、云帐房、帆软等应用与软件伙伴进入生态；Plaud、Rokid、影石、优篮子、科大讯飞、安克、猛玛、京造等硬件伙伴，也共同构成了 WorkBuddy 的生态版图。 一款 AI 产品为什么要同时连接专业软件、行业服务和多种硬件？这份名单勾勒出的，其实是 Agent 即将面对的完整工作现场：专业软件提供行业知识和业务动作，智能硬件提供声音、图像与移动中的现场信息，Ag",
+    "url": "http://www.geekpark.net/news/369767",
+    "published": "Thu, 03 Sep 2026 12:52:10 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-03"
@@ -400,46 +440,6 @@
     "fetchedAt": "2026-09-03"
   },
   {
-    "source": "极客公园",
-    "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
-    "summary": "头图来源：OJO 官网 极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。 这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与剪映相关产品与业务。 在外界看来，她在剪映的经历是理解这次创业的重要背景：经历了一款工具产品从 0 到 1、再到大规模增长后寻找新曲线的完整过程。而当 Claude Code、Codex、Cursor 等 coding agent 让「做出一个产品」越来越容易，她把注意力转向了产品生产链路中另一处尚未被充分解决的断点——设计判断，以及这种判断如何在产品、设计与开发之间连续传递。 OJO 将自己定义为「Design Agent Team Workspace」。用户可以在一个工作台中，用自然语言完成产品思考、界面设计、迭代和代码交付。它所要回答的问题是：当 UI 生成、设计编辑和设计转代码逐渐普及后，一层连接设计与开发的工作台，为什么仍值得成为独立产品？ 张琪智的答案是，模型",
-    "url": "http://www.geekpark.net/news/369395",
-    "published": "Wed, 26 Aug 2026 15:10:12 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "极客公园",
-    "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
-    "summary": "苹果突袭发布 M6 与 M5 Ultra 芯片，新 Mac mini、Mac Studio 全面押注本地 AI 8 月 25 日，苹果未举办发布会，直接上架了两款全新自研芯片 M6 与 M5 Ultra，以及搭载它们的新款 Mac mini 与新款 Mac Studio，并即刻开启预购。M6 是苹果首颗采用 2 纳米工艺的芯片，配备 12 核 CPU 与 12 核 GPU，苹果称其拥有「全球最快的单线程性能」。 根据苹果介绍，配备 M6 芯片后，Mac mini 的 AI 性能最高可提升 4 倍，存储速度与图形处理速度提升 2 倍，CPU 性能提升 40%。而搭载 M5 Pro 芯片的 Mac mini 则提供更专业的性能。 M5 Ultra 是此次更新的真正主角。它采用四晶粒（quad-die）3nm 架构，是苹果芯片史上首次使用该设计，晶粒间互联带宽达 4.4TB/s，最高提供 36 核 CPU 与 80 核 GPU，支持最高 512GB 统一内存，内存带宽达 1.2TB/s，AI 性能最高提升 4.3 倍。 新款 Mac Studio 的 M5 Max 版本起售价 2,499 美",
-    "url": "http://www.geekpark.net/news/369355",
-    "published": "Wed, 26 Aug 2026 08:10:18 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "极客公园",
-    "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
-    "summary": "原来关注 App 被打开的次数，现在关注的是服务被调用的次数。 作者｜张勇毅 编辑｜靖宇 对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天的新增还剩多少，七日留存掉到了哪条线，还有那一大批装了就再没打开过的用户——你的图标被留在第四屏，和几十个 App 挤在一起。 下午改代码。一个编译错误卡了半小时，AI 给的写法改了三遍还是不对，因为它根本没见过多少这个平台的代码。 半夜被告警叫醒。线上崩溃率抬头，后台堆了几千条日志，没有一条直接告诉你为什么。 被找到、被用好、被修好——这三件事和操作系统的关系，过去十年几乎没变过：系统给你一个图标位、一套 SDK、一份崩溃日志，剩下的靠自己。 变化发生在 AI 进入系统层之后：操作系统第一次有机会替开发者接管这三件事的一部分，而不只是提供工具。HarmonyOS 7 是做得比较完整的一个样本，8 月 21 日 HDD 深圳站的 AI 专场把它拆成了五个议题。这篇文章不复述议题，只回答一个问题： 对一个应用开发者来说，这三件事现在分别变成了什么样，以及哪些还没变。 应用上线之后的三件事，以及 HarmonyOS 7 对应给出的能",
-    "url": "http://www.geekpark.net/news/369356",
-    "published": "Tue, 25 Aug 2026 23:52:42 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "极客公园",
-    "title": "苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」",
-    "summary": "「内存涨价狂潮」，专门吃掉便宜的那一档 作者｜张勇毅 编辑｜靖宇 只要是今年持续有关注 AI 软件领域的人，你一定不会忘记 Mac mini 在其中的「江湖」地位：因为 OpenClaw 爆火，这类工具要一台机器长期开着跑，因此量大管饱的 Mac mini M4 成为了版本答案，即使它已经是 2024 年的产品，但依旧没有阻挡大家的热情，最终将其捧上龙虾神机的宝座。 半年过去，北京时间 8 月 25 日晚，苹果突然更新了 Mac mini 和 Mac Studio。国行 Mac mini 6999 元起，Mac Studio 19999 元起。 两台机器，一台每个配置都涨了 2500 元，另一台一分没涨。 新款 Mac mini 有两个版本。入门那版用 M6，苹果说这是它第一颗 2nm 制程的芯片，12 核 CPU、12 核 GPU，内存 16GB 起，国行 6999 元起；另一版用今年 3 月已经发布过的 M5 Pro，最高 18 核 CPU、20 核 GPU，内存 24GB 起，国行 12999 元起。 按苹果自己给的口径，M6 对比 M4，AI 性能快 4 倍、CPU 快 40%",
-    "url": "http://www.geekpark.net/news/369354",
-    "published": "Tue, 25 Aug 2026 22:46:38 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
     "source": "爱范儿",
     "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
     "summary": "Gemini 圣质如初 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -525,6 +525,36 @@
     "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
     "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
     "published": "Wed, 02 Sep 2026 14:03:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "TechNode",
+    "title": "Nubia’s Doubao-powered AI agent phone clears network access approval",
+    "summary": "Nubia’s NaviX Ultra smartphone received network access approval in China on September 1 and is scheduled to go on sale this month. The phone was developed with ByteDance’s Doubao team and will include the Doubao Phone Assistant. The approval moves the device from the technical-preview stage toward commercial launch. The phone is designed to let […]",
+    "url": "https://technode.com/2026/09/03/nubias-doubao-powered-ai-agent-phone-clears-network-access-approval/",
+    "published": "Thu, 03 Sep 2026 06:25:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "TechNode",
+    "title": "Manus resumes independent operations after Meta deal collapses",
+    "summary": "Manus has resumed independent operations under its original founding team after Meta’s proposed acquisition of the company fell through. Manus said the transition involved backing up and restoring data before the company returned to normal operations. The startup is now operating as an independent agent-focused AI company. Manus had previously attracted major investors including Tencent, […]",
+    "url": "https://technode.com/2026/09/03/manus-resumes-independent-operations-after-meta-deal-collapses/",
+    "published": "Thu, 03 Sep 2026 06:20:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-03"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent opens WorkBuddy to third-party developers with 100+ partners",
+    "summary": "Tencent has launched an open platform for WorkBuddy, making its AI-agent capabilities available to third-party developers, hardware makers and industry applications. More than 100 software and hardware partners have joined the platform, including Weimob, GF Securities, Rokid and iFlytek. The first group includes more than 30 software providers and nine co-branded smart devices. The move […]",
+    "url": "https://technode.com/2026/09/03/tencent-opens-workbuddy-to-third-party-developers-with-100-partners/",
+    "published": "Thu, 03 Sep 2026 06:15:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-03"
@@ -680,248 +710,34 @@
     "fetchedAt": "2026-09-03"
   },
   {
-    "source": "TechNode",
-    "title": "China plans digital IDs for end-of-life EV batteries",
-    "summary": "China’s Ministry of Industry and Information Technology plans to draft administrative regulations on end-of-life EV batteries and introduce a digital identity system to track batteries from production and use through recycling, Vice Minister Xin Guobin said on Aug. 26. The ministry will also carry out joint enforcement campaigns to regulate battery recycling and improve traceability. […]",
-    "url": "https://technode.com/2026/08/26/china-plans-digital-ids-for-end-of-life-ev-batteries/",
-    "published": "Wed, 26 Aug 2026 06:42:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "TechNode",
-    "title": "LYNOOK turns AI companions from solo chats into shared memory-rich worlds",
-    "summary": "While most AI companion products are still trying to retain users through simple one-on-one chat interactions, LYNOOK Technology is taking a completely different approach to break the industry curse of a product lifecycle of only five days. This young tech company, founded in Nanshan, Shenzhen in 2026, carries distinct ACG (Anime, Comics and Games) genes […]",
-    "url": "https://technode.com/2026/08/25/lynook-turns-ai-companions-from-solo-chats-into-shared-memory-rich-worlds/",
-    "published": "Tue, 25 Aug 2026 08:49:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "TechNode",
-    "title": "Pinduoduo advances first-party brand strategy and plans to co-create products with manufacturers",
-    "summary": "Pinduoduo’s co-chairman and co-CEO Zhao Jiazhen said the company’s first-party brand business will take longer than initially expected to launch, while reaffirming it as a long-term supply-chain strategy. The company plans to work with manufacturers on product development and participate in product definition, research and development, quality standards and market testing. First-party products will coexist […]",
-    "url": "https://technode.com/2026/08/25/pinduoduo-advances-first-party-brand-strategy-and-plans-to-co-create-products-with-manufacturers/",
-    "published": "Tue, 25 Aug 2026 06:56:15 +0000",
+    "source": "The Verge",
+    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrolyte typically found in lithium-ion […]",
+    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+    "published": "2026-09-03T04:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-03"
   },
   {
     "source": "The Verge",
-    "title": "Uber beats Waymo as first to launch robotaxis in London",
-    "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. […]",
-    "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-    "published": "2026-09-02T19:00:00-04:00",
+    "title": "Anker’s new printer works directly on fabrics",
+    "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new […]",
+    "url": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+    "published": "2026-09-03T03:30:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-03"
   },
   {
     "source": "The Verge",
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "published": "2026-09-02T16:11:40-04:00",
+    "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+    "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in Berlin this week, including […]",
+    "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+    "published": "2026-09-03T03:30:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "The Verge",
-    "title": "1Password wades into a right-wing mess after funding a Linux project",
-    "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular password manager is now a \"distinguished corporate patron\" of Omacom, the […]",
-    "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-    "published": "2026-09-02T14:48:14-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-    "summary": "Article URL: https://theyfell.com/ Comments URL: https://news.ycombinator.com/item?id=49543617 Points: 9 # Comments: 7",
-    "url": "https://theyfell.com/",
-    "published": "Wed, 02 Sep 2026 22:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets ",
-    "url": "https://news.ycombinator.com/item?id=49543530",
-    "published": "Wed, 02 Sep 2026 22:36:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260901010705.htm Comments URL: https://news.ycombinator.com/item?id=49543404 Points: 1 # Comments: 0",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
-    "published": "Wed, 02 Sep 2026 22:22:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber drivers launch European class action over AI algorithm",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm Comments URL: https://news.ycombinator.com/item?id=49541544 Points: 4 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-    "published": "Wed, 02 Sep 2026 19:54:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch",
-    "summary": "Article URL: https://maniquest.com Comments URL: https://news.ycombinator.com/item?id=49538883 Points: 1 # Comments: 0",
-    "url": "https://maniquest.com",
-    "published": "Wed, 02 Sep 2026 16:41:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tradeviction – Long or short startup conviction",
-    "summary": "Article URL: https://tradeviction.com/about Comments URL: https://news.ycombinator.com/item?id=49538293 Points: 1 # Comments: 1",
-    "url": "https://tradeviction.com/about",
-    "published": "Wed, 02 Sep 2026 16:01:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "summary": "Article URL: https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/ Comments URL: https://news.ycombinator.com/item?id=49537864 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "published": "Wed, 02 Sep 2026 15:34:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tesla Sets a Launch Date for the Cybercab",
-    "summary": "Article URL: https://gizmodo.com/tesla-finally-sets-a-launch-date-for-the-cybercab-2000802484 Comments URL: https://news.ycombinator.com/item?id=49536933 Points: 1 # Comments: 0",
-    "url": "https://gizmodo.com/tesla-finally-sets-a-launch-date-for-the-cybercab-2000802484",
-    "published": "Wed, 02 Sep 2026 14:35:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch [Productivity]",
-    "summary": "Article URL: https://www.maniquest.com Comments URL: https://news.ycombinator.com/item?id=49535598 Points: 2 # Comments: 4",
-    "url": "https://www.maniquest.com",
-    "published": "Wed, 02 Sep 2026 13:04:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI startup Cognition set to raise around US$1B at a US$47B value",
-    "summary": "Article URL: https://theedgemalaysia.com/node/816527 Comments URL: https://news.ycombinator.com/item?id=49533052 Points: 2 # Comments: 0",
-    "url": "https://theedgemalaysia.com/node/816527",
-    "published": "Wed, 02 Sep 2026 07:40:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/ Comments URL: https://news.ycombinator.com/item?id=49529021 Points: 4 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-    "published": "Tue, 01 Sep 2026 22:20:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "summary": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I buil",
-    "url": "https://www.norirobotics.com/",
-    "published": "Tue, 01 Sep 2026 17:35:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia's controversial DLSS 5 will launch September 3",
-    "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now Comments URL: https://news.ycombinator.com/item?id=49523527 Points: 3 # Comments: 0",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now",
-    "published": "Tue, 01 Sep 2026 15:43:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I gathered 992 posts about my startup idea. 7 were about my idea",
-    "summary": "Article URL: https://github.com/gokulsai1004-create/painpoint-finder Comments URL: https://news.ycombinator.com/item?id=49521697 Points: 1 # Comments: 0",
-    "url": "https://github.com/gokulsai1004-create/painpoint-finder",
-    "published": "Tue, 01 Sep 2026 13:24:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Textlog after launch, 1218 commits later",
-    "summary": "Article URL: https://textlog.cc/blog/recap-v2 Comments URL: https://news.ycombinator.com/item?id=49521125 Points: 1 # Comments: 0",
-    "url": "https://textlog.cc/blog/recap-v2",
-    "published": "Tue, 01 Sep 2026 12:36:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "California legislature passes a major local news funding bill",
-    "summary": "Article URL: https://www.niemanlab.org/2026/08/california-passes-a-major-local-news-funding-bill-if-you-hire-more-people-you-get-more-money/ Comments URL: https://news.ycombinator.com/item?id=49520378 Points: 2 # Comments: 0",
-    "url": "https://www.niemanlab.org/2026/08/california-passes-a-major-local-news-funding-bill-if-you-hire-more-people-you-get-more-money/",
-    "published": "Tue, 01 Sep 2026 11:08:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How to Build a Startup with AI",
-    "summary": "Article URL: https://contextgoblin.com/blog/how-to-build-a-startup-with-ai Comments URL: https://news.ycombinator.com/item?id=49518936 Points: 2 # Comments: 0",
-    "url": "https://contextgoblin.com/blog/how-to-build-a-startup-with-ai",
-    "published": "Tue, 01 Sep 2026 07:10:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-03"
-  },
-  {
-    "source": "V2EX",
-    "title": "三十多岁，即将从大厂离职，打算暂时不找工作，用一年尝试 App 出海和自媒体，大家帮忙看下这个规划是否合理",
-    "summary": "在宇宙厂做研发第六年，目前即将离职。 三十多岁，已经算大龄程序员，而且这两年明显感觉自己卷不动了，身体和精神都极度劳累。 之前一直对 App 出海和自媒体感兴趣，工作期间太忙，没法投入时间尝试。接下来想给自己一年时间，暂时不找工作，在 App 出海和自媒体两个方式做做尝试，把找需求、做产品和内容创作这些事情认真跑一遍。 自媒体方面，目前打算主要尝试短视频形式，前期积累粉丝，后期靠伙伴计划和广告获取收入。 App 出海，依靠 AI 来做开发，定位为满足长尾需求，在 X 平台或 Tiktok 来获客。 另外交代一下目前的经济情况。扣掉房贷等负债后，手里的现金和股票加起来有",
-    "url": "https://www.v2ex.com/t/1238945",
-    "published": 1788333657,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-09-03",
-    "meta": {
-      "replies": 94,
-      "node": "职场话题"
-    }
   },
   {
     "source": "GitHub新星",
@@ -933,8 +749,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 2294,
-      "forks": 239,
+      "stars": 2328,
+      "forks": 245,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -949,10 +765,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 1653,
-      "forks": 97,
+      "stars": 1753,
+      "forks": 104,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -968,7 +784,7 @@
       "stars": 1230,
       "forks": 91,
       "language": "CSS",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -981,10 +797,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 1124,
-      "forks": 181,
+      "stars": 1141,
+      "forks": 184,
       "language": "Markdown",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "anthropics/commerce-agents",
+    "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "url": "https://github.com/anthropics/commerce-agents",
+    "published": "2026-09-01T12:30:12Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-03",
+    "meta": {
+      "stars": 1081,
+      "forks": 164,
+      "language": "Python",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -997,7 +829,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 943,
+      "stars": 971,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 3
@@ -1013,26 +845,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 689,
-      "forks": 39,
+      "stars": 815,
+      "forks": 41,
       "language": "JavaScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "chrisgreg/boop",
-    "summary": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
-    "url": "https://github.com/chrisgreg/boop",
-    "published": "2026-08-28T15:38:33Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-03",
-    "meta": {
-      "stars": 688,
-      "forks": 32,
-      "language": "Go",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -1045,26 +861,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 637,
-      "forks": 4,
+      "stars": 791,
+      "forks": 5,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "jlrouzies-fr/DLSS5-Feeder",
-    "summary": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
-    "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
-    "published": "2026-08-29T19:52:37Z",
+    "title": "chrisgreg/boop",
+    "summary": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "url": "https://github.com/chrisgreg/boop",
+    "published": "2026-08-28T15:38:33Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 609,
-      "forks": 28,
-      "language": "C++",
-      "createdDaysAgo": 4
+      "stars": 691,
+      "forks": 32,
+      "language": "Go",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1077,26 +893,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 599,
-      "forks": 124,
+      "stars": 669,
+      "forks": 135,
       "language": "Python",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "anthropics/commerce-agents",
-    "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-    "url": "https://github.com/anthropics/commerce-agents",
-    "published": "2026-09-01T12:30:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-03",
-    "meta": {
-      "stars": 597,
-      "forks": 95,
-      "language": "Python",
-      "createdDaysAgo": 1
     }
   },
   {
@@ -1109,10 +909,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 597,
+      "stars": 663,
       "forks": 5,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "jlrouzies-fr/DLSS5-Feeder",
+    "summary": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+    "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "published": "2026-08-29T19:52:37Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-03",
+    "meta": {
+      "stars": 630,
+      "forks": 28,
+      "language": "C++",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1125,8 +941,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-03",
     "meta": {
-      "stars": 372,
-      "forks": 67,
+      "stars": 403,
+      "forks": 71,
       "language": "Python",
       "createdDaysAgo": 5
     }
