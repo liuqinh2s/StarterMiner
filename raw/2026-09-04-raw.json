@@ -491,6 +491,36 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+    "published": "Fri, 04 Sep 2026 17:52:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "What will Apple’s John Ternus era look like?",
+    "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "published": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Feds launch investigation into Tesla’s Cybercab deployment",
+    "summary": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
+    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+    "published": "Fri, 04 Sep 2026 12:01:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-04"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Crusoe reportedly raises $3B at a $30B valuation",
     "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
     "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -540,471 +570,11 @@
     "fetchedAt": "2026-09-04"
   },
   {
-    "source": "TechCrunch",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-    "summary": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
-    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-    "published": "Thu, 03 Sep 2026 16:42:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-    "summary": "Users can search for emails or draft documents using the new conversational feature.",
-    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-    "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Volunteer at TechCrunch Founder Summit in Boston",
-    "summary": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get […]",
-    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-    "published": "Thu, 03 Sep 2026 13:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi’s SU7 Ultra test car points to a more performance-focused model",
-    "summary": "A camouflaged Xiaomi SU7 Ultra test car has appeared in China with a much larger rear wing and other signs of a more aggressive aerodynamic design. The vehicle may be developed as a limited-edition performance model called the SU7 Ultra Extreme. The company has not confirmed the model name, body style, power output or launch […]",
-    "url": "https://technode.com/2026/09/04/xiaomis-su7-ultra-test-car-points-to-a-more-performance-focused-model/",
-    "published": "Fri, 04 Sep 2026 05:53:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi signs first European car dealers ahead of planned overseas launch",
-    "summary": "Xiaomi has signed agreements with its first group of European car dealers at IFA 2026 in Berlin, beginning preparations for the company’s planned overseas sales. The agreements are intended to establish sales channels for Xiaomi vehicles in Europe. Xiaomi has previously said it plans to begin exporting its cars in 2027, starting with developed markets […]",
-    "url": "https://technode.com/2026/09/04/xiaomi-signs-first-european-car-dealers-ahead-of-planned-overseas-launch/",
-    "published": "Fri, 04 Sep 2026 05:50:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Nubia’s Doubao-powered AI agent phone clears network access approval",
-    "summary": "Nubia’s NaviX Ultra smartphone received network access approval in China on September 1 and is scheduled to go on sale this month. The phone was developed with ByteDance’s Doubao team and will include the Doubao Phone Assistant. The approval moves the device from the technical-preview stage toward commercial launch. The phone is designed to let […]",
-    "url": "https://technode.com/2026/09/03/nubias-doubao-powered-ai-agent-phone-clears-network-access-approval/",
-    "published": "Thu, 03 Sep 2026 06:25:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Manus resumes independent operations after Meta deal collapses",
-    "summary": "Manus has resumed independent operations under its original founding team after Meta’s proposed acquisition of the company fell through. Manus said the transition involved backing up and restoring data before the company returned to normal operations. The startup is now operating as an independent agent-focused AI company. Manus had previously attracted major investors including Tencent, […]",
-    "url": "https://technode.com/2026/09/03/manus-resumes-independent-operations-after-meta-deal-collapses/",
-    "published": "Thu, 03 Sep 2026 06:20:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent opens WorkBuddy to third-party developers with 100+ partners",
-    "summary": "Tencent has launched an open platform for WorkBuddy, making its AI-agent capabilities available to third-party developers, hardware makers and industry applications. More than 100 software and hardware partners have joined the platform, including Weimob, GF Securities, Rokid and iFlytek. The first group includes more than 30 software providers and nine co-branded smart devices. The move […]",
-    "url": "https://technode.com/2026/09/03/tencent-opens-workbuddy-to-third-party-developers-with-100-partners/",
-    "published": "Thu, 03 Sep 2026 06:15:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi sets September 7 launch for 18 Fold foldable phone",
-    "summary": "Xiaomi has scheduled its autumn flagship product event for 7 p.m. Beijing time on Sept. 7, where it is expected to launch the Xiaomi 18 Fold foldable phone, the Xiaomi Pad 9 Pro Max tablet and three Sky Nomad extended-range SUVs. The Xiaomi 18 Fold is expected to debut the company’s Xring O3 flagship AI […]",
-    "url": "https://technode.com/2026/09/02/xiaomi-september-7-launch-18-fold-foldable-phone/",
-    "published": "Wed, 02 Sep 2026 07:31:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Unitree employees reportedly describe founder-led management and high internal pressure",
-    "summary": "Current and former Unitree employees have reportedly described a tightly centralized management style and a demanding work environment at the Chinese robotics company. Accounts circulating online alleged that expenses above RMB100 required approval from CEO Wang Xingxing and that he was closely involved in product details. The reports also described strict confidentiality requirements and demanding […]",
-    "url": "https://technode.com/2026/09/02/unitree-employees-reportedly-describe-founder-led-management-high-internal-pressure/",
-    "published": "Wed, 02 Sep 2026 07:13:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei, Xiaomi and Honor reportedly raise smartphone prices in China",
-    "summary": "Huawei, Xiaomi and Honor have reportedly raised prices for multiple smartphone models in China, with the changes taking effect on Sept. 1. The reported adjustments cover Huawei’s Mate 80 lineup and Enjoy 90 Pro Max, Xiaomi’s Mi 17 series and Redmi K90, and Honor’s Power2 and Magic8. The reported increases range from several hundred yuan […]",
-    "url": "https://technode.com/2026/09/01/huawei-xiaomi-honor-smartphone-price-increases/",
-    "published": "Tue, 01 Sep 2026 05:41:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "SenseTime spinout Sunrise reportedly raises RMB2 billion at RMB20 billion valuation",
-    "summary": "Sunrise, an AI chipmaker spun out of SenseTime’s chip business, has reportedly raised RMB2 billion ($280 million) at a post-money valuation of about RMB20 billion. The reported financing would nearly double the company’s valuation from its previous round, according to a report published on Aug. 28. The company is developing chips for AI inference, a […]",
-    "url": "https://technode.com/2026/08/31/sensetime-spinout-sunrise-reportedly-raises-rmb2-billion-at-rmb20-billion-valuation/",
-    "published": "Mon, 31 Aug 2026 06:38:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "MiniMax raises Alibaba Cloud spending ceiling to $1.2 billion",
-    "summary": "MiniMax has raised the spending ceiling of its three-year agreement with Alibaba Cloud by 220% to $1.2 billion, according to a filing cited in a report published on Aug. 28. The annual limits were raised to $300 million for 2026, $400 million for 2027 and $500 million for 2028, from $115 million, $125 million and […]",
-    "url": "https://technode.com/2026/08/31/minimax-raises-alibaba-cloud-spending-ceiling-to-1-2-billion/",
-    "published": "Mon, 31 Aug 2026 06:35:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "CXMT starts LPDDR6 mass production for Xiaomi’s upcoming 18 Fold",
-    "summary": "Chinese memory chipmaker ChangXin Memory Technologies has started mass production of LPDDR6 DRAM and will supply the chips for Xiaomi’s upcoming 18 Fold foldable smartphone, the companies said on Aug. 29. Xiaomi has confirmed that the phone is scheduled to launch in September. The development comes less than a year after CXMT began mass-producing its […]",
-    "url": "https://technode.com/2026/08/31/cxmt-starts-lpddr6-mass-production-for-xiaomis-upcoming-18-fold/",
-    "published": "Mon, 31 Aug 2026 06:33:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei opens preorders for Mate XT2 ahead of September 7 launch",
-    "summary": "Huawei opened preorders for its Mate XT2 tri-fold smartphone on Aug. 31, ahead of an official launch event scheduled for Sept. 7. The company began accepting reservations at 10:08 a.m. China time, marking the next commercial step for its new foldable device. Huawei has described the Mate XT2 as using a new structural design intended […]",
-    "url": "https://technode.com/2026/08/31/huawei-opens-preorders-for-mate-xt2-ahead-of-september-7-launch/",
-    "published": "Mon, 31 Aug 2026 06:28:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Baidu launches DuMateBench benchmark for real-world AI agent delivery",
-    "summary": "Baidu has launched DuMateBench, an evaluation leaderboard designed to measure whether AI agents can complete real-world tasks and deliver usable outputs, rather than only generate answers. The benchmark includes more than 200 office tasks across six categories and tests agent performance in complex operating environments. DuMateBench evaluates task understanding, tool use, continuous execution and final-result […]",
-    "url": "https://technode.com/2026/08/28/baidu-launches-dumatebench-benchmark-for-real-world-ai-agent-delivery/",
-    "published": "Fri, 28 Aug 2026 13:45:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Chinese spatial-intelligence firm Manycore launches Lux3D and starts world-model testing",
-    "summary": "Manycore Tech, a Chinese spatial-intelligence company, launched Lux3D on Aug. 27 and began testing a next-generation world-model product. Lux3D generates 3D assets from text or images, with its Turbo Mode producing models in as little as 20 seconds. The company has also opened API access, allowing batch generation through Harness Mode for workflows including e-commerce, […]",
-    "url": "https://technode.com/2026/08/28/chinese-spatial-intelligence-firm-manycore-launches-lux3d-and-starts-world-model-testing/",
-    "published": "Fri, 28 Aug 2026 06:06:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Embodied-AI startup PsiBot raises over $100 million with industrial investors joining",
-    "summary": "PsiBot, a Chinese embodied-AI startup focused on dexterous manipulation, has completed a new funding round of more than US$100 million. The round includes Ningbo Tuopu Group, a Chery Holdings-backed fund, Lens Technology, 37 Interactive Entertainment, Wuhu Investment Holding Group and Fosun Fortune Capital. Existing shareholder Zhuhai Technology Industry Group also continued to invest. The funds […]",
-    "url": "https://technode.com/2026/08/28/embodied-ai-startup-psibot-raises-over-100-million-with-industrial-investors-joining/",
-    "published": "Fri, 28 Aug 2026 05:59:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "China’s daily AI token usage tops 500 trillion as compute demand grows",
-    "summary": "China’s daily AI token call volume exceeded 500 trillion as of June 2026, as large-model applications expanded across industries. The figure measures aggregate model processing activity rather than the number of users or models. Industry representatives said model update cycles have shortened from roughly three months to four to six weeks. Agent workflows also repeatedly […]",
-    "url": "https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/",
-    "published": "Fri, 28 Aug 2026 05:53:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ant Group launches finance-tuned Ling model, plans to open-source it next week",
-    "summary": "Ant Group has launched the finance-tuned Ling-3.0-flash-Fin model, retaining the Ling-3.0-flash architecture and its 124 billion total parameters and 5.1 billion active parameters. The model weights are scheduled to be released next week. Ling-3.0-flash-Fin is optimized for annual reports, financial workbooks and multi-document research, as well as information retrieval, investment analysis, valuation modeling and banking […]",
-    "url": "https://technode.com/2026/08/28/ant-group-launches-finance-tuned-ling-model-plans-to-open-source-it-next-week/",
-    "published": "Fri, 28 Aug 2026 05:38:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
     "source": "The Verge",
-    "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-    "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-    "published": "2026-09-04T06:41:48-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "The Verge",
-    "title": "This NAS company wants to run your local smart home",
-    "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a […]",
-    "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-    "published": "2026-09-04T05:41:44-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "The Verge",
-    "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-    "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in […]",
-    "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-    "published": "2026-09-04T03:00:00-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "The Verge",
-    "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-    "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking […]",
-    "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-    "published": "2026-09-03T21:49:25-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "The Verge",
-    "title": "The unusually muted Tesla Cybercab launch",
-    "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It […]",
-    "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-    "published": "2026-09-03T20:25:06-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "The Verge",
-    "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-    "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five […]",
-    "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-    "published": "2026-09-03T19:37:37-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "X Corp blocks social media startup from using 'Twitter' name",
-    "summary": "Article URL: https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/ Comments URL: https://news.ycombinator.com/item?id=49561739 Points: 5 # Comments: 1",
-    "url": "https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/",
-    "published": "Fri, 04 Sep 2026 07:45:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Mayor Mamdani's Friendly Influencers and Funding of Public Messaging in New York",
-    "summary": "Article URL: https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php Comments URL: https://news.ycombinator.com/item?id=49560642 Points: 2 # Comments: 1",
-    "url": "https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php",
-    "published": "Fri, 04 Sep 2026 04:49:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "If a startup worth your career",
-    "summary": "Article URL: https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide Comments URL: https://news.ycombinator.com/item?id=49557069 Points: 12 # Comments: 3",
-    "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
-    "published": "Thu, 03 Sep 2026 21:10:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
-    "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that ",
-    "url": "https://news.ycombinator.com/item?id=49557020",
-    "published": "Thu, 03 Sep 2026 21:07:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
-    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're billion dollar companies but how do people in start ups find a team like that? Not just employees but a",
-    "url": "https://news.ycombinator.com/item?id=49556698",
-    "published": "Thu, 03 Sep 2026 20:46:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=49555417",
-    "published": "Thu, 03 Sep 2026 19:29:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-    "summary": "Hi HN, I'm Ansh, founder of Mireye ( https://www.mireye.com ). I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server. Here's a demo video: https://www.youtube.com/watch?v=haqO6UbUqU0 To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai . The fastest way in is to ask the",
-    "url": "https://news.ycombinator.com/item?id=49552616",
-    "published": "Thu, 03 Sep 2026 16:24:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Founders that raised funding and shutdown, did you raise again?",
-    "summary": "Curious to know the number of repeat founders here who shutdown and raised again, or chose not to raise the second time. I bootstrapped, raised, shutdown, went solo again, thinking about next steps. Ultimately funding and the VC market is a tool but it comes with a lot of baggage. Thoughts? Comments URL: https://news.ycombinator.com/item?id=49549602 Points: 17 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=49549602",
-    "published": "Thu, 03 Sep 2026 13:21:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Outfund.me – an open-source platform for alternative startup funding",
-    "summary": "Article URL: https://outfund.me/ Comments URL: https://news.ycombinator.com/item?id=49548826 Points: 2 # Comments: 0",
-    "url": "https://outfund.me/",
-    "published": "Thu, 03 Sep 2026 11:55:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-    "summary": "Article URL: https://theyfell.com/ Comments URL: https://news.ycombinator.com/item?id=49543617 Points: 9 # Comments: 7",
-    "url": "https://theyfell.com/",
-    "published": "Wed, 02 Sep 2026 22:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets ",
-    "url": "https://news.ycombinator.com/item?id=49543530",
-    "published": "Wed, 02 Sep 2026 22:36:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260901010705.htm Comments URL: https://news.ycombinator.com/item?id=49543404 Points: 1 # Comments: 0",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
-    "published": "Wed, 02 Sep 2026 22:22:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1Password wades into a right-wing mess after funding a Linux project",
-    "summary": "Article URL: https://www.theverge.com/tech/988536/1password-dhh-linux-controversy Comments URL: https://news.ycombinator.com/item?id=49541887 Points: 27 # Comments: 5",
-    "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-    "published": "Wed, 02 Sep 2026 20:19:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber drivers launch European class action over AI algorithm",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm Comments URL: https://news.ycombinator.com/item?id=49541544 Points: 4 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-    "published": "Wed, 02 Sep 2026 19:54:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch",
-    "summary": "Article URL: https://maniquest.com Comments URL: https://news.ycombinator.com/item?id=49538883 Points: 1 # Comments: 0",
-    "url": "https://maniquest.com",
-    "published": "Wed, 02 Sep 2026 16:41:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tradeviction – Long or short startup conviction",
-    "summary": "Article URL: https://tradeviction.com/about Comments URL: https://news.ycombinator.com/item?id=49538293 Points: 1 # Comments: 1",
-    "url": "https://tradeviction.com/about",
-    "published": "Wed, 02 Sep 2026 16:01:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "summary": "Article URL: https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/ Comments URL: https://news.ycombinator.com/item?id=49537864 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "published": "Wed, 02 Sep 2026 15:34:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tesla Sets a Launch Date for the Cybercab",
-    "summary": "Article URL: https://gizmodo.com/tesla-finally-sets-a-launch-date-for-the-cybercab-2000802484 Comments URL: https://news.ycombinator.com/item?id=49536933 Points: 2 # Comments: 0",
-    "url": "https://gizmodo.com/tesla-finally-sets-a-launch-date-for-the-cybercab-2000802484",
-    "published": "Wed, 02 Sep 2026 14:35:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch [Productivity]",
-    "summary": "Article URL: https://www.maniquest.com Comments URL: https://news.ycombinator.com/item?id=49535598 Points: 2 # Comments: 4",
-    "url": "https://www.maniquest.com",
-    "published": "Wed, 02 Sep 2026 13:04:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI startup Cognition set to raise around US$1B at a US$47B value",
-    "summary": "Article URL: https://theedgemalaysia.com/node/816527 Comments URL: https://news.ycombinator.com/item?id=49533052 Points: 2 # Comments: 0",
-    "url": "https://theedgemalaysia.com/node/816527",
-    "published": "Wed, 02 Sep 2026 07:40:57 +0000",
+    "title": "What to expect at Apple’s September 9th launch event",
+    "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"iPhone Ultra,\" coming […]",
+    "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+    "published": "2026-09-04T10:52:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-04"
@@ -1023,20 +593,6 @@
     }
   },
   {
-    "source": "V2EX",
-    "title": "有翻译需求的小伙伴看过来, 做了一个实时翻译和音视频转文字的 APP, 附送 50 个永久 Pro 兑换码",
-    "summary": "经常在油管和 Twitch 看直播, 口音重的主播就跟不上了, 之前用了讯飞听见, 效果是不错, 但是听久了钱包扛不住. 想到之前在 Mac 用的一个开源软件, 依赖系统的本地大模型将音频转成文字. 搜了下 iOS v26 也支持了这个本地模型, 就手搓了个小工具 **CapTran**. 欢迎大家来体验. CapTran 是一款设备端实时翻译与文件转录工具。APP 依赖 iOS 本地模型, 纯离线,不收集任何数据. 通过系统屏幕广播获取其他 App 的音频，在设备上完成语音识别和翻译，并将字幕显示在 CapTran 内，或以画中画悬浮字幕显示在其他 App 上方。 你也可以导入音",
-    "url": "https://www.v2ex.com/t/1239341",
-    "published": 1788448309,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-09-04",
-    "meta": {
-      "replies": 77,
-      "node": "分享创造"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "anthropics/commerce-agents",
     "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -1046,9 +602,25 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 1800,
-      "forks": 287,
+      "stars": 1924,
+      "forks": 319,
       "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "lnkiai/m3e-canvas",
+    "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "url": "https://github.com/lnkiai/m3e-canvas",
+    "published": "2026-09-02T04:36:34Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-04",
+    "meta": {
+      "stars": 1866,
+      "forks": 129,
+      "language": "TypeScript",
       "createdDaysAgo": 2
     }
   },
@@ -1062,8 +634,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 1270,
-      "forks": 59,
+      "stars": 1483,
+      "forks": 69,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -1078,7 +650,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 1033,
+      "stars": 1102,
       "forks": 7,
       "language": "TypeScript",
       "createdDaysAgo": 4
@@ -1094,26 +666,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 1031,
+      "stars": 1053,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "lnkiai/m3e-canvas",
-    "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-    "url": "https://github.com/lnkiai/m3e-canvas",
-    "published": "2026-09-02T04:36:34Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-04",
-    "meta": {
-      "stars": 948,
-      "forks": 60,
-      "language": "TypeScript",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -1126,8 +682,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 846,
-      "forks": 182,
+      "stars": 878,
+      "forks": 189,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -1142,10 +698,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 695,
+      "stars": 716,
       "forks": 32,
       "language": "C++",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nahrek/polyledger",
+    "summary": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+    "url": "https://github.com/nahrek/polyledger",
+    "published": "2026-09-02T17:00:13Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-04",
+    "meta": {
+      "stars": 546,
+      "forks": 109,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1158,8 +730,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 469,
-      "forks": 128,
+      "stars": 498,
+      "forks": 132,
       "language": "C",
       "createdDaysAgo": 1
     }
@@ -1174,25 +746,9 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 437,
-      "forks": 37,
+      "stars": 488,
+      "forks": 39,
       "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
-    "summary": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-    "published": "2026-08-29T23:37:01Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-04",
-    "meta": {
-      "stars": 432,
-      "forks": 9,
-      "language": "Shell",
       "createdDaysAgo": 5
     }
   },
@@ -1206,9 +762,41 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 420,
-      "forks": 73,
+      "stars": 466,
+      "forks": 84,
       "language": "Shell",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "summary": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "published": "2026-08-29T23:37:01Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-04",
+    "meta": {
+      "stars": 456,
+      "forks": 9,
+      "language": "Shell",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "danielblnc/DLSS-NR-on-AMD",
+    "summary": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+    "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+    "published": "2026-09-03T00:42:03Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-04",
+    "meta": {
+      "stars": 437,
+      "forks": 15,
+      "language": null,
       "createdDaysAgo": 1
     }
   },
@@ -1222,9 +810,41 @@
     "type": "signal",
     "fetchedAt": "2026-09-04",
     "meta": {
-      "stars": 411,
-      "forks": 19,
+      "stars": 425,
+      "forks": 20,
       "language": "JavaScript",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Human-Agent-Society/reef",
+    "summary": "Continual learning infra for self-improving agents",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "published": "2026-08-31T01:39:18Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-04",
+    "meta": {
+      "stars": 414,
+      "forks": 33,
+      "language": "Python",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Albert-Weasker/niubigeo",
+    "summary": "Open-source AI brand visibility and competitor reports",
+    "url": "https://github.com/Albert-Weasker/niubigeo",
+    "published": "2026-09-03T15:55:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-04",
+    "meta": {
+      "stars": 400,
+      "forks": 23,
+      "language": "TypeScript",
       "createdDaysAgo": 1
     }
   }
