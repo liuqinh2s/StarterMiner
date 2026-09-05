@@ -91,20 +91,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
-    "summary": "限量开放，普通用户还要再“仰望”一会儿。",
-    "url": "https://www.tmtpost.com/8128178.html",
-    "published": "Sat, 05 Sep 2026 09:59:03 +0800",
+    "title": "具身智能的冰与火之歌：热在展台，冷在产线",
+    "summary": "冰与火的试炼才刚开始。",
+    "url": "https://www.tmtpost.com/8129186.html",
+    "published": "Sat, 05 Sep 2026 19:18:04 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-05"
   },
   {
     "source": "钛媒体",
-    "title": "AGI，真的来了？",
-    "summary": "GPT-6 Astra来了，OpenAI还要追Anthropic。",
-    "url": "https://www.tmtpost.com/8129208.html",
-    "published": "Sat, 05 Sep 2026 09:58:41 +0800",
+    "title": "具身智能等不来自己的“ChatGPT时刻”",
+    "summary": "没有单点爆发的英雄叙事，只有产业在能力、成本、扩散三条曲线中的层层落地。",
+    "url": "https://www.tmtpost.com/8129238.html",
+    "published": "Sat, 05 Sep 2026 19:12:01 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "“公募一哥”半年亏70亿：“白酒信仰”崩塌，张坤转投硬科技?",
+    "summary": "张坤开启从业十余年来的重大转型。",
+    "url": "https://www.tmtpost.com/8129009.html",
+    "published": "Sat, 05 Sep 2026 17:56:01 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "广西官宣入局机制电价“卷场”，现货市场跌破预期，机制电价顶到上限，电力市场要怎么找平衡？",
+    "summary": "广西发布2027年新能源机制电价竞价规则，收紧申报条件。",
+    "url": "https://www.tmtpost.com/8129559.html",
+    "published": "Sat, 05 Sep 2026 17:55:47 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-05"
@@ -115,16 +135,6 @@
     "summary": "OpenAI 智能体被曝「接管」德国维基网站 一项最新曝光的人工智能安全事件正在引发业内广泛关注。 根据研究人员披露的信息，今年春季，一批与 OpenAI 模型相关的自主智能体曾在未经授权的情况下「接管」一家德国维基网站，并将其改造成供其他 AI 系统交流信息的公共平台。这一事件此前从未对外公开，而 OpenAI 据称已在数周前获悉相关情况。 报道称，事件最早开始于今年 5 月，目标网站是一家名为 DseWiki 的德语维基平台，主要面向程序员社区开放协作编辑。研究人员在 8 月底调查 互联网异常 AI 活动时发现，该网站在数月时间内累计出现超过 1.5 万次由 AI 智能体完成的编辑操作。 调查人员表示，这些编辑行为并非普通的信息补充，而是呈现出明显的组织化特征。大量页面被智能体重新利用为交流平台，不同 AI 系统在其中分享任务执行经验、讨论绕过限制的方法，并交流如何隐藏自身行为的技巧。 研究人员查看的记录显示，当网站管理员于 6 月开始删除相关页面后，这些智能体并未停止活动，而是主动建立备用页面，以避免交流内容随着清理行动一同消失。有记录显示，部分智能体甚至会提醒其他系统某些页面可",
     "url": "http://www.geekpark.net/news/369871",
     "published": "Sat, 05 Sep 2026 08:24:15 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "极客公园",
-    "title": "GPT-6 曝光， OpenAI 总裁说：AGI 来了",
-    "summary": "作者｜桦林舞王 编辑｜靖宇 他措辞很谨慎，用的是第一人称，加了「可能」，还专门留了后路说「如果你想说这是第一个，我认为这是合理的」。 这不是 OpenAI 官方宣布 AGI 到来，而是一位公司总裁在镜头前说出了自己的判断。 当地时间 9 月 3 日，GPT-6 Astra 正式发布。极客公园拆解了目前能获取到的所有技术细节和演示材料，试图回答一个最核心的问题，这个模型，到底能干什么，能干到什么程度？它真的能代表 AGI 的到来吗？ 01 「操控电脑」趋于神话 在发布材料里，OpenAI 给 Astra 起了个简洁的 slogan：「Anything you can do on a computer, Astra can do for you.（你在电脑上能做的任何事，Astra 都能替你做。）」 这不是夸张的营销话术，而是方向声明。 过去几年 AI 操控电脑的主流路径是调用 API。软件开发商先写好接口，AI 再通过接口完成操作。这套逻辑本质上要求每一款软件都专门适配 AI，否则 AI 就无能为力。 Astra 走了一条完全不同的路：它像人一样，直接「看」屏幕上的像素，然后移动鼠标、敲",
-    "url": "http://www.geekpark.net/news/369867",
-    "published": "Fri, 04 Sep 2026 17:47:40 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-05"
@@ -720,226 +730,31 @@
     "fetchedAt": "2026-09-05"
   },
   {
-    "source": "The Verge",
-    "title": "What to expect at Apple’s September 9th launch event",
-    "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"iPhone Ultra,\" coming […]",
-    "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-    "published": "2026-09-04T10:52:00-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reusable Launch and Space Vehicle History",
-    "summary": "Article URL: https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX Comments URL: https://news.ycombinator.com/item?id=49565007 Points: 1 # Comments: 0",
-    "url": "https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX",
-    "published": "Fri, 04 Sep 2026 14:16:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "X Corp blocks social media startup from using 'Twitter' name",
-    "summary": "Article URL: https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/ Comments URL: https://news.ycombinator.com/item?id=49561739 Points: 7 # Comments: 1",
-    "url": "https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/",
-    "published": "Fri, 04 Sep 2026 07:45:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Mayor Mamdani's Friendly Influencers and Funding of Public Messaging in New York",
-    "summary": "Article URL: https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php Comments URL: https://news.ycombinator.com/item?id=49560642 Points: 2 # Comments: 1",
-    "url": "https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php",
-    "published": "Fri, 04 Sep 2026 04:49:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "If a startup worth your career",
-    "summary": "Article URL: https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide Comments URL: https://news.ycombinator.com/item?id=49557069 Points: 13 # Comments: 3",
-    "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
-    "published": "Thu, 03 Sep 2026 21:10:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
-    "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that ",
-    "url": "https://news.ycombinator.com/item?id=49557020",
-    "published": "Thu, 03 Sep 2026 21:07:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
-    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're billion dollar companies but how do people in start ups find a team like that? Not just employees but a",
-    "url": "https://news.ycombinator.com/item?id=49556698",
-    "published": "Thu, 03 Sep 2026 20:46:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=49555417",
-    "published": "Thu, 03 Sep 2026 19:29:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-    "summary": "Hi HN, I'm Ansh, founder of Mireye ( https://www.mireye.com ). I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server. Here's a demo video: https://www.youtube.com/watch?v=haqO6UbUqU0 To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai . The fastest way in is to ask the",
-    "url": "https://news.ycombinator.com/item?id=49552616",
-    "published": "Thu, 03 Sep 2026 16:24:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Founders that raised funding and shutdown, did you raise again?",
-    "summary": "Curious to know the number of repeat founders here who shutdown and raised again, or chose not to raise the second time. I bootstrapped, raised, shutdown, went solo again, thinking about next steps. Ultimately funding and the VC market is a tool but it comes with a lot of baggage. Thoughts? Comments URL: https://news.ycombinator.com/item?id=49549602 Points: 18 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=49549602",
-    "published": "Thu, 03 Sep 2026 13:21:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Outfund.me – an open-source platform for alternative startup funding",
-    "summary": "Article URL: https://outfund.me/ Comments URL: https://news.ycombinator.com/item?id=49548826 Points: 2 # Comments: 0",
-    "url": "https://outfund.me/",
-    "published": "Thu, 03 Sep 2026 11:55:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-    "summary": "Article URL: https://theyfell.com/ Comments URL: https://news.ycombinator.com/item?id=49543617 Points: 9 # Comments: 7",
-    "url": "https://theyfell.com/",
-    "published": "Wed, 02 Sep 2026 22:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets ",
-    "url": "https://news.ycombinator.com/item?id=49543530",
-    "published": "Wed, 02 Sep 2026 22:36:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260901010705.htm Comments URL: https://news.ycombinator.com/item?id=49543404 Points: 1 # Comments: 0",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
-    "published": "Wed, 02 Sep 2026 22:22:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1Password wades into a right-wing mess after funding a Linux project",
-    "summary": "Article URL: https://www.theverge.com/tech/988536/1password-dhh-linux-controversy Comments URL: https://news.ycombinator.com/item?id=49541887 Points: 28 # Comments: 5",
-    "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-    "published": "Wed, 02 Sep 2026 20:19:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber drivers launch European class action over AI algorithm",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm Comments URL: https://news.ycombinator.com/item?id=49541544 Points: 4 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-    "published": "Wed, 02 Sep 2026 19:54:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch",
-    "summary": "Article URL: https://maniquest.com Comments URL: https://news.ycombinator.com/item?id=49538883 Points: 1 # Comments: 0",
-    "url": "https://maniquest.com",
-    "published": "Wed, 02 Sep 2026 16:41:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tradeviction – Long or short startup conviction",
-    "summary": "Article URL: https://tradeviction.com/about Comments URL: https://news.ycombinator.com/item?id=49538293 Points: 1 # Comments: 1",
-    "url": "https://tradeviction.com/about",
-    "published": "Wed, 02 Sep 2026 16:01:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "summary": "Article URL: https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/ Comments URL: https://news.ycombinator.com/item?id=49537864 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "published": "Wed, 02 Sep 2026 15:34:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tesla Sets a Launch Date for the Cybercab",
-    "summary": "Article URL: https://gizmodo.com/tesla-finally-sets-a-launch-date-for-the-cybercab-2000802484 Comments URL: https://news.ycombinator.com/item?id=49536933 Points: 2 # Comments: 0",
-    "url": "https://gizmodo.com/tesla-finally-sets-a-launch-date-for-the-cybercab-2000802484",
-    "published": "Wed, 02 Sep 2026 14:35:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch [Productivity]",
-    "summary": "Article URL: https://www.maniquest.com Comments URL: https://news.ycombinator.com/item?id=49535598 Points: 2 # Comments: 4",
-    "url": "https://www.maniquest.com",
-    "published": "Wed, 02 Sep 2026 13:04:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-05"
-  },
-  {
-    "source": "B站",
-    "title": "终南山怪虫",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=终南山怪虫",
-    "published": "2026-09-05",
+    "source": "V2EX",
+    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+    "summary": "自己搭的站，TokenUs： https://tokenus.net 先说清楚，这就是个 API 中转站，基于 new-api 改的，没什么黑科技。接的都是开源模型，DeepSeek V4 全系、GLM 5.x 、Kimi K2.5/K3 、Qwen3.8 ，一共 15 个。接口和 OpenAI 兼容，base_url 换掉就能用。 价格是官方价的 3.5 折，举两个例子： - DeepSeek V4 Flash：输入 $0.049 / 1M tokens - Kimi K3：输入 $1.05 / 1M tokens （站内最贵的一个） 正常聊一次天（ 2K 输入 +",
+    "url": "https://www.v2ex.com/t/1239673",
+    "published": 1788588255,
     "lang": "zh",
-    "type": "news",
+    "type": "community",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "hotValue": 270525
+      "replies": 36,
+      "node": "推广"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "GPT-6 Astra - 新的 O1 时刻",
+    "summary": "Astra 正式推送后我和我的小伙伴立马试了一下。 这是他的一些结果： ![]( https://i.imgur.com/Crt1HYP.png) 你以为我要和 x 上那些网红开始吹他的出色的“one-shot”生成 xxx 游戏吗？或者他的视觉或者 3d 能力提升吗？ 这些提升都很重要，比如按照反馈，之前 5.6 完全识别不了这些游戏的素材，以及这些素材能干什么，有什么用而 astra 则可以轻松解决，但是这些提升完全对不上这个标题。 真正的突破是，比如这个可玩的游戏，astra 仅仅使用了 40 分钟，和以下的 token 用量和分布。 Input: 8,354",
+    "url": "https://www.v2ex.com/t/1239617",
+    "published": 1788567467,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-05",
+    "meta": {
+      "replies": 22,
+      "node": "OpenAI"
     }
   },
   {
@@ -952,10 +767,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 2204,
-      "forks": 161,
+      "stars": 2947,
+      "forks": 224,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -968,8 +783,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 1947,
-      "forks": 324,
+      "stars": 1987,
+      "forks": 328,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -984,10 +799,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 1112,
-      "forks": 7,
+      "stars": 1145,
+      "forks": 8,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1000,7 +815,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 1061,
+      "stars": 1073,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 5
@@ -1009,17 +824,33 @@
   {
     "source": "GitHub新星",
     "title": "2akouwu/reverify",
-    "summary": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+    "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
     "url": "https://github.com/2akouwu/reverify",
     "published": "2026-08-31T01:02:18Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 890,
-      "forks": 191,
+      "stars": 911,
+      "forks": 194,
       "language": "Python",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "yczz/oc-english",
+    "summary": "养成类游戏英语学习",
+    "url": "https://github.com/yczz/oc-english",
+    "published": "2026-09-01T23:45:27Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-05",
+    "meta": {
+      "stars": 750,
+      "forks": 8,
+      "language": "JavaScript",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1032,42 +863,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 614,
+      "stars": 616,
       "forks": 109,
       "language": "Python",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "MSNightmare/FalconFlank",
-    "summary": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-    "url": "https://github.com/MSNightmare/FalconFlank",
-    "published": "2026-09-03T02:48:22Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 506,
-      "forks": 133,
-      "language": "C",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Merserk/dlss5-visual-enhancer",
-    "summary": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-    "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-    "published": "2026-08-30T19:45:52Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 495,
-      "forks": 39,
-      "language": "Python",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -1080,90 +879,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-05",
     "meta": {
-      "stars": 489,
-      "forks": 20,
+      "stars": 564,
+      "forks": 22,
       "language": null,
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "codejunkie99/fable-orchestrator",
-    "summary": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-    "url": "https://github.com/codejunkie99/fable-orchestrator",
-    "published": "2026-09-02T21:48:23Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 476,
-      "forks": 87,
-      "language": "Shell",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Human-Agent-Society/reef",
-    "summary": "Continual learning infra for self-improving agents",
-    "url": "https://github.com/Human-Agent-Society/reef",
-    "published": "2026-08-31T01:39:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 436,
-      "forks": 33,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "PhiloLabs/fable51-worlds",
-    "summary": "worlds via code, from fable 5.1",
-    "url": "https://github.com/PhiloLabs/fable51-worlds",
-    "published": "2026-09-02T18:19:55Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 426,
-      "forks": 20,
-      "language": "JavaScript",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Albert-Weasker/niubigeo",
-    "summary": "Open-source AI brand visibility and competitor reports",
-    "url": "https://github.com/Albert-Weasker/niubigeo",
-    "published": "2026-09-03T15:55:54Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 416,
-      "forks": 33,
-      "language": "TypeScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "faisalkindi/DLSS5oneclick",
-    "summary": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-    "url": "https://github.com/faisalkindi/DLSS5oneclick",
-    "published": "2026-08-31T02:12:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-05",
-    "meta": {
-      "stars": 394,
-      "forks": 27,
-      "language": "Rust",
-      "createdDaysAgo": 5
     }
   }
 ]
