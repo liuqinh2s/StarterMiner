@@ -130,16 +130,6 @@
     "fetchedAt": "2026-09-06"
   },
   {
-    "source": "钛媒体",
-    "title": "具身智能的冰与火之歌：热在展台，冷在产线",
-    "summary": "冰与火的试炼才刚开始。",
-    "url": "https://www.tmtpost.com/8129186.html",
-    "published": "Sat, 05 Sep 2026 19:18:04 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
     "source": "极客公园",
     "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
     "summary": "大模型厂商纷纷「卖 Token」，消息称 Kimi、MiniMax 等即将在天猫开店 上海证券报 9 月 5 日独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设「智谱旗舰店」。用户可在淘宝 App 搜索「智谱旗舰店」进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为品牌官方旗舰店，剩余三家目前为代理模式。（来源：IT 之家） OpenAI 回应旗下智能体攻进德国网站：将彻底改革「AI 模型攻击」事件披露机制 9 月 4 日晚间路透",
@@ -710,243 +700,17 @@
     "fetchedAt": "2026-09-06"
   },
   {
-    "source": "Hacker News",
-    "title": "Isar Aerospace launch into orbit [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 93 # Comments: 18",
-    "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-    "published": "Sat, 05 Sep 2026 20:25:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Billionaires Are Funding 'Anti AI' Content [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=mzlu4FSXBNw Comments URL: https://news.ycombinator.com/item?id=49575811 Points: 4 # Comments: 1",
-    "url": "https://www.youtube.com/watch?v=mzlu4FSXBNw",
-    "published": "Sat, 05 Sep 2026 12:16:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reusable Launch and Space Vehicle History",
-    "summary": "Article URL: https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX Comments URL: https://news.ycombinator.com/item?id=49565007 Points: 1 # Comments: 0",
-    "url": "https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX",
-    "published": "Fri, 04 Sep 2026 14:16:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "X Corp blocks social media startup from using 'Twitter' name",
-    "summary": "Article URL: https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/ Comments URL: https://news.ycombinator.com/item?id=49561739 Points: 7 # Comments: 1",
-    "url": "https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/",
-    "published": "Fri, 04 Sep 2026 07:45:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Mayor Mamdani's Friendly Influencers and Funding of Public Messaging in New York",
-    "summary": "Article URL: https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php Comments URL: https://news.ycombinator.com/item?id=49560642 Points: 2 # Comments: 1",
-    "url": "https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php",
-    "published": "Fri, 04 Sep 2026 04:49:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "If a startup worth your career",
-    "summary": "Article URL: https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide Comments URL: https://news.ycombinator.com/item?id=49557069 Points: 14 # Comments: 3",
-    "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
-    "published": "Thu, 03 Sep 2026 21:10:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
-    "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that ",
-    "url": "https://news.ycombinator.com/item?id=49557020",
-    "published": "Thu, 03 Sep 2026 21:07:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
-    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're billion dollar companies but how do people in start ups find a team like that? Not just employees but a",
-    "url": "https://news.ycombinator.com/item?id=49556698",
-    "published": "Thu, 03 Sep 2026 20:46:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 2",
-    "url": "https://news.ycombinator.com/item?id=49555417",
-    "published": "Thu, 03 Sep 2026 19:29:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-    "summary": "Hi HN, I'm Ansh, founder of Mireye ( https://www.mireye.com ). I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server. Here's a demo video: https://www.youtube.com/watch?v=haqO6UbUqU0 To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai . The fastest way in is to ask the",
-    "url": "https://news.ycombinator.com/item?id=49552616",
-    "published": "Thu, 03 Sep 2026 16:24:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Founders that raised funding and shutdown, did you raise again?",
-    "summary": "Curious to know the number of repeat founders here who shutdown and raised again, or chose not to raise the second time. I bootstrapped, raised, shutdown, went solo again, thinking about next steps. Ultimately funding and the VC market is a tool but it comes with a lot of baggage. Thoughts? Comments URL: https://news.ycombinator.com/item?id=49549602 Points: 18 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=49549602",
-    "published": "Thu, 03 Sep 2026 13:21:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Outfund.me – an open-source platform for alternative startup funding",
-    "summary": "Article URL: https://outfund.me/ Comments URL: https://news.ycombinator.com/item?id=49548826 Points: 2 # Comments: 0",
-    "url": "https://outfund.me/",
-    "published": "Thu, 03 Sep 2026 11:55:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-    "summary": "Article URL: https://theyfell.com/ Comments URL: https://news.ycombinator.com/item?id=49543617 Points: 9 # Comments: 7",
-    "url": "https://theyfell.com/",
-    "published": "Wed, 02 Sep 2026 22:45:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets ",
-    "url": "https://news.ycombinator.com/item?id=49543530",
-    "published": "Wed, 02 Sep 2026 22:36:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260901010705.htm Comments URL: https://news.ycombinator.com/item?id=49543404 Points: 1 # Comments: 0",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
-    "published": "Wed, 02 Sep 2026 22:22:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "1Password wades into a right-wing mess after funding a Linux project",
-    "summary": "Article URL: https://www.theverge.com/tech/988536/1password-dhh-linux-controversy Comments URL: https://news.ycombinator.com/item?id=49541887 Points: 29 # Comments: 5",
-    "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-    "published": "Wed, 02 Sep 2026 20:19:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber drivers launch European class action over AI algorithm",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm Comments URL: https://news.ycombinator.com/item?id=49541544 Points: 4 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-    "published": "Wed, 02 Sep 2026 19:54:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Maniquest Launch",
-    "summary": "Article URL: https://maniquest.com Comments URL: https://news.ycombinator.com/item?id=49538883 Points: 1 # Comments: 0",
-    "url": "https://maniquest.com",
-    "published": "Wed, 02 Sep 2026 16:41:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tradeviction – Long or short startup conviction",
-    "summary": "Article URL: https://tradeviction.com/about Comments URL: https://news.ycombinator.com/item?id=49538293 Points: 1 # Comments: 1",
-    "url": "https://tradeviction.com/about",
-    "published": "Wed, 02 Sep 2026 16:01:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "summary": "Article URL: https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/ Comments URL: https://news.ycombinator.com/item?id=49537864 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "published": "Wed, 02 Sep 2026 15:34:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "B站",
-    "title": "人形机器人作战能力如何",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=人形机器人作战能力如何",
-    "published": "2026-09-06",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-06",
-    "meta": {
-      "hotValue": 270785
-    }
-  },
-  {
-    "source": "B站",
-    "title": "终南山怪虫",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=终南山怪虫",
-    "published": "2026-09-06",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-06",
-    "meta": {
-      "hotValue": 270525
-    }
-  },
-  {
     "source": "V2EX",
-    "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
-    "summary": "自己搭的站，TokenUs： https://tokenus.net 先说清楚，这就是个 API 中转站，基于 new-api 改的，没什么黑科技。接的都是开源模型，DeepSeek V4 全系、GLM 5.x 、Kimi K2.5/K3 、Qwen3.8 ，一共 15 个。接口和 OpenAI 兼容，base_url 换掉就能用。 价格是官方价的 3.5 折，举两个例子： - DeepSeek V4 Flash：输入 $0.049 / 1M tokens - Kimi K3：输入 $1.05 / 1M tokens （站内最贵的一个） 正常聊一次天（ 2K 输入 +",
-    "url": "https://www.v2ex.com/t/1239673",
-    "published": 1788588255,
+    "title": "22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限",
+    "summary": "![]( https://i.v2ex.co/mEi4FTb9.gif) 200 刀的 GPT ，加上一开始的额度，也就是整整用掉了一个月的额度…… 科普动画，希望把生活中有意思的东西都可视化，从齿轮到大模型，面向青少年，大人看也有意思的。 👉 [主页]( https://vistep.ai/) 👉 [GitHub]( https://github.com/int64ago/vistep)",
+    "url": "https://www.v2ex.com/t/1239774",
+    "published": 1788659772,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "replies": 49,
-      "node": "推广"
+      "replies": 29,
+      "node": "分享创造"
     }
   },
   {
@@ -959,7 +723,7 @@
     "type": "community",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "replies": 21,
+      "replies": 22,
       "node": "OpenAI"
     }
   },
@@ -973,10 +737,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 3825,
-      "forks": 326,
+      "stars": 4077,
+      "forks": 347,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -989,8 +753,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 2074,
-      "forks": 351,
+      "stars": 2152,
+      "forks": 364,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -1005,10 +769,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 1177,
+      "stars": 1192,
       "forks": 9,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1021,7 +785,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 1101,
+      "stars": 1117,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 6
@@ -1037,10 +801,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 924,
-      "forks": 200,
+      "stars": 934,
+      "forks": 201,
       "language": "Python",
       "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ashemag/human-atlas",
+    "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "url": "https://github.com/ashemag/human-atlas",
+    "published": "2026-09-05T00:24:43Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-06",
+    "meta": {
+      "stars": 874,
+      "forks": 247,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -1053,7 +833,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 823,
+      "stars": 826,
       "forks": 9,
       "language": "JavaScript",
       "createdDaysAgo": 4

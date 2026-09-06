@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "viktor-h-97942b125"
+          "linkedin": "toddembleton"
         },
         "careerPage": null,
         "jobListings": []
@@ -669,7 +669,6 @@
           "name@domain.com",
           "u003esupport@meshy.ai",
           "careers@meshy.ai",
-          "meshy-webapp@v2026.09.05.post",
           "jane@company.com"
         ],
         "socials": {
@@ -1547,12 +1546,12 @@
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
           "info@latitudemedia.com",
-          "advertise@latitudemedia.com",
-          "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
           "opencircuit@latitudemedia.com",
           "politicalclimatepodcast@gmail.com",
-          "events@latitudemedia.com"
+          "events@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "intent",
