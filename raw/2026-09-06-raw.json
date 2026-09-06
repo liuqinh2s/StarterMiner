@@ -120,16 +120,6 @@
     "fetchedAt": "2026-09-06"
   },
   {
-    "source": "钛媒体",
-    "title": "亦庄，北京科技的另一半——万千气象看北京",
-    "summary": "科技展品的产线，全在中关村往南走二十多公里的亦庄",
-    "url": "https://www.tmtpost.com/8129831.html",
-    "published": "Sun, 06 Sep 2026 09:10:26 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
     "source": "极客公园",
     "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
     "summary": "大模型厂商纷纷「卖 Token」，消息称 Kimi、MiniMax 等即将在天猫开店 上海证券报 9 月 5 日独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设「智谱旗舰店」。用户可在淘宝 App 搜索「智谱旗舰店」进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为品牌官方旗舰店，剩余三家目前为代理模式。（来源：IT 之家） OpenAI 回应旗下智能体攻进德国网站：将彻底改革「AI 模型攻击」事件披露机制 9 月 4 日晚间路透",
@@ -481,6 +471,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "published": "Sun, 06 Sep 2026 16:45:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-06"
+  },
+  {
+    "source": "TechCrunch",
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "summary": "The round is being raised just months after the robot data startup exited from stealth.",
     "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -505,26 +505,6 @@
     "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
     "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
     "published": "Fri, 04 Sep 2026 17:18:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Feds launch investigation into Tesla’s Cybercab deployment",
-    "summary": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
-    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-    "published": "Fri, 04 Sep 2026 12:01:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Crusoe reportedly raises $3B at a $30B valuation",
-    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "published": "Fri, 04 Sep 2026 00:48:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-06"
@@ -700,6 +680,40 @@
     "fetchedAt": "2026-09-06"
   },
   {
+    "source": "The Verge",
+    "title": "Europe has its first commercial orbital rocket",
+    "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. […]",
+    "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+    "published": "2026-09-06T15:04:22-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-06"
+  },
+  {
+    "source": "The Verge",
+    "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+    "summary": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pokémon Champions originally launched on the Switch and Switch 2 in […]",
+    "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+    "published": "2026-09-06T09:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-06"
+  },
+  {
+    "source": "微博",
+    "title": "#终南山怪虫#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23终南山怪虫%23",
+    "published": "2026-09-06",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-06",
+    "meta": {
+      "hotValue": 100738,
+      "rank": 43
+    }
+  },
+  {
     "source": "V2EX",
     "title": "22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限",
     "summary": "![]( https://i.v2ex.co/mEi4FTb9.gif) 200 刀的 GPT ，加上一开始的额度，也就是整整用掉了一个月的额度…… 科普动画，希望把生活中有意思的东西都可视化，从齿轮到大模型，面向青少年，大人看也有意思的。 👉 [主页]( https://vistep.ai/) 👉 [GitHub]( https://github.com/int64ago/vistep)",
@@ -709,22 +723,8 @@
     "type": "community",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "replies": 29,
+      "replies": 36,
       "node": "分享创造"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "卧槽 GPT-6 Astra 就是 AGI。",
-    "summary": "刚刚开着语音跟 AI 聊着天,就把两个 App 的构建、部署、提审都推进完了,真的有种未来突然到了的感觉。但兴奋过后也有点不安:这么强的能力,如果只有有钱人用得起,会不会让本来就有资源的人越来越强?当资本和政府掌握更强的 AI,普通人得到的会是更多自由还是更少选择?我希望 AI 带来的不只是少数人的效率暴涨,而是普通人也能更有能力改变自己的生活。",
-    "url": "https://www.v2ex.com/t/1239725",
-    "published": 1788614161,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-09-06",
-    "meta": {
-      "replies": 22,
-      "node": "OpenAI"
     }
   },
   {
@@ -737,8 +737,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 4077,
-      "forks": 347,
+      "stars": 4261,
+      "forks": 364,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -753,10 +753,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 2152,
-      "forks": 364,
+      "stars": 2199,
+      "forks": 377,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ashemag/human-atlas",
+    "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "url": "https://github.com/ashemag/human-atlas",
+    "published": "2026-09-05T00:24:43Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-06",
+    "meta": {
+      "stars": 1313,
+      "forks": 348,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -769,8 +785,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 1192,
-      "forks": 9,
+      "stars": 1212,
+      "forks": 10,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -785,7 +801,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 1117,
+      "stars": 1135,
       "forks": 1,
       "language": "Python",
       "createdDaysAgo": 6
@@ -801,42 +817,42 @@
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 934,
-      "forks": 201,
+      "stars": 962,
+      "forks": 207,
       "language": "Python",
       "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "ashemag/human-atlas",
-    "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-    "url": "https://github.com/ashemag/human-atlas",
-    "published": "2026-09-05T00:24:43Z",
+    "title": "Rion-Wu-tech/wechat-intelligence-hub",
+    "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+    "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+    "published": "2026-09-04T15:00:53Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 874,
-      "forks": 247,
-      "language": "TypeScript",
-      "createdDaysAgo": 1
+      "stars": 926,
+      "forks": 906,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
     "source": "GitHub新星",
-    "title": "yczz/oc-english",
-    "summary": "养成类游戏英语学习",
-    "url": "https://github.com/yczz/oc-english",
-    "published": "2026-09-01T23:45:27Z",
+    "title": "sebbbi/NoGraphicsAPI",
+    "summary": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+    "url": "https://github.com/sebbbi/NoGraphicsAPI",
+    "published": "2026-08-31T14:14:12Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-06",
     "meta": {
-      "stars": 826,
-      "forks": 9,
-      "language": "JavaScript",
-      "createdDaysAgo": 4
+      "stars": 859,
+      "forks": 24,
+      "language": "C++",
+      "createdDaysAgo": 6
     }
   }
 ]
