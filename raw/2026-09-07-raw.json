@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "卫星物联网加速商用，商业航天从发射热转向连接服务",
+    "summary": "商业航天的关注点正在从“能不能发”转向“能不能用”。9月5日发布的航天行业日报显示，国内卫星物联网商用试点加速推进，已获得商用试验许可的星座在轨卫星数量持续增加，并面向智能网联汽车、海洋渔业、低空出行、能源水利等领域拓展广域低功耗连接服务。这意味着商业航天的收入想象，正在从发射服务延伸到长期运营。 低轨卫星物联网的价值在于补齐地面网络覆盖不足的区域。海上作业、荒漠能源站、山区水利设施、跨境物流设备等场景，对低功耗、广覆盖、低维护成本的连接需求稳定存在。与消费互联网式爆发不同，卫星物联网更依赖行业客户的验证周期，订单释放往往伴随终端成本下降、标准统一和服务可靠性提升。 产业链也因此出现新分工。火箭发射和卫星制造仍是基础环节，但地面终端、模组芯片、数据平台、行业应用和运维服务正在获得更多增量机会。上游硬件企业要面对可靠性和批量成本考验，下游应用服务商则需要把卫星连接嵌入真实业务流程，避免停留在示范项目层面。 据天眼查数据显示，截至2026年6月，中国商业航天企业及相关企业现存总数量近10.3万家，相比2020年的2.3万家增长近3.5倍。另有公开企业数据提到，截至6月中旬，国内商业航天相关",
+    "url": "https://www.cyzone.cn/article/845657.html",
+    "published": "Mon, 07 Sep 2026 01:12:58 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "创业邦",
     "title": "欣旺达动力科技公司增资至约145.2亿",
     "summary": "天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约140.9亿人民币增至约145.2亿人民币。 该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等。股东信息显示，该公司由欣旺达惠州新能源有限公司、嘉兴颀辰股权投资合伙企业（有限合伙）、青岛鑫旺绿色新能源投资合伙企业（有限合伙）等共同持股。",
     "url": "https://www.cyzone.cn/article/845146.html",
@@ -91,30 +101,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "西贝，进退两难",
-    "summary": "西贝最新估值已不到15亿元。",
-    "url": "https://www.tmtpost.com/8130327.html",
-    "published": "Mon, 07 Sep 2026 09:17:00 +0800",
+    "title": "AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上",
+    "summary": "市场把AIGC标识一周年读成合规成本账，误读了制度底色。当Atlas把生成精度推到肉眼难辨，惩罚治理已触顶。本文以历史同构与信号理论证明：标识不是惩罚烙印，而是信用存单——C2PA溯源市场正从20.6亿向51.2亿美元扩容，信用分层才是下一阶红利。",
+    "url": "https://www.tmtpost.com/8130806.html",
+    "published": "Mon, 07 Sep 2026 17:57:56 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-07"
   },
   {
-    "source": "钛媒体",
-    "title": "太空算力突然开始密集融资，资本到底在押什么？",
-    "summary": "五天三家融资，太空算力离真正生意还有多远？",
-    "url": "https://www.tmtpost.com/8130283.html",
-    "published": "Mon, 07 Sep 2026 09:03:15 +0800",
+    "source": "极客公园",
+    "title": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」",
+    "summary": "作者｜Cynthia 编辑｜ 郑玄 2016 年， 后来被反复宣布了无数次元年的 VR 产业，正式迎来了第一次爆发浪潮。 这一年 3 月 28 日，Oculus Rift 首批发货，售价 599 美元的产品很快被销售一空；两天后，曾在微软 Windows 10 发布会上被重点推介的 3000 美元 HoloLens 开发者版也迎来正式发售，此前围绕 HoloLens 举办的 11 城开发者巡展，名额开放 90 分钟便全部订满。同一时间还未正式发售 PlayStation VR 的索尼，则直接宣布已经有 230 多家开发商和发行商正在为它制作内容。 资本比硬件更为激进。高盛在当年年初把 VR/AR 直接称作下一代计算平台的竞争者；2 月，连消费级产品都还没有推出的 Magic Leap，则是一轮融资就拿到 7.935 亿美元，投后估值达到 45 亿美元。 至此，硬件、资本和开发者，都已形成共识。 只有中国计算机图形最知名的学者、时任微软亚研院首席研究员——童欣，是个例外。 论技术身位，那时的他已经在微软亚洲研究院工作了 17 年，负责网络图形组也有六年。论研究方向，他应该是当时最有理由相",
+    "url": "http://www.geekpark.net/news/369959",
+    "published": "Mon, 07 Sep 2026 18:26:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-07"
   },
   {
-    "source": "钛媒体",
-    "title": "独家丨央企领投，中科类脑完成B+轮融资，布局“Token工厂”",
-    "summary": "中科类脑的融资不是孤立事件，它踩在了一个更大的时间节点上。",
-    "url": "https://www.tmtpost.com/8130178.html",
-    "published": "Mon, 07 Sep 2026 08:55:00 +0800",
+    "source": "极客公园",
+    "title": "「AI Native 」不是魔法，「创业者」这三个字依旧厚重",
+    "summary": "上个月，我集中跑了一趟上海和深圳，也跟几位在 AI 前沿一线折腾的创业者深聊了几次。 齐俊元的新产品干了半年，我问他这阶段最大的收获是什么，他说了句挺朴素的话：「真的伸手去干的时候，你会发现认真还是挺重要的。」 这话听着很普通，事后却让我不断想起，放到当下的行业环境下看，也挺让人警醒的。 3 年来深入聊过至少 200 位 AI 创业者了，现在有一些已经有点丧气了。「AI 应用已经不能投了」的观点也在业内流传。觉得这不能干，那不能干，机会没了，窗口关了。但你反过来看，那些真正跑出来的产品，都有一个共同点——特别笃定地扎在一个方向上，然后往死里抠细节。 比如俊元做的产品，真正让我惊异的不是产品形态的创新，而是远超我想象的数据表现。你问他怎么做到的，他说就是要一点一点抠，数据、框架、工程，全都要优化，接下来要做后训练，说的全是细活。一步一步，日拱一卒。 Vivix 刘宇那边也是。他给我展示了他们模型的生成效率，大概 10 秒能出 9 个音画同步的视频。三年前 Demi 他们做 Pika 的时候，3 分钟出 4 个，那会儿都觉得快得不行了。平时我自己在即梦上，一条视频都要等半天，看到 10 秒",
+    "url": "http://www.geekpark.net/news/369955",
+    "published": "Mon, 07 Sep 2026 17:29:26 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了",
+    "summary": "「Super Intelligent！Super cool！」 你很难想到，华为终端 BG 董事长 余承东，会在正式场合突然充满自信的飙英文。 余承东在发布会上展示华为 Mate XT2 非凡大师三折叠手机｜图片来源：极客公园 9 月 7 日的华为秋季全场景发布会上，余承东在介绍当天的重磅新品华为 Mate XT2 非凡大师时，突然用英语评价起了这款产品，「超级智能、超级酷」，翻译过来就是英文版的「遥遥领先」。 余承东公布华为 Mate XT2 非凡大师三折叠手机售价｜图片来源：极客公园 作为隔年更新的第二代三折叠手机，19999 元起的华为Mate XT2 非凡大师固然是当天最大的亮点，但比产品本身更让人激动的，是余承东在介绍产品搭载的芯片时，团队将「麒麟 9050 Pro」的大字打在了屏幕上。 搭配上自研的 GPU、NPU等全套组合，Mate XT2 非凡大师代表华为已经基本有了「芯片自信」。 真旗舰，真非凡 作为全球首家推出三折叠手机的厂商，华为在三折叠上有显然的「领跑自信」，即便外国友商推出类似产品时，面对华为三折叠 100 万台的销量，也很难不「徒呼奈何」。 但如果细究起来，",
+    "url": "http://www.geekpark.net/news/369954",
+    "published": "Mon, 07 Sep 2026 17:13:27 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-07"
@@ -370,41 +390,21 @@
     "fetchedAt": "2026-09-07"
   },
   {
-    "source": "极客公园",
-    "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
-    "summary": "如果给模型安装个身体？你会选择什么。 这道题过去只属于硬件创业者，这个八月，它摆到了所有软件公司桌上。Hugging Face 交卷一只走路摇摇晃晃的鸭子，OpenAI 正在造自己的智能音箱，字节跳动旗下 TRAE 联名 FoloToy 开始改造自己挂在胸口的工牌。 很明显，软件公司造硬件的思路完全不同，他们想要的不是好用，而是主动以及可见。我可以看到我的 AI 走出电脑手机屏幕之外，更主动地参与用户生活的其他部分。 同时，硬件开始越来越便宜了，价格从过去的 799 美元，降低了 40 美元。很多硬件公司不再追求一个高利润的售价，而是选择用更便宜、更易上手、可玩度更高的硬件交给用户，让他们尽快走入自己的生态里，从而能长期收订阅费。 不仅如此，上一代硬件讲究交付一个定义完整的产品，像 Plaud 刚发的录音耳机，功能边界在出厂前被定义好，用户需要的只是使用。 但从近期产品展现的创新趋势来看，更多公司反而乐于去造一个半成品，搭好基本的框架，把更多的东西交给用户自己 DIY。这或许也是当下「造物」的另一种表现方式，不需要用户自己再手搓硬件，也能改造出自己想要的东西。放在用户面前的问题，从我要",
-    "url": "http://www.geekpark.net/news/369556",
-    "published": "Sun, 30 Aug 2026 18:58:17 +0800",
+    "source": "爱范儿",
+    "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+    "summary": "未来刚才来，它从何而来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Mon, 07 Sep 2026 07:54:48 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-07"
   },
   {
-    "source": "极客公园",
-    "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
-    "summary": "9 个月之后，OpenAI 的首款芯片成绩单终于揭晓了。 8 月 25 日，在 Hot Chips 大会上，OpenAI 硬件负责人 Richard Ho 站上讲台，公布了 Jalapeño 芯片的第一份公开跑分。 在 SemiAnalysis 的 InferenceX 基准测试中，这颗 OpenAI 与博通联合打造的推理芯片，在「每用户 token 数」和「每千瓦吞吐量」两项关键指标上，双双超过了当下市面上最先进的推理处理器英伟达 Blackwell 系统。 具体而言，OpenAI 用 SemiAnalysis 的公开基准工具 InferenceX，在 GPT-OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 三款公开大模型上，与英伟达对测。结果显示，三款模型上，Jalapeño 的峰值每瓦吞吐量是英伟达系统的 1.5 至 1.9 倍，用同样电量 Jalapeño 能多干近一倍的活。 三款模型峰值每千瓦吞吐对比｜图片来源：OpenAI 低延迟场景差距更大，跑 DeepSeek R1 时，单用户生成速度最高约 700 token/s，而英伟达 GB300",
-    "url": "http://www.geekpark.net/news/369555",
-    "published": "Sun, 30 Aug 2026 18:53:09 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "极客公园",
-    "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
-    "summary": "OpenAI 终止与 Cursor 合作 8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。 OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在于信任问题」。 OpenAI 列举了两起具体事件作为依据： 第一，Twitter（现已成为 SpaceX 的一部分）在马斯克收购后违反了与 OpenAI 的合同条款。相关诉讼至今仍是双方纠纷的背景。 第二，xAI（同样已并入 SpaceX）在今年早些时候，马斯克在宣誓作证时承认 xAI 违反了 OpenAI 的服务条款——通过蒸馏（distillation）技术使用 OpenAI 数据训练模型。 OpenAI 与 Cursor 签署的定制协议中明确规定：在公司控制权发生变更后，OpenAI 拥有在限定期限内终止协议的权利。 随着人工智能能力的不断演进，我们也承担着更高标准的责任，必须确保即将推出的新模型 Astra 能够严格遵循我们",
-    "url": "http://www.geekpark.net/news/369551",
-    "published": "Sun, 30 Aug 2026 08:28:43 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "极客公园",
-    "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
-    "summary": "8 月 28 日，腾讯发布并开源混元 Hy4 preview。 这是继 Hy3 正式版之后，腾讯推出的新一代大模型：总参数从 295B 增加到 770B，激活参数从 21B 增加到 49B，上下文长度也从 256K 扩展至 1M。模型已经同步进入 WorkBuddy、CodeBuddy、元宝和 ima，并可通过腾讯云 TokenHub 及 OpenRouter 调用。 此外，Hy4 preview 继续走普惠的高性价比路线。根据公布的价格信息，Hy4 preview 输入 6 元/百万 tokens，输出 18 元/百万 tokens，缓存命中 0.3 元/百万 tokens。 Hy3 此前已经替腾讯验证过一次产品化路径。它在 7 月发布后迅速进入腾讯的办公、编程和内容产品；腾讯披露，其 API 调用量在发布一周后达到上一代模型的 68 倍以上。Hy3 的优势是实用和高性价比：降低幻觉与常识错误，改善工具调用和多轮承接，让网页、表格、代码和文档从「能生成」变得「基本可用」。 Hy4 preview 要回答的，是下一道题。 相比 Hy3，Hy4 preview 把优化重点进一步推向软件工",
-    "url": "http://www.geekpark.net/news/369550",
-    "published": "Sat, 29 Aug 2026 13:58:53 +0800",
+    "source": "爱范儿",
+    "title": "没自带 Token，就不配上大学了？",
+    "summary": "这个月生活费是给外卖，还是给大模型？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1678648?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Sun, 06 Sep 2026 02:02:18 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-07"
@@ -435,26 +435,6 @@
     "summary": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Fri, 04 Sep 2026 00:10:13 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "爱范儿",
-    "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
-    "summary": "OpenAI：欢迎来到 AGI 时代 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1678196?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 03 Sep 2026 23:03:17 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "爱范儿",
-    "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-    "summary": "Gemini 圣质如初 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Wed, 02 Sep 2026 22:52:37 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-07"
@@ -495,6 +475,46 @@
     "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
     "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
     "published": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Baidu’s Xiaodu schedules AI hardware launch for Sept. 8",
+    "summary": "Baidu’s smart-device business Xiaodu will unveil new hardware at a product event on Sept. 8 at 2 p.m. Beijing time. The lineup includes smart displays, Tiantian companion screens, smart speakers and cameras featuring the company’s upgraded Chaoneng Xiaodu AI assistant. The invitation also lists a second-generation AI monitoring agent for Xiaodu’s cameras. The launch follows […]",
+    "url": "https://technode.com/2026/09/07/baidu-xiaodu-ai-hardware-launch/",
+    "published": "Mon, 07 Sep 2026 05:51:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Nubia sets Sept. 16 launch for Doubao-powered NaviX Ultra",
+    "summary": "Nubia will launch its NaviX Ultra smartphone on Sept. 16 at 2 p.m. Beijing time. Jointly developed by ZTE and ByteDance, the handset will feature the Doubao mobile assistant and is being positioned as an AI agent phone. Nubia and ChangXin Memory Technologies have confirmed that the device will use the Chinese supplier’s LPDDR5X memory […]",
+    "url": "https://technode.com/2026/09/07/nubia-navix-ultra-ai-agent-phone/",
+    "published": "Mon, 07 Sep 2026 05:33:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek reportedly plans 160,000-chip Huawei cluster in Inner Mongolia",
+    "summary": "DeepSeek plans to deploy at least 160,000 Huawei Ascend 950DT accelerators at a data center it is building in Inner Mongolia, according to people familiar with the matter. The proposed installation would be among the largest known clusters of Huawei AI chips, although its deployment schedule depends on the chipmaker’s production capacity. The AI developer […]",
+    "url": "https://technode.com/2026/09/07/deepseek-huawei-ascend-950dt-chips-inner-mongolia/",
+    "published": "Mon, 07 Sep 2026 05:28:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi’s cumulative EV deliveries surpass 800,000",
+    "summary": "Xiaomi has delivered more than 800,000 electric vehicles since entering the market, founder and CEO Lei Jun announced on Sept. 7. The milestone comes roughly 29 months after the company began handing over its first SU7 sedans in April 2024. Xiaomi reported more than 30,000 deliveries in August. At a July 30 technology event, Lei […]",
+    "url": "https://technode.com/2026/09/07/xiaomi-ev-deliveries-800000/",
+    "published": "Mon, 07 Sep 2026 05:26:44 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-07"
@@ -630,41 +650,11 @@
     "fetchedAt": "2026-09-07"
   },
   {
-    "source": "TechNode",
-    "title": "Chinese spatial-intelligence firm Manycore launches Lux3D and starts world-model testing",
-    "summary": "Manycore Tech, a Chinese spatial-intelligence company, launched Lux3D on Aug. 27 and began testing a next-generation world-model product. Lux3D generates 3D assets from text or images, with its Turbo Mode producing models in as little as 20 seconds. The company has also opened API access, allowing batch generation through Harness Mode for workflows including e-commerce, […]",
-    "url": "https://technode.com/2026/08/28/chinese-spatial-intelligence-firm-manycore-launches-lux3d-and-starts-world-model-testing/",
-    "published": "Fri, 28 Aug 2026 06:06:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "TechNode",
-    "title": "Embodied-AI startup PsiBot raises over $100 million with industrial investors joining",
-    "summary": "PsiBot, a Chinese embodied-AI startup focused on dexterous manipulation, has completed a new funding round of more than US$100 million. The round includes Ningbo Tuopu Group, a Chery Holdings-backed fund, Lens Technology, 37 Interactive Entertainment, Wuhu Investment Holding Group and Fosun Fortune Capital. Existing shareholder Zhuhai Technology Industry Group also continued to invest. The funds […]",
-    "url": "https://technode.com/2026/08/28/embodied-ai-startup-psibot-raises-over-100-million-with-industrial-investors-joining/",
-    "published": "Fri, 28 Aug 2026 05:59:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "TechNode",
-    "title": "China’s daily AI token usage tops 500 trillion as compute demand grows",
-    "summary": "China’s daily AI token call volume exceeded 500 trillion as of June 2026, as large-model applications expanded across industries. The figure measures aggregate model processing activity rather than the number of users or models. Industry representatives said model update cycles have shortened from roughly three months to four to six weeks. Agent workflows also repeatedly […]",
-    "url": "https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/",
-    "published": "Fri, 28 Aug 2026 05:53:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-07"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ant Group launches finance-tuned Ling model, plans to open-source it next week",
-    "summary": "Ant Group has launched the finance-tuned Ling-3.0-flash-Fin model, retaining the Ling-3.0-flash architecture and its 124 billion total parameters and 5.1 billion active parameters. The model weights are scheduled to be released next week. Ling-3.0-flash-Fin is optimized for annual reports, financial workbooks and multi-document research, as well as information retrieval, investment analysis, valuation modeling and banking […]",
-    "url": "https://technode.com/2026/08/28/ant-group-launches-finance-tuned-ling-model-plans-to-open-source-it-next-week/",
-    "published": "Fri, 28 Aug 2026 05:38:28 +0000",
+    "source": "The Verge",
+    "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+    "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley […]",
+    "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+    "published": "2026-09-07T07:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-07"
@@ -690,6 +680,210 @@
     "fetchedAt": "2026-09-07"
   },
   {
+    "source": "Hacker News",
+    "title": "Omarchy Funding Climbs to $13M, with over $4M a Year Set for Spending",
+    "summary": "Article URL: https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/ Comments URL: https://news.ycombinator.com/item?id=49591633 Points: 4 # Comments: 5",
+    "url": "https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/",
+    "published": "Sun, 06 Sep 2026 22:38:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "German startup sends first commercial rocket into space from Europe",
+    "summary": "Article URL: https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe Comments URL: https://news.ycombinator.com/item?id=49588635 Points: 13 # Comments: 1",
+    "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+    "published": "Sun, 06 Sep 2026 17:16:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "If a startup worth your career",
+    "summary": "Article URL: https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide Comments URL: https://news.ycombinator.com/item?id=49588557 Points: 4 # Comments: 2",
+    "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
+    "published": "Sun, 06 Sep 2026 17:08:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic IPO launch shifts toward mid-October",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html Comments URL: https://news.ycombinator.com/item?id=49583675 Points: 4 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+    "published": "Sun, 06 Sep 2026 05:45:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Isar Aerospace launch into orbit [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 106 # Comments: 18",
+    "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+    "published": "Sat, 05 Sep 2026 20:25:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Billionaires Are Funding 'Anti AI' Content [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=mzlu4FSXBNw Comments URL: https://news.ycombinator.com/item?id=49575811 Points: 4 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=mzlu4FSXBNw",
+    "published": "Sat, 05 Sep 2026 12:16:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Reusable Launch and Space Vehicle History",
+    "summary": "Article URL: https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX Comments URL: https://news.ycombinator.com/item?id=49565007 Points: 1 # Comments: 0",
+    "url": "https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX",
+    "published": "Fri, 04 Sep 2026 14:16:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "X Corp blocks social media startup from using 'Twitter' name",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/ Comments URL: https://news.ycombinator.com/item?id=49561739 Points: 7 # Comments: 1",
+    "url": "https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/",
+    "published": "Fri, 04 Sep 2026 07:45:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Mayor Mamdani's Friendly Influencers and Funding of Public Messaging in New York",
+    "summary": "Article URL: https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php Comments URL: https://news.ycombinator.com/item?id=49560642 Points: 2 # Comments: 1",
+    "url": "https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php",
+    "published": "Fri, 04 Sep 2026 04:49:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
+    "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that ",
+    "url": "https://news.ycombinator.com/item?id=49557020",
+    "published": "Thu, 03 Sep 2026 21:07:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
+    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're billion dollar companies but how do people in start ups find a team like that? Not just employees but a",
+    "url": "https://news.ycombinator.com/item?id=49556698",
+    "published": "Thu, 03 Sep 2026 20:46:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 2",
+    "url": "https://news.ycombinator.com/item?id=49555417",
+    "published": "Thu, 03 Sep 2026 19:29:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+    "summary": "Hi HN, I'm Ansh, founder of Mireye ( https://www.mireye.com ). I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server. Here's a demo video: https://www.youtube.com/watch?v=haqO6UbUqU0 To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai . The fastest way in is to ask the",
+    "url": "https://news.ycombinator.com/item?id=49552616",
+    "published": "Thu, 03 Sep 2026 16:24:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Founders that raised funding and shutdown, did you raise again?",
+    "summary": "Curious to know the number of repeat founders here who shutdown and raised again, or chose not to raise the second time. I bootstrapped, raised, shutdown, went solo again, thinking about next steps. Ultimately funding and the VC market is a tool but it comes with a lot of baggage. Thoughts? Comments URL: https://news.ycombinator.com/item?id=49549602 Points: 18 # Comments: 1",
+    "url": "https://news.ycombinator.com/item?id=49549602",
+    "published": "Thu, 03 Sep 2026 13:21:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Outfund.me – an open-source platform for alternative startup funding",
+    "summary": "Article URL: https://outfund.me/ Comments URL: https://news.ycombinator.com/item?id=49548826 Points: 2 # Comments: 0",
+    "url": "https://outfund.me/",
+    "published": "Thu, 03 Sep 2026 11:55:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+    "summary": "Article URL: https://theyfell.com/ Comments URL: https://news.ycombinator.com/item?id=49543617 Points: 9 # Comments: 7",
+    "url": "https://theyfell.com/",
+    "published": "Wed, 02 Sep 2026 22:45:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets ",
+    "url": "https://news.ycombinator.com/item?id=49543530",
+    "published": "Wed, 02 Sep 2026 22:36:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260901010705.htm Comments URL: https://news.ycombinator.com/item?id=49543404 Points: 1 # Comments: 0",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
+    "published": "Wed, 02 Sep 2026 22:22:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "1Password wades into a right-wing mess after funding a Linux project",
+    "summary": "Article URL: https://www.theverge.com/tech/988536/1password-dhh-linux-controversy Comments URL: https://news.ycombinator.com/item?id=49541887 Points: 29 # Comments: 5",
+    "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+    "published": "Wed, 02 Sep 2026 20:19:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-07"
+  },
+  {
+    "source": "微博",
+    "title": "#华为再发布高性能芯片#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23华为再发布高性能芯片%23",
+    "published": "2026-09-07",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-07",
+    "meta": {
+      "hotValue": 339221,
+      "rank": 29
+    }
+  },
+  {
     "source": "GitHub新星",
     "title": "lnkiai/m3e-canvas",
     "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -699,10 +893,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-07",
     "meta": {
-      "stars": 4350,
-      "forks": 374,
+      "stars": 4505,
+      "forks": 387,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -715,8 +909,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-07",
     "meta": {
-      "stars": 2254,
-      "forks": 388,
+      "stars": 2329,
+      "forks": 400,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -731,8 +925,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-07",
     "meta": {
-      "stars": 1453,
-      "forks": 382,
+      "stars": 1709,
+      "forks": 449,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -747,8 +941,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-07",
     "meta": {
-      "stars": 1302,
-      "forks": 1514,
+      "stars": 1575,
+      "forks": 1979,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -763,8 +957,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-07",
     "meta": {
-      "stars": 987,
-      "forks": 155,
+      "stars": 1139,
+      "forks": 156,
       "language": "Python",
       "createdDaysAgo": 1
     }
