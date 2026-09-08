@@ -120,16 +120,6 @@
     "fetchedAt": "2026-09-08"
   },
   {
-    "source": "钛媒体",
-    "title": "自动驾驶商业化大考：谁来为无人驾驶买单？",
-    "summary": "自动驾驶行业的核心命题，已从“技术能否实现”的可能性问题，转向“产业如何自我造血”的可持续性问题。",
-    "url": "https://www.tmtpost.com/8132710.html",
-    "published": "Tue, 08 Sep 2026 16:09:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
     "source": "极客公园",
     "title": "IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上",
     "summary": "本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇 屏幕消失不是做减法，是把「显示」换成了「采集」。 作者｜张勇毅 编辑｜ 靖宇 IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到 2000 尼特，国内 289 元起，9 月 7 日首售。官方通稿的第一个卖点，就是这块屏幕在太阳底下有多清楚。 同一周的同一个展馆里，另一批穿戴设备正在把屏幕拆掉。 会场对面地铁站附近，Plaud 的广告｜图片来源：极客公园 Luna Band 从 IFA 开幕这天起全球发货，149 美元，没有屏幕，也没有订阅费；Circular 发了两枚戒指，最薄的那枚 1.9 克；Hama 拿出一枚 129 欧元的戒指；一家深圳团队做的 11 克录音手环，可以扣在 Apple Watch 的表带旁边；还有一条会看着你吃饭的项链，拿了今年的 IFA 创新奖。 「今年 IFA 来的不只是欧洲本地的观众，有不少来自中东甚至南美的代理商也来到这里，看看有没有哪些适合在他们当地销售的可穿戴硬件产品」一位智能戒指公司创始人这样形容今年 IFA 的不同",
@@ -441,6 +431,56 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "published": "Tue, 08 Sep 2026 21:04:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+    "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+    "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+    "published": "Tue, 08 Sep 2026 20:47:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "published": "Tue, 08 Sep 2026 14:17:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+    "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+    "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+    "published": "Tue, 08 Sep 2026 14:10:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+    "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+    "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+    "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechCrunch",
     "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
     "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
     "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
@@ -455,46 +495,6 @@
     "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
     "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
     "published": "Mon, 07 Sep 2026 15:58:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "published": "Sun, 06 Sep 2026 16:45:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "published": "Fri, 04 Sep 2026 23:36:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-    "published": "Fri, 04 Sep 2026 17:52:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "What will Apple’s John Ternus era look like?",
-    "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "published": "Fri, 04 Sep 2026 17:18:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-08"
@@ -681,20 +681,80 @@
   },
   {
     "source": "The Verge",
-    "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-    "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has […]",
-    "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-    "published": "2026-09-07T22:00:00-04:00",
+    "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+    "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls […]",
+    "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+    "published": "2026-09-08T12:06:56-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-08"
   },
   {
     "source": "The Verge",
-    "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-    "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley […]",
-    "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-    "published": "2026-09-07T07:00:00-04:00",
+    "title": "The White House pulls its racist Tetris clone",
+    "summary": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-sized blocks to prevent a \"zombie border siege.\" It's not clear why the White House removed the title, though the Tetris Company […]",
+    "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+    "published": "2026-09-08T12:00:51-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I found a weird old startup's LaserDisc",
+    "summary": "I don't know anything about the company (other than the fact that it went kaput in the mid 90s) or the product. Anyone here happen to know anything about it? (Weirder things have happened!) Comments URL: https://news.ycombinator.com/item?id=49618172 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=AXOoyxisEMg",
+    "published": "Tue, 08 Sep 2026 22:42:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Solo-Dev Ship Checklist – a 10-item pre-launch checklist for indie devs",
+    "summary": "Article URL: https://merlin-ship-checklist.surge.sh Comments URL: https://news.ycombinator.com/item?id=49618086 Points: 2 # Comments: 0",
+    "url": "https://merlin-ship-checklist.surge.sh",
+    "published": "Tue, 08 Sep 2026 22:33:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+    "summary": "Article URL: https://endframe.ai/ Comments URL: https://news.ycombinator.com/item?id=49611174 Points: 3 # Comments: 0",
+    "url": "https://endframe.ai/",
+    "published": "Tue, 08 Sep 2026 14:52:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "GPT-6 Astra one-shots a launch video in an open-source editor",
+    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49611103 Points: 3 # Comments: 0",
+    "url": "https://github.com/veedstudio/open-edit",
+    "published": "Tue, 08 Sep 2026 14:47:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628 Comments URL: https://news.ycombinator.com/item?id=49610466 Points: 2 # Comments: 0",
+    "url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628",
+    "published": "Tue, 08 Sep 2026 13:59:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tianwen-3 Mars Sample Return Mission Progresses Towards 2028 Launch",
+    "summary": "Article URL: https://www.china-in-space.com/p/tianwen-3-mars-sample-return-mission Comments URL: https://news.ycombinator.com/item?id=49610366 Points: 2 # Comments: 0",
+    "url": "https://www.china-in-space.com/p/tianwen-3-mars-sample-return-mission",
+    "published": "Tue, 08 Sep 2026 13:52:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-08"
@@ -722,7 +782,7 @@
   {
     "source": "Hacker News",
     "title": "Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant",
-    "summary": "Article URL: https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/ Comments URL: https://news.ycombinator.com/item?id=49602320 Points: 18 # Comments: 15",
+    "summary": "Article URL: https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/ Comments URL: https://news.ycombinator.com/item?id=49602320 Points: 19 # Comments: 15",
     "url": "https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/",
     "published": "Mon, 07 Sep 2026 19:57:23 +0000",
     "lang": "en",
@@ -762,7 +822,7 @@
   {
     "source": "Hacker News",
     "title": "Omarchy Funding Climbs to $13M, with over $4M a Year Set for Spending",
-    "summary": "Article URL: https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/ Comments URL: https://news.ycombinator.com/item?id=49591633 Points: 4 # Comments: 6",
+    "summary": "Article URL: https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/ Comments URL: https://news.ycombinator.com/item?id=49591633 Points: 5 # Comments: 8",
     "url": "https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/",
     "published": "Sun, 06 Sep 2026 22:38:05 +0000",
     "lang": "en",
@@ -840,70 +900,6 @@
     "fetchedAt": "2026-09-08"
   },
   {
-    "source": "Hacker News",
-    "title": "Mayor Mamdani's Friendly Influencers and Funding of Public Messaging in New York",
-    "summary": "Article URL: https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php Comments URL: https://news.ycombinator.com/item?id=49560642 Points: 2 # Comments: 1",
-    "url": "https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php",
-    "published": "Fri, 04 Sep 2026 04:49:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
-    "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that ",
-    "url": "https://news.ycombinator.com/item?id=49557020",
-    "published": "Thu, 03 Sep 2026 21:07:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
-    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're billion dollar companies but how do people in start ups find a team like that? Not just employees but a",
-    "url": "https://news.ycombinator.com/item?id=49556698",
-    "published": "Thu, 03 Sep 2026 20:46:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 2",
-    "url": "https://news.ycombinator.com/item?id=49555417",
-    "published": "Thu, 03 Sep 2026 19:29:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-    "summary": "Hi HN, I'm Ansh, founder of Mireye ( https://www.mireye.com ). I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server. Here's a demo video: https://www.youtube.com/watch?v=haqO6UbUqU0 To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai . The fastest way in is to ask the",
-    "url": "https://news.ycombinator.com/item?id=49552616",
-    "published": "Thu, 03 Sep 2026 16:24:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "微博",
-    "title": "#太子奶创始人李途纯去世#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23太子奶创始人李途纯去世%23",
-    "published": "2026-09-08",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-08",
-    "meta": {
-      "hotValue": 228792,
-      "rank": 9
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "lnkiai/m3e-canvas",
     "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -913,8 +909,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 4909,
-      "forks": 436,
+      "stars": 5200,
+      "forks": 476,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -929,10 +925,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 2275,
-      "forks": 585,
+      "stars": 2451,
+      "forks": 626,
       "language": "TypeScript",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Albert-Weasker/niubigeo",
+    "summary": "Open-source AI brand visibility and competitor reports",
+    "url": "https://github.com/Albert-Weasker/niubigeo",
+    "published": "2026-09-03T15:55:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-08",
+    "meta": {
+      "stars": 2161,
+      "forks": 68,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -945,26 +957,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 1903,
-      "forks": 2484,
+      "stars": 1937,
+      "forks": 2510,
       "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "pierrenade/short-video-generator-AI",
-    "summary": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-    "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "published": "2026-09-05T11:55:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-08",
-    "meta": {
-      "stars": 1217,
-      "forks": 172,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 4
     }
   },
   {
@@ -977,8 +973,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 1030,
-      "forks": 160,
+      "stars": 1121,
+      "forks": 169,
       "language": "Python",
       "createdDaysAgo": 1
     }
@@ -993,10 +989,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 995,
-      "forks": 160,
+      "stars": 1092,
+      "forks": 181,
       "language": "Swift",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   }
 ]
