@@ -101,20 +101,50 @@
   },
   {
     "source": "钛媒体",
-    "title": "超30%涨价函的背后：高端MLCC供需缺口扩大，国产替代进入“卡位赛”| 行业风向标",
-    "summary": "MLCC的国产替代正在加速。",
-    "url": "https://www.tmtpost.com/8132166.html",
-    "published": "Tue, 08 Sep 2026 12:05:24 +0800",
+    "title": "大模型的Token生意，终究没绕过天猫",
+    "summary": "模型能力被放上同一张价签。",
+    "url": "https://www.tmtpost.com/8132584.html",
+    "published": "Tue, 08 Sep 2026 18:02:28 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-08"
   },
   {
     "source": "钛媒体",
-    "title": "史玉柱卖在巨人网络千亿市值腰斩时",
-    "summary": "爆款游戏撑起50亿，创始人在业绩巅峰时“先走一步”。",
-    "url": "https://www.tmtpost.com/8131888.html",
-    "published": "Tue, 08 Sep 2026 09:46:00 +0800",
+    "title": "从AI PC到个人AI，联想敲定新赛道｜IFA 2026",
+    "summary": "携手英伟达，联想将千亿参数大模型装进笔记本。",
+    "url": "https://www.tmtpost.com/8132045.html",
+    "published": "Tue, 08 Sep 2026 17:58:51 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "钛媒体",
+    "title": "自动驾驶商业化大考：谁来为无人驾驶买单？",
+    "summary": "自动驾驶行业的核心命题，已从“技术能否实现”的可能性问题，转向“产业如何自我造血”的可持续性问题。",
+    "url": "https://www.tmtpost.com/8132710.html",
+    "published": "Tue, 08 Sep 2026 16:09:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "极客公园",
+    "title": "IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上",
+    "summary": "本文转载自 Hardwire，欢迎关注，共同看见硬件行业新风向 👇 屏幕消失不是做减法，是把「显示」换成了「采集」。 作者｜张勇毅 编辑｜ 靖宇 IFA 开幕前一天，小米在柏林把手环 11 端了出来。还是 1.72 英寸的屏幕，亮度从上一代的 1500 尼特提到 2000 尼特，国内 289 元起，9 月 7 日首售。官方通稿的第一个卖点，就是这块屏幕在太阳底下有多清楚。 同一周的同一个展馆里，另一批穿戴设备正在把屏幕拆掉。 会场对面地铁站附近，Plaud 的广告｜图片来源：极客公园 Luna Band 从 IFA 开幕这天起全球发货，149 美元，没有屏幕，也没有订阅费；Circular 发了两枚戒指，最薄的那枚 1.9 克；Hama 拿出一枚 129 欧元的戒指；一家深圳团队做的 11 克录音手环，可以扣在 Apple Watch 的表带旁边；还有一条会看着你吃饭的项链，拿了今年的 IFA 创新奖。 「今年 IFA 来的不只是欧洲本地的观众，有不少来自中东甚至南美的代理商也来到这里，看看有没有哪些适合在他们当地销售的可穿戴硬件产品」一位智能戒指公司创始人这样形容今年 IFA 的不同",
+    "url": "http://www.geekpark.net/news/370007",
+    "published": "Tue, 08 Sep 2026 15:29:19 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "极客公园",
+    "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
+    "summary": "「有人星夜赶科场，有人辞官归故里。」 作者｜张勇毅 编辑｜靖宇 过去很长一段时间里，微软员工之间流传着一张自发维护的表格，用来互相交换薪资和奖金数字，大公司里常见的那种「工资透明化」地下工程。 今年，这张后来被 Business Insider 拿到的表格上，多出了一列新数字：「每月 AI 花费」。 各部门员工自报 AI 用量，28 天口径｜图片来源：Business Insider 约 350 名美国员工填了这一列。最高的那一格写着：28 天，2.8 万美元（约合 19 万元人民币）。 微软的反应不是给这位同学发先进。据 Android Headlines 报道，公司已经开始收紧 token 用量管理：部门级预算生效，个人 token 支出进了仪表盘，内部默认模型切到了 OpenAI 的 GPT-5.6 Sol。 翻译一下就是，微软开始内部查账了。 01 token 用量分出阶级 这张表格最大的信息量不在数字，在位置——「AI 花费」这一列，出现在晒工资的表格里。 员工把 AI 用量填在薪资旁边，意思再明白不过，在 2026 年的微软，你每月烧掉多少 token，和你赚多少钱一样，是",
+    "url": "http://www.geekpark.net/news/370006",
+    "published": "Tue, 08 Sep 2026 15:27:11 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-08"
@@ -380,26 +410,6 @@
     "fetchedAt": "2026-09-08"
   },
   {
-    "source": "极客公园",
-    "title": "人类，越来越难理解 AI",
-    "summary": "作者｜Techno 之王 编辑｜靖宇 很多使用 AI 的同学，应该都看到过 AI 助手在回答你问题之前，它们的一些思考。例如 DeepSeek 曾经在思考中判断「卧槽，用户怒了！」。 你很难说这是整活，还是 AI 真的在思考。 好在，世界上真的有人，在全职审核 AI 大模型的「思维链」，例如 Bronson Schoen。 作为 AI 安全机构 Apollo Research 的研究员，Bronson 的主要工作内容是阅读前沿 AI 模型的思维链 Chain of Thought——也就是推理模型在给出答案之前，内部进行的那一长串「思考过程」。普通用户看不到或常常忽视这些内容，但 Apollo 和 OpenAI 等公司有深度合作，Bronson 因此获得了罕见的「阅读权限」。 你可以说，Bronson 可能是全世界读过最多 AI 内心独白的人。 在最近一期 Cognitive Revolution 播客中，Bronson 把他的发现做了一次系统性分享。这些发现涉及 AI 模型在训练过程中如何思考、如何发展出自己的「语言」、如何为自己的作弊行为找理由，以及更重要的，人们依赖的「思维链监控",
-    "url": "http://www.geekpark.net/news/369609",
-    "published": "Mon, 31 Aug 2026 15:12:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "极客公园",
-    "title": "399 美元的小黄鸭，藏着 Hugging Face 最大的野心",
-    "summary": "作者｜ 宇航猿 编辑｜ 靖宇 很少有机器人，能让你第一眼就笑出来。 8 月 27 日，Hugging Face 旗下的 Pollen Robotics，开放了 Microduck 的预购。 一只 25 厘米高、不到 800 克重的双足机器鸭，四种配色，399 美元，圣诞节前发货。它能走路，能蹲下再站起来，被推倒了自己翻身，甚至能踩上一对可拆卸的轮滑鞋溜冰。嘴巴是铰接式的，低头叼起地上的袜子或马克笔，再直起身子，嘴里还叼着「战利品」。 Microduck 足球赛｜图片来源：Hugging Face 它没有语音交互，不会说话，但有麦克风和扬声器，每一只 Microduck 在初始设置后会生成自己独有的「音色身份」。 官方的设定很明确—— 把它当一个活物，而不是一个助手。 如果你只看到了「可爱」，那你大概率低估了这只鸭子背后的东西。 01 拆箱就能玩的「电子宠物」 盒子里的东西很简单——机器人本体、一块电池、一根 USB-C 线、一只游戏手柄。充上电，配对手柄，鸭子就能动了。 出厂预装了 7 种行为策略，每一种都是经过强化学习训练的独立动作模型。用手柄推摇杆，Microduck 迈开两条小短",
-    "url": "http://www.geekpark.net/news/369608",
-    "published": "Mon, 31 Aug 2026 15:09:46 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
     "summary": "· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目 · 字节跳动锁定 296 亿美元贷款，近 30 家银行参与 · 机构：全球折叠屏手机累计出货量年内将突破 1 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -485,6 +495,66 @@
     "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
     "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
     "published": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs",
+    "summary": "Editor’s note: This article was written by Lucia, a TechNode reporter. What does a humanoid robot boom actually look like? In China, it is taking shape not only in capital investment and production, but in the growing range of places where robots are being put to use. Unitree helped put China’s robotics boom on the […]",
+    "url": "https://technode.com/2026/09/08/chinas-humanoid-robot-boom-part-ii-startups-move-from-robot-shows-to-real-jobs/",
+    "published": "Tue, 08 Sep 2026 09:23:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei launches Mate XT 2 as the first smartphone to commercialize its LogicFolding Tau chip",
+    "summary": "Huawei has launched the Mate XT 2 ULTIMATE DESIGN, billing it as the first smartphone to feature its LogicFolding Tau chip and reach mass commercialization. The device also debuts the Kirin 9050 Pro processor and Huawei’s third-generation tri-fold design. The Mate XT 2 starts at RMB 19,999 and will go on sale in China on […]",
+    "url": "https://technode.com/2026/09/08/huawei-mate-xt2-logicfolding-tau-chip/",
+    "published": "Tue, 08 Sep 2026 05:30:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "WeChat Pay launches a smart-glasses SDK for QR-code payments",
+    "summary": "WeChat Pay has launched a software development kit for smart-glasses makers, with Rokid AI Glasses among the first products to support it. Users can initiate a payment scan by voice, look at a QR code and slide the glasses’ temple to confirm the transaction. The SDK currently requires a connected smartphone and supports QR-code payments […]",
+    "url": "https://technode.com/2026/09/08/wechat-pay-smart-glasses-sdk-qr-code-payments/",
+    "published": "Tue, 08 Sep 2026 05:19:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance is reportedly developing a real-time spatial video model under Zhang Yiming",
+    "summary": "ByteDance is preparing an AI model for real-time spatial video generation, with founder Zhang Yiming personally overseeing the project, Bloomberg reported. The model could launch as early as next month, although the timing has not been finalized and the plan could still change. Built on ByteDance’s Seedance video-generation model, the system is designed to create […]",
+    "url": "https://technode.com/2026/09/08/bytedance-real-time-spatial-video-model-zhang-yiming/",
+    "published": "Tue, 08 Sep 2026 05:16:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi launches four SkyNomad range-extended SUVs, including an Explorer Edition with an electric lifting roof",
+    "summary": "Xiaomi has launched four SkyNomad range-extended SUVs: the N70 Pro, N70 Max, N90 Max and N90 Max Explorer Edition. The models are priced from RMB 209,900 to RMB 299,900, with the Explorer Edition positioned as a five-seat vehicle for camping and outdoor use. The Explorer Edition features a built-in electric lifting roof that can create […]",
+    "url": "https://technode.com/2026/09/08/xiaomi-skynomad-range-extended-suvs-electric-lifting-roof/",
+    "published": "Tue, 08 Sep 2026 05:14:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei launches the Pura X View wide-screen smartphone from RMB 5,999",
+    "summary": "Huawei has launched the Pura X View, a wide-screen smartphone with a 16:9.5 display that the company positions as a new form factor for video, reading and gaming. The phone is 6.68 millimeters thick, weighs about 201 grams and uses the Kirin 9030S processor. The Pura X View starts at RMB 5,999 for the 12GB-plus-256GB […]",
+    "url": "https://technode.com/2026/09/08/huawei-pura-x-view-wide-screen-smartphone/",
+    "published": "Tue, 08 Sep 2026 05:11:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-08"
@@ -610,66 +680,6 @@
     "fetchedAt": "2026-09-08"
   },
   {
-    "source": "TechNode",
-    "title": "Huawei, Xiaomi and Honor reportedly raise smartphone prices in China",
-    "summary": "Huawei, Xiaomi and Honor have reportedly raised prices for multiple smartphone models in China, with the changes taking effect on Sept. 1. The reported adjustments cover Huawei’s Mate 80 lineup and Enjoy 90 Pro Max, Xiaomi’s Mi 17 series and Redmi K90, and Honor’s Power2 and Magic8. The reported increases range from several hundred yuan […]",
-    "url": "https://technode.com/2026/09/01/huawei-xiaomi-honor-smartphone-price-increases/",
-    "published": "Tue, 01 Sep 2026 05:41:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "SenseTime spinout Sunrise reportedly raises RMB2 billion at RMB20 billion valuation",
-    "summary": "Sunrise, an AI chipmaker spun out of SenseTime’s chip business, has reportedly raised RMB2 billion ($280 million) at a post-money valuation of about RMB20 billion. The reported financing would nearly double the company’s valuation from its previous round, according to a report published on Aug. 28. The company is developing chips for AI inference, a […]",
-    "url": "https://technode.com/2026/08/31/sensetime-spinout-sunrise-reportedly-raises-rmb2-billion-at-rmb20-billion-valuation/",
-    "published": "Mon, 31 Aug 2026 06:38:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "MiniMax raises Alibaba Cloud spending ceiling to $1.2 billion",
-    "summary": "MiniMax has raised the spending ceiling of its three-year agreement with Alibaba Cloud by 220% to $1.2 billion, according to a filing cited in a report published on Aug. 28. The annual limits were raised to $300 million for 2026, $400 million for 2027 and $500 million for 2028, from $115 million, $125 million and […]",
-    "url": "https://technode.com/2026/08/31/minimax-raises-alibaba-cloud-spending-ceiling-to-1-2-billion/",
-    "published": "Mon, 31 Aug 2026 06:35:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "CXMT starts LPDDR6 mass production for Xiaomi’s upcoming 18 Fold",
-    "summary": "Chinese memory chipmaker ChangXin Memory Technologies has started mass production of LPDDR6 DRAM and will supply the chips for Xiaomi’s upcoming 18 Fold foldable smartphone, the companies said on Aug. 29. Xiaomi has confirmed that the phone is scheduled to launch in September. The development comes less than a year after CXMT began mass-producing its […]",
-    "url": "https://technode.com/2026/08/31/cxmt-starts-lpddr6-mass-production-for-xiaomis-upcoming-18-fold/",
-    "published": "Mon, 31 Aug 2026 06:33:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei opens preorders for Mate XT2 ahead of September 7 launch",
-    "summary": "Huawei opened preorders for its Mate XT2 tri-fold smartphone on Aug. 31, ahead of an official launch event scheduled for Sept. 7. The company began accepting reservations at 10:08 a.m. China time, marking the next commercial step for its new foldable device. Huawei has described the Mate XT2 as using a new structural design intended […]",
-    "url": "https://technode.com/2026/08/31/huawei-opens-preorders-for-mate-xt2-ahead-of-september-7-launch/",
-    "published": "Mon, 31 Aug 2026 06:28:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
-    "source": "TechNode",
-    "title": "Baidu launches DuMateBench benchmark for real-world AI agent delivery",
-    "summary": "Baidu has launched DuMateBench, an evaluation leaderboard designed to measure whether AI agents can complete real-world tasks and deliver usable outputs, rather than only generate answers. The benchmark includes more than 200 office tasks across six categories and tests agent performance in complex operating environments. DuMateBench evaluates task understanding, tool use, continuous execution and final-result […]",
-    "url": "https://technode.com/2026/08/28/baidu-launches-dumatebench-benchmark-for-real-world-ai-agent-delivery/",
-    "published": "Fri, 28 Aug 2026 13:45:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-08"
-  },
-  {
     "source": "The Verge",
     "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
     "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has […]",
@@ -690,14 +700,208 @@
     "fetchedAt": "2026-09-08"
   },
   {
-    "source": "The Verge",
-    "title": "Europe has its first commercial orbital rocket",
-    "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. […]",
-    "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-    "published": "2026-09-06T15:04:22-04:00",
+    "source": "Hacker News",
+    "title": "Chinese tech giants Huawei and Xiaomi launch new foldable phones ahead of Apple",
+    "summary": "Article URL: https://www.nbcnews.com/world/asia/chinese-tech-companies-huawei-xiaomi-launch-new-foldable-phones-apple-rcna596533 Comments URL: https://news.ycombinator.com/item?id=49607955 Points: 2 # Comments: 0",
+    "url": "https://www.nbcnews.com/world/asia/chinese-tech-companies-huawei-xiaomi-launch-new-foldable-phones-apple-rcna596533",
+    "published": "Tue, 08 Sep 2026 09:39:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "8 years after launch, BepiColombo begins Mercury arrival",
+    "summary": "Article URL: https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival Comments URL: https://news.ycombinator.com/item?id=49603788 Points: 3 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
+    "published": "Mon, 07 Sep 2026 22:40:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant",
+    "summary": "Article URL: https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/ Comments URL: https://news.ycombinator.com/item?id=49602320 Points: 18 # Comments: 15",
+    "url": "https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/",
+    "published": "Mon, 07 Sep 2026 19:57:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event",
+    "summary": "Article URL: https://www.reuters.com/technology/huawei-launches-new-foldable-smartphone-competition-with-xiaomi-apple-heats-up-2026-09-07/ Comments URL: https://news.ycombinator.com/item?id=49601237 Points: 1 # Comments: 0",
+    "url": "https://www.reuters.com/technology/huawei-launches-new-foldable-smartphone-competition-with-xiaomi-apple-heats-up-2026-09-07/",
+    "published": "Mon, 07 Sep 2026 18:15:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "TrenchBoot DRTM Launch of Xen on Intel Sapphire Rapids",
+    "summary": "Article URL: https://www.youtube.com/watch?v=GfOf6EYTClU Comments URL: https://news.ycombinator.com/item?id=49601156 Points: 3 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=GfOf6EYTClU",
+    "published": "Mon, 07 Sep 2026 18:06:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "After IndexNow: 6 Launch Channels Indie Founders Skip, and How to Hit Them",
+    "summary": "Article URL: https://capytoolkit.com/blog/guides/after-indexnow-6-launch-channels-indie-founders-skip-weekend/ Comments URL: https://news.ycombinator.com/item?id=49601126 Points: 1 # Comments: 0",
+    "url": "https://capytoolkit.com/blog/guides/after-indexnow-6-launch-channels-indie-founders-skip-weekend/",
+    "published": "Mon, 07 Sep 2026 18:04:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Omarchy Funding Climbs to $13M, with over $4M a Year Set for Spending",
+    "summary": "Article URL: https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/ Comments URL: https://news.ycombinator.com/item?id=49591633 Points: 4 # Comments: 6",
+    "url": "https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/",
+    "published": "Sun, 06 Sep 2026 22:38:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "German startup sends first commercial rocket into space from Europe",
+    "summary": "Article URL: https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe Comments URL: https://news.ycombinator.com/item?id=49588635 Points: 13 # Comments: 1",
+    "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+    "published": "Sun, 06 Sep 2026 17:16:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "If a startup worth your career",
+    "summary": "Article URL: https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide Comments URL: https://news.ycombinator.com/item?id=49588557 Points: 4 # Comments: 2",
+    "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
+    "published": "Sun, 06 Sep 2026 17:08:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic IPO launch shifts toward mid-October",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html Comments URL: https://news.ycombinator.com/item?id=49583675 Points: 4 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+    "published": "Sun, 06 Sep 2026 05:45:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Isar Aerospace launch into orbit [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 107 # Comments: 18",
+    "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+    "published": "Sat, 05 Sep 2026 20:25:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Billionaires Are Funding 'Anti AI' Content [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=mzlu4FSXBNw Comments URL: https://news.ycombinator.com/item?id=49575811 Points: 4 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=mzlu4FSXBNw",
+    "published": "Sat, 05 Sep 2026 12:16:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Reusable Launch and Space Vehicle History",
+    "summary": "Article URL: https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX Comments URL: https://news.ycombinator.com/item?id=49565007 Points: 1 # Comments: 0",
+    "url": "https://www.hobbyspace.com/Links/RLV/RLVHistory.html#DCX",
+    "published": "Fri, 04 Sep 2026 14:16:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "X Corp blocks social media startup from using 'Twitter' name",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/ Comments URL: https://news.ycombinator.com/item?id=49561739 Points: 7 # Comments: 1",
+    "url": "https://www.reuters.com/legal/litigation/x-corp-blocks-social-media-startup-using-twitter-name-2026-09-03/",
+    "published": "Fri, 04 Sep 2026 07:45:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Mayor Mamdani's Friendly Influencers and Funding of Public Messaging in New York",
+    "summary": "Article URL: https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php Comments URL: https://news.ycombinator.com/item?id=49560642 Points: 2 # Comments: 1",
+    "url": "https://www.cjr.org/tow_center/mayor-mamdanis-friendly-influencers-and-the-funding-of-public-messaging-in-new-york-city.php",
+    "published": "Fri, 04 Sep 2026 04:49:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
+    "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that ",
+    "url": "https://news.ycombinator.com/item?id=49557020",
+    "published": "Thu, 03 Sep 2026 21:07:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: How do we build a team? (bootstrapped B2B startup)",
+    "summary": "Hi everyone, I'm 22 years old and I own a start up with my co-founder, we both just graduated college and we built a b2b SaaS that's live with 60 users and growing. We've been live since beginning of June. I wanted to post on here because we need help, real help and we don't know where to look or who to ask or how to find reliable people. We see teams like Cluely and Whop and obviously they're billion dollar companies but how do people in start ups find a team like that? Not just employees but a",
+    "url": "https://news.ycombinator.com/item?id=49556698",
+    "published": "Thu, 03 Sep 2026 20:46:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 2",
+    "url": "https://news.ycombinator.com/item?id=49555417",
+    "published": "Thu, 03 Sep 2026 19:29:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+    "summary": "Hi HN, I'm Ansh, founder of Mireye ( https://www.mireye.com ). I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server. Here's a demo video: https://www.youtube.com/watch?v=haqO6UbUqU0 To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai . The fastest way in is to ask the",
+    "url": "https://news.ycombinator.com/item?id=49552616",
+    "published": "Thu, 03 Sep 2026 16:24:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-08"
+  },
+  {
+    "source": "微博",
+    "title": "#太子奶创始人李途纯去世#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23太子奶创始人李途纯去世%23",
+    "published": "2026-09-08",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-08",
+    "meta": {
+      "hotValue": 228792,
+      "rank": 9
+    }
   },
   {
     "source": "GitHub新星",
@@ -709,10 +913,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 4746,
-      "forks": 415,
+      "stars": 4909,
+      "forks": 436,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -725,8 +929,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 2086,
-      "forks": 540,
+      "stars": 2275,
+      "forks": 585,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -741,8 +945,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 1855,
-      "forks": 2426,
+      "stars": 1903,
+      "forks": 2484,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -757,10 +961,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 1184,
-      "forks": 161,
+      "stars": 1217,
+      "forks": 172,
       "language": "Python",
       "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "EverettFish/holo-card-studio",
+    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "published": "2026-09-07T00:41:18Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-08",
+    "meta": {
+      "stars": 1030,
+      "forks": 160,
+      "language": "Python",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -773,8 +993,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-08",
     "meta": {
-      "stars": 953,
-      "forks": 152,
+      "stars": 995,
+      "forks": 160,
       "language": "Swift",
       "createdDaysAgo": 2
     }
