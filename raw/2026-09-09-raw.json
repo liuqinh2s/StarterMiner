@@ -101,6 +101,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市",
+    "summary": "OpenAI拟拓展芯片设计等垂直行业，并下调部分模型价格；深科技：子公司拟投资18.5亿元扩大高端存储芯片封测产能；阿里辟谣钉钉创始人“无招”回归；娃哈哈集团成被执行人；商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准；8月全球黄金ETF吸金180亿美元，创历史第二大单月流入。",
+    "url": "https://www.tmtpost.com/8134558.html",
+    "published": "Thu, 10 Sep 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-09"
+  },
+  {
+    "source": "钛媒体",
+    "title": "创始人出局、前妻接掌控制权，我武生物“天价分手费”后市场悬念未止",
+    "summary": "虽然公告特意强调“经营不受影响”，但这种不确定性素来是市场最忌讳的。",
+    "url": "https://www.tmtpost.com/8134619.html",
+    "published": "Wed, 09 Sep 2026 22:47:39 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-09"
+  },
+  {
+    "source": "钛媒体",
     "title": "AGI 怎样才算真的来了？",
     "summary": "技术进步是连续的，历史叙事却总想选定一个瞬间",
     "url": "https://www.tmtpost.com/8133380.html",
@@ -130,11 +150,11 @@
     "fetchedAt": "2026-09-09"
   },
   {
-    "source": "钛媒体",
-    "title": "DeepSeek已聘中信证券筹备科创板IPO，年内正式启动 | 钛快讯",
-    "summary": "通过巨额资金投入，在算力、模型开发和人才吸纳等方面展开角逐，竞争态势日趋激烈。",
-    "url": "https://www.tmtpost.com/8134206.html",
-    "published": "Wed, 09 Sep 2026 17:47:39 +0800",
+    "source": "极客公园",
+    "title": "苹果第一台折叠 iPhone，15999 元起",
+    "summary": "iPhone Duo，国行 15999 元起 作者｜张勇毅 编辑｜靖宇 北京时间今天凌晨，苹果发布了第一台折叠屏手机，名字叫 iPhone Duo。国行 15999 元起，10 月 16 日晚 8 点预购，10 月 23 日发售。同场发布的 iPhone 18 Pro 系列 9999 元起，9 月 12 日晚 8 点预购，18 日发售。 三天前，小米发布了 18 Fold：外屏 5.38 英寸，内屏 7.58 英寸，10999 元起。iPhone Duo 按苹果规格页的标准矩形口径，外屏 5.36 英寸，内屏 7.58 英寸。 两块屏幕的尺寸，差别在小数点后第二位。价格差了 5000 元。 书本式内折，合上是一块 5.4 英寸的外屏，翻开是 7.6 英寸的内屏，苹果的口径是比 iPhone 18 Pro Max 的屏幕大一半。两块屏比例相同，都支持自适应刷新率和常亮显示，峰值亮度都是 3000 尼特。内屏做了纳米纹理，苹果说这是为了让折痕不那么显眼。外屏上方是一颗 1200 万像素的前置摄像头，会自动切换横竖构图；内屏的前置摄像头藏在屏幕下面，不用的时候看不见。 后置只有两颗镜头：48",
+    "url": "http://www.geekpark.net/news/370088",
+    "published": "Thu, 10 Sep 2026 03:43:09 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-09"
@@ -410,16 +430,6 @@
     "fetchedAt": "2026-09-09"
   },
   {
-    "source": "极客公园",
-    "title": "流量红利退潮，快手想用 AI 和老友们破局",
-    "summary": "头图来源：快手 8 月 29 日，在 2026 快手光合创作者大会上，快手科技创始人、董事长兼 CEO 程一笑公布了一组数据：快手每天发布的作品超过 5800 万，近一年有超过 2.7 亿用户发布过作品，持续发布作品超过 10 年的创作者则超过 1700 万。 大会上，快手用这些数据说明其「平等普惠、温暖信任、多元特色」的社区底色。但放进快手最新财报，它们可能还有另一层含义：当流量扩张接近尾声，平台开始把「谁能留下来、谁能持续经营」变成新的竞争指标。 快手 2026 年第二季度营收 355 亿元，同比增长 1.4%；DAU 为 4.123 亿，同比增长 0.8%；MAU 为 7.973 亿，同比增长 11.5%。用户规模仍在增长，但管理层已经明确，短视频行业进入存量竞争阶段，快手也不再追求不计成本的流量扩张。 与此同时，直播业务还在调整。二季度，快手直播收入 87 亿元，同比下降 13.5%；经调整净利润 39 亿元，同比下降 30.3%。过去依靠用户增长和直播扩张支撑的平台叙事，正在失去原有的速度。 这场以创作者为主角的大会，实际需要回应的是快手下一阶段的增长问题：在主站增速趋缓、传",
-    "url": "http://www.geekpark.net/news/369631",
-    "published": "Mon, 31 Aug 2026 20:01:09 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
     "summary": "· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目 · 字节跳动锁定 296 亿美元贷款，近 30 家银行参与 · 机构：全球折叠屏手机累计出货量年内将突破 1 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -441,80 +451,30 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-    "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
-    "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-    "published": "Wed, 09 Sep 2026 06:00:00 +0000",
+    "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+    "summary": "Matt Mullenweg, the founder and CEO of Automattic, best known as the parent company of WordPress.com, has been put on a leave of absence by his board against his will, according to a Slack message seen by TechCrunch. Earlier Wednesday, Mullenweg posted in a Slack channel visible to all employees that the company’s Chief Financial […]",
+    "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "published": "Wed, 09 Sep 2026 23:14:29 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-09"
   },
   {
     "source": "TechCrunch",
-    "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-    "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-    "published": "Wed, 09 Sep 2026 04:01:00 +0000",
+    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+    "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+    "published": "Wed, 09 Sep 2026 18:34:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-09"
   },
   {
     "source": "TechCrunch",
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "published": "Tue, 08 Sep 2026 21:04:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-    "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-    "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-    "published": "Tue, 08 Sep 2026 20:47:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "published": "Tue, 08 Sep 2026 14:17:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-    "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-    "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-    "published": "Tue, 08 Sep 2026 14:10:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-    "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
-    "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-    "published": "Tue, 08 Sep 2026 13:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-    "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-    "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-    "published": "Mon, 07 Sep 2026 18:02:29 +0000",
+    "title": "Apple launches iPhone 18 Pro with upgraded camera",
+    "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+    "published": "Wed, 09 Sep 2026 17:26:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-09"
@@ -721,239 +681,23 @@
   },
   {
     "source": "The Verge",
-    "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-    "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with […]",
-    "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-    "published": "2026-09-09T01:26:53-04:00",
+    "title": "It’s the year of smartphone price hikes",
+    "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by […]",
+    "url": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+    "published": "2026-09-09T17:52:43-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-09"
   },
   {
-    "source": "Hacker News",
-    "title": "Apple Acquires Sonera, Brainwave Sensing Technology Startup",
-    "summary": "Article URL: https://www.macrumors.com/2026/09/08/apple-acquires-sonera/ Comments URL: https://news.ycombinator.com/item?id=49620601 Points: 4 # Comments: 1",
-    "url": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/",
-    "published": "Wed, 09 Sep 2026 03:37:00 +0000",
+    "source": "The Verge",
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new […]",
+    "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "published": "2026-09-09T16:44:43-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: MCP server for job listings, startups and funding rounds",
-    "summary": "Article URL: https://www.employbl.com/docs Comments URL: https://news.ycombinator.com/item?id=49619578 Points: 1 # Comments: 0",
-    "url": "https://www.employbl.com/docs",
-    "published": "Wed, 09 Sep 2026 01:27:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I found a weird old startup's LaserDisc",
-    "summary": "I don't know anything about the company (other than the fact that it went kaput in the mid 90s) or the product. Anyone here happen to know anything about it? (Weirder things have happened!) Comments URL: https://news.ycombinator.com/item?id=49618172 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=AXOoyxisEMg",
-    "published": "Tue, 08 Sep 2026 22:42:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Solo-Dev Ship Checklist – a 10-item pre-launch checklist for indie devs",
-    "summary": "Article URL: https://merlin-ship-checklist.surge.sh Comments URL: https://news.ycombinator.com/item?id=49618086 Points: 2 # Comments: 1",
-    "url": "https://merlin-ship-checklist.surge.sh",
-    "published": "Tue, 08 Sep 2026 22:33:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
-    "summary": "Article URL: https://endframe.ai/ Comments URL: https://news.ycombinator.com/item?id=49611174 Points: 3 # Comments: 0",
-    "url": "https://endframe.ai/",
-    "published": "Tue, 08 Sep 2026 14:52:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GPT-6 Astra one-shots a launch video in an open-source editor",
-    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49611103 Points: 3 # Comments: 0",
-    "url": "https://github.com/veedstudio/open-edit",
-    "published": "Tue, 08 Sep 2026 14:47:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers",
-    "summary": "Article URL: https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628 Comments URL: https://news.ycombinator.com/item?id=49610466 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628",
-    "published": "Tue, 08 Sep 2026 13:59:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tianwen-3 Mars Sample Return Mission Progresses Towards 2028 Launch",
-    "summary": "Article URL: https://www.china-in-space.com/p/tianwen-3-mars-sample-return-mission Comments URL: https://news.ycombinator.com/item?id=49610366 Points: 2 # Comments: 0",
-    "url": "https://www.china-in-space.com/p/tianwen-3-mars-sample-return-mission",
-    "published": "Tue, 08 Sep 2026 13:52:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Chinese tech giants Huawei and Xiaomi launch new foldable phones ahead of Apple",
-    "summary": "Article URL: https://www.nbcnews.com/world/asia/chinese-tech-companies-huawei-xiaomi-launch-new-foldable-phones-apple-rcna596533 Comments URL: https://news.ycombinator.com/item?id=49607955 Points: 2 # Comments: 0",
-    "url": "https://www.nbcnews.com/world/asia/chinese-tech-companies-huawei-xiaomi-launch-new-foldable-phones-apple-rcna596533",
-    "published": "Tue, 08 Sep 2026 09:39:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "8 years after launch, BepiColombo begins Mercury arrival",
-    "summary": "Article URL: https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival Comments URL: https://news.ycombinator.com/item?id=49603788 Points: 3 # Comments: 0",
-    "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
-    "published": "Mon, 07 Sep 2026 22:40:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant",
-    "summary": "Article URL: https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/ Comments URL: https://news.ycombinator.com/item?id=49602320 Points: 19 # Comments: 15",
-    "url": "https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/",
-    "published": "Mon, 07 Sep 2026 19:57:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Huawei, Xiaomi launch new foldable smartphones ahead of Apple event",
-    "summary": "Article URL: https://www.reuters.com/technology/huawei-launches-new-foldable-smartphone-competition-with-xiaomi-apple-heats-up-2026-09-07/ Comments URL: https://news.ycombinator.com/item?id=49601237 Points: 1 # Comments: 0",
-    "url": "https://www.reuters.com/technology/huawei-launches-new-foldable-smartphone-competition-with-xiaomi-apple-heats-up-2026-09-07/",
-    "published": "Mon, 07 Sep 2026 18:15:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "TrenchBoot DRTM Launch of Xen on Intel Sapphire Rapids",
-    "summary": "Article URL: https://www.youtube.com/watch?v=GfOf6EYTClU Comments URL: https://news.ycombinator.com/item?id=49601156 Points: 3 # Comments: 1",
-    "url": "https://www.youtube.com/watch?v=GfOf6EYTClU",
-    "published": "Mon, 07 Sep 2026 18:06:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "After IndexNow: 6 Launch Channels Indie Founders Skip, and How to Hit Them",
-    "summary": "Article URL: https://capytoolkit.com/blog/guides/after-indexnow-6-launch-channels-indie-founders-skip-weekend/ Comments URL: https://news.ycombinator.com/item?id=49601126 Points: 1 # Comments: 0",
-    "url": "https://capytoolkit.com/blog/guides/after-indexnow-6-launch-channels-indie-founders-skip-weekend/",
-    "published": "Mon, 07 Sep 2026 18:04:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Omarchy Funding Climbs to $13M, with over $4M a Year Set for Spending",
-    "summary": "Article URL: https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/ Comments URL: https://news.ycombinator.com/item?id=49591633 Points: 5 # Comments: 8",
-    "url": "https://linuxiac.com/omarchy-funding-climbs-to-13m-with-over-4m-a-year-set-for-spending/",
-    "published": "Sun, 06 Sep 2026 22:38:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "German startup sends first commercial rocket into space from Europe",
-    "summary": "Article URL: https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe Comments URL: https://news.ycombinator.com/item?id=49588635 Points: 13 # Comments: 1",
-    "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-    "published": "Sun, 06 Sep 2026 17:16:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "If a startup worth your career",
-    "summary": "Article URL: https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide Comments URL: https://news.ycombinator.com/item?id=49588557 Points: 4 # Comments: 2",
-    "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
-    "published": "Sun, 06 Sep 2026 17:08:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic IPO launch shifts toward mid-October",
-    "summary": "Article URL: https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html Comments URL: https://news.ycombinator.com/item?id=49583675 Points: 4 # Comments: 0",
-    "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
-    "published": "Sun, 06 Sep 2026 05:45:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Isar Aerospace launch into orbit [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 107 # Comments: 18",
-    "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-    "published": "Sat, 05 Sep 2026 20:25:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Billionaires Are Funding 'Anti AI' Content [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=mzlu4FSXBNw Comments URL: https://news.ycombinator.com/item?id=49575811 Points: 4 # Comments: 1",
-    "url": "https://www.youtube.com/watch?v=mzlu4FSXBNw",
-    "published": "Sat, 05 Sep 2026 12:16:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-09"
-  },
-  {
-    "source": "B站",
-    "title": "DeepSeek或将登陆科创板",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=DeepSeek或将登陆科创板",
-    "published": "2026-09-09",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-09",
-    "meta": {
-      "hotValue": 271443
-    }
-  },
-  {
-    "source": "B站",
-    "title": "平陆运河改写西南出海格局",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=平陆运河改写西南出海格局",
-    "published": "2026-09-09",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-09",
-    "meta": {
-      "hotValue": 271369
-    }
   },
   {
     "source": "GitHub新星",
@@ -965,8 +709,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-09",
     "meta": {
-      "stars": 2645,
-      "forks": 664,
+      "stars": 2835,
+      "forks": 692,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -981,10 +725,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-09",
     "meta": {
-      "stars": 2201,
-      "forks": 74,
+      "stars": 2248,
+      "forks": 81,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -997,10 +741,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-09",
     "meta": {
-      "stars": 1997,
-      "forks": 2535,
+      "stars": 2018,
+      "forks": 2545,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1013,26 +757,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-09",
     "meta": {
-      "stars": 1328,
-      "forks": 106,
+      "stars": 1549,
+      "forks": 139,
       "language": "Lean",
       "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "EverettFish/holo-card-studio",
-    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-    "url": "https://github.com/EverettFish/holo-card-studio",
-    "published": "2026-09-07T00:41:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-09",
-    "meta": {
-      "stars": 1204,
-      "forks": 179,
-      "language": "Python",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -1045,10 +773,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-09",
     "meta": {
-      "stars": 1193,
-      "forks": 191,
+      "stars": 1284,
+      "forks": 200,
       "language": "Swift",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "EverettFish/holo-card-studio",
+    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "published": "2026-09-07T00:41:18Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-09",
+    "meta": {
+      "stars": 1233,
+      "forks": 180,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   }
 ]
