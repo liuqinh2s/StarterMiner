@@ -151,6 +151,26 @@
   },
   {
     "source": "极客公园",
+    "title": "走出聊天框，Agent 开始进入现实世界",
+    "summary": "头图来源：小度 Agent 正在寻找自己的「身体」。 过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。 但屏幕里的 Agent 仍然与现实世界隔着一层。 它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，却看不到孩子有没有开始写作业；可以给出老人用药的注意事项，却无法确认提醒是否被听见。文件、网页和软件提供的是结构化信息，现实世界则充满持续变化的人、物品、声音和空间。Agent 想从数字工具变成更普遍的行动者，首先要获得感知和触达这些信息的入口。 硬件由此进入 AI 公司的视野。 9 月 2 日，腾讯在 WorkBuddy 生态发布会上展示了九款联名智能硬件，覆盖智能眼镜、录音卡、麦克风、耳机和桌面陪伴设备。它们承担声音、图像等现实信息的采集，WorkBuddy 负责后续的理解、规划和执行。海外市场也在发生相似变化：Google 将 Gemini for",
+    "url": "http://www.geekpark.net/news/370064",
+    "published": "Thu, 10 Sep 2026 21:39:07 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "极客公园",
+    "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+    "summary": "在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。 2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。 极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相对早期和小众的品类，现有的产品体验还有大量提升的空间。 在孙宽看来，竞争并不是当下驱动行业创新的核心动力。他希望跨越鸿沟，把外骨骼产品的目标用户从户外、老年等几个特定群体，推向「国民级」的消费市场。 9 月，极壳在 IFA 发布了行业首个髋膝一体化的下肢外骨骼新品 Halo。这个项目的研发起始于 2023 年，但很长一段时间里没有满意的进展。孙宽告诉我们，核心变化来源于团队今年的一次调整，「还是同样的研发团队，聚焦目标之后，之前做了两年多的东西，很快就看到了突破」。 对这位 90 后创始人来说，考验不只是死磕研发和技术。这是一个全新的品类，没有先例可循。",
+    "url": "http://www.geekpark.net/news/370150",
+    "published": "Thu, 10 Sep 2026 19:41:33 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "极客公园",
     "title": "苹果进入特努斯时代，首发 15999 元折叠屏 iPhone；Deepseek 被曝备战科创板 IPO；谷歌埃森哲组建千人 FDE 团队 | 极客早知道",
     "summary": "苹果首款折叠 iPhone Duo 亮相，国行 15999 元起 北京时间 9 月 10 日凌晨，苹果发布首款折叠手机 iPhone Duo，国行 15999 元起，10 月 16 日开启预售，23 日正式发售。同场推出 iPhone 18 Pro 系列，9999 元起；标准版 iPhone 18 推迟至明年春季发布。 该机采用书本式内折设计，内外屏尺寸与小米 18 Fold 接近，价格高出 5000 元。机身重 254 克，厚度在同类折叠机型中偏厚重，但支持 IP68 防水。机型取消长焦镜头与面容 ID，改用侧边 Touch ID，搭载 A20 Pro 芯片。iOS 27 首次加入手机分屏功能，后续还将支持 Apple Pencil。 此外，Apple Watch Series 12 新增对话摘要功能，AirPods 5 基础款首次搭载主动降噪。多款 AI 相关新功能暂未在国内上线。苹果仅优化了折叠屏软件适配，并未解决行业普遍存在的重量与高价难题。（来源：极客公园） 关联阅读： 苹果第一台折叠 iPhone，15999 元起 OpenAI 企业收入反超 C 端 OpenAI 企业业务",
     "url": "http://www.geekpark.net/news/370089",
@@ -400,36 +420,6 @@
     "fetchedAt": "2026-09-10"
   },
   {
-    "source": "极客公园",
-    "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
-    "summary": "作者｜苏子华 编辑｜靖宇 极客公园最近发现，婴儿床这个品类正在被 AI，或者说被「具身智能」重新定价。 从一张几百元的价格，直接抬升到一万元。 婴儿床是少有的被技术「忽略」的家居品类。100 年来，它的形态几乎没有变过。四根立柱、一圈围栏、一张床垫。 关键变化发生在过去五年。 传感器、算法、电机第一次被装进一张床，价格随之跳升：美国智能婴儿床 SNOO 售价 1695 美元（约 1.2 万元人民币），Cradlewise 售价 1999 美元；而在今年年初的 CES 上， 中国公司 亲宝宝 展示的 AI 睡眠舱，官方定价 8999 元人民币。 目前只要打上「智能」的旗号，仅仅做到温度控制、视频记录，在电商平台上售卖 4000 元起步的也有大把存在。 在海外，SNOO、Cradlewise 等初创品牌已经用产品证明了：婴儿床可以被卖到一万元人民币以上，而且卖得动。 巨头们正在加速入场。德国工业巨头博世也发布了 AI 婴儿床 Revol，传统的母婴巨头厂商 HALO、Graco 也在全线跟进。 让婴儿睡得安全，解放父母夜里的睡眠时间和看护焦虑——这个小众品类已经从边缘走向台前。 而且，现在",
-    "url": "http://www.geekpark.net/news/369719",
-    "published": "Wed, 02 Sep 2026 14:54:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-10"
-  },
-  {
-    "source": "极客公园",
-    "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
-    "summary": "作者｜苏子华 编辑｜靖宇 现场体验过 Violoop 之后，很多关于未来的「AI 助手」该长什么样、能做些什么、能力的极限究竟在哪的困惑，可能都会迎刃而解。 因为 Violoop 已经把它们变成了现实。 Violoop 实物图｜图片来源：Violoop Violoop 是一款巴掌大小的硬件，即插即用，V4 版本通过一根 Type-C 线连在电脑上，不挤占电脑的 CPU/GPU 资源。它可以通过实时读取电脑屏幕上的全局信息，获得用户全部的上下文，实现主动式的 AI 助手。 极客公园获悉，Violoop 半年内完成了亿元级天使轮及 Pre-A 轮融资。联想创投、中金保时捷、蓝驰创投、元生资本、启赋资本和 Zero2IPO Ventures 共同投资。 Violoop 的 CEO 何佳霖 是一位连续创业者，毕业于 UC San Diego 的 CS 专业，曾入选过 YC 创业营。CTO King Zhu 是一位天才学霸，曾在 MIT 的 EECS 专业用 3.5 年完成本硕，同届最快毕业，后来在微软的 Xbox、HoloLens、Surface 等多个业务线担任核心工程师。 左为何佳霖，右为",
-    "url": "http://www.geekpark.net/news/369718",
-    "published": "Wed, 02 Sep 2026 14:49:04 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-10"
-  },
-  {
-    "source": "极客公园",
-    "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
-    "summary": "​ 苹果新任 CEO 约翰·特努斯在 X 平台发布首条动态向关注者问好 苹果首席执行官约翰·特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账号。因此，随着特努斯正式接任苹果掌舵人，他也开设了自己的 X 账号。 目前，账号 @johnternus 已经上线，并在特努斯担任苹果首席执行官的首个正式工作日公开亮相。根据账号资料显示，该账号早在 2026 年 6 月便已私下创建，但目前只发布过一条动态，内容是全部使用小写字母书写的「hello」。 尚不清楚特努斯是在谨慎尝试进入社交媒体，还是有意借鉴苹果在用户启用新设备时使用问候语的传统。考虑到他此前几乎没有社交媒体活动记录，这两个原因可能兼而有之。 这条只有五个字母的动态，在发布后极短时间内便为账号带来了巨大关注。截至报道发布时，这条动态上线约 35 分钟，已经获得约 74.8 万次浏览、3.1 万次点赞、3600 次转发和 5000 条评论。（来源：cnBeta） 谷歌发布 ",
-    "url": "http://www.geekpark.net/news/369690",
-    "published": "Wed, 02 Sep 2026 08:13:21 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-10"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
     "summary": "· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目 · 字节跳动锁定 296 亿美元贷款，近 30 家银行参与 · 机构：全球折叠屏手机累计出货量年内将突破 1 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -441,30 +431,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "published": "Thu, 10 Sep 2026 00:00:37 +0000",
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+    "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "published": "Thu, 10 Sep 2026 22:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-10"
   },
   {
     "source": "TechCrunch",
-    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-    "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-    "published": "Wed, 09 Sep 2026 18:34:24 +0000",
+    "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+    "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+    "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+    "published": "Thu, 10 Sep 2026 20:48:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-10"
   },
   {
     "source": "TechCrunch",
-    "title": "Apple launches iPhone 18 Pro with upgraded camera",
-    "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-    "published": "Wed, 09 Sep 2026 17:26:05 +0000",
+    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+    "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
+    "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+    "published": "Thu, 10 Sep 2026 18:38:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+    "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
+    "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+    "published": "Thu, 10 Sep 2026 14:34:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Maven Robotics wants to steal your robot deployment deal",
+    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+    "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+    "published": "Thu, 10 Sep 2026 14:17:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+    "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+    "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+    "published": "Thu, 10 Sep 2026 13:34:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-10"
@@ -651,20 +671,220 @@
   },
   {
     "source": "The Verge",
-    "title": "The Trump phone just got a $250 price hike",
-    "summary": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. This wasn't a total surprise though, especially given the phone ships with […]",
-    "url": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
-    "published": "2026-09-10T05:13:04-04:00",
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "published": "2026-09-10T11:38:19-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-10"
   },
   {
     "source": "The Verge",
-    "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
-    "summary": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, […]",
-    "url": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
-    "published": "2026-09-10T05:07:00-04:00",
+    "title": "Meta’s Muse AI works and creeps me out",
+    "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - […]",
+    "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+    "published": "2026-09-10T11:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stackness Launch",
+    "summary": "Article URL: https://stackness.dev/blog/welcome-to-stackness Comments URL: https://news.ycombinator.com/item?id=49648999 Points: 2 # Comments: 0",
+    "url": "https://stackness.dev/blog/welcome-to-stackness",
+    "published": "Thu, 10 Sep 2026 19:22:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Not one of 426 open NIH funding opportunities has a machine-readable deadline",
+    "summary": "Article URL: https://grantping.com/writing/nih-deadlines Comments URL: https://news.ycombinator.com/item?id=49647517 Points: 2 # Comments: 0",
+    "url": "https://grantping.com/writing/nih-deadlines",
+    "published": "Thu, 10 Sep 2026 17:38:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch deserves more than a tweet",
+    "summary": "Article URL: https://pressdrop.io Comments URL: https://news.ycombinator.com/item?id=49644816 Points: 2 # Comments: 1",
+    "url": "https://pressdrop.io",
+    "published": "Thu, 10 Sep 2026 14:55:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ayar Labs, backed by chip giants, extends funding round by $150M",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/ Comments URL: https://news.ycombinator.com/item?id=49643749 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/",
+    "published": "Thu, 10 Sep 2026 13:52:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Listpro – Turn product screenshots into launch assets",
+    "summary": "I am a true believer in \"throwing things at the wall and seeing what sticks\" ideology so I've built products for multiple marketplaces- Shopify, Notion, mondaydotcom & also SaaS. While AI coding made building faster, launching was my big problem. Marketplaces and launch platforms (Product hunt, appsumo etc) are a sea of products and it's really tough to pass them with average looking launch assets. I'm not a designer, nor do I find it sensible to pay for a monthly subscription when the launch is",
+    "url": "https://listpro.app",
+    "published": "Thu, 10 Sep 2026 12:04:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup ARR is less secure",
+    "summary": "Article URL: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/ Comments URL: https://news.ycombinator.com/item?id=49638641 Points: 2 # Comments: 0",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "published": "Thu, 10 Sep 2026 05:04:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Kepler Compute- New memory startup for AI",
+    "summary": "Article URL: https://keplercompute.com Comments URL: https://news.ycombinator.com/item?id=49637652 Points: 2 # Comments: 1",
+    "url": "https://keplercompute.com",
+    "published": "Thu, 10 Sep 2026 02:32:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding $5 per hour teenager projects for the services they need",
+    "summary": "Article URL: https://apis.hackclub.com/ Comments URL: https://news.ycombinator.com/item?id=49633311 Points: 3 # Comments: 0",
+    "url": "https://apis.hackclub.com/",
+    "published": "Wed, 09 Sep 2026 20:00:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this",
+    "summary": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49633016 Points: 3 # Comments: 1",
+    "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+    "published": "Wed, 09 Sep 2026 19:43:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Find investors for your startup for free",
+    "summary": "Article URL: https://leadagentx.ai Comments URL: https://news.ycombinator.com/item?id=49630209 Points: 1 # Comments: 0",
+    "url": "https://leadagentx.ai",
+    "published": "Wed, 09 Sep 2026 17:37:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Legal AI startup Harvey reaches $15.6B valuation with $550M round",
+    "summary": "Article URL: https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round Comments URL: https://news.ycombinator.com/item?id=49627819 Points: 2 # Comments: 0",
+    "url": "https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
+    "published": "Wed, 09 Sep 2026 15:05:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Andreessen/Thiel-backed defense startup opens U.S. missile factory",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html Comments URL: https://news.ycombinator.com/item?id=49626145 Points: 4 # Comments: 1",
+    "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
+    "published": "Wed, 09 Sep 2026 13:23:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Apple Acquires Sonera, Brainwave Sensing Technology Startup",
+    "summary": "Article URL: https://www.macrumors.com/2026/09/08/apple-acquires-sonera/ Comments URL: https://news.ycombinator.com/item?id=49620601 Points: 4 # Comments: 1",
+    "url": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/",
+    "published": "Wed, 09 Sep 2026 03:37:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: MCP server for job listings, startups and funding rounds",
+    "summary": "Article URL: https://www.employbl.com/docs Comments URL: https://news.ycombinator.com/item?id=49619578 Points: 1 # Comments: 0",
+    "url": "https://www.employbl.com/docs",
+    "published": "Wed, 09 Sep 2026 01:27:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I found a weird old startup's LaserDisc",
+    "summary": "I don't know anything about the company (other than the fact that it went kaput in the mid 90s) or the product. Anyone here happen to know anything about it? (Weirder things have happened!) Comments URL: https://news.ycombinator.com/item?id=49618172 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=AXOoyxisEMg",
+    "published": "Tue, 08 Sep 2026 22:42:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Solo-Dev Ship Checklist – a 10-item pre-launch checklist for indie devs",
+    "summary": "Article URL: https://merlin-ship-checklist.surge.sh Comments URL: https://news.ycombinator.com/item?id=49618086 Points: 2 # Comments: 1",
+    "url": "https://merlin-ship-checklist.surge.sh",
+    "published": "Tue, 08 Sep 2026 22:33:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+    "summary": "Article URL: https://endframe.ai/ Comments URL: https://news.ycombinator.com/item?id=49611174 Points: 4 # Comments: 0",
+    "url": "https://endframe.ai/",
+    "published": "Tue, 08 Sep 2026 14:52:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "GPT-6 Astra one-shots a launch video in an open-source editor",
+    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49611103 Points: 3 # Comments: 0",
+    "url": "https://github.com/veedstudio/open-edit",
+    "published": "Tue, 08 Sep 2026 14:47:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628 Comments URL: https://news.ycombinator.com/item?id=49610466 Points: 2 # Comments: 0",
+    "url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628",
+    "published": "Tue, 08 Sep 2026 13:59:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-10"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tianwen-3 Mars Sample Return Mission Progresses Towards 2028 Launch",
+    "summary": "Article URL: https://www.china-in-space.com/p/tianwen-3-mars-sample-return-mission Comments URL: https://news.ycombinator.com/item?id=49610366 Points: 2 # Comments: 0",
+    "url": "https://www.china-in-space.com/p/tianwen-3-mars-sample-return-mission",
+    "published": "Tue, 08 Sep 2026 13:52:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-10"
@@ -679,8 +899,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-10",
     "meta": {
-      "stars": 2992,
-      "forks": 724,
+      "stars": 3072,
+      "forks": 743,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -695,10 +915,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-10",
     "meta": {
-      "stars": 2051,
-      "forks": 2555,
+      "stars": 2058,
+      "forks": 2565,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -711,42 +931,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-10",
     "meta": {
-      "stars": 1635,
-      "forks": 158,
+      "stars": 1712,
+      "forks": 165,
       "language": "Lean",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "vinzdg/codenotch",
-    "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-    "url": "https://github.com/vinzdg/codenotch",
-    "published": "2026-09-05T14:55:35Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-10",
-    "meta": {
-      "stars": 1331,
-      "forks": 210,
-      "language": "Swift",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "EverettFish/holo-card-studio",
-    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-    "url": "https://github.com/EverettFish/holo-card-studio",
-    "published": "2026-09-07T00:41:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-10",
-    "meta": {
-      "stars": 1291,
-      "forks": 189,
-      "language": "Python",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -759,10 +947,42 @@
     "type": "signal",
     "fetchedAt": "2026-09-10",
     "meta": {
-      "stars": 1034,
-      "forks": 63,
+      "stars": 1401,
+      "forks": 84,
       "language": null,
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "vinzdg/codenotch",
+    "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "url": "https://github.com/vinzdg/codenotch",
+    "published": "2026-09-05T14:55:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-10",
+    "meta": {
+      "stars": 1379,
+      "forks": 214,
+      "language": "Swift",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "EverettFish/holo-card-studio",
+    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "published": "2026-09-07T00:41:18Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-10",
+    "meta": {
+      "stars": 1333,
+      "forks": 193,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   }
 ]
