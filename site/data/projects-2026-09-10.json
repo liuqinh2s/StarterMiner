@@ -468,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "clairewagner91"
+            "linkedin": "mattanderson823"
           },
           "careerPage": null,
           "jobListings": []
@@ -1346,7 +1346,7 @@
           "website": "https://kimi.moonshot.cn",
           "emails": [],
           "socials": {
-            "wechat": "QrPanel-COA_O_ui"
+            "wechat": "QrPanel-D5k-GhoD"
           },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
@@ -1893,6 +1893,7 @@
             "name@domain.com",
             "u003esupport@meshy.ai",
             "careers@meshy.ai",
+            "meshy-webapp@v2026.09.10.post",
             "jane@company.com"
           ],
           "socials": {
@@ -4230,7 +4231,7 @@
             "events@latitudemedia.com"
           ],
           "socials": {
-            "twitter": "intent",
+            "twitter": "_LatitudeMedia",
             "linkedin": "latitude-media-inc"
           },
           "careerPage": null,
@@ -4885,7 +4886,7 @@
           "website": "https://kimi.moonshot.cn",
           "emails": [],
           "socials": {
-            "wechat": "QrPanel-COA_O_ui"
+            "wechat": "QrPanel-D5k-GhoD"
           },
           "careerPage": "https://kimi.moonshot.cn/careers",
           "jobListings": [
@@ -8627,19 +8628,10 @@
           "emails": [],
           "socials": {
             "github": "termark-app",
-            "wechat": "-wrap-en"
+            "wechat": "-en"
           },
-          "careerPage": "https://www.termark.app/careers",
-          "jobListings": [
-            "Termark - The Cross-Platform SSH Client for Modern Developers",
-            "androidBetaDataUrl: 'https://f.next-terminal.com/termark-android/beta.json',",
-            "AI assistant",
-            "Short videos showing how Termark feels in terminal, file transfer, AI, and external tool workflows.",
-            "AI Agent",
-            "Let AI follow your terminal context",
-            "aria-label=\"Termark AI Agent workflow demo\">",
-            "'Session and Global AI with configurable command approval',"
-          ]
+          "careerPage": null,
+          "jobListings": []
         },
         "github": {},
         "hiring": [],
