@@ -130,26 +130,6 @@
     "fetchedAt": "2026-09-12"
   },
   {
-    "source": "钛媒体",
-    "title": "2万字对话陈大年：冲在投资和产业的第一线，想让每个人都有自己的AI",
-    "summary": "陈大年和钛媒体联合创始人刘湘明在上海进行了近4小时的深度交流，话题涉及AI的趋势判断、本地模型以及对于AI创业的思考。",
-    "url": "https://www.tmtpost.com/8137660.html",
-    "published": "Sat, 12 Sep 2026 10:00:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-12"
-  },
-  {
-    "source": "钛媒体",
-    "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-    "summary": "未来十年，大模型与实体产业的深度结合，将触发全新的范式变革，不只会改变生产方式与组织模式，更会重构整个产业的价值逻辑。",
-    "url": "https://www.tmtpost.com/8135323.html",
-    "published": "Fri, 11 Sep 2026 21:15:37 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-12"
-  },
-  {
     "source": "极客公园",
     "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
     "summary": "DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60% 9 月 10 日消息，深度求索今日正式发布 DeepSeek V4.1 Flash 模型 。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。 新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。 DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型 ，采用了全新的 Causal-Encoder-Decoder 结构，输入和输出不对称，输入激活只有 8B，输出激活 16B，成本显著低于已知的同尺寸模型。同时，V4.1 Flash 还采用了新的预训练方式、经过了更大规模的强化学习后训练，在基准测试中，成功超越了包括 DeepSeek V4 Pro 在内的一众旗舰模型的智能水平。 ▲ DeepSeek-V4.1-Flash 与主流前沿模型在 Agentic Benchmark 上的性能对比 此外，新一代模型大幅减少了 KV Cache 缓存的大小，与上一代模型相比， 对 HBM 的需求减少到 1/4，对",
@@ -710,6 +690,224 @@
     "fetchedAt": "2026-09-12"
   },
   {
+    "source": "Hacker News",
+    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+    "summary": "Article URL: https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=49665689 Points: 3 # Comments: 2",
+    "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+    "published": "Fri, 11 Sep 2026 21:33:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I'm funding a $2,599 iPhone Duo w/ sales of apps I've built since 2008",
+    "summary": "Article URL: https://gophoneme.com/ Comments URL: https://news.ycombinator.com/item?id=49661436 Points: 3 # Comments: 0",
+    "url": "https://gophoneme.com/",
+    "published": "Fri, 11 Sep 2026 16:46:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Could United Launch Alliance's money problems force its owners to sell?",
+    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell Comments URL: https://news.ycombinator.com/item?id=49661401 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell",
+    "published": "Fri, 11 Sep 2026 16:44:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Digital Product Passport (DPP) Startup from Germany",
+    "summary": "Article URL: https://dppflash.de/ Comments URL: https://news.ycombinator.com/item?id=49660822 Points: 2 # Comments: 0",
+    "url": "https://dppflash.de/",
+    "published": "Fri, 11 Sep 2026 16:11:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Popular open-science platform to stop hosting data and code amid funding concern",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02598-y Comments URL: https://news.ycombinator.com/item?id=49660120 Points: 3 # Comments: 0",
+    "url": "https://www.nature.com/articles/d41586-026-02598-y",
+    "published": "Fri, 11 Sep 2026 15:30:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Is enough funding a self-fulfilling prophecy for startups?",
+    "summary": "It is well known OpenAI and Anthropic offer completely insane compensation packages and can therefore outcompete even well established companies for talent. My (shallow) theory is that this is ONLY possible because they are startups and have no expectation/obligation in being profitable and a sustainable business. It's completely unaffordable for a standard company that pays it's bills on it's own revenues to compete. My initial instinct is that if you get the best of the best covering most of t",
+    "url": "https://news.ycombinator.com/item?id=49657341",
+    "published": "Fri, 11 Sep 2026 12:33:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Could United Launch Alliance's money problems force its owners to sell?",
+    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/ Comments URL: https://news.ycombinator.com/item?id=49656928 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+    "published": "Fri, 11 Sep 2026 11:56:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0 Comments URL: https://news.ycombinator.com/item?id=49655064 Points: 6 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0",
+    "published": "Fri, 11 Sep 2026 08:11:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Only 31% of startup accelerators publish what cheque they write",
+    "summary": "Article URL: https://accelerator.directory/methodology Comments URL: https://news.ycombinator.com/item?id=49654245 Points: 2 # Comments: 0",
+    "url": "https://accelerator.directory/methodology",
+    "published": "Fri, 11 Sep 2026 06:25:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stackness Launch",
+    "summary": "Article URL: https://stackness.dev/blog/welcome-to-stackness Comments URL: https://news.ycombinator.com/item?id=49648999 Points: 2 # Comments: 0",
+    "url": "https://stackness.dev/blog/welcome-to-stackness",
+    "published": "Thu, 10 Sep 2026 19:22:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Not one of 426 open NIH funding opportunities has a machine-readable deadline",
+    "summary": "Article URL: https://grantping.com/writing/nih-deadlines Comments URL: https://news.ycombinator.com/item?id=49647517 Points: 2 # Comments: 0",
+    "url": "https://grantping.com/writing/nih-deadlines",
+    "published": "Thu, 10 Sep 2026 17:38:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch deserves more than a tweet",
+    "summary": "Article URL: https://pressdrop.io Comments URL: https://news.ycombinator.com/item?id=49644816 Points: 2 # Comments: 1",
+    "url": "https://pressdrop.io",
+    "published": "Thu, 10 Sep 2026 14:55:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ayar Labs, backed by chip giants, extends funding round by $150M",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/ Comments URL: https://news.ycombinator.com/item?id=49643749 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/",
+    "published": "Thu, 10 Sep 2026 13:52:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Listpro – Turn product screenshots into launch assets",
+    "summary": "I am a true believer in \"throwing things at the wall and seeing what sticks\" ideology so I've built products for multiple marketplaces- Shopify, Notion, mondaydotcom & also SaaS. While AI coding made building faster, launching was my big problem. Marketplaces and launch platforms (Product hunt, appsumo etc) are a sea of products and it's really tough to pass them with average looking launch assets. I'm not a designer, nor do I find it sensible to pay for a monthly subscription when the launch is",
+    "url": "https://listpro.app",
+    "published": "Thu, 10 Sep 2026 12:04:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup ARR is less secure",
+    "summary": "Article URL: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/ Comments URL: https://news.ycombinator.com/item?id=49638641 Points: 2 # Comments: 0",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "published": "Thu, 10 Sep 2026 05:04:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Kepler Compute- New memory startup for AI",
+    "summary": "Article URL: https://keplercompute.com Comments URL: https://news.ycombinator.com/item?id=49637652 Points: 4 # Comments: 1",
+    "url": "https://keplercompute.com",
+    "published": "Thu, 10 Sep 2026 02:32:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding $5 per hour teenager projects for the services they need",
+    "summary": "Article URL: https://apis.hackclub.com/ Comments URL: https://news.ycombinator.com/item?id=49633311 Points: 3 # Comments: 0",
+    "url": "https://apis.hackclub.com/",
+    "published": "Wed, 09 Sep 2026 20:00:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this",
+    "summary": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49633016 Points: 3 # Comments: 1",
+    "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+    "published": "Wed, 09 Sep 2026 19:43:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Find investors for your startup for free",
+    "summary": "Article URL: https://leadagentx.ai Comments URL: https://news.ycombinator.com/item?id=49630209 Points: 1 # Comments: 0",
+    "url": "https://leadagentx.ai",
+    "published": "Wed, 09 Sep 2026 17:37:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-12"
+  },
+  {
+    "source": "微博",
+    "title": "#网传月之暗面创始人及员工信息系造谣#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23网传月之暗面创始人及员工信息系造谣%23",
+    "published": "2026-09-12",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-12",
+    "meta": {
+      "hotValue": 260150,
+      "rank": 15
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们",
+    "url": "https://www.v2ex.com/t/1241484",
+    "published": 1789176396,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-12",
+    "meta": {
+      "replies": 44,
+      "node": "推广"
+    }
+  },
+  {
     "source": "GitHub新星",
     "title": "sdli1995/dlssg_for_sm86",
     "summary": "Here is a dlssg for RTX30 Series GPU",
@@ -719,8 +917,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-12",
     "meta": {
-      "stars": 1844,
-      "forks": 112,
+      "stars": 1993,
+      "forks": 126,
       "language": null,
       "createdDaysAgo": 4
     }
@@ -735,10 +933,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-12",
     "meta": {
-      "stars": 1781,
+      "stars": 1794,
       "forks": 178,
       "language": "Lean",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -751,7 +949,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-12",
     "meta": {
-      "stars": 1450,
+      "stars": 1456,
       "forks": 208,
       "language": "Python",
       "createdDaysAgo": 5
