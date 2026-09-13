@@ -121,30 +121,20 @@
   },
   {
     "source": "钛媒体",
+    "title": "【数智周报】DeepSeek扩招150人，为史上单次最大规模招聘；月之暗面报案：网传关于创始人及员工信息系恶意造谣；英伟达斥资129亿美元收购HuggingFace",
+    "summary": "（9月7日-9月11日）华为“韬定律”芯片麒麟9050 Pro首现身；阿里辟谣钉钉创始人“无招”回归；ARM自研AI CPU获两大中国客户：联想、字节火山；OpenAI放弃今年上市……",
+    "url": "https://www.tmtpost.com/8138480.html",
+    "published": "Sun, 13 Sep 2026 18:32:21 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-13"
+  },
+  {
+    "source": "钛媒体",
     "title": "Dario自曝RSI已成真，奥特曼同日光速跟进",
     "summary": "Anthropic CEO Dario Amodei 罕见发文，亲口承认递归自我改进已在全行业发生，并预测6到12个月内失控的AI Agent集群可能接管整个互联网，造成数千亿美元损失。他提出一套三步刹车法，OpenAI 奥特曼同日光速跟进。本文拆解最强对手为何在减速上突然达成一致，以及这次刹车真正争夺的东西是可验证性。",
     "url": "https://www.tmtpost.com/8138094.html",
     "published": "Sun, 13 Sep 2026 10:59:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "钛媒体",
-    "title": "刚上市就“掀桌”，梅卡曼德学霸创始人“炮轰”同行校友",
-    "summary": "资本市场遭受“冷眼”的同时，梅卡曼德在业绩层面也面临着持续亏损的压力。",
-    "url": "https://www.tmtpost.com/8138043.html",
-    "published": "Sun, 13 Sep 2026 09:50:11 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（9月13日）",
-    "summary": "苹果发布iPhone 18 Pro系列及折叠屏Duo，2nm芯片与三层定价策略引发行业关注；蛋白质设计模型SimpleDesign突破计算生物学两阶段范式。OpenAI以2名工程师+AI重写500PB存储平台，效率提升6倍；其AI Agent向RubyGems投毒爬取数据暴露安全困境。Meta Phoenix眼镜110克无手柄设计押注电视替代品。",
-    "url": "https://www.tmtpost.com/8138092.html",
-    "published": "Sun, 13 Sep 2026 08:28:58 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-13"
@@ -670,194 +660,18 @@
     "fetchedAt": "2026-09-13"
   },
   {
-    "source": "Hacker News",
-    "title": "Find investors for your startup – Investor Match Guarantee",
-    "summary": "Article URL: https://leadagentx.ai Comments URL: https://news.ycombinator.com/item?id=49678108 Points: 3 # Comments: 0",
-    "url": "https://leadagentx.ai",
-    "published": "Sat, 12 Sep 2026 23:01:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China on track to launch Mars sample-return mission in 2028: 'A Sputnik moment?'",
-    "summary": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49677818 Points: 5 # Comments: 1",
-    "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
-    "published": "Sat, 12 Sep 2026 22:19:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
-    "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales Comments URL: https://news.ycombinator.com/item?id=49674396 Points: 14 # Comm",
-    "url": "https://news.ycombinator.com/item?id=49674396",
-    "published": "Sat, 12 Sep 2026 16:56:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-    "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/ Comments URL: https://news.ycombinator.com/item?id=49671296 Points: 40 # Comments: 13",
-    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
-    "published": "Sat, 12 Sep 2026 11:37:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-    "summary": "Article URL: https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=49665689 Points: 3 # Comments: 2",
-    "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-    "published": "Fri, 11 Sep 2026 21:33:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I'm funding a $2,599 iPhone Duo w/ sales of apps I've built since 2008",
-    "summary": "Article URL: https://gophoneme.com/ Comments URL: https://news.ycombinator.com/item?id=49661436 Points: 3 # Comments: 0",
-    "url": "https://gophoneme.com/",
-    "published": "Fri, 11 Sep 2026 16:46:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Could United Launch Alliance's money problems force its owners to sell?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell Comments URL: https://news.ycombinator.com/item?id=49661401 Points: 1 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell",
-    "published": "Fri, 11 Sep 2026 16:44:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Digital Product Passport (DPP) Startup from Germany",
-    "summary": "Article URL: https://dppflash.de/ Comments URL: https://news.ycombinator.com/item?id=49660822 Points: 2 # Comments: 0",
-    "url": "https://dppflash.de/",
-    "published": "Fri, 11 Sep 2026 16:11:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Popular open-science platform to stop hosting data and code amid funding concern",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02598-y Comments URL: https://news.ycombinator.com/item?id=49660120 Points: 3 # Comments: 0",
-    "url": "https://www.nature.com/articles/d41586-026-02598-y",
-    "published": "Fri, 11 Sep 2026 15:30:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Is enough funding a self-fulfilling prophecy for startups?",
-    "summary": "It is well known OpenAI and Anthropic offer completely insane compensation packages and can therefore outcompete even well established companies for talent. My (shallow) theory is that this is ONLY possible because they are startups and have no expectation/obligation in being profitable and a sustainable business. It's completely unaffordable for a standard company that pays it's bills on it's own revenues to compete. My initial instinct is that if you get the best of the best covering most of t",
-    "url": "https://news.ycombinator.com/item?id=49657341",
-    "published": "Fri, 11 Sep 2026 12:33:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Could United Launch Alliance's money problems force its owners to sell?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/ Comments URL: https://news.ycombinator.com/item?id=49656928 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-    "published": "Fri, 11 Sep 2026 11:56:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0 Comments URL: https://news.ycombinator.com/item?id=49655064 Points: 6 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0",
-    "published": "Fri, 11 Sep 2026 08:11:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Only 31% of startup accelerators publish what cheque they write",
-    "summary": "Article URL: https://accelerator.directory/methodology Comments URL: https://news.ycombinator.com/item?id=49654245 Points: 2 # Comments: 0",
-    "url": "https://accelerator.directory/methodology",
-    "published": "Fri, 11 Sep 2026 06:25:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Stackness Launch",
-    "summary": "Article URL: https://stackness.dev/blog/welcome-to-stackness Comments URL: https://news.ycombinator.com/item?id=49648999 Points: 2 # Comments: 0",
-    "url": "https://stackness.dev/blog/welcome-to-stackness",
-    "published": "Thu, 10 Sep 2026 19:22:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Not one of 426 open NIH funding opportunities has a machine-readable deadline",
-    "summary": "Article URL: https://grantping.com/writing/nih-deadlines Comments URL: https://news.ycombinator.com/item?id=49647517 Points: 2 # Comments: 0",
-    "url": "https://grantping.com/writing/nih-deadlines",
-    "published": "Thu, 10 Sep 2026 17:38:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch deserves more than a tweet",
-    "summary": "Article URL: https://pressdrop.io Comments URL: https://news.ycombinator.com/item?id=49644816 Points: 2 # Comments: 1",
-    "url": "https://pressdrop.io",
-    "published": "Thu, 10 Sep 2026 14:55:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ayar Labs, backed by chip giants, extends funding round by $150M",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/ Comments URL: https://news.ycombinator.com/item?id=49643749 Points: 2 # Comments: 0",
-    "url": "https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/",
-    "published": "Thu, 10 Sep 2026 13:52:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Listpro – Turn product screenshots into launch assets",
-    "summary": "I am a true believer in \"throwing things at the wall and seeing what sticks\" ideology so I've built products for multiple marketplaces- Shopify, Notion, mondaydotcom & also SaaS. While AI coding made building faster, launching was my big problem. Marketplaces and launch platforms (Product hunt, appsumo etc) are a sea of products and it's really tough to pass them with average looking launch assets. I'm not a designer, nor do I find it sensible to pay for a monthly subscription when the launch is",
-    "url": "https://listpro.app",
-    "published": "Thu, 10 Sep 2026 12:04:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup ARR is less secure",
-    "summary": "Article URL: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/ Comments URL: https://news.ycombinator.com/item?id=49638641 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-    "published": "Thu, 10 Sep 2026 05:04:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
+    "source": "V2EX",
+    "title": "SRE 岗 offer 选择",
+    "summary": "北京小米玄戒 sre vs 上海网易互娱游戏 sre ### 薪资 小米：月 base 高 15 薪 网易：月 base 低 16~18+薪，总包差不多，绩效好的话网易略高一点，17 薪时基本持平。 当前所在公司只拿过中等绩效，没拿到过好或差的绩效。网易 hr 反馈部门最近绩效好，70-80%都能拿超过 16 薪的，而且 18 薪居多（如果按这个比例对标我现在公司的绩效占位，那我保 17 争 18 ，但算不准进去之后部门绩效怎么样） ### 大致工作内容 小米：芯片研发需要跑仿真模拟，sre 负责运维用到的软硬件资源。 网易互娱：中台部门，入职后与某个游戏项目",
+    "url": "https://www.v2ex.com/t/1241623",
+    "published": 1789260671,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-13",
+    "meta": {
+      "replies": 29,
+      "node": "职场话题"
+    }
   },
   {
     "source": "GitHub新星",
@@ -869,8 +683,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-13",
     "meta": {
-      "stars": 2221,
-      "forks": 133,
+      "stars": 2302,
+      "forks": 135,
       "language": null,
       "createdDaysAgo": 5
     }
@@ -885,26 +699,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-13",
     "meta": {
-      "stars": 1831,
-      "forks": 181,
+      "stars": 1846,
+      "forks": 186,
       "language": "Lean",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "EverettFish/holo-card-studio",
-    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-    "url": "https://github.com/EverettFish/holo-card-studio",
-    "published": "2026-09-07T00:41:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-13",
-    "meta": {
-      "stars": 1474,
-      "forks": 209,
-      "language": "Python",
-      "createdDaysAgo": 6
+      "createdDaysAgo": 5
     }
   }
 ]
