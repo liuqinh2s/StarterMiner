@@ -121,6 +121,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+    "summary": "国产AI芯片公司终于到了要看利润表的时刻。",
+    "url": "https://www.tmtpost.com/8138350.html",
+    "published": "Sun, 13 Sep 2026 20:19:55 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-13"
+  },
+  {
+    "source": "钛媒体",
+    "title": "50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯",
+    "summary": "50亿美元不是一场庆功宴的香槟，而更像是下一阶段长跑的补给站。",
+    "url": "https://www.tmtpost.com/8138516.html",
+    "published": "Sun, 13 Sep 2026 20:17:41 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-13"
+  },
+  {
+    "source": "钛媒体",
     "title": "【数智周报】DeepSeek扩招150人，为史上单次最大规模招聘；月之暗面报案：网传关于创始人及员工信息系恶意造谣；英伟达斥资129亿美元收购HuggingFace",
     "summary": "（9月7日-9月11日）华为“韬定律”芯片麒麟9050 Pro首现身；阿里辟谣钉钉创始人“无招”回归；ARM自研AI CPU获两大中国客户：联想、字节火山；OpenAI放弃今年上市……",
     "url": "https://www.tmtpost.com/8138480.html",
@@ -130,11 +150,11 @@
     "fetchedAt": "2026-09-13"
   },
   {
-    "source": "钛媒体",
-    "title": "Dario自曝RSI已成真，奥特曼同日光速跟进",
-    "summary": "Anthropic CEO Dario Amodei 罕见发文，亲口承认递归自我改进已在全行业发生，并预测6到12个月内失控的AI Agent集群可能接管整个互联网，造成数千亿美元损失。他提出一套三步刹车法，OpenAI 奥特曼同日光速跟进。本文拆解最强对手为何在减速上突然达成一致，以及这次刹车真正争夺的东西是可验证性。",
-    "url": "https://www.tmtpost.com/8138094.html",
-    "published": "Sun, 13 Sep 2026 10:59:00 +0800",
+    "source": "极客公园",
+    "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
+    "summary": "折叠屏七年没解决的问题，从来不在铰链上。 作者｜张勇毅 编辑｜靖宇 2011 年 9 月 30 日，苹果递交了一份名叫「Flexible electronic devices」的专利申请。它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。 这份专利 2015 年 1 月获授，发明人一共六位，其中一位叫特努斯（John P. Ternus）。 十五年之后的 2026 年 9 月 9 日，当年署名的那位工程师，第一次以苹果 CEO 的身份站上发布会，发布了 iPhone Duo。 虽然对这位新任 CEO 来讲，这是首次发布会上最重磅的产品，但中间这十五年，苹果关于折叠屏的大量预研工作，已经在水面之下进行了许久。 按彭博社马克·古尔曼在发布会前一天的报道，苹果工程师大约到 2016 年才开始认真做折叠 iPhone，项目由特努斯的前任、硬件工程主管丹·里奇奥发起。方向也一直没定下来，前几年试的是一台能展开成大平板的 iPad mini。 2019 年 2 月，三星和华为前后隔了四天发布了各自的第一台折叠屏：Galaxy Fold 合上超过 15 毫米厚，Ma",
+    "url": "http://www.geekpark.net/news/370231",
+    "published": "Mon, 14 Sep 2026 01:24:02 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-13"
@@ -400,12 +420,22 @@
     "fetchedAt": "2026-09-13"
   },
   {
-    "source": "极客公园",
-    "title": "当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向",
-    "summary": "作者｜Cynthia 编辑｜郑玄 2026 年夏天，林氏家居想卖一张布艺床。 然后，阿里妈妈万相点睛给它找到了一群电竞玩家。并建议他们投放那些搜索过「电竞房布置」「游戏房改造」「RGB 灯带」「二次元痛房」的用户。 对于林氏家居这样一家诞生于互联网、长期依赖数据经营的头部品牌来说，这是个让人匪夷所思的抉择。 过去，林氏家居品牌已经积累了超过 5500 万全平台粉丝、上万款在售 SKU 以及一千余家线下门店，是行业里公认的爆款制造机。 而在传统的匹配逻辑下，一张床最自然的消费者应该来自装修、新婚、换房，以及近期购买过家电家居的人。因此， 广告系统用预设的标签匹配受众，商家投流选择装修、家具、地板之类的关联词汇，就成为了团队刻在肌肉中的记忆。相应的，一个搜索电竞房布置的年轻人，怎么看都不像一张床最优先应该争取的消费者。 但常识并不能在一个存量市场中带来增长。 而 万相点睛 看到的并不是「电竞」这个标签，而是标签背后的一整套消费意图：它发现，这群年轻人为了获得更好的游戏体验，本身就有很强的消费意愿：他们会购买人体工学椅、4K 显示器、RGB 氛围灯，把自己的房间改造成一个更舒服、更沉浸、也更",
-    "url": "http://www.geekpark.net/news/369777",
-    "published": "Thu, 03 Sep 2026 13:30:32 +0800",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+    "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+    "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+    "published": "Sun, 13 Sep 2026 20:28:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-13"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Fusion power startups find new partners in the defense world",
+    "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+    "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+    "published": "Sun, 13 Sep 2026 13:15:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-13"
   },
@@ -425,26 +455,6 @@
     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
-    "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-    "published": "Fri, 11 Sep 2026 18:58:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-    "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-    "published": "Thu, 10 Sep 2026 22:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-13"
@@ -669,7 +679,7 @@
     "type": "community",
     "fetchedAt": "2026-09-13",
     "meta": {
-      "replies": 29,
+      "replies": 40,
       "node": "职场话题"
     }
   },
@@ -683,10 +693,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-13",
     "meta": {
-      "stars": 2302,
-      "forks": 135,
+      "stars": 2408,
+      "forks": 143,
       "language": null,
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -699,8 +709,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-13",
     "meta": {
-      "stars": 1846,
-      "forks": 186,
+      "stars": 1857,
+      "forks": 191,
       "language": "Lean",
       "createdDaysAgo": 5
     }
