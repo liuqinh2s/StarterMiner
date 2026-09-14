@@ -111,6 +111,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】央行8月重要金融数据出炉，M2同比增长7.5%；美光、闪迪在韩争抢芯片人才，三星加薪并扩大股票奖励；比亚迪高管称燃油车没有未来",
+    "summary": "工信部召开11省份工业经济运行座谈会：把工业经济平稳运行摆在更加重要位置；豆包手机助手发布消费者版本，首款新机将于9月16日正式开售；Anthropic据报仍计划2026年上市，AI安全争议未改变IPO计划；微软为未来AI模型设限，将听取外部意见后更新规则；马克·古尔曼：苹果未来或推出iPhone Duo Max，折叠屏手机有望成主流；商务部等8部门印发《促进智能家居消费行动方案》；华尔街策略师料美联储加息难阻美股延续走强",
+    "url": "https://www.tmtpost.com/8139577.html",
+    "published": "Tue, 15 Sep 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-14"
+  },
+  {
+    "source": "钛媒体",
     "title": "三个月价格腰斩，大模型的“聪明”正在贬值？",
     "summary": "大模型肉搏战的另一面",
     "url": "https://www.tmtpost.com/8139062.html",
@@ -125,26 +135,6 @@
     "summary": "李飞飞的Atlas，为具身智能推开新世界大门",
     "url": "https://www.tmtpost.com/8139209.html",
     "published": "Mon, 14 Sep 2026 17:40:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "钛媒体",
-    "title": "OpenAI按下竞速暂停键：大模型退烧，企业 AI进入结果验收时代",
-    "summary": "市场正在完成一次筛选：通用大模型负责想象力，岗位化 Agent 负责兑现生产力，企业 AI 正式进入结果验收时代。",
-    "url": "https://www.tmtpost.com/8139181.html",
-    "published": "Mon, 14 Sep 2026 16:52:07 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "钛媒体",
-    "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
-    "summary": "最残酷的猜想是：两者都对。",
-    "url": "https://www.tmtpost.com/8138857.html",
-    "published": "Mon, 14 Sep 2026 15:39:32 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-14"
@@ -421,40 +411,60 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "published": "Mon, 14 Sep 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-14"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "published": "Mon, 14 Sep 2026 14:45:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-14"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+    "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+    "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "published": "Mon, 14 Sep 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-14"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+    "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+    "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+    "published": "Mon, 14 Sep 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-14"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+    "published": "Mon, 14 Sep 2026 13:55:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-14"
+  },
+  {
+    "source": "TechCrunch",
     "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
     "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
     "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
     "published": "Sun, 13 Sep 2026 20:28:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Fusion power startups find new partners in the defense world",
-    "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-    "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-    "published": "Sun, 13 Sep 2026 13:15:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "published": "Fri, 11 Sep 2026 20:59:47 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-14"
@@ -650,184 +660,58 @@
     "fetchedAt": "2026-09-14"
   },
   {
-    "source": "Hacker News",
-    "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups",
-    "summary": "Article URL: https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d Comments URL: https://news.ycombinator.com/item?id=49691455 Points: 24 # Comments: 0",
-    "url": "https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d",
-    "published": "Mon, 14 Sep 2026 03:08:17 +0000",
+    "source": "The Verge",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "published": "2026-09-14T16:03:37-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-14"
   },
   {
-    "source": "Hacker News",
-    "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
-    "summary": "I am a member of my university's game development club, which puts me around lots of talented programmers as well as artists of all kinds, and I've observed that just about everyone disapproves of AI. The sentiment is especially strong among younger people coming into the club. By \"disapproves\", I mean they refuse to allow AI-generated content in games and see AI use in general as something like a moral failure. At the same time, I scroll down the YC startup directory, sorting by launch date, an",
-    "url": "https://news.ycombinator.com/item?id=49689696",
-    "published": "Sun, 13 Sep 2026 23:09:37 +0000",
+    "source": "The Verge",
+    "title": "Apple releases iOS 27 with Siri AI overhaul",
+    "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is available as a beta today for English-only devices, and Apple says […]",
+    "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+    "published": "2026-09-14T13:08:49-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-14"
   },
   {
-    "source": "Hacker News",
-    "title": "Find investors for your startup – Investor Match Guaranteed",
-    "summary": "Article URL: https://leadagentx.ai Comments URL: https://news.ycombinator.com/item?id=49680870 Points: 1 # Comments: 0",
-    "url": "https://leadagentx.ai",
-    "published": "Sun, 13 Sep 2026 07:04:53 +0000",
+    "source": "The Verge",
+    "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+    "summary": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every Steam Frame comes with a copy of […]",
+    "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+    "published": "2026-09-14T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-14"
   },
   {
-    "source": "Hacker News",
-    "title": "China on track to launch Mars sample-return mission in 2028: 'A Sputnik moment?'",
-    "summary": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49677818 Points: 6 # Comments: 1",
-    "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
-    "published": "Sat, 12 Sep 2026 22:19:29 +0000",
+    "source": "The Verge",
+    "title": "I reviewed Valve’s Steam Frame, ask me anything",
+    "summary": "Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4PM ET today (that's 1PM PT for West Coasters […]",
+    "url": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
+    "published": "2026-09-14T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-14"
   },
   {
-    "source": "Hacker News",
-    "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
-    "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales Comments URL: https://news.ycombinator.com/item?id=49674396 Points: 17 # Comm",
-    "url": "https://news.ycombinator.com/item?id=49674396",
-    "published": "Sat, 12 Sep 2026 16:56:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-    "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/ Comments URL: https://news.ycombinator.com/item?id=49671296 Points: 42 # Comments: 14",
-    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
-    "published": "Sat, 12 Sep 2026 11:37:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-    "summary": "Article URL: https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=49665689 Points: 3 # Comments: 2",
-    "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-    "published": "Fri, 11 Sep 2026 21:33:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I'm funding a $2,599 iPhone Duo w/ sales of apps I've built since 2008",
-    "summary": "Article URL: https://gophoneme.com/ Comments URL: https://news.ycombinator.com/item?id=49661436 Points: 3 # Comments: 0",
-    "url": "https://gophoneme.com/",
-    "published": "Fri, 11 Sep 2026 16:46:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Could United Launch Alliance's money problems force its owners to sell?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell Comments URL: https://news.ycombinator.com/item?id=49661401 Points: 1 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell",
-    "published": "Fri, 11 Sep 2026 16:44:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Digital Product Passport (DPP) Startup from Germany",
-    "summary": "Article URL: https://dppflash.de/ Comments URL: https://news.ycombinator.com/item?id=49660822 Points: 2 # Comments: 0",
-    "url": "https://dppflash.de/",
-    "published": "Fri, 11 Sep 2026 16:11:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Popular open-science platform to stop hosting data and code amid funding concern",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02598-y Comments URL: https://news.ycombinator.com/item?id=49660120 Points: 3 # Comments: 0",
-    "url": "https://www.nature.com/articles/d41586-026-02598-y",
-    "published": "Fri, 11 Sep 2026 15:30:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Is enough funding a self-fulfilling prophecy for startups?",
-    "summary": "It is well known OpenAI and Anthropic offer completely insane compensation packages and can therefore outcompete even well established companies for talent. My (shallow) theory is that this is ONLY possible because they are startups and have no expectation/obligation in being profitable and a sustainable business. It's completely unaffordable for a standard company that pays it's bills on it's own revenues to compete. My initial instinct is that if you get the best of the best covering most of t",
-    "url": "https://news.ycombinator.com/item?id=49657341",
-    "published": "Fri, 11 Sep 2026 12:33:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Could United Launch Alliance's money problems force its owners to sell?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/ Comments URL: https://news.ycombinator.com/item?id=49656928 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-    "published": "Fri, 11 Sep 2026 11:56:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0 Comments URL: https://news.ycombinator.com/item?id=49655064 Points: 6 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0",
-    "published": "Fri, 11 Sep 2026 08:11:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Only 31% of startup accelerators publish what cheque they write",
-    "summary": "Article URL: https://accelerator.directory/methodology Comments URL: https://news.ycombinator.com/item?id=49654245 Points: 2 # Comments: 0",
-    "url": "https://accelerator.directory/methodology",
-    "published": "Fri, 11 Sep 2026 06:25:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Stackness Launch",
-    "summary": "Article URL: https://stackness.dev/blog/welcome-to-stackness Comments URL: https://news.ycombinator.com/item?id=49648999 Points: 2 # Comments: 0",
-    "url": "https://stackness.dev/blog/welcome-to-stackness",
-    "published": "Thu, 10 Sep 2026 19:22:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Not one of 426 open NIH funding opportunities has a machine-readable deadline",
-    "summary": "Article URL: https://grantping.com/writing/nih-deadlines Comments URL: https://news.ycombinator.com/item?id=49647517 Points: 2 # Comments: 0",
-    "url": "https://grantping.com/writing/nih-deadlines",
-    "published": "Thu, 10 Sep 2026 17:38:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch deserves more than a tweet",
-    "summary": "Article URL: https://pressdrop.io Comments URL: https://news.ycombinator.com/item?id=49644816 Points: 2 # Comments: 1",
-    "url": "https://pressdrop.io",
-    "published": "Thu, 10 Sep 2026 14:55:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-14"
+    "source": "V2EX",
+    "title": "第一次做出海产品，上线 3 个多月几乎没流量，有点迷茫了。",
+    "summary": "第一次尝试做出海产品，自己折腾了一个 AI 股票研究工具，已经上线 3 个多月了。 产品本身一直在迭代，功能也加了不少，但最大的问题是：几乎没什么流量。 刚开始的时候想得比较简单，觉得把产品做好、做点 SEO 、发发 X 、提交一些 AI 导航站，慢慢应该就会有人进来。 结果做了几个月以后发现，事情完全不是这么回事。 SEO 收录很慢，X 基本没什么自然流量，Reddit / Quora 也试过一些，但目前都没有找到特别有效的获客方式。 现在有点卡在一个很尴尬的阶段： 产品还能继续做，功能也还有很多想法，但如果一直没人用，继续堆功能感觉意义也不大。 网站是",
+    "url": "https://www.v2ex.com/t/1241853",
+    "published": 1789365405,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-14",
+    "meta": {
+      "replies": 77,
+      "node": "程序员"
+    }
   },
   {
     "source": "GitHub新星",
@@ -839,8 +723,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-14",
     "meta": {
-      "stars": 1873,
-      "forks": 192,
+      "stars": 1890,
+      "forks": 195,
       "language": "Lean",
       "createdDaysAgo": 6
     }
