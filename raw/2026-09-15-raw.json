@@ -371,50 +371,80 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "published": "Mon, 14 Sep 2026 17:00:00 +0000",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "published": "Tue, 15 Sep 2026 19:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
   },
   {
     "source": "TechCrunch",
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "published": "Mon, 14 Sep 2026 14:45:44 +0000",
+    "title": "US military says it has launched weapons into space",
+    "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
+    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+    "published": "Tue, 15 Sep 2026 17:09:06 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
   },
   {
     "source": "TechCrunch",
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-    "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-    "published": "Mon, 14 Sep 2026 14:30:00 +0000",
+    "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+    "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
+    "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+    "published": "Tue, 15 Sep 2026 17:02:04 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
   },
   {
     "source": "TechCrunch",
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-    "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-    "published": "Mon, 14 Sep 2026 14:00:00 +0000",
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "published": "Tue, 15 Sep 2026 15:22:48 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
   },
   {
     "source": "TechCrunch",
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-    "published": "Mon, 14 Sep 2026 13:55:00 +0000",
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+    "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "published": "Tue, 15 Sep 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+    "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+    "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+    "published": "Tue, 15 Sep 2026 14:13:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "published": "Tue, 15 Sep 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "published": "Tue, 15 Sep 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
@@ -611,30 +641,90 @@
   },
   {
     "source": "The Verge",
-    "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-    "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Loup […]",
-    "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-    "published": "2026-09-14T20:13:47-04:00",
+    "title": "What if social media isn’t hurting kids?",
+    "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media backlash. Haidt […]",
+    "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+    "published": "2026-09-15T16:13:30-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
   },
   {
     "source": "The Verge",
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "published": "2026-09-14T18:59:41-04:00",
+    "title": "Meta’s new One subscriptions put a price on social media and AI",
+    "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the […]",
+    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "published": "2026-09-15T11:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
   },
   {
     "source": "The Verge",
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
-    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "published": "2026-09-14T16:03:37-04:00",
+    "title": "This doorbell camera lets a human security guard watch your front door",
+    "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]",
+    "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "published": "2026-09-15T09:36:45-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html Comments URL: https://news.ycombinator.com/item?id=49718417 Points: 1 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+    "published": "Tue, 15 Sep 2026 20:25:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697 Comments URL: https://news.ycombinator.com/item?id=49717679 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
+    "published": "Tue, 15 Sep 2026 19:32:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "VibeSafe Builder – build and launch AI apps with security checks",
+    "summary": "Article URL: https://vibesafebuilder.com/ Comments URL: https://news.ycombinator.com/item?id=49712694 Points: 2 # Comments: 0",
+    "url": "https://vibesafebuilder.com/",
+    "published": "Tue, 15 Sep 2026 14:04:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Who funds METR? The viral Anthropic funding thread",
+    "summary": "Article URL: https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited Comments URL: https://news.ycombinator.com/item?id=49711367 Points: 3 # Comments: 0",
+    "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
+    "published": "Tue, 15 Sep 2026 12:13:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Buys Startup Developing Smartphone Camera",
+    "summary": "Article URL: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 Comments URL: https://news.ycombinator.com/item?id=49711104 Points: 3 # Comments: 1",
+    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
+    "published": "Tue, 15 Sep 2026 11:49:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+    "summary": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 and has been one of my favorite little novelties of that era ever since. It perfectly captures the saturated colors, cliché hero shots, gimmicky names, buzzword-heavy slogans, and proudly hirsute team photos of the time. A lot has changed since then, so I thought it would be fun to make a contemporary remake: https://restarted.io/ By default you get the minimalist aesthetic and clean-cut fac",
+    "url": "https://restarted.io/",
+    "published": "Tue, 15 Sep 2026 11:34:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-15"
@@ -661,18 +751,8 @@
   },
   {
     "source": "Hacker News",
-    "title": "OpenAI Buys Startup Developing Smartphone Camera",
-    "summary": "Article URL: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 Comments URL: https://news.ycombinator.com/item?id=49701716 Points: 4 # Comments: 0",
-    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
-    "published": "Mon, 14 Sep 2026 18:34:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "Hacker News",
     "title": "One Gets Through – Missile Command, but you launch the missiles",
-    "summary": "Article URL: https://onegetsthrough.com/ Comments URL: https://news.ycombinator.com/item?id=49697965 Points: 44 # Comments: 8",
+    "summary": "Article URL: https://onegetsthrough.com/ Comments URL: https://news.ycombinator.com/item?id=49697965 Points: 49 # Comments: 10",
     "url": "https://onegetsthrough.com/",
     "published": "Mon, 14 Sep 2026 14:53:55 +0000",
     "lang": "en",
@@ -770,105 +850,17 @@
     "fetchedAt": "2026-09-15"
   },
   {
-    "source": "Hacker News",
-    "title": "Could United Launch Alliance's money problems force its owners to sell?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell Comments URL: https://news.ycombinator.com/item?id=49661401 Points: 1 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/could-/-launch-alliances-money-problems-finally-force-its-owners-to-sell",
-    "published": "Fri, 11 Sep 2026 16:44:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Digital Product Passport (DPP) Startup from Germany",
-    "summary": "Article URL: https://dppflash.de/ Comments URL: https://news.ycombinator.com/item?id=49660822 Points: 2 # Comments: 0",
-    "url": "https://dppflash.de/",
-    "published": "Fri, 11 Sep 2026 16:11:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Popular open-science platform to stop hosting data and code amid funding concern",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02598-y Comments URL: https://news.ycombinator.com/item?id=49660120 Points: 3 # Comments: 0",
-    "url": "https://www.nature.com/articles/d41586-026-02598-y",
-    "published": "Fri, 11 Sep 2026 15:30:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Is enough funding a self-fulfilling prophecy for startups?",
-    "summary": "It is well known OpenAI and Anthropic offer completely insane compensation packages and can therefore outcompete even well established companies for talent. My (shallow) theory is that this is ONLY possible because they are startups and have no expectation/obligation in being profitable and a sustainable business. It's completely unaffordable for a standard company that pays it's bills on it's own revenues to compete. My initial instinct is that if you get the best of the best covering most of t",
-    "url": "https://news.ycombinator.com/item?id=49657341",
-    "published": "Fri, 11 Sep 2026 12:33:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Could United Launch Alliance's money problems force its owners to sell?",
-    "summary": "Article URL: https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/ Comments URL: https://news.ycombinator.com/item?id=49656928 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-    "published": "Fri, 11 Sep 2026 11:56:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0 Comments URL: https://news.ycombinator.com/item?id=49655064 Points: 6 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0",
-    "published": "Fri, 11 Sep 2026 08:11:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-15"
-  },
-  {
-    "source": "微博",
-    "title": "#野人先生创始人回应太贵#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23野人先生创始人回应太贵%23",
-    "published": "2026-09-15",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-15",
-    "meta": {
-      "hotValue": 1179561,
-      "rank": 0
-    }
-  },
-  {
     "source": "微博",
     "title": "#新能源汽车 燃油车#",
-    "summary": "新",
+    "summary": "",
     "url": "https://s.weibo.com/weibo?q=%23新能源汽车 燃油车%23",
     "published": "2026-09-15",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "hotValue": 307756,
+      "hotValue": 124467,
       "rank": 22
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#vivo全球首发天玑2nm芯片#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23vivo全球首发天玑2nm芯片%23",
-    "published": "2026-09-15",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-15",
-    "meta": {
-      "hotValue": 221997,
-      "rank": 40
     }
   },
   {
@@ -881,7 +873,7 @@
     "type": "community",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "replies": 87,
+      "replies": 98,
       "node": "macOS"
     }
   },
@@ -895,10 +887,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "stars": 923,
-      "forks": 190,
+      "stars": 1029,
+      "forks": 219,
       "language": "Kotlin",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -911,26 +903,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "stars": 891,
-      "forks": 65,
+      "stars": 911,
+      "forks": 66,
       "language": "Swift",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "kruzovic7/ai-data-extractor",
-    "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "published": "2026-09-11T18:12:58Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-15",
-    "meta": {
-      "stars": 813,
-      "forks": 132,
-      "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 5
     }
   },
   {
@@ -943,10 +919,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "stars": 775,
-      "forks": 79,
+      "stars": 825,
+      "forks": 81,
       "language": "HTML",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "kruzovic7/ai-data-extractor",
+    "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "published": "2026-09-11T18:12:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-15",
+    "meta": {
+      "stars": 820,
+      "forks": 132,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -959,8 +951,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "stars": 702,
-      "forks": 179,
+      "stars": 707,
+      "forks": 181,
       "language": "C#",
       "createdDaysAgo": 5
     }
@@ -975,7 +967,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-15",
     "meta": {
-      "stars": 689,
+      "stars": 695,
       "forks": 92,
       "language": "HTML",
       "createdDaysAgo": 4
