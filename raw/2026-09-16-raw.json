@@ -111,20 +111,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "微软CEO纳德拉：企业必须掌握AI主权，避免过度依赖单一大模型",
-    "summary": "开源制衡闭源，应用层才能跑通商业模式",
-    "url": "https://www.tmtpost.com/8141825.html",
-    "published": "Wed, 16 Sep 2026 16:53:39 +0800",
+    "title": "【钛晨报】部署八个方面重点任务，《文化和旅游发展“十五五”规划》印发；美“星舰”计划进行首次地球轨道试飞；Anew Labs已完成2.9亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与",
+    "summary": "吉利回应宁德时代收购电池公司：未放弃电池自研，“85亿元投资”不实；豆包AI手机来了，优先支持字节系产品调用；钟薛高宣布重启，首批产品预计将于今年第四季度上市；SK海力士：尚未确认有关SK海力士与英特尔就美国内存芯片生产进行谈判的报道所涉及的任何计划；谷歌推出Gemini 3.8 Live及扩展思考版，强化实时语音交互；国家电网：2030年全年农网户均停电时间较2025年下降30%以上；国家统计局发布统计改革发展“十五五”规划；今日香港首个五年规划公布；两部门联合印发《民航数据治理体系建设实施方案》；",
+    "url": "https://www.tmtpost.com/8142323.html",
+    "published": "Thu, 17 Sep 2026 07:20:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "钛媒体",
-    "title": "30万亿之后，中国电子产业未来五年准备把钱花在哪里？",
-    "summary": "手机一年造12亿台之后，增量要去芯片和新市场里找。",
-    "url": "https://www.tmtpost.com/8141506.html",
-    "published": "Wed, 16 Sep 2026 15:44:08 +0800",
+    "title": "微软CEO纳德拉：企业必须掌握AI主权，避免过度依赖单一大模型",
+    "summary": "开源制衡闭源，应用层才能跑通商业模式",
+    "url": "https://www.tmtpost.com/8141825.html",
+    "published": "Wed, 16 Sep 2026 16:53:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-16"
@@ -431,70 +431,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Amazon launches Alexa+ in India with Hindi support",
-    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
-    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-    "published": "Wed, 16 Sep 2026 10:34:47 +0000",
+    "title": "Pulley, a Carta rival, is shutting down",
+    "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+    "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+    "published": "Wed, 16 Sep 2026 21:23:19 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "TechCrunch",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "published": "Tue, 15 Sep 2026 19:00:00 +0000",
+    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+    "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+    "published": "Wed, 16 Sep 2026 19:02:49 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "TechCrunch",
-    "title": "US military says it has launched weapons into space",
-    "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
-    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-    "published": "Tue, 15 Sep 2026 17:09:06 +0000",
+    "title": "Your AI agents can now control your Google Home devices",
+    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "published": "Wed, 16 Sep 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "TechCrunch",
-    "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-    "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
-    "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-    "published": "Tue, 15 Sep 2026 17:02:04 +0000",
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+    "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
+    "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "published": "Wed, 16 Sep 2026 16:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "TechCrunch",
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "published": "Tue, 15 Sep 2026 15:22:48 +0000",
+    "title": "May Mobility is going public in a $1.4B SPAC deal",
+    "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+    "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+    "published": "Wed, 16 Sep 2026 15:27:13 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "TechCrunch",
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
-    "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "published": "Tue, 15 Sep 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-    "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
-    "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-    "published": "Tue, 15 Sep 2026 14:13:59 +0000",
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+    "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "published": "Wed, 16 Sep 2026 14:15:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
@@ -670,224 +660,20 @@
     "fetchedAt": "2026-09-16"
   },
   {
-    "source": "The Verge",
-    "title": "Meta is reportedly ready to launch less pervy smart glasses",
-    "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta […]",
-    "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-    "published": "2026-09-16T04:54:46-04:00",
+    "source": "GitHub新星",
+    "title": "ai-sucks-butt/ai-sucks-butt",
+    "summary": "If you think AI sucks, star the repo.",
+    "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+    "published": "2026-09-14T04:02:58Z",
     "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-    "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, […]",
-    "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-    "published": "2026-09-15T22:00:00-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-    "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger […]",
-    "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-    "published": "2026-09-15T21:00:00-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "What if social media isn’t hurting kids?",
-    "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media backlash. Haidt […]",
-    "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-    "published": "2026-09-15T16:13:30-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sentinel-3C and FLEX launch into orbit",
-    "summary": "Article URL: https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49724055 Points: 3 # Comments: 0",
-    "url": "https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/",
-    "published": "Wed, 16 Sep 2026 09:40:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Salesforce and Nvidia launch Koa, a CRM reasoning model",
-    "summary": "Article URL: https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL Comments URL: https://news.ycombinator.com/item?id=49722116 Points: 3 # Comments: 0",
-    "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL",
-    "published": "Wed, 16 Sep 2026 04:32:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
-    "summary": "Article URL: https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html Comments URL: https://news.ycombinator.com/item?id=49718417 Points: 1 # Comments: 0",
-    "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
-    "published": "Tue, 15 Sep 2026 20:25:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697 Comments URL: https://news.ycombinator.com/item?id=49717679 Points: 2 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
-    "published": "Tue, 15 Sep 2026 19:32:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "VibeSafe Builder – build and launch AI apps with security checks",
-    "summary": "Article URL: https://vibesafebuilder.com/ Comments URL: https://news.ycombinator.com/item?id=49712694 Points: 2 # Comments: 0",
-    "url": "https://vibesafebuilder.com/",
-    "published": "Tue, 15 Sep 2026 14:04:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Who funds METR? The viral Anthropic funding thread",
-    "summary": "Article URL: https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited Comments URL: https://news.ycombinator.com/item?id=49711367 Points: 3 # Comments: 0",
-    "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
-    "published": "Tue, 15 Sep 2026 12:13:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI Buys Startup Developing Smartphone Camera",
-    "summary": "Article URL: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 Comments URL: https://news.ycombinator.com/item?id=49711104 Points: 3 # Comments: 1",
-    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
-    "published": "Tue, 15 Sep 2026 11:49:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-    "summary": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 ( https://news.ycombinator.com/item?id=9427856 ) and has been one of my favorite little novelties of that era ever since. It perfectly captures the saturated colors, cliché hero shots, gimmicky names, buzzword-heavy slogans, and proudly hirsute team photos of the time. A lot has changed since then, so I thought it would be fun to make a contemporary remake: https://restarted.io/ By default y",
-    "url": "https://restarted.io/",
-    "published": "Tue, 15 Sep 2026 11:34:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
-    "summary": "Article URL: https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news Comments URL: https://news.ycombinator.com/item?id=49710219 Points: 2 # Comments: 0",
-    "url": "https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news",
-    "published": "Tue, 15 Sep 2026 10:16:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Einride and Lidl Launch First Autonomous Cab-Less Truck on German Public Road",
-    "summary": "Article URL: https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road Comments URL: https://news.ycombinator.com/item?id=49710135 Points: 1 # Comments: 0",
-    "url": "https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road",
-    "published": "Tue, 15 Sep 2026 10:03:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One Gets Through – Missile Command, but you launch the missiles",
-    "summary": "Article URL: https://onegetsthrough.com/ Comments URL: https://news.ycombinator.com/item?id=49697965 Points: 49 # Comments: 10",
-    "url": "https://onegetsthrough.com/",
-    "published": "Mon, 14 Sep 2026 14:53:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GPT-6 Astra built VEED's own launch video, in an open-source editor",
-    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49697218 Points: 2 # Comments: 2",
-    "url": "https://github.com/veedstudio/open-edit",
-    "published": "Mon, 14 Sep 2026 14:12:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups",
-    "summary": "Article URL: https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d Comments URL: https://news.ycombinator.com/item?id=49691455 Points: 30 # Comments: 0",
-    "url": "https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d",
-    "published": "Mon, 14 Sep 2026 03:08:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
-    "summary": "I am a member of my university's game development club, which puts me around lots of talented programmers as well as artists of all kinds, and I've observed that just about everyone disapproves of AI. The sentiment is especially strong among younger people coming into the club. By \"disapproves\", I mean they refuse to allow AI-generated content in games and see AI use in general as something like a moral failure. At the same time, I scroll down the YC startup directory, sorting by launch date, an",
-    "url": "https://news.ycombinator.com/item?id=49689696",
-    "published": "Sun, 13 Sep 2026 23:09:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Find investors for your startup – Investor Match Guaranteed",
-    "summary": "Article URL: https://leadagentx.ai Comments URL: https://news.ycombinator.com/item?id=49680870 Points: 1 # Comments: 0",
-    "url": "https://leadagentx.ai",
-    "published": "Sun, 13 Sep 2026 07:04:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China on track to launch Mars sample-return mission in 2028: 'A Sputnik moment?'",
-    "summary": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49677818 Points: 6 # Comments: 1",
-    "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
-    "published": "Sat, 12 Sep 2026 22:19:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
-    "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales Comments URL: https://news.ycombinator.com/item?id=49674396 Points: 17 # Comm",
-    "url": "https://news.ycombinator.com/item?id=49674396",
-    "published": "Sat, 12 Sep 2026 16:56:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-    "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/ Comments URL: https://news.ycombinator.com/item?id=49671296 Points: 42 # Comments: 14",
-    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
-    "published": "Sat, 12 Sep 2026 11:37:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
+    "type": "signal",
+    "fetchedAt": "2026-09-16",
+    "meta": {
+      "stars": 1752,
+      "forks": 0,
+      "language": "Python",
+      "createdDaysAgo": 2
+    }
   },
   {
     "source": "GitHub新星",
@@ -899,26 +685,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 1157,
-      "forks": 238,
+      "stars": 1252,
+      "forks": 244,
       "language": "Kotlin",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ai-sucks-butt/ai-sucks-butt",
-    "summary": "If you think AI sucks, star the repo.",
-    "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-    "published": "2026-09-14T04:02:58Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-16",
-    "meta": {
-      "stars": 1033,
-      "forks": 0,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 4
     }
   },
   {
@@ -931,10 +701,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 930,
+      "stars": 938,
       "forks": 69,
       "language": "Swift",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -947,10 +717,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 846,
-      "forks": 82,
+      "stars": 858,
+      "forks": 84,
       "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -963,10 +733,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 824,
+      "stars": 825,
       "forks": 132,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -979,10 +749,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 742,
+      "stars": 761,
       "forks": 14,
       "language": null,
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "unstablebuild/rune",
+    "summary": "the development environment for pros",
+    "url": "https://github.com/unstablebuild/rune",
+    "published": "2026-09-10T10:50:03Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-16",
+    "meta": {
+      "stars": 746,
+      "forks": 52,
+      "language": "Go",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -995,9 +781,25 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 717,
+      "stars": 720,
       "forks": 182,
       "language": "C#",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nftechie/stonkfly",
+    "summary": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+    "url": "https://github.com/nftechie/stonkfly",
+    "published": "2026-09-10T02:40:30Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-16",
+    "meta": {
+      "stars": 714,
+      "forks": 123,
+      "language": "Python",
       "createdDaysAgo": 6
     }
   },
@@ -1011,42 +813,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 704,
-      "forks": 92,
+      "stars": 707,
+      "forks": 93,
       "language": "HTML",
       "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "nftechie/stonkfly",
-    "summary": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-    "url": "https://github.com/nftechie/stonkfly",
-    "published": "2026-09-10T02:40:30Z",
+    "title": "agentverse-os/AgentVerse-OS",
+    "summary": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothi",
+    "url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "published": "2026-09-12T18:20:00Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 702,
-      "forks": 122,
-      "language": "Python",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "unstablebuild/rune",
-    "summary": "the development environment for pros",
-    "url": "https://github.com/unstablebuild/rune",
-    "published": "2026-09-10T10:50:03Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-16",
-    "meta": {
-      "stars": 693,
-      "forks": 39,
-      "language": "Go",
-      "createdDaysAgo": 6
+      "stars": 678,
+      "forks": 18,
+      "language": "Rust",
+      "createdDaysAgo": 4
     }
   }
 ]
