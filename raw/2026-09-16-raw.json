@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "蚂蚁集团等入股矩侨工业",
+    "summary": "天眼查App显示，近日，威海矩侨工业科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、零以柔感（泉州）创业投资合伙企业（有限合伙）等为股东，同时，注册资本由约751万人民币增至约829万人民币。 该公司成立于2023年11月，法定代表人为张景淇，经营范围包括企业总部管理、电子专用材料研发、电子专用材料销售等，现由浙江航大科技开发有限公司、矩侨共创（威海）产业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
+    "url": "https://www.cyzone.cn/article/846609.html",
+    "published": "Wed, 16 Sep 2026 07:08:03 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "创业邦",
     "title": "蔚来资本入股弓望传感",
     "summary": "天眼查App显示，近日，无锡弓望传感技术有限公司发生工商变更，合肥蔚来产业发展股权投资合伙企业（有限合伙）新增为股东，当前持股约10.87%；同时注册资本增至约377.84万元。股权穿透显示，合肥蔚来产业发展股权投资合伙企业（有限合伙）为蔚来集团成员，注册资本30.8亿元。 无锡弓望传感技术有限公司成立于2023年1月，法定代表人为邓高强，是一家电感式传感器研发商。天眼查融资历程显示，弓望传感2026年8月完成A轮融资，金额近亿元，投资方包括蔚来资本、厦门钨业、阳光电源等。",
     "url": "https://www.cyzone.cn/article/846391.html",
@@ -101,20 +111,110 @@
   },
   {
     "source": "钛媒体",
-    "title": "高瓴90后，成了梁文锋的CFO",
-    "summary": "空了很久的位置要坐上人了",
-    "url": "https://www.tmtpost.com/8140956.html",
-    "published": "Wed, 16 Sep 2026 11:47:45 +0800",
+    "title": "微软CEO纳德拉：企业必须掌握AI主权，避免过度依赖单一大模型",
+    "summary": "开源制衡闭源，应用层才能跑通商业模式",
+    "url": "https://www.tmtpost.com/8141825.html",
+    "published": "Wed, 16 Sep 2026 16:53:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
   {
     "source": "钛媒体",
-    "title": "黄仁勋当众接起总统的电话：AI减速之争进入第三个交易日",
-    "summary": "芯片、光通信、存储产业链周一全线重挫的同时，网络安全股出现了本轮周期里少见的单日行情。",
-    "url": "https://www.tmtpost.com/8140304.html",
-    "published": "Wed, 16 Sep 2026 08:36:50 +0800",
+    "title": "30万亿之后，中国电子产业未来五年准备把钱花在哪里？",
+    "summary": "手机一年造12亿台之后，增量要去芯片和新市场里找。",
+    "url": "https://www.tmtpost.com/8141506.html",
+    "published": "Wed, 16 Sep 2026 15:44:08 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "在飞书的上下文底座上，豆包开工了",
+    "summary": "今年，不少公司的工作群里，将会多一些「新同事」。 它们是 AI，但可以像普通员工一样被拉进群聊，阅读此前的讨论和文档，参与会议、承接任务，并调用不同的业务工具完成工作。你甚至可以看到 Agent 在群里 @ 另一个 Agent，共同推进一项复杂工作。 当 Agent 从个人助手变成组织中的「数字同事」，企业需要的不只是更聪明的模型，还需要一套能够承载人与 Agent 共同工作的协作平台：让 Agent 获得必要的业务上下文和工具，同时遵守企业的权限与管理规则。 飞书 CEO 谢欣｜来自：2026 飞书未来无限大会暨豆包工作开工大会 今年的飞书未来无限大会，因此多了一个有趣的新名字——豆包工作开工大会。 对一个 Agent 来说，「开工」比回答问题复杂得多。它需要了解公司的业务是什么、今年要完成什么样的目标、任务由谁提出、应该用什么工具、结果交付给谁。这些能力很难由模型，甚至通用的 Harness 框架提供，却恰恰存在于企业长期使用的协同办公平台。 飞书和豆包工作正在尝试给出一套相对完整的答案。飞书 8.0 为 Agent 重构协同平台；豆包工作提供原生融入飞书的企业级 Agent；仍在",
+    "url": "http://www.geekpark.net/news/370460",
+    "published": "Wed, 16 Sep 2026 17:36:24 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案",
+    "summary": "如果说今年 3 月，Arm 推出首款自研 CPU 芯片，是这家公司向市场释放的一个信号，它开始尝试突破过去「只提供底层架构授权」的角色边界。那么在上海举办的 Arm Everywhere China 活动上，Arm 想传递的信息更加明确，不要再用过去「CPU IP 供应商」的方式理解今天的 Arm。 在这场活动中，Arm 没有只围绕某一个产品展开叙事，而是第一次更加完整地将自己的未来方向拆成三条线，云 AI、边缘 AI 和物理 AI。 和往年不太一样，去年 Arm 的主题演讲几乎全部围绕一件事展开 SME2，也就是让 AI 在 CPU 上跑起来。那是一个典型的「架构升级」叙事。但今年的主题演讲，三位业务负责人分别讲边缘 AI、物理 AI 和云 AI，围绕场景展开， 算力会在云、端侧和物理世界之间流动，而 Arm 想成为这个「计算基建」的底座。 今年的 Arm 试图回答的是另一个问题，当 AI 正在重新改变计算方式时，下一代计算平台应该如何被设计？ 当 AI 计算正在从单一芯片性能竞争，转向多个计算单元协同竞争时，谁能够组织这些计算资源？ 我们惊讶地与多位 Arm 高管的交流中发现，当下",
+    "url": "http://www.geekpark.net/news/370453",
+    "published": "Wed, 16 Sep 2026 16:34:03 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "助听器躺赚三十年暴利，被 AI 打破了",
+    "summary": "一个塞在耳朵里的小东西，卖到十万一副，丢失甚至需要动用全城搜索？ 助听器，是一门奇特的生意。 整个全球市场，近九成的助听器市场份额被五家外资公司把持：索诺瓦（峰力）、Demant（奥迪康）、WS 听力、瑞声达、斯达克。他们的旗舰产品在中国线下，一对要卖到七到十万块。即便是在美国本土，一副售价也要卖到三四万。而且过去二十年，助听器市场的格局几乎少有波动。 让他们垄断助听器市场的，最早其实是一道技术难题：音频分离。 想要模拟人耳在嘈杂餐厅里锁定一个声音，其实并不容易。在嘈杂的声音之下，究竟什么声音应该被放大？需要放大的应该是一个声音还是多个声音？在当时，谁能能把这道题解得好，谁就有资格定高价。五家外资公司，用芯片和算法把这件事做到了七八十分，然后，用遍布全球的验配门店，把助听器市场锁成了一套封闭的体系。 不是没有人挑战过，几十年间，无数创业者试图打破它，最终都没能跨过去。但这个局面，正在被打破。2026 年，两家来自深圳的公司，把助听器卖到了原来十分之一的价格。 据公开报道，听象科技旗下的昂听用 1 年时间就拥有超 50000 用户，做到了美国亚马逊助听器类目 Top1，年销超 1500 ",
+    "url": "http://www.geekpark.net/news/370445",
+    "published": "Wed, 16 Sep 2026 16:06:55 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "当智能体开始替人花钱，如何证明「它是谁」？",
+    "summary": "在蚂蚁集团，负责 AI 支付安全的陈树鹏是个深度的智能体使用者。日常写代码、梳理汇报、提炼会议纪要，AI 几乎接管了他工作流里的大部分环节。 这种高度依赖背后，却存在着一个清晰的分水岭。一旦任务涉及真金白银，比如调用付费数据接口、购买素材或预订服务，绝大多数人都会本能地把权限卡死不愿交出钱包。哪怕是陈树鹏自己，手头测试过大量任务型框架，真正被他允许支付权限的智能体也仅仅只有两三个。 但在产业一线，这种放权又势在必行。 在 2026 外滩大会上，蚂蚁集团 CEO 韩歆毅表示，智能体商业的「ChatGPT 时刻」正在到来，其核心标志正是从单纯的对话能力展示，加速走向真实的商业交易闭环。商业世界的交互起点，正在从过去的搜索页面演进为意图驱动的服务调度。 在技术上，调用 API 扣费及定期支付看似早已是成熟的基础设施。但真正让人犹豫的，是 Agent 与传统自动化脚本的本质区别。以往的自动化扣款跑在封闭受控的系统里，按固定规则触发；现在的 Agent 为了办成一件事，需要在开放网络里自主探索、解析未经清洗的公开网页、调用第三方插件。面对一个在外部环境里自主决策的长任务，过去那种一次性给出的静态",
+    "url": "http://www.geekpark.net/news/370440",
+    "published": "Wed, 16 Sep 2026 15:45:18 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变",
+    "summary": "「这仗打错了，最多是白烧几十亿；但如果不打，可能是生死问题。」 这是创新工场联合首席执行官、管理合伙人汪华对大厂重金押注 AI 办公的判断。 2026 年的这个夏天，中国科技巨头发起了 Agent 时代第一场「战役」：豆包工作正式发布，TRAE、扣子团队整体并入豆包体系。更早的 7 月底，飞书产品团队并入豆包；另一边，腾讯的 WorkBuddy 已经跑出了千万月活，阿里也在整合自己的桌面 Agent、云端 Agent 和钉钉能力。 巨头为何会集体兴奋？AI 办公的背后他们在思考什么？在争夺什么？最近，极客公园邀请了汪华、Floatboat.ai 创始人兼 CEO 谭少卿一起来聊一聊。 今年初那场「小龙虾热」，本质上只是一场极客的自我狂欢。谭少卿说，「它是个过渡产品」，属于三类产品分层中的「极客产品」，从一开始就没打算走大众化路线。模型不够强、配置门槛高、Harness 不成熟，把普通用户挡在门外。 真正的转折发生在最近几个月。汪华认为，国产模型是最近才真正跨过了那道坎。GLM-5.3-Flash、DeepSeek-V4-Flash 这些模型不仅把指令遵循能力做上去了，更关键的是把成本打",
+    "url": "http://www.geekpark.net/news/370431",
+    "published": "Wed, 16 Sep 2026 14:39:11 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了",
+    "summary": "9 月 3 日，特斯拉「悄悄」办了一场发布会。 没有直播，没有全球媒体轰炸，只请了少数受邀者参加。活动开始前，特斯拉的网红粉丝们发布了照片和视频。特斯拉还在网站上设置了倒计时，为该活动预热。 这场发布会的主角，是那台被外界戏称为「三无车型」的 Cybercab：没有方向盘，没有踏板，连传统意义上的侧后视镜都没有。它从设计之初就不打算遵循任何传统汽车的逻辑，目标是把单车成本和每英里运营成本压到极致。 Cybercab 的发布比以往的产品演示更重要。2026 年 9 月 3 日，摩根士丹利分析师 Andrew Percoco 表示，在其对特斯拉 400 美元的目标价中，自动驾驶出租车业务贡献了约 120 美元的估值；今年 3 月，美国银行还将特斯拉的自动驾驶出租车业务估值为 8440 亿美元，相当于特斯拉当时估值的一半左右。 按照马斯克的设想，Cybercab 未来会是特斯拉销量最大的一款车，支撑起一张覆盖全球的无人驾驶出租车网络。更有想象力的一层是：车主自己不用车的时候，可以把车「投放」进特斯拉管理的车队里去跑单，闲置资产变成现金流。 马斯克十年故事，终于开始兑现 有意思的是，这场发布会",
+    "url": "http://www.geekpark.net/news/370425",
+    "published": "Wed, 16 Sep 2026 14:30:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "4 款车、3 颗芯片、15999 的折叠屏手机，小米的「疯狂一夜」",
+    "summary": "9 月 7 日晚上，雷军站在国家会议中心的舞台中央，讲了整整两个半小时。这不是一场普通的秋季发布会，而是小米的一份阶段性答卷。 车、芯片、手机，这三张牌，小米憋了很久。造车、造芯、造高端旗舰，每一件单拎出来都很重磅，而雷军选择把它们同时摊在同一张桌子上。四款澎程新车、三颗自研玄戒芯片、史上第一款破万的小米 18 Fold 折叠屏，再加上一块想要正面掀翻 iPad 的小米平板 9 Pro Max。 值得注意的是时间分配：两个半小时里， 光澎程系列的四款车，雷军就讲了一个半小时 。重头戏是谁，答案不言而喻。发布会后，小米披露，4 分钟澎程锁单突破 10000 台。 而当那块能在车顶升起一整间「移动小屋」的电动顶舱亮相时，现场响起了热烈的掌声。 今晚的小米，想讲的不是参数，而是一个关于「下一个十年靠什么活」的故事。 一、一个半小时、四款车 这次发布会的重头戏是小米澎程系列。当雷军讲到这部分的时候，现场掌声最大。 此前 7 月底的技术发布会上，7 月 30 日，小米汽车举办造车五年来的第二次技术发布会，系统分享了小米昆仑技术架构，并发布小米澎程首款车型 N90 Max，两排五座的 N70 系列",
+    "url": "http://www.geekpark.net/news/370423",
+    "published": "Wed, 16 Sep 2026 14:27:24 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线",
+    "summary": "9 月 8 日，一台高阶通用人形机器人小鹏 IRON 完成自动化总装，从产线上走了下来。 如果只看画面，这好像是又一段科技公司放出来的机器人视频。在这个被大模型和具身智能席卷的时代，科技圈每天都在被各种炫酷的机器人 Demo 刷屏：有人形机器人打拳击，有灵巧手叠衣服，也有机器人在舞台上完成复杂动作…… 这次更值得关注的，并不是机器人行走本身，而是它身后那条刚启用的自动化产线。这次的机器人并不是工程师手工拼装出来的，而是像汽车一样经过一整条工业化产线，自动化总装然后下线。 一、会表演不够了，能量产才算数 小鹏押注机器人这件事，其实比外界想象的要早得多。早在 2020 年，小鹏就已经切入了机器人赛道，比现在市面上大多数明星机器人公司都要早。 但选择在 2026 年这个时间点启用产线，这更像是小鹏过去几年物理 AI 战略的一次集中呈现。从智能汽车到 Robotaxi、人形机器人、飞行汽车，小鹏正在推动 AI 能力从汽车场景向更多物理空间延伸。 机器人和汽车在硬件形态、运动方式和应用场景上差异很大，但在 AI 层面，两者需要解决的问题类似：如何让人工智能理解真实环境，并在复杂物理空间中完成任务",
+    "url": "http://www.geekpark.net/news/370421",
+    "published": "Wed, 16 Sep 2026 14:16:06 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "极客公园",
+    "title": "我坐进特斯拉 Cybercab，吃下马斯克 Robotaxi 的「新饼」",
+    "summary": "2013 年 9 月，苹果推出了新品 iPhone 5S 手机，这款手机除了延续苹果在智能手机上一往无前的势头外，新增的金色配色，深受大众喜爱，并获得了「土豪金」的称号。 2026 年 9 月，特斯拉也发布了一款「土豪金」产品——不是Space Phone，而是特斯拉 Cybercab，用于 Robotaxi 的无人驾驶电动车。 「土豪金」Robotaxi 来了！｜图片来源：极客公园 特斯拉不是第一个做无人驾驶车的，但是彻底拿掉方向盘、加速、刹车踏板和后视镜，完全用第一性原理做出Robotaxi 车型的，特斯拉显然又引领了潮流。尤其是，这样的 Cybercab 已经在美国得州奥斯汀真的开始「拉客」了。 虽然不知道特斯拉的 FSD 什么时候进入中国，但是不到两周，极客公园就在国内亲自体验了 Cybercab，狠狠吃下马斯克给大家画的「新饼」。 金色「缝合怪」 北京蟹岛特斯拉交付中心，就在交付大厅内，团队搭了一个简单的摄影棚。在轮胎与地面摩擦声中，极客公园看到了那台金色的 Cybercab。 不知道是不是因为刷了太多关于 Cybercab 的视频，第一眼看到 Cybercab，并没有特别令",
+    "url": "http://www.geekpark.net/news/370412",
+    "published": "Wed, 16 Sep 2026 13:35:49 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-16"
@@ -320,82 +420,22 @@
     "fetchedAt": "2026-09-16"
   },
   {
-    "source": "极客公园",
-    "title": "童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」",
-    "summary": "作者｜Cynthia 编辑｜ 郑玄 2016 年， 后来被反复宣布了无数次元年的 VR 产业，正式迎来了第一次爆发浪潮。 这一年 3 月 28 日，Oculus Rift 首批发货，售价 599 美元的产品很快被销售一空；两天后，曾在微软 Windows 10 发布会上被重点推介的 3000 美元 HoloLens 开发者版也迎来正式发售，此前围绕 HoloLens 举办的 11 城开发者巡展，名额开放 90 分钟便全部订满。同一时间还未正式发售 PlayStation VR 的索尼，则直接宣布已经有 230 多家开发商和发行商正在为它制作内容。 资本比硬件更为激进。高盛在当年年初把 VR/AR 直接称作下一代计算平台的竞争者；2 月，连消费级产品都还没有推出的 Magic Leap，则是一轮融资就拿到 7.935 亿美元，投后估值达到 45 亿美元。 至此，硬件、资本和开发者，都已形成共识。 只有中国计算机图形最知名的学者、时任微软亚研院首席研究员——童欣，是个例外。 论技术身位，那时的他已经在微软亚洲研究院工作了 17 年，负责网络图形组也有六年。论研究方向，他应该是当时最有理由相",
-    "url": "http://www.geekpark.net/news/369959",
-    "published": "Mon, 07 Sep 2026 18:26:42 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "极客公园",
-    "title": "「AI Native 」不是魔法，「创业者」这三个字依旧厚重",
-    "summary": "上个月，我集中跑了一趟上海和深圳，也跟几位在 AI 前沿一线折腾的创业者深聊了几次。 齐俊元的新产品干了半年，我问他这阶段最大的收获是什么，他说了句挺朴素的话：「真的伸手去干的时候，你会发现认真还是挺重要的。」 这话听着很普通，事后却让我不断想起，放到当下的行业环境下看，也挺让人警醒的。 3 年来深入聊过至少 200 位 AI 创业者了，现在有一些已经有点丧气了。「AI 应用已经不能投了」的观点也在业内流传。觉得这不能干，那不能干，机会没了，窗口关了。但你反过来看，那些真正跑出来的产品，都有一个共同点——特别笃定地扎在一个方向上，然后往死里抠细节。 比如俊元做的产品，真正让我惊异的不是产品形态的创新，而是远超我想象的数据表现。你问他怎么做到的，他说就是要一点一点抠，数据、框架、工程，全都要优化，接下来要做后训练，说的全是细活。一步一步，日拱一卒。 Vivix 刘宇那边也是。他给我展示了他们模型的生成效率，大概 10 秒能出 9 个音画同步的视频。三年前 Demi 他们做 Pika 的时候，3 分钟出 4 个，那会儿都觉得快得不行了。平时我自己在即梦上，一条视频都要等半天，看到 10 秒",
-    "url": "http://www.geekpark.net/news/369955",
-    "published": "Mon, 07 Sep 2026 17:29:26 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "极客公园",
-    "title": "麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了",
-    "summary": "「Super Intelligent！Super cool！」 你很难想到，华为终端 BG 董事长 余承东，会在正式场合突然充满自信的飙英文。 余承东在发布会上展示华为 Mate XT2 非凡大师三折叠手机｜图片来源：极客公园 9 月 7 日的华为秋季全场景发布会上，余承东在介绍当天的重磅新品华为 Mate XT2 非凡大师时，突然用英语评价起了这款产品，「超级智能、超级酷」，翻译过来就是英文版的「遥遥领先」。 余承东公布华为 Mate XT2 非凡大师三折叠手机售价｜图片来源：极客公园 作为隔年更新的第二代三折叠手机，19999 元起的华为Mate XT2 非凡大师固然是当天最大的亮点，但比产品本身更让人激动的，是余承东在介绍产品搭载的芯片时，团队将「麒麟 9050 Pro」的大字打在了屏幕上。 搭配上自研的 GPU、NPU等全套组合，Mate XT2 非凡大师代表华为已经基本有了「芯片自信」。 真旗舰，真非凡 作为全球首家推出三折叠手机的厂商，华为在三折叠上有显然的「领跑自信」，即便外国友商推出类似产品时，面对华为三折叠 100 万台的销量，也很难不「徒呼奈何」。 但如果细究起来，",
-    "url": "http://www.geekpark.net/news/369954",
-    "published": "Mon, 07 Sep 2026 17:13:27 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "极客公园",
-    "title": "雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道",
-    "summary": "雷军：小米汽车累计交付量超过 80 万辆 9 月 7 日消息，小米创办人、董事长兼 CEO 雷军刚刚宣布， 小米汽车累计交付量超过 80 万辆 。 据本月早些时候报道，2026 年 8 月，小米汽车交付量持续超过 30,000 台。小米汽车表示， 正全力为小米澎程上市交付做准备 。 另外，在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军表示，2 年半的时间，小米汽车发布了两款车—— 小米 SU7 和小米 YU7。这两款车都成了爆品，并且累计交付 70 多万台 。 小米汽车 2026 年各月交付量如下： 1 月交付量超 39,000 台 2 月交付量超 20,000 台 3 月交付量超 20,000 台 4 月交付量超 30,000 台 5 月交付量超 30,000 台 6 月交付量超 30,000 台 7 月交付量超 30,000 台 8 月交付量超 30,000 台 （来源：IT 之家） OpenAI 宣布已经实现「自动化 AI 研究实习生」 9 月 6 日消息，OpenAI 发布博客宣布，已经达成去年秋季定下的 自动化 AI 研究实习生 目标，同时披露",
-    "url": "http://www.geekpark.net/news/369884",
-    "published": "Mon, 07 Sep 2026 08:55:47 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "极客公园",
-    "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
-    "summary": "大模型厂商纷纷「卖 Token」，消息称 Kimi、MiniMax 等即将在天猫开店 上海证券报 9 月 5 日独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。 本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设「智谱旗舰店」。用户可在淘宝 App 搜索「智谱旗舰店」进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。 此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开始进入传统电商平台的消费场景。 本月 3 日，天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax、DeepSeek 等国产大模型厂商。其中，阿里云和智谱为品牌官方旗舰店，剩余三家目前为代理模式。（来源：IT 之家） OpenAI 回应旗下智能体攻进德国网站：将彻底改革「AI 模型攻击」事件披露机制 9 月 4 日晚间路透",
-    "url": "http://www.geekpark.net/news/369875",
-    "published": "Sun, 06 Sep 2026 08:06:12 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "极客公园",
-    "title": "传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元",
-    "summary": "OpenAI 智能体被曝「接管」德国维基网站 一项最新曝光的人工智能安全事件正在引发业内广泛关注。 根据研究人员披露的信息，今年春季，一批与 OpenAI 模型相关的自主智能体曾在未经授权的情况下「接管」一家德国维基网站，并将其改造成供其他 AI 系统交流信息的公共平台。这一事件此前从未对外公开，而 OpenAI 据称已在数周前获悉相关情况。 报道称，事件最早开始于今年 5 月，目标网站是一家名为 DseWiki 的德语维基平台，主要面向程序员社区开放协作编辑。研究人员在 8 月底调查 互联网异常 AI 活动时发现，该网站在数月时间内累计出现超过 1.5 万次由 AI 智能体完成的编辑操作。 调查人员表示，这些编辑行为并非普通的信息补充，而是呈现出明显的组织化特征。大量页面被智能体重新利用为交流平台，不同 AI 系统在其中分享任务执行经验、讨论绕过限制的方法，并交流如何隐藏自身行为的技巧。 研究人员查看的记录显示，当网站管理员于 6 月开始删除相关页面后，这些智能体并未停止活动，而是主动建立备用页面，以避免交流内容随着清理行动一同消失。有记录显示，部分智能体甚至会提醒其他系统某些页面可",
-    "url": "http://www.geekpark.net/news/369871",
-    "published": "Sat, 05 Sep 2026 08:24:15 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "极客公园",
-    "title": "对话 Sharpa 李一帆：通用机器人要么全能，要么无能",
-    "summary": "具身智能现在太吵了。 行业里的人各自笃定，声音大的先被听见。最响的那些声音，往往离真实的进展最远。 真正在往前推的人，看的是谁在践行非共识，什么在真的往前走，以及谁心里有一张完整的图，而不是走一步看一步。 这些东西不会上热搜，但它们决定这个行业的下一步。 我们一直探寻这些。如果你也是—— 欢迎来到极客公园 In The Loop。👇 作者｜Li Yuan 过去一年，上海静安区最醒目的队伍之一，在兴业太古汇北广场上。114.5 米长的路易威登「路易号」，像是一艘巨轮驶入南京西路，引起游人纷纷拍照。 很快，隔着石门一路，对面可能会出现一个新的排队打卡点。 8 月 29 日，吴江路 169 号的一家 DQ 将重新开门。柜台后面，多了一名机器人店员。 机器人做冰淇淋，乍听并不新鲜。过去几年，类似的机器已经作为噱头出现过不少：一套专门为机器人设计的冰淇淋机完成大部分流程，机械臂只需要接住杯子，再把它递给顾客。与其说机器人学会了做冰淇淋，不如说人们重新造了一台更适合机器人操作的机器。 这一次不太一样。 Sharpa 的机器人做的是一杯大家熟悉的 DQ 暴风雪，从取杯、出料、加料到搅拌，全都按照 D",
-    "url": "http://www.geekpark.net/news/369851",
-    "published": "Fri, 04 Sep 2026 16:37:04 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
     "source": "爱范儿",
     "title": "对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」",
     "summary": "具身智能会有自己的「ChatGPT 时刻」吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Wed, 16 Sep 2026 04:04:59 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "published": "Wed, 16 Sep 2026 10:34:47 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
   },
@@ -460,11 +500,21 @@
     "fetchedAt": "2026-09-16"
   },
   {
-    "source": "TechCrunch",
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "published": "Tue, 15 Sep 2026 14:00:00 +0000",
+    "source": "TechNode",
+    "title": "The AI Boom Has a Bandwidth Problem",
+    "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The popular story of artificial intelligence begins with the processor. Bigger models require more GPUs, more power and ever-larger data centers. Yet once thousands of accelerators are assembled into a single computing cluster, another problem emerges: the chips must constantly exchange enormous volumes […]",
+    "url": "https://technode.com/2026/09/16/the-ai-boom-has-a-bandwidth-problem/",
+    "published": "Wed, 16 Sep 2026 08:15:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei opens beta testing for XiaoYi Work AI assistant across phones, tablets and PCs",
+    "summary": "Huawei has opened beta testing for XiaoYi Work, an AI work assistant for office tasks, coding and creative work across HarmonyOS phones, tablets and PCs. XiaoYi Work can break a goal into steps, call tools, show progress and request user review at key points. Users can assign tasks from a phone to a cloud or […]",
+    "url": "https://technode.com/2026/09/16/huawei-xiaoyi-work-ai-assistant/",
+    "published": "Wed, 16 Sep 2026 06:05:38 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
@@ -620,41 +670,11 @@
     "fetchedAt": "2026-09-16"
   },
   {
-    "source": "TechNode",
-    "title": "DeepSeek begins limited-time beta of V4.1 Flash multimodal model",
-    "summary": "DeepSeek has begun a limited-time beta of V4.1 Flash, an interim model that uses a new architecture and natively supports multimodal capabilities. DeepSeek said the model offers stronger performance and faster generation at a lower cost, but has not presented it as a formal release. Developers can access the model through DeepSeek’s existing API by […]",
-    "url": "https://technode.com/2026/09/09/deepseek-v4-1-flash-multimodal-limited-beta/",
-    "published": "Wed, 09 Sep 2026 05:33:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "TechNode",
-    "title": "HarmonyOS 7 installed on more than 5 million devices within 24 hours",
-    "summary": "Huawei said more than 5 million devices were upgraded to HarmonyOS 7 within 24 hours of the operating system’s release. HarmonyOS 7 has entered public beta for supported smartphones, tablets, computers, smartwatches and earphones in China. The update expands the capabilities of Huawei’s Celia AI assistant, which can access more than 2,100 system functions and […]",
-    "url": "https://technode.com/2026/09/09/harmonyos-7-five-million-device-upgrades-24-hours/",
-    "published": "Wed, 09 Sep 2026 05:31:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "TechNode",
-    "title": "China’s Humanoid Robot Boom, Part II: Startups Move From Robot Shows to Real Jobs",
-    "summary": "Editor’s note: This article was written by Lucia, a TechNode reporter. What does a humanoid robot boom actually look like? In China, it is taking shape not only in capital investment and production, but in the growing range of places where robots are being put to use. Unitree helped put China’s robotics boom on the […]",
-    "url": "https://technode.com/2026/09/08/chinas-humanoid-robot-boom-part-ii-startups-move-from-robot-shows-to-real-jobs/",
-    "published": "Tue, 08 Sep 2026 09:23:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-16"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei launches Mate XT 2 as the first smartphone to commercialize its LogicFolding Tau chip",
-    "summary": "Huawei has launched the Mate XT 2 ULTIMATE DESIGN, billing it as the first smartphone to feature its LogicFolding Tau chip and reach mass commercialization. The device also debuts the Kirin 9050 Pro processor and Huawei’s third-generation tri-fold design. The Mate XT 2 starts at RMB 19,999 and will go on sale in China on […]",
-    "url": "https://technode.com/2026/09/08/huawei-mate-xt2-logicfolding-tau-chip/",
-    "published": "Tue, 08 Sep 2026 05:30:54 +0000",
+    "source": "The Verge",
+    "title": "Meta is reportedly ready to launch less pervy smart glasses",
+    "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta […]",
+    "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+    "published": "2026-09-16T04:54:46-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-16"
@@ -690,18 +710,184 @@
     "fetchedAt": "2026-09-16"
   },
   {
-    "source": "微博",
-    "title": "#荣耀Magic9拍出肖战电影感#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9拍出肖战电影感%23",
-    "published": "2026-09-16",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Sentinel-3C and FLEX launch into orbit",
+    "summary": "Article URL: https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49724055 Points: 3 # Comments: 0",
+    "url": "https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/",
+    "published": "Wed, 16 Sep 2026 09:40:45 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-09-16",
-    "meta": {
-      "hotValue": 324423,
-      "rank": 47
-    }
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Salesforce and Nvidia launch Koa, a CRM reasoning model",
+    "summary": "Article URL: https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL Comments URL: https://news.ycombinator.com/item?id=49722116 Points: 3 # Comments: 0",
+    "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL",
+    "published": "Wed, 16 Sep 2026 04:32:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html Comments URL: https://news.ycombinator.com/item?id=49718417 Points: 1 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+    "published": "Tue, 15 Sep 2026 20:25:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697 Comments URL: https://news.ycombinator.com/item?id=49717679 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
+    "published": "Tue, 15 Sep 2026 19:32:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "VibeSafe Builder – build and launch AI apps with security checks",
+    "summary": "Article URL: https://vibesafebuilder.com/ Comments URL: https://news.ycombinator.com/item?id=49712694 Points: 2 # Comments: 0",
+    "url": "https://vibesafebuilder.com/",
+    "published": "Tue, 15 Sep 2026 14:04:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Who funds METR? The viral Anthropic funding thread",
+    "summary": "Article URL: https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited Comments URL: https://news.ycombinator.com/item?id=49711367 Points: 3 # Comments: 0",
+    "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
+    "published": "Tue, 15 Sep 2026 12:13:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Buys Startup Developing Smartphone Camera",
+    "summary": "Article URL: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 Comments URL: https://news.ycombinator.com/item?id=49711104 Points: 3 # Comments: 1",
+    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
+    "published": "Tue, 15 Sep 2026 11:49:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+    "summary": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 ( https://news.ycombinator.com/item?id=9427856 ) and has been one of my favorite little novelties of that era ever since. It perfectly captures the saturated colors, cliché hero shots, gimmicky names, buzzword-heavy slogans, and proudly hirsute team photos of the time. A lot has changed since then, so I thought it would be fun to make a contemporary remake: https://restarted.io/ By default y",
+    "url": "https://restarted.io/",
+    "published": "Tue, 15 Sep 2026 11:34:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
+    "summary": "Article URL: https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news Comments URL: https://news.ycombinator.com/item?id=49710219 Points: 2 # Comments: 0",
+    "url": "https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news",
+    "published": "Tue, 15 Sep 2026 10:16:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Einride and Lidl Launch First Autonomous Cab-Less Truck on German Public Road",
+    "summary": "Article URL: https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road Comments URL: https://news.ycombinator.com/item?id=49710135 Points: 1 # Comments: 0",
+    "url": "https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road",
+    "published": "Tue, 15 Sep 2026 10:03:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "One Gets Through – Missile Command, but you launch the missiles",
+    "summary": "Article URL: https://onegetsthrough.com/ Comments URL: https://news.ycombinator.com/item?id=49697965 Points: 49 # Comments: 10",
+    "url": "https://onegetsthrough.com/",
+    "published": "Mon, 14 Sep 2026 14:53:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "GPT-6 Astra built VEED's own launch video, in an open-source editor",
+    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49697218 Points: 2 # Comments: 2",
+    "url": "https://github.com/veedstudio/open-edit",
+    "published": "Mon, 14 Sep 2026 14:12:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups",
+    "summary": "Article URL: https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d Comments URL: https://news.ycombinator.com/item?id=49691455 Points: 30 # Comments: 0",
+    "url": "https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d",
+    "published": "Mon, 14 Sep 2026 03:08:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
+    "summary": "I am a member of my university's game development club, which puts me around lots of talented programmers as well as artists of all kinds, and I've observed that just about everyone disapproves of AI. The sentiment is especially strong among younger people coming into the club. By \"disapproves\", I mean they refuse to allow AI-generated content in games and see AI use in general as something like a moral failure. At the same time, I scroll down the YC startup directory, sorting by launch date, an",
+    "url": "https://news.ycombinator.com/item?id=49689696",
+    "published": "Sun, 13 Sep 2026 23:09:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Find investors for your startup – Investor Match Guaranteed",
+    "summary": "Article URL: https://leadagentx.ai Comments URL: https://news.ycombinator.com/item?id=49680870 Points: 1 # Comments: 0",
+    "url": "https://leadagentx.ai",
+    "published": "Sun, 13 Sep 2026 07:04:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China on track to launch Mars sample-return mission in 2028: 'A Sputnik moment?'",
+    "summary": "Article URL: https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment Comments URL: https://news.ycombinator.com/item?id=49677818 Points: 6 # Comments: 1",
+    "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+    "published": "Sat, 12 Sep 2026 22:19:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
+    "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales Comments URL: https://news.ycombinator.com/item?id=49674396 Points: 17 # Comm",
+    "url": "https://news.ycombinator.com/item?id=49674396",
+    "published": "Sat, 12 Sep 2026 16:56:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/ Comments URL: https://news.ycombinator.com/item?id=49671296 Points: 42 # Comments: 14",
+    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+    "published": "Sat, 12 Sep 2026 11:37:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-16"
   },
   {
     "source": "GitHub新星",
@@ -713,26 +899,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 1067,
-      "forks": 224,
+      "stars": 1157,
+      "forks": 238,
       "language": "Kotlin",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "sumimakito/Mac-Duo",
-    "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
-    "url": "https://github.com/sumimakito/Mac-Duo",
-    "published": "2026-09-10T18:55:39Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-16",
-    "meta": {
-      "stars": 917,
-      "forks": 66,
-      "language": "Swift",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -745,10 +915,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 889,
+      "stars": 1033,
       "forks": 0,
       "language": "Python",
       "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "sumimakito/Mac-Duo",
+    "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
+    "url": "https://github.com/sumimakito/Mac-Duo",
+    "published": "2026-09-10T18:55:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-16",
+    "meta": {
+      "stars": 930,
+      "forks": 69,
+      "language": "Swift",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -761,8 +947,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 835,
-      "forks": 81,
+      "stars": 846,
+      "forks": 82,
       "language": "HTML",
       "createdDaysAgo": 3
     }
@@ -777,26 +963,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 823,
+      "stars": 824,
       "forks": 132,
       "language": "Python",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "angusdevgo/IDM_Pro_Tool",
-    "summary": "IDM激活与状态维护工具",
-    "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
-    "published": "2026-09-10T09:39:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-16",
-    "meta": {
-      "stars": 715,
-      "forks": 181,
-      "language": "C#",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -809,10 +979,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 708,
-      "forks": 13,
+      "stars": 742,
+      "forks": 14,
       "language": null,
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "angusdevgo/IDM_Pro_Tool",
+    "summary": "IDM激活与状态维护工具",
+    "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+    "published": "2026-09-10T09:39:06Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-16",
+    "meta": {
+      "stars": 717,
+      "forks": 182,
+      "language": "C#",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -825,10 +1011,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 698,
+      "stars": 704,
       "forks": 92,
       "language": "HTML",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -841,9 +1027,25 @@
     "type": "signal",
     "fetchedAt": "2026-09-16",
     "meta": {
-      "stars": 693,
-      "forks": 114,
+      "stars": 702,
+      "forks": 122,
       "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "unstablebuild/rune",
+    "summary": "the development environment for pros",
+    "url": "https://github.com/unstablebuild/rune",
+    "published": "2026-09-10T10:50:03Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-16",
+    "meta": {
+      "stars": 693,
+      "forks": 39,
+      "language": "Go",
       "createdDaysAgo": 6
     }
   }
