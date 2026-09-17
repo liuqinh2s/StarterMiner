@@ -100,31 +100,61 @@
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "创业邦",
-    "title": "新湃传媒已被腾讯音乐等限消",
-    "summary": "据媒体报道，近日，王一博因肖像权纠纷，正式起诉了《陈情令》的出品方新湃传媒等多家公司。 天眼查App显示，新湃传媒集团有限公司成立于2015年4月，法定代表人为王鑫，注册资本约8111.6万人民币，经营范围包括影视策划、动漫设计、市场营销策划、公关活动策划等，由宁波高新区新灿股权投资管理合伙企业（有限合伙）、广西腾讯创业投资有限公司、青岛春珈五号股权投资基金企业（有限合伙）等共同持股。风险信息显示，该公司现存多条限制消费令、失信被执行人（老赖）信息，申请人包括腾讯音乐娱乐（深圳）有限公司、网易有道信息技术（北京）有限公司等。",
-    "url": "https://www.cyzone.cn/article/844162.html",
-    "published": "Mon, 24 Aug 2026 07:06:17 GMT",
+    "source": "钛媒体",
+    "title": "智谱融资背后：一场没有枪声的卡位战",
+    "summary": "一场空间与时间的交换。",
+    "url": "https://www.tmtpost.com/8143610.html",
+    "published": "Thu, 17 Sep 2026 16:28:44 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "钛媒体",
-    "title": "行业模型不是通用模型缩小版，百望王志伟谈财税大模型落地产业实景",
-    "summary": "发票是企业经营的数字DNA，百望股份用260亿张交易凭证，喂出一套财税大模型。",
-    "url": "https://www.tmtpost.com/8143131.html",
-    "published": "Thu, 17 Sep 2026 11:50:19 +0800",
+    "title": "从130亿美元到1050亿美元，张一鸣的钱为什么越来越多",
+    "summary": "张一鸣卸任经营一线，账面身家却大幅攀升。财富增长根植于字节跳动的业务跃迁与AI估值重估，未上市企业的账面财富背后，同样暗藏预期波动的现实考验。",
+    "url": "https://www.tmtpost.com/8143493.html",
+    "published": "Thu, 17 Sep 2026 16:02:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "钛媒体",
-    "title": "6912颗光模块与一台\"修芯片的机器\"：算力竞争的账，正在算向制造装备",
-    "summary": "英伟达 40 亿美元锁定的不是芯片厂，是两家激光器厂；红杉 8 月连下两注，买的也是装备——修光芯片良率的机器，和验证国产设备的封装平台。算力的下一个瓶颈，正在从芯片设计移向制造装备。",
-    "url": "https://www.tmtpost.com/8140584.html",
-    "published": "Thu, 17 Sep 2026 11:14:00 +0800",
+    "title": "AI赢得了芯片，输不起一次停电",
+    "summary": "算力的尽头是电力。",
+    "url": "https://www.tmtpost.com/8143474.html",
+    "published": "Thu, 17 Sep 2026 15:51:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "钛媒体",
+    "title": "20亿首轮，字节分拆AI制药拿下巨额融资",
+    "summary": "一个字节跳动，两家 AI 制药新秀。",
+    "url": "https://www.tmtpost.com/8143340.html",
+    "published": "Thu, 17 Sep 2026 15:48:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "极客公园",
+    "title": "京东押注物理 AI，冲在前面的是一群 95 后",
+    "summary": "去年，AI 行业最热闹的是模型榜单、推理能力和多模态生成。所有人都在问：这个模型有多强？ 但到了 2026 年，问题变了。人们开始追问：它到底能干什么？ 这个问题，京东在今年的 JDD 大会上，给出了自己的答案。 京东把这届大会的主题定为「JoyAI · 跃迁物理世界」。它想传达的是，AI 的下一站不只是能说会道、更聪明，而是要进入仓库、货架、家庭、配送路线和售后服务，去完成真实任务。 有意思的是，这次站上舞台的，除了京东高管，还有一批 95 后业务负责人和产品经理。他们讲的不是概念里的未来，而是京东 App 的 AI 化改造、物流具身智能机器人、家庭 AI 入口。这背后京东正在推进一项更大的战略——建设全球最大物理世界运营中心。AI 正在走出屏幕，而年轻人正在成为这场迁移的主力。 95 后冲进 AI 最难落地的地方 陈屿有一段时间，每天都在问自己同一个问题：我们是不是做错了？ 那是 2025 年底、2026 年初，整个电商行业都在往「智能体电商」这个方向猛冲。用户输入一句话，AI 理解需求、推荐商品、辅助下单。这个想象很迷人，也足够「未来感」。 陈屿和他的团队也投身这场探索，推出了「",
+    "url": "http://www.geekpark.net/news/370519",
+    "published": "Thu, 17 Sep 2026 15:51:53 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "极客公园",
+    "title": "追觅四大赛道 IFA 首秀：一套技术，四个出口",
+    "summary": "追觅在 IFA 上展出的不是四条产品线，是一套技术的四个出口。 作者｜张勇毅 编辑｜郑玄 去年一年，全球扫地机器人的出货量约 2412 万台。同一年，全球人形机器人的出货量约 1.8 万台。两个数字都来自 IDC，中间差了 1300 多倍。 带着这两个数字走进今年柏林的 IFA 主会场，这种体感上的反差就更明显了。 IFA 官方今年搭了迄今最大规模的人形机器人展示平台，主题是「未来已来」，机器人走秀也排进了每天的日程。转到清洁电器区，几家中国清洁品牌的展台上，扫地机器人长出了手和腿：有会爬楼梯的，有伸出机械臂往墙角边缘的。 追觅的展台是这个领域中把这件事做得最极致的选手之一：从带机械臂的割草机、能自己跟着人走的高尔夫球包车，到一副外骨骼、一台正在叠衣服的工业机器人，还有两台处于研发阶段的家庭服务机器人 ECHO，四块业务第一次被摆在同一片地毯上。 这也是追觅今年 6 月宣布聚焦智能家庭、户外庭院、智能出行、具身智能四大赛道之后，四块业务第一次同台。 在 IFA 追觅展台现场前，第一眼看到的是四种不太相干的机器。看第二眼会发现，它们共用的东西比不同的多。 割草机、球包车、机器人，第一次同",
+    "url": "http://www.geekpark.net/news/370506",
+    "published": "Thu, 17 Sep 2026 12:42:23 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-17"
@@ -400,21 +430,21 @@
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "极客公园",
-    "title": "单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单",
-    "summary": "「有人星夜赶科场，有人辞官归故里。」 作者｜张勇毅 编辑｜靖宇 过去很长一段时间里，微软员工之间流传着一张自发维护的表格，用来互相交换薪资和奖金数字，大公司里常见的那种「工资透明化」地下工程。 今年，这张后来被 Business Insider 拿到的表格上，多出了一列新数字：「每月 AI 花费」。 各部门员工自报 AI 用量，28 天口径｜图片来源：Business Insider 约 350 名美国员工填了这一列。最高的那一格写着：28 天，2.8 万美元（约合 19 万元人民币）。 微软的反应不是给这位同学发先进。据 Android Headlines 报道，公司已经开始收紧 token 用量管理：部门级预算生效，个人 token 支出进了仪表盘，内部默认模型切到了 OpenAI 的 GPT-5.6 Sol。 翻译一下就是，微软开始内部查账了。 01 token 用量分出阶级 这张表格最大的信息量不在数字，在位置——「AI 花费」这一列，出现在晒工资的表格里。 员工把 AI 用量填在薪资旁边，意思再明白不过，在 2026 年的微软，你每月烧掉多少 token，和你赚多少钱一样，是",
-    "url": "http://www.geekpark.net/news/370006",
-    "published": "Tue, 08 Sep 2026 15:27:11 +0800",
+    "source": "爱范儿",
+    "title": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+    "summary": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Thu, 17 Sep 2026 06:06:44 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "极客公园",
-    "title": "传字节开发实时空间视频生成模型；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
-    "summary": "消息称字节正开发实时空间视频生成 AI 模型：最快下个月发布 9 月 7 日消息，据彭博社报道，字节跳动正准备推出一款实时空间视频生成 AI 模型。该模型计划最早于下月发布。 知情人士指出，发布时间尚未最终确定，计划仍可能发生变动。 据介绍，该模型基于字节跳动现有的电影级视频生成 AI 模型 Seedance 构建，将允许用户面向直播、短剧和游戏创建交互式虚拟世界。字节跳动发言人未回应置评请求。 知情人士称，字节跳动此次将空间视频模型定位为驱动整个生态的「飞轮（Flywheel）」——该模型能够将用户置于高度沉浸的三维虚拟环境中，功能与谷歌的 Genie 类似。字节跳动得以将其自研 AI 模型、云计算底层资源，与旗下的内容平台以及 XR 业务分支 Pico 的硬件终端深度串联、协同发力。 字节跳动最新的模型旨在生成能够响应 Pico 头显用户语音或动作的虚拟世界。该模型致力于将生成空间内容这一计算密集型任务完全转移至云端，从而显著降低 VR 技术的初始使用成本。这一架构能够大幅减少头显设备本身的算力要求，为推出造价更低、配置更简化的硬件终端铺平道路。 同时，高速的内容生成能力还将推动行",
-    "url": "http://www.geekpark.net/news/369965",
-    "published": "Tue, 08 Sep 2026 08:34:54 +0800",
+    "source": "爱范儿",
+    "title": "早报｜曝苹果自研M8 Ultra服务器/36.98万，理想i9 Home发布/周鸿祎：不会再投新能源汽车",
+    "summary": "· SK 海力士员工通过新版奖金方案，现金与股票各半 · 抖音收紧财经内容治理，三季度处置 4.5 万多条违规内容 · 理想 i9 Home 正式发布：36.98 万元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1680630?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Thu, 17 Sep 2026 00:13:28 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-17"
@@ -426,6 +456,16 @@
     "url": "https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Wed, 16 Sep 2026 04:04:59 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+    "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+    "published": "Thu, 17 Sep 2026 11:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
@@ -480,11 +520,31 @@
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "May Mobility is going public in a $1.4B SPAC deal",
-    "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
-    "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-    "published": "Wed, 16 Sep 2026 15:27:13 +0000",
+    "source": "TechNode",
+    "title": "Hello Robotaxi raises about $100 million at nearly $3 billion valuation",
+    "summary": "Hello’s Robotaxi business, operated through Shanghai Zufu Intelligent Technology Co., Ltd., has completed a new financing round of about $100 million. The round was led by Shanghai Guotou Venture Capital, with participation from Minhang Jintou and China Creation Ventures. The company’s post-money valuation is close to $3 billion. The funding will be used for continued […]",
+    "url": "https://technode.com/2026/09/17/hello-robotaxi-100-million-financing/",
+    "published": "Thu, 17 Sep 2026 10:02:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "TechNode",
+    "title": "Li Auto launches Li i9 six-seat flagship SUV at RMB 369,800",
+    "summary": "Li Auto officially launched the Li i9 on Sept. 16, positioning it as a flagship family SUV. The six-seat battery-electric vehicle starts at RMB 369,800, with deliveries scheduled to begin this week. The Li i9 uses a 101 kWh 5C battery, an 800V electrical platform and dual-motor all-wheel drive. It offers a claimed CLTC range […]",
+    "url": "https://technode.com/2026/09/17/li-auto-li-i9-six-seat-flagship-suv/",
+    "published": "Thu, 17 Sep 2026 09:47:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "TechNode",
+    "title": "Nubia NaviX Ultra, the second-generation Doubao Phone, launches from RMB 5,999",
+    "summary": "Nubia has launched the NaviX Ultra, the second-generation Doubao Phone, with the 12GB + 512GB model priced at RMB 5,999 and a government-subsidy price starting at RMB 5,499. The 16GB + 512GB and 16GB + 1TB versions cost RMB 6,499 and RMB 7,499, respectively. [ZTE, in Chinese] The phone is the first mass-market device to […]",
+    "url": "https://technode.com/2026/09/17/nubia-navix-ultra-second-generation-doubao-phone-launches/",
+    "published": "Thu, 17 Sep 2026 09:43:08 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
@@ -660,16 +720,6 @@
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "TechNode",
-    "title": "DeepSeek reportedly hires CITIC Securities for Shanghai STAR Market IPO",
-    "summary": "Chinese AI startup DeepSeek has hired CITIC Securities to prepare for an initial public offering on Shanghai’s STAR Market, Reuters reported Wednesday, citing two people familiar with the matter. The Hangzhou-based company aims to begin the IPO process this year, the sources said. Companies seeking a mainland China listing typically appoint a securities firm to […]",
-    "url": "https://technode.com/2026/09/09/deepseek-citic-securities-shanghai-star-market-ipo/",
-    "published": "Wed, 09 Sep 2026 08:48:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
     "source": "The Verge",
     "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
     "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
@@ -680,207 +730,17 @@
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "Hacker News",
-    "title": "SpaceX's next Starship launch is Sept. 22, aims to reach orbit for first time",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time Comments URL: https://news.ycombinator.com/item?id=49734547 Points: 2 # Comments: 0",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time",
-    "published": "Wed, 16 Sep 2026 23:40:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I Put My Startup Esdenera on Hold",
-    "summary": "Article URL: https://web.archive.org/web/20210515020855/https://reykfloeter.com/posts/why-i-put-my-startup-esdenera-on-hold Comments URL: https://news.ycombinator.com/item?id=49734087 Points: 1 # Comments: 0",
-    "url": "https://web.archive.org/web/20210515020855/https://reykfloeter.com/posts/why-i-put-my-startup-esdenera-on-hold",
-    "published": "Wed, 16 Sep 2026 22:45:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Artemis II Launch 35mm High Speed Film (01.apr.2026)",
-    "summary": "Article URL: https://images.nasa.gov/details/KSC-20260401-MH-AJN01-0001-Artemis_II_Launch_35mm_High_Speed_Film-M19183 Comments URL: https://news.ycombinator.com/item?id=49732940 Points: 3 # Comments: 0",
-    "url": "https://images.nasa.gov/details/KSC-20260401-MH-AJN01-0001-Artemis_II_Launch_35mm_High_Speed_Film-M19183",
-    "published": "Wed, 16 Sep 2026 21:00:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI weighs funding round at $1.2T valuation before IPO",
-    "summary": "Article URL: https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f Comments URL: https://news.ycombinator.com/item?id=49729147 Points: 2 # Comments: 0",
-    "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f",
-    "published": "Wed, 16 Sep 2026 16:07:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OrbiChat – Danish Startup creating a chat and event app",
-    "summary": "Article URL: https://orbichat.io/ Comments URL: https://news.ycombinator.com/item?id=49729117 Points: 1 # Comments: 1",
-    "url": "https://orbichat.io/",
-    "published": "Wed, 16 Sep 2026 16:05:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon to launch Ring 'neighbourhood watch' app in UK amid US privacy fears",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/16/amazon-ring-neighbours-app-uk-doorbell-privacy-safety Comments URL: https://news.ycombinator.com/item?id=49729075 Points: 6 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/sep/16/amazon-ring-neighbours-app-uk-doorbell-privacy-safety",
-    "published": "Wed, 16 Sep 2026 16:02:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2T Valuation",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295 Comments URL: https://news.ycombinator.com/item?id=49726405 Points: 3 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295",
-    "published": "Wed, 16 Sep 2026 13:06:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sentinel-3C and FLEX launch into orbit",
-    "summary": "Article URL: https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49724055 Points: 3 # Comments: 0",
-    "url": "https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/",
-    "published": "Wed, 16 Sep 2026 09:40:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Salesforce and Nvidia launch Koa, a CRM reasoning model",
-    "summary": "Article URL: https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL Comments URL: https://news.ycombinator.com/item?id=49722116 Points: 3 # Comments: 0",
-    "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL",
-    "published": "Wed, 16 Sep 2026 04:32:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
-    "summary": "Article URL: https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html Comments URL: https://news.ycombinator.com/item?id=49718417 Points: 1 # Comments: 0",
-    "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
-    "published": "Tue, 15 Sep 2026 20:25:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697 Comments URL: https://news.ycombinator.com/item?id=49717679 Points: 2 # Comments: 1",
-    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
-    "published": "Tue, 15 Sep 2026 19:32:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "VibeSafe Builder – build and launch AI apps with security checks",
-    "summary": "Article URL: https://vibesafebuilder.com/ Comments URL: https://news.ycombinator.com/item?id=49712694 Points: 2 # Comments: 0",
-    "url": "https://vibesafebuilder.com/",
-    "published": "Tue, 15 Sep 2026 14:04:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Who funds METR? The viral Anthropic funding thread",
-    "summary": "Article URL: https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited Comments URL: https://news.ycombinator.com/item?id=49711367 Points: 3 # Comments: 0",
-    "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
-    "published": "Tue, 15 Sep 2026 12:13:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI Buys Startup Developing Smartphone Camera",
-    "summary": "Article URL: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 Comments URL: https://news.ycombinator.com/item?id=49711104 Points: 3 # Comments: 1",
-    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
-    "published": "Tue, 15 Sep 2026 11:49:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-    "summary": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 ( https://news.ycombinator.com/item?id=9427856 ) and has been one of my favorite little novelties of that era ever since. It perfectly captures the saturated colors, cliché hero shots, gimmicky names, buzzword-heavy slogans, and proudly hirsute team photos of the time. A lot has changed since then, so I thought it would be fun to make a contemporary remake: https://restarted.io/ By default y",
-    "url": "https://restarted.io/",
-    "published": "Tue, 15 Sep 2026 11:34:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
-    "summary": "Article URL: https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news Comments URL: https://news.ycombinator.com/item?id=49710219 Points: 2 # Comments: 0",
-    "url": "https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news",
-    "published": "Tue, 15 Sep 2026 10:16:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Einride and Lidl Launch First Autonomous Cab-Less Truck on German Public Road",
-    "summary": "Article URL: https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road Comments URL: https://news.ycombinator.com/item?id=49710135 Points: 1 # Comments: 0",
-    "url": "https://www.einride.tech/press/einride-and-lidl-launch-first-autonomous-cab-less-truck-on-german-public-road",
-    "published": "Tue, 15 Sep 2026 10:03:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One Gets Through – Missile Command, but you launch the missiles",
-    "summary": "Article URL: https://onegetsthrough.com/ Comments URL: https://news.ycombinator.com/item?id=49697965 Points: 49 # Comments: 10",
-    "url": "https://onegetsthrough.com/",
-    "published": "Mon, 14 Sep 2026 14:53:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GPT-6 Astra built VEED's own launch video, in an open-source editor",
-    "summary": "Article URL: https://github.com/veedstudio/open-edit Comments URL: https://news.ycombinator.com/item?id=49697218 Points: 2 # Comments: 2",
-    "url": "https://github.com/veedstudio/open-edit",
-    "published": "Mon, 14 Sep 2026 14:12:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "V2EX",
-    "title": "我要再次发出暴论， AGI 离我们还很遥远。",
-    "summary": "标题党一下，从成本上来说，让自主迭代一个工程很难，成本太高。只能说从 0-1 ，平时迭代效率提高了不少，这个过程依旧非常需要人工介入，上很多约束，子会话什么的也不现实，Token 成本会很高。 我自己用 200 刀的 gpt ，跑的时候会让他开 Terra middle 多很多次代码审查，确实能避免绝大多数问题了，但也还有不少问题。还是得我自己真机实操去回归，发现，给他讲，写测试，锁死，修改。 现在能源也没什么大突破，算力危机感觉一时半会也搞不定，如果真到 Token 和流量一样便宜的时候，可能就实现了吧？大力出奇迹，一个 Ai 有幻觉就多弄几个？我也不是很懂，欢迎友好讨论。",
-    "url": "https://www.v2ex.com/t/1242441",
-    "published": 1789542250,
+    "source": "微博",
+    "title": "#美国大模型已被日本错误历史观污染#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23美国大模型已被日本错误历史观污染%23",
+    "published": "2026-09-17",
     "lang": "zh",
-    "type": "community",
+    "type": "news",
     "fetchedAt": "2026-09-17",
     "meta": {
-      "replies": 48,
-      "node": "程序员"
+      "hotValue": 567627,
+      "rank": 8
     }
   },
   {
@@ -893,7 +753,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-17",
     "meta": {
-      "stars": 1967,
+      "stars": 2369,
       "forks": 0,
       "language": "Python",
       "createdDaysAgo": 3
@@ -909,8 +769,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-17",
     "meta": {
-      "stars": 1268,
-      "forks": 249,
+      "stars": 1286,
+      "forks": 252,
       "language": "Kotlin",
       "createdDaysAgo": 4
     }
@@ -925,7 +785,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-17",
     "meta": {
-      "stars": 863,
+      "stars": 865,
       "forks": 84,
       "language": "HTML",
       "createdDaysAgo": 4
@@ -941,8 +801,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-17",
     "meta": {
-      "stars": 827,
-      "forks": 132,
+      "stars": 829,
+      "forks": 133,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -957,41 +817,9 @@
     "type": "signal",
     "fetchedAt": "2026-09-17",
     "meta": {
-      "stars": 784,
-      "forks": 14,
+      "stars": 811,
+      "forks": 16,
       "language": null,
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "eternityspring/reelbench-skills",
-    "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-    "url": "https://github.com/eternityspring/reelbench-skills",
-    "published": "2026-09-11T04:55:49Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 709,
-      "forks": 93,
-      "language": "HTML",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "agentverse-os/AgentVerse-OS",
-    "summary": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothi",
-    "url": "https://github.com/agentverse-os/AgentVerse-OS",
-    "published": "2026-09-12T18:20:00Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 690,
-      "forks": 19,
-      "language": "Rust",
       "createdDaysAgo": 4
     }
   }
