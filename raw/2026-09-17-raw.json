@@ -101,6 +101,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "重资产举债入局，又一老牌药企签下十亿级算力大单丨行业风向标",
+    "summary": "开展此类业务，除企业自有资金外，还需依托股东借款、金融机构融资等渠道完成履约。",
+    "url": "https://www.tmtpost.com/8144031.html",
+    "published": "Thu, 17 Sep 2026 23:27:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "钛媒体",
+    "title": "机器人开始制造机器人了？万台产能背后残酷大考才刚开始",
+    "summary": "10 分钟下线一台人形机器人，可是量产不等于商业化通关。",
+    "url": "https://www.tmtpost.com/8143691.html",
+    "published": "Thu, 17 Sep 2026 19:34:40 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "钛媒体",
     "title": "智谱融资背后：一场没有枪声的卡位战",
     "summary": "一场空间与时间的交换。",
     "url": "https://www.tmtpost.com/8143610.html",
@@ -115,26 +135,6 @@
     "summary": "张一鸣卸任经营一线，账面身家却大幅攀升。财富增长根植于字节跳动的业务跃迁与AI估值重估，未上市企业的账面财富背后，同样暗藏预期波动的现实考验。",
     "url": "https://www.tmtpost.com/8143493.html",
     "published": "Thu, 17 Sep 2026 16:02:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "钛媒体",
-    "title": "AI赢得了芯片，输不起一次停电",
-    "summary": "算力的尽头是电力。",
-    "url": "https://www.tmtpost.com/8143474.html",
-    "published": "Thu, 17 Sep 2026 15:51:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-17"
-  },
-  {
-    "source": "钛媒体",
-    "title": "20亿首轮，字节分拆AI制药拿下巨额融资",
-    "summary": "一个字节跳动，两家 AI 制药新秀。",
-    "url": "https://www.tmtpost.com/8143340.html",
-    "published": "Thu, 17 Sep 2026 15:48:25 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-17"
@@ -461,60 +461,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-    "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-    "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-    "published": "Thu, 17 Sep 2026 11:00:00 +0000",
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "published": "Thu, 17 Sep 2026 23:21:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "published": "Thu, 17 Sep 2026 03:30:00 +0000",
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "published": "Thu, 17 Sep 2026 22:34:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Pulley, a Carta rival, is shutting down",
-    "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
-    "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-    "published": "Wed, 16 Sep 2026 21:23:19 +0000",
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "published": "Thu, 17 Sep 2026 22:14:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-    "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-    "published": "Wed, 16 Sep 2026 19:02:49 +0000",
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+    "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "published": "Thu, 17 Sep 2026 17:15:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Your AI agents can now control your Google Home devices",
-    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "published": "Wed, 16 Sep 2026 17:00:00 +0000",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "published": "Thu, 17 Sep 2026 14:06:14 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
     "source": "TechCrunch",
-    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-    "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
-    "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-    "published": "Wed, 16 Sep 2026 16:00:00 +0000",
+    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+    "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "published": "Thu, 17 Sep 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
@@ -721,106 +721,222 @@
   },
   {
     "source": "The Verge",
-    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-    "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
-    "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-    "published": "2026-09-16T19:40:00-04:00",
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "published": "2026-09-17T14:58:05-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-17"
   },
   {
-    "source": "微博",
-    "title": "#美国大模型已被日本错误历史观污染#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23美国大模型已被日本错误历史观污染%23",
-    "published": "2026-09-17",
-    "lang": "zh",
+    "source": "The Verge",
+    "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+    "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lunacy […]",
+    "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+    "published": "2026-09-17T10:00:00-04:00",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "hotValue": 567627,
-      "rank": 8
-    }
+    "fetchedAt": "2026-09-17"
   },
   {
-    "source": "GitHub新星",
-    "title": "ai-sucks-butt/ai-sucks-butt",
-    "summary": "If you think AI sucks, star the repo.",
-    "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-    "published": "2026-09-14T04:02:58Z",
+    "source": "Hacker News",
+    "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+    "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync ( https://skillsync.com ) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. This is annoying because you cannot simply switch between agents without starting over. We get locked into a single provider and their agent as we invest in skills and memories over time. Skillsync ac",
+    "url": "https://news.ycombinator.com/item?id=49743049",
+    "published": "Thu, 17 Sep 2026 16:22:15 +0000",
     "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 2369,
-      "forks": 0,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
+    "type": "news",
+    "fetchedAt": "2026-09-17"
   },
   {
-    "source": "GitHub新星",
-    "title": "Chuloo/mural",
-    "summary": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-    "url": "https://github.com/Chuloo/mural",
-    "published": "2026-09-12T11:51:08Z",
+    "source": "Hacker News",
+    "title": "Visa, MC launch international card payments in Syria after US lifts sanction",
+    "summary": "Article URL: https://www.reuters.com/world/middle-east/visa-mastercard-launch-international-card-payments-syria-after-us-lifts-2026-08-27/ Comments URL: https://news.ycombinator.com/item?id=49742342 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/middle-east/visa-mastercard-launch-international-card-payments-syria-after-us-lifts-2026-08-27/",
+    "published": "Thu, 17 Sep 2026 15:32:45 +0000",
     "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 1286,
-      "forks": 252,
-      "language": "Kotlin",
-      "createdDaysAgo": 4
-    }
+    "type": "news",
+    "fetchedAt": "2026-09-17"
   },
   {
-    "source": "GitHub新星",
-    "title": "yifanzhang-pro/recurrent-looped-tranformer",
-    "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
-    "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
-    "published": "2026-09-12T19:02:46Z",
+    "source": "Hacker News",
+    "title": "Interest in programming languages hit a decade low after Claude Code launch",
+    "summary": "Article URL: https://www.orangecrumbs.com/stories/programming-languages Comments URL: https://news.ycombinator.com/item?id=49740784 Points: 2 # Comments: 1",
+    "url": "https://www.orangecrumbs.com/stories/programming-languages",
+    "published": "Thu, 17 Sep 2026 13:53:31 +0000",
     "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 865,
-      "forks": 84,
-      "language": "HTML",
-      "createdDaysAgo": 4
-    }
+    "type": "news",
+    "fetchedAt": "2026-09-17"
   },
   {
-    "source": "GitHub新星",
-    "title": "kruzovic7/ai-data-extractor",
-    "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "published": "2026-09-11T18:12:58Z",
+    "source": "Hacker News",
+    "title": "AI Startup launches a faster and cheaper alternative to LLMs for AI automation",
+    "summary": "Article URL: https://theframenews.org/en/typesafe-jev-faster-cheaper-llm-alternative/ Comments URL: https://news.ycombinator.com/item?id=49740121 Points: 1 # Comments: 0",
+    "url": "https://theframenews.org/en/typesafe-jev-faster-cheaper-llm-alternative/",
+    "published": "Thu, 17 Sep 2026 13:03:07 +0000",
     "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 829,
-      "forks": 133,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
+    "type": "news",
+    "fetchedAt": "2026-09-17"
   },
   {
-    "source": "GitHub新星",
-    "title": "zjwzcx/Awesome-Astra-Embodied-AI",
-    "summary": "GPT-6 Astra for embodied AI and robotics.",
-    "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-    "published": "2026-09-12T12:20:24Z",
+    "source": "Hacker News",
+    "title": "Startup's next teammate might be an AI agent",
+    "summary": "Article URL: https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/ Comments URL: https://news.ycombinator.com/item?id=49739190 Points: 1 # Comments: 0",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "published": "Thu, 17 Sep 2026 11:23:12 +0000",
     "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-17",
-    "meta": {
-      "stars": 811,
-      "forks": 16,
-      "language": null,
-      "createdDaysAgo": 4
-    }
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Speartip.eu – A software launch directory for EU-founders",
+    "summary": "Article URL: https://speartip.eu/en/launch Comments URL: https://news.ycombinator.com/item?id=49738543 Points: 5 # Comments: 0",
+    "url": "https://speartip.eu/en/launch",
+    "published": "Thu, 17 Sep 2026 10:01:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX's next Starship launch is Sept. 22, aims to reach orbit for first time",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time Comments URL: https://news.ycombinator.com/item?id=49734547 Points: 3 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time",
+    "published": "Wed, 16 Sep 2026 23:40:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I Put My Startup Esdenera on Hold",
+    "summary": "Article URL: https://web.archive.org/web/20210515020855/https://reykfloeter.com/posts/why-i-put-my-startup-esdenera-on-hold Comments URL: https://news.ycombinator.com/item?id=49734087 Points: 1 # Comments: 0",
+    "url": "https://web.archive.org/web/20210515020855/https://reykfloeter.com/posts/why-i-put-my-startup-esdenera-on-hold",
+    "published": "Wed, 16 Sep 2026 22:45:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Artemis II Launch 35mm High Speed Film (01.apr.2026)",
+    "summary": "Article URL: https://images.nasa.gov/details/KSC-20260401-MH-AJN01-0001-Artemis_II_Launch_35mm_High_Speed_Film-M19183 Comments URL: https://news.ycombinator.com/item?id=49732940 Points: 3 # Comments: 0",
+    "url": "https://images.nasa.gov/details/KSC-20260401-MH-AJN01-0001-Artemis_II_Launch_35mm_High_Speed_Film-M19183",
+    "published": "Wed, 16 Sep 2026 21:00:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI weighs funding round at $1.2T valuation before IPO",
+    "summary": "Article URL: https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f Comments URL: https://news.ycombinator.com/item?id=49729147 Points: 2 # Comments: 0",
+    "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f",
+    "published": "Wed, 16 Sep 2026 16:07:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OrbiChat – Danish Startup creating a chat and event app",
+    "summary": "Article URL: https://orbichat.io/ Comments URL: https://news.ycombinator.com/item?id=49729117 Points: 1 # Comments: 1",
+    "url": "https://orbichat.io/",
+    "published": "Wed, 16 Sep 2026 16:05:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Amazon to launch Ring 'neighbourhood watch' app in UK amid US privacy fears",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/16/amazon-ring-neighbours-app-uk-doorbell-privacy-safety Comments URL: https://news.ycombinator.com/item?id=49729075 Points: 6 # Comments: 0",
+    "url": "https://www.theguardian.com/technology/2026/sep/16/amazon-ring-neighbours-app-uk-doorbell-privacy-safety",
+    "published": "Wed, 16 Sep 2026 16:02:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2T Valuation",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295 Comments URL: https://news.ycombinator.com/item?id=49726405 Points: 3 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295",
+    "published": "Wed, 16 Sep 2026 13:06:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sentinel-3C and FLEX launch into orbit",
+    "summary": "Article URL: https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/ Comments URL: https://news.ycombinator.com/item?id=49724055 Points: 3 # Comments: 0",
+    "url": "https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/",
+    "published": "Wed, 16 Sep 2026 09:40:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Salesforce and Nvidia launch Koa, a CRM reasoning model",
+    "summary": "Article URL: https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL Comments URL: https://news.ycombinator.com/item?id=49722116 Points: 3 # Comments: 0",
+    "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/?bc=HL",
+    "published": "Wed, 16 Sep 2026 04:32:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html Comments URL: https://news.ycombinator.com/item?id=49718417 Points: 1 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+    "published": "Tue, 15 Sep 2026 20:25:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697 Comments URL: https://news.ycombinator.com/item?id=49717679 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
+    "published": "Tue, 15 Sep 2026 19:32:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "VibeSafe Builder – build and launch AI apps with security checks",
+    "summary": "Article URL: https://vibesafebuilder.com/ Comments URL: https://news.ycombinator.com/item?id=49712694 Points: 2 # Comments: 0",
+    "url": "https://vibesafebuilder.com/",
+    "published": "Tue, 15 Sep 2026 14:04:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Who funds METR? The viral Anthropic funding thread",
+    "summary": "Article URL: https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited Comments URL: https://news.ycombinator.com/item?id=49711367 Points: 3 # Comments: 0",
+    "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
+    "published": "Tue, 15 Sep 2026 12:13:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Buys Startup Developing Smartphone Camera",
+    "summary": "Article URL: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 Comments URL: https://news.ycombinator.com/item?id=49711104 Points: 3 # Comments: 1",
+    "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
+    "published": "Tue, 15 Sep 2026 11:49:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-17"
   }
 ]
