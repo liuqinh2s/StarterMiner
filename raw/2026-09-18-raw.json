@@ -111,6 +111,16 @@
   },
   {
     "source": "极客公园",
+    "title": "AI 硬件创业者，疯狂涌入手机的背面",
+    "summary": "头图来源：产品小红书账号、官网 过去一年，AI 硬件创业者开始扎堆手机背面。 Plaud 的 AI 录音卡累计出货突破百万台。2026 年 6 月，Plaud 宣布 ARR 达到 1 亿美元、服务超过 200 万专业用户；截至 9 月，公司最新披露的全球用户数已超过 250 万。另一边，做磁吸电子纸屏的阅星曈完成近 5000 万元 A 轮追加融资，顺为、经纬、博裕和小红书等老股东继续跟投；极稚科技则称，其无源墨水屏手机壳已经卖出超过 14 万只，其中八成销往海外。 销量和融资之外，新的产品还在不断冒出来。Flowtica 在 IFA 展出集录音、电子纸和会议待办于一体的 Verso；获得线性资本天使投资的 NOOKLAB，准备推出支持持续收音的 AI 随身屏 Moonphase Flip；极稚科技也计划用 Sloth 从静态墨水屏进入 OLED、麦克风和虚拟宠物。 大厂的动作更快。钉钉、出门问问、科大讯飞和 360 相继进入 AI 录音卡市场；荣耀、海信和影石，则分别从磁吸副屏、可拆卸电子纸和影像配件的方向试探手机背面的可能性。与此同时，华强北已经把基础录音卡的价格压到一两百元。 一个",
+    "url": "http://www.geekpark.net/news/370610",
+    "published": "Fri, 18 Sep 2026 22:07:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "极客公园",
     "title": "那个教 ChatGPT 说话的人，做了一个「哑巴」模型",
     "summary": "作者｜桦林舞王 编辑｜靖宇 AI 圈子里最懂怎么让模型「开口聊天」的人，现在决定剥夺大模型的语言能力。 这位前 OpenAI 研究员、ChatGPT 的共同发明者 Diogo Almeida，在潜行两年后带着他的新公司 TypeSafe AI 和 4000 万美元融资回到牌桌。他们发布的全新模型 Jev， 既不能写打工人的周报，也不能陪用户深夜长聊。它甚至连一个标点符号都吐不出来 。 TypeSafe 创始人 Diogo Almeida｜图片来源：X 这是一个反常识的时刻。过去三年，全行业都在教大模型怎么学会像人类一样「慢思考」，各家实验室拼命拉长推理链条，让模型在给出答案前默默自言自语几千个词。 但 Jev 走了一条完全相反的路： 它不做文本生成，只输出确定性的结构化决策。 这不仅是一个新产品的发布，更像是对当前大模型技术范式的一次公然叫板。 01 给 AI 装上「反射神经」 要理解 Jev 到底是个什么东西，得先看懂当下的 AI 开发者有多痛苦。 如今大部分工程师把大模型接入业务系统时，做的事情往往很荒谬。你明明只需要它回答「这封邮件是不是垃圾邮件」或者「在五个 API 接口里选一",
     "url": "http://www.geekpark.net/news/370603",
@@ -390,16 +400,6 @@
     "fetchedAt": "2026-09-18"
   },
   {
-    "source": "极客公园",
-    "title": "千问办公发布多人工作台，重写企业软件的最后一公里",
-    "summary": "作者｜Cynthia 编辑｜郑玄 2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。 几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同，这些插件可以携带部门工作流、调用外部工具和数据，并按照预设规则完成一段具体工作。 市场很快把这种能力翻译成了另一个词：替代。2 月 3 日，高盛一篮子美国软件股单日下跌 6%；彭博统计，当天软件、金融服务和资产管理相关股票合计蒸发约 2850 亿美元。一天之后，Wind 香港 SaaS 指数又下跌 6.39%，板块总市值缩水近 150 亿港元。 七个月后，这个问题又进一步从资本市场蔓延到了产品端。 9 月 7 日，千问办公上线多人工作台。用户不再先选择我要做 CRM 或者我要做项目管理，只要说清有哪些角色、每个人要做什么、需要保存哪些数据。系统据此生成一个可以在线发布的协作应用，带角色权限、云端数据库和管理后台，最多支持百人同时在线。 「千问办公」产品首页 在这背后，数据库、权限、后台、状态流转这些过去构成一套专业企业软件的基本",
-    "url": "http://www.geekpark.net/news/370061",
-    "published": "Wed, 09 Sep 2026 15:07:04 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-18"
-  },
-  {
     "source": "爱范儿",
     "title": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
     "summary": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -431,50 +431,120 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-    "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-    "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-    "published": "Fri, 18 Sep 2026 00:02:36 +0000",
+    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "published": "Fri, 18 Sep 2026 23:25:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-18"
   },
   {
     "source": "TechCrunch",
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-    "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+    "title": "AI Hallucination Nearly Triggers US Military Operation",
+    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "published": "Fri, 18 Sep 2026 23:12:32 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-18"
   },
   {
     "source": "TechCrunch",
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+    "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+    "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+    "published": "Fri, 18 Sep 2026 20:24:33 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-18"
   },
   {
     "source": "TechCrunch",
-    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "published": "Thu, 17 Sep 2026 22:14:59 +0000",
+    "title": "World model companies are keeping a lot of secrets",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "published": "Fri, 18 Sep 2026 20:18:14 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-18"
   },
   {
     "source": "TechCrunch",
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-    "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "published": "Thu, 17 Sep 2026 17:15:59 +0000",
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "published": "Fri, 18 Sep 2026 17:59:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+    "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "published": "Fri, 18 Sep 2026 16:35:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Family offices are clamoring for AI investments",
+    "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
+    "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+    "published": "Fri, 18 Sep 2026 16:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "published": "Fri, 18 Sep 2026 15:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "D-Robotics raises $400 million in Series C funding",
+    "summary": "Chinese robotics technology company D-Robotics has completed a $400 million Series C funding round. The company said the financing will support its Sunrise chip portfolio and a full-chain software platform for robot development. D-Robotics said its revenue grew several times year over year in the first half of 2026, while cumulative shipments of its Sunrise […]",
+    "url": "https://technode.com/2026/09/18/d-robotics-raises-400-million-in-series-c-funding/",
+    "published": "Fri, 18 Sep 2026 13:33:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi livestreams MiMo-V2.6 reinforcement-learning runs",
+    "summary": "Xiaomi’s MiMo team is livestreaming the reinforcement-learning training of two unreleased models, MiMo-V2.6-Pro and MiMo-V2.6-Flash, through a public dashboard. The page displays training metrics directly from the trainer logs, including reward curves, rollout counts, step timing and running compute costs. The dashboard also tracks the models’ mid-training coding performance and other evaluation results as the […]",
+    "url": "https://technode.com/2026/09/18/xiaomi-livestreams-mimo-v2-6-reinforcement-learning-runs/",
+    "published": "Fri, 18 Sep 2026 13:27:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba’s Qwen releases Qwen3.8-Omni-Flash with 1M-token context",
+    "summary": "Alibaba’s Qwen team has released Qwen3.8-Omni-Flash, a native omni-modal model that can process text, images, audio and video in a single workflow. The model supports a 1-million-token context window and is now available through the Qwen AI platform. Alibaba said Qwen3.8-Omni-Flash improved its average score by more than 26% across 30 evaluations compared with Qwen3.5-Omni-Plus. […]",
+    "url": "https://technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context/",
+    "published": "Fri, 18 Sep 2026 13:19:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-18"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei sets commercial launch dates for Ascend 950 AI cluster cloud service",
+    "summary": "Huawei Cloud will begin commercial operations of its Ascend 950 AI cluster cloud service in China on Sept. 30 and expand it to global markets on Nov. 30, Huawei Cloud CEO Zhou Yuefeng said at Huawei Connect 2026. The Ascend 950 system uses Huawei’s UnifiedBus interconnect architecture to build a 1,024-card AI cluster. Huawei said […]",
+    "url": "https://technode.com/2026/09/18/huawei-sets-commercial-launch-dates-for-ascend-950-ai-cluster-cloud-service/",
+    "published": "Fri, 18 Sep 2026 13:10:18 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-18"
@@ -680,34 +750,28 @@
     "fetchedAt": "2026-09-18"
   },
   {
-    "source": "TechNode",
-    "title": "DeepSeek formally launches V4.1 Flash, routes V4 Pro requests to Flash",
-    "summary": "DeepSeek on Sept. 10 formally released its V4.1 Flash model and introduced new Flash-series pricing, according to a notification sent to API users. DeepSeek said that V4.1 Flash had surpassed V4 Pro in performance, cost, speed and total completion time in internal and external testing. Starting Sept. 14 at noon Beijing time, requests to V4 […]",
-    "url": "https://technode.com/2026/09/10/deepseek-formally-launches-v4-1-flash-routes-v4-pro-requests-to-flash/",
-    "published": "Thu, 10 Sep 2026 06:21:43 +0000",
+    "source": "The Verge",
+    "title": "What Hollywood thinks about existential AI warnings",
+    "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+    "published": "2026-09-18T12:35:19-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-18"
   },
   {
-    "source": "The Verge",
-    "title": "Waymo says Singapore will be its next international robotaxi city",
-    "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says […]",
-    "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-    "published": "2026-09-17T22:00:00-04:00",
-    "lang": "en",
+    "source": "微博",
+    "title": "#亚运村邮轮 出海躲台风#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23亚运村邮轮 出海躲台风%23",
+    "published": "2026-09-18",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-09-18"
-  },
-  {
-    "source": "The Verge",
-    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-    "published": "2026-09-17T14:58:05-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-18"
+    "fetchedAt": "2026-09-18",
+    "meta": {
+      "hotValue": 49301,
+      "rank": 39
+    }
   },
   {
     "source": "GitHub新星",
@@ -719,10 +783,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-18",
     "meta": {
-      "stars": 3906,
-      "forks": 234,
+      "stars": 5412,
+      "forks": 334,
       "language": "Python",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -735,10 +799,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-18",
     "meta": {
-      "stars": 2139,
-      "forks": 105,
+      "stars": 3155,
+      "forks": 158,
       "language": "TypeScript",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "TheoLeeCJ/SemIf",
+    "summary": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "url": "https://github.com/TheoLeeCJ/SemIf",
+    "published": "2026-09-16T03:51:21Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-18",
+    "meta": {
+      "stars": 1575,
+      "forks": 102,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -751,58 +831,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-18",
     "meta": {
-      "stars": 1338,
-      "forks": 260,
+      "stars": 1362,
+      "forks": 264,
       "language": "Kotlin",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "TheoLeeCJ/openjev",
-    "summary": "Can we run something like Jev on a 3090 at home?",
-    "url": "https://github.com/TheoLeeCJ/openjev",
-    "published": "2026-09-16T03:51:21Z",
+    "title": "mcncarl/jianying-headless",
+    "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "url": "https://github.com/mcncarl/jianying-headless",
+    "published": "2026-09-15T11:51:15Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-18",
     "meta": {
-      "stars": 1311,
-      "forks": 81,
+      "stars": 1006,
+      "forks": 492,
       "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "yifanzhang-pro/recurrent-looped-tranformer",
-    "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
-    "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
-    "published": "2026-09-12T19:02:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-18",
-    "meta": {
-      "stars": 876,
-      "forks": 85,
-      "language": "HTML",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "zjwzcx/Awesome-Astra-Embodied-AI",
-    "summary": "GPT-6 Astra for embodied AI and robotics.",
-    "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-    "published": "2026-09-12T12:20:24Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-18",
-    "meta": {
-      "stars": 848,
-      "forks": 17,
-      "language": null,
-      "createdDaysAgo": 5
+      "createdDaysAgo": 3
     }
   }
 ]
