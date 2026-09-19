@@ -81,30 +81,20 @@
   },
   {
     "source": "钛媒体",
+    "title": "【数智周报】智谱AI道歉；Anthropic被曝选定纳斯达克上市，目标10月IPO；OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元",
+    "summary": "（9 月 14 日-19 日）华为郭平：对于ICT业务及计算领域，华为的目标是成为英伟达；华为汪涛：10万卡以上超节点集群在2027年将成为基础配置；字节跳动CEO梁汝波：豆包、飞书与火山引擎整合后，将加大企业市场投入；英伟达黄仁勋：预计明年芯片销量约为今年两倍......",
+    "url": "https://www.tmtpost.com/8145775.html",
+    "published": "Sat, 19 Sep 2026 17:16:20 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-19"
+  },
+  {
+    "source": "钛媒体",
     "title": "美联储重启加息：AI 企业融资难度急剧攀升",
     "summary": "所谓此一时彼一时，今天科技企业遇到的问题与先前基本是天壤之别。",
     "url": "https://www.tmtpost.com/8145311.html",
     "published": "Sat, 19 Sep 2026 10:18:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "5 万亿美元的账面富贵：VC 也需要一份尽调",
-    "summary": "三家未上市公司的估值，超过 45 年 3365 次科技 IPO 首日市值的总和；2021 年份的 VC 基金，账面写着 1.1x，现金只拿回 8 美分。账面富贵和真金白银之间，隔着一次公开报价。",
-    "url": "https://www.tmtpost.com/8144989.html",
-    "published": "Sat, 19 Sep 2026 09:57:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "黄仁勋表示，英伟达芯片销售额明年可能翻一番",
-    "summary": "英伟达首席执行官黄仁勋表示，公司明年将售出两倍数量的芯片。服务器机架、CPU 和网络产品或许能解释其中原因。",
-    "url": "https://www.tmtpost.com/8145446.html",
-    "published": "Sat, 19 Sep 2026 09:43:34 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-19"
@@ -770,20 +760,6 @@
     "fetchedAt": "2026-09-19"
   },
   {
-    "source": "V2EX",
-    "title": "锐评一下用过的 Agents/Harness",
-    "summary": "claude code：终端 agent 的鼻祖，一开始就听闻 cc 大名，最开始就用的 cc ，后面切到别的 agent 换了一轮，发现 cc 功能还是齐全，并且很多概念都是 anthropic 提出并在 cc 首发的，例如 subagent ，workflow ，很喜欢 focus 模式，真正的 vibecoding ，但是最后发现接其他模型缓存命中率就是比 chat 协议的 agent 第一档，然后走网关那边也修不好，cc 也不开放源码，就放弃了。 codex cli：gpt 大白嫖时代的神，当时 gpt5.3codex gpt5.4 的时候很多批发的 plus 号，team 号，",
-    "url": "https://www.v2ex.com/t/1242976",
-    "published": 1789714095,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-09-19",
-    "meta": {
-      "replies": 27,
-      "node": "程序员"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "browser-use/jev-ultrafast",
     "summary": "i. am. speed.",
@@ -793,8 +769,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-19",
     "meta": {
-      "stars": 5865,
-      "forks": 375,
+      "stars": 6543,
+      "forks": 420,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -809,10 +785,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-19",
     "meta": {
-      "stars": 3430,
-      "forks": 175,
+      "stars": 3726,
+      "forks": 196,
       "language": "TypeScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -825,10 +801,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-19",
     "meta": {
-      "stars": 1636,
-      "forks": 108,
+      "stars": 1719,
+      "forks": 113,
       "language": "Python",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "robbietilton/Compositor",
+    "summary": "The Photoshop alternative for Mac",
+    "url": "https://github.com/robbietilton/Compositor",
+    "published": "2026-09-16T20:35:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-19",
+    "meta": {
+      "stars": 1490,
+      "forks": 162,
+      "language": "Swift",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -841,8 +833,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-19",
     "meta": {
-      "stars": 1144,
-      "forks": 532,
+      "stars": 1318,
+      "forks": 587,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -857,8 +849,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-19",
     "meta": {
-      "stars": 914,
-      "forks": 171,
+      "stars": 1008,
+      "forks": 194,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
