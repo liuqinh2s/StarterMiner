@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "钙钛矿光伏国标落地，组件测试走向统一标尺",
+    "summary": "钙钛矿光伏产业迎来首个国家标准。市场监管总局近日发布《光伏器件 第12部分：钙钛矿光伏电池及组件的电流-电压特性测量方法》，将于2027年正式实施。对仍处在从实验室走向规模化量产阶段的新型光伏技术来说，测试口径统一是走向商业化的关键一步。 钙钛矿器件在光照和电压变化下性能容易波动，面积定义、测试条件、稳定性评价也长期存在差异。过去常用于晶硅和薄膜电池的测试方法，难以完全适配新材料特性。标准落地后，企业之间的效率比较、客户验收和第三方认证将有更清晰依据。 据天眼查数据显示，我国现存钙钛矿光伏相关企业超过2.8万家，2026年以来新增注册相关企业约5600家。相关主体覆盖材料研发、组件制造、装备、检测认证、储能应用和新能源投资等方向，产业链从研发端向制造端加速延伸。 标准化有利于头部产线和检测机构率先建立公信力，也会提高后来者的验证门槛。那些只停留在实验数据展示、缺少稳定工艺和测试能力的企业，将更难进入大客户供应链。钙钛矿光伏的竞争，正在从“转换效率新闻”走向“量产一致性证明”。 在双碳目标和光伏技术迭代推动下，钙钛矿仍被视为下一代光伏的重要方向。但行业真正放量，还要跨过寿命、封装、良率和",
+    "url": "https://www.cyzone.cn/article/847149.html",
+    "published": "Mon, 21 Sep 2026 09:34:02 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "创业邦",
     "title": "蚂蚁集团等入股矩侨工业",
     "summary": "天眼查App显示，近日，威海矩侨工业科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、零以柔感（泉州）创业投资合伙企业（有限合伙）等为股东，同时，注册资本由约751万人民币增至约829万人民币。 该公司成立于2023年11月，法定代表人为张景淇，经营范围包括企业总部管理、电子专用材料研发、电子专用材料销售等，现由浙江航大科技开发有限公司、矩侨共创（威海）产业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
     "url": "https://www.cyzone.cn/article/846609.html",
@@ -81,30 +91,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "100亿，孙正义投的独角兽拆开卖了",
-    "summary": "超级APP拿下Atome。",
-    "url": "https://www.tmtpost.com/8146947.html",
-    "published": "Mon, 21 Sep 2026 11:44:17 +0800",
+    "title": "内存涨价，厂商扎堆2nm芯片",
+    "summary": "新一轮芯片大战，或许正在到来。",
+    "url": "https://www.tmtpost.com/8147419.html",
+    "published": "Mon, 21 Sep 2026 17:28:10 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-21"
   },
   {
-    "source": "钛媒体",
-    "title": "三大巨头接连翻车，大模型的安全防线怎么总绷不住？",
-    "summary": "安全负责人走了一批又一批，AI对齐到底难在哪？",
-    "url": "https://www.tmtpost.com/8146963.html",
-    "published": "Mon, 21 Sep 2026 11:43:31 +0800",
+    "source": "极客公园",
+    "title": "Jev，让全球程序员玩疯了",
+    "summary": "作者｜宇航猿 编辑｜靖宇 智能家居社区 Home Assistant 最近出现了一个名为 HA-Jev 的插件。 它的逻辑极其简单，传感器读取洗衣机的功率变化与洗衣房门的状态，然后抛出一个问题给模型，「洗衣机洗完了，衣服是不是被忘在里面了？」模型不输出任何文字分析，只返回一个概率值。当置信度超过 0.8 时，手机就会弹出一则取衣提醒。 HA-Jev 仅仅用来提醒用户洗完的衣服是不是还留在洗衣机里｜图片来源：pitchhut 一次判断耗时几十毫秒，花费 0.000015 美元 。 插件开发者在论坛里留下一句意味深长的话，「我过去一直在用大语言模型回答根本不需要它的问题。衣服忘没忘拿是一个判断，不是一篇八股文。」 这句话恰好刺中了当前生成式 AI 的痛处。过去四年，整个行业把几乎所有的算力、资本和工程资源，都压在「教模型说出更流畅的人话」上。大家习惯了用百亿甚至千亿参数的庞然大物，先吐出一长串思考过程，再包装成礼貌体贴的自然语言，最后让开发者用复杂的正则表达式把需要的答案抠出来。 直到前 OpenAI 研究员 Diogo Almeida 带着他的新模型 Jev 登场。这个被称为「Syste",
+    "url": "http://www.geekpark.net/news/370758",
+    "published": "Mon, 21 Sep 2026 19:02:43 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-21"
   },
   {
-    "source": "钛媒体",
-    "title": "边缘算力升级，工控机站上AI风口",
-    "summary": "工业计算机市场将迎来新一轮增长周期。",
-    "url": "https://www.tmtpost.com/8146457.html",
-    "published": "Mon, 21 Sep 2026 08:50:00 +0800",
+    "source": "极客公园",
+    "title": "把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年",
+    "summary": "作者｜Cynthia 编辑｜ 郑玄 AI 时代，开发者要如何跟上技术的变化？亚马逊 CTO Werner Vogels，用了二十多年的时间来解答这个问题：基于他主导的 S3、EC2、Lambda……无数企业与开发者实现了加速奔跑。他每一年的 re:Invent 演讲，也成为了无数人的认知风向标。 虽然自 2025 年之后，他将不再登上 re:Invent 的主舞台。 但今年 10 月 13 日，他将带着 2026 年最新技术洞察，出席中国深圳的亚马逊云科技软件企业峰会「创业加速营巅峰路演——通往 re:Invent」，并与极客公园创始人张鹏炉边对话。他的经验，或许会成为我们关于如何拥抱变化的宝贵答案。 2004 年的圣诞季，亚马逊正在度过创立十年以来最好的一个年末。 感恩节过后，消费电子第一次超过图书，成为网站最大的品类；整个假日季最忙的一天，全球订单超过 280 万件，平均每秒 32 件。十年前那家靠卖书起家的互联网公司，已经开始显出后来那个商业帝国的轮廓。 支撑这个帝国的数据库来自全世界企业数据库领域最成熟的玩家 Oracle。然后，12 月 12 日，其中一套彻底崩溃了。一个只会",
+    "url": "http://www.geekpark.net/news/370759",
+    "published": "Mon, 21 Sep 2026 19:00:08 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-21"
@@ -390,21 +400,11 @@
     "fetchedAt": "2026-09-21"
   },
   {
-    "source": "极客公园",
-    "title": "iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束",
-    "summary": "特朗普抨击 Anthropic CEO：AI 发展不能踩刹车，美国有「高智商总统」就足够 特朗普周一在社交媒体发文，明确表示其不认可 AI 数据中心引发的民众反弹及外界对前沿模型的忧虑。他写道：「AI 所需的唯一『护栏』，就是一位强悍而聪明（高智商！）的总统，而美国恰好拥有这样的总统。」 这一表态较他上周末承认需要某种程度监管的措辞明显趋于强硬。 争议的导火索是 Amodei 近日的公开表态。他呼吁业界应在开发最先进模型之前放缓步伐，以便企业更充分地评估潜在风险。OpenAI 的 Sam Altman 及 SpaceX 旗下 xAI 的 Elon Musk 随后表态附议，支持适度放缓。 白宫内部就 AI 监管问题已形成两个阵营： 财政部长贝森特与国家网络总监 Sean Cairncross 支持更强保护，而科技顾问 Michael Kratsios 与前 AI 沙皇 David Sacks 则认为监管会扼杀创新。 周一美国副总统万斯被问及是否担忧人工智能的发展。他表示：「就我个人而言，我觉得有点奇怪，现在有这么多前沿 AI 科技公司主动与政府接触，甚至恳求政府对它们进行监管。在我看来，",
-    "url": "http://www.geekpark.net/news/370306",
-    "published": "Tue, 15 Sep 2026 08:17:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-21"
-  },
-  {
-    "source": "极客公园",
-    "title": "专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件",
-    "summary": "最近这两周，一只「 机器鸭 」在 X 上刷屏了。 这只叫 Microduck 的机器鸭，由 Hugging Face 旗下的 Pollen Robotics 设计，售价 399 美元。 高峰期平均每 4 秒卖出一台，五天后预售破万台，销售额突破 500 万美元，目前订单已经排到明年。 它火了，火出了科技圈，还可能会刷新消费级机器人出货纪录。 而这只全球爆款，由深圳制造，工程化公司是潘昊创办的 Seeed Studio 矽递科技。在此之前，潘昊团队已为 Hugging Face 代工过 Reachy Mini，后者登上过英伟达 CES 展台，同样供不应求。 左为桌面机器人 Reachy Mini，右为机器鸭 Microduck，都是 Pollen Robotics 的作品｜图片来源：Pollen Robotics 英特尔工程师出身的潘昊 2008 年来深圳，逛了一圈华强北就决定不走了。那一年他创办 Seeed，为全球创客采购、制造硬件，成为了全球创客与中国工厂之间的枢纽，扮演着「供应链严选」与硬件制造商的角色。 18 年过去，他们如今是全球知名开源硬件制造商之一，90%客户来自海外，几乎",
-    "url": "http://www.geekpark.net/news/370269",
-    "published": "Mon, 14 Sep 2026 13:14:43 +0800",
+    "source": "爱范儿",
+    "title": "GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
+    "summary": "当大模型开始拥有一双真实的手 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Mon, 21 Sep 2026 06:47:51 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-21"
@@ -505,6 +505,16 @@
     "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "published": "Fri, 18 Sep 2026 23:25:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi schedules Xiaomi 18 Pro series launch for Sept. 23",
+    "summary": "Xiaomi CEO Lei Jun has announced that the Xiaomi 18 Pro series will launch at 7 p.m. on Sept. 23. The announcement positions the lineup as a dual-size imaging flagship series. Xiaomi’s preview also highlights a variable rear display and the debut of Xiaomi HyperOS 4. The announcement did not disclose pricing, chip details or […]",
+    "url": "https://technode.com/2026/09/21/xiaomi-schedules-xiaomi-18-pro-series-launch-for-sept-23/",
+    "published": "Mon, 21 Sep 2026 05:34:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-21"
@@ -720,36 +730,6 @@
     "fetchedAt": "2026-09-21"
   },
   {
-    "source": "TechNode",
-    "title": "Alipay to launch an AI wallet agent for trusted AI payments",
-    "summary": "Alipay plans to launch an AI wallet agent to help users manage AI payments as it shifts its focus from merely enabling transactions to making them trustworthy, the company said at the 2026 Bund Summit. The agent will support Vibe Pay, Skill Pay and Machine Pay, along with e-commerce functions such as recurring purchases, assisted […]",
-    "url": "https://technode.com/2026/09/11/alipay-to-launch-an-ai-wallet-agent-for-trusted-ai-payments/",
-    "published": "Fri, 11 Sep 2026 06:54:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-21"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi plans RMB 200 billion in R&D spending over the next five years",
-    "summary": "Xiaomi plans to invest RMB 200 billion in research and development over the next five years, founder and CEO Lei Jun said. Lei made the announcement while responding to a Xinhua report on Xiaomi’s technology investments, including its in-house Xring chips and electric vehicles. [TechNode reporting]",
-    "url": "https://technode.com/2026/09/11/xiaomi-plans-rmb-200-billion-in-rd-spending-over-the-next-five-years/",
-    "published": "Fri, 11 Sep 2026 06:52:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-21"
-  },
-  {
-    "source": "TechNode",
-    "title": "Embodied AI startup PHYMI raises nearly US$100 million in seed funding",
-    "summary": "PHYMI, an embodied AI startup founded by former DeepRoute.ai executive Liu Nianqiu, has raised nearly US$100 million in seed funding. IDG Capital led the round, with participation from Yunqi Capital, DiDi, Fosun RZ Capital, Glory Ventures and Hesai Technology. Founded earlier this year, PHYMI is developing “Physical Agents” designed to understand goals, move and manipulate […]",
-    "url": "https://technode.com/2026/09/10/embodied-ai-startup-phymi-raises-nearly-us100-million-in-seed-funding/",
-    "published": "Thu, 10 Sep 2026 06:35:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-21"
-  },
-  {
     "source": "The Verge",
     "title": "A24’s reputation is on the line with the SCP Foundation movie",
     "summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash started, and V/H/S: SCP already appears to be on shaky […]",
@@ -760,27 +740,231 @@
     "fetchedAt": "2026-09-21"
   },
   {
-    "source": "The Verge",
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at […]",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "published": "2026-09-20T08:00:00-04:00",
+    "source": "Hacker News",
+    "title": "OSS, security and Funding: libjpeg-turbo",
+    "summary": "libjpeg-turbo is behind nearly every image you see on your computer, phone or any other digital screen. I also use it during computer vision model training. Every image that goes through my model, should be decoded. At some point I did a benchmark of python libraries that decode JPEG images https://github.com/ternaus/imread_benchmark All top libraries use libjpeg-turbo. The library is heavily optimized => I made a PR with a small improvement of 3%. Not groundbreaking, but small is better than no",
+    "url": "https://news.ycombinator.com/item?id=49783224",
+    "published": "Mon, 21 Sep 2026 05:00:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-21"
   },
   {
-    "source": "V2EX",
-    "title": "2026 年买电车还买特斯拉吗？",
-    "summary": "2026 年的电车市场感觉同价位完全不用考虑特斯拉了，国产新能源太香了，为什么还有那么多人不买国产买特斯拉",
-    "url": "https://www.v2ex.com/t/1243341",
-    "published": 1789880170,
+    "source": "Hacker News",
+    "title": "New startup to test psychedelic-like drug against Parkinson's symptom",
+    "summary": "Article URL: https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/ Comments URL: https://news.ycombinator.com/item?id=49781324 Points: 3 # Comments: 0",
+    "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
+    "published": "Sun, 20 Sep 2026 23:42:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "\"I Made My GPU Startup Prove Itself in Japan, Romania and Canada\"",
+    "summary": "Article URL: https://www.indiehackers.com/post/i-made-my-gpu-startup-prove-itself-in-japan-romania-canada-before-i-d-let-it-make-a-single-claim-be5ae728ec Comments URL: https://news.ycombinator.com/item?id=49777681 Points: 2 # Comments: 0",
+    "url": "https://www.indiehackers.com/post/i-made-my-gpu-startup-prove-itself-in-japan-romania-canada-before-i-d-let-it-make-a-single-claim-be5ae728ec",
+    "published": "Sun, 20 Sep 2026 17:06:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Preuve AI, stress-test your startup idea before you build",
+    "summary": "Article URL: https://preuve.ai Comments URL: https://news.ycombinator.com/item?id=49776459 Points: 1 # Comments: 0",
+    "url": "https://preuve.ai",
+    "published": "Sun, 20 Sep 2026 14:52:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FAA to launch AI tool to help manage air traffic congestion",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/ Comments URL: https://news.ycombinator.com/item?id=49768738 Points: 2 # Comments: 1",
+    "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "published": "Sat, 19 Sep 2026 17:59:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Italian Apple store employees strike on iPhone 18 Pro launch day",
+    "summary": "Article URL: https://www.reuters.com/business/retail-consumer/italian-apple-store-employees-strike-iphone18-pro-launch-day-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49764249 Points: 5 # Comments: 0",
+    "url": "https://www.reuters.com/business/retail-consumer/italian-apple-store-employees-strike-iphone18-pro-launch-day-2026-09-18/",
+    "published": "Sat, 19 Sep 2026 07:34:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anthropic is planning to launch its IPO in November",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e Comments URL: https://news.ycombinator.com/item?id=49760767 Points: 5 # Comments: 1",
+    "url": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e",
+    "published": "Fri, 18 Sep 2026 21:52:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Prohibition of Nuclear Launch Automation",
+    "summary": "I helped advocate for the following language in the annual US military funding bill from last year. Not very many people are aware that this is part of Federal law: it prohibits nuclear launch automation and requires a human in the loop for nuclear weapons employment. FY2025 NDAA SEC. 1638. SENSE OF CONGRESS WITH RESPECT TO USE OF ARTIFICIAL INTELLIGENCE TO SUPPORT STRATEGIC DETERRENCE. (a) Sense of Congress.—It is the sense of Congress that— (1) the considered use of artificial intelligence and",
+    "url": "https://news.ycombinator.com/item?id=49760615",
+    "published": "Fri, 18 Sep 2026 21:37:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup",
+    "summary": "Article URL: https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/ Comments URL: https://news.ycombinator.com/item?id=49757554 Points: 4 # Comments: 0",
+    "url": "https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/",
+    "published": "Fri, 18 Sep 2026 17:30:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "There's a startup sunsetting startups – business is booming",
+    "summary": "Article URL: https://thehustle.co/newsletters/18-09-2026 Comments URL: https://news.ycombinator.com/item?id=49757046 Points: 3 # Comments: 1",
+    "url": "https://thehustle.co/newsletters/18-09-2026",
+    "published": "Fri, 18 Sep 2026 16:54:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: App Launch: GrabThat (NLP Launcher for Windows)",
+    "summary": "Article URL: https://grabthat.ai/ Comments URL: https://news.ycombinator.com/item?id=49756542 Points: 3 # Comments: 0",
+    "url": "https://grabthat.ai/",
+    "published": "Fri, 18 Sep 2026 16:15:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Jev VC – Pitch Jev Your Startup",
+    "summary": "Article URL: https://pitchjev.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49756182 Points: 2 # Comments: 1",
+    "url": "https://pitchjev.vercel.app/",
+    "published": "Fri, 18 Sep 2026 15:51:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Fluxnium found a way to tap 50k years' worth of nuclear fuel",
+    "summary": "Article URL: https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/ Comments URL: https://news.ycombinator.com/item?id=49754628 Points: 2 # Comments: 0",
+    "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+    "published": "Fri, 18 Sep 2026 14:06:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "D-Robotics Closes $400M in Series C Funding to Boom the Robotics Industry",
+    "summary": "Article URL: https://en.d-robotics.cc/blog/d-robotics-completes-400-million-in-series-c-funding-driving-the-robotics-industry-into-a-boom-in-product-categories Comments URL: https://news.ycombinator.com/item?id=49752579 Points: 1 # Comments: 0",
+    "url": "https://en.d-robotics.cc/blog/d-robotics-completes-400-million-in-series-c-funding-driving-the-robotics-industry-into-a-boom-in-product-categories",
+    "published": "Fri, 18 Sep 2026 10:56:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
+    "summary": "Article URL: https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd Comments URL: https://news.ycombinator.com/item?id=49752345 Points: 2 # Comments: 1",
+    "url": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
+    "published": "Fri, 18 Sep 2026 10:25:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenPrinter on the Road to Launch",
+    "summary": "Article URL: https://www.crowdsupply.com/open-tools/openprinter/updates/on-the-road-to-launch Comments URL: https://news.ycombinator.com/item?id=49750589 Points: 3 # Comments: 0",
+    "url": "https://www.crowdsupply.com/open-tools/openprinter/updates/on-the-road-to-launch",
+    "published": "Fri, 18 Sep 2026 05:51:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+    "summary": "Hey HN, we're Nars & Nishant, founders of Skillsync ( https://skillsync.com ) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. This is annoying because you cannot simply switch between agents without starting over. We get locked into a single provider and their agent as we invest in skills and memories over time. Skillsync ac",
+    "url": "https://news.ycombinator.com/item?id=49743049",
+    "published": "Thu, 17 Sep 2026 16:22:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Visa, MC launch international card payments in Syria after US lifts sanction",
+    "summary": "Article URL: https://www.reuters.com/world/middle-east/visa-mastercard-launch-international-card-payments-syria-after-us-lifts-2026-08-27/ Comments URL: https://news.ycombinator.com/item?id=49742342 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/middle-east/visa-mastercard-launch-international-card-payments-syria-after-us-lifts-2026-08-27/",
+    "published": "Thu, 17 Sep 2026 15:32:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Interest in programming languages hit a decade low after Claude Code launch",
+    "summary": "Article URL: https://www.orangecrumbs.com/stories/programming-languages Comments URL: https://news.ycombinator.com/item?id=49740784 Points: 2 # Comments: 1",
+    "url": "https://www.orangecrumbs.com/stories/programming-languages",
+    "published": "Thu, 17 Sep 2026 13:53:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Startup launches a faster and cheaper alternative to LLMs for AI automation",
+    "summary": "Article URL: https://theframenews.org/en/typesafe-jev-faster-cheaper-llm-alternative/ Comments URL: https://news.ycombinator.com/item?id=49740121 Points: 1 # Comments: 0",
+    "url": "https://theframenews.org/en/typesafe-jev-faster-cheaper-llm-alternative/",
+    "published": "Thu, 17 Sep 2026 13:03:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-21"
+  },
+  {
+    "source": "微博",
+    "title": "#钟南山团队发现肺结节发病新趋势#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23钟南山团队发现肺结节发病新趋势%23",
+    "published": "2026-09-21",
     "lang": "zh",
-    "type": "community",
+    "type": "news",
     "fetchedAt": "2026-09-21",
     "meta": {
-      "replies": 155,
-      "node": "电动汽车"
+      "hotValue": 545604,
+      "rank": 3
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#马宁用荣耀Magic9在线掏黄牌#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23马宁用荣耀Magic9在线掏黄牌%23",
+    "published": "2026-09-21",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-21",
+    "meta": {
+      "hotValue": 243086,
+      "rank": 28
     }
   },
   {
@@ -793,8 +977,22 @@
     "type": "community",
     "fetchedAt": "2026-09-21",
     "meta": {
-      "replies": 88,
+      "replies": 167,
       "node": "推广"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "如果是你的话， 17pro1t 和 18pro512g 选哪个？",
+    "summary": "1. 老婆现在用的是 14pro ，按照之前的惯例，我们是 4 年一换 2. 今年有了娃，拍娃的时候多了，想买个存储空间大一点的 3. 17pro1t 价格 11999 芯片次一点 灵动岛更大 续航低一点 没有可变光圈，存储空间一步到位 4. 18pro512g 价格 11699 （ pdd ），最新的芯片，灵动岛更小、续航高一丢丢，相机有升级，存储空间只有 512g ，不确定拍娃会不会紧张 硬件对比 https://i.imgur.com/8uPvf2m.png gpt 给的建议 https://i.imgur.com/ZIlNiMI.png 有点纠结",
+    "url": "https://www.v2ex.com/t/1243558",
+    "published": 1789957955,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-21",
+    "meta": {
+      "replies": 75,
+      "node": "iPhone"
     }
   },
   {
@@ -807,26 +1005,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-21",
     "meta": {
-      "stars": 12615,
-      "forks": 784,
+      "stars": 14038,
+      "forks": 859,
       "language": "Python",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "tamaratran/fast-jev-compaction",
-    "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-    "url": "https://github.com/tamaratran/fast-jev-compaction",
-    "published": "2026-09-17T05:57:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-21",
-    "meta": {
-      "stars": 5387,
-      "forks": 295,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
     }
   }
 ]
