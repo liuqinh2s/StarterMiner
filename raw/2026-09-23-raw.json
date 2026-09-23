@@ -91,6 +91,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "联发科“串场”，OPPO、vivo旗舰机换芯",
+    "summary": "不到24小时，芯片厂商高管连飞两地，连续为两家顶级安卓手机厂商的年度旗舰重磅站台。在注重首发排他性与品牌独占权的智能手机行业，这一幕不常见。",
+    "url": "https://www.tmtpost.com/8151065.html",
+    "published": "Wed, 23 Sep 2026 20:04:10 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "钛媒体",
     "title": "具身智能的转机和出清，哪个先来？",
     "summary": "具身智能的囚徒困境。",
     "url": "https://www.tmtpost.com/8149233.html",
@@ -431,80 +441,30 @@
   },
   {
     "source": "TechCrunch",
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+    "title": "Modal Motors is trying to cut China out of electric motors entirely",
+    "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+    "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+    "published": "Wed, 23 Sep 2026 19:05:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
   },
   {
     "source": "TechCrunch",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+    "title": "The old cybersecurity model is breaking",
+    "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
+    "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+    "published": "Wed, 23 Sep 2026 17:44:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "published": "Tue, 22 Sep 2026 20:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-    "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
-    "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-    "published": "Tue, 22 Sep 2026 18:24:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "published": "Tue, 22 Sep 2026 18:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "published": "Tue, 22 Sep 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-    "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-    "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-    "published": "Tue, 22 Sep 2026 14:15:00 +0000",
+    "source": "TechNode",
+    "title": "The Race to Mass-Produce Silicon Photonics",
+    "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extraordinary amounts of electricity. But as those clusters expand, computing power is becoming only part of the problem. The machines […]",
+    "url": "https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/",
+    "published": "Wed, 23 Sep 2026 15:17:28 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
@@ -730,51 +690,251 @@
     "fetchedAt": "2026-09-23"
   },
   {
-    "source": "TechNode",
-    "title": "Unitree launches upgraded G1+ humanoid robot with six major upgrades",
-    "summary": "Unitree has launched the G1+, an upgraded version of its G1 humanoid robot with six upgrades spanning motion performance, perception, interaction and endurance. The standard model is priced at RMB 95,000 in China, while the G1+ EDU version is available by contacting sales. The G1+ adds two neck degrees of freedom, raises peak shoulder-and-waist motor […]",
-    "url": "https://technode.com/2026/09/15/unitree-g1-plus-humanoid-robot/",
-    "published": "Tue, 15 Sep 2026 06:55:43 +0000",
+    "source": "The Verge",
+    "title": "Meta Connect 2026: The biggest news and announcements",
+    "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users […]",
+    "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+    "published": "2026-09-23T18:45:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
   },
   {
     "source": "The Verge",
-    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-    "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-    "published": "2026-09-23T07:02:39-04:00",
+    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+    "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
+    "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+    "published": "2026-09-23T18:30:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
   },
   {
     "source": "The Verge",
-    "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
-    "summary": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its \"most significant hardware launch to date,\" and it's centered around a redesigned cooling hub […]",
-    "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
-    "published": "2026-09-23T07:00:00-04:00",
+    "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+    "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its […]",
+    "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+    "published": "2026-09-23T16:30:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
   },
   {
     "source": "The Verge",
-    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-    "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-    "published": "2026-09-22T16:52:40-04:00",
+    "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+    "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "published": "2026-09-23T14:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
   },
   {
     "source": "The Verge",
-    "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-    "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to […]",
-    "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-    "published": "2026-09-22T16:14:54-04:00",
+    "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+    "summary": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and a proximity based voice sensor […]",
+    "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+    "published": "2026-09-23T12:01:45-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CB Rank (Person) 1000 Recommendation Your Startup on LinkedIn",
+    "summary": "Article URL: https://startup-signal-oleh.restylefutu.chatgpt.site Comments URL: https://news.ycombinator.com/item?id=49823387 Points: 1 # Comments: 0",
+    "url": "https://startup-signal-oleh.restylefutu.chatgpt.site",
+    "published": "Wed, 23 Sep 2026 22:21:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Startup Wants to Power Data Centers with 'Supercritical' Carbon Dioxide",
+    "summary": "Article URL: https://www.wired.com/story/startup-power-data-centers-supercritical-co2/ Comments URL: https://news.ycombinator.com/item?id=49818259 Points: 1 # Comments: 1",
+    "url": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
+    "published": "Wed, 23 Sep 2026 16:10:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding MIT Software with Commercial-Use Binaries",
+    "summary": "Article URL: https://yaak.app/blog/funding-open-source Comments URL: https://news.ycombinator.com/item?id=49817578 Points: 1 # Comments: 0",
+    "url": "https://yaak.app/blog/funding-open-source",
+    "published": "Wed, 23 Sep 2026 15:26:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Hubble Reaches Unicorn Status for Space-Based Bluetooth",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth Comments URL: https://news.ycombinator.com/item?id=49816323 Points: 2 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth",
+    "published": "Wed, 23 Sep 2026 14:01:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "UK to launch new military space squadron to protect satellites",
+    "summary": "Article URL: https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html Comments URL: https://news.ycombinator.com/item?id=49816020 Points: 3 # Comments: 0",
+    "url": "https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html",
+    "published": "Wed, 23 Sep 2026 13:40:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tesla Closes Texas Airspace for Roadster Launch Event",
+    "summary": "Article URL: https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event Comments URL: https://news.ycombinator.com/item?id=49810425 Points: 5 # Comments: 0",
+    "url": "https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event",
+    "published": "Wed, 23 Sep 2026 01:11:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola Signature 27 officially gets a North American launch",
+    "summary": "Article URL: https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/ Comments URL: https://news.ycombinator.com/item?id=49807729 Points: 2 # Comments: 1",
+    "url": "https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/",
+    "published": "Tue, 22 Sep 2026 20:37:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+    "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade. We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no so",
+    "url": "https://www.coveragecat.com/",
+    "published": "Tue, 22 Sep 2026 17:26:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tech elites launch college alternative, raises $42M",
+    "summary": "Article URL: https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/ Comments URL: https://news.ycombinator.com/item?id=49803290 Points: 2 # Comments: 0",
+    "url": "https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/",
+    "published": "Tue, 22 Sep 2026 15:51:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A free help center launch kit – 20 customizable pages",
+    "summary": "Article URL: https://knowledgebase.dev/ Comments URL: https://news.ycombinator.com/item?id=49801703 Points: 1 # Comments: 0",
+    "url": "https://knowledgebase.dev/",
+    "published": "Tue, 22 Sep 2026 14:18:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Grading a golf bag from club specs alone, no launch monitor",
+    "summary": "Article URL: https://app.fitmygolfclubs.com/ Comments URL: https://news.ycombinator.com/item?id=49800252 Points: 2 # Comments: 0",
+    "url": "https://app.fitmygolfclubs.com/",
+    "published": "Tue, 22 Sep 2026 12:38:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Tech Elite Is Funding an Alternative to College",
+    "summary": "Article URL: https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e Comments URL: https://news.ycombinator.com/item?id=49800084 Points: 9 # Comments: 0",
+    "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+    "published": "Tue, 22 Sep 2026 12:23:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Googlebooks launch October 4 starting at $899",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/ Comments URL: https://news.ycombinator.com/item?id=49792089 Points: 5 # Comments: 3",
+    "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+    "published": "Mon, 21 Sep 2026 19:24:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sokkan – an HITL Claude Code cockpit that remembers, at session startup",
+    "summary": "Article URL: https://github.com/ninabot-ch/sokkan Comments URL: https://news.ycombinator.com/item?id=49786876 Points: 1 # Comments: 1",
+    "url": "https://github.com/ninabot-ch/sokkan",
+    "published": "Mon, 21 Sep 2026 13:13:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Weighs Funding Round at over $1.2T Valuation",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation Comments URL: https://news.ycombinator.com/item?id=49786791 Points: 3 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
+    "published": "Mon, 21 Sep 2026 13:04:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OSS, security and Funding: libjpeg-turbo",
+    "summary": "libjpeg-turbo is behind nearly every image you see on your computer, phone or any other digital screen. I also use it during computer vision model training. Every image that goes through my model, should be decoded. At some point I did a benchmark of python libraries that decode JPEG images https://github.com/ternaus/imread_benchmark All top libraries use libjpeg-turbo. The library is heavily optimized => I made a PR with a small improvement of 3%. Not groundbreaking, but small is better than no",
+    "url": "https://news.ycombinator.com/item?id=49783224",
+    "published": "Mon, 21 Sep 2026 05:00:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "New startup to test psychedelic-like drug against Parkinson's symptom",
+    "summary": "Article URL: https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/ Comments URL: https://news.ycombinator.com/item?id=49781324 Points: 3 # Comments: 0",
+    "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
+    "published": "Sun, 20 Sep 2026 23:42:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "\"I Made My GPU Startup Prove Itself in Japan, Romania and Canada\"",
+    "summary": "Article URL: https://www.indiehackers.com/post/i-made-my-gpu-startup-prove-itself-in-japan-romania-canada-before-i-d-let-it-make-a-single-claim-be5ae728ec Comments URL: https://news.ycombinator.com/item?id=49777681 Points: 3 # Comments: 0",
+    "url": "https://www.indiehackers.com/post/i-made-my-gpu-startup-prove-itself-in-japan-romania-canada-before-i-d-let-it-make-a-single-claim-be5ae728ec",
+    "published": "Sun, 20 Sep 2026 17:06:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Preuve AI, stress-test your startup idea before you build",
+    "summary": "Article URL: https://preuve.ai Comments URL: https://news.ycombinator.com/item?id=49776459 Points: 1 # Comments: 0",
+    "url": "https://preuve.ai",
+    "published": "Sun, 20 Sep 2026 14:52:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-23"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FAA to launch AI tool to help manage air traffic congestion",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/ Comments URL: https://news.ycombinator.com/item?id=49768738 Points: 2 # Comments: 1",
+    "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "published": "Sat, 19 Sep 2026 17:59:56 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-23"
@@ -789,7 +949,7 @@
     "type": "community",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "replies": 108,
+      "replies": 146,
       "node": "程序员"
     }
   },
@@ -803,8 +963,22 @@
     "type": "community",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "replies": 105,
+      "replies": 118,
       "node": "股票"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评",
+    "summary": "# 失业三年后的自媒体与 Vibe Coding ## 现状 找了一个月，只有一个面试邀约，放弃了。 Gap 这三年积累了一些自媒体经验，也积累了一定数量的粉丝，但是和程序员赛道差别太大，决定新搞一个产品赛道。 Vibe Coding 三个月出来的 iOS 产品，以过去的视角看很牛，但是放在现在看没啥护城河。不过已经能平均每天 1 刀的收入了，是个很好的兆头。 [青梨相册 https://apps.apple.com/app/id6770469890]( https://apps.apple.com/app/id6770469890) ![]( https:/",
+    "url": "https://www.v2ex.com/t/1244262",
+    "published": 1790147041,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-23",
+    "meta": {
+      "replies": 66,
+      "node": "程序员"
     }
   },
   {
@@ -817,8 +991,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 18829,
-      "forks": 1604,
+      "stars": 20346,
+      "forks": 1727,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -833,8 +1007,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 6465,
-      "forks": 371,
+      "stars": 6564,
+      "forks": 379,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -849,25 +1023,9 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 6465,
-      "forks": 1908,
+      "stars": 6531,
+      "forks": 1935,
       "language": "TypeScript",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "mizorewww/laya-mlx",
-    "summary": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-    "url": "https://github.com/mizorewww/laya-mlx",
-    "published": "2026-09-19T13:50:26Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-23",
-    "meta": {
-      "stars": 5738,
-      "forks": 418,
-      "language": "Python",
       "createdDaysAgo": 3
     }
   },
@@ -881,10 +1039,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 5163,
-      "forks": 277,
+      "stars": 5957,
+      "forks": 325,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "mizorewww/laya-mlx",
+    "summary": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "published": "2026-09-19T13:50:26Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-23",
+    "meta": {
+      "stars": 5940,
+      "forks": 445,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -897,8 +1071,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 4950,
-      "forks": 977,
+      "stars": 5212,
+      "forks": 1009,
       "language": "Kotlin",
       "createdDaysAgo": 2
     }
@@ -913,26 +1087,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 2065,
-      "forks": 220,
+      "stars": 2114,
+      "forks": 227,
       "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "bespokelabsai/nimble",
-    "summary": "Local typed decisions, contrastive data curation, and model evaluation.",
-    "url": "https://github.com/bespokelabsai/nimble",
-    "published": "2026-09-18T09:07:48Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-23",
-    "meta": {
-      "stars": 1664,
-      "forks": 120,
-      "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -945,58 +1103,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 1426,
-      "forks": 69,
+      "stars": 1702,
+      "forks": 87,
       "language": "Go",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
     "source": "GitHub新星",
-    "title": "yibie/awesome-jev",
-    "summary": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-    "url": "https://github.com/yibie/awesome-jev",
-    "published": "2026-09-17T14:23:21Z",
+    "title": "bespokelabsai/nimble",
+    "summary": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "url": "https://github.com/bespokelabsai/nimble",
+    "published": "2026-09-18T09:07:48Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 1405,
-      "forks": 199,
+      "stars": 1682,
+      "forks": 125,
       "language": "Python",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "mizorewww/laya-coreml",
-    "summary": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
-    "url": "https://github.com/mizorewww/laya-coreml",
-    "published": "2026-09-19T23:14:13Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-23",
-    "meta": {
-      "stars": 1356,
-      "forks": 108,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "newliver666/apk-reverse",
-    "summary": "Suitable for Android APK reverse engineering analysis",
-    "url": "https://github.com/newliver666/apk-reverse",
-    "published": "2026-09-19T13:12:54Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-23",
-    "meta": {
-      "stars": 1117,
-      "forks": 340,
-      "language": "Python",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -1009,10 +1135,58 @@
     "type": "signal",
     "fetchedAt": "2026-09-23",
     "meta": {
-      "stars": 881,
-      "forks": 378,
+      "stars": 1504,
+      "forks": 510,
       "language": "TypeScript",
       "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "yibie/awesome-jev",
+    "summary": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+    "url": "https://github.com/yibie/awesome-jev",
+    "published": "2026-09-17T14:23:21Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-23",
+    "meta": {
+      "stars": 1481,
+      "forks": 211,
+      "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "mizorewww/laya-coreml",
+    "summary": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "url": "https://github.com/mizorewww/laya-coreml",
+    "published": "2026-09-19T23:14:13Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-23",
+    "meta": {
+      "stars": 1391,
+      "forks": 115,
+      "language": "Python",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "newliver666/apk-reverse",
+    "summary": "Suitable for Android APK reverse engineering analysis",
+    "url": "https://github.com/newliver666/apk-reverse",
+    "published": "2026-09-19T13:12:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-23",
+    "meta": {
+      "stars": 1270,
+      "forks": 358,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   }
 ]
