@@ -91,6 +91,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "具身智能的行业信用正在被机器人公司透支",
+    "summary": "当稀缺的称号变成批量供应的标配，含金量便开始流失",
+    "url": "https://www.tmtpost.com/8152223.html",
+    "published": "Thu, 24 Sep 2026 22:19:20 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "钛媒体",
     "title": "从深圳一家小店，到东南亚月销50万：音频器材如何把增长做到海外？",
     "summary": "出海不是把国内产品简单搬到海外，而是先找到当地用户的真实需求，再围绕这些需求调整产品、营销和服务。",
     "url": "https://www.tmtpost.com/8151577.html",
@@ -135,6 +145,26 @@
     "summary": "李宁龙店首家全球旗舰店落地上海南京东路；lululemon武汉物流中心正式启用。",
     "url": "https://www.tmtpost.com/8151668.html",
     "published": "Thu, 24 Sep 2026 17:03:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
+    "summary": "9 月 3 日，GPT-6 Astra 的发布，把 3D 内容创作带到了舞台中央。 在 GPT-6 Astra 官方发布页的一个不到 3 分钟的视频里与后续解读中，Astra 已经能直接进入 Blender，从一句住宅设计需求开始搭场景，先生成极简住宅，后来又将其扩展为围绕庭院展开的家庭住宅。里面有卧室、办公室、厨房和卫生间；家具从床板、衣柜挂杆、烤箱、餐具抽屉，再到灯光模拟，一应俱全。甚至水槽表面的法线出了问题之后，Astra 还会自己返工。 为了制作 30 秒室内漫游，它还会把相机放在约 1.65 米的人眼高度，用 24—26mm 镜头安排四段运动；进入 Unreal Engine 5 之后，它又自己处理 FBX、JSON、米和厘米的单位差、坐标转换、材质映射、碰撞和第一人称控制。 当通用模型也能做 3D 了，专业 3D 生成模型的价值会发生什么变化？ 当下， 3D 工具的使用者，正逐渐从人 扩展 为 Agent。稳定的生成质量之外， 专业 3D 能力能否被 Agent 理解、调用，并用于后续修改——产品是否 Agent-Ready，正在成为 3D 生成下半场的新门槛。 事实上，前",
+    "url": "http://www.geekpark.net/news/371031",
+    "published": "Thu, 24 Sep 2026 22:49:18 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "极客公园",
+    "title": "李彦宏的长期主义，进入回报周期",
+    "summary": "作者｜cola 编辑｜郑玄 9 月 21 日，百度创始人李彦宏在内部活动上为技术团队颁发「百度最高奖」。两支入围团队均获奖，各获 100 万美元奖励。 其中，天池团队面向万亿级 MoE 大模型，自主研发百度天池超节点架构；dodo 团队是通过打造企业 AI 员工。 它们代表着百度当下两条重要的技术探索：基于 昆仑芯 的天池超节点，向更大规模的 AI 基础设施深入；以及让 Agent 真正进入组织。 但如果把时间轴再往前拉，百度今天的 AI 故事，还有一条更早埋下的技术伏笔——昆仑芯。 2010 年前后，百度搜索业务的服务器集群规模随流量高速扩张，海外进口芯片单片成本高达上万美元，持续攀升的算力开支不断挤压业务利润空间。这份成本压力，倒逼百度启动了 AI 加速器的自研探索。 没有人在一开始就预判到，这场造芯之路会跨过十余年的周期，中间要穿过外界的质疑、技术的反复迭代、商业化的重重关卡。 从内部低调摸索 FPGA、CPU、GPU 加速方案，到成立深度学习研究院 IDL 集中攻坚；从 2018 年第一代昆仑芯片正式对外亮相，到业务拆分成立独立公司、数万片芯片落地各行各业、点亮国内首个全自研 ",
+    "url": "http://www.geekpark.net/news/371030",
+    "published": "Thu, 24 Sep 2026 19:34:07 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-24"
@@ -400,26 +430,6 @@
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "极客公园",
-    "title": "助听器躺赚三十年暴利，被 AI 打破了",
-    "summary": "一个塞在耳朵里的小东西，卖到十万一副，丢失甚至需要动用全城搜索？ 助听器，是一门奇特的生意。 整个全球市场，近九成的助听器市场份额被五家外资公司把持：索诺瓦（峰力）、Demant（奥迪康）、WS 听力、瑞声达、斯达克。他们的旗舰产品在中国线下，一对要卖到七到十万块。即便是在美国本土，一副售价也要卖到三四万。而且过去二十年，助听器市场的格局几乎少有波动。 让他们垄断助听器市场的，最早其实是一道技术难题：音频分离。 想要模拟人耳在嘈杂餐厅里锁定一个声音，其实并不容易。在嘈杂的声音之下，究竟什么声音应该被放大？需要放大的应该是一个声音还是多个声音？在当时，谁能能把这道题解得好，谁就有资格定高价。五家外资公司，用芯片和算法把这件事做到了七八十分，然后，用遍布全球的验配门店，把助听器市场锁成了一套封闭的体系。 不是没有人挑战过，几十年间，无数创业者试图打破它，最终都没能跨过去。但这个局面，正在被打破。2026 年，两家来自深圳的公司，把助听器卖到了原来十分之一的价格。 据公开报道，听象科技旗下的昂听用 1 年时间就拥有超 50000 用户，做到了美国亚马逊助听器类目 Top1，年销超 1500 ",
-    "url": "http://www.geekpark.net/news/370445",
-    "published": "Wed, 16 Sep 2026 16:06:55 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-24"
-  },
-  {
-    "source": "极客公园",
-    "title": "当智能体开始替人花钱，如何证明「它是谁」？",
-    "summary": "在蚂蚁集团，负责 AI 支付安全的陈树鹏是个深度的智能体使用者。日常写代码、梳理汇报、提炼会议纪要，AI 几乎接管了他工作流里的大部分环节。 这种高度依赖背后，却存在着一个清晰的分水岭。一旦任务涉及真金白银，比如调用付费数据接口、购买素材或预订服务，绝大多数人都会本能地把权限卡死不愿交出钱包。哪怕是陈树鹏自己，手头测试过大量任务型框架，真正被他允许支付权限的智能体也仅仅只有两三个。 但在产业一线，这种放权又势在必行。 在 2026 外滩大会上，蚂蚁集团 CEO 韩歆毅表示，智能体商业的「ChatGPT 时刻」正在到来，其核心标志正是从单纯的对话能力展示，加速走向真实的商业交易闭环。商业世界的交互起点，正在从过去的搜索页面演进为意图驱动的服务调度。 在技术上，调用 API 扣费及定期支付看似早已是成熟的基础设施。但真正让人犹豫的，是 Agent 与传统自动化脚本的本质区别。以往的自动化扣款跑在封闭受控的系统里，按固定规则触发；现在的 Agent 为了办成一件事，需要在开放网络里自主探索、解析未经清洗的公开网页、调用第三方插件。面对一个在外部环境里自主决策的长任务，过去那种一次性给出的静态",
-    "url": "http://www.geekpark.net/news/370440",
-    "published": "Wed, 16 Sep 2026 15:45:18 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-24"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
     "summary": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -431,20 +441,80 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Modal Motors is trying to cut China out of electric motors entirely",
-    "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-    "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-    "published": "Wed, 23 Sep 2026 19:05:00 +0000",
+    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "published": "Thu, 24 Sep 2026 20:45:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
   },
   {
     "source": "TechCrunch",
-    "title": "The old cybersecurity model is breaking",
-    "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
-    "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-    "published": "Wed, 23 Sep 2026 17:44:02 +0000",
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "published": "Thu, 24 Sep 2026 19:15:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "published": "Thu, 24 Sep 2026 19:00:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+    "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+    "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "published": "Thu, 24 Sep 2026 18:52:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+    "summary": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+    "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+    "published": "Thu, 24 Sep 2026 17:07:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "published": "Thu, 24 Sep 2026 16:46:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+    "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+    "published": "Thu, 24 Sep 2026 16:03:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+    "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "published": "Thu, 24 Sep 2026 14:43:25 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
@@ -670,78 +740,214 @@
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "TechNode",
-    "title": "Huawei opens beta testing for XiaoYi Work AI assistant across phones, tablets and PCs",
-    "summary": "Huawei has opened beta testing for XiaoYi Work, an AI work assistant for office tasks, coding and creative work across HarmonyOS phones, tablets and PCs. XiaoYi Work can break a goal into steps, call tools, show progress and request user review at key points. Users can assign tasks from a phone to a cloud or […]",
-    "url": "https://technode.com/2026/09/16/huawei-xiaoyi-work-ai-assistant/",
-    "published": "Wed, 16 Sep 2026 06:05:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-24"
-  },
-  {
     "source": "The Verge",
-    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-    "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]",
-    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-    "published": "2026-09-24T05:04:18-04:00",
+    "title": "Muse sure looks a lot like OpenClaw",
+    "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been […]",
+    "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+    "published": "2026-09-24T13:10:38-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "The Verge",
-    "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-    "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
-    "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-    "published": "2026-09-23T19:42:10-04:00",
+    "source": "Hacker News",
+    "title": "Ask HN: Does a startup need both founder and company X accounts?",
+    "summary": "We are a small team. We recently launched an early-stage product on the App Store and started trying to build in public on X. In practice, I found it pretty difficult to get the official product account off the ground. X seems to rely heavily on engagement from existing followers to determine whether a post gets distributed more widely. It doesn't simply push content to a large audience of strangers just because certain hashtags are used. This creates a vicious cycle: without followers, it’s har",
+    "url": "https://news.ycombinator.com/item?id=49837729",
+    "published": "Thu, 24 Sep 2026 22:39:36 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "The Verge",
-    "title": "Muse is coming to Meta smart glasses",
-    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]",
-    "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-    "published": "2026-09-23T19:40:56-04:00",
+    "source": "Hacker News",
+    "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
+    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49833145 Points: 1 # Comments: 0",
+    "url": "https://www.launchpact.io",
+    "published": "Thu, 24 Sep 2026 16:35:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "The Verge",
-    "title": "Meta Connect 2026: The biggest news and announcements",
-    "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users […]",
-    "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-    "published": "2026-09-23T18:45:00-04:00",
+    "source": "Hacker News",
+    "title": "I am looking for GTM co-founder for my anti AI slop startup I am building",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49828756 Points: 1 # Comments: 2",
+    "url": "https://news.ycombinator.com/item?id=49828756",
+    "published": "Thu, 24 Sep 2026 10:42:23 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "The Verge",
-    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-    "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
-    "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-    "published": "2026-09-23T18:30:00-04:00",
+    "source": "Hacker News",
+    "title": "Electromagnetic Launch – The Technical and Economic Realities [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=RxHiosvCOEo Comments URL: https://news.ycombinator.com/item?id=49827536 Points: 4 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=RxHiosvCOEo",
+    "published": "Thu, 24 Sep 2026 07:45:25 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-24"
   },
   {
-    "source": "微博",
-    "title": "#荣耀Magic9价格公布#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9价格公布%23",
-    "published": "2026-09-24",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "CB Rank (Person) 1000 Recommendation Your Startup on LinkedIn",
+    "summary": "Article URL: https://startup-signal-oleh.restylefutu.chatgpt.site Comments URL: https://news.ycombinator.com/item?id=49823387 Points: 1 # Comments: 0",
+    "url": "https://startup-signal-oleh.restylefutu.chatgpt.site",
+    "published": "Wed, 23 Sep 2026 22:21:00 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-09-24",
-    "meta": {
-      "hotValue": 274655,
-      "rank": 25
-    }
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Startup Wants to Power Data Centers with 'Supercritical' Carbon Dioxide",
+    "summary": "Article URL: https://www.wired.com/story/startup-power-data-centers-supercritical-co2/ Comments URL: https://news.ycombinator.com/item?id=49818259 Points: 1 # Comments: 1",
+    "url": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
+    "published": "Wed, 23 Sep 2026 16:10:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding MIT Software with Commercial-Use Binaries",
+    "summary": "Article URL: https://yaak.app/blog/funding-open-source Comments URL: https://news.ycombinator.com/item?id=49817578 Points: 1 # Comments: 0",
+    "url": "https://yaak.app/blog/funding-open-source",
+    "published": "Wed, 23 Sep 2026 15:26:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Hubble Reaches Unicorn Status for Space-Based Bluetooth",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth Comments URL: https://news.ycombinator.com/item?id=49816323 Points: 2 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth",
+    "published": "Wed, 23 Sep 2026 14:01:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "UK to launch new military space squadron to protect satellites",
+    "summary": "Article URL: https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html Comments URL: https://news.ycombinator.com/item?id=49816020 Points: 3 # Comments: 0",
+    "url": "https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html",
+    "published": "Wed, 23 Sep 2026 13:40:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tesla Closes Texas Airspace for Roadster Launch Event",
+    "summary": "Article URL: https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event Comments URL: https://news.ycombinator.com/item?id=49810425 Points: 5 # Comments: 0",
+    "url": "https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event",
+    "published": "Wed, 23 Sep 2026 01:11:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola Signature 27 officially gets a North American launch",
+    "summary": "Article URL: https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/ Comments URL: https://news.ycombinator.com/item?id=49807729 Points: 2 # Comments: 1",
+    "url": "https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/",
+    "published": "Tue, 22 Sep 2026 20:37:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+    "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade. We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no so",
+    "url": "https://www.coveragecat.com/",
+    "published": "Tue, 22 Sep 2026 17:26:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tech elites launch college alternative, raises $42M",
+    "summary": "Article URL: https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/ Comments URL: https://news.ycombinator.com/item?id=49803290 Points: 2 # Comments: 0",
+    "url": "https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/",
+    "published": "Tue, 22 Sep 2026 15:51:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A free help center launch kit – 20 customizable pages",
+    "summary": "Article URL: https://knowledgebase.dev/ Comments URL: https://news.ycombinator.com/item?id=49801703 Points: 1 # Comments: 0",
+    "url": "https://knowledgebase.dev/",
+    "published": "Tue, 22 Sep 2026 14:18:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Grading a golf bag from club specs alone, no launch monitor",
+    "summary": "Article URL: https://app.fitmygolfclubs.com/ Comments URL: https://news.ycombinator.com/item?id=49800252 Points: 2 # Comments: 0",
+    "url": "https://app.fitmygolfclubs.com/",
+    "published": "Tue, 22 Sep 2026 12:38:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Tech Elite Is Funding an Alternative to College",
+    "summary": "Article URL: https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e Comments URL: https://news.ycombinator.com/item?id=49800084 Points: 9 # Comments: 0",
+    "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+    "published": "Tue, 22 Sep 2026 12:23:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Googlebooks launch October 4 starting at $899",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/ Comments URL: https://news.ycombinator.com/item?id=49792089 Points: 5 # Comments: 3",
+    "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+    "published": "Mon, 21 Sep 2026 19:24:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Sokkan – an HITL Claude Code cockpit that remembers, at session startup",
+    "summary": "Article URL: https://github.com/ninabot-ch/sokkan Comments URL: https://news.ycombinator.com/item?id=49786876 Points: 1 # Comments: 1",
+    "url": "https://github.com/ninabot-ch/sokkan",
+    "published": "Mon, 21 Sep 2026 13:13:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Weighs Funding Round at over $1.2T Valuation",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation Comments URL: https://news.ycombinator.com/item?id=49786791 Points: 3 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
+    "published": "Mon, 21 Sep 2026 13:04:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OSS, security and Funding: libjpeg-turbo",
+    "summary": "libjpeg-turbo is behind nearly every image you see on your computer, phone or any other digital screen. I also use it during computer vision model training. Every image that goes through my model, should be decoded. At some point I did a benchmark of python libraries that decode JPEG images https://github.com/ternaus/imread_benchmark All top libraries use libjpeg-turbo. The library is heavily optimized => I made a PR with a small improvement of 3%. Not groundbreaking, but small is better than no",
+    "url": "https://news.ycombinator.com/item?id=49783224",
+    "published": "Mon, 21 Sep 2026 05:00:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-24"
   },
   {
     "source": "V2EX",
@@ -753,7 +959,7 @@
     "type": "community",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "replies": 80,
+      "replies": 82,
       "node": "生活"
     }
   },
@@ -767,8 +973,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 21916,
-      "forks": 1873,
+      "stars": 22981,
+      "forks": 1976,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -783,10 +989,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 6655,
-      "forks": 1987,
+      "stars": 6705,
+      "forks": 2003,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -799,24 +1005,24 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 6124,
-      "forks": 467,
+      "stars": 6214,
+      "forks": 476,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
     "title": "jev-chat/jev-chat-jarvis",
-    "summary": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
     "url": "https://github.com/jev-chat/jev-chat-jarvis",
     "published": "2026-09-21T11:12:53Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 5597,
-      "forks": 1060,
+      "stars": 6050,
+      "forks": 1095,
       "language": "Kotlin",
       "createdDaysAgo": 3
     }
@@ -831,10 +1037,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 1832,
-      "forks": 91,
+      "stars": 1876,
+      "forks": 96,
       "language": "Go",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -847,8 +1053,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 1717,
-      "forks": 129,
+      "stars": 1731,
+      "forks": 131,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -863,10 +1069,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 1403,
-      "forks": 119,
+      "stars": 1436,
+      "forks": 121,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -879,10 +1085,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 1394,
-      "forks": 369,
+      "stars": 1415,
+      "forks": 373,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -895,10 +1101,42 @@
     "type": "signal",
     "fetchedAt": "2026-09-24",
     "meta": {
-      "stars": 980,
-      "forks": 94,
+      "stars": 1238,
+      "forks": 128,
       "language": "Swift",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "deepopen-com/deepopen",
+    "summary": "非自回归System 1决策引擎，专为结构化类型决策场景设计 DeepOpen Multilingual, non-autoregressive System 1 decision engine.",
+    "url": "https://github.com/deepopen-com/deepopen",
+    "published": "2026-09-21T02:12:24Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-24",
+    "meta": {
+      "stars": 1005,
+      "forks": 110,
+      "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "mikehasa/golive-skill",
+    "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "published": "2026-09-23T13:37:26Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-24",
+    "meta": {
+      "stars": 874,
+      "forks": 60,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   }
 ]
