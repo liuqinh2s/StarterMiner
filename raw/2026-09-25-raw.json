@@ -80,11 +80,11 @@
     "fetchedAt": "2026-09-25"
   },
   {
-    "source": "创业邦",
-    "title": "欣旺达动力科技公司增资至约145.2亿",
-    "summary": "天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约140.9亿人民币增至约145.2亿人民币。 该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等。股东信息显示，该公司由欣旺达惠州新能源有限公司、嘉兴颀辰股权投资合伙企业（有限合伙）、青岛鑫旺绿色新能源投资合伙企业（有限合伙）等共同持股。",
-    "url": "https://www.cyzone.cn/article/845146.html",
-    "published": "Wed, 02 Sep 2026 03:42:53 GMT",
+    "source": "钛媒体",
+    "title": "华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了",
+    "summary": "华能国际新设三分支机构，谋降本扩新能源，成效待验证。",
+    "url": "https://www.tmtpost.com/8152605.html",
+    "published": "Fri, 25 Sep 2026 17:31:38 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-25"
@@ -95,26 +95,6 @@
     "summary": "当机器越来越理解人，人就越来越少需要先学会机器喜欢的说话方式。",
     "url": "https://www.tmtpost.com/8152516.html",
     "published": "Fri, 25 Sep 2026 10:45:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "对话高通中国区董事长孟樸：AI正在形成闭环，真正的智能体时代还未到来",
-    "summary": "过去的芯片竞争逻辑，正在被AI重新改写。",
-    "url": "https://www.tmtpost.com/8152285.html",
-    "published": "Fri, 25 Sep 2026 09:36:56 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "美国大模型，也开始打价格战了",
-    "summary": "大模型卷完参数，终于开始卷价格。",
-    "url": "https://www.tmtpost.com/8152168.html",
-    "published": "Fri, 25 Sep 2026 09:35:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-25"
@@ -406,6 +386,16 @@
     "url": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Wed, 23 Sep 2026 00:05:46 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-25"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-25"
   },
@@ -720,204 +710,18 @@
     "fetchedAt": "2026-09-25"
   },
   {
-    "source": "Hacker News",
-    "title": "Positron Valued at $5B in New Funding as Demand for AI Chips Surges",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819 Comments URL: https://news.ycombinator.com/item?id=49838405 Points: 3 # Comments: 0",
-    "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
-    "published": "Thu, 24 Sep 2026 23:58:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Does a startup need both founder and company X accounts?",
-    "summary": "We are a small team. We recently launched an early-stage product on the App Store and started trying to build in public on X. In practice, I found it pretty difficult to get the official product account off the ground. X seems to rely heavily on engagement from existing followers to determine whether a post gets distributed more widely. It doesn't simply push content to a large audience of strangers just because certain hashtags are used. This creates a vicious cycle: without followers, it’s har",
-    "url": "https://news.ycombinator.com/item?id=49837729",
-    "published": "Thu, 24 Sep 2026 22:39:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
-    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49833145 Points: 1 # Comments: 0",
-    "url": "https://www.launchpact.io",
-    "published": "Thu, 24 Sep 2026 16:35:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I am looking for GTM co-founder for my anti AI slop startup I am building",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49828756 Points: 1 # Comments: 2",
-    "url": "https://news.ycombinator.com/item?id=49828756",
-    "published": "Thu, 24 Sep 2026 10:42:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Electromagnetic Launch – The Technical and Economic Realities [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=RxHiosvCOEo Comments URL: https://news.ycombinator.com/item?id=49827536 Points: 4 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=RxHiosvCOEo",
-    "published": "Thu, 24 Sep 2026 07:45:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "CB Rank (Person) 1000 Recommendation Your Startup on LinkedIn",
-    "summary": "Article URL: https://startup-signal-oleh.restylefutu.chatgpt.site Comments URL: https://news.ycombinator.com/item?id=49823387 Points: 1 # Comments: 0",
-    "url": "https://startup-signal-oleh.restylefutu.chatgpt.site",
-    "published": "Wed, 23 Sep 2026 22:21:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Startup Wants to Power Data Centers with 'Supercritical' Carbon Dioxide",
-    "summary": "Article URL: https://www.wired.com/story/startup-power-data-centers-supercritical-co2/ Comments URL: https://news.ycombinator.com/item?id=49818259 Points: 1 # Comments: 1",
-    "url": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
-    "published": "Wed, 23 Sep 2026 16:10:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Funding MIT Software with Commercial-Use Binaries",
-    "summary": "Article URL: https://yaak.app/blog/funding-open-source Comments URL: https://news.ycombinator.com/item?id=49817578 Points: 1 # Comments: 0",
-    "url": "https://yaak.app/blog/funding-open-source",
-    "published": "Wed, 23 Sep 2026 15:26:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Hubble Reaches Unicorn Status for Space-Based Bluetooth",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth Comments URL: https://news.ycombinator.com/item?id=49816323 Points: 2 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth",
-    "published": "Wed, 23 Sep 2026 14:01:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "UK to launch new military space squadron to protect satellites",
-    "summary": "Article URL: https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html Comments URL: https://news.ycombinator.com/item?id=49816020 Points: 3 # Comments: 0",
-    "url": "https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html",
-    "published": "Wed, 23 Sep 2026 13:40:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tesla Closes Texas Airspace for Roadster Launch Event",
-    "summary": "Article URL: https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event Comments URL: https://news.ycombinator.com/item?id=49810425 Points: 5 # Comments: 0",
-    "url": "https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event",
-    "published": "Wed, 23 Sep 2026 01:11:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Motorola Signature 27 officially gets a North American launch",
-    "summary": "Article URL: https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/ Comments URL: https://news.ycombinator.com/item?id=49807729 Points: 2 # Comments: 1",
-    "url": "https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/",
-    "published": "Tue, 22 Sep 2026 20:37:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-    "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade. We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no so",
-    "url": "https://www.coveragecat.com/",
-    "published": "Tue, 22 Sep 2026 17:26:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tech elites launch college alternative, raises $42M",
-    "summary": "Article URL: https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/ Comments URL: https://news.ycombinator.com/item?id=49803290 Points: 2 # Comments: 0",
-    "url": "https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/",
-    "published": "Tue, 22 Sep 2026 15:51:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A free help center launch kit – 20 customizable pages",
-    "summary": "Article URL: https://knowledgebase.dev/ Comments URL: https://news.ycombinator.com/item?id=49801703 Points: 1 # Comments: 0",
-    "url": "https://knowledgebase.dev/",
-    "published": "Tue, 22 Sep 2026 14:18:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Grading a golf bag from club specs alone, no launch monitor",
-    "summary": "Article URL: https://app.fitmygolfclubs.com/ Comments URL: https://news.ycombinator.com/item?id=49800252 Points: 2 # Comments: 0",
-    "url": "https://app.fitmygolfclubs.com/",
-    "published": "Tue, 22 Sep 2026 12:38:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Tech Elite Is Funding an Alternative to College",
-    "summary": "Article URL: https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e Comments URL: https://news.ycombinator.com/item?id=49800084 Points: 9 # Comments: 0",
-    "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
-    "published": "Tue, 22 Sep 2026 12:23:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Googlebooks launch October 4 starting at $899",
-    "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/ Comments URL: https://news.ycombinator.com/item?id=49792089 Points: 5 # Comments: 3",
-    "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
-    "published": "Mon, 21 Sep 2026 19:24:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Sokkan – an HITL Claude Code cockpit that remembers, at session startup",
-    "summary": "Article URL: https://github.com/ninabot-ch/sokkan Comments URL: https://news.ycombinator.com/item?id=49786876 Points: 1 # Comments: 1",
-    "url": "https://github.com/ninabot-ch/sokkan",
-    "published": "Mon, 21 Sep 2026 13:13:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI Weighs Funding Round at over $1.2T Valuation",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation Comments URL: https://news.ycombinator.com/item?id=49786791 Points: 3 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
-    "published": "Mon, 21 Sep 2026 13:04:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-25"
+    "source": "V2EX",
+    "title": "我以一己之力，用三年时间，带起来了国内独立开发做出海网站赚美元养老行业。 让不少中老年程序员焕发了第二春，让不少新程序员找到了人生方向。",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1244750",
+    "published": 1790321112,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-25",
+    "meta": {
+      "replies": 67,
+      "node": "创造者"
+    }
   },
   {
     "source": "GitHub新星",
@@ -929,9 +733,25 @@
     "type": "signal",
     "fetchedAt": "2026-09-25",
     "meta": {
-      "stars": 6724,
-      "forks": 2007,
+      "stars": 6747,
+      "forks": 2020,
       "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "jev-chat/jev-chat-jarvis",
+    "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "published": "2026-09-21T11:12:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-25",
+    "meta": {
+      "stars": 6440,
+      "forks": 1123,
+      "language": "Kotlin",
       "createdDaysAgo": 4
     }
   },
@@ -945,26 +765,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-25",
     "meta": {
-      "stars": 6237,
-      "forks": 480,
+      "stars": 6289,
+      "forks": 490,
       "language": "Python",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "jev-chat/jev-chat-jarvis",
-    "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-    "url": "https://github.com/jev-chat/jev-chat-jarvis",
-    "published": "2026-09-21T11:12:53Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-25",
-    "meta": {
-      "stars": 6200,
-      "forks": 1109,
-      "language": "Kotlin",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -977,8 +781,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-25",
     "meta": {
-      "stars": 1884,
-      "forks": 98,
+      "stars": 1899,
+      "forks": 99,
       "language": "Go",
       "createdDaysAgo": 3
     }
@@ -993,7 +797,7 @@
     "type": "signal",
     "fetchedAt": "2026-09-25",
     "meta": {
-      "stars": 1441,
+      "stars": 1444,
       "forks": 121,
       "language": "Python",
       "createdDaysAgo": 5
@@ -1009,8 +813,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-25",
     "meta": {
-      "stars": 1426,
-      "forks": 377,
+      "stars": 1441,
+      "forks": 379,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -1025,26 +829,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-25",
     "meta": {
-      "stars": 1274,
-      "forks": 131,
+      "stars": 1352,
+      "forks": 138,
       "language": "Swift",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "deepopen-com/deepopen",
-    "summary": "非自回归System 1决策引擎，专为结构化类型决策场景设计 DeepOpen Multilingual, non-autoregressive System 1 decision engine.",
-    "url": "https://github.com/deepopen-com/deepopen",
-    "published": "2026-09-21T02:12:24Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-25",
-    "meta": {
-      "stars": 1011,
-      "forks": 110,
-      "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
