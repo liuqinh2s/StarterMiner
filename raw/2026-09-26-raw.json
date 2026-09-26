@@ -110,6 +110,16 @@
     "fetchedAt": "2026-09-26"
   },
   {
+    "source": "钛媒体",
+    "title": "华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了",
+    "summary": "华能国际新设三分支机构，谋降本扩新能源，成效待验证。",
+    "url": "https://www.tmtpost.com/8152605.html",
+    "published": "Fri, 25 Sep 2026 17:31:38 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
     "source": "极客公园",
     "title": "Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元",
     "summary": "Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力 9 月 26 日消息，云计算、网络安全、内容交付企业 Akamai 当地时间 24 日宣布大幅扩展与 Anthropic 的合作关系，两家公司签署了一份为期 7 年、价值 116 亿美元（现汇率约合 779.2 亿元人民币）的合同。 根据协议，Akamai 将以其分布式人工智能基础设施和软件满足 Anthropic 日益增长的 CPU 工作负载需求。这 116 亿美元承诺对应 Akamai 的 55 亿美元额外总资本支出。双方还可将合同扩大最多 90 亿美元。 作为两家企业加强战略合作的一部分，Akamai 已向 Anthropic 发行认股权证，允许 Anthropic 购买 Akamai 至多 5% 的已发行普通股，其中 2% 与本次承诺绑定、剩余 3% 则和后续的追加承诺相关。（来源：IT 之家） SK 海力士旗下 Solidigm 最快明年在美 IPO，估值或高达 1500 亿美元 SK 海力士旗下美国子公司 Solidigm 正在评估上市计划，潜在估值最高达 1500 亿美元，有望成为",
@@ -410,26 +420,6 @@
     "fetchedAt": "2026-09-26"
   },
   {
-    "source": "TechCrunch",
-    "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "published": "Fri, 25 Sep 2026 15:40:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-26"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "published": "Fri, 25 Sep 2026 15:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-26"
-  },
-  {
     "source": "TechNode",
     "title": "A Game Studio in Minutes: JIYI SOON Aims to Redefine Game Creation with AI",
     "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
@@ -670,6 +660,210 @@
     "fetchedAt": "2026-09-26"
   },
   {
+    "source": "Hacker News",
+    "title": "Ponysay rewritten in Rust: 22x faster startup",
+    "summary": "Article URL: https://github.com/jcpsimmons/ponysay-rust Comments URL: https://news.ycombinator.com/item?id=49857831 Points: 2 # Comments: 0",
+    "url": "https://github.com/jcpsimmons/ponysay-rust",
+    "published": "Sat, 26 Sep 2026 16:05:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Accuses Plaintiffs' Lawyers of Funding and Laundering Copyright Evidence",
+    "summary": "Article URL: https://www.techdirt.com/2026/09/25/openai-accuses-plaintiffs-lawyers-of-paying-for-hiding-and-then-laundering-sketchy-key-evidence-in-ai-copyright-case/ Comments URL: https://news.ycombinator.com/item?id=49856144 Points: 3 # Comments: 0",
+    "url": "https://www.techdirt.com/2026/09/25/openai-accuses-plaintiffs-lawyers-of-paying-for-hiding-and-then-laundering-sketchy-key-evidence-in-ai-copyright-case/",
+    "published": "Sat, 26 Sep 2026 13:05:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: An open-source launch kit to help you vibe code your knowledge base",
+    "summary": "Article URL: https://knowledgebase.dev/ Comments URL: https://news.ycombinator.com/item?id=49846900 Points: 1 # Comments: 0",
+    "url": "https://knowledgebase.dev/",
+    "published": "Fri, 25 Sep 2026 16:48:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Positron Valued at $5B in New Funding as Demand for AI Chips Surges",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819 Comments URL: https://news.ycombinator.com/item?id=49838405 Points: 3 # Comments: 0",
+    "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
+    "published": "Thu, 24 Sep 2026 23:58:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Does a startup need both founder and company X accounts?",
+    "summary": "We are a small team. We recently launched an early-stage product on the App Store and started trying to build in public on X. In practice, I found it pretty difficult to get the official product account off the ground. X seems to rely heavily on engagement from existing followers to determine whether a post gets distributed more widely. It doesn't simply push content to a large audience of strangers just because certain hashtags are used. This creates a vicious cycle: without followers, it’s har",
+    "url": "https://news.ycombinator.com/item?id=49837729",
+    "published": "Thu, 24 Sep 2026 22:39:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
+    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49833145 Points: 1 # Comments: 0",
+    "url": "https://www.launchpact.io",
+    "published": "Thu, 24 Sep 2026 16:35:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I am looking for GTM co-founder for my anti AI slop startup I am building",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49828756 Points: 1 # Comments: 2",
+    "url": "https://news.ycombinator.com/item?id=49828756",
+    "published": "Thu, 24 Sep 2026 10:42:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Electromagnetic Launch – The Technical and Economic Realities [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=RxHiosvCOEo Comments URL: https://news.ycombinator.com/item?id=49827536 Points: 4 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=RxHiosvCOEo",
+    "published": "Thu, 24 Sep 2026 07:45:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CB Rank (Person) 1000 Recommendation Your Startup on LinkedIn",
+    "summary": "Article URL: https://startup-signal-oleh.restylefutu.chatgpt.site Comments URL: https://news.ycombinator.com/item?id=49823387 Points: 1 # Comments: 0",
+    "url": "https://startup-signal-oleh.restylefutu.chatgpt.site",
+    "published": "Wed, 23 Sep 2026 22:21:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Startup Wants to Power Data Centers with 'Supercritical' Carbon Dioxide",
+    "summary": "Article URL: https://www.wired.com/story/startup-power-data-centers-supercritical-co2/ Comments URL: https://news.ycombinator.com/item?id=49818259 Points: 1 # Comments: 1",
+    "url": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
+    "published": "Wed, 23 Sep 2026 16:10:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Funding MIT Software with Commercial-Use Binaries",
+    "summary": "Article URL: https://yaak.app/blog/funding-open-source Comments URL: https://news.ycombinator.com/item?id=49817578 Points: 1 # Comments: 0",
+    "url": "https://yaak.app/blog/funding-open-source",
+    "published": "Wed, 23 Sep 2026 15:26:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Hubble Reaches Unicorn Status for Space-Based Bluetooth",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth Comments URL: https://news.ycombinator.com/item?id=49816323 Points: 2 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth",
+    "published": "Wed, 23 Sep 2026 14:01:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "UK to launch new military space squadron to protect satellites",
+    "summary": "Article URL: https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html Comments URL: https://news.ycombinator.com/item?id=49816020 Points: 3 # Comments: 0",
+    "url": "https://phys.org/news/2026-09-uk-military-space-squadron-satellites.html",
+    "published": "Wed, 23 Sep 2026 13:40:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tesla Closes Texas Airspace for Roadster Launch Event",
+    "summary": "Article URL: https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event Comments URL: https://news.ycombinator.com/item?id=49810425 Points: 5 # Comments: 0",
+    "url": "https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event",
+    "published": "Wed, 23 Sep 2026 01:11:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Motorola Signature 27 officially gets a North American launch",
+    "summary": "Article URL: https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/ Comments URL: https://news.ycombinator.com/item?id=49807729 Points: 2 # Comments: 1",
+    "url": "https://9to5google.com/2026/09/22/motorola-signature-27-north-america-launch-confirmed/",
+    "published": "Tue, 22 Sep 2026 20:37:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+    "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade. We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no so",
+    "url": "https://www.coveragecat.com/",
+    "published": "Tue, 22 Sep 2026 17:26:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tech elites launch college alternative, raises $42M",
+    "summary": "Article URL: https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/ Comments URL: https://news.ycombinator.com/item?id=49803290 Points: 2 # Comments: 0",
+    "url": "https://nypost.com/2026/09/22/business/tech-elites-launch-college-alternative-for-next-generation-of-ai-geniuses-raises-42m/",
+    "published": "Tue, 22 Sep 2026 15:51:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Grading a golf bag from club specs alone, no launch monitor",
+    "summary": "Article URL: https://app.fitmygolfclubs.com/ Comments URL: https://news.ycombinator.com/item?id=49800252 Points: 2 # Comments: 0",
+    "url": "https://app.fitmygolfclubs.com/",
+    "published": "Tue, 22 Sep 2026 12:38:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Tech Elite Is Funding an Alternative to College",
+    "summary": "Article URL: https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e Comments URL: https://news.ycombinator.com/item?id=49800084 Points: 9 # Comments: 0",
+    "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+    "published": "Tue, 22 Sep 2026 12:23:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-26"
+  },
+  {
+    "source": "V2EX",
+    "title": "真正做 FDE 的进来聊聊",
+    "summary": "大家好。我原来从阿里出来，最近几年给企业做了几个 AI 项目 https://next4.ai/ 上面简单写了下。客单价 30-300 万吧(但是也是很苦逼，勉强能活)。老实说，我也不知道我们算不算 FDE 。论坛里不知道有没有做 FDE 人，真的单独出来接企业 AI 项目落地的。(在阿里、腾讯、百度做 To B 的 AI 项目组里也欢迎)，进来交流交流心得。 我有想组个小群，把大家拉进来深度聊聊中国未来有没有走 Palantir 这种模式的？甚至出海做全球。国内太苦逼，客户关系、资源太复杂。 聊技术也行，聊合作项目、客户资源也行。",
+    "url": "https://www.v2ex.com/t/1244842",
+    "published": 1790387393,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-09-26",
+    "meta": {
+      "replies": 30,
+      "node": "职场话题"
+    }
+  },
+  {
     "source": "GitHub新星",
     "title": "zai-org/ZCode",
     "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -679,10 +873,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-26",
     "meta": {
-      "stars": 6811,
-      "forks": 2049,
+      "stars": 6832,
+      "forks": 2060,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -695,8 +889,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-26",
     "meta": {
-      "stars": 6607,
-      "forks": 1140,
+      "stars": 6670,
+      "forks": 1148,
       "language": "Kotlin",
       "createdDaysAgo": 5
     }
@@ -711,8 +905,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-26",
     "meta": {
-      "stars": 2026,
-      "forks": 176,
+      "stars": 2105,
+      "forks": 184,
       "language": "Swift",
       "createdDaysAgo": 6
     }
@@ -727,10 +921,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-26",
     "meta": {
-      "stars": 1953,
+      "stars": 1965,
       "forks": 103,
       "language": "Go",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
