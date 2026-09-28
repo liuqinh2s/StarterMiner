@@ -1,15 +1,5 @@
 [
   {
-    "source": "少数派",
-    "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-    "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。 查看全文",
-    "url": "https://sspai.com/post/114395",
-    "published": "Thu, 24 Sep 2026 12:15:24 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-28"
-  },
-  {
     "source": "创业邦",
     "title": "四川能源、五粮液集团等在四川成立核产业公司 注册资本10亿",
     "summary": "天眼查App显示，近日，四川能源核产业有限公司成立，法定代表人为聂强，注册资本10亿人民币，经营范围包括民用核安全设备制造、民用核安全设备安装、民用核安全设备设计等。股东信息显示，该公司由四川能源发展集团有限责任公司、粤港澳大湾区创业投资引导基金合伙企业（有限合伙）、成都未来产业创业投资发展基金合伙企业（有限合伙）、四川省新能源动力股份有限公司、五粮液集团旗下四川省宜宾普什集团有限公司、深圳市创新资本投资有限公司、成都核总核动力研究设计工程有限公司共同持股。",
@@ -81,6 +71,36 @@
   },
   {
     "source": "钛媒体",
+    "title": "一个AI应用爆火，会带动多少硬件生意？",
+    "summary": "大模型先买GPU，Agent开始带动更多服务器硬件。",
+    "url": "https://www.tmtpost.com/8153647.html",
+    "published": "Mon, 28 Sep 2026 16:27:11 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-28"
+  },
+  {
+    "source": "钛媒体",
+    "title": "赌具身智能没有未来的人，是没有未来的 | 对谈伯克利Allen Yang博士",
+    "summary": "宇树市值蒸发两千亿，一级市场却仍在加注。面对愈演愈烈的具身智能泡沫论，伯克利Allen Yang博士用85分钟深度播客给出回应：赌具身智能没有未来的人，可能才是没有未来的。",
+    "url": "https://www.tmtpost.com/8153646.html",
+    "published": "Mon, 28 Sep 2026 16:27:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-28"
+  },
+  {
+    "source": "钛媒体",
+    "title": "千万小时缺口下的突围：谁在为中国具身智能“喂”数据？",
+    "summary": "在姚卯青看来，AI要进入下一阶段，必须进入物理世界闭环决策，各家公司的数据预算越挂越高，越多越好、越丰富越多样化越好。",
+    "url": "https://www.tmtpost.com/8153852.html",
+    "published": "Mon, 28 Sep 2026 13:50:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-09-28"
+  },
+  {
+    "source": "钛媒体",
     "title": "从端侧推理到物理AI，芯片行业正面临新考题",
     "summary": "物理AI的时代，比拼的将是谁的落地更稳。",
     "url": "https://www.tmtpost.com/8153747.html",
@@ -110,31 +130,31 @@
     "fetchedAt": "2026-09-28"
   },
   {
-    "source": "钛媒体",
-    "title": "A股行业估值图谱：市盈率“高”与“低”并不讲同一个故事",
-    "summary": "本文以剔除亏损后的行业中位数PE作为主要观察口径，并将行业平均PE并列呈现。这样做的目的，不是给行业贴上“高估”或“低估”的标签，而是尽量看清：不同板块的估值差异，究竟来自成长预期、景气周期，还是盈利样本结构。",
-    "url": "https://www.tmtpost.com/8153711.html",
-    "published": "Mon, 28 Sep 2026 09:20:56 +0800",
+    "source": "极客公园",
+    "title": "创始人书单 | 在创业的过程里，见世界、见自己",
+    "summary": "外部世界的重压多少让人有些抑郁。趁着放假，不如多读两本书吧，也许可以找到一些平静。 这篇推送是 9 位创始人及投资人的阅读推荐，包含社科、科普、文学、传记、非虚构五个类别，希望对你有所帮助。 《集装箱改变世界》 # 创造技术不难，但和实际场景结合很难 作者：马克·莱文森 译者：姜文波 出版社：机械工业出版社 定价：48.00 元 《集装箱改变世界》的主角是马尔科姆·帕塞尔·麦克莱恩（Malcom Purcell McLean）。他不是发明了集装箱的人，而是把集装箱带进物流行业、并且高效应用的一个人。 我觉得他有两个优点值得我们学习。 一方面，是创业者的坚定信心和永不放弃的态度。 另一方面是他对新技术的应用。集装箱在当时还是个新技术，麦克莱恩并没有发明集装箱，但是他在这个技术应用上想了很多方法，比如说怎么能让集装箱的效率更高、如何解决码头工人对于收入的顾虑等。 我看完这本书，就有一个感受：创造出技术不难，但怎么把技术和实际场景结合，能够落地、应用、并持续改进，是一件特别难的事。看这本书可以帮助很多人理清这方面的思路，至少对我来说非常有用。 《活法》 # 发心很重要 作者：稻盛和夫 译者：",
+    "url": "http://www.geekpark.net/news/371131",
+    "published": "Mon, 28 Sep 2026 18:33:33 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-28"
   },
   {
-    "source": "钛媒体",
-    "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
-    "summary": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：中国初步具备开展算力期货研究条件；2028年前后，FAST有望实现全链条国产化；美国一家AI实验室：AI演化出自己的方言",
-    "url": "https://www.tmtpost.com/8153534.html",
-    "published": "Mon, 28 Sep 2026 07:20:00 +0800",
+    "source": "极客公园",
+    "title": "AI 硬件创业第一步，先做 AI 还是先做硬件？",
+    "summary": "AI 硬件，和过往的硬件，有什么区别？ 到底谁是主体，软件层的 AI，还是硬件？ 什么样的 AI 体验必须通过硬件实现？团队该先做软件、先做硬件，还是同时推进？ 8 月初，在新加坡的 AGI Playground 2026 圆桌，四位不同位置的从业者聊了聊，AI 硬件如何迈出第一步，找到最初的一批用户。 Nori 联合创始人兼 COO Isaac Long 正在做一款面向家庭的 AI 助手。Nori 的软件已经积累约 20 万用户，团队随后推出了一块放在厨房或客厅的共享屏幕，希望减轻家庭中的「隐形心智负担」。 Kickstarter PBC. 首席战略代表、MUZIM AI 创始人兼 CEO Henri Pang，既从众筹平台上看过大量硬件项目，也在亲自尝试把 AI、软件与硬件结合起来。 Wapitee Interactive 创始人兼 CEO Jacob Guo 则长期帮助科技公司做产品定位、品牌和 GTM，参与过 Rabbit R1、Even Realities 等 AI 硬件产品的海外发布。圆桌由 Wapitee Interactive 合伙人 Ken Hsu 主持。 几位嘉宾对",
+    "url": "http://www.geekpark.net/news/371125",
+    "published": "Mon, 28 Sep 2026 18:06:51 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-28"
   },
   {
-    "source": "钛媒体",
-    "title": "苹果或重返服务器，互联市场开始“群雄逐鹿”",
-    "summary": "英伟达势力范围再扩大，初创公司也在抢生意。",
-    "url": "https://www.tmtpost.com/8153405.html",
-    "published": "Sun, 27 Sep 2026 17:48:14 +0800",
+    "source": "极客公园",
+    "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+    "summary": "「这次骁龙峰会最令人兴奋的地方在于，我认为我们终于步入了一个可以清晰看见 AI 智能手机形态的阶段」高通公司总裁兼 CEO 安蒙在峰会第一天说道。 炎热的美国茂宜岛，早上不到 8 点，会场里已经聚集了来自全球的媒体、开发者、合作伙伴和产业人士。让大家等待的并不只是又一代手机芯片，而是在寻找一个更大的答案——随着 AI 从手机里的一项功能，演进为能够跨终端理解意图、保存情境并代表用户采取行动的智能体，CPU、GPU、NPU、内存和连接将如何被重新组织，手机、PC、耳机、眼镜等终端之间的关系将如何改变？ 过去，AI 是高通技术路线图中的一条能力线；如今，AI 正在成为重新定义整张路线图的中心。 这也是今年骁龙峰会释放出的更大信号：高通正在向覆盖终端、边缘和数据中心的智能体 AI 全栈解决方案公司加速演进。下一代 AI 手机只是这个故事最先被看见的入口。 等待在峰会门口前最早的一批观众 | 来源：极客公园 安蒙认为，在新一代手机上，意图应该是需要给用户带来最大感知变化的地方。 这其中，交互方式的改变和智能体执行能力是需要提供给用户的新价值。 这对芯片提出了高能效、全天候续航等新需求。「最早的",
+    "url": "http://www.geekpark.net/news/371113",
+    "published": "Mon, 28 Sep 2026 17:15:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-28"
@@ -390,36 +410,6 @@
     "fetchedAt": "2026-09-28"
   },
   {
-    "source": "极客公园",
-    "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
-    "summary": "最近有个创业者找我交流的时候，聊到团队接下来还要做进一步的融资，很认真地问了我一个问题：这次做对外传播也是希望能对融资有帮助，你有什么建议？ 我当时听完，先跟他说了两个目睹了好几代创业者后的观察： 首先，咱要个心理预期：绝大部分情况下，第一笔投资是你最好拿的那笔钱。 第二，凡是能被公关轻易影响的投资人，大概率都不是对你未来最至关重要的投资人。 真正愿意笃定你，给你出大钱的机构，以及真正愿意押上青春和自身能力的顶级人才，从来都不是被 PR 搞定的。 看过那么多创业者的历程后，我发现那些优秀 投资人 要被打动， 底层 其实 有个「A-B-C 连线」的方法论 。然后我就给他讲了当年王兴的故事。 回到当年千团大战最热的时候，所有对手都在疯狂投站台广告、发补贴、烧钱抢地盘，甚至当时的「领头羊」拉手网都自信到倒排出了上市日期。王兴却说：「团购投广告和烧钱这事算不过账，商业模式跑不通，不能这么花。」 那时候整个行业包括他公司内部都是一片质疑：你不烧钱，别人一统江湖了，你账上留着钱有什么用？大家都觉得美团在这场竞争中悬了。 后来王兴甚至为了证明公司不是没钱烧，被逼得发布会上直接亮出了银行流水单——账上",
-    "url": "http://www.geekpark.net/news/370611",
-    "published": "Sat, 19 Sep 2026 12:10:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-28"
-  },
-  {
-    "source": "极客公园",
-    "title": "传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道",
-    "summary": "谷歌最新旗舰模型 Gemini 4 Pro 疑似「偷跑」，多项指标领先 Astra 和 Fable 5.1 9 月 18 日，Google 下一代旗舰模型 Gemini 4 Pro 疑似正以「gemini-3.8-flash」名称「偷跑」上线。据反馈，谷歌在 Arena 等基准平台上测试了其最强 Gemini 4 Pro 模型，内部开发代号为 Argon。 网上流传的一张测试图显示，该模型在智能体编程测试 DeepSWE v1.1 中得分超过 88%，在 Terminal-bench 2.1 和 OSWorld 2.0 中分别获得 95.3%和 86.8%的成绩，高于 GPT-6 Astra 和 Claude Fable 5.1。不过，该图片的来源、测试条件及完整结果尚未公开，相关分数暂时无法独立验证。（来源：华尔街见闻） 苹果回应 iPhone Duo 维修费达 8000 元传闻：具体价格尚未公布 9 月 18 日消息，针对苹果首款折叠屏手机 iPhone Duo 维修费用可能达到 8000 元的传闻，苹果官方维修人员回应称，该产品尚未开启预售，目前没有具体维修价格，苹果一般会在新机",
-    "url": "http://www.geekpark.net/news/370608",
-    "published": "Sat, 19 Sep 2026 08:01:42 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-28"
-  },
-  {
-    "source": "极客公园",
-    "title": "AI 硬件创业者，疯狂涌入手机的背面",
-    "summary": "头图来源：产品小红书账号、官网 过去一年，AI 硬件创业者开始扎堆手机背面。 Plaud 的 AI 录音卡累计出货突破百万台。2026 年 6 月，Plaud 宣布 ARR 达到 1 亿美元、服务超过 200 万专业用户；截至 9 月，公司最新披露的全球用户数已超过 250 万。另一边，做磁吸电子纸屏的阅星曈完成近 5000 万元 A 轮追加融资，顺为、经纬、博裕和小红书等老股东继续跟投；极稚科技则称，其无源墨水屏手机壳已经卖出超过 14 万只，其中八成销往海外。 销量和融资之外，新的产品还在不断冒出来。Flowtica 在 IFA 展出集录音、电子纸和会议待办于一体的 Verso；获得线性资本天使投资的 NOOKLAB，准备推出支持持续收音的 AI 随身屏 Moonphase Flip；极稚科技也计划用 Sloth 从静态墨水屏进入 OLED、麦克风和虚拟宠物。 大厂的动作更快。钉钉、出门问问、科大讯飞和 360 相继进入 AI 录音卡市场；荣耀、海信和影石，则分别从磁吸副屏、可拆卸电子纸和影像配件的方向试探手机背面的可能性。与此同时，华强北已经把基础录音卡的价格压到一两百元。 一个",
-    "url": "http://www.geekpark.net/news/370610",
-    "published": "Fri, 18 Sep 2026 22:07:09 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-28"
-  },
-  {
     "source": "爱范儿",
     "title": "百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测",
     "summary": "一份保密协议，一部失踪的手机，这次我们不只介绍荣耀Magic9 Pro Max，而是用它拍一场关于谁拿了它的电影。所有线索都在画面里——至少，一开始我们是这么以为的。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -435,6 +425,16 @@
     "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
     "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
     "published": "Sun, 27 Sep 2026 01:40:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-28"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei reportedly weighing a new “Xingyao” value-focused phone brand for November",
+    "summary": "Huawei is reportedly preparing a new smartphone sub-brand called “Xingyao,” which could launch as early as November. The nova series is also said to be moving from a product line toward an independent sub-brand. Huawei’s terminal business had not confirmed the plan by publication time. Customer service said it had no specific information and directed […]",
+    "url": "https://technode.com/2026/09/28/huawei-reportedly-weighing-a-new-xingyao-value-focused-phone-brand-for-november/",
+    "published": "Mon, 28 Sep 2026 07:25:30 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-28"
@@ -640,31 +640,11 @@
     "fetchedAt": "2026-09-28"
   },
   {
-    "source": "TechNode",
-    "title": "Nubia NaviX Ultra, the second-generation Doubao Phone, launches from RMB 5,999",
-    "summary": "Nubia has launched the NaviX Ultra, the second-generation Doubao Phone, with the 12GB + 512GB model priced at RMB 5,999 and a government-subsidy price starting at RMB 5,499. The 16GB + 512GB and 16GB + 1TB versions cost RMB 6,499 and RMB 7,499, respectively. [ZTE, in Chinese] The phone is the first mass-market device to […]",
-    "url": "https://technode.com/2026/09/17/nubia-navix-ultra-second-generation-doubao-phone-launches/",
-    "published": "Thu, 17 Sep 2026 09:43:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-28"
-  },
-  {
-    "source": "TechNode",
-    "title": "BEYOND Expo Upgrades to BEYOND as Asia’s Most Dynamic Tech Festival, Returning to Macao on 26–29 May 2027",
-    "summary": "BEYOND today announced that its flagship annual event will return to The Venetian Macao Cotai Expo from May 26-29, 2027, with a refreshed global identity under the BEYOND brand. Previously known as BEYOND Expo, the move to BEYOND reflects the event’s evolution since its launch in 2021—from a technology exhibition into one of Asia’s most […]",
-    "url": "https://technode.com/2026/09/17/beyond-upgrades-to-beyond-asias-most-dynamic-tech-festival-returning-to-macao-on-26-29-may-2027/",
-    "published": "Thu, 17 Sep 2026 02:59:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-28"
-  },
-  {
-    "source": "TechNode",
-    "title": "The AI Boom Has a Bandwidth Problem",
-    "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The popular story of artificial intelligence begins with the processor. Bigger models require more GPUs, more power and ever-larger data centers. Yet once thousands of accelerators are assembled into a single computing cluster, another problem emerges: the chips must constantly exchange enormous volumes […]",
-    "url": "https://technode.com/2026/09/16/the-ai-boom-has-a-bandwidth-problem/",
-    "published": "Wed, 16 Sep 2026 08:15:09 +0000",
+    "source": "The Verge",
+    "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+    "summary": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera […]",
+    "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+    "published": "2026-09-28T04:00:36-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-09-28"
@@ -681,58 +661,30 @@
   },
   {
     "source": "微博",
-    "title": "#荣耀Magic9系列上手评测#",
+    "title": "#荣耀Magic9价格太香了#",
     "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9系列上手评测%23",
+    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9价格太香了%23",
     "published": "2026-09-28",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-28",
     "meta": {
-      "hotValue": 352198,
-      "rank": 10
+      "hotValue": 242469,
+      "rank": 25
     }
   },
   {
     "source": "微博",
-    "title": "#荣耀Magic9值不值得买#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9值不值得买%23",
+    "title": "#荣耀Magic9三个杯怎么选#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9三个杯怎么选%23",
     "published": "2026-09-28",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-28",
     "meta": {
-      "hotValue": 293195,
-      "rank": 20
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#肖战荣耀Magic9天选搭子#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23肖战荣耀Magic9天选搭子%23",
-    "published": "2026-09-28",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-28",
-    "meta": {
-      "hotValue": 288294,
-      "rank": 22
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#荣耀Magic9联名ARRI#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23荣耀Magic9联名ARRI%23",
-    "published": "2026-09-28",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-28",
-    "meta": {
-      "hotValue": 180099,
-      "rank": 43
+      "hotValue": 230129,
+      "rank": 30
     }
   },
   {
@@ -745,8 +697,8 @@
     "type": "community",
     "fetchedAt": "2026-09-28",
     "meta": {
-      "replies": 85,
-      "node": "程序员"
+      "replies": 106,
+      "node": "创造者"
     }
   }
 ]
