@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "clairewagner91"
+          "linkedin": "leo-guinan-4211761bb"
         },
         "careerPage": null,
         "jobListings": []
@@ -669,6 +669,7 @@
           "name@domain.com",
           "u003esupport@meshy.ai",
           "careers@meshy.ai",
+          "meshy-webapp@v2026.09.29.post",
           "jane@company.com"
         ],
         "socials": {
@@ -1528,7 +1529,9 @@
           "github": "JuliaComputing"
         },
         "careerPage": "https://juliahub.com/jobs",
-        "jobListings": []
+        "jobListings": [
+          "JuliaHub - Hardware Engineering at the Speed of Software"
+        ]
       },
       "github": {},
       "hiring": [],
@@ -1543,7 +1546,13 @@
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
-          "info@latitudemedia.com"
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
         ],
         "socials": {
           "twitter": "intent",
