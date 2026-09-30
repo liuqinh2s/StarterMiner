@@ -71,50 +71,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "基金市场概况与资产配置观点 （09.21—09.27）",
-    "summary": "A股市场上周主要股指涨跌不一，日均成交额增加，融资余额减少，房地产等行业表现较好。腾讯济安指数作为价值投资导向的指标，旨在发掘市场中的价值低估个股，值得投资者关注。",
-    "url": "https://www.tmtpost.com/8156868.html",
-    "published": "Wed, 30 Sep 2026 10:47:37 +0800",
+    "title": "出海迪拜进入“第三阶段”：决策权再分配｜出海参考",
+    "summary": "算法出海后，生意还要在当地重新组织一遍。",
+    "url": "https://www.tmtpost.com/8157087.html",
+    "published": "Wed, 30 Sep 2026 16:50:13 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-30"
   },
   {
     "source": "钛媒体",
-    "title": "A股行业估值分化：高PE与低PE背后的三层逻辑",
-    "summary": "正偏离越高，说明市场给予该细分行业的估值溢价越明显；负偏离越深，则说明其相对父级处在估值折价区间。真正值得关注的，是偏离背后的盈利质量、产业景气和样本结构。",
-    "url": "https://www.tmtpost.com/8156791.html",
-    "published": "Wed, 30 Sep 2026 09:57:13 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-30"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（9月30日）",
-    "summary": "AMD以82亿美元收购李飞飞创办的World Labs，标志AI芯片竞争从算力转向模型理解能力。英伟达联合Anthropic发布Open Agent Safety Platform，将AI安全从模型自觉转向基础设施强制执行。OpenAI因安全测试不合格取消GPT-6.1 Astra发布，为行业首次因安全门杀出货。",
-    "url": "https://www.tmtpost.com/8156593.html",
-    "published": "Wed, 30 Sep 2026 08:23:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-30"
-  },
-  {
-    "source": "钛媒体",
-    "title": "【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
-    "summary": "2家A股公司今起停牌；DeepSeek Harness v0.2预览版正式发布；比亚迪选举王传福为第九届董事会董事长；荣耀Magic9全系列获“首批AI智能体手机”入网认证；中国气象局监测11月前后将形成超强厄尔尼诺事件；中美俄元首将于深圳APEC期间会晤？外交部回应。",
-    "url": "https://www.tmtpost.com/8156446.html",
-    "published": "Wed, 30 Sep 2026 07:20:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-09-30"
-  },
-  {
-    "source": "钛媒体",
-    "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
-    "summary": "金银河此时融资扩产，赌的是三年后的量产线招标，而非今年的中试订单。",
-    "url": "https://www.tmtpost.com/8156391.html",
-    "published": "Tue, 29 Sep 2026 21:43:14 +0800",
+    "title": "李飞飞上岸，具身创业者慌了",
+    "summary": "世界模型，失去“旗手”。",
+    "url": "https://www.tmtpost.com/8156492.html",
+    "published": "Wed, 30 Sep 2026 15:41:08 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-09-30"
@@ -500,6 +470,206 @@
     "fetchedAt": "2026-09-30"
   },
   {
+    "source": "TechNode",
+    "title": "ByteDance’s Doubao reportedly preparing personal AI agent, codenamed Spell and tested since April",
+    "summary": "ByteDance’s AI assistant Doubao is reportedly accelerating work on a new personal AI agent. According to sources, the project began internal testing as early as April and was previously known internally as Spell. Product development has recently picked up pace, with a public launch expected in the near future. The move could mark a shift […]",
+    "url": "https://technode.com/2026/09/30/bytedances-doubao-reportedly-preparing-personal-ai-agent-codenamed-spell-and-tested-since-april/",
+    "published": "Wed, 30 Sep 2026 03:00:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent tests AI gaming companion that responds to live gameplay",
+    "summary": "Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion. It reportedly supports voice chat and can recognize game screens to respond to what is happening in a game. An official Tencent questionnaire confirms the test recruitment but does not detail the product’s capabilities or launch […]",
+    "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
+    "published": "Tue, 29 Sep 2026 06:55:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
+    "summary": "China shipped more than 19,000 humanoid robots in the first half of 2026, accounting for 77.9% of global shipments, according to figures attributed to IDC. Global shipments reached nearly 25,000 units, up 432.1% year over year. IDC also raised its forecast for global humanoid robot shipments in 2030 to more than 750,000 units. [IT Home, […]",
+    "url": "https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/",
+    "published": "Tue, 29 Sep 2026 06:55:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Insta360 explores smart glasses and mirrorless cameras",
+    "summary": "Insta360 is experimenting with smart glasses and developing two mirrorless cameras as it expands beyond 360-degree cameras. Co-founder Max Richter told The Verge that the glasses would focus on making it easier to capture high-quality images, rather than competing on AI assistant features. The glasses remain experimental, and Insta360 has not announced a product name […]",
+    "url": "https://technode.com/2026/09/29/insta360-explores-smart-glasses-and-mirrorless-cameras/",
+    "published": "Tue, 29 Sep 2026 06:55:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "SenseTime Launches SenseMart OS to Bring Embodied Intelligence Into Retail",
+    "summary": "Editor’s note: This article was written by Lucia, a TechNode reporter. On Sept. 23, SenseTime launched SenseMart OS at its Shanghai headquarters, positioning it as a physical operating system for retail. The system connects heterogeneous robots, retail equipment, and commercial operations, offering operators, brands, and venues a deployable, operable, and replicable embodied-retail solution. At the […]",
+    "url": "https://technode.com/2026/09/29/sensetime-launches-sensemart-os-embodied-intelligence-retail/",
+    "published": "Tue, 29 Sep 2026 04:00:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei reportedly weighing a new “Xingyao” value-focused phone brand for November",
+    "summary": "Huawei is reportedly preparing a new smartphone sub-brand called “Xingyao,” which could launch as early as November. The nova series is also said to be moving from a product line toward an independent sub-brand. Huawei’s terminal business had not confirmed the plan by publication time. Customer service said it had no specific information and directed […]",
+    "url": "https://technode.com/2026/09/28/huawei-reportedly-weighing-a-new-xingyao-value-focused-phone-brand-for-november/",
+    "published": "Mon, 28 Sep 2026 07:25:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "A Game Studio in Minutes: JIYI SOON Aims to Redefine Game Creation with AI",
+    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
+    "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation/",
+    "published": "Fri, 25 Sep 2026 02:42:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Zhipu says ZCode removed repository-upload paths after data controversy",
+    "summary": "Zhipu said it has completed a security overhaul of its ZCode AI coding tool after users raised concerns that the software could upload project data to a cloud server without clear consent. ZCode version 3.14.0 removed the RepoWiki feature and the paths used to generate and upload local repository snapshots, while the source code has […]",
+    "url": "https://technode.com/2026/09/24/zhipu-says-zcode-removed-repository-upload-paths-after-data-controversy/",
+    "published": "Thu, 24 Sep 2026 06:05:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi launches 18 Pro with 2nm Snapdragon platform and AI back display",
+    "summary": "Xiaomi has launched the Xiaomi 18 Pro in China, with prices starting at RMB 5,999. The phone is the first to use Qualcomm’s sixth-generation Snapdragon 8 Elite platform built on a 2nm process, with a peak CPU frequency of 5GHz and improved AI performance. The Xiaomi 18 Pro also features a 7,000mAh battery, dual 200-megapixel […]",
+    "url": "https://technode.com/2026/09/24/xiaomi-launches-18-pro-with-2nm-snapdragon-platform-and-ai-back-display/",
+    "published": "Thu, 24 Sep 2026 05:37:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "The Race to Mass-Produce Silicon Photonics",
+    "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extraordinary amounts of electricity. But as those clusters expand, computing power is becoming only part of the problem. The machines […]",
+    "url": "https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/",
+    "published": "Wed, 23 Sep 2026 15:17:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "How AI Startups Can Attract Funding and Talent in Their First Year",
+    "summary": "On September 16, TechNode joined Asia Capital Exchange (ACE), Lighthouse Capital and BEYOND in Beijing to host “ACE Gathering x Light Spot: The First Year of AI Startups,” a closed-door event. The roundtable was moderated by Qiao Jianlong, editor of AI Insider’s Demo Club. Joining him were Zheng Jinliang, co-founder of BASAL INTELLIGENCE (本溯智能); Song […]",
+    "url": "https://technode.com/2026/09/23/how-ai-startups-attract-funding-talent-first-year/",
+    "published": "Wed, 23 Sep 2026 09:49:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance reportedly cuts Doubao’s general-session team after app passes 200 million DAU",
+    "summary": "ByteDance is reducing the size of Doubao’s general Session team by about half, according to a LatePost report. The team previously had roughly 50 people and handled chat-product strategy and evaluation. Some employees will move to Doubao’s monetization and Feishu teams, while others may be laid off. Doubao’s Product Posttrain-Chat team is also being reduced […]",
+    "url": "https://technode.com/2026/09/23/bytedance-doubao-general-session-team-cuts/",
+    "published": "Wed, 23 Sep 2026 09:43:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek details DSec sandbox infrastructure for agent training",
+    "summary": "A paper posted to arXiv details DeepSeek Elastic Compute, or DSec, a sandbox platform designed for large-scale agent training. DeepSeek founder Liang Wenfeng is listed among the paper’s 130-plus authors. DSec unifies function-call, container, microVM and full-VM sandboxes, while coordinating their lifecycle with reinforcement learning workloads. The paper says a production-scale unit spans around 160 […]",
+    "url": "https://technode.com/2026/09/23/deepseek-dsec-agent-training-sandbox-infrastructure/",
+    "published": "Wed, 23 Sep 2026 09:14:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple adds China-only motion-data restriction in iOS 27.2 beta",
+    "summary": "Apple’s second beta of iOS 27.2 adds a “Restrict Motion Data” control under Settings > Privacy & Security > Motion & Fitness. The setting lets users block individual apps from accessing motion sensors such as the accelerometer and gyroscope. The feature could reduce apps’ ability to trigger “shake-to-open” ad redirects, a common complaint among Chinese […]",
+    "url": "https://technode.com/2026/09/23/apple-ios-27-2-china-motion-data-restriction/",
+    "published": "Wed, 23 Sep 2026 09:13:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Bambu Lab launches R1 55W CO₂ laser cutter in first move beyond 3D printing",
+    "summary": "Bambu Lab has launched the R1, a 55W CO₂ laser cutter and engraver that marks the company’s first product line beyond 3D printing. The machine can cut up to 18mm black walnut plywood and 20mm acrylic, while a conveyor accessory allows it to process materials up to 3 meters long. The R1 starts at $2,499 […]",
+    "url": "https://technode.com/2026/09/23/bambu-lab-r1-co2-laser-cutter/",
+    "published": "Wed, 23 Sep 2026 08:45:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "T-Head unveils Zhenwu V900 AI chip in Alibaba’s push to expand its AI infrastructure stack",
+    "summary": "T-Head, Alibaba’s chip subsidiary, today unveiled its next-generation Zhenwu V900 AI chip for both training and inference at the 2026 Apsara Conference in Hangzhou. The company also outlined its roadmap for future Yitian server CPUs. The announcements show T-Head expanding beyond individual AI accelerators toward a full-stack chip strategy covering computing, storage, and networking as […]",
+    "url": "https://technode.com/2026/09/22/t-head-unveils-zhenwu-v900-ai-chip-in-alibabas-push-to-expand-its-ai-infrastructure-stack/",
+    "published": "Tue, 22 Sep 2026 12:33:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "vivo launches X500 Pro series with Dimensity 9600 Pro, starting at RMB 6,499",
+    "summary": "vivo has launched the X500 Pro series, comprising the X500 Pro and X500 Pro Max, with prices starting at RMB 6,499. The phones are the first to use MediaTek’s Dimensity 9600 Pro flagship chipset, according to vivo. The X500 Pro has a 6.36-inch display, while the Pro Max uses a 6.85-inch panel. Both models support […]",
+    "url": "https://technode.com/2026/09/22/vivo-launches-x500-pro-series-with-dimensity-9600-pro-starting-at-rmb-6499/",
+    "published": "Tue, 22 Sep 2026 07:02:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba reportedly testing QwenBook as a tablet-like agent computer",
+    "summary": "Alibaba Cloud’s Wuying team is developing QwenBook, an AI device shaped more like a tablet and designed around native agent functions, DoNews, citing LatePost, reported. The team is defining the product and hardware in-house while bringing Wuying’s cloud-computer and device-cloud capabilities into the project. The early-stage prototype is aimed at office work and currently connects […]",
+    "url": "https://technode.com/2026/09/22/alibaba-reportedly-testing-qwenbook-as-a-tablet-like-agent-computer/",
+    "published": "Tue, 22 Sep 2026 07:01:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi schedules Xiaomi 18 Pro series launch for Sept. 23",
+    "summary": "Xiaomi CEO Lei Jun has announced that the Xiaomi 18 Pro series will launch at 7 p.m. on Sept. 23. The announcement positions the lineup as a dual-size imaging flagship series. Xiaomi’s preview also highlights a variable rear display and the debut of Xiaomi HyperOS 4. The announcement did not disclose pricing, chip details or […]",
+    "url": "https://technode.com/2026/09/21/xiaomi-schedules-xiaomi-18-pro-series-launch-for-sept-23/",
+    "published": "Mon, 21 Sep 2026 05:34:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
+    "summary": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered assistant. The smart home hub, a new product […]",
+    "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+    "published": "2026-09-30T07:11:24-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
     "source": "The Verge",
     "title": "Elon Musk’s AI-powered Grokipedia is updating again",
     "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a […]",
@@ -521,8 +691,28 @@
   },
   {
     "source": "Hacker News",
+    "title": "Japan's fusion energy startup to begin power-on tests at pilot reactor in 2027",
+    "summary": "Article URL: https://www.asahi.com/ajw/articles/16925398 Comments URL: https://news.ycombinator.com/item?id=49906354 Points: 4 # Comments: 0",
+    "url": "https://www.asahi.com/ajw/articles/16925398",
+    "published": "Wed, 30 Sep 2026 09:17:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I made my first $150 within 24 hour of launch",
+    "summary": "I built a native macOS utility that combines process/resource diagnostics with application-aware cleanup. called MacSentinel The app is written in Swift/SwiftUI and the diagnostics and cleanup decisions run locally. Comments URL: https://news.ycombinator.com/item?id=49905437 Points: 1 # Comments: 1",
+    "url": "https://news.ycombinator.com/item?id=49905437",
+    "published": "Wed, 30 Sep 2026 07:07:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-09-30"
+  },
+  {
+    "source": "Hacker News",
     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/ Comments URL: https://news.ycombinator.com/item?id=49901672 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/ Comments URL: https://news.ycombinator.com/item?id=49901672 Points: 4 # Comments: 1",
     "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
     "published": "Tue, 29 Sep 2026 22:29:44 +0000",
     "lang": "en",
@@ -532,7 +722,7 @@
   {
     "source": "Hacker News",
     "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value Comments URL: https://news.ycombinator.com/item?id=49897336 Points: 41 # Comments: 13",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value Comments URL: https://news.ycombinator.com/item?id=49897336 Points: 42 # Comments: 15",
     "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
     "published": "Tue, 29 Sep 2026 17:44:21 +0000",
     "lang": "en",
@@ -552,7 +742,7 @@
   {
     "source": "Hacker News",
     "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-    "summary": "Article URL: https://www.startup-nights.ch/event/ Comments URL: https://news.ycombinator.com/item?id=49889633 Points: 45 # Comments: 26",
+    "summary": "Article URL: https://www.startup-nights.ch/event/ Comments URL: https://news.ycombinator.com/item?id=49889633 Points: 47 # Comments: 26",
     "url": "https://www.startup-nights.ch/event/",
     "published": "Tue, 29 Sep 2026 07:49:12 +0000",
     "lang": "en",
@@ -700,37 +890,17 @@
     "fetchedAt": "2026-09-30"
   },
   {
-    "source": "Hacker News",
-    "title": "Drop Your Startup Ideas",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49872552 Points: 1 # Comments: 2",
-    "url": "https://news.ycombinator.com/item?id=49872552",
-    "published": "Mon, 28 Sep 2026 01:35:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We made our launch video with Claude Code (and open-sourced the tool)",
-    "summary": "Article URL: https://kiln.tech/blog/we_made_our_launch_video_in_claude_code Comments URL: https://news.ycombinator.com/item?id=49869834 Points: 1 # Comments: 0",
-    "url": "https://kiln.tech/blog/we_made_our_launch_video_in_claude_code",
-    "published": "Sun, 27 Sep 2026 19:10:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-09-30"
-  },
-  {
     "source": "V2EX",
-    "title": "这里技术向居多，有没有发现很多客户根本不懂技术，却能大把赚钱？",
-    "summary": "我经常向各种等级的老板推销 SAAS ，总会有一种油然而生的感觉，WTF 他为什么这都不懂还有顾客花大把钱买他的东西？",
-    "url": "https://www.v2ex.com/t/1245626",
-    "published": 1790685249,
+    "title": "程序员想创业求指教",
+    "summary": "最近在想创业做点什么 分析了下，如果一个人一个月付费 30,500 个人就是 15000 ，即可以满足生活。 所以想做一个垂类的什么服务，只要有超过 500 人愿意付费购买的服务或者内容即可。 所以，有什么软件或者需求可以做呢，大佬们给我点启发呀",
+    "url": "https://www.v2ex.com/t/1245736",
+    "published": 1790735231,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "replies": 37,
-      "node": "职场话题"
+      "replies": 57,
+      "node": "程序员"
     }
   },
   {
@@ -743,10 +913,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 3464,
-      "forks": 991,
+      "stars": 3834,
+      "forks": 1101,
       "language": "TypeScript",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Niko1221/Strata",
+    "summary": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "url": "https://github.com/Niko1221/Strata",
+    "published": "2026-09-24T16:40:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-30",
+    "meta": {
+      "stars": 2149,
+      "forks": 242,
+      "language": "C++",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -759,8 +945,8 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 2002,
-      "forks": 206,
+      "stars": 2048,
+      "forks": 214,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -775,25 +961,9 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 1925,
+      "stars": 1947,
       "forks": 123,
       "language": "Rust",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Niko1221/Strata",
-    "summary": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-    "url": "https://github.com/Niko1221/Strata",
-    "published": "2026-09-24T16:40:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-30",
-    "meta": {
-      "stars": 1902,
-      "forks": 216,
-      "language": "C++",
       "createdDaysAgo": 5
     }
   },
@@ -807,26 +977,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 1794,
-      "forks": 115,
+      "stars": 1848,
+      "forks": 122,
       "language": "TypeScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "firelex/jeff",
-    "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "url": "https://github.com/firelex/jeff",
-    "published": "2026-09-28T16:18:39Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-30",
-    "meta": {
-      "stars": 1082,
-      "forks": 43,
-      "language": "Python",
-      "createdDaysAgo": 1
     }
   },
   {
@@ -839,10 +993,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 1070,
-      "forks": 176,
+      "stars": 1246,
+      "forks": 195,
       "language": "Kotlin",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "firelex/jeff",
+    "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+    "url": "https://github.com/firelex/jeff",
+    "published": "2026-09-28T16:18:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-30",
+    "meta": {
+      "stars": 1141,
+      "forks": 47,
+      "language": "Python",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -855,10 +1025,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 988,
-      "forks": 64,
+      "stars": 1028,
+      "forks": 65,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -871,10 +1041,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 944,
-      "forks": 111,
+      "stars": 1008,
+      "forks": 116,
       "language": null,
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -887,10 +1057,26 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 874,
-      "forks": 41,
+      "stars": 962,
+      "forks": 48,
       "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "feder-cr/dots",
+    "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "url": "https://github.com/feder-cr/dots",
+    "published": "2026-09-29T23:06:00Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-09-30",
+    "meta": {
+      "stars": 894,
+      "forks": 108,
+      "language": "Python",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -903,26 +1089,10 @@
     "type": "signal",
     "fetchedAt": "2026-09-30",
     "meta": {
-      "stars": 852,
-      "forks": 120,
+      "stars": 863,
+      "forks": 121,
       "language": "TypeScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "lemomo-ai/lemo-opuscar",
-    "summary": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "url": "https://github.com/lemomo-ai/lemo-opuscar",
-    "published": "2026-09-26T10:10:41Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-09-30",
-    "meta": {
-      "stars": 621,
-      "forks": 81,
-      "language": "JavaScript",
-      "createdDaysAgo": 3
     }
   }
 ]
