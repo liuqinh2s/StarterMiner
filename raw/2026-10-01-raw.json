@@ -71,30 +71,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "解禁在前、收购在后：华之杰4亿并购是转型还是托市",
-    "summary": "一场围绕估值游戏的并购",
-    "url": "https://www.tmtpost.com/8157486.html",
-    "published": "Wed, 30 Sep 2026 21:33:23 +0800",
+    "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+    "summary": "AI公司活成了它们最讨厌的样子。",
+    "url": "https://www.tmtpost.com/8157828.html",
+    "published": "Thu, 01 Oct 2026 16:16:17 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-01"
   },
   {
     "source": "钛媒体",
-    "title": "2026金融街论坛年会将于10月19日在京开幕",
-    "summary": "本届论坛年会将由主论坛、三场专题大会及十余场平行论坛活动组成，并举办多场投融资对接及文商旅体配套活动。",
-    "url": "https://www.tmtpost.com/8157454.html",
-    "published": "Wed, 30 Sep 2026 20:50:03 +0800",
+    "title": "48天签约又解约，7亿的合同有8亿风险，晨丰科技选择不玩了",
+    "summary": "储能项目融资遇阻，晨丰科技48天终止7.12亿EPC合同。",
+    "url": "https://www.tmtpost.com/8157846.html",
+    "published": "Thu, 01 Oct 2026 16:05:27 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-01"
   },
   {
     "source": "钛媒体",
-    "title": "先陪伴还是先干活？家庭机器人的商业分岔路口 ｜出海参考",
-    "summary": "具身机器人如何进入家庭，又靠什么支撑持续经营？启元的选择折射出这个行业尚未解开的几道题。",
-    "url": "https://www.tmtpost.com/8157194.html",
-    "published": "Wed, 30 Sep 2026 20:17:02 +0800",
+    "title": "江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节",
+    "summary": "电力AI具身智能订单爆发，利润滞后，商机藏于配套赛道。",
+    "url": "https://www.tmtpost.com/8157844.html",
+    "published": "Thu, 01 Oct 2026 16:05:23 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "钛媒体",
+    "title": "豪掷82亿美元，芯片巨头押注的世界模型究竟是什么",
+    "summary": "当AI开始生成“世界”，影音游内容正在被颠覆。",
+    "url": "https://www.tmtpost.com/8157833.html",
+    "published": "Thu, 01 Oct 2026 16:04:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-01"
@@ -661,6 +671,16 @@
   },
   {
     "source": "The Verge",
+    "title": "Huawei made a whole camera to attach to its latest phone",
+    "summary": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could never match. Today, Huawei one-upped everybody with the add-on lens for its Mate 90 Pro Max flagship, which is not only a comically huge […]",
+    "url": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+    "published": "2026-10-01T06:15:48-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "The Verge",
     "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
     "summary": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other […]",
     "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
@@ -670,45 +690,231 @@
     "fetchedAt": "2026-10-01"
   },
   {
-    "source": "微博",
-    "title": "#Mate90全系搭载旗舰韬芯片#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23Mate90全系搭载旗舰韬芯片%23",
-    "published": "2026-10-01",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "Tryon X LA Fam Amsterdam Launch",
+    "summary": "Article URL: https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy Comments URL: https://news.ycombinator.com/item?id=49919673 Points: 1 # Comments: 0",
+    "url": "https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy",
+    "published": "Thu, 01 Oct 2026 09:47:07 +0000",
+    "lang": "en",
     "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Coding Startup Cognition Hits $1B in Annualized Revenue",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue Comments URL: https://news.ycombinator.com/item?id=49919121 Points: 1 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
+    "published": "Thu, 01 Oct 2026 08:20:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built Goodreads for startup founders (with Grok)",
+    "summary": "Article URL: https://founderread.com/ Comments URL: https://news.ycombinator.com/item?id=49916851 Points: 2 # Comments: 0",
+    "url": "https://founderread.com/",
+    "published": "Thu, 01 Oct 2026 02:10:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Goldman Sachs to Launch Voting Instruction Program",
+    "summary": "Article URL: https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-to-launch-voting-instruction-program Comments URL: https://news.ycombinator.com/item?id=49916204 Points: 3 # Comments: 0",
+    "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-to-launch-voting-instruction-program",
+    "published": "Thu, 01 Oct 2026 00:24:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Drone startup tied to Trump sons aims to bring Ukrainian tech to US",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/ Comments URL: https://news.ycombinator.com/item?id=49912719 Points: 5 # Comments: 0",
+    "url": "https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/",
+    "published": "Wed, 30 Sep 2026 18:43:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all m",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "published": "Wed, 30 Sep 2026 17:37:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Web browsers phoning home on launch",
+    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/10.html Comments URL: https://news.ycombinator.com/item?id=49911354 Points: 4 # Comments: 0",
+    "url": "https://lapcatsoftware.com/articles/2026/9/10.html",
+    "published": "Wed, 30 Sep 2026 16:49:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Wants to Build Nuclear-Powered Data Center on Public Land in Utah",
+    "summary": "Article URL: https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah Comments URL: https://news.ycombinator.com/item?id=49910765 Points: 2 # Comments: 1",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+    "published": "Wed, 30 Sep 2026 16:08:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Limereach – a launch board where you engage before you post",
+    "summary": "Most launch boards are just people dropping links and leaving. I built a launch board where you have to engage with other people's launches before you can post your own (give 3 upvotes and leave 1 comment). Comments URL: https://news.ycombinator.com/item?id=49908280 Points: 1 # Comments: 0",
+    "url": "https://limereach.com",
+    "published": "Wed, 30 Sep 2026 12:57:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Japan's fusion energy startup to begin power-on tests at pilot reactor in 2027",
+    "summary": "Article URL: https://www.asahi.com/ajw/articles/16925398 Comments URL: https://news.ycombinator.com/item?id=49906354 Points: 4 # Comments: 0",
+    "url": "https://www.asahi.com/ajw/articles/16925398",
+    "published": "Wed, 30 Sep 2026 09:17:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I made my first $150 within 24 hour of launch",
+    "summary": "I built a native macOS utility that combines process/resource diagnostics with application-aware cleanup. called MacSentinel The app is written in Swift/SwiftUI and the diagnostics and cleanup decisions run locally. Comments URL: https://news.ycombinator.com/item?id=49905437 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=49905437",
+    "published": "Wed, 30 Sep 2026 07:07:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/ Comments URL: https://news.ycombinator.com/item?id=49901672 Points: 4 # Comments: 1",
+    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+    "published": "Tue, 29 Sep 2026 22:29:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value Comments URL: https://news.ycombinator.com/item?id=49897336 Points: 44 # Comments: 15",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+    "published": "Tue, 29 Sep 2026 17:44:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What TypeSafe Got Right with the Jev Launch",
+    "summary": "Article URL: https://www.nibzard.com/jev-launch Comments URL: https://news.ycombinator.com/item?id=49891067 Points: 2 # Comments: 0",
+    "url": "https://www.nibzard.com/jev-launch",
+    "published": "Tue, 29 Sep 2026 10:52:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+    "summary": "Article URL: https://www.startup-nights.ch/event/ Comments URL: https://news.ycombinator.com/item?id=49889633 Points: 48 # Comments: 26",
+    "url": "https://www.startup-nights.ch/event/",
+    "published": "Tue, 29 Sep 2026 07:49:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Hyperfront end's official launch on devhunt is here",
+    "summary": "Article URL: https://devhunt.org/tool/hyperfrontend Comments URL: https://news.ycombinator.com/item?id=49889360 Points: 1 # Comments: 0",
+    "url": "https://devhunt.org/tool/hyperfrontend",
+    "published": "Tue, 29 Sep 2026 07:15:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Boeing's Starliner won't launch astronauts until 2028 (and may need new rocket)",
+    "summary": "Article URL: https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says Comments URL: https://news.ycombinator.com/item?id=49885228 Points: 1 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says",
+    "published": "Mon, 28 Sep 2026 22:17:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AMD to buy Fei-Fei Li's AI startup for $8B",
+    "summary": "Article URL: https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd Comments URL: https://news.ycombinator.com/item?id=49884163 Points: 4 # Comments: 1",
+    "url": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd",
+    "published": "Mon, 28 Sep 2026 20:51:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion Comments URL: https://news.ycombinator.com/item?id=49883752 Points: 4 # Comments: 3",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion",
+    "published": "Mon, 28 Sep 2026 20:17:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "summary": "Hey HN! We're Dudu and Topaz from Vespper ( https://vespper.com ). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It's currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of how the product works here: https://youtu.be/odKxsgPjzzw We came to work on this problem after spending a year building an AI document editor for pharma companies. Before that, Topaz(myself) was a senior SWE at Snyk, wo",
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+    "published": "Mon, 28 Sep 2026 17:34:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-01"
+  },
+  {
+    "source": "V2EX",
+    "title": "Gemini 4 出来了，吊打其他的公司啊",
+    "summary": "Gemini 4 出来了，吊打其他的公司啊 周三，该公司发布了 Gemini4Argon ，这是迄今为止最先进的人工智能模型，在编码、网络安全和复杂的专业工作方面提供了重大改进。 该公司表示，该模型在现实世界的软件工程方面创造了新的记录，在网络安 全方面并列第一，并在衡量金融、法律和其他专业任务绩效的另一项基准中 领先。 谷歌表示，Argon 已在公司内部用于优化其数据中心的内存，无需购买额外硬件即可释放数百 TB 的内存。量子计算研究人员也已利用了该模型。",
+    "url": "https://www.v2ex.com/t/1245940",
+    "published": 1790799912,
+    "lang": "zh",
+    "type": "community",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "hotValue": 398801,
-      "rank": 7
+      "replies": 22,
+      "node": "分享发现"
     }
   },
   {
-    "source": "微博",
-    "title": "#华为Mate90把芯片里的弯路走直了#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23华为Mate90把芯片里的弯路走直了%23",
-    "published": "2026-10-01",
+    "source": "V2EX",
+    "title": "最近迁移到 Catsxp 浏览器",
+    "summary": "从 Brave 切换到 Catsxp 了，主要原因有几点： 1 、Brave 的本地优化版，作者是中国人。一些小细节优化得比较好，比如垂直标签有树状结构。砍掉了 VPN/AI/钱包功能。AI/翻译功能装个豆包插件就完事。 2 、自带的翻译功能切换到了谷歌翻译，而不是 brave 翻译。 3 、密码/书签/扩展程序列表我用插件，不用浏览器自带的功能，可以无痛迁移。 -密码管理器（本地 Keepass+chromeIPass 浏览器插件） -书签及扩展程序列表同步：MarkBridge – Multi-Profile Sync",
+    "url": "https://www.v2ex.com/t/1245944",
+    "published": 1790811712,
     "lang": "zh",
-    "type": "news",
+    "type": "community",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "hotValue": 277506,
-      "rank": 22
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#余承东介绍华为mate90系列全系芯片#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23余承东介绍华为mate90系列全系芯片%23",
-    "published": "2026-10-01",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-01",
-    "meta": {
-      "hotValue": 187616,
-      "rank": 40
+      "replies": 22,
+      "node": "浏览器"
     }
   },
   {
@@ -721,8 +927,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 4167,
-      "forks": 1201,
+      "stars": 4299,
+      "forks": 1244,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -737,26 +943,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 1941,
-      "forks": 320,
+      "stars": 2014,
+      "forks": 329,
       "language": "Python",
       "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "dzhng/jevgrep",
-    "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-    "url": "https://github.com/dzhng/jevgrep",
-    "published": "2026-09-26T04:06:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-01",
-    "meta": {
-      "stars": 1914,
-      "forks": 127,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -769,26 +959,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 1551,
-      "forks": 194,
+      "stars": 1993,
+      "forks": 280,
       "language": "Swift",
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "firelex/jeff",
-    "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "url": "https://github.com/firelex/jeff",
-    "published": "2026-09-28T16:18:39Z",
+    "title": "dzhng/jevgrep",
+    "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "url": "https://github.com/dzhng/jevgrep",
+    "published": "2026-09-26T04:06:56Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 1203,
-      "forks": 51,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "stars": 1942,
+      "forks": 129,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -801,10 +991,42 @@
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 1155,
-      "forks": 63,
+      "stars": 1239,
+      "forks": 69,
       "language": "HTML",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "firelex/jeff",
+    "summary": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "url": "https://github.com/firelex/jeff",
+    "published": "2026-09-28T16:18:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-01",
+    "meta": {
+      "stars": 1228,
+      "forks": 55,
+      "language": "Python",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rehan-remade/universal-modder",
+    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "published": "2026-09-30T05:00:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-01",
+    "meta": {
+      "stars": 1192,
+      "forks": 83,
+      "language": "Python",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -817,10 +1039,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 1123,
-      "forks": 127,
+      "stars": 1174,
+      "forks": 130,
       "language": null,
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -833,10 +1055,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-01",
     "meta": {
-      "stars": 1071,
-      "forks": 67,
+      "stars": 1087,
+      "forks": 69,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
