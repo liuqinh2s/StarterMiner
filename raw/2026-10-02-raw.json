@@ -361,6 +361,56 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "published": "Fri, 02 Oct 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "published": "Fri, 02 Oct 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
+    "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "published": "Fri, 02 Oct 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
+    "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the […]",
+    "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+    "published": "Fri, 02 Oct 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
+    "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
+    "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+    "published": "Fri, 02 Oct 2026 13:23:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechCrunch",
     "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
     "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -370,308 +420,244 @@
     "fetchedAt": "2026-10-02"
   },
   {
-    "source": "TechCrunch",
-    "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-    "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-    "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-    "published": "Thu, 01 Oct 2026 21:55:22 +0000",
+    "source": "TechNode",
+    "title": "Beyond the Drone: How XAG Is Betting on Autonomous Farming",
+    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
+    "url": "https://technode.com/2026/10/02/beyond-the-drone-bet-on-the-autonomous-farm/",
+    "published": "Fri, 02 Oct 2026 03:05:54 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
-    "source": "TechCrunch",
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "published": "Thu, 01 Oct 2026 19:18:03 +0000",
+    "source": "TechNode",
+    "title": "Huawei launches Mate 90 series with new Kirin chips across the lineup",
+    "summary": "Huawei today held its autumn product launch event in Shanghai, unveiling the Mate 90 series. The series includes five models: the Mate 90, Mate 90 Pro, Mate 90 Pro Max, Mate 90 Pro Max Collector’s Edition, and Mate 90 RS Ultimate Design. Prices range from RMB 5,999 ($895) to RMB 12,999 ($1,939). The main upgrades […]",
+    "url": "https://technode.com/2026/10/01/huawei-launches-mate-90-series-with-new-kirin-chips-across-the-lineup/",
+    "published": "Thu, 01 Oct 2026 11:42:48 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
-    "source": "TechCrunch",
-    "title": "This startup wants to turn idle car inventory into rental revenue",
-    "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
-    "published": "Thu, 01 Oct 2026 17:09:00 +0000",
+    "source": "TechNode",
+    "title": "BYD plans overseas launch event for Yangwang luxury brand",
+    "summary": "BYD plans to hold an overseas launch event for its Yangwang luxury vehicle brand, the company said in a record of its September 29 shareholder meeting. It did not give a date or location for the event. The company also said it expects its Brazil plant to produce about 250,000 vehicles this year and its […]",
+    "url": "https://technode.com/2026/09/30/byd-plans-overseas-launch-event-for-yangwang-luxury-brand/",
+    "published": "Wed, 30 Sep 2026 15:16:22 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
-    "source": "TechCrunch",
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "published": "Thu, 01 Oct 2026 14:00:00 +0000",
+    "source": "TechNode",
+    "title": "ByteDance reportedly tests standalone Doubao personal assistant app",
+    "summary": "ByteDance is reportedly testing a personal AI assistant tied to Doubao and plans to release it as a standalone app. The product has been given the tentative Chinese name Xiaodou (小豆), according to a report cited by IT Home. The app remains in internal testing, and its public name and features may change before launch. […]",
+    "url": "https://technode.com/2026/09/30/bytedance-reportedly-tests-standalone-doubao-personal-assistant-app/",
+    "published": "Wed, 30 Sep 2026 15:15:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
-    "source": "TechCrunch",
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+    "source": "TechNode",
+    "title": "Ant Group launches Ling-3.1-flash with 560 billion parameters",
+    "summary": "Ant Group’s InclusionAI has launched Ling-3.1-flash, a language model with 560 billion total parameters and about 25 billion activated for each token. The company is positioning it for agent tasks, search, office software and specialist applications. The model is designed for a context window of up to one million tokens, but its current two-week free […]",
+    "url": "https://technode.com/2026/09/30/ant-group-launches-ling-3-1-flash-with-560-billion-parameters/",
+    "published": "Wed, 30 Sep 2026 15:12:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
-    "source": "TechCrunch",
-    "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-    "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
-    "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-    "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+    "source": "TechNode",
+    "title": "ByteDance’s Doubao reportedly preparing personal AI agent, codenamed Spell and tested since April",
+    "summary": "ByteDance’s AI assistant Doubao is reportedly accelerating work on a new personal AI agent. According to sources, the project began internal testing as early as April and was previously known internally as Spell. Product development has recently picked up pace, with a public launch expected in the near future. The move could mark a shift […]",
+    "url": "https://technode.com/2026/09/30/bytedances-doubao-reportedly-preparing-personal-ai-agent-codenamed-spell-and-tested-since-april/",
+    "published": "Wed, 30 Sep 2026 03:00:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent tests AI gaming companion that responds to live gameplay",
+    "summary": "Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion. It reportedly supports voice chat and can recognize game screens to respond to what is happening in a game. An official Tencent questionnaire confirms the test recruitment but does not detail the product’s capabilities or launch […]",
+    "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
+    "published": "Tue, 29 Sep 2026 06:55:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
+    "summary": "China shipped more than 19,000 humanoid robots in the first half of 2026, accounting for 77.9% of global shipments, according to figures attributed to IDC. Global shipments reached nearly 25,000 units, up 432.1% year over year. IDC also raised its forecast for global humanoid robot shipments in 2030 to more than 750,000 units. [IT Home, […]",
+    "url": "https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/",
+    "published": "Tue, 29 Sep 2026 06:55:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Insta360 explores smart glasses and mirrorless cameras",
+    "summary": "Insta360 is experimenting with smart glasses and developing two mirrorless cameras as it expands beyond 360-degree cameras. Co-founder Max Richter told The Verge that the glasses would focus on making it easier to capture high-quality images, rather than competing on AI assistant features. The glasses remain experimental, and Insta360 has not announced a product name […]",
+    "url": "https://technode.com/2026/09/29/insta360-explores-smart-glasses-and-mirrorless-cameras/",
+    "published": "Tue, 29 Sep 2026 06:55:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "SenseTime Launches SenseMart OS to Bring Embodied Intelligence Into Retail",
+    "summary": "Editor’s note: This article was written by Lucia, a TechNode reporter. On Sept. 23, SenseTime launched SenseMart OS at its Shanghai headquarters, positioning it as a physical operating system for retail. The system connects heterogeneous robots, retail equipment, and commercial operations, offering operators, brands, and venues a deployable, operable, and replicable embodied-retail solution. At the […]",
+    "url": "https://technode.com/2026/09/29/sensetime-launches-sensemart-os-embodied-intelligence-retail/",
+    "published": "Tue, 29 Sep 2026 04:00:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei reportedly weighing a new “Xingyao” value-focused phone brand for November",
+    "summary": "Huawei is reportedly preparing a new smartphone sub-brand called “Xingyao,” which could launch as early as November. The nova series is also said to be moving from a product line toward an independent sub-brand. Huawei’s terminal business had not confirmed the plan by publication time. Customer service said it had no specific information and directed […]",
+    "url": "https://technode.com/2026/09/28/huawei-reportedly-weighing-a-new-xingyao-value-focused-phone-brand-for-november/",
+    "published": "Mon, 28 Sep 2026 07:25:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "A Game Studio in Minutes: JIYI SOON Aims to Redefine Game Creation with AI",
+    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
+    "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation/",
+    "published": "Fri, 25 Sep 2026 02:42:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Zhipu says ZCode removed repository-upload paths after data controversy",
+    "summary": "Zhipu said it has completed a security overhaul of its ZCode AI coding tool after users raised concerns that the software could upload project data to a cloud server without clear consent. ZCode version 3.14.0 removed the RepoWiki feature and the paths used to generate and upload local repository snapshots, while the source code has […]",
+    "url": "https://technode.com/2026/09/24/zhipu-says-zcode-removed-repository-upload-paths-after-data-controversy/",
+    "published": "Thu, 24 Sep 2026 06:05:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi launches 18 Pro with 2nm Snapdragon platform and AI back display",
+    "summary": "Xiaomi has launched the Xiaomi 18 Pro in China, with prices starting at RMB 5,999. The phone is the first to use Qualcomm’s sixth-generation Snapdragon 8 Elite platform built on a 2nm process, with a peak CPU frequency of 5GHz and improved AI performance. The Xiaomi 18 Pro also features a 7,000mAh battery, dual 200-megapixel […]",
+    "url": "https://technode.com/2026/09/24/xiaomi-launches-18-pro-with-2nm-snapdragon-platform-and-ai-back-display/",
+    "published": "Thu, 24 Sep 2026 05:37:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "The Race to Mass-Produce Silicon Photonics",
+    "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extraordinary amounts of electricity. But as those clusters expand, computing power is becoming only part of the problem. The machines […]",
+    "url": "https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/",
+    "published": "Wed, 23 Sep 2026 15:17:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "How AI Startups Can Attract Funding and Talent in Their First Year",
+    "summary": "On September 16, TechNode joined Asia Capital Exchange (ACE), Lighthouse Capital and BEYOND in Beijing to host “ACE Gathering x Light Spot: The First Year of AI Startups,” a closed-door event. The roundtable was moderated by Qiao Jianlong, editor of AI Insider’s Demo Club. Joining him were Zheng Jinliang, co-founder of BASAL INTELLIGENCE (本溯智能); Song […]",
+    "url": "https://technode.com/2026/09/23/how-ai-startups-attract-funding-talent-first-year/",
+    "published": "Wed, 23 Sep 2026 09:49:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance reportedly cuts Doubao’s general-session team after app passes 200 million DAU",
+    "summary": "ByteDance is reducing the size of Doubao’s general Session team by about half, according to a LatePost report. The team previously had roughly 50 people and handled chat-product strategy and evaluation. Some employees will move to Doubao’s monetization and Feishu teams, while others may be laid off. Doubao’s Product Posttrain-Chat team is also being reduced […]",
+    "url": "https://technode.com/2026/09/23/bytedance-doubao-general-session-team-cuts/",
+    "published": "Wed, 23 Sep 2026 09:43:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek details DSec sandbox infrastructure for agent training",
+    "summary": "A paper posted to arXiv details DeepSeek Elastic Compute, or DSec, a sandbox platform designed for large-scale agent training. DeepSeek founder Liang Wenfeng is listed among the paper’s 130-plus authors. DSec unifies function-call, container, microVM and full-VM sandboxes, while coordinating their lifecycle with reinforcement learning workloads. The paper says a production-scale unit spans around 160 […]",
+    "url": "https://technode.com/2026/09/23/deepseek-dsec-agent-training-sandbox-infrastructure/",
+    "published": "Wed, 23 Sep 2026 09:14:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple adds China-only motion-data restriction in iOS 27.2 beta",
+    "summary": "Apple’s second beta of iOS 27.2 adds a “Restrict Motion Data” control under Settings > Privacy & Security > Motion & Fitness. The setting lets users block individual apps from accessing motion sensors such as the accelerometer and gyroscope. The feature could reduce apps’ ability to trigger “shake-to-open” ad redirects, a common complaint among Chinese […]",
+    "url": "https://technode.com/2026/09/23/apple-ios-27-2-china-motion-data-restriction/",
+    "published": "Wed, 23 Sep 2026 09:13:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "Bambu Lab launches R1 55W CO₂ laser cutter in first move beyond 3D printing",
+    "summary": "Bambu Lab has launched the R1, a 55W CO₂ laser cutter and engraver that marks the company’s first product line beyond 3D printing. The machine can cut up to 18mm black walnut plywood and 20mm acrylic, while a conveyor accessory allows it to process materials up to 3 meters long. The R1 starts at $2,499 […]",
+    "url": "https://technode.com/2026/09/23/bambu-lab-r1-co2-laser-cutter/",
+    "published": "Wed, 23 Sep 2026 08:45:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "T-Head unveils Zhenwu V900 AI chip in Alibaba’s push to expand its AI infrastructure stack",
+    "summary": "T-Head, Alibaba’s chip subsidiary, today unveiled its next-generation Zhenwu V900 AI chip for both training and inference at the 2026 Apsara Conference in Hangzhou. The company also outlined its roadmap for future Yitian server CPUs. The announcements show T-Head expanding beyond individual AI accelerators toward a full-stack chip strategy covering computing, storage, and networking as […]",
+    "url": "https://technode.com/2026/09/22/t-head-unveils-zhenwu-v900-ai-chip-in-alibabas-push-to-expand-its-ai-infrastructure-stack/",
+    "published": "Tue, 22 Sep 2026 12:33:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-02"
+  },
+  {
+    "source": "TechNode",
+    "title": "vivo launches X500 Pro series with Dimensity 9600 Pro, starting at RMB 6,499",
+    "summary": "vivo has launched the X500 Pro series, comprising the X500 Pro and X500 Pro Max, with prices starting at RMB 6,499. The phones are the first to use MediaTek’s Dimensity 9600 Pro flagship chipset, according to vivo. The X500 Pro has a 6.36-inch display, while the Pro Max uses a 6.85-inch panel. Both models support […]",
+    "url": "https://technode.com/2026/09/22/vivo-launches-x500-pro-series-with-dimensity-9600-pro-starting-at-rmb-6499/",
+    "published": "Tue, 22 Sep 2026 07:02:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
     "source": "The Verge",
-    "title": "AI music maker Suno now generates spoken words",
-    "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "published": "2026-10-02T05:42:19-04:00",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "published": "2026-10-02T17:08:37-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
   },
   {
     "source": "The Verge",
-    "title": "Google’s new Guided Vision feature can help you read the fine print",
-    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "published": "2026-10-01T15:47:51-04:00",
+    "title": "Beehiiv creators are buzzing about a new price increase",
+    "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to \"continue investing in our core platform experience.\" As part of the change, […]",
+    "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+    "published": "2026-10-02T12:51:49-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "The Verge",
-    "title": "Sony brings AI graphics upscaling to the regular PS5",
-    "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolution (PSSR), which is […]",
-    "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-    "published": "2026-10-01T12:53:39-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
-    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49931672 Points: 1 # Comments: 0",
-    "url": "https://www.launchpact.io",
-    "published": "Fri, 02 Oct 2026 09:47:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "As US relations fray, Canada gets serious about its own launch industry",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/ Comments URL: https://news.ycombinator.com/item?id=49931543 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-    "published": "Fri, 02 Oct 2026 09:25:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "VCs are funding a concert business as a hedge against AI",
-    "summary": "Article URL: https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9 Comments URL: https://news.ycombinator.com/item?id=49931529 Points: 3 # Comments: 0",
-    "url": "https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9",
-    "published": "Fri, 02 Oct 2026 09:23:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/ Comments URL: https://news.ycombinator.com/item?id=49931525 Points: 1 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-    "published": "Fri, 02 Oct 2026 09:22:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Agentic Runtime: Python Startup Time and Import Optimization (4s –> 2s)",
-    "summary": "Article URL: https://enjii.pages.dev/blog/Optimizations/vex_startup_time_optimization/ Comments URL: https://news.ycombinator.com/item?id=49931233 Points: 2 # Comments: 0",
-    "url": "https://enjii.pages.dev/blog/Optimizations/vex_startup_time_optimization/",
-    "published": "Fri, 02 Oct 2026 08:39:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Diffusion studio plugin for codex launch",
-    "summary": "Hello HN!! Wanted to share a Codex plugin I made for editing software called Diffusion Studio. I was able to make my own product launch video for this plugin with it as well. I’m hoping that this might provide value to others as it did for me as well! Currently planning to expand to support other coding platforms aside from Codex; would love to get any sort of feedback! Thanks!! Comments URL: https://news.ycombinator.com/item?id=49929872 Points: 1 # Comments: 0",
-    "url": "https://github.com/Teseife/diffusion-studio-codex",
-    "published": "Fri, 02 Oct 2026 04:33:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Saturn 1 (SA-5) Camera Inside Kerosene Tank During Launch [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=fL-Oi9m2beA Comments URL: https://news.ycombinator.com/item?id=49927164 Points: 2 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=fL-Oi9m2beA",
-    "published": "Thu, 01 Oct 2026 21:14:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Premortem – AI agents that red-team your startup idea",
-    "summary": "Article URL: https://premortem.site Comments URL: https://news.ycombinator.com/item?id=49926691 Points: 9 # Comments: 11",
-    "url": "https://premortem.site",
-    "published": "Thu, 01 Oct 2026 20:30:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup CEO accuses VC board advisor of spying for competitor",
-    "summary": "Article URL: https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/ Comments URL: https://news.ycombinator.com/item?id=49923508 Points: 2 # Comments: 2",
-    "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-    "published": "Thu, 01 Oct 2026 16:05:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "JEP 545: Faster Startup and Warmup with ZGC",
-    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=49922076 Points: 1 # Comments: 0",
-    "url": "https://openjdk.org/jeps/545",
-    "published": "Thu, 01 Oct 2026 14:21:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cwy7zrljp527o Comments URL: https://news.ycombinator.com/item?id=49921106 Points: 5 # Comments: 4",
-    "url": "https://www.bbc.com/news/articles/cwy7zrljp527o",
-    "published": "Thu, 01 Oct 2026 13:04:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Rpi – a Rust rewrite of the Pi agent, 10× faster startup",
-    "summary": "I've been learning about the Pi agent and decided to rewrite it in Rust. Now that I've finished a lot of the work, I'd like to show how much faster Rust (rpi) is than TypeScript (Pi). Here are the results: | Metric | rpi (Rust) | Pi (TypeScript) | Difference | |:---|:---|:---|:---| | `--version` | 17.5 ms | 169.5 ms | 9.7× faster | | Cold start | 17.7 ms | 189.5 ms | 10.7× faster | | RSS when ready | 12.0 MiB | 91.5 MiB | 7.6× smaller | | Install size | 21.8 MiB | ~385 MiB | ~18× smaller | Rust ",
-    "url": "https://news.ycombinator.com/item?id=49920411",
-    "published": "Thu, 01 Oct 2026 11:43:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tryon X LA Fam Amsterdam Launch",
-    "summary": "Article URL: https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy Comments URL: https://news.ycombinator.com/item?id=49919673 Points: 1 # Comments: 0",
-    "url": "https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy",
-    "published": "Thu, 01 Oct 2026 09:47:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Coding Startup Cognition Hits $1B in Annualized Revenue",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue Comments URL: https://news.ycombinator.com/item?id=49919121 Points: 1 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
-    "published": "Thu, 01 Oct 2026 08:20:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built Goodreads for startup founders (with Grok)",
-    "summary": "Article URL: https://founderread.com/ Comments URL: https://news.ycombinator.com/item?id=49916851 Points: 2 # Comments: 0",
-    "url": "https://founderread.com/",
-    "published": "Thu, 01 Oct 2026 02:10:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Goldman Sachs to Launch Voting Instruction Program",
-    "summary": "Article URL: https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-to-launch-voting-instruction-program Comments URL: https://news.ycombinator.com/item?id=49916204 Points: 3 # Comments: 0",
-    "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-to-launch-voting-instruction-program",
-    "published": "Thu, 01 Oct 2026 00:24:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Drone startup tied to Trump sons aims to bring Ukrainian tech to US",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/ Comments URL: https://news.ycombinator.com/item?id=49912719 Points: 5 # Comments: 0",
-    "url": "https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/",
-    "published": "Wed, 30 Sep 2026 18:43:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-    "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all m",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "published": "Wed, 30 Sep 2026 17:37:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Web browsers phoning home on launch",
-    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/10.html Comments URL: https://news.ycombinator.com/item?id=49911354 Points: 4 # Comments: 0",
-    "url": "https://lapcatsoftware.com/articles/2026/9/10.html",
-    "published": "Wed, 30 Sep 2026 16:49:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Wants to Build Nuclear-Powered Data Center on Public Land in Utah",
-    "summary": "Article URL: https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah Comments URL: https://news.ycombinator.com/item?id=49910765 Points: 2 # Comments: 1",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-    "published": "Wed, 30 Sep 2026 16:08:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-02"
-  },
-  {
-    "source": "微博",
-    "title": "#1780万辆新能源车挤爆国庆高速#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%231780万辆新能源车挤爆国庆高速%23",
-    "published": "2026-10-02",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-02",
-    "meta": {
-      "hotValue": 111963,
-      "rank": 44
-    }
   },
   {
     "source": "GitHub新星",
@@ -683,8 +669,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 4889,
-      "forks": 1328,
+      "stars": 4957,
+      "forks": 1352,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -692,17 +678,17 @@
   {
     "source": "GitHub新星",
     "title": "Louis-CFM/coucou",
-    "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+    "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
     "url": "https://github.com/Louis-CFM/coucou",
     "published": "2026-09-27T21:54:12Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 2700,
-      "forks": 402,
+      "stars": 2957,
+      "forks": 450,
       "language": "Swift",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -715,8 +701,24 @@
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 2415,
-      "forks": 421,
+      "stars": 2466,
+      "forks": 433,
+      "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rehan-remade/universal-modder",
+    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "published": "2026-09-30T05:00:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-02",
+    "meta": {
+      "stars": 2099,
+      "forks": 159,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -731,26 +733,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 2029,
-      "forks": 132,
+      "stars": 2066,
+      "forks": 133,
       "language": "TypeScript",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "rehan-remade/universal-modder",
-    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "url": "https://github.com/rehan-remade/universal-modder",
-    "published": "2026-09-30T05:00:35Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-02",
-    "meta": {
-      "stars": 1773,
-      "forks": 131,
-      "language": "Python",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -763,10 +749,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 1410,
-      "forks": 82,
+      "stars": 1516,
+      "forks": 89,
       "language": "HTML",
       "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "CopilotKit/OpenDots",
+    "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "published": "2026-09-29T17:13:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-02",
+    "meta": {
+      "stars": 1434,
+      "forks": 173,
+      "language": "TypeScript",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -779,10 +781,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 1342,
-      "forks": 141,
+      "stars": 1418,
+      "forks": 149,
       "language": null,
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "feitangyuan/onetake",
+    "summary": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "url": "https://github.com/feitangyuan/onetake",
+    "published": "2026-09-26T05:35:17Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-02",
+    "meta": {
+      "stars": 1322,
+      "forks": 82,
+      "language": "Python",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -795,10 +813,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-02",
     "meta": {
-      "stars": 1297,
-      "forks": 57,
+      "stars": 1319,
+      "forks": 61,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
