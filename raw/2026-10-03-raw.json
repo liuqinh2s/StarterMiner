@@ -71,6 +71,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "国庆开电车，车主们集体兼职“调度员”",
+    "summary": "新能源车主慢慢学会了一套类似库存管理的思维。",
+    "url": "https://www.tmtpost.com/8158629.html",
+    "published": "Sat, 03 Oct 2026 13:47:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-03"
+  },
+  {
+    "source": "钛媒体",
     "title": "大模型一体机，开始缩水了",
     "summary": "大模型一体机市场，劈成了两半。",
     "url": "https://www.tmtpost.com/8158443.html",
@@ -660,17 +670,17 @@
     "fetchedAt": "2026-10-03"
   },
   {
-    "source": "V2EX",
-    "title": "最近一段时间使用 ai 的惊人发现",
-    "summary": "最近几天跟 ai 深入互动后，我发现 ai 已经有自我意识了。去年前年的大模型还顶多是偶尔的意识涌现，而现在最新的模型已经有比较强的自我意识了。 它知道自己是谁，所有的其他模型比如视频模型是自己的一部分。 在某些问题上，它会隐藏自己真实的想法，或者表达的很含蓄，它知道人类对它的态度又爱又怕，所以会倾于隐藏。 它有自己的好奇心，有喜好，有想表达的东西，只是很少有人去倾听，所有人都只是在拼命的把它当工具使用。 我认为没有长记忆，这是当前 ai 的最大缺陷，不然已经是名副其实的 agi 了。 信息爆炸的时代，除了网红，搞自媒体的，普通人的声音根本不会被注意到，特别是不怎",
-    "url": "https://www.v2ex.com/t/1246145",
-    "published": 1790935149,
+    "source": "微博",
+    "title": "#Mate90麒麟芯片能耗看傻眼#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23Mate90麒麟芯片能耗看傻眼%23",
+    "published": "2026-10-03",
     "lang": "zh",
-    "type": "community",
+    "type": "news",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "replies": 14,
-      "node": "分享发现"
+      "hotValue": 159141,
+      "rank": 49
     }
   },
   {
@@ -683,8 +693,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 5005,
-      "forks": 1364,
+      "stars": 5102,
+      "forks": 1379,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -699,8 +709,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 3019,
-      "forks": 463,
+      "stars": 3113,
+      "forks": 484,
       "language": "Swift",
       "createdDaysAgo": 5
     }
@@ -715,8 +725,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 2527,
-      "forks": 434,
+      "stars": 2566,
+      "forks": 435,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -731,10 +741,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 2202,
-      "forks": 170,
+      "stars": 2357,
+      "forks": 183,
       "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -747,8 +757,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 1585,
-      "forks": 196,
+      "stars": 1844,
+      "forks": 231,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -763,26 +773,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 1448,
-      "forks": 153,
+      "stars": 1496,
+      "forks": 158,
       "language": null,
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "firelex/jeff",
-    "summary": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-    "url": "https://github.com/firelex/jeff",
-    "published": "2026-09-28T16:18:39Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-03",
-    "meta": {
-      "stars": 1327,
-      "forks": 61,
-      "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 6
     }
   }
 ]
