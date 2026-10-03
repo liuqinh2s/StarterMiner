@@ -90,16 +90,6 @@
     "fetchedAt": "2026-10-03"
   },
   {
-    "source": "钛媒体",
-    "title": "曾获5亿美元估值！芳拓生物再闯港股，能否承受“基因治疗之重”？",
-    "summary": "由美元基金孵化的芳拓生物，究竟被谁控制？",
-    "url": "https://www.tmtpost.com/8158178.html",
-    "published": "Fri, 02 Oct 2026 10:17:35 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-03"
-  },
-  {
     "source": "极客公园",
     "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
     "summary": "英伟达股价创新高，逼近 6 万亿美元 英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。 英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司不到 3000 亿美元。（来源：环球市场播报） 腾讯 WorkBuddy 内置模型独家支持 Space Bunny 10 月 2 日消息，腾讯 WorkBuddy 宣布内置模型独家支持 Space Bunny。 据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月 2 日至 10 月 7 日间可享限时折扣。 2026 年 9 月 27 日，Space Bunny 在 OpenRouter 的 Token 调用量约 3.99 万亿，在 OpenCode 约 ",
@@ -381,6 +371,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Spotify billionaire’s body scan startup has come to America",
+    "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+    "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "published": "Sat, 03 Oct 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-03"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
     "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
@@ -395,36 +395,6 @@
     "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
     "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
     "published": "Fri, 02 Oct 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
-    "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-    "published": "Fri, 02 Oct 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
-    "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the […]",
-    "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-    "published": "Fri, 02 Oct 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-    "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-    "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-    "published": "Fri, 02 Oct 2026 13:23:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-03"
@@ -660,27 +630,31 @@
     "fetchedAt": "2026-10-03"
   },
   {
-    "source": "The Verge",
-    "title": "Beehiiv creators are buzzing about a new price increase",
-    "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to \"continue investing in our core platform experience.\" As part of the change, […]",
-    "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-    "published": "2026-10-02T12:51:49-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-03"
-  },
-  {
     "source": "微博",
-    "title": "#Mate90麒麟芯片能耗看傻眼#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23Mate90麒麟芯片能耗看傻眼%23",
+    "title": "#新能源电车还有多少想象空间#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23新能源电车还有多少想象空间%23",
     "published": "2026-10-03",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "hotValue": 159141,
-      "rank": 49
+      "hotValue": 151095,
+      "rank": 6
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
+    "summary": "想请问各位长时间/重度使用 ai 的 v 友们，如果是如下情况，你愿意付费吗？ 1 、物理位置：韩国/越南。（这两个对你来说你更倾向哪个吗？还是无所谓） 2 、电脑：mac mini （ M 芯片以上）/ Win pc （大概 i5 16G 内存的样子）。（这两个对你来说你更倾向哪个吗？还是无所谓） 3 、百分百放在真实家庭里的家宽环境。 4 、按月起，包一台机器，远程连接。 5 、价格可能在人民币 500 起每月，无其他费用。 6 、可能会慢慢开放当地银行卡代付款购买订阅业务。 ------- 如果您有此类需求，但以上条件仍有不满足的地方，愿意的话，可以留言您的更高需",
+    "url": "https://www.v2ex.com/t/1246258",
+    "published": 1791016336,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-03",
+    "meta": {
+      "replies": 19,
+      "node": "问与答"
     }
   },
   {
@@ -693,8 +667,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 5102,
-      "forks": 1379,
+      "stars": 5390,
+      "forks": 1424,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -709,26 +683,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 3113,
-      "forks": 484,
+      "stars": 3221,
+      "forks": 500,
       "language": "Swift",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "feder-cr/dots",
-    "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "url": "https://github.com/feder-cr/dots",
-    "published": "2026-09-29T23:06:00Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-03",
-    "meta": {
-      "stars": 2566,
-      "forks": 435,
-      "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 6
     }
   },
   {
@@ -741,10 +699,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 2357,
-      "forks": 183,
+      "stars": 2617,
+      "forks": 225,
       "language": "Python",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "feder-cr/dots",
+    "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "url": "https://github.com/feder-cr/dots",
+    "published": "2026-09-29T23:06:00Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-03",
+    "meta": {
+      "stars": 2573,
+      "forks": 436,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -757,10 +731,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 1844,
-      "forks": 231,
+      "stars": 2460,
+      "forks": 308,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -773,8 +747,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-03",
     "meta": {
-      "stars": 1496,
-      "forks": 158,
+      "stars": 1559,
+      "forks": 166,
       "language": null,
       "createdDaysAgo": 6
     }
