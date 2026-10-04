@@ -1,15 +1,5 @@
 [
   {
-    "source": "少数派",
-    "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-    "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ... 查看全文",
-    "url": "https://sspai.com/post/115134",
-    "published": "Tue, 29 Sep 2026 08:09:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
     "source": "创业邦",
     "title": "四川能源、五粮液集团等在四川成立核产业公司 注册资本10亿",
     "summary": "天眼查App显示，近日，四川能源核产业有限公司成立，法定代表人为聂强，注册资本10亿人民币，经营范围包括民用核安全设备制造、民用核安全设备安装、民用核安全设备设计等。股东信息显示，该公司由四川能源发展集团有限责任公司、粤港澳大湾区创业投资引导基金合伙企业（有限合伙）、成都未来产业创业投资发展基金合伙企业（有限合伙）、四川省新能源动力股份有限公司、五粮液集团旗下四川省宜宾普什集团有限公司、深圳市创新资本投资有限公司、成都核总核动力研究设计工程有限公司共同持股。",
@@ -70,41 +60,11 @@
     "fetchedAt": "2026-10-04"
   },
   {
-    "source": "钛媒体",
-    "title": "【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……",
-    "summary": "（9月28日-10月3日）美国拟限制中国光模块进入国家安全系统；Manus将重新开拓中国市场；谷歌发布Gemini 4模型；Anthropic据悉计划在感恩节假期前进行大规模IPO； 博通筹集600亿美元，用于为Anthropic供应芯片……",
-    "url": "https://www.tmtpost.com/8158700.html",
-    "published": "Sun, 04 Oct 2026 11:16:19 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（10月4日）",
-    "summary": "arXiv因AI论文暴涨6倍实施限投，学术基础设施承压。亚马逊、OpenAI两周内齐推决策模型，标志Agent从全能向分工进化。Tavus发布视频交互模型虽通过图灵测试但可靠性存疑，身份验证防线动摇。Meta开源Muse Gadgets硬件生态，赠送芯片布局入口。苹果homeOS弃App Store以Siri AI为核心，开启AI原生操作系统。Anthropic投1亿美元培养万名部署工程师，争夺企业AI落地定价权。AWS推出裁决式查询设计模式，生成式AI转向合规裁决工具。",
-    "url": "https://www.tmtpost.com/8158829.html",
-    "published": "Sun, 04 Oct 2026 07:50:31 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "国庆开电车，车主们集体兼职“调度员”",
-    "summary": "新能源车主慢慢学会了一套类似库存管理的思维。",
-    "url": "https://www.tmtpost.com/8158629.html",
-    "published": "Sat, 03 Oct 2026 13:47:25 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "大模型一体机，开始缩水了",
-    "summary": "大模型一体机市场，劈成了两半。",
-    "url": "https://www.tmtpost.com/8158443.html",
-    "published": "Sat, 03 Oct 2026 09:38:50 +0800",
+    "source": "极客公园",
+    "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
+    "summary": "作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那个女孩并不存在。 她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成 。 Griffin 模型的演示效果确实非常惊艳｜视频来源：X 10 月 1 日， 美国 AI 视频公司 Tavus 发布了一个名为 Griffin 的模型 ，并把它定义为全球第一个「人类交互模型」（Human Interaction Model，简称 HIM）。 Tavus 公布的数据显示，在一项一分钟视频通话测试里， 54 名参与者中有 26 人事后认为自己是在和真人聊天，比例接近 48% 。作为对照，Tavus 上一代系统在同样的测试中，41 个人里只骗过了 1 个，比例 2.4%。 从 2.4% 到 48%，这不是一次常规的版本迭代。 过去几年，数字人赛道拼的是「脸像不像」；Griffin 想证明的，是 AI 已经开始学会「像人一样聊天」。 0",
+    "url": "http://www.geekpark.net/news/372075",
+    "published": "Sun, 04 Oct 2026 13:27:14 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-04"
@@ -380,16 +340,6 @@
     "fetchedAt": "2026-10-04"
   },
   {
-    "source": "极客公园",
-    "title": "OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运",
-    "summary": "已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵 9 月 23 日，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）表示，OpenAI 开发的一款 AI 智能体在 6 月未经授权侵入了澳大利亚政府网站，访问了公共和非公共文件。这是已知的首例 AI 入侵政府网站事件。 这起入侵事件将成为美国以外最引人注目的 AI 智能体访问外部系统的事件之一，并可能进一步加剧外界对 AI 开发者控制技术能力的担忧。 阿尔巴尼斯在纽约对记者表示，事件涉及 OpenAI 智能体未经授权访问由 Services Australia 管理的面向公众的 Medicare 统计报告服务门户。 他称，现阶段据信没有个人信息被访问，但调查仍在进行中。阿尔巴尼斯还与 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）通话，表达了「澳大利亚对此事件的极度关切」。 OpenAI 未立即回应路透社的置评请求。过去两个月，OpenAI 多次在事发后很久才披露其失控或越轨 AI 智能体引发的黑客或其他事件，有时是因为它只是很晚才发现相关活动，有时则是因为它选择完全不披露恶",
-    "url": "http://www.geekpark.net/news/370917",
-    "published": "Thu, 24 Sep 2026 09:13:32 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
     "source": "TechCrunch",
     "title": "Spotify billionaire’s body scan startup has come to America",
     "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
@@ -650,17 +600,217 @@
     "fetchedAt": "2026-10-04"
   },
   {
+    "source": "Hacker News",
+    "title": "Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d Comments URL: https://news.ycombinator.com/item?id=49951597 Points: 1 # Comments: 0",
+    "url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d",
+    "published": "Sun, 04 Oct 2026 07:44:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Forbidden Stories and UC Berkeley Journalism launch cross-border lab",
+    "summary": "Article URL: https://journalism.berkeley.edu/announce-forbidden-stories-lab-uc-berkeley-journalism/ Comments URL: https://news.ycombinator.com/item?id=49950807 Points: 2 # Comments: 1",
+    "url": "https://journalism.berkeley.edu/announce-forbidden-stories-lab-uc-berkeley-journalism/",
+    "published": "Sun, 04 Oct 2026 05:04:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Israeli filmmakers launch counter-documentary to rebut 'NAZA'",
+    "summary": "Article URL: https://www.jpost.com/israel-news/article-910374 Comments URL: https://news.ycombinator.com/item?id=49936310 Points: 3 # Comments: 8",
+    "url": "https://www.jpost.com/israel-news/article-910374",
+    "published": "Fri, 02 Oct 2026 17:43:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Texas agencies betting that Abbott will restore funding keep Flock cameras on",
+    "summary": "Article URL: https://www.texastribune.org/2026/10/02/texas-flock-camera-reinstatement-state-funding/ Comments URL: https://news.ycombinator.com/item?id=49935300 Points: 9 # Comments: 1",
+    "url": "https://www.texastribune.org/2026/10/02/texas-flock-camera-reinstatement-state-funding/",
+    "published": "Fri, 02 Oct 2026 16:20:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Corbenic AI launches Galahad to secure AI memory and cut energy",
+    "summary": "Article URL: https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93 Comments URL: https://news.ycombinator.com/item?id=49932832 Points: 3 # Comments: 1",
+    "url": "https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93",
+    "published": "Fri, 02 Oct 2026 12:39:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
+    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49931672 Points: 2 # Comments: 0",
+    "url": "https://www.launchpact.io",
+    "published": "Fri, 02 Oct 2026 09:47:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "As US relations fray, Canada gets serious about its own launch industry",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/ Comments URL: https://news.ycombinator.com/item?id=49931543 Points: 5 # Comments: 1",
+    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
+    "published": "Fri, 02 Oct 2026 09:25:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "VCs are funding a concert business as a hedge against AI",
+    "summary": "Article URL: https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9 Comments URL: https://news.ycombinator.com/item?id=49931529 Points: 3 # Comments: 0",
+    "url": "https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9",
+    "published": "Fri, 02 Oct 2026 09:23:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/ Comments URL: https://news.ycombinator.com/item?id=49931525 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "published": "Fri, 02 Oct 2026 09:22:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Agentic Runtime: Python Startup Time and Import Optimization (4s –> 2s)",
+    "summary": "Article URL: https://enjii.pages.dev/blog/Optimizations/vex_startup_time_optimization/ Comments URL: https://news.ycombinator.com/item?id=49931233 Points: 2 # Comments: 0",
+    "url": "https://enjii.pages.dev/blog/Optimizations/vex_startup_time_optimization/",
+    "published": "Fri, 02 Oct 2026 08:39:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Diffusion studio plugin for codex launch",
+    "summary": "Hello HN!! Wanted to share a Codex plugin I made for editing software called Diffusion Studio. I was able to make my own product launch video for this plugin with it as well. I’m hoping that this might provide value to others as it did for me as well! Currently planning to expand to support other coding platforms aside from Codex; would love to get any sort of feedback! Thanks!! Comments URL: https://news.ycombinator.com/item?id=49929872 Points: 1 # Comments: 0",
+    "url": "https://github.com/Teseife/diffusion-studio-codex",
+    "published": "Fri, 02 Oct 2026 04:33:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Saturn 1 (SA-5) Camera Inside Kerosene Tank During Launch [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=fL-Oi9m2beA Comments URL: https://news.ycombinator.com/item?id=49927164 Points: 2 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=fL-Oi9m2beA",
+    "published": "Thu, 01 Oct 2026 21:14:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+    "summary": "Article URL: https://premortem.site Comments URL: https://news.ycombinator.com/item?id=49926691 Points: 11 # Comments: 12",
+    "url": "https://premortem.site",
+    "published": "Thu, 01 Oct 2026 20:30:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup CEO accuses VC board advisor of spying for competitor",
+    "summary": "Article URL: https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/ Comments URL: https://news.ycombinator.com/item?id=49923508 Points: 2 # Comments: 2",
+    "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "published": "Thu, 01 Oct 2026 16:05:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "JEP 545: Faster Startup and Warmup with ZGC",
+    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=49922076 Points: 1 # Comments: 0",
+    "url": "https://openjdk.org/jeps/545",
+    "published": "Thu, 01 Oct 2026 14:21:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cwy7zrljp527o Comments URL: https://news.ycombinator.com/item?id=49921106 Points: 5 # Comments: 4",
+    "url": "https://www.bbc.com/news/articles/cwy7zrljp527o",
+    "published": "Thu, 01 Oct 2026 13:04:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rpi – a Rust rewrite of the Pi agent, 10× faster startup",
+    "summary": "I've been learning about the Pi agent and decided to rewrite it in Rust. Now that I've finished a lot of the work, I'd like to show how much faster Rust (rpi) is than TypeScript (Pi). Here are the results: | Metric | rpi (Rust) | Pi (TypeScript) | Difference | |:---|:---|:---|:---| | `--version` | 17.5 ms | 169.5 ms | 9.7× faster | | Cold start | 17.7 ms | 189.5 ms | 10.7× faster | | RSS when ready | 12.0 MiB | 91.5 MiB | 7.6× smaller | | Install size | 21.8 MiB | ~385 MiB | ~18× smaller | Rust ",
+    "url": "https://news.ycombinator.com/item?id=49920411",
+    "published": "Thu, 01 Oct 2026 11:43:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tryon X LA Fam Amsterdam Launch",
+    "summary": "Article URL: https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy Comments URL: https://news.ycombinator.com/item?id=49919673 Points: 1 # Comments: 0",
+    "url": "https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy",
+    "published": "Thu, 01 Oct 2026 09:47:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Coding Startup Cognition Hits $1B in Annualized Revenue",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue Comments URL: https://news.ycombinator.com/item?id=49919121 Points: 1 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
+    "published": "Thu, 01 Oct 2026 08:20:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I built Goodreads for startup founders (with Grok)",
+    "summary": "Article URL: https://founderread.com/ Comments URL: https://news.ycombinator.com/item?id=49916851 Points: 2 # Comments: 0",
+    "url": "https://founderread.com/",
+    "published": "Thu, 01 Oct 2026 02:10:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
     "source": "V2EX",
-    "title": "你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？",
-    "summary": "想请问各位长时间/重度使用 ai 的 v 友们，如果是如下情况，你愿意付费吗？ 1 、物理位置：韩国/越南。（这两个对你来说你更倾向哪个吗？还是无所谓） 2 、电脑：mac mini （ M 芯片以上）/ Win pc （大概 i5 16G 内存的样子）。（这两个对你来说你更倾向哪个吗？还是无所谓） 3 、百分百放在真实家庭里的家宽环境。 4 、按月起，包一台机器，远程连接。 5 、价格可能在人民币 500 起每月，无其他费用。 6 、可能会慢慢开放当地银行卡代付款购买订阅业务。 ------- 如果您有此类需求，但以上条件仍有不满足的地方，愿意的话，可以留言您的更高需",
-    "url": "https://www.v2ex.com/t/1246258",
-    "published": 1791016336,
+    "title": "IINA 1.5.0 发布了",
+    "summary": "今天我们发布了 IINA 的 1.5.0 正式版。 如果从我在图书馆中开始写下第一行代码时算起，已经过去十年了。 在将近十年前，我也在 V2EX [发了帖]( https://www.v2ex.com/t/332235) 并得到了很多关注，在此感谢大家一直以来的支持。 IINA 的界面从 0.0.x 时代就没有改变太多，但是随着 macOS 26 的到来，作为「现代 macOS 播放器」的 IINA 也必须更新它的更新设计语言了。 在 1.5.0 中我们第一次大范围重新设计了界面，使得 IINA 在最新的 macOS 中看起来更原生。 我们也同时为旧版本 macOS 做了很多",
+    "url": "https://www.v2ex.com/t/1246346",
+    "published": 1791082085,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "replies": 23,
-      "node": "问与答"
+      "replies": 64,
+      "node": "分享创造"
     }
   },
   {
@@ -673,26 +823,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 5488,
-      "forks": 1434,
+      "stars": 5615,
+      "forks": 1459,
       "language": "TypeScript",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "rehan-remade/universal-modder",
-    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "url": "https://github.com/rehan-remade/universal-modder",
-    "published": "2026-09-30T05:00:35Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-04",
-    "meta": {
-      "stars": 2673,
-      "forks": 236,
-      "language": "Python",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -705,9 +839,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 2629,
-      "forks": 325,
+      "stars": 2893,
+      "forks": 364,
       "language": "TypeScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rehan-remade/universal-modder",
+    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "published": "2026-09-30T05:00:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-04",
+    "meta": {
+      "stars": 2792,
+      "forks": 243,
+      "language": "Python",
       "createdDaysAgo": 4
     }
   },
@@ -721,8 +871,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 2576,
-      "forks": 436,
+      "stars": 2588,
+      "forks": 437,
       "language": "Python",
       "createdDaysAgo": 4
     }
