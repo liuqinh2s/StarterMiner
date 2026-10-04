@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "jordyn-wallace"
+          "linkedin": "jakecounsell"
         },
         "careerPage": null,
         "jobListings": []
@@ -1542,8 +1542,19 @@
       "fetchedAt": "2026-10-04",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [],
-        "socials": {},
+        "emails": [
+          "info@latitudemedia.com",
+          "advertise@latitudemedia.com",
+          "editors@latitudemedia.com",
+          "careers@latitudemedia.com",
+          "opencircuit@latitudemedia.com",
+          "politicalclimatepodcast@gmail.com",
+          "events@latitudemedia.com"
+        ],
+        "socials": {
+          "twitter": "intent",
+          "linkedin": "latitude-media-inc"
+        },
         "careerPage": null,
         "jobListings": []
       },

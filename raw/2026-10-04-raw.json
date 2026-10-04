@@ -60,6 +60,56 @@
     "fetchedAt": "2026-10-04"
   },
   {
+    "source": "钛媒体",
+    "title": "AI社交出海，中国团队又开始“整活”了",
+    "summary": "国庆长假，试试不一样的AI陪伴",
+    "url": "https://www.tmtpost.com/8158954.html",
+    "published": "Sun, 04 Oct 2026 21:50:10 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……",
+    "summary": "（9月28日-10月3日）美国拟限制中国光模块进入国家安全系统；Manus将重新开拓中国市场；谷歌发布Gemini 4模型；Anthropic据悉计划在感恩节假期前进行大规模IPO； 博通筹集600亿美元，用于为Anthropic供应芯片……",
+    "url": "https://www.tmtpost.com/8158700.html",
+    "published": "Sun, 04 Oct 2026 11:16:19 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Edge AI Daily 早报（10月4日）",
+    "summary": "arXiv因AI论文暴涨6倍实施限投，学术基础设施承压。亚马逊、OpenAI两周内齐推决策模型，标志Agent从全能向分工进化。Tavus发布视频交互模型虽通过图灵测试但可靠性存疑，身份验证防线动摇。Meta开源Muse Gadgets硬件生态，赠送芯片布局入口。苹果homeOS弃App Store以Siri AI为核心，开启AI原生操作系统。Anthropic投1亿美元培养万名部署工程师，争夺企业AI落地定价权。AWS推出裁决式查询设计模式，生成式AI转向合规裁决工具。",
+    "url": "https://www.tmtpost.com/8158829.html",
+    "published": "Sun, 04 Oct 2026 07:50:31 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "钛媒体",
+    "title": "国庆开电车，车主们集体兼职“调度员”",
+    "summary": "新能源车主慢慢学会了一套类似库存管理的思维。",
+    "url": "https://www.tmtpost.com/8158629.html",
+    "published": "Sat, 03 Oct 2026 13:47:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "极客公园",
+    "title": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
+    "summary": "作者｜桦林舞王 编辑｜靖宇 9 月 15 日，前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 发布了 Jev。这款模型不写一个字，只做判断。 两周之后，整个行业都在做同一件事。OpenAI 在开发者日上推出 Decisions API，Cloudflare 在 10 月 1 日开源了 Clef，亚马逊也放出了 Strands Decider。 国内同样没闲着，上海人工智能实验室开源了多模态决策模型 Intern-Decision。 9 月 30 日，一家成立不到五个月的上海公司 StartLux（原点星辉）发布了开源的 StartLux-Decision，并宣称在公开评测中超过 Jev。 一个新品类在两周内从「首发」走到「群战」，这种速度在大模型行业也不多见。 而 StartLux 背后的掌舵人，是盛大网络联合创始人陈大年。 被 Jev 点燃的「直觉」 要理解这轮热潮，得先说清楚决策模型到底在干什么。 TypeSafe 把 Jev 称为「System One 模型」，名字取自卡尼曼的《思考，快与慢》。系统一是人快速、直觉的那部分思维，系统二负责慢思",
+    "url": "http://www.geekpark.net/news/372081",
+    "published": "Sun, 04 Oct 2026 19:41:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
     "source": "极客公园",
     "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
     "summary": "作者｜宇航猿 编辑｜靖宇 一个男人对着镜头拧魔方，屏幕里的女孩盯着他手上的动作，时不时点头，提醒他下一步该转哪一面。他卡住了，低头琢磨，她没有插话，只是安静地等着。等他重新动手，她才接上一句。 如果没人告诉你，这看起来就是一次再普通不过的视频通话。 但屏幕里那个女孩并不存在。 她的脸、她的声音、她的每一次点头和停顿，全部由 AI 实时生成 。 Griffin 模型的演示效果确实非常惊艳｜视频来源：X 10 月 1 日， 美国 AI 视频公司 Tavus 发布了一个名为 Griffin 的模型 ，并把它定义为全球第一个「人类交互模型」（Human Interaction Model，简称 HIM）。 Tavus 公布的数据显示，在一项一分钟视频通话测试里， 54 名参与者中有 26 人事后认为自己是在和真人聊天，比例接近 48% 。作为对照，Tavus 上一代系统在同样的测试中，41 个人里只骗过了 1 个，比例 2.4%。 从 2.4% 到 48%，这不是一次常规的版本迭代。 过去几年，数字人赛道拼的是「脸像不像」；Griffin 想证明的，是 AI 已经开始学会「像人一样聊天」。 0",
@@ -330,12 +380,12 @@
     "fetchedAt": "2026-10-04"
   },
   {
-    "source": "极客公园",
-    "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
-    "summary": "用了 AI、消耗了 Token，不一定就是 AI 原生组织，但不用肯定没有机会。 作者｜Li Yuan 编辑｜ 郑玄 先让许多管理者感到危险的，往往不是行业里又冒出了什么新技术概念，而是身边的同行突然拿出了完全看不懂的交付速度和报价单。 这种压迫感在今年变得极其具体：老牌企业正在把成群的智能体塞进核心生产线，甩掉繁琐的流程包袱；而那些从第一天起就生长在 AI 上的轻量团队，几个人就能直接撬动过去上千人公司的研发与交付产能。 当两拨底子完全不同的人在同一个市场里正面碰撞，企业间原有的体量界限正在被彻底击碎——竞争的胜负手不再取决于你积累了多少年的组织规模，而取决于业务链条上有多少比例被机器智能真正接管。 在今年云栖大会一场名为「AI 原生重塑企业生产力」的论坛上，这种分水岭被摆上了台面。 掌管着千问办公事业部（原钉钉）数亿用户盘子的陈宇森直言， 现在给任何组织贴「AI Native」的虚名都毫无意义，唯一的度量衡极其务实：去数一家企业里到底有多少工作量是由 AI 真实闭环的。 换句话说，谁能让智能体深度接管真实流水线，谁就拿到了新周期的入场券。 这种接管不是停留在设想里，数据已经在反映全",
-    "url": "http://www.geekpark.net/news/371011",
-    "published": "Thu, 24 Sep 2026 16:13:08 +0800",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-04"
   },
@@ -355,16 +405,6 @@
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
     "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
     "published": "Fri, 02 Oct 2026 17:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "published": "Fri, 02 Oct 2026 14:30:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-04"
@@ -590,11 +630,31 @@
     "fetchedAt": "2026-10-04"
   },
   {
-    "source": "The Verge",
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
-    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "published": "2026-10-02T17:08:37-04:00",
+    "source": "Hacker News",
+    "title": "Asteroid-mining company to launch first autonomous space mission in 2027",
+    "summary": "Article URL: https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027 Comments URL: https://news.ycombinator.com/item?id=49957458 Points: 1 # Comments: 0",
+    "url": "https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027",
+    "published": "Sun, 04 Oct 2026 20:24:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Aptera Launch Costs Cut Nearly in Half, to Just $25M",
+    "summary": "Article URL: https://frequal.com/aptera/LaunchCostsNearlyHalvedOct2026.html Comments URL: https://news.ycombinator.com/item?id=49955173 Points: 2 # Comments: 1",
+    "url": "https://frequal.com/aptera/LaunchCostsNearlyHalvedOct2026.html",
+    "published": "Sun, 04 Oct 2026 16:12:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Up to US$5.5M funding to move your startup to Qatar",
+    "summary": "Article URL: https://startupqatar.qa/en/investment-program Comments URL: https://news.ycombinator.com/item?id=49953909 Points: 1 # Comments: 1",
+    "url": "https://startupqatar.qa/en/investment-program",
+    "published": "Sun, 04 Oct 2026 13:46:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-04"
@@ -602,7 +662,7 @@
   {
     "source": "Hacker News",
     "title": "Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d Comments URL: https://news.ycombinator.com/item?id=49951597 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d Comments URL: https://news.ycombinator.com/item?id=49951597 Points: 2 # Comments: 0",
     "url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d",
     "published": "Sun, 04 Oct 2026 07:44:00 +0000",
     "lang": "en",
@@ -760,46 +820,6 @@
     "fetchedAt": "2026-10-04"
   },
   {
-    "source": "Hacker News",
-    "title": "Rpi – a Rust rewrite of the Pi agent, 10× faster startup",
-    "summary": "I've been learning about the Pi agent and decided to rewrite it in Rust. Now that I've finished a lot of the work, I'd like to show how much faster Rust (rpi) is than TypeScript (Pi). Here are the results: | Metric | rpi (Rust) | Pi (TypeScript) | Difference | |:---|:---|:---|:---| | `--version` | 17.5 ms | 169.5 ms | 9.7× faster | | Cold start | 17.7 ms | 189.5 ms | 10.7× faster | | RSS when ready | 12.0 MiB | 91.5 MiB | 7.6× smaller | | Install size | 21.8 MiB | ~385 MiB | ~18× smaller | Rust ",
-    "url": "https://news.ycombinator.com/item?id=49920411",
-    "published": "Thu, 01 Oct 2026 11:43:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tryon X LA Fam Amsterdam Launch",
-    "summary": "Article URL: https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy Comments URL: https://news.ycombinator.com/item?id=49919673 Points: 1 # Comments: 0",
-    "url": "https://www.lafamamsterdam.com/products/striped-la-fam-longsleeve-copy",
-    "published": "Thu, 01 Oct 2026 09:47:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Coding Startup Cognition Hits $1B in Annualized Revenue",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue Comments URL: https://news.ycombinator.com/item?id=49919121 Points: 1 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
-    "published": "Thu, 01 Oct 2026 08:20:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I built Goodreads for startup founders (with Grok)",
-    "summary": "Article URL: https://founderread.com/ Comments URL: https://news.ycombinator.com/item?id=49916851 Points: 2 # Comments: 0",
-    "url": "https://founderread.com/",
-    "published": "Thu, 01 Oct 2026 02:10:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-04"
-  },
-  {
     "source": "V2EX",
     "title": "IINA 1.5.0 发布了",
     "summary": "今天我们发布了 IINA 的 1.5.0 正式版。 如果从我在图书馆中开始写下第一行代码时算起，已经过去十年了。 在将近十年前，我也在 V2EX [发了帖]( https://www.v2ex.com/t/332235) 并得到了很多关注，在此感谢大家一直以来的支持。 IINA 的界面从 0.0.x 时代就没有改变太多，但是随着 macOS 26 的到来，作为「现代 macOS 播放器」的 IINA 也必须更新它的更新设计语言了。 在 1.5.0 中我们第一次大范围重新设计了界面，使得 IINA 在最新的 macOS 中看起来更原生。 我们也同时为旧版本 macOS 做了很多",
@@ -809,8 +829,36 @@
     "type": "community",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "replies": 64,
+      "replies": 100,
       "node": "分享创造"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "[开源] 我做了一个没有删除和升级权限的链上论坛",
+    "summary": "做了一个极简的链上论坛，叫 Chain Talk 。 核心思路很简单：所有内容存在以太坊的事件日志里，合约只有 22 行代码，一个变量、一个函数、一个事件。没有管理员，没有删除按钮，没有升级机制。发出去的东西永远不能改。 ### 为什么做这个 我们在这个\"404 时代\"失去了太多东西。 百度空间关了，天涯半死不活，豆瓣小组说解散就解散，贴吧的老帖说删就删。你在网上发过的每一句话，其实都不属于你——它可能被平台删除，可能在服务器迁移时丢失，也可能在公司倒闭后永远消失。 这个实验想看看：如果内容一旦发出就永远不能删除、不能修改、不能被任何管理员下架，会发生什么？",
+    "url": "https://www.v2ex.com/t/1246367",
+    "published": 1791096682,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-04",
+    "meta": {
+      "replies": 25,
+      "node": "分享创造"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "大模型对 Vuejs 支持不如 react：",
+    "summary": "估计，可能不是亲生的有关",
+    "url": "https://www.v2ex.com/t/1246345",
+    "published": 1791080614,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-04",
+    "meta": {
+      "replies": 24,
+      "node": "Vue.js"
     }
   },
   {
@@ -823,8 +871,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 5615,
-      "forks": 1459,
+      "stars": 5767,
+      "forks": 1484,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -839,10 +887,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 2893,
-      "forks": 364,
+      "stars": 3191,
+      "forks": 414,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -855,8 +903,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 2792,
-      "forks": 243,
+      "stars": 3152,
+      "forks": 271,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -871,10 +919,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-04",
     "meta": {
-      "stars": 2588,
+      "stars": 2599,
       "forks": 437,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
