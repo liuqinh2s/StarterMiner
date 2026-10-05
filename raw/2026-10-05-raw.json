@@ -61,6 +61,46 @@
   },
   {
     "source": "钛媒体",
+    "title": "纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资",
+    "summary": "AI硬件扎堆赴港募资，港股承压破发率超七成。",
+    "url": "https://www.tmtpost.com/8159517.html",
+    "published": "Mon, 05 Oct 2026 17:36:35 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "AI耳机蓄势，芯片厂商待发",
+    "summary": "AI耳机还没有成为一个边界清晰的品类，芯片厂商却已经开始为它准备下一代平台。",
+    "url": "https://www.tmtpost.com/8159480.html",
+    "published": "Mon, 05 Oct 2026 15:32:20 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "硅谷AI，正在开源",
+    "summary": "大模型从哪家强到哪家合适的转变。",
+    "url": "https://www.tmtpost.com/8159477.html",
+    "published": "Mon, 05 Oct 2026 15:32:07 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "全球IPO市场透视：融资盛宴与破发寒流并存的第三季",
+    "summary": "2026年第3季，全球资本市场在加息、通胀、地缘、AI四重变量的夹击下走出剧烈分化。",
+    "url": "https://www.tmtpost.com/8159361.html",
+    "published": "Mon, 05 Oct 2026 14:27:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-05"
+  },
+  {
+    "source": "钛媒体",
     "title": "定价逻辑变了，估值方法也变了，安全溢价如何重写关键矿产？",
     "summary": "价格里多了一部分，传统模型算不出来。它不来自成本，来自安全。",
     "url": "https://www.tmtpost.com/8150494.html",
@@ -90,11 +130,11 @@
     "fetchedAt": "2026-10-05"
   },
   {
-    "source": "钛媒体",
-    "title": "【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……",
-    "summary": "（9月28日-10月3日）美国拟限制中国光模块进入国家安全系统；Manus将重新开拓中国市场；谷歌发布Gemini 4模型；Anthropic据悉计划在感恩节假期前进行大规模IPO； 博通筹集600亿美元，用于为Anthropic供应芯片……",
-    "url": "https://www.tmtpost.com/8158700.html",
-    "published": "Sun, 04 Oct 2026 11:16:19 +0800",
+    "source": "极客公园",
+    "title": "AI，为什么总在画美女？",
+    "summary": "作者｜汤一涛 编辑｜靖宇 今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。 视频配文是「普通韩国女性」。截至本文发布，视频播放量已经为 1525 万｜视频来源：X @kangminlee 但是很快一群资深球迷看出了不对劲。比分牌上写着，击球手是曹仁成（Cho Inseong），可曹仁成 2017 年就退役了，现在在斗山当教练。 此外，看台上的加油标语比斗山熊的官方口号多出一个字，像是 AI 生硬直译出来的。而这场转播，解说却是标准的美式口音，同样也很可疑。 这个女人确实不存在，她是由 AI 生成的。但视频被拆穿后没有消失，反而成了一个模板。大家把自己的脸塞进同样的转播画面，生成一张「被球场镜头抓拍到的自己」，并很快在社交网络上流行。 「被球场镜头抓拍到的自己」迅速成了流行模板｜图片来源：RADII 每一次 AI 图像能力的增强，几乎都会跑出一个全民流行的爆款。比如 2025 年 3 月 GPT-4o 能画图了，满屏都是被重绘成吉卜",
+    "url": "http://www.geekpark.net/news/372084",
+    "published": "Mon, 05 Oct 2026 17:45:01 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-05"
@@ -370,16 +410,6 @@
     "fetchedAt": "2026-10-05"
   },
   {
-    "source": "极客公园",
-    "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
-    "summary": "9 月 3 日，GPT-6 Astra 的发布，把 3D 内容创作带到了舞台中央。 在 GPT-6 Astra 官方发布页的一个不到 3 分钟的视频里与后续解读中，Astra 已经能直接进入 Blender，从一句住宅设计需求开始搭场景，先生成极简住宅，后来又将其扩展为围绕庭院展开的家庭住宅。里面有卧室、办公室、厨房和卫生间；家具从床板、衣柜挂杆、烤箱、餐具抽屉，再到灯光模拟，一应俱全。甚至水槽表面的法线出了问题之后，Astra 还会自己返工。 为了制作 30 秒室内漫游，它还会把相机放在约 1.65 米的人眼高度，用 24—26mm 镜头安排四段运动；进入 Unreal Engine 5 之后，它又自己处理 FBX、JSON、米和厘米的单位差、坐标转换、材质映射、碰撞和第一人称控制。 当通用模型也能做 3D 了，专业 3D 生成模型的价值会发生什么变化？ 当下， 3D 工具的使用者，正逐渐从人 扩展 为 Agent。稳定的生成质量之外， 专业 3D 能力能否被 Agent 理解、调用，并用于后续修改——产品是否 Agent-Ready，正在成为 3D 生成下半场的新门槛。 事实上，前",
-    "url": "http://www.geekpark.net/news/371031",
-    "published": "Thu, 24 Sep 2026 22:49:18 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-05"
-  },
-  {
     "source": "TechCrunch",
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "summary": "AI slop seems to be overwhelming bug bounty programs.",
@@ -631,6 +661,26 @@
   },
   {
     "source": "Hacker News",
+    "title": "Azure showed $21k in startup credits. Claude in Foundry billed our card $17k",
+    "summary": "Article URL: https://vegalabs.no/azure-claude-billing.html Comments URL: https://news.ycombinator.com/item?id=49962785 Points: 3 # Comments: 0",
+    "url": "https://vegalabs.no/azure-claude-billing.html",
+    "published": "Mon, 05 Oct 2026 09:56:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-05"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: LaunchPact – Launch support platform (PH, Reddit, and more..)",
+    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49961206 Points: 1 # Comments: 0",
+    "url": "https://www.launchpact.io",
+    "published": "Mon, 05 Oct 2026 06:06:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-05"
+  },
+  {
+    "source": "Hacker News",
     "title": "Asteroid-mining company to launch first autonomous space mission in 2027",
     "summary": "Article URL: https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027 Comments URL: https://news.ycombinator.com/item?id=49957458 Points: 3 # Comments: 0",
     "url": "https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027",
@@ -705,16 +755,6 @@
     "summary": "Article URL: https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93 Comments URL: https://news.ycombinator.com/item?id=49932832 Points: 3 # Comments: 1",
     "url": "https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93",
     "published": "Fri, 02 Oct 2026 12:39:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
-    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49931672 Points: 2 # Comments: 0",
-    "url": "https://www.launchpact.io",
-    "published": "Fri, 02 Oct 2026 09:47:54 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-05"
@@ -800,37 +840,31 @@
     "fetchedAt": "2026-10-05"
   },
   {
-    "source": "Hacker News",
-    "title": "JEP 545: Faster Startup and Warmup with ZGC",
-    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=49922076 Points: 1 # Comments: 0",
-    "url": "https://openjdk.org/jeps/545",
-    "published": "Thu, 01 Oct 2026 14:21:20 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#华为高通 芯片#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23华为高通 芯片%23",
+    "published": "2026-10-05",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-10-05"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cwy7zrljp527o Comments URL: https://news.ycombinator.com/item?id=49921106 Points: 5 # Comments: 4",
-    "url": "https://www.bbc.com/news/articles/cwy7zrljp527o",
-    "published": "Thu, 01 Oct 2026 13:04:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-05",
+    "meta": {
+      "hotValue": 749079,
+      "rank": 3
+    }
   },
   {
     "source": "V2EX",
-    "title": "[开源] 我做了一个没有删除和升级权限的链上论坛",
-    "summary": "做了一个极简的链上论坛，叫 Chain Talk 。 核心思路很简单：所有内容存在以太坊的事件日志里，合约只有 22 行代码，一个变量、一个函数、一个事件。没有管理员，没有删除按钮，没有升级机制。发出去的东西永远不能改。 ### 为什么做这个 我们在这个\"404 时代\"失去了太多东西。 百度空间关了，天涯半死不活，豆瓣小组说解散就解散，贴吧的老帖说删就删。你在网上发过的每一句话，其实都不属于你——它可能被平台删除，可能在服务器迁移时丢失，也可能在公司倒闭后永远消失。 这个实验想看看：如果内容一旦发出就永远不能删除、不能修改、不能被任何管理员下架，会发生什么？",
-    "url": "https://www.v2ex.com/t/1246367",
-    "published": 1791096682,
+    "title": "香港仓库管理 或 日本永居 如何选择，请 V 友们给点想法",
+    "summary": "现状： 年龄 33 。10 年+后端，大厂待过几年。远程搞过 web3 ，现在在日开发。 老婆孩子都是澳门人，孩子四岁。目前一人在日本混永驻老婆偶尔过来做代购。 1.香港仓库 大舅哥生意开新仓，说请我过去当管理和人打交道。 统计人工、结算工资，基本都是电脑文档操作，说先带我三个月 一月 6W 港币，年包 72W 港币 税前。 2.日本永居 目前高才 80 分 明年 5 月提永驻，提交后预计再等 10 个月能下来 大概要 28 年初 收入确实比较低 年包 650W 日元 税前 32W 港币 工作不忙 9-6 准时下班不加班 轻松是轻松 薪资没什么盼头 以后也",
+    "url": "https://www.v2ex.com/t/1246491",
+    "published": 1791180812,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-10-05",
     "meta": {
-      "replies": 29,
-      "node": "分享创造"
+      "replies": 32,
+      "node": "问与答"
     }
   },
   {
@@ -843,10 +877,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-05",
     "meta": {
-      "stars": 3283,
-      "forks": 289,
+      "stars": 3517,
+      "forks": 305,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -859,8 +893,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-05",
     "meta": {
-      "stars": 3253,
-      "forks": 430,
+      "stars": 3395,
+      "forks": 446,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -875,7 +909,7 @@
     "type": "signal",
     "fetchedAt": "2026-10-05",
     "meta": {
-      "stars": 2605,
+      "stars": 2610,
       "forks": 437,
       "language": "Python",
       "createdDaysAgo": 5
@@ -891,8 +925,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-05",
     "meta": {
-      "stars": 1417,
-      "forks": 32,
+      "stars": 1465,
+      "forks": 33,
       "language": "Python",
       "createdDaysAgo": 4
     }
