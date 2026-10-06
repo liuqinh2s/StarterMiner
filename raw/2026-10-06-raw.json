@@ -61,6 +61,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+    "summary": "从“拒绝资本”到千亿融资，梁文锋的态度转变背后，是一场输不起的AI竞赛",
+    "url": "https://www.tmtpost.com/8159961.html",
+    "published": "Tue, 06 Oct 2026 21:10:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "source": "钛媒体",
     "title": "国内大厂的印度“逃亡囧途”",
     "summary": "过去十年，中国互联网出海印度曾被视为全球最后的流量蓝海。",
     "url": "https://www.tmtpost.com/8159927.html",
@@ -411,339 +421,93 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Etched fields funding offers at $40B+ valuation, sources say",
-    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-    "published": "Mon, 05 Oct 2026 20:24:09 +0000",
+    "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+    "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+    "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+    "published": "Tue, 06 Oct 2026 22:53:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "published": "Mon, 05 Oct 2026 18:54:30 +0000",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "published": "Tue, 06 Oct 2026 22:34:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-    "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-    "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-    "published": "Mon, 05 Oct 2026 18:07:07 +0000",
+    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+    "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+    "published": "Tue, 06 Oct 2026 20:47:01 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-    "summary": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-    "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-    "published": "Mon, 05 Oct 2026 17:26:44 +0000",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "published": "Tue, 06 Oct 2026 20:00:30 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "published": "Mon, 05 Oct 2026 15:14:24 +0000",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "published": "Tue, 06 Oct 2026 16:35:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-    "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-    "published": "Mon, 05 Oct 2026 15:00:00 +0000",
+    "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+    "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they've navigated crucial decisions.",
+    "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+    "published": "Tue, 06 Oct 2026 16:18:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "published": "Mon, 05 Oct 2026 15:00:00 +0000",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "published": "Tue, 06 Oct 2026 16:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "TechCrunch",
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "published": "Mon, 05 Oct 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "published": "Sun, 04 Oct 2026 20:31:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Beyond the Drone: How XAG Is Betting on Autonomous Farming",
-    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
-    "url": "https://technode.com/2026/10/02/beyond-the-drone-bet-on-the-autonomous-farm/",
-    "published": "Fri, 02 Oct 2026 03:05:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei launches Mate 90 series with new Kirin chips across the lineup",
-    "summary": "Huawei today held its autumn product launch event in Shanghai, unveiling the Mate 90 series. The series includes five models: the Mate 90, Mate 90 Pro, Mate 90 Pro Max, Mate 90 Pro Max Collector’s Edition, and Mate 90 RS Ultimate Design. Prices range from RMB 5,999 ($895) to RMB 12,999 ($1,939). The main upgrades […]",
-    "url": "https://technode.com/2026/10/01/huawei-launches-mate-90-series-with-new-kirin-chips-across-the-lineup/",
-    "published": "Thu, 01 Oct 2026 11:42:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "BYD plans overseas launch event for Yangwang luxury brand",
-    "summary": "BYD plans to hold an overseas launch event for its Yangwang luxury vehicle brand, the company said in a record of its September 29 shareholder meeting. It did not give a date or location for the event. The company also said it expects its Brazil plant to produce about 250,000 vehicles this year and its […]",
-    "url": "https://technode.com/2026/09/30/byd-plans-overseas-launch-event-for-yangwang-luxury-brand/",
-    "published": "Wed, 30 Sep 2026 15:16:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance reportedly tests standalone Doubao personal assistant app",
-    "summary": "ByteDance is reportedly testing a personal AI assistant tied to Doubao and plans to release it as a standalone app. The product has been given the tentative Chinese name Xiaodou (小豆), according to a report cited by IT Home. The app remains in internal testing, and its public name and features may change before launch. […]",
-    "url": "https://technode.com/2026/09/30/bytedance-reportedly-tests-standalone-doubao-personal-assistant-app/",
-    "published": "Wed, 30 Sep 2026 15:15:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ant Group launches Ling-3.1-flash with 560 billion parameters",
-    "summary": "Ant Group’s InclusionAI has launched Ling-3.1-flash, a language model with 560 billion total parameters and about 25 billion activated for each token. The company is positioning it for agent tasks, search, office software and specialist applications. The model is designed for a context window of up to one million tokens, but its current two-week free […]",
-    "url": "https://technode.com/2026/09/30/ant-group-launches-ling-3-1-flash-with-560-billion-parameters/",
-    "published": "Wed, 30 Sep 2026 15:12:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance’s Doubao reportedly preparing personal AI agent, codenamed Spell and tested since April",
-    "summary": "ByteDance’s AI assistant Doubao is reportedly accelerating work on a new personal AI agent. According to sources, the project began internal testing as early as April and was previously known internally as Spell. Product development has recently picked up pace, with a public launch expected in the near future. The move could mark a shift […]",
-    "url": "https://technode.com/2026/09/30/bytedances-doubao-reportedly-preparing-personal-ai-agent-codenamed-spell-and-tested-since-april/",
-    "published": "Wed, 30 Sep 2026 03:00:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent tests AI gaming companion that responds to live gameplay",
-    "summary": "Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion. It reportedly supports voice chat and can recognize game screens to respond to what is happening in a game. An official Tencent questionnaire confirms the test recruitment but does not detail the product’s capabilities or launch […]",
-    "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
-    "published": "Tue, 29 Sep 2026 06:55:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
-    "summary": "China shipped more than 19,000 humanoid robots in the first half of 2026, accounting for 77.9% of global shipments, according to figures attributed to IDC. Global shipments reached nearly 25,000 units, up 432.1% year over year. IDC also raised its forecast for global humanoid robot shipments in 2030 to more than 750,000 units. [IT Home, […]",
-    "url": "https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/",
-    "published": "Tue, 29 Sep 2026 06:55:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Insta360 explores smart glasses and mirrorless cameras",
-    "summary": "Insta360 is experimenting with smart glasses and developing two mirrorless cameras as it expands beyond 360-degree cameras. Co-founder Max Richter told The Verge that the glasses would focus on making it easier to capture high-quality images, rather than competing on AI assistant features. The glasses remain experimental, and Insta360 has not announced a product name […]",
-    "url": "https://technode.com/2026/09/29/insta360-explores-smart-glasses-and-mirrorless-cameras/",
-    "published": "Tue, 29 Sep 2026 06:55:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "SenseTime Launches SenseMart OS to Bring Embodied Intelligence Into Retail",
-    "summary": "Editor’s note: This article was written by Lucia, a TechNode reporter. On Sept. 23, SenseTime launched SenseMart OS at its Shanghai headquarters, positioning it as a physical operating system for retail. The system connects heterogeneous robots, retail equipment, and commercial operations, offering operators, brands, and venues a deployable, operable, and replicable embodied-retail solution. At the […]",
-    "url": "https://technode.com/2026/09/29/sensetime-launches-sensemart-os-embodied-intelligence-retail/",
-    "published": "Tue, 29 Sep 2026 04:00:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei reportedly weighing a new “Xingyao” value-focused phone brand for November",
-    "summary": "Huawei is reportedly preparing a new smartphone sub-brand called “Xingyao,” which could launch as early as November. The nova series is also said to be moving from a product line toward an independent sub-brand. Huawei’s terminal business had not confirmed the plan by publication time. Customer service said it had no specific information and directed […]",
-    "url": "https://technode.com/2026/09/28/huawei-reportedly-weighing-a-new-xingyao-value-focused-phone-brand-for-november/",
-    "published": "Mon, 28 Sep 2026 07:25:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "A Game Studio in Minutes: JIYI SOON Aims to Redefine Game Creation with AI",
-    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
-    "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation/",
-    "published": "Fri, 25 Sep 2026 02:42:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Zhipu says ZCode removed repository-upload paths after data controversy",
-    "summary": "Zhipu said it has completed a security overhaul of its ZCode AI coding tool after users raised concerns that the software could upload project data to a cloud server without clear consent. ZCode version 3.14.0 removed the RepoWiki feature and the paths used to generate and upload local repository snapshots, while the source code has […]",
-    "url": "https://technode.com/2026/09/24/zhipu-says-zcode-removed-repository-upload-paths-after-data-controversy/",
-    "published": "Thu, 24 Sep 2026 06:05:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi launches 18 Pro with 2nm Snapdragon platform and AI back display",
-    "summary": "Xiaomi has launched the Xiaomi 18 Pro in China, with prices starting at RMB 5,999. The phone is the first to use Qualcomm’s sixth-generation Snapdragon 8 Elite platform built on a 2nm process, with a peak CPU frequency of 5GHz and improved AI performance. The Xiaomi 18 Pro also features a 7,000mAh battery, dual 200-megapixel […]",
-    "url": "https://technode.com/2026/09/24/xiaomi-launches-18-pro-with-2nm-snapdragon-platform-and-ai-back-display/",
-    "published": "Thu, 24 Sep 2026 05:37:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "The Race to Mass-Produce Silicon Photonics",
-    "summary": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extraordinary amounts of electricity. But as those clusters expand, computing power is becoming only part of the problem. The machines […]",
-    "url": "https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/",
-    "published": "Wed, 23 Sep 2026 15:17:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "How AI Startups Can Attract Funding and Talent in Their First Year",
-    "summary": "On September 16, TechNode joined Asia Capital Exchange (ACE), Lighthouse Capital and BEYOND in Beijing to host “ACE Gathering x Light Spot: The First Year of AI Startups,” a closed-door event. The roundtable was moderated by Qiao Jianlong, editor of AI Insider’s Demo Club. Joining him were Zheng Jinliang, co-founder of BASAL INTELLIGENCE (本溯智能); Song […]",
-    "url": "https://technode.com/2026/09/23/how-ai-startups-attract-funding-talent-first-year/",
-    "published": "Wed, 23 Sep 2026 09:49:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance reportedly cuts Doubao’s general-session team after app passes 200 million DAU",
-    "summary": "ByteDance is reducing the size of Doubao’s general Session team by about half, according to a LatePost report. The team previously had roughly 50 people and handled chat-product strategy and evaluation. Some employees will move to Doubao’s monetization and Feishu teams, while others may be laid off. Doubao’s Product Posttrain-Chat team is also being reduced […]",
-    "url": "https://technode.com/2026/09/23/bytedance-doubao-general-session-team-cuts/",
-    "published": "Wed, 23 Sep 2026 09:43:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek details DSec sandbox infrastructure for agent training",
-    "summary": "A paper posted to arXiv details DeepSeek Elastic Compute, or DSec, a sandbox platform designed for large-scale agent training. DeepSeek founder Liang Wenfeng is listed among the paper’s 130-plus authors. DSec unifies function-call, container, microVM and full-VM sandboxes, while coordinating their lifecycle with reinforcement learning workloads. The paper says a production-scale unit spans around 160 […]",
-    "url": "https://technode.com/2026/09/23/deepseek-dsec-agent-training-sandbox-infrastructure/",
-    "published": "Wed, 23 Sep 2026 09:14:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Apple adds China-only motion-data restriction in iOS 27.2 beta",
-    "summary": "Apple’s second beta of iOS 27.2 adds a “Restrict Motion Data” control under Settings > Privacy & Security > Motion & Fitness. The setting lets users block individual apps from accessing motion sensors such as the accelerometer and gyroscope. The feature could reduce apps’ ability to trigger “shake-to-open” ad redirects, a common complaint among Chinese […]",
-    "url": "https://technode.com/2026/09/23/apple-ios-27-2-china-motion-data-restriction/",
-    "published": "Wed, 23 Sep 2026 09:13:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "Bambu Lab launches R1 55W CO₂ laser cutter in first move beyond 3D printing",
-    "summary": "Bambu Lab has launched the R1, a 55W CO₂ laser cutter and engraver that marks the company’s first product line beyond 3D printing. The machine can cut up to 18mm black walnut plywood and 20mm acrylic, while a conveyor accessory allows it to process materials up to 3 meters long. The R1 starts at $2,499 […]",
-    "url": "https://technode.com/2026/09/23/bambu-lab-r1-co2-laser-cutter/",
-    "published": "Wed, 23 Sep 2026 08:45:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "T-Head unveils Zhenwu V900 AI chip in Alibaba’s push to expand its AI infrastructure stack",
-    "summary": "T-Head, Alibaba’s chip subsidiary, today unveiled its next-generation Zhenwu V900 AI chip for both training and inference at the 2026 Apsara Conference in Hangzhou. The company also outlined its roadmap for future Yitian server CPUs. The announcements show T-Head expanding beyond individual AI accelerators toward a full-stack chip strategy covering computing, storage, and networking as […]",
-    "url": "https://technode.com/2026/09/22/t-head-unveils-zhenwu-v900-ai-chip-in-alibabas-push-to-expand-its-ai-infrastructure-stack/",
-    "published": "Tue, 22 Sep 2026 12:33:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "TechNode",
-    "title": "vivo launches X500 Pro series with Dimensity 9600 Pro, starting at RMB 6,499",
-    "summary": "vivo has launched the X500 Pro series, comprising the X500 Pro and X500 Pro Max, with prices starting at RMB 6,499. The phones are the first to use MediaTek’s Dimensity 9600 Pro flagship chipset, according to vivo. The X500 Pro has a 6.36-inch display, while the Pro Max uses a 6.85-inch panel. Both models support […]",
-    "url": "https://technode.com/2026/09/22/vivo-launches-x500-pro-series-with-dimensity-9600-pro-starting-at-rmb-6499/",
-    "published": "Tue, 22 Sep 2026 07:02:40 +0000",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "published": "Tue, 06 Oct 2026 15:25:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
   },
   {
     "source": "The Verge",
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "published": "2026-10-05T16:14:57-04:00",
+    "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+    "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources […]",
+    "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+    "published": "2026-10-06T17:39:53-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "GitHub新星",
-    "title": "rehan-remade/universal-modder",
-    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "url": "https://github.com/rehan-remade/universal-modder",
-    "published": "2026-09-30T05:00:35Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-06",
-    "meta": {
-      "stars": 4169,
-      "forks": 371,
-      "language": "Python",
-      "createdDaysAgo": 6
-    }
   },
   {
     "source": "GitHub新星",
@@ -755,10 +519,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-06",
     "meta": {
-      "stars": 2455,
-      "forks": 252,
+      "stars": 6318,
+      "forks": 794,
       "language": "Rust",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rehan-remade/universal-modder",
+    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "published": "2026-09-30T05:00:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-06",
+    "meta": {
+      "stars": 4574,
+      "forks": 401,
+      "language": "Python",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -771,8 +551,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-06",
     "meta": {
-      "stars": 1603,
-      "forks": 109,
+      "stars": 1763,
+      "forks": 123,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -787,10 +567,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-06",
     "meta": {
-      "stars": 1568,
-      "forks": 35,
+      "stars": 1600,
+      "forks": 36,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]
