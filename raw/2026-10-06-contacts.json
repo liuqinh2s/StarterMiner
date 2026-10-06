@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "altonpeques"
+          "linkedin": "mattanderson823"
         },
         "careerPage": null,
         "jobListings": []
@@ -1529,7 +1529,9 @@
           "github": "JuliaComputing"
         },
         "careerPage": "https://juliahub.com/jobs",
-        "jobListings": []
+        "jobListings": [
+          "JuliaHub - Hardware Engineering at the Speed of Software"
+        ]
       },
       "github": {},
       "hiring": [],

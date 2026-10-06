@@ -61,6 +61,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "国内大厂的印度“逃亡囧途”",
+    "summary": "过去十年，中国互联网出海印度曾被视为全球最后的流量蓝海。",
+    "url": "https://www.tmtpost.com/8159927.html",
+    "published": "Tue, 06 Oct 2026 18:44:10 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "source": "钛媒体",
+    "title": "世界模型赛道：谁在收编，谁在突围？",
+    "summary": "芯片巨头们开抢模型",
+    "url": "https://www.tmtpost.com/8159876.html",
+    "published": "Tue, 06 Oct 2026 12:31:56 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-06"
+  },
+  {
+    "source": "钛媒体",
     "title": "10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？",
     "summary": "可能改写行业规则的AI公司来了。",
     "url": "https://www.tmtpost.com/8159745.html",
@@ -105,36 +125,6 @@
     "summary": "AI硬件扎堆赴港募资，港股承压破发率超七成。",
     "url": "https://www.tmtpost.com/8159517.html",
     "published": "Mon, 05 Oct 2026 17:36:35 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "钛媒体",
-    "title": "AI耳机蓄势，芯片厂商待发",
-    "summary": "AI耳机还没有成为一个边界清晰的品类，芯片厂商却已经开始为它准备下一代平台。",
-    "url": "https://www.tmtpost.com/8159480.html",
-    "published": "Mon, 05 Oct 2026 15:32:20 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "钛媒体",
-    "title": "硅谷AI，正在开源",
-    "summary": "大模型从哪家强到哪家合适的转变。",
-    "url": "https://www.tmtpost.com/8159477.html",
-    "published": "Mon, 05 Oct 2026 15:32:07 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "钛媒体",
-    "title": "全球IPO市场透视：融资盛宴与破发寒流并存的第三季",
-    "summary": "2026年第3季，全球资本市场在加息、通胀、地缘、AI四重变量的夹击下走出剧烈分化。",
-    "url": "https://www.tmtpost.com/8159361.html",
-    "published": "Mon, 05 Oct 2026 14:27:09 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-06"
@@ -740,224 +730,6 @@
     "fetchedAt": "2026-10-06"
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: Launch Your N8n Integration",
-    "summary": "Article URL: https://www.nativeship.io Comments URL: https://news.ycombinator.com/item?id=49973659 Points: 1 # Comments: 2",
-    "url": "https://www.nativeship.io",
-    "published": "Tue, 06 Oct 2026 03:03:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I'm building a personal AI computer startup in Mumbai",
-    "summary": "Article URL: https://x.com/gfaang97609 Comments URL: https://news.ycombinator.com/item?id=49971850 Points: 2 # Comments: 0",
-    "url": "https://x.com/gfaang97609",
-    "published": "Mon, 05 Oct 2026 22:47:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Wall Street banks launch record $60B chip deal for Broadcom and Anthropic",
-    "summary": "Article URL: https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca Comments URL: https://news.ycombinator.com/item?id=49971325 Points: 4 # Comments: 0",
-    "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca",
-    "published": "Mon, 05 Oct 2026 21:48:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Incubator for <18",
-    "summary": "Article URL: https://hacktank.hackclub.com Comments URL: https://news.ycombinator.com/item?id=49968872 Points: 2 # Comments: 0",
-    "url": "https://hacktank.hackclub.com",
-    "published": "Mon, 05 Oct 2026 18:51:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta Rushed to Fix Muse 'VM Escape' Vulnerability Soon Before Launch",
-    "summary": "Article URL: https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/ Comments URL: https://news.ycombinator.com/item?id=49965808 Points: 4 # Comments: 0",
-    "url": "https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/",
-    "published": "Mon, 05 Oct 2026 15:04:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Azure showed $21k in startup credits. Claude in Foundry billed our card $17k",
-    "summary": "Article URL: https://vegalabs.no/azure-claude-billing.html Comments URL: https://news.ycombinator.com/item?id=49962785 Points: 5 # Comments: 0",
-    "url": "https://vegalabs.no/azure-claude-billing.html",
-    "published": "Mon, 05 Oct 2026 09:56:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchPact – Launch support platform (PH, Reddit, and more..)",
-    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49961206 Points: 1 # Comments: 0",
-    "url": "https://www.launchpact.io",
-    "published": "Mon, 05 Oct 2026 06:06:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Asteroid-mining company to launch first autonomous space mission in 2027",
-    "summary": "Article URL: https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027 Comments URL: https://news.ycombinator.com/item?id=49957458 Points: 3 # Comments: 0",
-    "url": "https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027",
-    "published": "Sun, 04 Oct 2026 20:24:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Spotify billionaire's body scan startup Neko Health has come to America",
-    "summary": "Article URL: https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/ Comments URL: https://news.ycombinator.com/item?id=49955724 Points: 3 # Comments: 0",
-    "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-    "published": "Sun, 04 Oct 2026 17:08:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Aptera Launch Costs Cut Nearly in Half, to Just $25M",
-    "summary": "Article URL: https://frequal.com/aptera/LaunchCostsNearlyHalvedOct2026.html Comments URL: https://news.ycombinator.com/item?id=49955173 Points: 2 # Comments: 1",
-    "url": "https://frequal.com/aptera/LaunchCostsNearlyHalvedOct2026.html",
-    "published": "Sun, 04 Oct 2026 16:12:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Up to US$5.5M funding to move your startup to Qatar",
-    "summary": "Article URL: https://startupqatar.qa/en/investment-program Comments URL: https://news.ycombinator.com/item?id=49953909 Points: 1 # Comments: 1",
-    "url": "https://startupqatar.qa/en/investment-program",
-    "published": "Sun, 04 Oct 2026 13:46:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d Comments URL: https://news.ycombinator.com/item?id=49951597 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d",
-    "published": "Sun, 04 Oct 2026 07:44:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Forbidden Stories and UC Berkeley Journalism launch cross-border lab",
-    "summary": "Article URL: https://journalism.berkeley.edu/announce-forbidden-stories-lab-uc-berkeley-journalism/ Comments URL: https://news.ycombinator.com/item?id=49950807 Points: 2 # Comments: 1",
-    "url": "https://journalism.berkeley.edu/announce-forbidden-stories-lab-uc-berkeley-journalism/",
-    "published": "Sun, 04 Oct 2026 05:04:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Israeli filmmakers launch counter-documentary to rebut 'NAZA'",
-    "summary": "Article URL: https://www.jpost.com/israel-news/article-910374 Comments URL: https://news.ycombinator.com/item?id=49936310 Points: 3 # Comments: 8",
-    "url": "https://www.jpost.com/israel-news/article-910374",
-    "published": "Fri, 02 Oct 2026 17:43:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Texas agencies betting that Abbott will restore funding keep Flock cameras on",
-    "summary": "Article URL: https://www.texastribune.org/2026/10/02/texas-flock-camera-reinstatement-state-funding/ Comments URL: https://news.ycombinator.com/item?id=49935300 Points: 10 # Comments: 1",
-    "url": "https://www.texastribune.org/2026/10/02/texas-flock-camera-reinstatement-state-funding/",
-    "published": "Fri, 02 Oct 2026 16:20:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Corbenic AI launches Galahad to secure AI memory and cut energy",
-    "summary": "Article URL: https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93 Comments URL: https://news.ycombinator.com/item?id=49932832 Points: 3 # Comments: 1",
-    "url": "https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93",
-    "published": "Fri, 02 Oct 2026 12:39:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "As US relations fray, Canada gets serious about its own launch industry",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/ Comments URL: https://news.ycombinator.com/item?id=49931543 Points: 5 # Comments: 1",
-    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-    "published": "Fri, 02 Oct 2026 09:25:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "VCs are funding a concert business as a hedge against AI",
-    "summary": "Article URL: https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9 Comments URL: https://news.ycombinator.com/item?id=49931529 Points: 3 # Comments: 0",
-    "url": "https://www.businessinsider.com/vcs-funding-rasa-world-concerts-as-a-hedge-against-ai-2026-9",
-    "published": "Fri, 02 Oct 2026 09:23:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "Hacker News",
-    "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/ Comments URL: https://news.ycombinator.com/item?id=49931525 Points: 3 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-    "published": "Fri, 02 Oct 2026 09:22:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-06"
-  },
-  {
-    "source": "微博",
-    "title": "#赌博输几千万发朋友圈谈创业心酸#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23赌博输几千万发朋友圈谈创业心酸%23",
-    "published": "2026-10-06",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-06",
-    "meta": {
-      "hotValue": 288473,
-      "rank": 14
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "香港仓库管理 或 日本永居 如何选择，请 V 友们给点想法",
-    "summary": "现状： 年龄 33 。10 年+后端，大厂待过几年。远程搞过 web3 ，现在在日开发。 老婆孩子都是澳门人，孩子四岁。目前一人在日本混永驻老婆偶尔过来做代购。 1.香港仓库 大舅哥生意开新仓，说请我过去当管理和人打交道。 统计人工、结算工资，基本都是电脑文档操作，说先带我三个月 一月 6W 港币，年包 72W 港币 税前。 2.日本永居 目前高才 80 分 明年 5 月提永驻，提交后预计再等 10 个月能下来 大概要 28 年初 收入确实比较低 年包 650W 日元 税前 32W 港币 工作不忙 9-6 准时下班不加班 轻松是轻松 薪资没什么盼头 以后也",
-    "url": "https://www.v2ex.com/t/1246491",
-    "published": 1791180812,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-06",
-    "meta": {
-      "replies": 49,
-      "node": "问与答"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "rehan-remade/universal-modder",
     "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -967,10 +739,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-06",
     "meta": {
-      "stars": 3901,
-      "forks": 349,
+      "stars": 4169,
+      "forks": 371,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -983,25 +755,9 @@
     "type": "signal",
     "fetchedAt": "2026-10-06",
     "meta": {
-      "stars": 2223,
-      "forks": 229,
+      "stars": 2455,
+      "forks": 252,
       "language": "Rust",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "nanaism/yomiyasu",
-    "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "url": "https://github.com/nanaism/yomiyasu",
-    "published": "2026-09-30T11:49:32Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-06",
-    "meta": {
-      "stars": 1537,
-      "forks": 34,
-      "language": "Python",
       "createdDaysAgo": 5
     }
   },
@@ -1015,10 +771,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-06",
     "meta": {
-      "stars": 1514,
-      "forks": 107,
+      "stars": 1603,
+      "forks": 109,
       "language": "JavaScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nanaism/yomiyasu",
+    "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "published": "2026-09-30T11:49:32Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-06",
+    "meta": {
+      "stars": 1568,
+      "forks": 35,
+      "language": "Python",
+      "createdDaysAgo": 5
     }
   }
 ]
