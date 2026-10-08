@@ -41,6 +41,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
+    "summary": "自动驾驶货运的竞争，正在从“卡车内部”（谁的 L4 更强）扩展到“公铁之争”（500 英里以内的短途货运到底谁来吃）；短途才是真正的主战场，而决定谁能活到规模化那天的，不只是算法，还有资本与监管这两道闸门。",
+    "url": "https://www.tmtpost.com/8161239.html",
+    "published": "Thu, 08 Oct 2026 19:59:54 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-08"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Anthropic要上市了：5年公司2万亿估值，谁在为AI泡沫买单？",
+    "summary": "Anthropic要上市了：5年公司2万亿估值，谁在为AI泡沫买单？",
+    "url": "https://www.tmtpost.com/8161055.html",
+    "published": "Thu, 08 Oct 2026 19:42:32 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-08"
+  },
+  {
+    "source": "钛媒体",
     "title": "从家电龙头到“人形机器人第一股”：质量，成为广东产业链的公共底座",
     "summary": "制造业大省如何把规模优势沉淀为质量优势。",
     "url": "https://www.tmtpost.com/8161267.html",
@@ -55,26 +75,6 @@
     "summary": "10月8日，Manus母公司蝴蝶效应宣布完成超5亿美元新一轮融资",
     "url": "https://www.tmtpost.com/8161264.html",
     "published": "Thu, 08 Oct 2026 18:13:21 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
-    "summary": "这个行业究竟在卖什么？",
-    "url": "https://www.tmtpost.com/8160841.html",
-    "published": "Thu, 08 Oct 2026 11:24:52 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "钛媒体",
-    "title": "90后站上C位：姚顺雨、罗福莉、刘大一恒、陈宇森、周畅们接管国产大模型",
-    "summary": "国产大模型迎来90后接管时代。",
-    "url": "https://www.tmtpost.com/8160735.html",
-    "published": "Thu, 08 Oct 2026 10:43:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-08"
@@ -371,120 +371,70 @@
   },
   {
     "source": "TechCrunch",
-    "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-    "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-    "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-    "published": "Thu, 08 Oct 2026 06:14:11 +0000",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "published": "Thu, 08 Oct 2026 21:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "TechCrunch",
-    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-    "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-    "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-    "published": "Wed, 07 Oct 2026 23:36:57 +0000",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "published": "Thu, 08 Oct 2026 18:20:32 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "TechCrunch",
-    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-    "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-    "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-    "published": "Wed, 07 Oct 2026 22:59:16 +0000",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "published": "Thu, 08 Oct 2026 18:19:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "TechCrunch",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+    "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+    "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+    "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+    "published": "Thu, 08 Oct 2026 16:45:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "TechCrunch",
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "published": "Thu, 08 Oct 2026 16:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "TechCrunch",
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "published": "Wed, 07 Oct 2026 18:00:19 +0000",
+    "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+    "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+    "url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
+    "published": "Thu, 08 Oct 2026 15:12:59 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "TechCrunch",
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "published": "Wed, 07 Oct 2026 16:53:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "published": "Wed, 07 Oct 2026 15:07:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-    "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-    "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-    "published": "Wed, 07 Oct 2026 15:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-    "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-    "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-    "published": "Wed, 07 Oct 2026 15:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "published": "Wed, 07 Oct 2026 14:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-    "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+    "title": "Spotify is getting more serious about selling enterprise software",
+    "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+    "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+    "published": "Thu, 08 Oct 2026 14:34:33 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
@@ -711,220 +661,20 @@
   },
   {
     "source": "The Verge",
-    "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-    "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything […]",
-    "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-    "published": "2026-10-07T17:19:54-04:00",
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "published": "2026-10-08T17:53:51-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
   },
   {
     "source": "The Verge",
-    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-    "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-    "published": "2026-10-07T15:10:42-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Arteris Wins Funding to Expand Hardware Design Supply Chain Security Assurance",
-    "summary": "Article URL: https://ir.arteris.com/news-releases/news-release-details/arteris-wins-funding-expand-hardware-design-supply-chain Comments URL: https://news.ycombinator.com/item?id=50002984 Points: 1 # Comments: 0",
-    "url": "https://ir.arteris.com/news-releases/news-release-details/arteris-wins-funding-expand-hardware-design-supply-chain",
-    "published": "Thu, 08 Oct 2026 07:51:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Startup That Wants to Build 'Microrobots' with A.I",
-    "summary": "Article URL: https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html Comments URL: https://news.ycombinator.com/item?id=50002256 Points: 2 # Comments: 0",
-    "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
-    "published": "Thu, 08 Oct 2026 06:01:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Xeal to Launch Edge Inference Compute Using Idle EV Charging Capacity",
-    "summary": "Article URL: https://www.businesswire.com/news/home/20260918640145/en/Xeal-to-Launch-Laitent-Worlds-First-Edge-Inference-Compute-Using-Idle-EV-Charging-Capacity Comments URL: https://news.ycombinator.com/item?id=50001828 Points: 1 # Comments: 0",
-    "url": "https://www.businesswire.com/news/home/20260918640145/en/Xeal-to-Launch-Laitent-Worlds-First-Edge-Inference-Compute-Using-Idle-EV-Charging-Capacity",
-    "published": "Thu, 08 Oct 2026 04:32:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Big rockets could launch a dozen times a year in initial New Zealand plan",
-    "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan Comments URL: https://news.ycombinator.com/item?id=49999183 Points: 5 # Comments: 0",
-    "url": "https://www.rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan",
-    "published": "Wed, 07 Oct 2026 21:43:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple to Launch Doorbell, Lock, Thermostat Developed with LG",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg Comments URL: https://news.ycombinator.com/item?id=49997994 Points: 4 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
-    "published": "Wed, 07 Oct 2026 19:55:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Funding the AI revolution: evidence from euro area sectors",
-    "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html Comments URL: https://news.ycombinator.com/item?id=49996461 Points: 3 # Comments: 0",
-    "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
-    "published": "Wed, 07 Oct 2026 18:03:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nous Research raises $90M in new funding",
-    "summary": "Article URL: https://nousresearch.com/a-note-on-our-fundraise Comments URL: https://news.ycombinator.com/item?id=49994924 Points: 3 # Comments: 0",
-    "url": "https://nousresearch.com/a-note-on-our-fundraise",
-    "published": "Wed, 07 Oct 2026 16:18:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic Startup \"Program\"",
-    "summary": "Article URL: https://www.anthropic.com/startup-program-official-terms Comments URL: https://news.ycombinator.com/item?id=49993374 Points: 2 # Comments: 1",
-    "url": "https://www.anthropic.com/startup-program-official-terms",
-    "published": "Wed, 07 Oct 2026 14:29:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
-    "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/ Comments URL: https://news.ycombinator.com/item?id=49990517 Points: 1 # Comments: 0",
-    "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
-    "published": "Wed, 07 Oct 2026 09:58:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: FoundrRadio – Pick a frequency, launch your radio station and go on air",
-    "summary": "Hey everyone! We've all loved the feeling of tuning an old radio and listening to music, commentary, or the news. But we've mostly experienced radio as listeners. We never really got to be on the other side and have our own frequency and broadcast to others. So I thought, what if we could combine both? A place where anyone can have their own frequency and go live. You can tune around, discover someone's station, or claim your own and go on air. Comments URL: https://news.ycombinator.com/item?id=",
-    "url": "https://foundrradio.live/",
-    "published": "Tue, 06 Oct 2026 16:05:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Etched fields funding offers at $40B+ valuation",
-    "summary": "Article URL: https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/ Comments URL: https://news.ycombinator.com/item?id=49979734 Points: 12 # Comments: 4",
-    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-    "published": "Tue, 06 Oct 2026 15:13:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "DeepSeek to Raise at Least $12B in Tencent-Backed Funding",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding Comments URL: https://news.ycombinator.com/item?id=49974897 Points: 6 # Comments: 1",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
-    "published": "Tue, 06 Oct 2026 06:19:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Launch Your N8n Integration",
-    "summary": "Article URL: https://www.nativeship.io Comments URL: https://news.ycombinator.com/item?id=49973659 Points: 1 # Comments: 2",
-    "url": "https://www.nativeship.io",
-    "published": "Tue, 06 Oct 2026 03:03:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I'm building a personal AI computer startup in Mumbai",
-    "summary": "Article URL: https://x.com/gfaang97609 Comments URL: https://news.ycombinator.com/item?id=49971850 Points: 2 # Comments: 0",
-    "url": "https://x.com/gfaang97609",
-    "published": "Mon, 05 Oct 2026 22:47:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Wall Street banks launch record $60B chip deal for Broadcom and Anthropic",
-    "summary": "Article URL: https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca Comments URL: https://news.ycombinator.com/item?id=49971325 Points: 4 # Comments: 0",
-    "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca",
-    "published": "Mon, 05 Oct 2026 21:48:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Incubator for <18",
-    "summary": "Article URL: https://hacktank.hackclub.com Comments URL: https://news.ycombinator.com/item?id=49968872 Points: 2 # Comments: 0",
-    "url": "https://hacktank.hackclub.com",
-    "published": "Mon, 05 Oct 2026 18:51:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Meta Rushed to Fix Muse 'VM Escape' Vulnerability Soon Before Launch",
-    "summary": "Article URL: https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/ Comments URL: https://news.ycombinator.com/item?id=49965808 Points: 4 # Comments: 0",
-    "url": "https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/",
-    "published": "Mon, 05 Oct 2026 15:04:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Azure showed $21k in startup credits. Claude in Foundry billed our card $17k",
-    "summary": "Article URL: https://vegalabs.no/azure-claude-billing.html Comments URL: https://news.ycombinator.com/item?id=49962785 Points: 5 # Comments: 0",
-    "url": "https://vegalabs.no/azure-claude-billing.html",
-    "published": "Mon, 05 Oct 2026 09:56:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchPact – Launch support platform (PH, Reddit, and more..)",
-    "summary": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49961206 Points: 1 # Comments: 0",
-    "url": "https://www.launchpact.io",
-    "published": "Mon, 05 Oct 2026 06:06:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-08"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Asteroid-mining company to launch first autonomous space mission in 2027",
-    "summary": "Article URL: https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027 Comments URL: https://news.ycombinator.com/item?id=49957458 Points: 3 # Comments: 0",
-    "url": "https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027",
-    "published": "Sun, 04 Oct 2026 20:24:44 +0000",
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
+    "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "published": "2026-10-08T16:06:56-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-08"
@@ -939,22 +689,8 @@
     "type": "community",
     "fetchedAt": "2026-10-08",
     "meta": {
-      "replies": 85,
+      "replies": 96,
       "node": "程序员"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "AI 有沒有可能真的产生意识呢？",
-    "summary": "其实在这个问题之前，还需要定义怎么样算是有意识 拿人来说，有“意识”，最基本的要素有要有自己的主观体验和感受，有自己的性格 、情绪、兴趣、甚至有自己的理想，但从大模型的原理上来说，（本质就是用注意力机制预测下一个 token ），目前是不具备的，而且在这个框架下似乎也挺难诞生“意识”，即便上下文能够支持到无限大。",
-    "url": "https://www.v2ex.com/t/1246863",
-    "published": 1791391325,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-08",
-    "meta": {
-      "replies": 70,
-      "node": "随想"
     }
   }
 ]
