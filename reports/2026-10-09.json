@@ -468,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "justinhammon"
+            "linkedin": "leo-guinan-4211761bb"
           },
           "careerPage": null,
           "jobListings": []
@@ -1893,6 +1893,7 @@
             "name@domain.com",
             "u003esupport@meshy.ai",
             "careers@meshy.ai",
+            "meshy-webapp@v2026.10.09.post",
             "jane@company.com"
           ],
           "socials": {
@@ -3530,7 +3531,6 @@
           },
           "careerPage": "https://www.minimax.com/career",
           "jobListings": [
-            "On this page you will find all the \"Technical Product information\" to our product portfolio.",
             "Data Center",
             "Data privacy policy"
           ]
