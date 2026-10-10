@@ -41,6 +41,36 @@
   },
   {
     "source": "钛媒体",
+    "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
+    "summary": "（10月5日-10日）Manus完成超5亿美元新一轮融资；博通据悉计划为OpenAI定制芯片项目融资逾500亿美元；Anthropic发布最新AI模型Claude Haiku 5.5，运行成本较4.5低约75%；OpenAI宣布面向全球所有ChatGPT用户上线GPT-6",
+    "url": "https://www.tmtpost.com/8163752.html",
+    "published": "Sat, 10 Oct 2026 17:57:43 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-10"
+  },
+  {
+    "source": "钛媒体",
+    "title": "张雪的老东家要去IPO了",
+    "summary": "两年三轮融资之外，张雪“老东家”也在排队上市。",
+    "url": "https://www.tmtpost.com/8163619.html",
+    "published": "Sat, 10 Oct 2026 17:38:56 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-10"
+  },
+  {
+    "source": "钛媒体",
+    "title": "AI Labels Multiply on Appliances as Overall Demand Stays Soft",
+    "summary": "Traditional home-appliance sales remained weak through China’s peak autumn window, while retailers reported sharp gains for AI-branded models. The surge raises a sharper question: how much of the new intelligence solves real household friction, and how much is packaging layered onto a market that still lacks buyers.",
+    "url": "https://www.tmtpost.com/8163749.html",
+    "published": "Sat, 10 Oct 2026 16:10:03 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-10"
+  },
+  {
+    "source": "钛媒体",
     "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
     "summary": "10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。",
     "url": "https://www.tmtpost.com/8163462.html",
@@ -60,31 +90,11 @@
     "fetchedAt": "2026-10-10"
   },
   {
-    "source": "钛媒体",
-    "title": "不聊天的AI，上线不到一个月，完成75亿美元估值融资",
-    "summary": "非文本模型Jev开发商TypeSafe AI完成8.7亿美元融资",
-    "url": "https://www.tmtpost.com/8163464.html",
-    "published": "Sat, 10 Oct 2026 08:54:53 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "钛媒体",
-    "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
-    "summary": "天孚通信回应海外进出口政策限制传闻；懂车帝辟谣网传内部整顿通知；特斯拉弃用“自动驾驶”命名，以争取欧洲监管批准；iPhone 18 Pro系列被曝削减零部件产量，供应链人士回应；山姆拟限制亲友卡绑定；企查查A股IPO终止；美发布应对所谓“结构性产能和生产过剩”问题部长级联合声明，中方回应。",
-    "url": "https://www.tmtpost.com/8163364.html",
-    "published": "Sat, 10 Oct 2026 07:20:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "钛媒体",
-    "title": "特斯拉供应商们，正在悄悄“造人”",
-    "summary": "人形机器人量产前夜，均胜、拓普、三花抢跑。",
-    "url": "https://www.tmtpost.com/8162947.html",
-    "published": "Fri, 09 Oct 2026 18:18:54 +0800",
+    "source": "极客公园",
+    "title": "记录生生不息的创新力量｜2026 年度「InnoForce 50」启动",
+    "summary": "过去几年，科技行业最重要的变化之一，是创新的底层逻辑正在被重新改写。 到了 2026 年，AI 已经不只是技术变量，而成为影响产品形态和组织方式的关键变量。它开始进入办公室、工厂、汽车、机器人、医院等场景，也进入了许多过去并不处在科技叙事中心的行业。它改变软件，也反过来改变硬件；改变一个人的工作方式，也改变一家公司的组织方式。 但 AI 不是全部。真正值得被记录的，是当 AI 成为新变量之后，整个创新世界被重新点燃了。 有人从 AI 出发，做出了过去不存在的产品；有人把 AI 带进传统行业，去解决那些卡了十年、二十年的老问题；有人重新思考人与机器的关系，让机器不只是工具，而是执行者，甚至某种意义上的「新同事」；也有人并没有把 AI 放在舞台中央，却借助新的技术能力，让原本不可能的事情第一次变得可行。 这也是创新最有意思的地方：它从来不只有一种样子。 它可以是一项底层技术的突破，也可以是一款真正打动用户的产品；可以发生在企业内部的一次自我革新，也可以藏在产业链深处的关键环节；可以来自年轻创业团队的突破，也可以来自成熟公司的自我迭代。 在 2026 年这个技术快速变化的节点上，「InnoF",
+    "url": "http://www.geekpark.net/news/372195",
+    "published": "Sat, 10 Oct 2026 13:58:20 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-10"
@@ -360,21 +370,11 @@
     "fetchedAt": "2026-10-10"
   },
   {
-    "source": "极客公园",
-    "title": "蔚来换电，终于等来了「别人家的车」",
-    "summary": "过去一年，蔚来似乎有意在新车发布时不再过分强调「换电」的重要性。以笔者自己的体感而言，无论是新车发布会，还是线下门店里用户的讨论度，换电都不再是「最重要的那一个话题点」。 但换电退到了幕后，却没有影响蔚来的新车销量：第三代 ES8 上市 12 个月销量突破 15 万台，ES9 上市 4 个月累计交付突破 3 万台。 现在，换电这件事又有了新进展。 9 月 28 日，在中秋假期后的第一个工作日，蔚来的能源业务迎来了一个重要的合作伙伴。吉利控股将以旗下易易互联 100% 的股权，加上 6.4 亿元现金，入股蔚来能源。交易完成后，吉利控股持有蔚来能源 30% 的股权；易易互联的营运车辆换电业务并入蔚来能源；双方共建统一的 C 端换电技术和标准，吉利将开发面向 C 端的换电车型。另外在充电领域，蔚来也反向入股了吉利旗下的浩瀚能源，持股 10%。 「换电」正在从蔚来过去卖车的「卖点」，走向一门独立的生意。 比钱更重要的，是「规模」 6.4 亿元，对蔚来并不算一笔「大钱」。 截至今年二季度末，蔚来集团的现金储备是 567 亿元，这笔钱大约只占 1%。而且，蔚来已经连续几个季度实现了正向经营现金流。",
-    "url": "http://www.geekpark.net/news/371233",
-    "published": "Mon, 28 Sep 2026 20:40:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "极客公园",
-    "title": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了",
-    "summary": "最近， 一个叫 Jev 的 AI 模型突然在开发者圈子里炸了。更可怕的是，根据最新消息，Jev 最近正在洽谈 10 亿美元融资，最新估值 100 亿美元——而这距离 Jev 推出，还不到 1 个月。 Jev 这个新模型，它不生成文本，不跟你聊天，甚至不写代码。你给它一段数据和一组结构化问题，它返回类型化的答案和校准过的概率值。TypeSafe AI 管它叫「System One 模型」，一种全新的模型类别。9 月 15 日发布早期访问版本的同时，公司宣布获得 DCVC 领投的 4000 万美元种子轮融资，估值 2 亿美元。 开发者社区很快炸开了锅。TypeSafe 公布的数据显示，在分类任务上 Jev 比 GPT 系列快约 193 倍、便宜约 445 倍。Vercel CEO Guillermo Rauch 测试后说，在 p95 延迟上 Jev 比 GPT Luna 快 18 倍，而且更准。LangChain 第一时间写了集成指南。 但真正让 Jev 值得关注的，不是这些数字，而是它背后的人和他的判断 。 Jev 的创造者 Diogo Almeida 曾在 OpenAI 工作近四年，是",
-    "url": "http://www.geekpark.net/news/371126",
-    "published": "Mon, 28 Sep 2026 17:50:05 +0800",
+    "source": "爱范儿",
+    "title": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+    "summary": "LLM 给人用，这个决策模型给代码用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Sat, 10 Oct 2026 09:11:54 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-10"
@@ -515,6 +515,26 @@
     "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
     "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
     "published": "Fri, 09 Oct 2026 12:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "LivSyn Robotics raises Series A funding for platform connecting robots with AI models",
+    "summary": "Beijing-based LivSyn Robotics has secured a Series A round of at least RMB 100 million, according to an October 8 announcement. The round brought together financial investors, listed energy-services company Suwen Electric Energy and an undisclosed strategic investor in embodied AI. LivSyn develops RUDA, short for Robotics Unified Device Architecture, to connect different robot designs […]",
+    "url": "https://technode.com/2026/10/10/livsyn-robotics-raises-series-a-funding-for-platform-connecting-robots-with-ai-models/",
+    "published": "Sat, 10 Oct 2026 09:19:47 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-10"
+  },
+  {
+    "source": "TechNode",
+    "title": "AI glasses brand NIMO secures angel funding at RMB 1.5 billion valuation",
+    "summary": "The Chinese startup behind AI glasses brand NIMO has raised several hundred million yuan in angel funding, bringing its valuation to RMB 1.5 billion, according to an October 8 report. Investors include Gobi Partners, alongside other Chinese venture capital firms. The company develops smart glasses for everyday use and has established offline sales channels. It […]",
+    "url": "https://technode.com/2026/10/10/ai-glasses-brand-nimo-secures-angel-funding-at-rmb-1-5-billion-valuation/",
+    "published": "Sat, 10 Oct 2026 09:19:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-10"
@@ -690,36 +710,6 @@
     "fetchedAt": "2026-10-10"
   },
   {
-    "source": "TechNode",
-    "title": "Huawei reportedly weighing a new “Xingyao” value-focused phone brand for November",
-    "summary": "Huawei is reportedly preparing a new smartphone sub-brand called “Xingyao,” which could launch as early as November. The nova series is also said to be moving from a product line toward an independent sub-brand. Huawei’s terminal business had not confirmed the plan by publication time. Customer service said it had no specific information and directed […]",
-    "url": "https://technode.com/2026/09/28/huawei-reportedly-weighing-a-new-xingyao-value-focused-phone-brand-for-november/",
-    "published": "Mon, 28 Sep 2026 07:25:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "TechNode",
-    "title": "A Game Studio in Minutes: JIYI SOON Aims to Redefine Game Creation with AI",
-    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
-    "url": "https://technode.com/2026/09/25/a-game-studio-in-minutes-jiyi-soon-ai-game-creation/",
-    "published": "Fri, 25 Sep 2026 02:42:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "TechNode",
-    "title": "Zhipu says ZCode removed repository-upload paths after data controversy",
-    "summary": "Zhipu said it has completed a security overhaul of its ZCode AI coding tool after users raised concerns that the software could upload project data to a cloud server without clear consent. ZCode version 3.14.0 removed the RepoWiki feature and the paths used to generate and upload local repository snapshots, while the source code has […]",
-    "url": "https://technode.com/2026/09/24/zhipu-says-zcode-removed-repository-upload-paths-after-data-controversy/",
-    "published": "Thu, 24 Sep 2026 06:05:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
     "source": "The Verge",
     "title": "Google teases Fitbit Edge launch next week",
     "summary": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" A trove of Fitbit Edge leaks has […]",
@@ -730,183 +720,17 @@
     "fetchedAt": "2026-10-10"
   },
   {
-    "source": "Hacker News",
-    "title": "Faster Python startup with lazy imports",
-    "summary": "Article URL: https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/ Comments URL: https://news.ycombinator.com/item?id=50027895 Points: 2 # Comments: 0",
-    "url": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
-    "published": "Fri, 09 Oct 2026 23:33:55 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#田柯宇被字节开除后创业#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23田柯宇被字节开除后创业%23",
+    "published": "2026-10-10",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Vinod Khosla Backs an AI Startup Building a Mind-Reading Baseball Cap",
-    "summary": "Article URL: https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/ Comments URL: https://news.ycombinator.com/item?id=50022263 Points: 2 # Comments: 0",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/",
-    "published": "Fri, 09 Oct 2026 15:49:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Faster Python startup with lazy imports",
-    "summary": "Article URL: https://twitter.com/lemire/status/2108525803843580302 Comments URL: https://news.ycombinator.com/item?id=50019337 Points: 1 # Comments: 0",
-    "url": "https://twitter.com/lemire/status/2108525803843580302",
-    "published": "Fri, 09 Oct 2026 12:07:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How One Startup Started Tracking Every Car in America [video-essay]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=OOnVEiPiQHE Comments URL: https://news.ycombinator.com/item?id=50017375 Points: 1 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=OOnVEiPiQHE",
-    "published": "Fri, 09 Oct 2026 07:46:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic pulls Startup program revoking pending offers",
-    "summary": "Article URL: https://twitter.com/claudeai/status/2108404561413349695 Comments URL: https://news.ycombinator.com/item?id=50016572 Points: 6 # Comments: 1",
-    "url": "https://twitter.com/claudeai/status/2108404561413349695",
-    "published": "Fri, 09 Oct 2026 06:04:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon builds 1,000th satellite, will launch internet service by end of year",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/ Comments URL: https://news.ycombinator.com/item?id=50016363 Points: 4 # Comments: 2",
-    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-    "published": "Fri, 09 Oct 2026 05:30:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "My Startup Path (2007)",
-    "summary": "Article URL: http://paulbuchheit.blogspot.com/2007/03/my-startup-path.html Comments URL: https://news.ycombinator.com/item?id=50015195 Points: 7 # Comments: 0",
-    "url": "http://paulbuchheit.blogspot.com/2007/03/my-startup-path.html",
-    "published": "Fri, 09 Oct 2026 02:20:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tips for Startup Companies (2007)",
-    "summary": "Article URL: http://philip.greenspun.com/business/startup-tips/ Comments URL: https://news.ycombinator.com/item?id=50015083 Points: 5 # Comments: 0",
-    "url": "http://philip.greenspun.com/business/startup-tips/",
-    "published": "Fri, 09 Oct 2026 02:04:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The app launch checklist we wish founders used",
-    "summary": "Article URL: https://ignura.com/blog/app-launch-checklist Comments URL: https://news.ycombinator.com/item?id=50010848 Points: 2 # Comments: 0",
-    "url": "https://ignura.com/blog/app-launch-checklist",
-    "published": "Thu, 08 Oct 2026 19:32:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Quantum computing startup Oratomic worth $5.4B after Series B",
-    "summary": "Article URL: https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc Comments URL: https://news.ycombinator.com/item?id=50010291 Points: 2 # Comments: 0",
-    "url": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc",
-    "published": "Thu, 08 Oct 2026 18:52:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Prepping for First Product Hunt Launch",
-    "summary": "I'm submitting my first ever app launch next week on PH. Apps name is GrabThat is a windows desktop launcher similar to RayCast but uses natural language inputs instead of just fuzzy search. Also plays with PowerToys like it is an extension. I'd appreciate up votes if you see it. Comments URL: https://news.ycombinator.com/item?id=50008958 Points: 1 # Comments: 0",
-    "url": "https://grabthat.ai/",
-    "published": "Thu, 08 Oct 2026 17:32:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Credit Map",
-    "summary": "Article URL: https://programscape.com Comments URL: https://news.ycombinator.com/item?id=50006417 Points: 3 # Comments: 0",
-    "url": "https://programscape.com",
-    "published": "Thu, 08 Oct 2026 14:44:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Is food waste a strong enough problem for a consumer startup?",
-    "summary": "Article URL: https://apps.apple.com/us/app/expirea/id6778392067 Comments URL: https://news.ycombinator.com/item?id=50006111 Points: 2 # Comments: 1",
-    "url": "https://apps.apple.com/us/app/expirea/id6778392067",
-    "published": "Thu, 08 Oct 2026 14:18:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Arteris Wins Funding to Expand Hardware Design Supply Chain Security Assurance",
-    "summary": "Article URL: https://ir.arteris.com/news-releases/news-release-details/arteris-wins-funding-expand-hardware-design-supply-chain Comments URL: https://news.ycombinator.com/item?id=50002984 Points: 1 # Comments: 0",
-    "url": "https://ir.arteris.com/news-releases/news-release-details/arteris-wins-funding-expand-hardware-design-supply-chain",
-    "published": "Thu, 08 Oct 2026 07:51:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Startup That Wants to Build 'Microrobots' with A.I",
-    "summary": "Article URL: https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html Comments URL: https://news.ycombinator.com/item?id=50002256 Points: 2 # Comments: 0",
-    "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
-    "published": "Thu, 08 Oct 2026 06:01:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Xeal to Launch Edge Inference Compute Using Idle EV Charging Capacity",
-    "summary": "Article URL: https://www.businesswire.com/news/home/20260918640145/en/Xeal-to-Launch-Laitent-Worlds-First-Edge-Inference-Compute-Using-Idle-EV-Charging-Capacity Comments URL: https://news.ycombinator.com/item?id=50001828 Points: 1 # Comments: 0",
-    "url": "https://www.businesswire.com/news/home/20260918640145/en/Xeal-to-Launch-Laitent-Worlds-First-Edge-Inference-Compute-Using-Idle-EV-Charging-Capacity",
-    "published": "Thu, 08 Oct 2026 04:32:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Big rockets could launch a dozen times a year in initial New Zealand plan",
-    "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan Comments URL: https://news.ycombinator.com/item?id=49999183 Points: 5 # Comments: 0",
-    "url": "https://www.rnz.co.nz/news/science-and-technology/1786736/big-rockets-could-launch-a-dozen-times-a-year-in-initial-canterbury-plan",
-    "published": "Wed, 07 Oct 2026 21:43:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Apple to Launch Doorbell, Lock, Thermostat Developed with LG",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg Comments URL: https://news.ycombinator.com/item?id=49997994 Points: 4 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
-    "published": "Wed, 07 Oct 2026 19:55:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-10"
+    "fetchedAt": "2026-10-10",
+    "meta": {
+      "hotValue": 279473,
+      "rank": 24
+    }
   }
 ]
