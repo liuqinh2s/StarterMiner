@@ -51,6 +51,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】证监会：探索更加适配创新型中小企业的制度和实践；两部门：明年4月起，将新能源汽车的增值税出口退税率由13%下调至9%；十余个品牌发文祝贺郑钦文中网夺冠，一年收入约达1.5亿元",
+    "summary": "问界汽车拟于2027年进入欧洲市场；腾讯控股：根据全球中期票据计划建议发行票据；iPhone Duo预售前夕，苹果COO到访富士康并回应产能情况：正扩大生产规模；英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI；亚马逊据悉正洽谈收购人工智能初创公司Decart；《铁路科技创新“十五五”规划》印发：稳妥有序推进时速600公里高速磁浮技术研究及国产化关键技术试验验证；《关于促进国际航空货运健康有序发展的意见》印发；香港证监会：将加强具针对性的工具以打击首次公开招股相关的失当行为及其他企业失当行为；港交所行政总裁：正积极研究延长衍生产品的夜市交易时间；乘联分会：9月新能源乘用车出口55.8万辆，同比增长163.5%；前三季度新能源汽车产销量实现两位数增长，海外市场表现亮眼；",
+    "url": "https://www.tmtpost.com/8165963.html",
+    "published": "Tue, 13 Oct 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "钛媒体",
+    "title": "TikTok Shop墨西哥日均GMV一年增长133倍；Q3中国储能企业海外订单占比已达93% ; 拉美快消电商超80亿美元｜一周出海参考",
+    "summary": "一文看遍本周出海热点。",
+    "url": "https://www.tmtpost.com/8165390.html",
+    "published": "Mon, 12 Oct 2026 20:45:59 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "钛媒体",
     "title": "东百集团拟3.16亿控股快灵光电，业绩承诺集中看2029",
     "summary": "跨界光芯片当晚，上交所火速发函。",
     "url": "https://www.tmtpost.com/8165286.html",
@@ -80,11 +100,11 @@
     "fetchedAt": "2026-10-12"
   },
   {
-    "source": "钛媒体",
-    "title": "寅家电子：递表前夕突击入股，两月估值暴涨152%，持续亏损造血失灵｜IPO观察",
-    "summary": "寅家电子一直未能摆脱亏损困境，报告期三年半累计亏损超过2.85亿元。除此之外，公司经营性现金流持续大额净流出，累计净流出超4亿元，内生造血能力严重不足。",
-    "url": "https://www.tmtpost.com/8165097.html",
-    "published": "Mon, 12 Oct 2026 14:23:05 +0800",
+    "source": "极客公园",
+    "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
+    "summary": "头图图片来源：REA 头图来源：CyberSecurityNews 「在应用里看到一个想加入自己产品的功能？让智能体去帮你调查它。」 这是 REA 项目主页第一屏的话。后半句更直接：即使没有源代码，智能体也可以检查应用、解释功能怎么工作、展示证据，「并为你的项目实现类似功能」。 REA 全名 Reverse Engineer Anything，即「逆向一切」。 上周它在 AI 开发者圈刷了屏：10 月 6 日还不到 1 万星，到 10 月 12 日已经超过 11 万 。 6 天涨了 10 万星，平均每天约 1.7 万｜图片来源：Star History 真正让普通人看到这件事的，是游戏。10 月初，一批老游戏突然能在浏览器里直接玩了：《光环：战斗进化》《半条命》《暗黑破坏神》，还有真正意义上的 3A 大作《GTA5》和《使命召唤：现代战争 2》。 其中最出圈的一份复盘，来自逆向开发者 Maurice Heumann：他让十几个 Claude Code 和 Codex 智能体并行干活，把一款射击游戏 99% 的函数还原成了 C++ 源码，其中 83% 编译出来和原程序逐字节一致。他用的是",
+    "url": "http://www.geekpark.net/news/372263",
+    "published": "Mon, 12 Oct 2026 20:15:30 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-12"
@@ -360,16 +380,6 @@
     "fetchedAt": "2026-10-12"
   },
   {
-    "source": "极客公园",
-    "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
-    "summary": "互联网大厂很久没有如此密集地在线下招人了。 今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。 速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。 5000 人是什么概念？ 在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。 但拼多多在雄安做的，并不是再建一个研发总部。 从已经落地的业务看，这里更像是拼多多新建的一座大型后台业务基地： 一头连接平台治理和数据生产，另一头连接平台上的制造业商家。 01 5000 人， 首先是一套互联网平台的「后台」 拼多多给雄安公司的两个核心定位，一个叫「传统产业数据处理服务中心」，另一个叫「传统制造高质量发展综合服务中心」。 首先是数据处理。 目前，雄安团队已经承担算法标注和模型标注，涉及搜索推荐体验优化、图生视频训练等项目。 然后是平台治理。 商家和商品准入、内容质量审核、广告治理、安全合规、售后……这些过去分散在",
-    "url": "http://www.geekpark.net/news/371850",
-    "published": "Tue, 29 Sep 2026 14:53:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
     "summary": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务 · 蔚来广东换电站达到 500 座，六城同步新增第五代站 · 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -411,6 +421,36 @@
   },
   {
     "source": "TechCrunch",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "published": "Mon, 12 Oct 2026 17:19:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "published": "Mon, 12 Oct 2026 15:27:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "published": "Mon, 12 Oct 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "TechCrunch",
     "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
     "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -442,7 +482,7 @@
   {
     "source": "TechCrunch",
     "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children.",
     "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
     "published": "Sun, 11 Oct 2026 15:00:00 +0000",
     "lang": "en",
@@ -450,291 +490,51 @@
     "fetchedAt": "2026-10-12"
   },
   {
-    "source": "TechCrunch",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "published": "Sat, 10 Oct 2026 19:50:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-    "published": "Sat, 10 Oct 2026 17:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "published": "Sat, 10 Oct 2026 15:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "published": "Sat, 10 Oct 2026 03:10:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "published": "Sat, 10 Oct 2026 00:18:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Long live the mechanical keyboard",
-    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-    "published": "Fri, 09 Oct 2026 22:08:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "AI infrastructure provider Infinigence AI raises RMB 2.3 billion in Series C funding",
-    "summary": "Chinese AI infrastructure provider Infinigence AI has completed a RMB 2.3 billion Series C funding round, bringing its cumulative financing to RMB 4.3 billion, according to company materials provided on October 12. Founded in 2023, the company develops software and infrastructure that allow AI models to run efficiently across different chip platforms. Its infrastructure platform […]",
-    "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/",
-    "published": "Mon, 12 Oct 2026 06:58:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tactile-sensor maker Matrix Innovation raises tens of millions of RMB",
-    "summary": "Dongguan-based tactile-sensor maker Matrix Innovation has raised tens of millions of RMB from investors including X Square Robot, Songshan Lake investment capital and returning investor XBOT PARK Fund, STAR Market Daily reported on October 10. Another embodied-AI company also participated. The proceeds will support a new generation of data-collection gloves, supply-chain improvements and manufacturing capacity. […]",
-    "url": "https://technode.com/2026/10/12/tactile-sensor-maker-matrix-innovation-raises-tens-of-millions-of-rmb/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "CXMT plans next-generation DDR5 server memory using denser DRAM architecture",
-    "summary": "Chinese memory maker CXMT plans to launch a new generation of DDR5 registered memory modules by the end of 2026 using its 4F² DRAM architecture. President Cao Kanyu outlined the technology at an industry conference on October 10, positioning server memory as the first product application for the new architecture. The design reduces the area […]",
-    "url": "https://technode.com/2026/10/12/cxmt-plans-next-generation-ddr5-server-memory-using-denser-dram-architecture/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "XPENG targets 2027 European launch for advanced driver-assistance system",
-    "summary": "XPENG plans to introduce its Navigation Guided Pilot driver-assistance system in Europe in 2027 and is working with local regulators on the rollout. Liu Xianming, who leads the company’s general intelligence center, told Bloomberg ahead of the Paris Motor Show that XPENG had adapted the system from one European country to another in about two […]",
-    "url": "https://technode.com/2026/10/12/xpeng-targets-2027-european-launch-for-advanced-driver-assistance-system/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Sports-training robot maker PONGBOT raises hundreds of millions of RMB in Series B",
-    "summary": "Chinese AI sports-hardware company PONGBOT has completed a Series B funding round worth hundreds of millions of RMB, according to an October 11 announcement. Shanghai State Investment Pilot Fund led the round, joined by Hua Capital and Pudong Venture Capital, while existing investor BlueRun Ventures increased its investment. PONGBOT began with table-tennis training robots before […]",
-    "url": "https://technode.com/2026/10/12/sports-training-robot-maker-pongbot-raises-hundreds-of-millions-of-rmb-in-series-b/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "LivSyn Robotics raises Series A funding for platform connecting robots with AI models",
-    "summary": "Beijing-based LivSyn Robotics has secured a Series A round of at least RMB 100 million, according to an October 8 announcement. The round brought together financial investors, listed energy-services company Suwen Electric Energy and an undisclosed strategic investor in embodied AI. LivSyn develops RUDA, short for Robotics Unified Device Architecture, to connect different robot designs […]",
-    "url": "https://technode.com/2026/10/10/livsyn-robotics-raises-series-a-funding-for-platform-connecting-robots-with-ai-models/",
-    "published": "Sat, 10 Oct 2026 09:19:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "AI glasses brand NIMO secures angel funding at RMB 1.5 billion valuation",
-    "summary": "The Chinese startup behind AI glasses brand NIMO has raised several hundred million yuan in angel funding, bringing its valuation to RMB 1.5 billion, according to an October 8 report. Investors include Gobi Partners, alongside other Chinese venture capital firms. The company develops smart glasses for everyday use and has established offline sales channels. It […]",
-    "url": "https://technode.com/2026/10/10/ai-glasses-brand-nimo-secures-angel-funding-at-rmb-1-5-billion-valuation/",
-    "published": "Sat, 10 Oct 2026 09:19:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM and Kimi",
-    "summary": "German search engine Ecosia is replacing Mistral with open-weight AI models, including Chinese-developed Qwen, GLM and Kimi, through a partnership with German AI platform Melious. Founder and CEO Christian Kroll said the switch had roughly halved costs while improving quality and performance. Ecosia adopted Mistral in May after moving away from OpenAI, but Kroll said […]",
-    "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
-    "published": "Fri, 09 Oct 2026 08:52:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi SkyNomad secures more than 70,000 locked-in orders in first month",
-    "summary": "Xiaomi’s SkyNomad range-extended SUV lineup received more than 70,000 locked-in orders in its first 30 days on sale, the company announced on October 8. The figure covers September 7 to October 7, following the lineup’s launch and the start of deliveries. SkyNomad deliveries exceeded 10,000 vehicles in September, contributing to Xiaomi Auto’s total of more […]",
-    "url": "https://technode.com/2026/10/09/xiaomi-skynomad-secures-more-than-70000-locked-in-orders-in-first-month/",
-    "published": "Fri, 09 Oct 2026 08:42:50 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Eight Years, Two Tech Booms, One Factory Problem: Inside Black Lake’s Bet on Industrial AI",
-    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
-    "url": "https://technode.com/2026/10/09/eight-years-two-tech-booms-one-factory-problem-inside-black-lakes-bet-on-industrial-ai/",
-    "published": "Fri, 09 Oct 2026 05:36:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "XPENG names robotaxi service XPENG YOYO, moves toward public trials",
-    "summary": "On Thursday, XPENG announced XPENG YOYO as the global brand name for its robotaxi business. The company also launched the XPENG YOYO Autonomous Driving ride-hailing mini program, inviting members of the public to participate in testing through invitation codes. The launch marks a shift from internal technical validation toward real-world user testing. But opening the […]",
-    "url": "https://technode.com/2026/10/09/xpeng-names-robotaxi-service-xpeng-yoyo-moves-toward-public-trials/",
-    "published": "Fri, 09 Oct 2026 03:22:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Manus parent Butterfly Effect completes more than $500 million funding round",
-    "summary": "Butterfly Effect, the parent company of Chinese AI agent Manus, recently completed a new funding round of more than $500 million, the company announced on October 8. Boyu Capital and IDG Capital led the round. Existing investors Tencent, HSG and ZhenFund also participated in the financing. The announcement did not disclose the company’s valuation or […]",
-    "url": "https://technode.com/2026/10/08/manus-parent-butterfly-effect-completes-more-than-500-million-funding-round/",
-    "published": "Thu, 08 Oct 2026 06:21:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Chery and JLR’s Freelander brand plans UK launch in third phase of overseas expansion",
-    "summary": "Freelander, the standalone car brand developed through a partnership between Chery and Jaguar Land Rover, has confirmed plans to enter the UK as part of a phased international expansion, Autocar reported on October 6. The brand will first enter the Middle East and North Africa, followed by Australia and New Zealand. The UK and other […]",
-    "url": "https://technode.com/2026/10/08/chery-and-jlrs-freelander-brand-plans-uk-launch-in-third-phase-of-overseas-expansion/",
-    "published": "Thu, 08 Oct 2026 05:25:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek reportedly nears $12 billion funding round backed by Tencent and CATL",
-    "summary": "DeepSeek is close to securing at least RMB 80 billion ($12 billion) in a new funding round, with Tencent and battery maker CATL among the largest investors, Bloomberg reported on October 6, citing people familiar with the matter. The Chinese AI company initially sought about RMB 50 billion, but investor interest pushed commitments above that […]",
-    "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/",
-    "published": "Thu, 08 Oct 2026 05:24:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Beyond the Drone: How XAG Is Betting on Autonomous Farming",
-    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
-    "url": "https://technode.com/2026/10/02/beyond-the-drone-bet-on-the-autonomous-farm/",
-    "published": "Fri, 02 Oct 2026 03:05:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei launches Mate 90 series with new Kirin chips across the lineup",
-    "summary": "Huawei today held its autumn product launch event in Shanghai, unveiling the Mate 90 series. The series includes five models: the Mate 90, Mate 90 Pro, Mate 90 Pro Max, Mate 90 Pro Max Collector’s Edition, and Mate 90 RS Ultimate Design. Prices range from RMB 5,999 ($895) to RMB 12,999 ($1,939). The main upgrades […]",
-    "url": "https://technode.com/2026/10/01/huawei-launches-mate-90-series-with-new-kirin-chips-across-the-lineup/",
-    "published": "Thu, 01 Oct 2026 11:42:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "BYD plans overseas launch event for Yangwang luxury brand",
-    "summary": "BYD plans to hold an overseas launch event for its Yangwang luxury vehicle brand, the company said in a record of its September 29 shareholder meeting. It did not give a date or location for the event. The company also said it expects its Brazil plant to produce about 250,000 vehicles this year and its […]",
-    "url": "https://technode.com/2026/09/30/byd-plans-overseas-launch-event-for-yangwang-luxury-brand/",
-    "published": "Wed, 30 Sep 2026 15:16:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance reportedly tests standalone Doubao personal assistant app",
-    "summary": "ByteDance is reportedly testing a personal AI assistant tied to Doubao and plans to release it as a standalone app. The product has been given the tentative Chinese name Xiaodou (小豆), according to a report cited by IT Home. The app remains in internal testing, and its public name and features may change before launch. […]",
-    "url": "https://technode.com/2026/09/30/bytedance-reportedly-tests-standalone-doubao-personal-assistant-app/",
-    "published": "Wed, 30 Sep 2026 15:15:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ant Group launches Ling-3.1-flash with 560 billion parameters",
-    "summary": "Ant Group’s InclusionAI has launched Ling-3.1-flash, a language model with 560 billion total parameters and about 25 billion activated for each token. The company is positioning it for agent tasks, search, office software and specialist applications. The model is designed for a context window of up to one million tokens, but its current two-week free […]",
-    "url": "https://technode.com/2026/09/30/ant-group-launches-ling-3-1-flash-with-560-billion-parameters/",
-    "published": "Wed, 30 Sep 2026 15:12:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance’s Doubao reportedly preparing personal AI agent, codenamed Spell and tested since April",
-    "summary": "ByteDance’s AI assistant Doubao is reportedly accelerating work on a new personal AI agent. According to sources, the project began internal testing as early as April and was previously known internally as Spell. Product development has recently picked up pace, with a public launch expected in the near future. The move could mark a shift […]",
-    "url": "https://technode.com/2026/09/30/bytedances-doubao-reportedly-preparing-personal-ai-agent-codenamed-spell-and-tested-since-april/",
-    "published": "Wed, 30 Sep 2026 03:00:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent tests AI gaming companion that responds to live gameplay",
-    "summary": "Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion. It reportedly supports voice chat and can recognize game screens to respond to what is happening in a game. An official Tencent questionnaire confirms the test recruitment but does not detail the product’s capabilities or launch […]",
-    "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
-    "published": "Tue, 29 Sep 2026 06:55:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-12"
-  },
-  {
-    "source": "TechNode",
-    "title": "China accounts for 77.9% of global humanoid robot shipments in H1, IDC says",
-    "summary": "China shipped more than 19,000 humanoid robots in the first half of 2026, accounting for 77.9% of global shipments, according to figures attributed to IDC. Global shipments reached nearly 25,000 units, up 432.1% year over year. IDC also raised its forecast for global humanoid robot shipments in 2030 to more than 750,000 units. [IT Home, […]",
-    "url": "https://technode.com/2026/09/29/china-accounts-for-77-9-of-global-humanoid-robot-shipments-in-h1-idc-says/",
-    "published": "Tue, 29 Sep 2026 06:55:23 +0000",
+    "source": "The Verge",
+    "title": "Meta has some Wonder Full new AI models",
+    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "published": "2026-10-12T13:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-12"
   },
   {
     "source": "The Verge",
-    "title": "What to expect from Apple’s ‘Welcome Home’ event",
-    "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices […]",
-    "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-    "published": "2026-10-11T09:00:00-04:00",
+    "title": "The OnePlus 16 is the company’s most interesting phone in years",
+    "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen […]",
+    "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+    "published": "2026-10-12T09:13:53-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "The Verge",
+    "title": "CMF’s first wireless speakers look like musical milk cartons",
+    "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
+    "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+    "published": "2026-10-12T09:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "The Verge",
+    "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+    "summary": "The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup. Basically, if you have smartwatch fatigue but don't want to give up notifications, […]",
+    "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+    "published": "2026-10-12T09:00:00-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-12"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "summary": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as t",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "published": "Mon, 12 Oct 2026 16:46:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-12"
@@ -772,7 +572,7 @@
   {
     "source": "Hacker News",
     "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 457 # Comments: 238",
+    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 470 # Comments: 247",
     "url": "https://nitter.net",
     "published": "Sun, 11 Oct 2026 10:37:55 +0000",
     "lang": "en",
@@ -920,17 +720,17 @@
     "fetchedAt": "2026-10-12"
   },
   {
-    "source": "微博",
-    "title": "#调整新能源汽车等产品出口退税政策#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23调整新能源汽车等产品出口退税政策%23",
-    "published": "2026-10-12",
+    "source": "V2EX",
+    "title": "困惑： API KEY 只能复制一次，这不“脱裤子 XX”吗？",
+    "summary": "我发现大模型后台 API KEY ，复制策略分 2 种 1 、可以明码查看复制的，比如：阶跃星辰 step 2 、首次复制，以后就隐藏的，比如：ds 第 2 种所谓安全，实则脱裤子 XX",
+    "url": "https://www.v2ex.com/t/1247979",
+    "published": 1791770065,
     "lang": "zh",
-    "type": "news",
+    "type": "community",
     "fetchedAt": "2026-10-12",
     "meta": {
-      "hotValue": 213690,
-      "rank": 29
+      "replies": 82,
+      "node": "程序员"
     }
   }
 ]
