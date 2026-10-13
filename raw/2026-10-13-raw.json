@@ -61,6 +61,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
+    "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款芯片；苹果推出智能家居中枢HomeView，售价299美元；中证协明确券商跨境风险数据管理要求，个人信息出境须评估影响；外资持续撤出韩股，分析师警告：这比半导体基本面更令人担忧",
+    "url": "https://www.tmtpost.com/8167674.html",
+    "published": "Wed, 14 Oct 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "钛媒体",
+    "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
+    "summary": "停牌前一个月，标的唯一外部机构股东深创投蹊跷减资退场。",
+    "url": "https://www.tmtpost.com/8167551.html",
+    "published": "Tue, 13 Oct 2026 20:03:14 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "钛媒体",
     "title": "足力健二次创业为何败北？",
     "summary": "买的人和用的人，不是同一群人。",
     "url": "https://www.tmtpost.com/8166281.html",
@@ -71,10 +91,20 @@
   },
   {
     "source": "极客公园",
+    "title": "苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元",
+    "summary": "头图来源：Apple 官网 北京时间 10 月 13 日晚，苹果召开了一次主题为「欢迎回家」的新品发布会，苹果这次放进客厅的新东西，是一块 7 英寸的屏幕。 它叫 Apple HomeView，美国售价 299 美元 ，10 月 13 日开放预订，11 月 13 日上市，一同曝光的还有第四代 Apple TV 4K、HomePod mini 2。三款产品在海外都以新一代 Siri AI 为卖点，但音箱要等后续软件更新才能用上。同期发布的，还有 Apple Home Collection 智能家居配件系列。 HomePod 和 Apple TV 早已支持家庭控制，HomePod 也有声音识别和个人请求。HomeView 给了 Siri 一块全家共用的屏幕，可以放在厨房台面、床头柜上，也可以装在玄关的墙上。 这次产品发布更有意思的变化，是 Siri 的回应多了一个可以随时看见、伸手操作的地方。它的个人化能力，仍和每个人的设备、权限绑在一起。 屏幕属于全家，个人化的 Siri 仍然要认人、认手机 。 桌面版提供四种配色｜图片来源：Apple 一块会认家人的屏幕 HomeView 桌面版用一根",
+    "url": "http://www.geekpark.net/news/372302",
+    "published": "Tue, 13 Oct 2026 21:51:34 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "极客公园",
     "title": "说个事：极客公园创新大会 2027！",
-    "summary": "你大概已经注意到一些不太寻常的事——科技行业真正关心的东西，一直在变。 大模型公司的关注点，过去几年，几个月就一波变化：从追求用户规模，到追求技术的 SOTA 程度；应用公司的产品热点从 Chatbot，到 Agent，再到 Personal Agent；生产力工具也从 Copilot，一路到了 workspace。甚至连工程领域的概念也在快速更迭，从 Prompt Engineering，已经到了到 Environment Engineering。 流行概念的交替，实质是科技领域里，创新问题的权重和价值，正在被快速重估。什么值得投入、什么人更重要、什么样的能力还能构成壁垒——答案已经不是过去的答案。 经过这几年 AI 带来的冲击和对世界的影响，我们已经可以清晰地看到：一次根本性的价值重估已经开始。 有的公司在长出惊天市值，有的公司在被彻底遗忘；有人好像在丢掉岗位，但有人正在变成「超人」；技术、产品、组织和人，都在重新给出关于「价值」的新答案。 时代从不预告它的转向，只是沉默地重新衡量一切。 今年，极客公园创新大会 2027（IF 2027）想讨论的，就是这件事。陪你一起，在这个重新估",
-    "url": "http://www.geekpark.net/news/372299",
-    "published": "Tue, 13 Oct 2026 19:21:34 +0800",
+    "summary": "一年一度：极客公园创新大会 2027，已经启动了。 你大概已经注意到一些不太寻常的事——科技行业真正关心的东西，一直在变。 大模型公司的关注点，过去几年，几个月就一波变化：从追求用户规模，到追求技术的 SOTA 程度；应用公司的产品热点从 Chatbot，到 Agent，再到 Personal Agent；生产力工具也从 Copilot，一路到了 workspace。甚至连工程领域的概念也在快速更迭，从 Prompt Engineering，已经到了到 Environment Engineering。 流行概念的交替，实质是科技领域里，创新问题的权重和价值，正在被快速重估。什么值得投入、什么人更重要、什么样的能力还能构成壁垒——答案已经不是过去的答案。 经过这几年 AI 带来的冲击和对世界的影响，我们已经可以清晰地看到：一次根本性的价值重估已经开始。 有的公司在长出惊天市值，有的公司在被彻底遗忘；有人好像在丢掉岗位，但有人正在变成「超人」；技术、产品、组织和人，都在重新给出关于「价值」的新答案。 时代从不预告它的转向，只是沉默地重新衡量一切。 今年，极客公园创新大会 2027（IF 2",
+    "url": "http://www.geekpark.net/news/372300",
+    "published": "Tue, 13 Oct 2026 19:33:53 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-13"
@@ -340,16 +370,6 @@
     "fetchedAt": "2026-10-13"
   },
   {
-    "source": "极客公园",
-    "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
-    "summary": "苹果即将发布「智能家居中枢」新品 据彭博社报道，苹果公司计划于 10 月 13 日推进其拖延已久的智能家居市场布局，这是该公司在新任 CEO 约翰·特努斯领导下的一次关键产品扩张。 据知情人士透露，该战略的核心是一款代号为 J490 的智能家居中枢设备。该设备将采用大约 6 英寸的方形显示屏设计，提供可安装在墙上或放置在台面上的版本。 按照苹果的设想，用户会在家中多处放置多台这种显示屏。它们可用于控制恒温器、门锁和其他联网产品，也可用于视频通话、对讲式沟通、播放音乐，以及查看存储在苹果 iCloud 服务中的照片幻灯片。 苹果还把这台设备视为厨房里的通信和信息中枢，用户可以在做饭时通过语音查询菜谱、观看视频或拨打 FaceTime 通话。 同时，报道称苹果也计划宣布 HomePod mini 自 2020 年首次亮相以来的首次更新，以及自 2022 年以来的首款新电视机顶盒。（来源：凤凰网科技） 谷歌 Gemini 4 Argon 登场，长周期代码工程测试超 Opus 5.5 当地时间 9 月 30 日，谷歌发布 Gemini 4 Argon，称其为公司迄今最先进的 AI 模型，但目前",
-    "url": "http://www.geekpark.net/news/372064",
-    "published": "Thu, 01 Oct 2026 08:28:44 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-13"
-  },
-  {
     "source": "爱范儿",
     "title": "AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
     "summary": "当大模型也像病毒一样传播 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -390,81 +410,91 @@
     "fetchedAt": "2026-10-13"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
-    "summary": "· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Sat, 10 Oct 2026 00:14:25 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-13"
-  },
-  {
     "source": "TechCrunch",
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "published": "Mon, 12 Oct 2026 17:19:14 +0000",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "published": "Tue, 13 Oct 2026 23:13:31 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "TechCrunch",
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "published": "Mon, 12 Oct 2026 15:27:59 +0000",
+    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+    "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+    "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+    "published": "Tue, 13 Oct 2026 21:15:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "published": "Mon, 12 Oct 2026 14:00:00 +0000",
+    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+    "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+    "published": "Tue, 13 Oct 2026 20:13:53 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "TechCrunch",
-    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "published": "Mon, 12 Oct 2026 00:59:01 +0000",
+    "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+    "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+    "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+    "published": "Tue, 13 Oct 2026 19:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "TechCrunch",
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "published": "Sun, 11 Oct 2026 21:14:40 +0000",
+    "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+    "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+    "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+    "published": "Tue, 13 Oct 2026 18:30:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "TechCrunch",
-    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
-    "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "published": "Sun, 11 Oct 2026 17:53:37 +0000",
+    "title": "Facebook is giving users more control over their algorithm",
+    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "published": "Tue, 13 Oct 2026 18:05:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "TechCrunch",
-    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children.",
-    "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-    "published": "Sun, 11 Oct 2026 15:00:00 +0000",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "published": "Tue, 13 Oct 2026 17:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+    "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+    "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+    "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+    "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+    "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+    "published": "Tue, 13 Oct 2026 15:02:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
@@ -681,40 +711,60 @@
   },
   {
     "source": "The Verge",
-    "title": "Character.AI files for bankruptcy",
-    "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "published": "2026-10-13T06:32:23-04:00",
+    "title": "It looks like Apple Music is getting a new icon",
+    "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, […]",
+    "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+    "published": "2026-10-13T16:05:02-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
     "source": "The Verge",
-    "title": "Meta has some Wonder Full new AI models",
-    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "published": "2026-10-12T13:00:00-04:00",
+    "title": "Rivian partner Mind Robotics hires Doug Field as president",
+    "summary": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. […]",
+    "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+    "published": "2026-10-13T14:30:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
-    "source": "The Verge",
-    "title": "The OnePlus 16 is the company’s most interesting phone in years",
-    "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen […]",
-    "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
-    "published": "2026-10-12T09:13:53-04:00",
+    "source": "Hacker News",
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "summary": "Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure. Consus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving ",
+    "url": "https://news.ycombinator.com/item?id=50073471",
+    "published": "Tue, 13 Oct 2026 15:41:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
   },
   {
-    "source": "The Verge",
-    "title": "CMF’s first wireless speakers look like musical milk cartons",
-    "summary": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
-    "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
-    "published": "2026-10-12T09:00:00-04:00",
+    "source": "Hacker News",
+    "title": "OpenWeb asks court to halt lender collections as rescue funding stalls",
+    "summary": "Article URL: https://runtimewire.com/article/openweb-court-halt-liquidity-collections-rescue Comments URL: https://news.ycombinator.com/item?id=50073061 Points: 2 # Comments: 0",
+    "url": "https://runtimewire.com/article/openweb-court-halt-liquidity-collections-rescue",
+    "published": "Tue, 13 Oct 2026 15:17:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch: Assury Cross platform agent lifecycle mangement",
+    "summary": "Hey HN, I am David Girvi, co-founder of Assury.ai. We are practitioners who became vendors last year. I wanted to share that we have launched agent lifecycle management for cross-platform agents. One centralized spot for all your agents. AWS, Databricks, Snowflake, Salesforce, etc. Lifecycle does auto-discovery in every environment, plus auto-tagging. We bring everything into a tamper-proof, searchable audit trail. Easily see who or what teams own the agents etc. We also have Kill/resume control",
+    "url": "https://news.ycombinator.com/item?id=50072334",
+    "published": "Tue, 13 Oct 2026 14:29:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-13"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Exposing why every AI launch goes viral on X [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=xNgQtzEl4lY Comments URL: https://news.ycombinator.com/item?id=50070383 Points: 4 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=xNgQtzEl4lY",
+    "published": "Tue, 13 Oct 2026 12:07:56 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-13"
@@ -722,7 +772,7 @@
   {
     "source": "Hacker News",
     "title": "Show HN: Planning software for startup teams",
-    "summary": "Hello founders and co-founders. Startup mentors recommend setting short-term goals, or planning weekly... Do you do it? I made a tool for this purpose with a focus on startups. Hope you like it, your feedback would be a huge help Comments URL: https://news.ycombinator.com/item?id=50066266 Points: 1 # Comments: 0",
+    "summary": "Hello founders and co-founders. Startup mentors recommend setting short-term goals, or planning weekly... Do you do it? I made a tool for this purpose with a focus on startups. Hope you like it, your feedback would be a huge help Comments URL: https://news.ycombinator.com/item?id=50066266 Points: 2 # Comments: 0",
     "url": "https://weeklywe.com",
     "published": "Tue, 13 Oct 2026 03:29:17 +0000",
     "lang": "en",
@@ -772,7 +822,7 @@
   {
     "source": "Hacker News",
     "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 473 # Comments: 247",
+    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 476 # Comments: 247",
     "url": "https://nitter.net",
     "published": "Sun, 11 Oct 2026 10:37:55 +0000",
     "lang": "en",
@@ -802,7 +852,7 @@
   {
     "source": "Hacker News",
     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 178 # Comments: 115",
+    "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 179 # Comments: 116",
     "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
     "published": "Sat, 10 Oct 2026 18:48:35 +0000",
     "lang": "en",
@@ -880,50 +930,6 @@
     "fetchedAt": "2026-10-13"
   },
   {
-    "source": "Hacker News",
-    "title": "Faster Python startup with lazy imports",
-    "summary": "Article URL: https://twitter.com/lemire/status/2108525803843580302 Comments URL: https://news.ycombinator.com/item?id=50019337 Points: 1 # Comments: 0",
-    "url": "https://twitter.com/lemire/status/2108525803843580302",
-    "published": "Fri, 09 Oct 2026 12:07:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How One Startup Started Tracking Every Car in America [video-essay]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=OOnVEiPiQHE Comments URL: https://news.ycombinator.com/item?id=50017375 Points: 1 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=OOnVEiPiQHE",
-    "published": "Fri, 09 Oct 2026 07:46:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic pulls Startup program revoking pending offers",
-    "summary": "Article URL: https://twitter.com/claudeai/status/2108404561413349695 Comments URL: https://news.ycombinator.com/item?id=50016572 Points: 6 # Comments: 1",
-    "url": "https://twitter.com/claudeai/status/2108404561413349695",
-    "published": "Fri, 09 Oct 2026 06:04:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-13"
-  },
-  {
-    "source": "微博",
-    "title": "#海底捞向创始人张勇提供1亿元贷款融资#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23海底捞向创始人张勇提供1亿元贷款融资%23",
-    "published": "2026-10-13",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-13",
-    "meta": {
-      "hotValue": 131203,
-      "rank": 45
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "storytold/wordcraft",
     "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
@@ -933,8 +939,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 10088,
-      "forks": 2582,
+      "stars": 11039,
+      "forks": 2763,
       "language": "Rust",
       "createdDaysAgo": 6
     }
@@ -949,8 +955,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 7288,
-      "forks": 520,
+      "stars": 8124,
+      "forks": 580,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -965,8 +971,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 4131,
-      "forks": 1801,
+      "stars": 4430,
+      "forks": 1930,
       "language": "Rust",
       "createdDaysAgo": 6
     }
@@ -981,8 +987,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 3806,
-      "forks": 1743,
+      "stars": 4187,
+      "forks": 1903,
       "language": "Rust",
       "createdDaysAgo": 6
     }
@@ -997,26 +1003,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 3794,
-      "forks": 6143,
+      "stars": 3870,
+      "forks": 6197,
       "language": "Go",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "nullmoth/nvidia-macos-driver",
-    "summary": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
-    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-    "published": "2026-10-07T08:13:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-13",
-    "meta": {
-      "stars": 2843,
-      "forks": 261,
-      "language": "Rust",
-      "createdDaysAgo": 6
     }
   },
   {
@@ -1029,8 +1019,24 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 2757,
-      "forks": 1492,
+      "stars": 2946,
+      "forks": 1598,
+      "language": "Rust",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nullmoth/nvidia-macos-driver",
+    "summary": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "published": "2026-10-07T08:13:12Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-13",
+    "meta": {
+      "stars": 2902,
+      "forks": 273,
       "language": "Rust",
       "createdDaysAgo": 6
     }
@@ -1045,8 +1051,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 2524,
-      "forks": 183,
+      "stars": 2583,
+      "forks": 191,
       "language": "Shell",
       "createdDaysAgo": 5
     }
@@ -1061,8 +1067,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 2383,
-      "forks": 1468,
+      "stars": 2556,
+      "forks": 1575,
       "language": "Rust",
       "createdDaysAgo": 6
     }
@@ -1077,9 +1083,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 2088,
-      "forks": 158,
+      "stars": 2334,
+      "forks": 174,
       "language": "Swift",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "storytold/craft-launcher",
+    "summary": "The Craft App Launcher",
+    "url": "https://github.com/storytold/craft-launcher",
+    "published": "2026-10-09T23:21:59Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-13",
+    "meta": {
+      "stars": 2281,
+      "forks": 763,
+      "language": "Rust",
       "createdDaysAgo": 4
     }
   },
@@ -1093,42 +1115,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-13",
     "meta": {
-      "stars": 2055,
-      "forks": 170,
+      "stars": 2086,
+      "forks": 174,
       "language": "Swift",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "noahdunnagan/fsearch",
-    "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-    "url": "https://github.com/noahdunnagan/fsearch",
-    "published": "2026-10-08T17:50:33Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-13",
-    "meta": {
-      "stars": 2005,
-      "forks": 132,
-      "language": "Rust",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "storytold/craft-launcher",
-    "summary": "The Craft App Launcher",
-    "url": "https://github.com/storytold/craft-launcher",
-    "published": "2026-10-09T23:21:59Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-13",
-    "meta": {
-      "stars": 1970,
-      "forks": 672,
-      "language": "Rust",
-      "createdDaysAgo": 3
     }
   }
 ]
