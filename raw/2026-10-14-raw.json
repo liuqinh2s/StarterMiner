@@ -61,20 +61,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
-    "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款芯片；苹果推出智能家居中枢HomeView，售价299美元；中证协明确券商跨境风险数据管理要求，个人信息出境须评估影响；外资持续撤出韩股，分析师警告：这比半导体基本面更令人担忧",
-    "url": "https://www.tmtpost.com/8167674.html",
-    "published": "Wed, 14 Oct 2026 07:20:00 +0800",
+    "title": "万元级人形机器人，只是“赛博玩具”？",
+    "summary": "一张通往未来的门票",
+    "url": "https://www.tmtpost.com/8168453.html",
+    "published": "Wed, 14 Oct 2026 18:30:40 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
     "source": "钛媒体",
-    "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
-    "summary": "停牌前一个月，标的唯一外部机构股东深创投蹊跷减资退场。",
-    "url": "https://www.tmtpost.com/8167551.html",
-    "published": "Tue, 13 Oct 2026 20:03:14 +0800",
+    "title": "800MHz三年三易其主：马斯克买到的不是频谱，是美国电信业下一张桌子的座位",
+    "summary": "市场把SpaceX收购800MHz频谱解读为\"卫星抢运营商饭碗\"，只看到了竞争的表层。本文的分析框架是：火箭复用击穿发射成本、频谱转让制度窗口打开、创始人控制结构锁定冲劲——三重力量叠加，\"地面铁塔+低频牌照\"的护城河正被技术周期绕过。这不是公司间的战争，而是通信权力的重新分配。",
+    "url": "https://www.tmtpost.com/8168210.html",
+    "published": "Wed, 14 Oct 2026 17:49:53 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "钛媒体",
+    "title": "信仰加速，估值刹车：具身智能最后一道题，王兴兴凭什么交给 GPT-7",
+    "summary": "这个行业犯了一个集体性的认知错误",
+    "url": "https://www.tmtpost.com/8168230.html",
+    "published": "Wed, 14 Oct 2026 17:16:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "钛媒体",
+    "title": "绳驱具身独角兽星尘智能再融10亿，投后估值150亿",
+    "summary": "半年4轮融资、3个月估值涨50亿",
+    "url": "https://www.tmtpost.com/8167619.html",
+    "published": "Wed, 14 Oct 2026 17:02:52 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-14"
@@ -400,19 +420,9 @@
     "fetchedAt": "2026-10-14"
   },
   {
-    "source": "爱范儿",
-    "title": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
-    "summary": "LLM 给人用，这个决策模型给代码用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Sat, 10 Oct 2026 09:11:54 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
     "source": "TechCrunch",
     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
     "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "published": "Tue, 13 Oct 2026 23:13:31 +0000",
     "lang": "en",
@@ -485,6 +495,66 @@
     "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
     "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
     "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "Nvidia’s China AI-chip share falls to 34% as Huawei reaches 28%",
+    "summary": "Nvidia’s share of China’s data-center AI accelerator market fell to 34% in the first half of 2026, while Huawei reached 28%, according to an IDC report seen by Reuters. US export restrictions constrained Nvidia’s supplies as Chinese chipmakers expanded shipments. Nvidia shipped 678,000 AI accelerators in China between January and June, down 44% from a […]",
+    "url": "https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/",
+    "published": "Wed, 14 Oct 2026 07:18:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "Alibaba launches Qwen N1 AI glasses with swappable batteries, starting at RMB 2,899",
+    "summary": "Alibaba launched its Qwen N1 and N1 Pro AI glasses in China on October 13, with standard packages priced from RMB 2,899 and RMB 3,399, respectively. Both models feature replaceable batteries in the temples, allowing users to swap batteries during use. The glasses combine a 50-megapixel camera with 4K video recording and Qwen-powered functions including […]",
+    "url": "https://technode.com/2026/10/14/alibaba-launches-qwen-n1-ai-glasses-with-swappable-batteries-starting-at-rmb-2899/",
+    "published": "Wed, 14 Oct 2026 07:18:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent launches free short-drama service inside WeChat",
+    "summary": "Tencent has launched a free short-drama mini program inside WeChat called Lüpaopao Duanju. The service offers live-action, animated and AI-generated dramas, with advertisements shown between episodes. The mini program includes a browsing section and a vertically scrolling recommendation feed. Its homepage features newly added series, viewing charts and recommendations showing what friends and nearby users […]",
+    "url": "https://technode.com/2026/10/14/tencent-launches-free-short-drama-service-inside-wechat/",
+    "published": "Wed, 14 Oct 2026 07:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "AI inference-chip startup SUNMMIO completes Pre-A2 and Series A funding",
+    "summary": "Beijing-based AI chip startup SUNMMIO has completed its Pre-A2 and Series A financing. The latest rounds were led by Beijing state-backed investment platforms, including Yizhuang State Investment. The company has raised nearly RMB 2 billion in total over the past year. SUNMMIO develops 3D-stacked chips for large-model inference. It plans to use the funding to […]",
+    "url": "https://technode.com/2026/10/14/ai-inference-chip-startup-sunmmio-completes-pre-a2-and-series-a-funding/",
+    "published": "Wed, 14 Oct 2026 07:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot maker AGIBOT nears new funding round at RMB 50 billion valuation",
+    "summary": "Chinese AI robot maker AGIBOT is nearing completion of a new funding round of approximately RMB 1 billion to RMB 1.5 billion, valuing the company at about RMB 50 billion, according to investors cited by Caijing. Founded in 2023, AGIBOT began preparing for a Hong Kong listing in July. An investor told Caijing that the […]",
+    "url": "https://technode.com/2026/10/14/robot-maker-agibot-nears-new-funding-round-at-rmb-50-billion-valuation/",
+    "published": "Wed, 14 Oct 2026 07:18:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches Da Han flagship electric sedan from RMB 235,900",
+    "summary": "BYD launched its Da Han flagship electric sedan in China on October 13, with three variants priced from RMB 235,900 to RMB 275,900. The rear-wheel-drive versions offer a claimed range of 1,008 kilometers under China’s CLTC testing cycle, while the all-wheel-drive model is rated at 880 kilometers. The large executive sedan measures 5,256 millimeters long […]",
+    "url": "https://technode.com/2026/10/14/byd-launches-da-han-flagship-electric-sedan-from-rmb-235900/",
+    "published": "Wed, 14 Oct 2026 07:18:53 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
@@ -670,31 +740,11 @@
     "fetchedAt": "2026-10-14"
   },
   {
-    "source": "TechNode",
-    "title": "BYD plans overseas launch event for Yangwang luxury brand",
-    "summary": "BYD plans to hold an overseas launch event for its Yangwang luxury vehicle brand, the company said in a record of its September 29 shareholder meeting. It did not give a date or location for the event. The company also said it expects its Brazil plant to produce about 250,000 vehicles this year and its […]",
-    "url": "https://technode.com/2026/09/30/byd-plans-overseas-launch-event-for-yangwang-luxury-brand/",
-    "published": "Wed, 30 Sep 2026 15:16:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance reportedly tests standalone Doubao personal assistant app",
-    "summary": "ByteDance is reportedly testing a personal AI assistant tied to Doubao and plans to release it as a standalone app. The product has been given the tentative Chinese name Xiaodou (小豆), according to a report cited by IT Home. The app remains in internal testing, and its public name and features may change before launch. […]",
-    "url": "https://technode.com/2026/09/30/bytedance-reportedly-tests-standalone-doubao-personal-assistant-app/",
-    "published": "Wed, 30 Sep 2026 15:15:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ant Group launches Ling-3.1-flash with 560 billion parameters",
-    "summary": "Ant Group’s InclusionAI has launched Ling-3.1-flash, a language model with 560 billion total parameters and about 25 billion activated for each token. The company is positioning it for agent tasks, search, office software and specialist applications. The model is designed for a context window of up to one million tokens, but its current two-week free […]",
-    "url": "https://technode.com/2026/09/30/ant-group-launches-ling-3-1-flash-with-560-billion-parameters/",
-    "published": "Wed, 30 Sep 2026 15:12:42 +0000",
+    "source": "The Verge",
+    "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+    "summary": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
+    "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+    "published": "2026-10-14T07:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
@@ -720,6 +770,206 @@
     "fetchedAt": "2026-10-14"
   },
   {
+    "source": "Hacker News",
+    "title": "I let an AI run my startup for a week",
+    "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 39 # Comments: 25",
+    "url": "https://daily.tinyprojects.dev/221",
+    "published": "Wed, 14 Oct 2026 10:25:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: AI investment agreement review for startup founders",
+    "summary": "Hi HN! First, congrats to the founders who received a term sheet(and those who will!) I made an investment agreement review tool for founders who recently received a term sheet! You can review your term sheets, SAFEs, convertible notes, and financing agreements if your corporation is incorporated in Delaware, from pre-seed through Series A. It also reviews equity purchase agreements, investor rights, voting terms, and side letters. Try it and check your potential risks before signing! Comments U",
+    "url": "https://www.orchardagentic.cloud/#browse/funding-review",
+    "published": "Wed, 14 Oct 2026 09:13:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "One-year-old AI startup with six employees acquired for estimated $100M",
+    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/996lzw73e Comments URL: https://news.ycombinator.com/item?id=50084036 Points: 2 # Comments: 0",
+    "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
+    "published": "Wed, 14 Oct 2026 08:05:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Launch Videos Gallery – A free collection of startup launch videos",
+    "summary": "Article URL: https://launchvideos.gallery/ Comments URL: https://news.ycombinator.com/item?id=50081665 Points: 4 # Comments: 0",
+    "url": "https://launchvideos.gallery/",
+    "published": "Wed, 14 Oct 2026 02:33:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: Could you find funding if you didn't want to build a $1-10B business?",
+    "summary": "I'm building a business. It seems crazily preposterous/pretentious to even write these words, but I'd be perfectly fine with a $10–50M ARR business. Like if at any point I was making more than a few million in profits a year, I would try to sell, hire someone to replace me, or just try to keep it stable. I have what I think is a realistic plan to reach that level of revenue/profits, but in its current state the chance it could scale beyond +$1-10B valuations seems low, I could slightly pivot to ",
+    "url": "https://news.ycombinator.com/item?id=50080968",
+    "published": "Wed, 14 Oct 2026 00:42:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "summary": "Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure. Consus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving ",
+    "url": "https://news.ycombinator.com/item?id=50073471",
+    "published": "Tue, 13 Oct 2026 15:41:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenWeb asks court to halt lender collections as rescue funding stalls",
+    "summary": "Article URL: https://runtimewire.com/article/openweb-court-halt-liquidity-collections-rescue Comments URL: https://news.ycombinator.com/item?id=50073061 Points: 2 # Comments: 0",
+    "url": "https://runtimewire.com/article/openweb-court-halt-liquidity-collections-rescue",
+    "published": "Tue, 13 Oct 2026 15:17:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch: Assury Cross platform agent lifecycle mangement",
+    "summary": "Hey HN, I am David Girvi, co-founder of Assury.ai. We are practitioners who became vendors last year. I wanted to share that we have launched agent lifecycle management for cross-platform agents. One centralized spot for all your agents. AWS, Databricks, Snowflake, Salesforce, etc. Lifecycle does auto-discovery in every environment, plus auto-tagging. We bring everything into a tamper-proof, searchable audit trail. Easily see who or what teams own the agents etc. We also have Kill/resume control",
+    "url": "https://news.ycombinator.com/item?id=50072334",
+    "published": "Tue, 13 Oct 2026 14:29:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Exposing why every AI launch goes viral on X [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=xNgQtzEl4lY Comments URL: https://news.ycombinator.com/item?id=50070383 Points: 4 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=xNgQtzEl4lY",
+    "published": "Tue, 13 Oct 2026 12:07:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Planning software for startup teams",
+    "summary": "Hello founders and co-founders. Startup mentors recommend setting short-term goals, or planning weekly... Do you do it? I made a tool for this purpose with a focus on startups. Hope you like it, your feedback would be a huge help Comments URL: https://news.ycombinator.com/item?id=50066266 Points: 2 # Comments: 0",
+    "url": "https://weeklywe.com",
+    "published": "Tue, 13 Oct 2026 03:29:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "summary": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as t",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "published": "Mon, 12 Oct 2026 16:46:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
+    "summary": "Article URL: https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/ Comments URL: https://news.ycombinator.com/item?id=50050540 Points: 5 # Comments: 1",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "published": "Mon, 12 Oct 2026 02:20:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
+    "summary": "Article URL: https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/ Comments URL: https://news.ycombinator.com/item?id=50048591 Points: 4 # Comments: 0",
+    "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
+    "published": "Sun, 11 Oct 2026 22:28:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: I'm a 14-year-old building my first startup, Titan",
+    "summary": "Hello HN! My name is Vidit, I am 14 years old and Titan is my first start-up. Titan is your personal team of AI agents. Give it a command via voice or desktop app and it will execute tasks: research, emails, plans, your apps, and your goals. The whole idea behind the product is to save you time and money and help you pursue what you really want to do. First 100 users get $5 worth of free credits. Free plan is there as well but, being a bootstrapper myself, it is quite constrained. Sorry for that",
+    "url": "https://titan-ai.co/",
+    "published": "Sun, 11 Oct 2026 11:50:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 477 # Comments: 250",
+    "url": "https://nitter.net",
+    "published": "Sun, 11 Oct 2026 10:37:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Human Art Launch – A daily showcase for independent visual artists",
+    "summary": "Article URL: https://humanartlaunch.com Comments URL: https://news.ycombinator.com/item?id=50039580 Points: 1 # Comments: 0",
+    "url": "https://humanartlaunch.com",
+    "published": "Sun, 11 Oct 2026 03:30:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Teasr – Turn your product URL into a launch video",
+    "summary": "Article URL: https://tryteasr.com/ Comments URL: https://news.ycombinator.com/item?id=50037525 Points: 1 # Comments: 0",
+    "url": "https://tryteasr.com/",
+    "published": "Sat, 10 Oct 2026 21:48:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 179 # Comments: 116",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "published": "Sat, 10 Oct 2026 18:48:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Canada can't launch rockets on its own. A few companies want to change that",
+    "summary": "Article URL: https://www.cbc.ca/news/business/canada-rocket-launch-sovereignty-nordspace-canada-rocket-company-reaction-dynamics-9.7373143 Comments URL: https://news.ycombinator.com/item?id=50035091 Points: 4 # Comments: 1",
+    "url": "https://www.cbc.ca/news/business/canada-rocket-launch-sovereignty-nordspace-canada-rocket-company-reaction-dynamics-9.7373143",
+    "published": "Sat, 10 Oct 2026 17:26:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: LaunchList – A product launch platform for indie makers",
+    "summary": "Article URL: https://launchlist.si Comments URL: https://news.ycombinator.com/item?id=50032672 Points: 1 # Comments: 0",
+    "url": "https://launchlist.si",
+    "published": "Sat, 10 Oct 2026 13:20:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
     "source": "GitHub新星",
     "title": "wheresryan22/anatomy",
     "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
@@ -729,10 +979,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 8495,
-      "forks": 616,
+      "stars": 9011,
+      "forks": 648,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -745,10 +995,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 3925,
-      "forks": 6254,
+      "stars": 4015,
+      "forks": 6325,
       "language": "Go",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -761,8 +1011,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 2613,
-      "forks": 188,
+      "stars": 3134,
+      "forks": 209,
       "language": "Swift",
       "createdDaysAgo": 5
     }
@@ -777,10 +1027,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 2599,
-      "forks": 196,
+      "stars": 2630,
+      "forks": 202,
       "language": "Shell",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -793,8 +1043,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 2367,
-      "forks": 795,
+      "stars": 2481,
+      "forks": 828,
       "language": "Rust",
       "createdDaysAgo": 4
     }
