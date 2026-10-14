@@ -61,6 +61,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】中国最新金融数据出炉，债券和股票融资在社融增量中占比近半；含DeepSeek、微信等，151款应用拒绝接入豆包手机助手；恒生指数公司出手，茶百道遭多个指数剔除",
+    "summary": "央行今日开展7000亿元期限为6个月的买断式逆回购操作；周生生回应香港门店发生“珠宝大劫案”；嘉元科技预计前三季度净利同比增长1197%-1319%；东百集团终止收购杭州快灵光电部分股权；光刻巨头CEO：订单已经谈到2030年；一箭十星，朱雀二号改进型遥四运载火箭发射成功。",
+    "url": "https://www.tmtpost.com/8168855.html",
+    "published": "Thu, 15 Oct 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "钛媒体",
     "title": "万元级人形机器人，只是“赛博玩具”？",
     "summary": "一张通往未来的门票",
     "url": "https://www.tmtpost.com/8168453.html",
@@ -85,16 +95,6 @@
     "summary": "这个行业犯了一个集体性的认知错误",
     "url": "https://www.tmtpost.com/8168230.html",
     "published": "Wed, 14 Oct 2026 17:16:05 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "钛媒体",
-    "title": "绳驱具身独角兽星尘智能再融10亿，投后估值150亿",
-    "summary": "半年4轮融资、3个月估值涨50亿",
-    "url": "https://www.tmtpost.com/8167619.html",
-    "published": "Wed, 14 Oct 2026 17:02:52 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-14"
@@ -421,80 +421,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+    "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+    "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+    "published": "Wed, 14 Oct 2026 23:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-    "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-    "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-    "published": "Tue, 13 Oct 2026 21:15:00 +0000",
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+    "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "published": "Wed, 14 Oct 2026 21:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-    "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-    "published": "Tue, 13 Oct 2026 20:13:53 +0000",
+    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+    "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+    "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+    "published": "Wed, 14 Oct 2026 20:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-    "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-    "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-    "published": "Tue, 13 Oct 2026 19:00:00 +0000",
+    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+    "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+    "published": "Wed, 14 Oct 2026 19:51:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-    "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-    "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-    "published": "Tue, 13 Oct 2026 18:30:03 +0000",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "published": "Wed, 14 Oct 2026 18:23:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
     "source": "TechCrunch",
-    "title": "Facebook is giving users more control over their algorithm",
-    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "published": "Tue, 13 Oct 2026 18:05:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "published": "Tue, 13 Oct 2026 17:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-    "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-    "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-    "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "published": "Wed, 14 Oct 2026 15:13:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
@@ -740,31 +720,41 @@
     "fetchedAt": "2026-10-14"
   },
   {
-    "source": "The Verge",
-    "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-    "summary": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
-    "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
-    "published": "2026-10-14T07:00:00-04:00",
+    "source": "Hacker News",
+    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
+    "summary": "Article URL: https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea Comments URL: https://news.ycombinator.com/item?id=50095508 Points: 2 # Comments: 0",
+    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+    "published": "Wed, 14 Oct 2026 21:22:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
-    "source": "The Verge",
-    "title": "It looks like Apple Music is getting a new icon",
-    "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, […]",
-    "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-    "published": "2026-10-13T16:05:02-04:00",
+    "source": "Hacker News",
+    "title": "Faster Python startup with lazy imports",
+    "summary": "Article URL: https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/ Comments URL: https://news.ycombinator.com/item?id=50093544 Points: 1 # Comments: 0",
+    "url": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
+    "published": "Wed, 14 Oct 2026 19:24:53 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
   },
   {
-    "source": "The Verge",
-    "title": "Rivian partner Mind Robotics hires Doug Field as president",
-    "summary": "Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. […]",
-    "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-    "published": "2026-10-13T14:30:00-04:00",
+    "source": "Hacker News",
+    "title": "Find the best investors for your startup| 100 investors Guarantee [video]",
+    "summary": "Article URL: https://www.youtube.com/shorts/KDz8IOUykPc Comments URL: https://news.ycombinator.com/item?id=50091885 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/shorts/KDz8IOUykPc",
+    "published": "Wed, 14 Oct 2026 17:50:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-14"
+  },
+  {
+    "source": "Hacker News",
+    "title": "New ways to create and launch your own app",
+    "summary": "Article URL: https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/ Comments URL: https://news.ycombinator.com/item?id=50091785 Points: 3 # Comments: 2",
+    "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+    "published": "Wed, 14 Oct 2026 17:45:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-14"
@@ -772,7 +762,7 @@
   {
     "source": "Hacker News",
     "title": "I let an AI run my startup for a week",
-    "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 39 # Comments: 25",
+    "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 55 # Comments: 55",
     "url": "https://daily.tinyprojects.dev/221",
     "published": "Wed, 14 Oct 2026 10:25:48 +0000",
     "lang": "en",
@@ -912,7 +902,7 @@
   {
     "source": "Hacker News",
     "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 477 # Comments: 250",
+    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 477 # Comments: 251",
     "url": "https://nitter.net",
     "published": "Sun, 11 Oct 2026 10:37:55 +0000",
     "lang": "en",
@@ -930,46 +920,6 @@
     "fetchedAt": "2026-10-14"
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: Teasr – Turn your product URL into a launch video",
-    "summary": "Article URL: https://tryteasr.com/ Comments URL: https://news.ycombinator.com/item?id=50037525 Points: 1 # Comments: 0",
-    "url": "https://tryteasr.com/",
-    "published": "Sat, 10 Oct 2026 21:48:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 179 # Comments: 116",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "published": "Sat, 10 Oct 2026 18:48:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Canada can't launch rockets on its own. A few companies want to change that",
-    "summary": "Article URL: https://www.cbc.ca/news/business/canada-rocket-launch-sovereignty-nordspace-canada-rocket-company-reaction-dynamics-9.7373143 Comments URL: https://news.ycombinator.com/item?id=50035091 Points: 4 # Comments: 1",
-    "url": "https://www.cbc.ca/news/business/canada-rocket-launch-sovereignty-nordspace-canada-rocket-company-reaction-dynamics-9.7373143",
-    "published": "Sat, 10 Oct 2026 17:26:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: LaunchList – A product launch platform for indie makers",
-    "summary": "Article URL: https://launchlist.si Comments URL: https://news.ycombinator.com/item?id=50032672 Points: 1 # Comments: 0",
-    "url": "https://launchlist.si",
-    "published": "Sat, 10 Oct 2026 13:20:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-14"
-  },
-  {
     "source": "GitHub新星",
     "title": "wheresryan22/anatomy",
     "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
@@ -979,8 +929,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 9011,
-      "forks": 648,
+      "stars": 9966,
+      "forks": 717,
       "language": "JavaScript",
       "createdDaysAgo": 6
     }
@@ -995,8 +945,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 4015,
-      "forks": 6325,
+      "stars": 4073,
+      "forks": 6364,
       "language": "Go",
       "createdDaysAgo": 6
     }
@@ -1004,17 +954,17 @@
   {
     "source": "GitHub新星",
     "title": "ARahim3/DigUp",
-    "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "summary": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
     "url": "https://github.com/ARahim3/DigUp",
     "published": "2026-10-08T20:37:51Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 3134,
-      "forks": 209,
+      "stars": 3611,
+      "forks": 239,
       "language": "Swift",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1027,8 +977,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 2630,
-      "forks": 202,
+      "stars": 2674,
+      "forks": 206,
       "language": "Shell",
       "createdDaysAgo": 6
     }
@@ -1043,10 +993,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-14",
     "meta": {
-      "stars": 2481,
-      "forks": 828,
+      "stars": 2644,
+      "forks": 885,
       "language": "Rust",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
