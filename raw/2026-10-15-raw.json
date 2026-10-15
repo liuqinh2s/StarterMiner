@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "威马汽车参保人数5年归零",
+    "summary": "据媒体报道，近日，威马汽车官方微信公众号突然更新，发布了一条题为“第一天：B能汽车，请发我们工资”的内容，随后不久便被删除，相关话题引发热议。 天眼查App显示，威马汽车科技集团有限公司成立于2012年5月，法定代表人为SHEN HUI，注册资本60亿人民币，经营范围包括新能源智能汽车的技术设计和研发、销售及售后服务等，由苏州威马智慧出行科技有限公司全资持股。参保人数信息显示，该公司参保人数从2018年的770人降至2023年的0人，且2024年和2025年的参保人数均为0人。法律诉讼信息显示，该公司现存多条股权冻结信息，股权所在企业包括该公司、威马融资租赁（天津）有限公司等。此外，该公司还存在多条被执行人、限制消费令、失信被执行人（老赖）及破产案件信息。",
+    "url": "https://www.cyzone.cn/article/849160.html",
+    "published": "Thu, 15 Oct 2026 06:05:05 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-15"
+  },
+  {
+    "source": "创业邦",
     "title": "恒安集团创始人儿子接手公司",
     "summary": "天眼查App显示，近日，福建恒安集团有限公司发生工商变更，施文博卸任法定代表人，由创始人许连捷之子许清流接任。 该公司成立于1985年3月，注册资本约5.1亿人民币，经营范围包括销售代理、企业管理、橡胶制品制造等，由恒安珍宝投资有限公司、恒安（福建）投资有限公司、鑫浩方网络科技发展有限公司、福建省晋江市安海服装工业公司共同持股。 据媒体报道，此前，恒安国际集团有限公司官网发布讣告称，公司董事会主席施文博，因病医治无效，于2026年9月29日16时55分逝世，享年78岁。",
     "url": "https://www.cyzone.cn/article/848816.html",
@@ -40,51 +50,51 @@
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "创业邦",
-    "title": "钙钛矿光伏国标落地，组件测试走向统一标尺",
-    "summary": "钙钛矿光伏产业迎来首个国家标准。市场监管总局近日发布《光伏器件 第12部分：钙钛矿光伏电池及组件的电流-电压特性测量方法》，将于2027年正式实施。对仍处在从实验室走向规模化量产阶段的新型光伏技术来说，测试口径统一是走向商业化的关键一步。 钙钛矿器件在光照和电压变化下性能容易波动，面积定义、测试条件、稳定性评价也长期存在差异。过去常用于晶硅和薄膜电池的测试方法，难以完全适配新材料特性。标准落地后，企业之间的效率比较、客户验收和第三方认证将有更清晰依据。 据天眼查数据显示，我国现存钙钛矿光伏相关企业超过2.8万家，2026年以来新增注册相关企业约5600家。相关主体覆盖材料研发、组件制造、装备、检测认证、储能应用和新能源投资等方向，产业链从研发端向制造端加速延伸。 标准化有利于头部产线和检测机构率先建立公信力，也会提高后来者的验证门槛。那些只停留在实验数据展示、缺少稳定工艺和测试能力的企业，将更难进入大客户供应链。钙钛矿光伏的竞争，正在从“转换效率新闻”走向“量产一致性证明”。 在双碳目标和光伏技术迭代推动下，钙钛矿仍被视为下一代光伏的重要方向。但行业真正放量，还要跨过寿命、封装、良率和",
-    "url": "https://www.cyzone.cn/article/847149.html",
-    "published": "Mon, 21 Sep 2026 09:34:02 GMT",
+    "source": "钛媒体",
+    "title": "100万+ 内部GPU+免费午饭，盛大想把“超级个体”弹射上天",
+    "summary": "给AI创业者发100万，盛大的算盘是什么？",
+    "url": "https://www.tmtpost.com/8170112.html",
+    "published": "Thu, 15 Oct 2026 19:01:36 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-15"
   },
   {
     "source": "钛媒体",
-    "title": "中国科学家首次以书生科学多模态大模型攻克世界级数学难题",
-    "summary": "上海人工智能实验室今天宣布，实验室访问学者、大湾区大学教授许地生团队依托“书生”科学多模态大模型S2，破解了世界级数学难题三维吉斯（Ghys）猜想。",
-    "url": "https://www.tmtpost.com/8169589.html",
-    "published": "Thu, 15 Oct 2026 12:02:07 +0800",
+    "title": "由盈转亏，云深处IPO依旧全靠机器狗",
+    "summary": "偏科严重，人形机器人未起量。",
+    "url": "https://www.tmtpost.com/8168901.html",
+    "published": "Thu, 15 Oct 2026 18:09:35 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-15"
   },
   {
     "source": "钛媒体",
-    "title": "风电彻底变天，《北京倡议》之后，可靠替代、多元转化、生态出海成行业新大考",
-    "summary": "《北京倡议》把风电的考核线从“装了多少”拉到“关键时刻顶不顶得上”。",
-    "url": "https://www.tmtpost.com/8168950.html",
-    "published": "Thu, 15 Oct 2026 10:12:32 +0800",
+    "title": "投资人抢投科学家，量子赛道最新估值TOP 10都有谁？",
+    "summary": "钱流向了谁？又是谁在出钱？这些钱买到的，到底是时间，还是一个尚未被证伪的预期？",
+    "url": "https://www.tmtpost.com/8170087.html",
+    "published": "Thu, 15 Oct 2026 17:57:51 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "钛媒体",
-    "title": "A股行业估值版图生变：能源资源抬升，消费制造回落",
-    "summary": "把当前估值放回行业自身的历史区间：它现在究竟处在过去几年的什么位置？",
-    "url": "https://www.tmtpost.com/8169435.html",
-    "published": "Thu, 15 Oct 2026 10:11:16 +0800",
+    "source": "极客公园",
+    "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
+    "summary": "作者｜Li Yuan 编辑｜ 郑玄 长得像人，但是只能跳舞表演，根本没法真正干活。 这大概是过去几年人形机器人最尴尬的一幕。 人形机器人最初拿到天量关注，底层逻辑其实很直接：现实世界本来就是围绕人类身体设计的。楼梯、橱柜、货架、工位甚至门把手，全都有现成尺寸。理论上，机器人完全可以用下肢越过障碍，直接用上肢拿起工具工作。 逻辑听起来无懈可击，但行业演进了几年，我们看到的却往往是另一副模样。 视频里的人形机器人，主要是在跑跑跳跳、翻跟头；哪怕真有一些干活的演示，也大多老老实实待在平地上——走到某处，定在原地，再小心翼翼地伸手。 如果双腿只负责把机器人送到任务面前，真正动手时它必须先站稳锁定身体，那它们不过是一对成本极高、极其脆弱的机械轮子。那么人形机器人的优势在哪？ 这也很难怪大家苛刻。迈不过这道坎，人形机器人就永远撕不掉「表演道具」的标签。 不过，这一点在近期已经逐渐看到解法。 近期，源策未来发布新模型和演示，以「全身智能」（Whole-Body Intelligence，WBI）为核心技术路线，自采人类全身交互数据，研发能够适配不同本体的人形基础模型系统。 在源策公布的演示中，机器人",
+    "url": "http://www.geekpark.net/news/372420",
+    "published": "Thu, 15 Oct 2026 18:20:44 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "钛媒体",
-    "title": "分类分对了吗？用财务和估值给它做两次\"体检\"",
-    "summary": "一条线定期体检求稳，一条线随时响应求快。分类，因此始终是一份\"活的地图\"，而不是挂在墙上会过期的旧图。",
-    "url": "https://www.tmtpost.com/8169420.html",
-    "published": "Thu, 15 Oct 2026 10:10:28 +0800",
+    "source": "极客公园",
+    "title": "卖出去≠全球化成功，中国企业出海究竟还差什么？",
+    "summary": "中国的汽车产业，正陷入前所未有的冰火两重天夹击。 2025 年，中国企业的全球销量 2700 万辆，首次超越日本；其中出口 832 万辆，相较十年前的 72.82 万辆增长超 10 倍。 但销量曲线向上的同时，利润曲线却在一路向下。2026 年上半年，国内汽车销售的利润率已经跌到了 1.52%，创下 10 年最低纪录。 出海也由此从选择题变成必答题。但出海并不只是把货卖出去这么简单，本地团队、合规体系、运营能力，需要环环相扣。有时候，一辆汽车交付到海外用户手中之后，真正的考验才刚刚开始。 小鹏集团对此体会深刻。作为国内头部物理 AI 科技公司，小鹏自 2020 年就开始加速布局欧洲，但考虑到欧洲各个国家对数据隐私的特殊要求，想要在当地快速推广智驾与智能网联服务并不是一件容易的事情。 而针对这些问题，服务了全球 超过 80% 的世界 500 强选的亚马逊云科技早已驾轻就熟。 为此，小鹏选择借助亚马逊云科技在海外构建数据湖，直接继承亚马逊云科技的安全合规认证，构筑起安全合规、网络安全、用户隐私保护等完善的解决方案，提升驾驶和出行体验，加速全球的业务扩张。 此后，小鹏又 以 Amazon B",
+    "url": "http://www.geekpark.net/news/372386",
+    "published": "Thu, 15 Oct 2026 12:40:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-15"
@@ -350,26 +360,6 @@
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "极客公园",
-    "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
-    "summary": "苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。 苹果公司已发布运营商设置更新，并推出了 iOS 操作系统的新版本 27.0.1，以防止该问题进一步蔓延。运营商设置修复程序将在未来 14 天内自动为 AT&T 用户下载，但苹果仍建议消费者立即安装任何可用的软件更新。 苹果发言人在提供给彭博社的一份声明中表示：「我们已发现一个影响少数 AT&T 网络 iPhone 18 Pro Max 用户的故障，可能导致设备失去服务并无法拨打电话。」报道称，对于已经受到影响的用户，唯一的解决办法是更换手机，使用苹果或 AT&T 提供的新设备。 报道提到，在美国销售的 iPhone 18 Pro Max 与其他新款机型有一点不同：它搭载的是由高通公司制造的蜂窝基带。包括较小的 iPhone 18 Pro 在内的所有其他版本",
-    "url": "http://www.geekpark.net/news/372073",
-    "published": "Sun, 04 Oct 2026 08:33:38 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "极客公园",
-    "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
-    "summary": "英伟达股价创新高，逼近 6 万亿美元 英伟达股价自 5 月以来首次创下历史新高，在两个月的抛售导致市值蒸发逾 1 万亿美元后，投资者重新涌入该股。这家全球市值最高的上市公司股价周五上涨 2.9%，较 7 月底低点累计反弹近 25%。 英伟达股价今年迄今上涨约 27%，有望连续第四年实现两位数涨幅。目前公司市值约为 5.7 万亿美元，距离成为历史上首家市值达到 6 万亿美元的公司不到 3000 亿美元。（来源：环球市场播报） 腾讯 WorkBuddy 内置模型独家支持 Space Bunny 10 月 2 日消息，腾讯 WorkBuddy 宣布内置模型独家支持 Space Bunny。 据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月 2 日至 10 月 7 日间可享限时折扣。 2026 年 9 月 27 日，Space Bunny 在 OpenRouter 的 Token 调用量约 3.99 万亿，在 OpenCode 约 ",
-    "url": "http://www.geekpark.net/news/372070",
-    "published": "Sat, 03 Oct 2026 09:17:08 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
     "summary": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -410,12 +400,12 @@
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
-    "summary": "· 曝苹果与 ADT 合作，为家居中枢提供安装服务 · 蔚来广东换电站达到 500 座，六城同步新增第五代站 · 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Mon, 12 Oct 2026 00:12:37 +0000",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "summary": "Figma is also releasing its code layers feature in open beta.",
+    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "published": "Thu, 15 Oct 2026 04:30:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-15"
   },
@@ -490,11 +480,21 @@
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "TechCrunch",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "published": "Wed, 14 Oct 2026 15:13:24 +0000",
+    "source": "TechNode",
+    "title": "Scientific simulation and AI-data startup SciVisual raises tens of millions of RMB",
+    "summary": "Chinese scientific simulation and AI-data startup SciVisual has completed angel and angel-plus funding rounds totaling tens of millions of RMB, ChinaVenture reported on October 15. Investors include Shanghai Future Industry Fund, Houxue Capital and Pudong Venture Capital. Founded by University of Science and Technology of China researcher Yang Yuanfan, the Hefei-based company converts complex scientific […]",
+    "url": "https://technode.com/2026/10/15/scientific-simulation-and-ai-data-startup-scivisual-raises-tens-of-millions-of-rmb/",
+    "published": "Thu, 15 Oct 2026 06:38:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-15"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple reportedly plans December China launch for Apple Intelligence using Alibaba models",
+    "summary": "Apple plans to launch Apple Intelligence in mainland China in December through its iOS 27.3 update, Bloomberg reported. The rollout would bring an initial set of AI features to Chinese users after an extended regulatory approval process. The China version will incorporate Alibaba’s Qwen and Tongyi Wanxiang models, while Apple is also working with Baidu […]",
+    "url": "https://technode.com/2026/10/15/apple-reportedly-plans-december-china-launch-for-apple-intelligence-using-alibaba-models/",
+    "published": "Thu, 15 Oct 2026 06:38:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-15"
@@ -710,248 +710,14 @@
     "fetchedAt": "2026-10-15"
   },
   {
-    "source": "TechNode",
-    "title": "Chery and JLR’s Freelander brand plans UK launch in third phase of overseas expansion",
-    "summary": "Freelander, the standalone car brand developed through a partnership between Chery and Jaguar Land Rover, has confirmed plans to enter the UK as part of a phased international expansion, Autocar reported on October 6. The brand will first enter the Middle East and North Africa, followed by Australia and New Zealand. The UK and other […]",
-    "url": "https://technode.com/2026/10/08/chery-and-jlrs-freelander-brand-plans-uk-launch-in-third-phase-of-overseas-expansion/",
-    "published": "Thu, 08 Oct 2026 05:25:42 +0000",
+    "source": "The Verge",
+    "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+    "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led […]",
+    "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+    "published": "2026-10-15T06:05:07-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "TechNode",
-    "title": "DeepSeek reportedly nears $12 billion funding round backed by Tencent and CATL",
-    "summary": "DeepSeek is close to securing at least RMB 80 billion ($12 billion) in a new funding round, with Tencent and battery maker CATL among the largest investors, Bloomberg reported on October 6, citing people familiar with the matter. The Chinese AI company initially sought about RMB 50 billion, but investor interest pushed commitments above that […]",
-    "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/",
-    "published": "Thu, 08 Oct 2026 05:24:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "TechNode",
-    "title": "Beyond the Drone: How XAG Is Betting on Autonomous Farming",
-    "summary": "Editor’s Note: There is no shortage of technology news, yet many promising Chinese startups still remain largely unknown to global audiences. At the same time, the constant flow of funding news, product launches, and new technologies makes it harder to see which companies truly deserve attention. DragonLab is TechNode’s effort to close that gap, looking […]",
-    "url": "https://technode.com/2026/10/02/beyond-the-drone-bet-on-the-autonomous-farm/",
-    "published": "Fri, 02 Oct 2026 03:05:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Asia chip stocks fall, AI funding worries",
-    "summary": "Article URL: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html Comments URL: https://news.ycombinator.com/item?id=50098423 Points: 10 # Comments: 0",
-    "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "published": "Thu, 15 Oct 2026 02:29:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
-    "summary": "Article URL: https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea Comments URL: https://news.ycombinator.com/item?id=50095508 Points: 3 # Comments: 0",
-    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
-    "published": "Wed, 14 Oct 2026 21:22:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Faster Python startup with lazy imports",
-    "summary": "Article URL: https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/ Comments URL: https://news.ycombinator.com/item?id=50093544 Points: 1 # Comments: 0",
-    "url": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
-    "published": "Wed, 14 Oct 2026 19:24:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Find the best investors for your startup| 100 investors Guarantee [video]",
-    "summary": "Article URL: https://www.youtube.com/shorts/KDz8IOUykPc Comments URL: https://news.ycombinator.com/item?id=50091885 Points: 1 # Comments: 0",
-    "url": "https://www.youtube.com/shorts/KDz8IOUykPc",
-    "published": "Wed, 14 Oct 2026 17:50:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "New ways to create and launch your own app",
-    "summary": "Article URL: https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/ Comments URL: https://news.ycombinator.com/item?id=50091785 Points: 3 # Comments: 2",
-    "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
-    "published": "Wed, 14 Oct 2026 17:45:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I let an AI run my startup for a week",
-    "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 60 # Comments: 63",
-    "url": "https://daily.tinyprojects.dev/221",
-    "published": "Wed, 14 Oct 2026 10:25:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: AI investment agreement review for startup founders",
-    "summary": "Hi HN! First, congrats to the founders who received a term sheet(and those who will!) I made an investment agreement review tool for founders who recently received a term sheet! You can review your term sheets, SAFEs, convertible notes, and financing agreements if your corporation is incorporated in Delaware, from pre-seed through Series A. It also reviews equity purchase agreements, investor rights, voting terms, and side letters. Try it and check your potential risks before signing! Comments U",
-    "url": "https://www.orchardagentic.cloud/#browse/funding-review",
-    "published": "Wed, 14 Oct 2026 09:13:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "One-year-old AI startup with six employees acquired for estimated $100M",
-    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/996lzw73e Comments URL: https://news.ycombinator.com/item?id=50084036 Points: 2 # Comments: 0",
-    "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
-    "published": "Wed, 14 Oct 2026 08:05:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Launch Videos Gallery – A free collection of startup launch videos",
-    "summary": "Article URL: https://launchvideos.gallery/ Comments URL: https://news.ycombinator.com/item?id=50081665 Points: 4 # Comments: 0",
-    "url": "https://launchvideos.gallery/",
-    "published": "Wed, 14 Oct 2026 02:33:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Could you find funding if you didn't want to build a $1-10B business?",
-    "summary": "I'm building a business. It seems crazily preposterous/pretentious to even write these words, but I'd be perfectly fine with a $10–50M ARR business. Like if at any point I was making more than a few million in profits a year, I would try to sell, hire someone to replace me, or just try to keep it stable. I have what I think is a realistic plan to reach that level of revenue/profits, but in its current state the chance it could scale beyond +$1-10B valuations seems low, I could slightly pivot to ",
-    "url": "https://news.ycombinator.com/item?id=50080968",
-    "published": "Wed, 14 Oct 2026 00:42:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-    "summary": "Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure. Consus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving ",
-    "url": "https://news.ycombinator.com/item?id=50073471",
-    "published": "Tue, 13 Oct 2026 15:41:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenWeb asks court to halt lender collections as rescue funding stalls",
-    "summary": "Article URL: https://runtimewire.com/article/openweb-court-halt-liquidity-collections-rescue Comments URL: https://news.ycombinator.com/item?id=50073061 Points: 2 # Comments: 0",
-    "url": "https://runtimewire.com/article/openweb-court-halt-liquidity-collections-rescue",
-    "published": "Tue, 13 Oct 2026 15:17:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch: Assury Cross platform agent lifecycle mangement",
-    "summary": "Hey HN, I am David Girvi, co-founder of Assury.ai. We are practitioners who became vendors last year. I wanted to share that we have launched agent lifecycle management for cross-platform agents. One centralized spot for all your agents. AWS, Databricks, Snowflake, Salesforce, etc. Lifecycle does auto-discovery in every environment, plus auto-tagging. We bring everything into a tamper-proof, searchable audit trail. Easily see who or what teams own the agents etc. We also have Kill/resume control",
-    "url": "https://news.ycombinator.com/item?id=50072334",
-    "published": "Tue, 13 Oct 2026 14:29:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Exposing why every AI launch goes viral on X [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=xNgQtzEl4lY Comments URL: https://news.ycombinator.com/item?id=50070383 Points: 4 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=xNgQtzEl4lY",
-    "published": "Tue, 13 Oct 2026 12:07:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Planning software for startup teams",
-    "summary": "Hello founders and co-founders. Startup mentors recommend setting short-term goals, or planning weekly... Do you do it? I made a tool for this purpose with a focus on startups. Hope you like it, your feedback would be a huge help Comments URL: https://news.ycombinator.com/item?id=50066266 Points: 2 # Comments: 0",
-    "url": "https://weeklywe.com",
-    "published": "Tue, 13 Oct 2026 03:29:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-    "summary": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as t",
-    "url": "https://news.ycombinator.com/item?id=50059096",
-    "published": "Mon, 12 Oct 2026 16:46:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
-    "summary": "Article URL: https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/ Comments URL: https://news.ycombinator.com/item?id=50050540 Points: 5 # Comments: 1",
-    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-    "published": "Mon, 12 Oct 2026 02:20:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-    "summary": "Article URL: https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/ Comments URL: https://news.ycombinator.com/item?id=50048591 Points: 4 # Comments: 0",
-    "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
-    "published": "Sun, 11 Oct 2026 22:28:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: I'm a 14-year-old building my first startup, Titan",
-    "summary": "Hello HN! My name is Vidit, I am 14 years old and Titan is my first start-up. Titan is your personal team of AI agents. Give it a command via voice or desktop app and it will execute tasks: research, emails, plans, your apps, and your goals. The whole idea behind the product is to save you time and money and help you pursue what you really want to do. First 100 users get $5 worth of free credits. Free plan is there as well but, being a bootstrapper myself, it is quite constrained. Sorry for that",
-    "url": "https://titan-ai.co/",
-    "published": "Sun, 11 Oct 2026 11:50:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 478 # Comments: 251",
-    "url": "https://nitter.net",
-    "published": "Sun, 11 Oct 2026 10:37:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-15"
-  },
-  {
-    "source": "V2EX",
-    "title": "[补送码] Nas 音乐播放器的终极解决方案： Mu3ic",
-    "summary": "[1.5.0 发布贴]( https://www.v2ex.com/t/1248530?p=1#reply43)，一开始光速领码的都没激活，后面才刷到的 xd 很多都没领到激活码，鉴于此，在这里另发一帖补送 20 个码，请在收到码后 24h 内激活，逾期不补，有需要的伙伴可以留下邮箱 - 原帖： https://www.v2ex.com/t/1248530 - 主页： https://mu3ic.xyz/#features - 软件下载直链： https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk ![]( https://i.imgur.c",
-    "url": "https://www.v2ex.com/t/1248789",
-    "published": 1791970681,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-15",
-    "meta": {
-      "replies": 60,
-      "node": "分享创造"
-    }
   },
   {
     "source": "GitHub新星",
@@ -963,8 +729,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-15",
     "meta": {
-      "stars": 2691,
-      "forks": 896,
+      "stars": 2762,
+      "forks": 923,
       "language": "Rust",
       "createdDaysAgo": 5
     }
@@ -979,10 +745,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-15",
     "meta": {
-      "stars": 2339,
-      "forks": 744,
+      "stars": 2689,
+      "forks": 849,
       "language": "C",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   }
 ]
