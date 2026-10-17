@@ -41,30 +41,60 @@
   },
   {
     "source": "钛媒体",
-    "title": "【数智周报】 英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门",
-    "summary": "（10月12日~10月17日）英伟达与思科推出新型光模块，以扩展AI工厂；英国机构呼吁加强前沿AI安全管理；OpenAI宣称攻克数百未解数学难题；Anthropic据悉第三季度营收跃升至168亿美元；Meta推出“最强”开源权重大模型",
-    "url": "https://www.tmtpost.com/8171854.html",
-    "published": "Sat, 17 Oct 2026 10:34:16 +0800",
+    "title": "通用大模型正在重做机器人的研发与交付",
+    "summary": "VLA没有死，死的是旧分工。",
+    "url": "https://www.tmtpost.com/8171971.html",
+    "published": "Sat, 17 Oct 2026 17:29:15 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-17"
   },
   {
     "source": "钛媒体",
-    "title": "特斯拉都飞了，还要自动驾驶？",
-    "summary": "马斯克用一台不依赖盈利、不依赖监管、纯靠物理奇观的车，抢回 \"技术先锋\" 的定义权。他亲口说的 \"最后几辆人类驾驶汽车中的佼佼者\"，是对自动驾驶兑现周期最诚实的一句供认。",
-    "url": "https://www.tmtpost.com/8171034.html",
-    "published": "Fri, 16 Oct 2026 17:50:09 +0800",
+    "title": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了",
+    "summary": "新能源汽车行业，正在悄悄转向。",
+    "url": "https://www.tmtpost.com/8171809.html",
+    "published": "Sat, 17 Oct 2026 17:29:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-17"
   },
   {
     "source": "钛媒体",
-    "title": "硅谷AI杀疯了，DeepSeek们的性价比还剩多少？",
-    "summary": "硅谷羊毛薅爽了，国产大模型贵得“烧心”？",
-    "url": "https://www.tmtpost.com/8170871.html",
-    "published": "Fri, 16 Oct 2026 16:58:45 +0800",
+    "title": "估值暴跌3.5万亿，Anthropic错过上市最佳时机？",
+    "summary": "此前2万亿美元的估值，已经越来越难以兑现。",
+    "url": "https://www.tmtpost.com/8171993.html",
+    "published": "Sat, 17 Oct 2026 17:29:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Kling 4.0发布，可灵AI的估值凭什么反超母体快手？",
+    "summary": "AI，能帮快手冲破商业想象力的天花板吗？",
+    "url": "https://www.tmtpost.com/8171555.html",
+    "published": "Sat, 17 Oct 2026 16:20:39 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "钛媒体",
+    "title": "夹在字节缝隙中的AI融资明星们",
+    "summary": "即梦、小云雀传出合并，AI视频公司如何在字节焦虑中上市。",
+    "url": "https://www.tmtpost.com/8171535.html",
+    "published": "Sat, 17 Oct 2026 15:38:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "钛媒体",
+    "title": "AI 的下一个前沿在哪里？数百位创业者在上海给出了这些答案",
+    "summary": "今年上半年，全球一级市场融资额约为去年同期两倍，AI 领域融资额是去年同期的 3.4 倍，占全部融资的比重从 48% 升到 78%",
+    "url": "https://www.tmtpost.com/8171952.html",
+    "published": "Sat, 17 Oct 2026 14:29:32 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-17"
@@ -650,17 +680,197 @@
     "fetchedAt": "2026-10-17"
   },
   {
+    "source": "Hacker News",
+    "title": "German police launch investigation after robot allegedly gropes teenage girl",
+    "summary": "Article URL: https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl Comments URL: https://news.ycombinator.com/item?id=50127941 Points: 17 # Comments: 1",
+    "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
+    "published": "Sat, 17 Oct 2026 04:27:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+    "summary": "Article URL: https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/ Comments URL: https://news.ycombinator.com/item?id=50119833 Points: 16 # Comments: 3",
+    "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+    "published": "Fri, 16 Oct 2026 15:44:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "JEP 545: Faster Startup and Warmup with ZGC",
+    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=50119649 Points: 1 # Comments: 0",
+    "url": "https://openjdk.org/jeps/545",
+    "published": "Fri, 16 Oct 2026 15:29:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Booking Holdings unveils AI travel startup Vayo",
+    "summary": "Article URL: https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/ Comments URL: https://news.ycombinator.com/item?id=50119031 Points: 2 # Comments: 0",
+    "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
+    "published": "Fri, 16 Oct 2026 14:47:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What's on your Mac app launch checklist that you learned the hard way?",
+    "summary": "Article URL: https://shedi.app Comments URL: https://news.ycombinator.com/item?id=50117736 Points: 2 # Comments: 0",
+    "url": "https://shedi.app",
+    "published": "Fri, 16 Oct 2026 12:51:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kcMTe1AbvjY Comments URL: https://news.ycombinator.com/item?id=50116859 Points: 3 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
+    "published": "Fri, 16 Oct 2026 10:59:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Neutron's first launch slips again amid trouble with carbon composites",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/ Comments URL: https://news.ycombinator.com/item?id=50116462 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+    "published": "Fri, 16 Oct 2026 10:05:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How Did Israel Become \"Startup Nation\"? (2009)",
+    "summary": "Article URL: https://freakonomics.com/2009/12/how-did-israel-become-start-up-nation/ Comments URL: https://news.ycombinator.com/item?id=50113425 Points: 2 # Comments: 0",
+    "url": "https://freakonomics.com/2009/12/how-did-israel-become-start-up-nation/",
+    "published": "Fri, 16 Oct 2026 02:56:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Grand Theft Auto VI Launch Trailer",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rz1B4B2yBZY Comments URL: https://news.ycombinator.com/item?id=50112873 Points: 14 # Comments: 4",
+    "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "published": "Fri, 16 Oct 2026 01:55:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Oracle Startup Growth Engine",
+    "summary": "Article URL: https://www.oracle.com/pl/artificial-intelligence/startup-growth-engine/ Comments URL: https://news.ycombinator.com/item?id=50108412 Points: 2 # Comments: 0",
+    "url": "https://www.oracle.com/pl/artificial-intelligence/startup-growth-engine/",
+    "published": "Thu, 15 Oct 2026 18:49:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Opus 5.5 made our product launch video (linked)",
+    "summary": "Article URL: https://lectogram.com/ Comments URL: https://news.ycombinator.com/item?id=50106616 Points: 4 # Comments: 5",
+    "url": "https://lectogram.com/",
+    "published": "Thu, 15 Oct 2026 16:58:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Fintech startup Ramp hits $60B valuation after $1.85B funding round",
+    "summary": "Article URL: https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50106282 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/",
+    "published": "Thu, 15 Oct 2026 16:39:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Openkoda – Launch Insurance Innovations with AI",
+    "summary": "Article URL: https://openkoda.com/ Comments URL: https://news.ycombinator.com/item?id=50102030 Points: 1 # Comments: 0",
+    "url": "https://openkoda.com/",
+    "published": "Thu, 15 Oct 2026 11:09:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Asia chip stocks fall, AI funding worries",
+    "summary": "Article URL: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html Comments URL: https://news.ycombinator.com/item?id=50098423 Points: 15 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "published": "Thu, 15 Oct 2026 02:29:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
+    "summary": "Article URL: https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea Comments URL: https://news.ycombinator.com/item?id=50095508 Points: 3 # Comments: 0",
+    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+    "published": "Wed, 14 Oct 2026 21:22:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Faster Python startup with lazy imports",
+    "summary": "Article URL: https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/ Comments URL: https://news.ycombinator.com/item?id=50093544 Points: 1 # Comments: 0",
+    "url": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
+    "published": "Wed, 14 Oct 2026 19:24:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Find the best investors for your startup| 100 investors Guarantee [video]",
+    "summary": "Article URL: https://www.youtube.com/shorts/KDz8IOUykPc Comments URL: https://news.ycombinator.com/item?id=50091885 Points: 1 # Comments: 0",
+    "url": "https://www.youtube.com/shorts/KDz8IOUykPc",
+    "published": "Wed, 14 Oct 2026 17:50:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "New ways to create and launch your own app",
+    "summary": "Article URL: https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/ Comments URL: https://news.ycombinator.com/item?id=50091785 Points: 3 # Comments: 3",
+    "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+    "published": "Wed, 14 Oct 2026 17:45:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
     "source": "V2EX",
-    "title": "大龄程序员 2 个 offer 如何选择啊，纠结。。。",
-    "summary": "一个是成立了八年以上，注册资金一千多万，做算力基建的，目前已经全国多地运营建设了大型多个机房，多次问 hr 说不加班，工资总包 n 万，五险按照工资基数缴纳，公积金 7%比例，做算力调度与云主机管理的后端开发，说是公司快上市了，是国家重点小巨人企业。 另一个，是初创企业，人可能不超过 20 个，成立两年多，做 tee 机密计算的，工资总包比前者多 9 万，但是五险一金按照基数的 1/3 基数，工资中 20%是绩效工资，说是一般朝九晚八，项目紧急时可能有加班，说是老板是年轻人且家庭有官员背景，说是目前没有每月绩效都是实发，做 ai 前后端全栈开发类似中转站。 大家觉得，选择哪个合适呢",
-    "url": "https://www.v2ex.com/t/1249437",
-    "published": 1792144562,
+    "title": "智友社回馈 V 站新老客户，抽送第 10 波 18 个 智友社的 Muse Ai 稳定特殊渠道独享成品号 1A（10 亿 Token，质保首登）",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了链动小铺，您有问题可以随时联系我们 QQ 客服，",
+    "url": "https://www.v2ex.com/t/1249529",
+    "published": 1792203278,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "replies": 29,
-      "node": "职场话题"
+      "replies": 33,
+      "node": "推广"
     }
   },
   {
@@ -673,10 +883,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "stars": 3560,
-      "forks": 1029,
+      "stars": 3618,
+      "forks": 1039,
       "language": "C",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -689,8 +899,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "stars": 2886,
-      "forks": 371,
+      "stars": 2939,
+      "forks": 381,
       "language": "C",
       "createdDaysAgo": 5
     }
@@ -705,8 +915,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "stars": 2547,
-      "forks": 496,
+      "stars": 2573,
+      "forks": 500,
       "language": "Python",
       "createdDaysAgo": 4
     }
