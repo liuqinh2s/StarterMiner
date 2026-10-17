@@ -391,6 +391,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-17"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
     "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
     "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
@@ -415,26 +425,6 @@
     "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
     "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
     "published": "Fri, 16 Oct 2026 14:00:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-    "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-    "published": "Thu, 15 Oct 2026 23:33:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "published": "Thu, 15 Oct 2026 20:04:53 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-17"
@@ -661,20 +651,20 @@
   },
   {
     "source": "The Verge",
-    "title": "Why Apple is finally making its own smart home devices",
-    "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
-    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-    "published": "2026-10-16T14:30:27-04:00",
+    "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+    "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]",
+    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+    "published": "2026-10-17T12:39:44-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-17"
   },
   {
-    "source": "The Verge",
-    "title": "The new Apple TV 4K just got its first (very small) discount",
-    "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you […]",
-    "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-    "published": "2026-10-16T12:02:22-04:00",
+    "source": "Hacker News",
+    "title": "Dramatic Cuts in New NIH Research Funding Across the Board",
+    "summary": "Article URL: https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/ Comments URL: https://news.ycombinator.com/item?id=50134904 Points: 4 # Comments: 0",
+    "url": "https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/",
+    "published": "Sat, 17 Oct 2026 20:36:42 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-17"
@@ -682,7 +672,7 @@
   {
     "source": "Hacker News",
     "title": "German police launch investigation after robot allegedly gropes teenage girl",
-    "summary": "Article URL: https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl Comments URL: https://news.ycombinator.com/item?id=50127941 Points: 17 # Comments: 1",
+    "summary": "Article URL: https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl Comments URL: https://news.ycombinator.com/item?id=50127941 Points: 18 # Comments: 1",
     "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
     "published": "Sat, 17 Oct 2026 04:27:35 +0000",
     "lang": "en",
@@ -692,7 +682,7 @@
   {
     "source": "Hacker News",
     "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-    "summary": "Article URL: https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/ Comments URL: https://news.ycombinator.com/item?id=50119833 Points: 16 # Comments: 3",
+    "summary": "Article URL: https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/ Comments URL: https://news.ycombinator.com/item?id=50119833 Points: 18 # Comments: 3",
     "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
     "published": "Fri, 16 Oct 2026 15:44:30 +0000",
     "lang": "en",
@@ -762,7 +752,7 @@
   {
     "source": "Hacker News",
     "title": "Grand Theft Auto VI Launch Trailer",
-    "summary": "Article URL: https://www.youtube.com/watch?v=rz1B4B2yBZY Comments URL: https://news.ycombinator.com/item?id=50112873 Points: 14 # Comments: 4",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rz1B4B2yBZY Comments URL: https://news.ycombinator.com/item?id=50112873 Points: 15 # Comments: 4",
     "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
     "published": "Fri, 16 Oct 2026 01:55:54 +0000",
     "lang": "en",
@@ -850,16 +840,6 @@
     "fetchedAt": "2026-10-17"
   },
   {
-    "source": "Hacker News",
-    "title": "New ways to create and launch your own app",
-    "summary": "Article URL: https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/ Comments URL: https://news.ycombinator.com/item?id=50091785 Points: 3 # Comments: 3",
-    "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
-    "published": "Wed, 14 Oct 2026 17:45:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-17"
-  },
-  {
     "source": "V2EX",
     "title": "智友社回馈 V 站新老客户，抽送第 10 波 18 个 智友社的 Muse Ai 稳定特殊渠道独享成品号 1A（10 亿 Token，质保首登）",
     "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了链动小铺，您有问题可以随时联系我们 QQ 客服，",
@@ -869,7 +849,7 @@
     "type": "community",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "replies": 33,
+      "replies": 43,
       "node": "推广"
     }
   },
@@ -883,8 +863,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "stars": 3618,
-      "forks": 1039,
+      "stars": 3704,
+      "forks": 1053,
       "language": "C",
       "createdDaysAgo": 5
     }
@@ -899,10 +879,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "stars": 2939,
-      "forks": 381,
+      "stars": 2991,
+      "forks": 387,
       "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -915,8 +895,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-17",
     "meta": {
-      "stars": 2573,
-      "forks": 500,
+      "stars": 2631,
+      "forks": 506,
       "language": "Python",
       "createdDaysAgo": 4
     }
