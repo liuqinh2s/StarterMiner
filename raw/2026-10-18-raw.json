@@ -41,16 +41,6 @@
   },
   {
     "source": "钛媒体",
-    "title": "贝莱德的债券大师正在以下3个领域寻找收益",
-    "summary": "他目前看好人工智能超大规模云服务商的债务以及新兴市场债券的投资机会。",
-    "url": "https://www.tmtpost.com/8172244.html",
-    "published": "Sun, 18 Oct 2026 10:06:17 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-18"
-  },
-  {
-    "source": "钛媒体",
     "title": "当地方政府成为机器人的第一大客户",
     "summary": "数采中心的本质，是政府对具身智能的补贴形式从现金补贴改成了采购订单。这在产业史上不新鲜——光伏、新能源车、AI四小龙都走过同一条路。它的正面价值和财务副作用是同一枚硬币的两面。",
     "url": "https://www.tmtpost.com/8172207.html",
@@ -65,26 +55,6 @@
     "summary": "非洲资源投资的竞争已不止于采矿，政策、加工、物流与本地经营成为关键。",
     "url": "https://www.tmtpost.com/8171412.html",
     "published": "Sun, 18 Oct 2026 09:57:17 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-18"
-  },
-  {
-    "source": "钛媒体",
-    "title": "通用大模型正在重做机器人的研发与交付",
-    "summary": "VLA没有死，死的是旧分工。",
-    "url": "https://www.tmtpost.com/8171971.html",
-    "published": "Sat, 17 Oct 2026 17:29:15 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-18"
-  },
-  {
-    "source": "钛媒体",
-    "title": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了",
-    "summary": "新能源汽车行业，正在悄悄转向。",
-    "url": "https://www.tmtpost.com/8171809.html",
-    "published": "Sat, 17 Oct 2026 17:29:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-18"
@@ -650,18 +620,184 @@
     "fetchedAt": "2026-10-18"
   },
   {
-    "source": "V2EX",
-    "title": "你做项目的话，你觉得是域名重要还是项目重要",
-    "summary": "案例 1: 开心网曾经前很火 启用的域名 kaixin001.com kaixin.com 不在手上 竞品 人人网买下 kaixin.com 和 seo 推广 用开心网品牌做得比源站都大 开心 001 开心网被对手直接干死 创始人是中专学历 北京核工业学校毕业的 案例 2：熊猫直播 曾经行业第二启用的域名 panda.tv 干了不到五年 亏了几十亿 xiongmao.com 和 panda.com 都不在手里，还花千万签约大主播 最后破产 王思聪失去万达董事会资格，被踢出董事局，王思聪妈妈给他填下大窟窿",
-    "url": "https://www.v2ex.com/t/1249621",
-    "published": 1792232445,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-18",
-    "meta": {
-      "replies": 26,
-      "node": "分享发现"
-    }
+    "source": "Hacker News",
+    "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows",
+    "summary": "Article URL: https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/ Comments URL: https://news.ycombinator.com/item?id=50139181 Points: 4 # Comments: 0",
+    "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/",
+    "published": "Sun, 18 Oct 2026 08:41:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China startup demoes prototype EUV light source, still years away from viability",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability Comments URL: https://news.ycombinator.com/item?id=50138285 Points: 2 # Comments: 0",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+    "published": "Sun, 18 Oct 2026 05:54:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Dramatic Cuts in New NIH Research Funding Across the Board",
+    "summary": "Article URL: https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/ Comments URL: https://news.ycombinator.com/item?id=50134904 Points: 4 # Comments: 0",
+    "url": "https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/",
+    "published": "Sat, 17 Oct 2026 20:36:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "German police launch investigation after robot allegedly gropes teenage girl",
+    "summary": "Article URL: https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl Comments URL: https://news.ycombinator.com/item?id=50127941 Points: 18 # Comments: 1",
+    "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
+    "published": "Sat, 17 Oct 2026 04:27:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+    "summary": "Article URL: https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/ Comments URL: https://news.ycombinator.com/item?id=50119833 Points: 19 # Comments: 3",
+    "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+    "published": "Fri, 16 Oct 2026 15:44:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "JEP 545: Faster Startup and Warmup with ZGC",
+    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=50119649 Points: 1 # Comments: 0",
+    "url": "https://openjdk.org/jeps/545",
+    "published": "Fri, 16 Oct 2026 15:29:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Booking Holdings unveils AI travel startup Vayo",
+    "summary": "Article URL: https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/ Comments URL: https://news.ycombinator.com/item?id=50119031 Points: 2 # Comments: 0",
+    "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
+    "published": "Fri, 16 Oct 2026 14:47:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What's on your Mac app launch checklist that you learned the hard way?",
+    "summary": "Article URL: https://shedi.app Comments URL: https://news.ycombinator.com/item?id=50117736 Points: 2 # Comments: 1",
+    "url": "https://shedi.app",
+    "published": "Fri, 16 Oct 2026 12:51:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kcMTe1AbvjY Comments URL: https://news.ycombinator.com/item?id=50116859 Points: 3 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
+    "published": "Fri, 16 Oct 2026 10:59:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Neutron's first launch slips again amid trouble with carbon composites",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/ Comments URL: https://news.ycombinator.com/item?id=50116462 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+    "published": "Fri, 16 Oct 2026 10:05:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How Did Israel Become \"Startup Nation\"? (2009)",
+    "summary": "Article URL: https://freakonomics.com/2009/12/how-did-israel-become-start-up-nation/ Comments URL: https://news.ycombinator.com/item?id=50113425 Points: 2 # Comments: 0",
+    "url": "https://freakonomics.com/2009/12/how-did-israel-become-start-up-nation/",
+    "published": "Fri, 16 Oct 2026 02:56:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Grand Theft Auto VI Launch Trailer",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rz1B4B2yBZY Comments URL: https://news.ycombinator.com/item?id=50112873 Points: 15 # Comments: 4",
+    "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+    "published": "Fri, 16 Oct 2026 01:55:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Oracle Startup Growth Engine",
+    "summary": "Article URL: https://www.oracle.com/pl/artificial-intelligence/startup-growth-engine/ Comments URL: https://news.ycombinator.com/item?id=50108412 Points: 2 # Comments: 0",
+    "url": "https://www.oracle.com/pl/artificial-intelligence/startup-growth-engine/",
+    "published": "Thu, 15 Oct 2026 18:49:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Opus 5.5 made our product launch video (linked)",
+    "summary": "Article URL: https://lectogram.com/ Comments URL: https://news.ycombinator.com/item?id=50106616 Points: 4 # Comments: 5",
+    "url": "https://lectogram.com/",
+    "published": "Thu, 15 Oct 2026 16:58:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Fintech startup Ramp hits $60B valuation after $1.85B funding round",
+    "summary": "Article URL: https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50106282 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/technology/fintech-firm-ramp-raises-185-billion-60-billion-valuation-2026-10-15/",
+    "published": "Thu, 15 Oct 2026 16:39:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Openkoda – Launch Insurance Innovations with AI",
+    "summary": "Article URL: https://openkoda.com/ Comments URL: https://news.ycombinator.com/item?id=50102030 Points: 1 # Comments: 0",
+    "url": "https://openkoda.com/",
+    "published": "Thu, 15 Oct 2026 11:09:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Asia chip stocks fall, AI funding worries",
+    "summary": "Article URL: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html Comments URL: https://news.ycombinator.com/item?id=50098423 Points: 15 # Comments: 0",
+    "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "published": "Thu, 15 Oct 2026 02:29:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
+    "summary": "Article URL: https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea Comments URL: https://news.ycombinator.com/item?id=50095508 Points: 3 # Comments: 0",
+    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+    "published": "Wed, 14 Oct 2026 21:22:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-18"
   },
   {
     "source": "GitHub新星",
@@ -673,10 +809,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 3735,
-      "forks": 1060,
+      "stars": 3771,
+      "forks": 1068,
       "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -689,8 +825,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 2660,
-      "forks": 511,
+      "stars": 2693,
+      "forks": 516,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -705,8 +841,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 2078,
-      "forks": 297,
+      "stars": 2126,
+      "forks": 305,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -721,10 +857,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 1808,
-      "forks": 22,
+      "stars": 1993,
+      "forks": 25,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -737,8 +873,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 1806,
-      "forks": 96,
+      "stars": 1841,
+      "forks": 98,
       "language": "C#",
       "createdDaysAgo": 3
     }
@@ -753,8 +889,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 1684,
-      "forks": 135,
+      "stars": 1698,
+      "forks": 137,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -769,9 +905,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 1281,
-      "forks": 68,
+      "stars": 1348,
+      "forks": 69,
       "language": "C++",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Caho1/open-claude-ui",
+    "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "url": "https://github.com/Caho1/open-claude-ui",
+    "published": "2026-10-14T14:05:05Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-18",
+    "meta": {
+      "stars": 1175,
+      "forks": 257,
+      "language": "TypeScript",
       "createdDaysAgo": 3
     }
   },
@@ -785,26 +937,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 1146,
-      "forks": 124,
+      "stars": 1160,
+      "forks": 125,
       "language": "Go",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Caho1/open-claude-ui",
-    "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-    "url": "https://github.com/Caho1/open-claude-ui",
-    "published": "2026-10-14T14:05:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-18",
-    "meta": {
-      "stars": 1145,
-      "forks": 253,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -817,10 +953,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 1086,
+      "stars": 1095,
       "forks": 422,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -833,9 +969,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 996,
-      "forks": 48,
+      "stars": 1023,
+      "forks": 49,
       "language": "C++",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rohit267/net-merge",
+    "summary": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "url": "https://github.com/rohit267/net-merge",
+    "published": "2026-10-12T19:28:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-18",
+    "meta": {
+      "stars": 945,
+      "forks": 36,
+      "language": "Go",
       "createdDaysAgo": 5
     }
   },
@@ -849,10 +1001,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 941,
+      "stars": 945,
       "forks": 29,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -865,26 +1017,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 822,
-      "forks": 496,
+      "stars": 824,
+      "forks": 497,
       "language": "TypeScript",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "rohit267/net-merge",
-    "summary": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
-    "url": "https://github.com/rohit267/net-merge",
-    "published": "2026-10-12T19:28:45Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-18",
-    "meta": {
-      "stars": 821,
-      "forks": 31,
-      "language": "Go",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -897,9 +1033,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 742,
-      "forks": 20,
+      "stars": 791,
+      "forks": 21,
       "language": null,
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Gathin23/tv-vibehack",
+    "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+    "url": "https://github.com/Gathin23/tv-vibehack",
+    "published": "2026-10-17T08:12:35Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-18",
+    "meta": {
+      "stars": 744,
+      "forks": 75,
+      "language": "Java",
       "createdDaysAgo": 1
     }
   },
@@ -913,26 +1065,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 695,
-      "forks": 42,
+      "stars": 722,
+      "forks": 44,
       "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Zfinix/eleven",
-    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-    "url": "https://github.com/Zfinix/eleven",
-    "published": "2026-10-13T13:47:31Z",
+    "title": "LiCinCan/blender-ai-mcp-addon",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+    "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+    "published": "2026-10-15T22:30:47Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 677,
-      "forks": 107,
-      "language": "TypeScript",
-      "createdDaysAgo": 4
+      "stars": 718,
+      "forks": 297,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -945,42 +1097,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 674,
-      "forks": 159,
+      "stars": 711,
+      "forks": 167,
       "language": "C++",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "threerocks/sweety-handdraw-video",
-    "summary": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
-    "url": "https://github.com/threerocks/sweety-handdraw-video",
-    "published": "2026-10-12T12:16:18Z",
+    "title": "Zfinix/eleven",
+    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+    "url": "https://github.com/Zfinix/eleven",
+    "published": "2026-10-13T13:47:31Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-18",
     "meta": {
-      "stars": 672,
-      "forks": 128,
-      "language": "JavaScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "anujasid/blender-ai-mcp-addon",
-    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-    "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-    "published": "2026-10-15T22:30:47Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-18",
-    "meta": {
-      "stars": 645,
-      "forks": 176,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "stars": 702,
+      "forks": 109,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
     }
   }
 ]
