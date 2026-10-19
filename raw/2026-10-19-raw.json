@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "垠石汽车完成亿元级A+轮融资 推进重载线控制动量产",
+    "summary": "近日，垠石汽车宣布完成亿元级A+轮融资，由北京顺义产投基金独家投资。资金将用于完善团队、建设量产生产线等，推进重载一体式线控制动技术量产。公司称，其液压集成式线控制动系统已获得多个主机厂定点订单。 据天眼查显示，北京垠石汽车技术有限公司曾用名为天津垠石精工技术有限公司。该主体的“液压集成式线控制动系统”发明专利于2025年8月获授权。摘要记载，该方案针对电子液压制动系统冗余能力有限的问题，通过多个液压回路和相互独立的油壶，在制动解耦的同时保证冗余制动效果。",
+    "url": "https://www.cyzone.cn/article/849521.html",
+    "published": "Mon, 19 Oct 2026 03:28:38 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "创业邦",
     "title": "威马汽车参保人数5年归零",
     "summary": "据媒体报道，近日，威马汽车官方微信公众号突然更新，发布了一条题为“第一天：B能汽车，请发我们工资”的内容，随后不久便被删除，相关话题引发热议。 天眼查App显示，威马汽车科技集团有限公司成立于2012年5月，法定代表人为SHEN HUI，注册资本60亿人民币，经营范围包括新能源智能汽车的技术设计和研发、销售及售后服务等，由苏州威马智慧出行科技有限公司全资持股。参保人数信息显示，该公司参保人数从2018年的770人降至2023年的0人，且2024年和2025年的参保人数均为0人。法律诉讼信息显示，该公司现存多条股权冻结信息，股权所在企业包括该公司、威马融资租赁（天津）有限公司等。此外，该公司还存在多条被执行人、限制消费令、失信被执行人（老赖）及破产案件信息。",
     "url": "https://www.cyzone.cn/article/849160.html",
@@ -30,51 +40,21 @@
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "创业邦",
-    "title": "四川能源、五粮液集团等在四川成立核产业公司 注册资本10亿",
-    "summary": "天眼查App显示，近日，四川能源核产业有限公司成立，法定代表人为聂强，注册资本10亿人民币，经营范围包括民用核安全设备制造、民用核安全设备安装、民用核安全设备设计等。股东信息显示，该公司由四川能源发展集团有限责任公司、粤港澳大湾区创业投资引导基金合伙企业（有限合伙）、成都未来产业创业投资发展基金合伙企业（有限合伙）、四川省新能源动力股份有限公司、五粮液集团旗下四川省宜宾普什集团有限公司、深圳市创新资本投资有限公司、成都核总核动力研究设计工程有限公司共同持股。",
-    "url": "https://www.cyzone.cn/article/847523.html",
-    "published": "Thu, 24 Sep 2026 03:41:49 GMT",
+    "source": "钛媒体",
+    "title": "基金三季报换仓众生相：满仓银行、押注创新药、坚守硬科技",
+    "summary": "基民也相信有“黄金坑”。",
+    "url": "https://www.tmtpost.com/8173435.html",
+    "published": "Mon, 19 Oct 2026 18:36:28 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "钛媒体",
-    "title": "脑机接口的2026：医保跑在了商业前面，好事还是麻烦？",
-    "summary": "既不必用“百年产业”的尺度来安慰每一次高估值，也别用“下一个Neuralink”的叙事去透支一个还需要数十年的临床积累。",
-    "url": "https://www.tmtpost.com/8173009.html",
-    "published": "Mon, 19 Oct 2026 12:09:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "谷歌的芯片不容小视",
-    "summary": "谷歌造芯的故事，要从2015年说起。",
-    "url": "https://www.tmtpost.com/8172978.html",
-    "published": "Mon, 19 Oct 2026 11:51:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "“Manus效应”的辐射：科技竞争的前沿，正在移向生物医药",
-    "summary": "对产业的三点启示。",
-    "url": "https://www.tmtpost.com/8172947.html",
-    "published": "Mon, 19 Oct 2026 11:46:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "钛媒体",
-    "title": "创新药出海“管控”传言被击碎之后",
-    "summary": "产品才是王道。",
-    "url": "https://www.tmtpost.com/8172810.html",
-    "published": "Mon, 19 Oct 2026 10:57:00 +0800",
+    "source": "极客公园",
+    "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
+    "summary": "过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合作伙伴大会。期间，极客公园创始人 & CEO 张鹏主持了一场圆桌，五位来自不同赛道的人坐到了一起：麒麟软件副总经理 / 生态发展中心总经理姚翎、聊趣智能科技创始人兼 CEO 黄隽实、罗格数据 CTO 刘学鹏、寅谱计算 CMO 陈展凌、后摩智能 AI 系统总工程师陈仲铭。 他们分别来自操作系统、应用、数据工程、整机集成和芯片领域，讨论的是同一件事：端侧 AI 什么时候才能真正成为一门生意？ 黄隽实讲了一个养老院里的故事。他们在上海落地了一套「数字家人」，陪老人聊天、提醒用药、辅助防诈骗。老人每天说了什么、身体状况如何，都是极其敏感的信息，不能随意上传云端；系统又要全天值守，设备还不能嗡嗡作响。到了这样的现场，隐私、算力、功耗和噪声都不再是技术指标，而是老人愿不愿意使用的前提。 在企业市场，答案同样清晰。刘学鹏认为，客户最关心的是私域",
+    "url": "http://www.geekpark.net/news/372578",
+    "published": "Mon, 19 Oct 2026 18:10:03 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-19"
@@ -340,16 +320,6 @@
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "极客公园",
-    "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
-    "summary": "过去一年，AI 产品越来越想变成一个「人」。 一边是越来越自动化的 Agent，已经可以直接操作电脑，甚至和其他 AI 互相通信。 而另一边，是近期大火的「个人助理」式 Personal AI，它不仅要完成眼前的任务，还想记住是谁在提需求：这个人关心什么，手上有哪些没做完的事。 就在最近一个月里， Meta 推出了 Muse； Manus 推出个人 Agent 应用 Cue； OpenAI 随后发布 Dots。 它们的形态不同，但目的近似，都在试图长期记住用户的目标和偏好，进入用户日常使用的软件，并在用户没有主动提问时继续工作。 不过，放到国内的使用环境里，这些产品多少有些「水土不服」，要么仅在美区开放，要么可操作的应用主要是 Gmail、Slack、WhatsApp、Teams 等海外软件。 在这股热潮里，我注意到了 Today AI。它由 Teambition 创始人齐俊元打造，国内版于 9 月 24 日上线，已经接入飞书、钉钉、腾讯文档和邮箱等国内常用应用。 Today AI 应用的主页面｜图片来源：Today AI 至少对国内用户来说，它算是目前最容易上手体验 Personal",
-    "url": "http://www.geekpark.net/news/372163",
-    "published": "Fri, 09 Oct 2026 12:34:12 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
     "summary": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -360,12 +330,12 @@
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "爱范儿",
-    "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
-    "summary": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Thu, 15 Oct 2026 00:13:28 +0000",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "published": "Mon, 19 Oct 2026 07:30:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-19"
   },
@@ -395,6 +365,46 @@
     "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "published": "Fri, 16 Oct 2026 16:01:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Rokid brings voice-based ride-hailing to AI glasses through Tencent partnership",
+    "summary": "Rokid has partnered with Tencent Mobility Services to launch ride-hailing through its AI glasses. Announced on October 16, the service lets users state a destination by voice and receive vehicle details and estimated arrival times through the glasses. The integration connects Rokid’s assistant with Tencent’s travel-service agent using the Agent-to-Agent protocol. Tencent provides functions including […]",
+    "url": "https://technode.com/2026/10/19/rokid-brings-voice-based-ride-hailing-to-ai-glasses-through-tencent-partnership/",
+    "published": "Mon, 19 Oct 2026 06:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Former Huawei engineer’s robot AI startup Gewu Tongzhi raises nearly RMB 100 million",
+    "summary": "Hangzhou-based robot AI startup Gewu Tongzhi has completed an angel funding round of nearly RMB 100 million, according to reports published on October 18. Investors include Hongfu Asset Management, Peak Investment, Hangzhou Capital and Hangzhou Talent Group. Founded in 2026, the company develops AI for dexterous robotic manipulation, combining world models with learning from physical […]",
+    "url": "https://technode.com/2026/10/19/former-huawei-engineers-robot-ai-startup-gewu-tongzhi-raises-nearly-rmb-100-million/",
+    "published": "Mon, 19 Oct 2026 06:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Meituan leads Series D funding for collaborative robot maker FAIRINO",
+    "summary": "Chinese collaborative robot maker FAIRINO has completed Series D financing led by Meituan, following a Series C+ round led by Meituan’s Long-Z investment arm. The company disclosed the latest financing in October, with proceeds supporting production expansion and industrial robotics development. The two rounds together raised nearly RMB 1 billion. Other participating investors included Yongxin […]",
+    "url": "https://technode.com/2026/10/19/meituan-leads-series-d-funding-for-collaborative-robot-maker-fairino/",
+    "published": "Mon, 19 Oct 2026 06:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek launches web search and page-fetching APIs for AI agents",
+    "summary": "DeepSeek has launched Search and Fetch APIs, opening its proprietary search engine to developers building AI agents and applications that retrieve external information. Search returns structured web results, while Fetch extracts a webpage’s title and content as Markdown. Both services cost RMB 5 per 1,000 successful requests. Failed requests, empty search results and timeouts are […]",
+    "url": "https://technode.com/2026/10/19/deepseek-launches-web-search-and-page-fetching-apis-for-ai-agents/",
+    "published": "Mon, 19 Oct 2026 06:41:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-19"
@@ -600,51 +610,29 @@
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "TechNode",
-    "title": "LivSyn Robotics raises Series A funding for platform connecting robots with AI models",
-    "summary": "Beijing-based LivSyn Robotics has secured a Series A round of at least RMB 100 million, according to an October 8 announcement. The round brought together financial investors, listed energy-services company Suwen Electric Energy and an undisclosed strategic investor in embodied AI. LivSyn develops RUDA, short for Robotics Unified Device Architecture, to connect different robot designs […]",
-    "url": "https://technode.com/2026/10/10/livsyn-robotics-raises-series-a-funding-for-platform-connecting-robots-with-ai-models/",
-    "published": "Sat, 10 Oct 2026 09:19:47 +0000",
+    "source": "The Verge",
+    "title": "The Maeving RM2 is high-style electric riding with a few compromises",
+    "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]",
+    "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+    "published": "2026-10-19T07:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "TechNode",
-    "title": "AI glasses brand NIMO secures angel funding at RMB 1.5 billion valuation",
-    "summary": "The Chinese startup behind AI glasses brand NIMO has raised several hundred million yuan in angel funding, bringing its valuation to RMB 1.5 billion, according to an October 8 report. Investors include Gobi Partners, alongside other Chinese venture capital firms. The company develops smart glasses for everyday use and has established offline sales channels. It […]",
-    "url": "https://technode.com/2026/10/10/ai-glasses-brand-nimo-secures-angel-funding-at-rmb-1-5-billion-valuation/",
-    "published": "Sat, 10 Oct 2026 09:19:46 +0000",
+    "source": "GitHub新星",
+    "title": "Gathin23/cleanyourtv",
+    "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "published": "2026-10-17T08:12:35Z",
     "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "微博",
-    "title": "#华为Mate90四款芯片被吐槽#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23华为Mate90四款芯片被吐槽%23",
-    "published": "2026-10-19",
-    "lang": "zh",
-    "type": "news",
+    "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "hotValue": 589350,
-      "rank": 14
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "做了一个 X 的第三方客户端， Liquid Glass，全流程翻译",
-    "summary": "最近做了一个 iOS 上的 X 的第三方客户端，叫 Blink，想让日常浏览和阅读更舒服一点。 支持文字、图片、视频（不需要字幕）、网页的实时翻译。支持接入第三方大模型。 我们希望，语言和工具少挡一点路，将信息流动的摩擦降到最低，让大家感受到久违的地球村的感受。 将注意力放在真正重要的事情上。 世界本该是平的。 放一张界面截图： ![Blink 界面截图]( https://i.ibb.co/8qGxJbh/Picsew-20261018124046.png) TestFlight： https://testflight.apple.com/join/",
-    "url": "https://www.v2ex.com/t/1249743",
-    "published": 1792299360,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-19",
-    "meta": {
-      "replies": 39,
-      "node": "分享创造"
+      "stars": 3321,
+      "forks": 389,
+      "language": "Java",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -657,26 +645,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 3042,
-      "forks": 562,
+      "stars": 3269,
+      "forks": 594,
       "language": "Python",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Gathin23/tv-vibehack",
-    "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-    "url": "https://github.com/Gathin23/tv-vibehack",
-    "published": "2026-10-17T08:12:35Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-19",
-    "meta": {
-      "stars": 2340,
-      "forks": 275,
-      "language": "Java",
-      "createdDaysAgo": 1
     }
   },
   {
@@ -689,8 +661,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 2312,
-      "forks": 259,
+      "stars": 2370,
+      "forks": 264,
       "language": "Go",
       "createdDaysAgo": 3
     }
@@ -705,8 +677,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 2236,
-      "forks": 319,
+      "stars": 2272,
+      "forks": 323,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -721,8 +693,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 1919,
-      "forks": 102,
+      "stars": 1943,
+      "forks": 104,
       "language": "C#",
       "createdDaysAgo": 4
     }
@@ -737,8 +709,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 1742,
-      "forks": 144,
+      "stars": 1770,
+      "forks": 146,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -753,25 +725,9 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 1467,
+      "stars": 1499,
       "forks": 76,
       "language": "C++",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Caho1/open-claude-ui",
-    "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-    "url": "https://github.com/Caho1/open-claude-ui",
-    "published": "2026-10-14T14:05:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-19",
-    "meta": {
-      "stars": 1216,
-      "forks": 260,
-      "language": "TypeScript",
       "createdDaysAgo": 4
     }
   }
