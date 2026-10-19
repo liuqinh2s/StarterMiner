@@ -41,10 +41,30 @@
   },
   {
     "source": "钛媒体",
+    "title": "种草在内、成交在外，开环电商是配菜还是新路？｜ 出海参考",
+    "summary": "黑五大促预算锁死之前，TikTok喊出“支持成交发生在别处”。",
+    "url": "https://www.tmtpost.com/8173893.html",
+    "published": "Mon, 19 Oct 2026 21:01:04 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "钛媒体",
     "title": "基金三季报换仓众生相：满仓银行、押注创新药、坚守硬科技",
     "summary": "基民也相信有“黄金坑”。",
     "url": "https://www.tmtpost.com/8173435.html",
     "published": "Mon, 19 Oct 2026 18:36:28 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "极客公园",
+    "title": "AI 里没有答案的问题，需要一场「深谈」",
+    "summary": "去年，极客公园创新大会第一次办起「小场深谈」。场子都不大，百人左右围坐在一起。 有些瞬间仍然记忆犹新。 在「超级个体」专场，一位观众站起来。他刚从大厂跳槽到一家小厂，正用 AI 做自己的第一款产品。他向嘉宾说出自己的困惑：我还在打工，做公众号、视频号，早晚会被老板和同事刷到。这个冲突，怎么解？ 在「硬控 AI」专场，有人直接向刚刚离职的小米 AI 眼镜负责人提问：如果给你两个亿，你会去做哪种 AI 眼镜？有人继续追问，你觉得豆包手机助手到底是真需求还是伪需求？ 在「重塑关系」专场，一位精神科医生，问做陪伴机器人的嘉宾：你是希望它把人带回现实社会的交往，还是给这个家添一个新成员？ 这些问题都不「大」，但都很真，带着一个人具体的处境，来自坐在你旁边的人。 有老朋友说，这让他们想起极客公园 17 年前的样子——在借来的索尼探梦地下室里，一群人席地而坐。 如果你参加过去年的「小场深谈」，很可能还记得这种 Vibe。不是发布会式的提问，更像小场子里几个人围坐时，把一个人正在卡住、关心的事摊开来聊。 去年的「小场深谈」，共设置了 4 个主题专场，包涵 12 场深度访谈，数百位观众走进小场，165 ",
+    "url": "http://www.geekpark.net/news/372579",
+    "published": "Mon, 19 Oct 2026 21:57:34 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-19"
@@ -310,16 +330,6 @@
     "fetchedAt": "2026-10-19"
   },
   {
-    "source": "极客公园",
-    "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
-    "summary": "内存等成本压力上升，2027 全球笔记本价格恐继续上涨 市场调查机构集邦咨询（Trendforce）于 10 月 8 日发布博文，表示如果零部件价格继续维持高位，品牌扩大成本转嫁， 终端涨价可能延长用户换机周期，预估 2027 年全球笔记本市场面临出货、价格双重影响。 在 2026 年第 3 季度以建议零售价 900 美元的主流笔记本为例，其 CPU、内存及 SSD 占物料成本约 68%，品牌面临提价、压缩毛利或降低配置的选择。 该机构预计，2027 年全球出货量将低个位数（预估低于 5%）下滑。若 CPU 与 DRAM 价格维持高位，品牌扩大成本转嫁，终端涨价可能延长换机周期，这种情况下，全年降幅或扩大至高个位数（可能高于 5%）。 零部件供给方面，AI 服务器持续占据先进制程产能。报告预计，DRAM 供应仍偏紧；NAND 闪存（NAND Flash）或随新产能投产，于 2027 年下半年逐步缓解紧张。（来源：IT 之家） 苹果投资 Huxe，由前谷歌 NotebookLM 团队成员创立 10 月 10 日消息，苹果与 AI 音频初创公司 Huxe 达成人才引进与技术许可协议，这是今",
-    "url": "http://www.geekpark.net/news/372184",
-    "published": "Sat, 10 Oct 2026 09:27:14 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
     "summary": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -331,40 +341,100 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "published": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "published": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "published": "Mon, 19 Oct 2026 18:00:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+    "summary": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+    "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+    "published": "Mon, 19 Oct 2026 17:39:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
     "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
     "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
     "published": "Mon, 19 Oct 2026 07:30:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "published": "Sat, 17 Oct 2026 21:31:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-    "published": "Sat, 17 Oct 2026 02:36:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "published": "Fri, 16 Oct 2026 16:01:37 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-19"
@@ -611,13 +681,237 @@
   },
   {
     "source": "The Verge",
-    "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-    "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]",
-    "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-    "published": "2026-10-19T07:00:00-04:00",
+    "title": "Apple teases MacBook Pro event next week",
+    "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED […]",
+    "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+    "published": "2026-10-19T12:04:29-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "The Verge",
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional […]",
+    "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+    "published": "2026-10-19T11:44:20-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "summary": "Article URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/ Comments URL: https://news.ycombinator.com/item?id=50157456 Points: 2 # Comments: 0",
+    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "published": "Mon, 19 Oct 2026 20:12:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Robotics startup with $10–12 meals delivered in SF",
+    "summary": "Daily's is a robotics startup aiming to decrease the cost of great food, something we believe will be the most impactful application of robotics. We launched our first ghost kitchen, and are selling meals for $10-12 including delivery in SF. Comments URL: https://news.ycombinator.com/item?id=50157175 Points: 2 # Comments: 2",
+    "url": "https://www.dailys.menu/",
+    "published": "Mon, 19 Oct 2026 19:50:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "DuckDB-WASM startup: from 6.8 to 2.3 seconds with Haybarn-WASM",
+    "summary": "Article URL: https://query.farm/blog/duckdb-wasm-startup-time/ Comments URL: https://news.ycombinator.com/item?id=50155417 Points: 1 # Comments: 0",
+    "url": "https://query.farm/blog/duckdb-wasm-startup-time/",
+    "published": "Mon, 19 Oct 2026 17:42:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+    "summary": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling. Here’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQ We also put",
+    "url": "https://news.ycombinator.com/item?id=50154029",
+    "published": "Mon, 19 Oct 2026 16:00:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "WFP stops provision to half a million people in Gaza over lack of funding",
+    "summary": "Article URL: https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding Comments URL: https://news.ycombinator.com/item?id=50153384 Points: 14 # Comments: 5",
+    "url": "https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding",
+    "published": "Mon, 19 Oct 2026 15:06:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia-Backed Startup DoubleAI Launches Model to Pare Cost of Compute",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215 Comments URL: https://news.ycombinator.com/item?id=50152754 Points: 1 # Comments: 0",
+    "url": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215",
+    "published": "Mon, 19 Oct 2026 14:11:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The biggest startup event in Switzerland, 5-6 Nov 2026",
+    "summary": "Article URL: https://www.startup-nights.ch/ Comments URL: https://news.ycombinator.com/item?id=50151660 Points: 1 # Comments: 0",
+    "url": "https://www.startup-nights.ch/",
+    "published": "Mon, 19 Oct 2026 12:37:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI made the lean startup more important",
+    "summary": "Article URL: https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more Comments URL: https://news.ycombinator.com/item?id=50150144 Points: 1 # Comments: 1",
+    "url": "https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more",
+    "published": "Mon, 19 Oct 2026 09:11:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Abby Care raises $82M to turn family members into paid caregivers",
+    "summary": "Article URL: https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/ Comments URL: https://news.ycombinator.com/item?id=50148479 Points: 2 # Comments: 0",
+    "url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
+    "published": "Mon, 19 Oct 2026 04:48:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Japan to launch world-first mission to collect samples from Martian moon",
+    "summary": "Article URL: https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples Comments URL: https://news.ycombinator.com/item?id=50140630 Points: 4 # Comments: 0",
+    "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples",
+    "published": "Sun, 18 Oct 2026 12:46:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows",
+    "summary": "Article URL: https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/ Comments URL: https://news.ycombinator.com/item?id=50139181 Points: 4 # Comments: 0",
+    "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/",
+    "published": "Sun, 18 Oct 2026 08:41:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "China startup demoes prototype EUV light source, still years away from viability",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability Comments URL: https://news.ycombinator.com/item?id=50138285 Points: 2 # Comments: 0",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
+    "published": "Sun, 18 Oct 2026 05:54:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Dramatic Cuts in New NIH Research Funding Across the Board",
+    "summary": "Article URL: https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/ Comments URL: https://news.ycombinator.com/item?id=50134904 Points: 4 # Comments: 0",
+    "url": "https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/",
+    "published": "Sat, 17 Oct 2026 20:36:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "German police launch investigation after robot allegedly gropes teenage girl",
+    "summary": "Article URL: https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl Comments URL: https://news.ycombinator.com/item?id=50127941 Points: 19 # Comments: 1",
+    "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
+    "published": "Sat, 17 Oct 2026 04:27:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+    "summary": "Article URL: https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/ Comments URL: https://news.ycombinator.com/item?id=50119833 Points: 19 # Comments: 3",
+    "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+    "published": "Fri, 16 Oct 2026 15:44:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "JEP 545: Faster Startup and Warmup with ZGC",
+    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=50119649 Points: 1 # Comments: 0",
+    "url": "https://openjdk.org/jeps/545",
+    "published": "Fri, 16 Oct 2026 15:29:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Booking Holdings unveils AI travel startup Vayo",
+    "summary": "Article URL: https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/ Comments URL: https://news.ycombinator.com/item?id=50119031 Points: 2 # Comments: 0",
+    "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
+    "published": "Fri, 16 Oct 2026 14:47:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "What's on your Mac app launch checklist that you learned the hard way?",
+    "summary": "Article URL: https://shedi.app Comments URL: https://news.ycombinator.com/item?id=50117736 Points: 2 # Comments: 1",
+    "url": "https://shedi.app",
+    "published": "Fri, 16 Oct 2026 12:51:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kcMTe1AbvjY Comments URL: https://news.ycombinator.com/item?id=50116859 Points: 3 # Comments: 1",
+    "url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
+    "published": "Fri, 16 Oct 2026 10:59:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Neutron's first launch slips again amid trouble with carbon composites",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/ Comments URL: https://news.ycombinator.com/item?id=50116462 Points: 3 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+    "published": "Fri, 16 Oct 2026 10:05:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-19"
+  },
+  {
+    "source": "V2EX",
+    "title": "也分享下我起起伏伏伏伏伏的 2026 年吧",
+    "summary": "写博客之后，我每年都会发[年终总结]( https://ssshooter.com/tag/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)，今年我多次想象我的 2026 年终总结会有多刺激，但现在我已经无法等到年末再回顾今年了。在睡前或者早上半梦半醒的时候，我多次回想起一些事件的细节，总觉得在催我把这些事快快写下来，不然，我的脑子要炸了。 事情应该从年初说起，也就是，你懂的。领导突然私聊说去会议室，没有转岗机会，拿上大礼包体面走人。实际上一点也不突然，风声早就传遍，只是刀真的砍到身上的时候，还是有点恍惚，用了半个小时消化这件事。同组的朋友也很多都一起被优化，",
+    "url": "https://www.v2ex.com/t/1249995",
+    "published": 1792388861,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-19",
+    "meta": {
+      "replies": 59,
+      "node": "酷工作"
+    }
   },
   {
     "source": "GitHub新星",
@@ -629,8 +923,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 3321,
-      "forks": 389,
+      "stars": 5089,
+      "forks": 616,
       "language": "Java",
       "createdDaysAgo": 2
     }
@@ -645,8 +939,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 3269,
-      "forks": 594,
+      "stars": 3361,
+      "forks": 609,
       "language": "Python",
       "createdDaysAgo": 6
     }
@@ -661,10 +955,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 2370,
-      "forks": 264,
+      "stars": 2449,
+      "forks": 270,
       "language": "Go",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -677,10 +971,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 2272,
-      "forks": 323,
+      "stars": 2332,
+      "forks": 328,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -693,10 +987,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 1943,
-      "forks": 104,
+      "stars": 1988,
+      "forks": 110,
       "language": "C#",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -709,25 +1003,9 @@
     "type": "signal",
     "fetchedAt": "2026-10-19",
     "meta": {
-      "stars": 1770,
-      "forks": 146,
+      "stars": 1805,
+      "forks": 151,
       "language": "TypeScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Supermedo/uncharted_pc",
-    "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-    "url": "https://github.com/Supermedo/uncharted_pc",
-    "published": "2026-10-15T00:17:23Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-19",
-    "meta": {
-      "stars": 1499,
-      "forks": 76,
-      "language": "C++",
       "createdDaysAgo": 4
     }
   }
