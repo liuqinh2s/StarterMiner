@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "alexandreschrammel"
+          "linkedin": "clairewagner91"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -554,7 +554,9 @@
       "fetchedAt": "2026-10-20",
       "website": {
         "website": "https://anthropic.com",
-        "emails": [],
+        "emails": [
+          "press@anthropic.com"
+        ],
         "socials": {
           "twitter": "AnthropicAI",
           "linkedin": "anthropicresearch"
@@ -1541,10 +1543,7 @@
           "info@latitudemedia.com",
           "advertise@latitudemedia.com",
           "editors@latitudemedia.com",
-          "careers@latitudemedia.com",
-          "opencircuit@latitudemedia.com",
-          "politicalclimatepodcast@gmail.com",
-          "events@latitudemedia.com"
+          "careers@latitudemedia.com"
         ],
         "socials": {
           "twitter": "intent",
