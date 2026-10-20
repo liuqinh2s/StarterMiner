@@ -41,40 +41,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
-    "summary": "字节Seed完成架构调整，推进大模型研发工业化",
-    "url": "https://www.tmtpost.com/8173652.html",
-    "published": "Tue, 20 Oct 2026 11:59:37 +0800",
+    "title": "挣真钱：中国 AI 独角兽的成人礼",
+    "summary": "从调用量全球第一，到涨价 101%。",
+    "url": "https://www.tmtpost.com/8173526.html",
+    "published": "Tue, 20 Oct 2026 17:40:09 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-20"
   },
   {
     "source": "钛媒体",
-    "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
-    "summary": "DeepSeek极客玩梗凡尔赛，折射中国大模型智力竞争",
-    "url": "https://www.tmtpost.com/8173268.html",
-    "published": "Tue, 20 Oct 2026 11:59:35 +0800",
+    "title": "具身智能，卡在哪——王兴兴的\"一两年\"到底承诺了什么",
+    "summary": "具身智能的时间表随GPT版本号前移，市场把模型进步误读为具身进度。模型是翻译官，Agent是场景决策者，物理载体是手脚。三把尺子量下来：走完一整步，卡在第三步——迭代方向标准，它只由真实场景的数据主权决定。",
+    "url": "https://www.tmtpost.com/8174435.html",
+    "published": "Tue, 20 Oct 2026 16:39:21 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-20"
   },
   {
     "source": "钛媒体",
-    "title": "DeepSeek新模型升级，梁文锋正在为具身智能铺路？",
-    "summary": "新模型只是开胃菜。",
-    "url": "https://www.tmtpost.com/8173675.html",
-    "published": "Tue, 20 Oct 2026 11:14:33 +0800",
+    "title": "把造船的标准，立到风机上：中船科技在CWP2026交出一份新周期答卷",
+    "summary": "这家以航母、大型LNG船等大国重器为人熟知的造船集团旗下新能源平台，把造世界一流船舶的本领，也用在了造世界一流风机上。",
+    "url": "https://www.tmtpost.com/8174593.html",
+    "published": "Tue, 20 Oct 2026 16:24:29 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-20"
   },
   {
-    "source": "钛媒体",
-    "title": "AI大厂的数据中心，正在撞上一堵比芯片更硬的墙",
-    "summary": "数据中心的叙事正在发送变化",
-    "url": "https://www.tmtpost.com/8173933.html",
-    "published": "Tue, 20 Oct 2026 11:14:29 +0800",
+    "source": "极客公园",
+    "title": "设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了",
+    "summary": "2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。 随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具备了可观的解决问题的能力，下一步就是如何个性化的解决「我」的问题，以及更主动的解决问题。 放到设计里，Personal Agent 带来了一些新的想象力。比如一套物料做完，下一个项目还会来。设计师喜欢什么配色、哪些版式已被否过，总不能每次开工都重新交代，那它能否持续性的理解设计师的风格变化？又或者设计前期调研、每周做一批物料这些日常的重复性工作，能不能也交代一次，让 AI 往后按时做？ 这些事决定了，眼下 AI 能把设计这件事推动到什么地步。 设计体系里，到现在用过 Lovart 的专业创作者已经达到数千万，它或许是当下最适合回答这个问题的，在迭代到 Lovart 2.0 后，它拿出了全球首个个人设计 agen",
+    "url": "http://www.geekpark.net/news/372612",
+    "published": "Tue, 20 Oct 2026 13:46:53 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-20"
@@ -105,16 +105,6 @@
     "summary": "过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合作伙伴大会。期间，极客公园创始人 & CEO 张鹏主持了一场圆桌，五位来自不同赛道的人坐到了一起：麒麟软件副总经理 / 生态发展中心总经理姚翎、聊趣智能科技创始人兼 CEO 黄隽实、罗格数据 CTO 刘学鹏、寅谱计算 CMO 陈展凌、后摩智能 AI 系统总工程师陈仲铭。 他们分别来自操作系统、应用、数据工程、整机集成和芯片领域，讨论的是同一件事：端侧 AI 什么时候才能真正成为一门生意？ 黄隽实讲了一个养老院里的故事。他们在上海落地了一套「数字家人」，陪老人聊天、提醒用药、辅助防诈骗。老人每天说了什么、身体状况如何，都是极其敏感的信息，不能随意上传云端；系统又要全天值守，设备还不能嗡嗡作响。到了这样的现场，隐私、算力、功耗和噪声都不再是技术指标，而是老人愿不愿意使用的前提。 在企业市场，答案同样清晰。刘学鹏认为，客户最关心的是私域",
     "url": "http://www.geekpark.net/news/372578",
     "published": "Mon, 19 Oct 2026 18:10:03 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "极客公园",
-    "title": "MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级",
-    "summary": "10 月 19 日，铭芯启睿（MemSilicon）宣布完成超 4 亿元 A 轮融资。本轮融资由博原资本领投，博世创投、创领资本、米哈游、中关村科学城公司、兆易创新等跟投，老股东复容投资、国开科创、恒裕资本、锦秋基金、顺禧基金、小米战投、中科创星持续加注。本轮融资将主要用于 RRAM 的产业化与商业化，以及新产品 LPU 的研发。 MemSilicon 同时宣布， 前 Graphcore 总裁兼大中华区总经理卢涛加入团队，担任 CEO 和联合创始人。 公司战略全面升级：在继续推进阻变存储器（RRAM）产品化的基础上，启动面向大模型推理的第一代 LPU 研发，打造「满血模型、高速 Token、越级性价比」的新一代推理引擎。 随着 Agentic AI 时代的到来，AI 落地已经从问答，转向完成复杂、长程的任务，下一步竞争的关键指标，会从峰值算力转向任务完成效率。 一次任务包含多轮推理、工具调用和上下文复用，还可能启动多个 Agent 并行工作。客户需要的，不只是更多 Token，而是在保证质量的前提下，更快地解码和输出、更多任务能并行，并降低单次任务成本。 这要求推理系统从架构层面进行创",
-    "url": "http://www.geekpark.net/news/372545",
-    "published": "Mon, 19 Oct 2026 12:00:32 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-20"
@@ -361,6 +351,26 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+    "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+    "published": "Tue, 20 Oct 2026 07:01:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-20"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
     "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
     "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
@@ -440,21 +450,51 @@
     "fetchedAt": "2026-10-20"
   },
   {
-    "source": "TechCrunch",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+    "source": "TechNode",
+    "title": "What if AI could remember your adventures for you? Souvi is exploring the idea",
+    "summary": "As more AI hardware focuses on voice assistants, information processing, and workplace productivity, one Chinese startup is taking a different approach by using AI to help people preserve their life experiences. Shanghai-based Vibe Technology has introduced Souvi, an outdoor AI memory device designed for activities such as hiking, camping, travel, and urban exploration. By combining […]",
+    "url": "https://technode.com/2026/10/20/what-if-ai-could-remember-your-adventures-for-you-souvi-is-exploring-the-idea/",
+    "published": "Tue, 20 Oct 2026 08:38:14 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-20"
   },
   {
-    "source": "TechCrunch",
-    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-    "published": "Mon, 19 Oct 2026 07:30:00 +0000",
+    "source": "TechNode",
+    "title": "SenseTime co-founder’s ACE Robotics releases model for robot spatial perception",
+    "summary": "ACE Robotics, founded by SenseTime co-founder Xiaogang Wang, released its ACE-Brain-0.6 embodied AI model on October 19. Built through supervised fine-tuning of Qwen3.5-9B, the model focuses on identifying objects, locating them in images and determining where a robot can interact with them. The company said it trained the model using approximately 1 million spatial-grounding samples. […]",
+    "url": "https://technode.com/2026/10/20/sensetime-co-founders-ace-robotics-releases-model-for-robot-spatial-perception/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-20"
+  },
+  {
+    "source": "TechNode",
+    "title": "Chery unveils automotive chip lineup spanning AI computing, silicon carbide and vehicle control",
+    "summary": "Chery unveiled its Ziwei automotive chip lineup at its global innovation conference on October 20. The portfolio comprises C-series central computing chips, S-series automotive silicon carbide chips and M-series vehicle-control chips, extending the automaker’s semiconductor development across computing and power electronics. The C100 central computing chip targets on-device physical AI. Chery said a vehicle configuration […]",
+    "url": "https://technode.com/2026/10/20/chery-unveils-automotive-chip-lineup-spanning-ai-computing-silicon-carbide-and-vehicle-control/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-20"
+  },
+  {
+    "source": "TechNode",
+    "title": "Autonomous delivery vehicle maker Neolix raises nearly $400 million in Series E funding",
+    "summary": "Chinese autonomous delivery vehicle company Neolix announced on October 20 that it has completed a nearly $400 million Series E funding round. Boyu Capital and a national-level fund jointly led the round. Jiemian, citing people familiar with the investment, identified the latter as China’s National Artificial Intelligence Industry Investment Fund. Other investors included Alibaba’s AEF […]",
+    "url": "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-20"
+  },
+  {
+    "source": "TechNode",
+    "title": "China’s AI microdrama boom joins a global surge in mobile viewing",
+    "summary": "Tencent has recently introduced Lüpaopao, a free short-drama service inside WeChat, offering AI-generated series alongside live-action and animated titles. The mini-program adds another distribution channel to China’s expanding market for serialized mobile entertainment. ByteDance’s Hongguo reached 168 million daily active users in July, up 107% year on year, according to QuestMobile figures cited in Nomura […]",
+    "url": "https://technode.com/2026/10/20/china-ai-microdrama-boom-global-mobile-viewing/",
+    "published": "Tue, 20 Oct 2026 05:05:41 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-20"
@@ -650,56 +690,6 @@
     "fetchedAt": "2026-10-20"
   },
   {
-    "source": "TechNode",
-    "title": "AI infrastructure provider Infinigence AI raises RMB 2.3 billion in Series C funding",
-    "summary": "Chinese AI infrastructure provider Infinigence AI has completed a RMB 2.3 billion Series C funding round, bringing its cumulative financing to RMB 4.3 billion, according to company materials provided on October 12. Founded in 2023, the company develops software and infrastructure that allow AI models to run efficiently across different chip platforms. Its infrastructure platform […]",
-    "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/",
-    "published": "Mon, 12 Oct 2026 06:58:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tactile-sensor maker Matrix Innovation raises tens of millions of RMB",
-    "summary": "Dongguan-based tactile-sensor maker Matrix Innovation has raised tens of millions of RMB from investors including X Square Robot, Songshan Lake investment capital and returning investor XBOT PARK Fund, STAR Market Daily reported on October 10. Another embodied-AI company also participated. The proceeds will support a new generation of data-collection gloves, supply-chain improvements and manufacturing capacity. […]",
-    "url": "https://technode.com/2026/10/12/tactile-sensor-maker-matrix-innovation-raises-tens-of-millions-of-rmb/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "TechNode",
-    "title": "CXMT plans next-generation DDR5 server memory using denser DRAM architecture",
-    "summary": "Chinese memory maker CXMT plans to launch a new generation of DDR5 registered memory modules by the end of 2026 using its 4F² DRAM architecture. President Cao Kanyu outlined the technology at an industry conference on October 10, positioning server memory as the first product application for the new architecture. The design reduces the area […]",
-    "url": "https://technode.com/2026/10/12/cxmt-plans-next-generation-ddr5-server-memory-using-denser-dram-architecture/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "TechNode",
-    "title": "XPENG targets 2027 European launch for advanced driver-assistance system",
-    "summary": "XPENG plans to introduce its Navigation Guided Pilot driver-assistance system in Europe in 2027 and is working with local regulators on the rollout. Liu Xianming, who leads the company’s general intelligence center, told Bloomberg ahead of the Paris Motor Show that XPENG had adapted the system from one European country to another in about two […]",
-    "url": "https://technode.com/2026/10/12/xpeng-targets-2027-european-launch-for-advanced-driver-assistance-system/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "TechNode",
-    "title": "Sports-training robot maker PONGBOT raises hundreds of millions of RMB in Series B",
-    "summary": "Chinese AI sports-hardware company PONGBOT has completed a Series B funding round worth hundreds of millions of RMB, according to an October 11 announcement. Shanghai State Investment Pilot Fund led the round, joined by Hua Capital and Pudong Venture Capital, while existing investor BlueRun Ventures increased its investment. PONGBOT began with table-tennis training robots before […]",
-    "url": "https://technode.com/2026/10/12/sports-training-robot-maker-pongbot-raises-hundreds-of-millions-of-rmb-in-series-b/",
-    "published": "Mon, 12 Oct 2026 06:58:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
     "source": "The Verge",
     "title": "Apple teases MacBook Pro event next week",
     "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED […]",
@@ -720,217 +710,45 @@
     "fetchedAt": "2026-10-20"
   },
   {
-    "source": "Hacker News",
-    "title": "Sourcey's open startup-credit registry: twelve dated records with provenance",
-    "summary": "Article URL: https://sourcey.com/startup-credits Comments URL: https://news.ycombinator.com/item?id=50160127 Points: 2 # Comments: 0",
-    "url": "https://sourcey.com/startup-credits",
-    "published": "Tue, 20 Oct 2026 01:11:04 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#钟南山院士才是真正的薄肌90后#",
+    "summary": "热",
+    "url": "https://s.weibo.com/weibo?q=%23钟南山院士才是真正的薄肌90后%23",
+    "published": "2026-10-20",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-10-20"
+    "fetchedAt": "2026-10-20",
+    "meta": {
+      "hotValue": 872737,
+      "rank": 3
+    }
   },
   {
-    "source": "Hacker News",
-    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-    "summary": "Article URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/ Comments URL: https://news.ycombinator.com/item?id=50157456 Points: 2 # Comments: 0",
-    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-    "published": "Mon, 19 Oct 2026 20:12:49 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#钟南山心梗后仍每周运动3次#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23钟南山心梗后仍每周运动3次%23",
+    "published": "2026-10-20",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Robotics startup with $10–12 meals delivered in SF",
-    "summary": "Daily's is a robotics startup aiming to decrease the cost of great food, something we believe will be the most impactful application of robotics. We launched our first ghost kitchen, and are selling meals for $10-12 including delivery in SF. Comments URL: https://news.ycombinator.com/item?id=50157175 Points: 2 # Comments: 2",
-    "url": "https://www.dailys.menu/",
-    "published": "Mon, 19 Oct 2026 19:50:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "DuckDB-WASM startup: from 6.8 to 2.3 seconds with Haybarn-WASM",
-    "summary": "Article URL: https://query.farm/blog/duckdb-wasm-startup-time/ Comments URL: https://news.ycombinator.com/item?id=50155417 Points: 1 # Comments: 0",
-    "url": "https://query.farm/blog/duckdb-wasm-startup-time/",
-    "published": "Mon, 19 Oct 2026 17:42:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-    "summary": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling. Here’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQ We also put",
-    "url": "https://news.ycombinator.com/item?id=50154029",
-    "published": "Mon, 19 Oct 2026 16:00:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "WFP stops provision to half a million people in Gaza over lack of funding",
-    "summary": "Article URL: https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding Comments URL: https://news.ycombinator.com/item?id=50153384 Points: 14 # Comments: 5",
-    "url": "https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding",
-    "published": "Mon, 19 Oct 2026 15:06:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia-Backed Startup DoubleAI Launches Model to Pare Cost of Compute",
-    "summary": "Article URL: https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215 Comments URL: https://news.ycombinator.com/item?id=50152754 Points: 1 # Comments: 0",
-    "url": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215",
-    "published": "Mon, 19 Oct 2026 14:11:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The biggest startup event in Switzerland, 5-6 Nov 2026",
-    "summary": "Article URL: https://www.startup-nights.ch/ Comments URL: https://news.ycombinator.com/item?id=50151660 Points: 1 # Comments: 0",
-    "url": "https://www.startup-nights.ch/",
-    "published": "Mon, 19 Oct 2026 12:37:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI made the lean startup more important",
-    "summary": "Article URL: https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more Comments URL: https://news.ycombinator.com/item?id=50150144 Points: 1 # Comments: 1",
-    "url": "https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more",
-    "published": "Mon, 19 Oct 2026 09:11:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Abby Care raises $82M to turn family members into paid caregivers",
-    "summary": "Article URL: https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/ Comments URL: https://news.ycombinator.com/item?id=50148479 Points: 2 # Comments: 0",
-    "url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
-    "published": "Mon, 19 Oct 2026 04:48:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Japan to launch world-first mission to collect samples from Martian moon",
-    "summary": "Article URL: https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples Comments URL: https://news.ycombinator.com/item?id=50140630 Points: 4 # Comments: 0",
-    "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples",
-    "published": "Sun, 18 Oct 2026 12:46:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows",
-    "summary": "Article URL: https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/ Comments URL: https://news.ycombinator.com/item?id=50139181 Points: 4 # Comments: 0",
-    "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/",
-    "published": "Sun, 18 Oct 2026 08:41:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "China startup demoes prototype EUV light source, still years away from viability",
-    "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability Comments URL: https://news.ycombinator.com/item?id=50138285 Points: 2 # Comments: 0",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
-    "published": "Sun, 18 Oct 2026 05:54:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Dramatic Cuts in New NIH Research Funding Across the Board",
-    "summary": "Article URL: https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/ Comments URL: https://news.ycombinator.com/item?id=50134904 Points: 4 # Comments: 0",
-    "url": "https://leftbrainrightbrain.co.uk/2026/06/12/dramatic-cuts-in-new-nih-research-funding-across-the-board/",
-    "published": "Sat, 17 Oct 2026 20:36:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "German police launch investigation after robot allegedly gropes teenage girl",
-    "summary": "Article URL: https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl Comments URL: https://news.ycombinator.com/item?id=50127941 Points: 19 # Comments: 1",
-    "url": "https://www.cnn.com/2026/10/14/europe/germany-investigation-robot-groping-intl",
-    "published": "Sat, 17 Oct 2026 04:27:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-    "summary": "Article URL: https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/ Comments URL: https://news.ycombinator.com/item?id=50119833 Points: 19 # Comments: 3",
-    "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-    "published": "Fri, 16 Oct 2026 15:44:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "JEP 545: Faster Startup and Warmup with ZGC",
-    "summary": "Article URL: https://openjdk.org/jeps/545 Comments URL: https://news.ycombinator.com/item?id=50119649 Points: 1 # Comments: 0",
-    "url": "https://openjdk.org/jeps/545",
-    "published": "Fri, 16 Oct 2026 15:29:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Booking Holdings unveils AI travel startup Vayo",
-    "summary": "Article URL: https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/ Comments URL: https://news.ycombinator.com/item?id=50119031 Points: 2 # Comments: 0",
-    "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
-    "published": "Fri, 16 Oct 2026 14:47:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "What's on your Mac app launch checklist that you learned the hard way?",
-    "summary": "Article URL: https://shedi.app Comments URL: https://news.ycombinator.com/item?id=50117736 Points: 2 # Comments: 1",
-    "url": "https://shedi.app",
-    "published": "Fri, 16 Oct 2026 12:51:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=kcMTe1AbvjY Comments URL: https://news.ycombinator.com/item?id=50116859 Points: 3 # Comments: 1",
-    "url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
-    "published": "Fri, 16 Oct 2026 10:59:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-20"
+    "fetchedAt": "2026-10-20",
+    "meta": {
+      "hotValue": 865712,
+      "rank": 7
+    }
   },
   {
     "source": "V2EX",
-    "title": "也分享下我起起伏伏伏伏伏的 2026 年吧",
-    "summary": "写博客之后，我每年都会发[年终总结]( https://ssshooter.com/tag/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)，今年我多次想象我的 2026 年终总结会有多刺激，但现在我已经无法等到年末再回顾今年了。在睡前或者早上半梦半醒的时候，我多次回想起一些事件的细节，总觉得在催我把这些事快快写下来，不然，我的脑子要炸了。 事情应该从年初说起，也就是，你懂的。领导突然私聊说去会议室，没有转岗机会，拿上大礼包体面走人。实际上一点也不突然，风声早就传遍，只是刀真的砍到身上的时候，还是有点恍惚，用了半个小时消化这件事。同组的朋友也很多都一起被优化，",
-    "url": "https://www.v2ex.com/t/1249995",
-    "published": 1792388861,
+    "title": "是去海外还是留国内",
+    "summary": "背景 公司明年 Q1 基本整体搬去新加坡，不跟过去的话大概率协商离职走 N+1 。 个人情况 - 月薪超过上海社平三倍（经济补偿会被封顶在 37731 ） - 有房贷，娃小班 自己算了下 - N+1 = 6 个月，但 N 部分要按 37731 封顶，实际到手大概 23 万出头，一次性补偿免税 纠结的点 1. 娃还小，还想多陪陪 2. 出海本身我是有点想去的，自己刚过 35 ，窗口可能就这么几年 3. 但我不确定自己这个方向在新加坡实际值多少钱，还没试过水 想问 - 有类似经历的朋友吗？最后怎么选的，现在回头看后悔吗？ 先谢过。",
+    "url": "https://www.v2ex.com/t/1250306",
+    "published": 1792478228,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-10-20",
     "meta": {
-      "replies": 88,
-      "node": "职场话题"
+      "replies": 61,
+      "node": "程序员"
     }
   },
   {
@@ -943,10 +761,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-20",
     "meta": {
-      "stars": 6274,
-      "forks": 751,
+      "stars": 8671,
+      "forks": 985,
       "language": "Java",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "deepseek-ai/DeepInfer",
+    "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "published": "2026-10-16T07:47:23Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-20",
+    "meta": {
+      "stars": 5384,
+      "forks": 408,
+      "language": "Python",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -959,26 +793,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-20",
     "meta": {
-      "stars": 2469,
-      "forks": 271,
+      "stars": 2491,
+      "forks": 279,
       "language": "Go",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ahwootech/BRUTAL",
-    "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-    "url": "https://github.com/ahwootech/BRUTAL",
-    "published": "2026-10-14T19:33:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-20",
-    "meta": {
-      "stars": 2000,
-      "forks": 112,
-      "language": "C#",
-      "createdDaysAgo": 5
     }
   }
 ]

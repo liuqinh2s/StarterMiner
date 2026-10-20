@@ -117,8 +117,15 @@
       "fetchedAt": "2026-10-20",
       "website": {
         "website": "https://deepseek.com",
-        "emails": [],
-        "socials": {},
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "Tooltip"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -148,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "mattanderson823"
+          "linkedin": "alexandreschrammel"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -469,9 +476,7 @@
       "website": {
         "website": "https://kimi.moonshot.cn",
         "emails": [],
-        "socials": {
-          "wechat": "QrPanel-8CKAcSUi"
-        },
+        "socials": {},
         "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
           "Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造"
@@ -662,7 +667,7 @@
           "name@domain.com",
           "u003esupport@meshy.ai",
           "careers@meshy.ai",
-          "meshy-webapp@v2026.10.19.post",
+          "meshy-webapp@v2026.10.20.post",
           "jane@company.com"
         ],
         "socials": {
@@ -1516,7 +1521,9 @@
           "github": "JuliaComputing"
         },
         "careerPage": "https://juliahub.com/jobs",
-        "jobListings": []
+        "jobListings": [
+          "JuliaHub - Hardware Engineering at the Speed of Software"
+        ]
       },
       "github": {},
       "hiring": [],
@@ -1777,9 +1784,7 @@
       "website": {
         "website": "https://kimi.moonshot.cn",
         "emails": [],
-        "socials": {
-          "wechat": "QrPanel-8CKAcSUi"
-        },
+        "socials": {},
         "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
           "Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造"
