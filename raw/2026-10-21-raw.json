@@ -41,30 +41,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "算力已经不再是最大的挑战，互连才是",
-    "summary": "真正决定算力能跑多远的，不再是单颗芯片的峰值数字，而是数据在芯片之间、机柜之间、集群之间流动时的每一微秒。",
-    "url": "https://www.tmtpost.com/8175846.html",
-    "published": "Wed, 21 Oct 2026 11:33:48 +0800",
+    "title": "五羊星座首颗卫星发射成功，填补商业航天低纬度高频观测空白",
+    "summary": "该星成功发射，是中国商业航天从“跟随极轨”迈向“定义低纬”的重要里程碑。",
+    "url": "https://www.tmtpost.com/8176418.html",
+    "published": "Wed, 21 Oct 2026 16:48:22 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-21"
   },
   {
-    "source": "钛媒体",
-    "title": "燃烧吧Token，Agentic Cloud时代云厂商的资本效率大考",
-    "summary": "算力是AI时代最硬核的入场券，手握现金流的科技巨头，似乎天然拥有持续加码资本开支的底气。 从训练大模型到支撑万级Agent规模化落地，云厂商正开启一场算力军备竞赛，试图用海量基建抢占Agentic Cloud的时代高地。",
-    "url": "https://www.tmtpost.com/8175272.html",
-    "published": "Wed, 21 Oct 2026 11:01:06 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-21"
-  },
-  {
-    "source": "钛媒体",
-    "title": "机器人的身体，不值钱了",
-    "summary": "5 亿美元估值的明星机器人公司破产清算，这个赛道的融资额却翻了一倍。钱去了哪里？",
-    "url": "https://www.tmtpost.com/8174288.html",
-    "published": "Wed, 21 Oct 2026 10:25:00 +0800",
+    "source": "极客公园",
+    "title": "当车企要说为「人类自由」奋斗时，它在说什么",
+    "summary": "头图来源：极客公园 1993 年，时任三星集团会长的李健熙，在德国发表了著名的「法兰克福宣言」，其中最著名的一句话是：「除了老婆孩子，一切都要变。」 当时韩国摸着日本，在全球化浪潮中极速行军，产量提升的同时，也被贴上了「便宜廉价」的标签，法兰克福宣言，开启了三星通过技术进行高端化转型之路。 2026 奇瑞全球创业大会会场｜图片来源：极客公园 33 年后的当下，安徽芜湖，奇瑞集团创新产业园中，「Change 改变」的字样随处可见，这是 2026 奇瑞全球创新大会的主题。 在主题演讲中，奇瑞董事长尹同跃说，奇瑞是一家披着车企外衣的「科技公司」，奇瑞的技术愿景是「为人类自由，创造最大价值。」 从某种角度来看，奇瑞愿景的宏大，和 SpaceX 的伊隆·马斯克，多少有相似之处了。 从芯片、模型到智驾 奇瑞董事长尹同跃对于 AI 时代的断言｜图片来源：极客公园 如果给车企的「科技含量」排个座次，芯片和大模型大概排在最前面。这一次，奇瑞把这两样东西一起摆上了台面。 先说芯片。奇瑞发布了自研的「紫微」芯片系列，分成三条线。C 系列是中央计算芯片，S 系列是车规级碳化硅功率芯片，M 系列是车规级控制芯片",
+    "url": "http://www.geekpark.net/news/372698",
+    "published": "Wed, 21 Oct 2026 17:10:33 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-21"
@@ -330,16 +320,6 @@
     "fetchedAt": "2026-10-21"
   },
   {
-    "source": "极客公园",
-    "title": "尊界：11 月起陆续升级踏板；iPhone 折叠屏国内预约超 200 万；6 个月，超千万 Claude 账户被封杀｜极客早知道",
-    "summary": "陶哲轩提出「数学 2.0」：AI 解题之外，还要帮助人理解证明 10 月 11 日，数学家陶哲轩公开了在加州理工学院的演讲《数学 2.0》。他认为，AI 正在降低部分数学问题的求解成本，使数学研究逐渐从「证明稀缺」走向「证明富足」。但目前多数前沿问题仍未解决，不能只凭公开传播的成功案例判断 AI 的整体能力。 陶哲轩指出，得到正确证明，并不意味着研究者理解了证明为何成立，或掌握了可用于其他问题的新方法。他主张用 AI 寻找更易理解的证明、整理分散的研究成果，并对大量数学问题开展系统分析。例如，等式理论项目通过人类与自动化工具协作，对超过 2200 万个命题作出了判定。 对于 AI 解题能力的评估，他还呼吁公开计算资源消耗、失败尝试等信息。在陶哲轩看来，未来数学研究既要利用 AI 扩展探索范围，也要保留人类对证明及其现实应用的理解和判断。（来源：机器之心） Claude 爆发大规模封号潮：半年封杀 1140 万个账号申诉后仅 4.2 万翻案 10 月 11 日，据媒体报道，近期 Claude 账号封禁问题引发开发者讨论。受到关注的一项数据来自 Anthropic 今年 7 月发布的报告：",
-    "url": "http://www.geekpark.net/news/372218",
-    "published": "Mon, 12 Oct 2026 08:02:38 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-21"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
     "summary": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯 · Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提 · 9 月 BBA 主力车型无一零售破万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -352,7 +332,7 @@
   {
     "source": "TechCrunch",
     "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
     "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "published": "Tue, 20 Oct 2026 22:24:02 +0000",
     "lang": "en",
@@ -415,6 +395,36 @@
     "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
     "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
     "published": "Tue, 20 Oct 2026 13:17:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-21"
+  },
+  {
+    "source": "TechNode",
+    "title": "Cleaning robotics startup Jingji Intelligent raises tens of millions of RMB in seed funding",
+    "summary": "Shanghai-based cleaning robotics startup Jingji Intelligent has raised tens of millions of RMB in seed funding from Haowen Tianshu Robotics and Shanghai Lanyun Industrial Development. The financing, disclosed on October 20, comes about a month after the company’s establishment in September. Jingji focuses on cleaning vertical surfaces, countertops and sanitary fixtures, applying force control, machine […]",
+    "url": "https://technode.com/2026/10/21/cleaning-robotics-startup-jingji-intelligent-raises-tens-of-millions-of-rmb-in-seed-funding/",
+    "published": "Wed, 21 Oct 2026 07:46:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-21"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot hardware startup YITA secures funding from Galbot and Fourier",
+    "summary": "Chinese robot hardware startup YITA announced on October 20 that it has raised more than RMB 100 million across its seed and seed-plus rounds. Investors included Galbot, Fourier, Matrix Partners China, CCB International, SenseTime Guoxiang Capital and the L2F founder fund. Lighthouse Capital served as the company’s incubator and exclusive financial adviser. Founded in May […]",
+    "url": "https://technode.com/2026/10/21/robot-hardware-startup-yita-secures-funding-from-galbot-and-fourier/",
+    "published": "Wed, 21 Oct 2026 07:46:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-21"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches second-generation Seagull from RMB 65,900 with flash charging on higher trims",
+    "summary": "BYD launched its second-generation Seagull electric hatchback in China on October 20, with five variants priced from RMB 65,900 to RMB 99,900. The redesigned model expands from four seats to five and switches from front-wheel drive to rear-wheel drive, while adding more cabin space and a front storage compartment. The new Seagull measures 4,205mm long […]",
+    "url": "https://technode.com/2026/10/21/byd-launches-second-generation-seagull-from-rmb-65900-with-flash-charging-on-higher-trims/",
+    "published": "Wed, 21 Oct 2026 07:46:08 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-21"
@@ -640,26 +650,6 @@
     "fetchedAt": "2026-10-21"
   },
   {
-    "source": "TechNode",
-    "title": "Home-robot startup Ola Dimensions raises hundreds of millions of RMB in fourth funding round",
-    "summary": "Chinese home-robot startup Ola Dimensions has completed an angel-plus funding round worth hundreds of millions of RMB, National Business Daily reported on October 12. New and existing investors participated, including Tuobang and Hony Capital. The round is the company’s fourth financing in roughly six months. Founder Zhou Shunbo left Huawei in March 2026 to establish […]",
-    "url": "https://technode.com/2026/10/13/home-robot-startup-ola-dimensions-raises-hundreds-of-millions-of-rmb-in-fourth-funding-round/",
-    "published": "Tue, 13 Oct 2026 07:32:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-21"
-  },
-  {
-    "source": "TechNode",
-    "title": "XPENG plans humanoid robot deliveries in 2027 and European rollout later that year",
-    "summary": "XPENG plans to begin mass production of its IRON humanoid robot by the end of 2026, start deliveries in the first half of 2027 and launch European promotion in the second half, according to a timetable presented by chairman and CEO He Xiaopeng at the company’s Paris event on October 12. The robot will initially […]",
-    "url": "https://technode.com/2026/10/13/xpeng-plans-humanoid-robot-deliveries-in-2027-and-european-rollout-later-that-year/",
-    "published": "Tue, 13 Oct 2026 07:32:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-21"
-  },
-  {
     "source": "The Verge",
     "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
     "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members […]",
@@ -681,16 +671,16 @@
   },
   {
     "source": "V2EX",
-    "title": "是去海外还是留国内",
-    "summary": "背景 公司明年 Q1 基本整体搬去新加坡，不跟过去的话大概率协商离职走 N+1 。 个人情况 - 月薪超过上海社平三倍（经济补偿会被封顶在 37731 ） - 有房贷，娃小班 自己算了下 - N+1 = 6 个月，但 N 部分要按 37731 封顶，实际到手大概 23 万出头，一次性补偿免税 纠结的点 1. 娃还小，还想多陪陪 2. 出海本身我是有点想去的，自己刚过 35 ，窗口可能就这么几年 3. 但我不确定自己这个方向在新加坡实际值多少钱，还没试过水 想问 - 有类似经历的朋友吗？最后怎么选的，现在回头看后悔吗？ 先谢过。",
-    "url": "https://www.v2ex.com/t/1250306",
-    "published": 1792478228,
+    "title": "给自建 Umami 写了原生 iOS / Android 客户端 SiteGlance：纯端侧直连、支持桌面小组件，单次买断（附兑换码）",
+    "summary": "手里有几个小项目和博客，网站统计一直用的自建 Umami。Umami 轻量、干净、不侵犯访客隐私，但在手机上看数据一直有点别扭： 每次想瞄一眼今天来了多少访客、刚发的文章有没有人看，都得打开手机浏览器 -> 翻书签或输网址 -> 等网页加载（有时候登录态过期还要重新输密码和 2FA）。虽然能把网页添加到主屏幕，但没有桌面小组件，多站点来回切也不顺手。 于是干脆自己动手写了 **SiteGlance** —— 一个专为 Umami（同时支持自建实例与 Umami Cloud）打造的 iOS / Android 原生客户端。 ![SiteGlance 概览与桌面小组件]( htt",
+    "url": "https://www.v2ex.com/t/1250493",
+    "published": 1792545724,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-10-21",
     "meta": {
-      "replies": 96,
-      "node": "职场话题"
+      "replies": 84,
+      "node": "分享创造"
     }
   },
   {
@@ -703,8 +693,22 @@
     "type": "community",
     "fetchedAt": "2026-10-21",
     "meta": {
-      "replies": 57,
+      "replies": 72,
       "node": "Apple"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "重生之我做了个浏览器 Agent，以为能火，结果 github 只有 50 star",
+    "summary": "# 只有 50 Star 的项目是啥 * 项目名称：**轻舟(qz)** * 项目地址：[alibaba/qz-browser-agent]( https://github.com/alibaba/qz-browser-agent) * Chrome 应用商店： https://chromewebstore.google.com/detail/dknbdgkgoinlgjpfebapkklbmjjgdblm 基本上就是一个生活在浏览器里的 Claude Code ，人能干的他都能干。 **轻** 的意思是所有功能都集成在 **浏览器扩展** 里，大小不到 5MB ，不需要",
+    "url": "https://www.v2ex.com/t/1250414",
+    "published": 1792497994,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-21",
+    "meta": {
+      "replies": 64,
+      "node": "分享创造"
     }
   },
   {
@@ -717,10 +721,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-21",
     "meta": {
-      "stars": 14327,
-      "forks": 1363,
+      "stars": 16572,
+      "forks": 1647,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -733,10 +737,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-21",
     "meta": {
-      "stars": 13074,
-      "forks": 1461,
+      "stars": 15417,
+      "forks": 1696,
       "language": "Java",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
