@@ -41,30 +41,60 @@
   },
   {
     "source": "钛媒体",
-    "title": "Edge AI Daily 早报（10月22日）",
-    "summary": "Anthropic招股书披露上半年营收163亿美元、净亏807亿，算力承诺逾7500亿；Meta增设无投票权股票为AI融资，资本支出上调至1450亿美元。英伟达柏林GTC承诺投入欧洲近100亿美元、开放Nemotron模型家族，并下放开源模型主权；OpenAI模型接入谷歌云，谷歌将Claude纳入Antigravity，云与模型边界加速瓦解。亚马逊近50亿美元GPU因缺电闲置，美银警告5.13%美债收益率压缩AI回报。科研端，Claude 64小时设计31万种蛋白，OpenAI内部智能体削弱监控警报。",
-    "url": "https://www.tmtpost.com/8177010.html",
-    "published": "Thu, 22 Oct 2026 08:44:43 +0800",
+    "title": "独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
+    "summary": "曾在华为体系工作近20年",
+    "url": "https://www.tmtpost.com/8177799.html",
+    "published": "Thu, 22 Oct 2026 18:32:41 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-22"
   },
   {
     "source": "钛媒体",
-    "title": "从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位",
-    "summary": "这既是礼来首次押注AI驱动的脂质纳米颗粒技术，也是国内首个生成式AI-LNP出海大单、全球规模领先的肝外靶向LNP平台合作。礼来采购的，是一套能够持续产出新技术方案的系统能力。",
-    "url": "https://www.tmtpost.com/8176585.html",
-    "published": "Thu, 22 Oct 2026 08:41:59 +0800",
+    "title": "黄仁勋押注新一轮“PC革命”，Agent找到了“最佳宿主”吗？",
+    "summary": "PC的兴起得益于将CPU、内存、存储和软件都集中在一台轻巧机器上带来的便利，但Agent恰恰不需要这种集中式结构。",
+    "url": "https://www.tmtpost.com/8177566.html",
+    "published": "Thu, 22 Oct 2026 17:04:54 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-22"
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF",
-    "summary": "腾讯系企业Supercell全资收购《庄园合合》开发商；曝问界海外车型弃用华为智驾，改用博世方案出海欧洲；消息称Groq正计划将3D堆叠式DRAM封装技术应用于下一代芯片；OpenAI将ChatGPT广告业务扩展至26个新国家和地区；星巴克中国2027财年计划新增投入超3亿元；《电动汽车动力蓄电池在役检测试验方法》国标发布，覆盖电池隐患排查、二手车交易与功能检测等应用场景；工信部：2030年建设500个左右国家级零碳工厂和零碳算力设施；三季度末银行理财市场存续规模35.37万亿元，同比增加10.08%；乘联分会：10月1-18日全国乘用车市场零售78.9万辆，同比下降26%",
-    "url": "https://www.tmtpost.com/8176877.html",
-    "published": "Thu, 22 Oct 2026 07:20:00 +0800",
+    "title": "天银机电Q3由盈转亏，商业航天高增长仍难撑起大盘｜看财报",
+    "summary": "天银星际成为增长极。",
+    "url": "https://www.tmtpost.com/8177567.html",
+    "published": "Thu, 22 Oct 2026 16:47:08 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-22"
+  },
+  {
+    "source": "极客公园",
+    "title": "AI 漫剧越做越快，赚钱却没那么容易了",
+    "summary": "「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。 看起来，AI 带来的机会似乎还在不断扩大。 但身处一线的漫剧从业者们，正感受着更真实、更锋利的行业变化。 在会后，极客公园参与了对阅文 AI 平台负责人陈炜于、酱油文化创始人黄浩南（业内称「酱油」）、前尾猴文化总经理三行的采访。其中，酱油作为最早一批扎进 AI 漫剧赛道的从业者，从去年风口期到今年红海期，他的经历几乎就是行业变化的缩影—— 漫剧越做越快、产能越翻越高，赚钱却反而没那么容易了。 一、产能翻了几倍，营收却没怎么涨 在酱油的印象里，一年前的漫剧生意要好做太多。 2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。他的团队 10 个人凑在一起，一个月才能磨出一部剧，即便产能不高，利润也",
+    "url": "http://www.geekpark.net/news/372746",
+    "published": "Thu, 22 Oct 2026 16:20:34 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-22"
+  },
+  {
+    "source": "极客公园",
+    "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
+    "summary": "头图来源：元宝搜索 过去一年，AI 行业的战场正在悄悄发生位移。 当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。 政策迭代、市场波动、行业动态、垂类数据……现实世界的信息每秒都在更新，大模型自带的知识储备永远有边界，想要输出可靠结论、完成复杂任务，就必须接入实时、权威的外部信息。 搜索，是大模型对接真实世界的核心接口。但这也是当下 AI 落地的共性卡点：传统搜索基于关键词匹配，读不懂自然语言的复杂意图，低质内容还容易引发模型幻觉；从头自建一套完整检索体系，又意味着爬虫、解析、索引、运维一整套极高的工程门槛，绝大多数团队都难以承担。 而腾讯其实早就在默默布局这层底层能力。 过去一年，腾讯在 AI 应用层动作密集：全场景智能体工作台 WorkBuddy、AI 知识管家 ima、腾讯视频 AI 小助理等 50 余款产品接连落地，覆盖办公、内容、金融等多个核心场景。但很少有人注意到，支撑这些产品联网检索、信息获取能力的底层搜索基座，此前一直藏在幕后。 10 月 20 日，这张「暗牌」终于正式亮相，元宝搜索迎",
+    "url": "http://www.geekpark.net/news/372743",
+    "published": "Thu, 22 Oct 2026 16:15:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-22"
+  },
+  {
+    "source": "极客公园",
+    "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
+    "summary": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默契：聊天框该翻篇了，AI 应该自己找事做。 美国时间 10 月 21 日，Anthropic 终于拿出了自己的答案：Claude Duet。 Claude Duet 的早报界面｜图片来源：Anthropic 这是四家里最晚亮相的一个，也是最「奇怪」的一个。在所有人都急着证明自家 AI 无所不能的时候，Anthropic 像个严肃过头的管家，不仅是唯一主动承认「订票这类生活杂事我们做得没那么好」的厂商，还在发布文档里白纸黑字地给自己画下一道又一道红线。 这恰恰触到了整场竞赛里很少有人愿意直视的问题。 主动型智能体真正的分水岭，不在于能替你发多少封邮件，而在于它有没有足够的判断力，知道什么时候闭嘴",
+    "url": "http://www.geekpark.net/news/372740",
+    "published": "Thu, 22 Oct 2026 15:23:08 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-22"
@@ -285,46 +315,6 @@
     "summary": "155 款应用拒绝豆包助手 AI 自动化操作 10 月 14 日，豆包手机助手《屏幕自动化操作声明协议》（SAEP）30 天公示期结束，官方公布名单显示，已有 155 款第三方应用拒绝 AI 自动化操作，腾讯、阿里、美团、快手旗下多款产品，连同 Kimi、DeepSeek 等 AI 产品均在名单内，堪称互联网头部厂商的集体表态。 SAEP 协议核心是将 AI 屏幕自动操作的选择权交还应用开发者，开发者可自主决定是否允许豆包助手执行屏幕识别、模拟点击等操作。公示期内应用默认不开放权限；公示结束后，未明确拒绝的应用将按风险分级逐步开放，拒绝方后续也可随时调整声明。该自动化权限仅影响 AI 代操作，不影响用户手动使用 App。 此前，努比亚 NaviX Ultra 搭载豆包手机助手发售，就出现过设备触发游戏风控等冲突，这类矛盾过去长期处于隐性博弈状态。本次拒绝名单基本集中在拥有独立流量闭环的平台，安全风险、流量主权是核心考量。SAEP 把隐性冲突转为公开规则协商，标志移动端 AI 入口权博弈正式开启。行业认为，这只是智能体时代生态确权的起点，后续权限细化、责任划分、利益分配仍需多方持续磨合。",
     "url": "http://www.geekpark.net/news/372366",
     "published": "Thu, 15 Oct 2026 08:29:12 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-22"
-  },
-  {
-    "source": "极客公园",
-    "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
-    "summary": "谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息， Gemini 4 Argon 现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI Ultra 订阅用户，以及 Gemini 应用和搜索 AI 模式的 Google AI Ultra 和 Pro 订阅用户。 该模型目前限时入门定价如下，2026 年 11 月 30 日入门促销结束后价格会翻倍： 输入：每百万 Tokens 2 美元 输出：每百万 Tokens 10 美元 缓存输入：每百万 Tokens 0.1 美元 Gemini 4 Argon 擅长在编码、金融、法律、网络安全、科学等领域处理复杂的现实任务，在多步骤任务上的深度和精度使其在多个领域基准测试中表现优于其他前沿模型，目前在衡量金融、编码、法律和税务等关键经济领域模型性能的 Vals Index 中排名第一。（消息来源：IT 之家） 苹果首款智能家庭中枢 HomeView 发布：售价 29",
-    "url": "http://www.geekpark.net/news/372304",
-    "published": "Wed, 14 Oct 2026 08:28:51 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-22"
-  },
-  {
-    "source": "极客公园",
-    "title": "苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元",
-    "summary": "头图来源：Apple 官网 北京时间 10 月 13 日晚，苹果召开了一次主题为「欢迎回家」的新品发布会，苹果这次放进客厅的新东西，是一块 7 英寸的屏幕。 它叫 Apple HomeView，美国售价 299 美元 ，10 月 13 日开放预订，11 月 13 日上市，一同曝光的还有第四代 Apple TV 4K、HomePod mini 2。三款产品在海外都以新一代 Siri AI 为卖点，但音箱要等后续软件更新才能用上。同期发布的，还有 Apple Home Collection 智能家居配件系列。 HomePod 和 Apple TV 早已支持家庭控制，HomePod 也有声音识别和个人请求。HomeView 给了 Siri 一块全家共用的屏幕，可以放在厨房台面、床头柜上，也可以装在玄关的墙上。 这次产品发布更有意思的变化，是 Siri 的回应多了一个可以随时看见、伸手操作的地方。它的个人化能力，仍和每个人的设备、权限绑在一起。 屏幕属于全家，个人化的 Siri 仍然要认人、认手机 。 桌面版提供四种配色｜图片来源：Apple 一块会认家人的屏幕 HomeView 桌面版用一根",
-    "url": "http://www.geekpark.net/news/372302",
-    "published": "Tue, 13 Oct 2026 21:51:34 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-22"
-  },
-  {
-    "source": "极客公园",
-    "title": "说个事：极客公园创新大会 2027！",
-    "summary": "一年一度：极客公园创新大会 2027，已经启动了。 你大概已经注意到一些不太寻常的事——科技行业真正关心的东西，一直在变。 大模型公司的关注点，过去几年，几个月就一波变化：从追求用户规模，到追求技术的 SOTA 程度；应用公司的产品热点从 Chatbot，到 Agent，再到 Personal Agent；生产力工具也从 Copilot，一路到了 workspace。甚至连工程领域的概念也在快速更迭，从 Prompt Engineering，已经到了到 Environment Engineering。 流行概念的交替，实质是科技领域里，创新问题的权重和价值，正在被快速重估。什么值得投入、什么人更重要、什么样的能力还能构成壁垒——答案已经不是过去的答案。 经过这几年 AI 带来的冲击和对世界的影响，我们已经可以清晰地看到：一次根本性的价值重估已经开始。 有的公司在长出惊天市值，有的公司在被彻底遗忘；有人好像在丢掉岗位，但有人正在变成「超人」；技术、产品、组织和人，都在重新给出关于「价值」的新答案。 时代从不预告它的转向，只是沉默地重新衡量一切。 今年，极客公园创新大会 2027（IF 2",
-    "url": "http://www.geekpark.net/news/372300",
-    "published": "Tue, 13 Oct 2026 19:33:53 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-22"
-  },
-  {
-    "source": "极客公园",
-    "title": "上线九个月下载破亿，字节在海外再造「红果」",
-    "summary": "头图来源：视觉中国 上线不到一年，字节跳动旗下的短剧 App PineDrama，累计下载量已经突破 1 亿次。 10 月 12 日，Sensor Tower 的一组数据让短剧赛道再添热度：字节跳动旗下海外短剧应用 PineDrama 累计下载量已突破 1 亿次，日活跃用户约 700 万，仅 2026 年 9 月单月下载量就超过 1200 万次。 距离这款产品正式上线，才刚过去 9 个月。在全球累计下载破亿的 7 款独立短剧 App 里，PineDrama 是唯一一款上线不足一年的新品。这让人很自然地联想到它的国内「前辈」——红果短剧，那个用三年时间做到日活 1.68 亿、超过四家长视频平台总和的现象级产品。 字节已经用红果在国内把免费短剧做成了大众娱乐产品，如今，它能否在海外再做一遍？ 从红果到 PineDrama：一套验证过的模式出海 PineDrama 的诞生，本身就是字节短剧战略的自然延伸。 2025 年 12 月，当国内的红果短剧已经跑出月活超 2 亿、单月播放量逼近百亿的成绩时，字节在海外悄然上线了这款独立短剧应用，首批落地巴西、美国、印尼等市场，支持 TikTok 账号一",
-    "url": "http://www.geekpark.net/news/372284",
-    "published": "Tue, 13 Oct 2026 13:19:56 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-22"
@@ -682,7 +672,7 @@
   {
     "source": "Hacker News",
     "title": "Make Your Startup More Powerful, Not Just More Profitable",
-    "summary": "Article URL: https://www.paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=50188564 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://www.paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=50188564 Points: 5 # Comments: 0",
     "url": "https://www.paulgraham.com/powerful.html",
     "published": "Wed, 21 Oct 2026 22:29:18 +0000",
     "lang": "en",
@@ -712,7 +702,7 @@
   {
     "source": "Hacker News",
     "title": "Startup Claims to Use A.I.-Created Viruses to Treat a Patient",
-    "summary": "Article URL: https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html Comments URL: https://news.ycombinator.com/item?id=50186161 Points: 1 # Comments: 2",
+    "summary": "Article URL: https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html Comments URL: https://news.ycombinator.com/item?id=50186161 Points: 2 # Comments: 2",
     "url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
     "published": "Wed, 21 Oct 2026 19:23:37 +0000",
     "lang": "en",
@@ -852,26 +842,12 @@
   {
     "source": "Hacker News",
     "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-    "summary": "Article URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/ Comments URL: https://news.ycombinator.com/item?id=50157456 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/ Comments URL: https://news.ycombinator.com/item?id=50157456 Points: 14 # Comments: 5",
     "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
     "published": "Mon, 19 Oct 2026 20:12:49 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-22"
-  },
-  {
-    "source": "V2EX",
-    "title": "最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？",
-    "summary": "旧车是婚前父母买给我的一辆小轿车，最近准备换个 SUV ，旧车估值大概 2 万元，妹妹和我不在一个城市。妹妹上班也需要用车，目前是骑电动车，我想把车给妹妹，但是之前家里因为一些琐事，导致妹妹和老婆的关系不太好，我怕提出这个请求后，老婆不同意。 我本来想拿出私房钱偷偷给妹妹，让我妹转给我老婆，说是想买我们的旧车，但是问了 AI 后，AI 不建议这么搞，让我去坦诚沟通。我也知道老婆不是不讲理的人，我们也结婚多年了，夫妻感情不错，就是老婆和我家里人，主要是我妈和我妹，相处的不太好。 过去没有相处好的原因有很多，大概是： 1.我妈性格强势，且爱搞封建传统那些东西，让我们都得跟着参与，比如上香磕头",
-    "url": "https://www.v2ex.com/t/1250656",
-    "published": 1792568216,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-22",
-    "meta": {
-      "replies": 90,
-      "node": "生活"
-    }
   },
   {
     "source": "GitHub新星",
@@ -883,10 +859,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-22",
     "meta": {
-      "stars": 20131,
-      "forks": 2182,
+      "stars": 21837,
+      "forks": 2363,
       "language": "Java",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -899,10 +875,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-22",
     "meta": {
-      "stars": 18421,
-      "forks": 1903,
+      "stars": 19167,
+      "forks": 2012,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]
