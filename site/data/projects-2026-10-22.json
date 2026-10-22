@@ -386,15 +386,8 @@
         "fetchedAt": "2026-10-22",
         "website": {
           "website": "https://deepseek.com",
-          "emails": [
-            "service@deepseek.com",
-            "security@deepseek.com"
-          ],
-          "socials": {
-            "twitter": "deepseek_ai",
-            "github": "deepseek-ai",
-            "wechat": "Tooltip"
-          },
+          "emails": [],
+          "socials": {},
           "careerPage": null,
           "jobListings": []
         },
@@ -468,7 +461,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "marcin-dudek-4992a297"
+            "linkedin": "clairewagner91"
           },
           "careerPage": "https://buildhop.io/careers",
           "jobListings": []
