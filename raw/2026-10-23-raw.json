@@ -60,26 +60,6 @@
     "fetchedAt": "2026-10-23"
   },
   {
-    "source": "钛媒体",
-    "title": "OpenAI、字节开始下场做机器人，创业公司如何拿到“大结果”？",
-    "summary": "具身智能创业公司面对的已经不只是另一个竞争对手。国内外的头部大模型公司带着算力、模型、人才和资金，从软件一路压到物理世界。",
-    "url": "https://www.tmtpost.com/8179212.html",
-    "published": "Fri, 23 Oct 2026 18:09:37 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "钛媒体",
-    "title": "“AI 对资本回报是破坏性的”——丘栋荣和黄仁勋，其实吵的不是同一件事",
-    "summary": "消失两年，丘栋荣一开口就说了反市场共识：低估值不是机会是雷。",
-    "url": "https://www.tmtpost.com/8179246.html",
-    "published": "Fri, 23 Oct 2026 18:08:01 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
     "source": "极客公园",
     "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
     "summary": "头图来源：Hirdwire 2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。 过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 30 天入账 180 万美元；Tenniix 首战筹得近百万美元后，其母公司英汉思动力完成红杉联合领投的三轮共超亿元融资；最新收官的 AceiiLab 首批量产正在交付，单台售价约 2000 美元，早鸟价 999 美元。 但火归火，这条赛道连「卖的是什么」都还没说清。在「AI 网球机器人」标签背后，可以是打网球的人形机器人，也可以是便携发球机，也有可能是一款手机 App。 为什么网球机器人赛道突然爆火？一台真正的 AI 网球机器人到底该长什么样？带着这两个问题，我们在深圳的一片球场上见到了 AceiiLab，和它背后一思科技的联创晁光。随后我们发现，这场竞赛里硬件只是入场券，真正的关键在于你",
@@ -351,6 +331,86 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Startups don’t need to go viral to win customers",
+    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+    "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+    "published": "Fri, 23 Oct 2026 23:07:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+    "published": "Fri, 23 Oct 2026 20:57:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+    "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+    "published": "Fri, 23 Oct 2026 20:03:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+    "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+    "published": "Fri, 23 Oct 2026 19:25:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "published": "Fri, 23 Oct 2026 19:06:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "published": "Fri, 23 Oct 2026 16:26:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+    "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+    "published": "Fri, 23 Oct 2026 16:20:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "What some of Anthropic’s backers are worth before its IPO",
+    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "published": "Fri, 23 Oct 2026 16:02:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-23"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
     "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
     "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
@@ -380,51 +440,41 @@
     "fetchedAt": "2026-10-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-    "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-    "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-    "published": "Thu, 22 Oct 2026 20:00:00 +0000",
+    "source": "TechNode",
+    "title": "Robot chipmaker Huixi completes Series B financing led by Beijing AI fund",
+    "summary": "Chinese robotics chip company Huixi Technology has completed Pre-Series B-plus and Series B financing, the company announced on October 22. The financing was led by the Beijing Artificial Intelligence Industry Investment Fund, with participation from the Beijing Robotics Industry Development Investment Fund, Hidden Hill Capital and other investors. Existing shareholders, including Shunwei Capital and Cathay […]",
+    "url": "https://technode.com/2026/10/23/robot-chipmaker-huixi-completes-series-b-financing-led-by-beijing-ai-fund/",
+    "published": "Fri, 23 Oct 2026 13:51:44 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+    "source": "TechNode",
+    "title": "ByteDance launches Seedance 2.5 4K video model for film production",
+    "summary": "ByteDance’s cloud platform Volcano Engine released Seedance 2.5 4K on October 23, targeting film and television production with higher-resolution video generation. The company said additional training improves the rendering of facial expressions, subtle movements and visual details. The model is currently available for trials by selected enterprise customers. A Draft mode allows users to test […]",
+    "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+    "published": "Fri, 23 Oct 2026 13:51:44 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechNode",
+    "title": "Desktop CNC startup CubiFab raises tens of millions of RMB to scale production",
+    "summary": "Shenzhen-based CubiFab has raised tens of millions of RMB in a new funding round from Nanshan Strategic Emerging Industries Investment and Longhua Capital, according to an October 23 announcement. The desktop CNC company will use the proceeds to scale production and deliveries of its first product, the CubiFab C1, strengthen its supply chain and expand […]",
+    "url": "https://technode.com/2026/10/23/desktop-cnc-startup-cubifab-raises-tens-of-millions-of-rmb-to-scale-production/",
+    "published": "Fri, 23 Oct 2026 13:51:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-23"
   },
   {
-    "source": "TechCrunch",
-    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-    "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-    "published": "Thu, 22 Oct 2026 18:38:47 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-    "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
-    "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-    "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+    "source": "TechNode",
+    "title": "DeepSeek reportedly raises $15 billion ahead of potential Shanghai IPO",
+    "summary": "DeepSeek has completed a $15 billion private funding round, nearly doubling its initial target following strong investor demand, The Wall Street Journal reported on October 22, citing people familiar with the matter. The Chinese AI developer is also accelerating preparations for a potential Shanghai listing early next year, according to the report. The financing would […]",
+    "url": "https://technode.com/2026/10/23/deepseek-reportedly-raises-15-billion-ahead-of-potential-shanghai-ipo/",
+    "published": "Fri, 23 Oct 2026 13:51:43 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-23"
@@ -620,71 +670,11 @@
     "fetchedAt": "2026-10-23"
   },
   {
-    "source": "TechNode",
-    "title": "Apple reportedly plans December China launch for Apple Intelligence using Alibaba models",
-    "summary": "Apple plans to launch Apple Intelligence in mainland China in December through its iOS 27.3 update, Bloomberg reported. The rollout would bring an initial set of AI features to Chinese users after an extended regulatory approval process. The China version will incorporate Alibaba’s Qwen and Tongyi Wanxiang models, while Apple is also working with Baidu […]",
-    "url": "https://technode.com/2026/10/15/apple-reportedly-plans-december-china-launch-for-apple-intelligence-using-alibaba-models/",
-    "published": "Thu, 15 Oct 2026 06:38:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent’s Green Bubble and ByteDance’s Hongguo battle for short drama viewers",
-    "summary": "Tencent has made a new move in the short drama market. Drawing widespread attention on Chinese social media platform Weibo this week, Tencent’s Green Bubble Short Drama is a free mini-program that quietly launched within the WeChat ecosystem in late September. The move signals a shift from early experimentation to a more systematic push into […]",
-    "url": "https://technode.com/2026/10/15/tencents-green-bubble-and-bytedances-hongguo-battle-for-short-drama-viewers/",
-    "published": "Thu, 15 Oct 2026 03:36:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Nvidia’s China AI-chip share falls to 34% as Huawei reaches 28%",
-    "summary": "Nvidia’s share of China’s data-center AI accelerator market fell to 34% in the first half of 2026, while Huawei reached 28%, according to an IDC report seen by Reuters. US export restrictions constrained Nvidia’s supplies as Chinese chipmakers expanded shipments. Nvidia shipped 678,000 AI accelerators in China between January and June, down 44% from a […]",
-    "url": "https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/",
-    "published": "Wed, 14 Oct 2026 07:18:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Alibaba launches Qwen N1 AI glasses with swappable batteries, starting at RMB 2,899",
-    "summary": "Alibaba launched its Qwen N1 and N1 Pro AI glasses in China on October 13, with standard packages priced from RMB 2,899 and RMB 3,399, respectively. Both models feature replaceable batteries in the temples, allowing users to swap batteries during use. The glasses combine a 50-megapixel camera with 4K video recording and Qwen-powered functions including […]",
-    "url": "https://technode.com/2026/10/14/alibaba-launches-qwen-n1-ai-glasses-with-swappable-batteries-starting-at-rmb-2899/",
-    "published": "Wed, 14 Oct 2026 07:18:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent launches free short-drama service inside WeChat",
-    "summary": "Tencent has launched a free short-drama mini program inside WeChat called Lüpaopao Duanju. The service offers live-action, animated and AI-generated dramas, with advertisements shown between episodes. The mini program includes a browsing section and a vertically scrolling recommendation feed. Its homepage features newly added series, viewing charts and recommendations showing what friends and nearby users […]",
-    "url": "https://technode.com/2026/10/14/tencent-launches-free-short-drama-service-inside-wechat/",
-    "published": "Wed, 14 Oct 2026 07:18:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
     "source": "The Verge",
-    "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
-    "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), […]",
-    "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-    "published": "2026-10-23T06:58:03-04:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-23"
-  },
-  {
-    "source": "The Verge",
-    "title": "Canva’s first AI image model plans designs before generating them",
-    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "published": "2026-10-22T17:51:25-04:00",
+    "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+    "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]",
+    "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+    "published": "2026-10-23T14:43:30-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-23"
@@ -699,7 +689,7 @@
     "type": "community",
     "fetchedAt": "2026-10-23",
     "meta": {
-      "replies": 146,
+      "replies": 170,
       "node": "程序员"
     }
   },
@@ -713,8 +703,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-23",
     "meta": {
-      "stars": 26188,
-      "forks": 2882,
+      "stars": 27833,
+      "forks": 3134,
       "language": "Java",
       "createdDaysAgo": 6
     }

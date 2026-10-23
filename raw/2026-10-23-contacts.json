@@ -117,8 +117,15 @@
       "fetchedAt": "2026-10-23",
       "website": {
         "website": "https://deepseek.com",
-        "emails": [],
-        "socials": {},
+        "emails": [
+          "service@deepseek.com",
+          "security@deepseek.com"
+        ],
+        "socials": {
+          "twitter": "deepseek_ai",
+          "github": "deepseek-ai",
+          "wechat": "Tooltip"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -148,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "thijs-smudde"
+          "linkedin": "jakecounsell"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -472,7 +479,7 @@
         "socials": {},
         "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
-          "Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造"
+          "Kimi AI 官网：K3.1 Pro 上线，编程与智能体任务全面升级"
         ]
       },
       "github": {},
@@ -1780,7 +1787,7 @@
         "socials": {},
         "careerPage": "https://kimi.moonshot.cn/careers",
         "jobListings": [
-          "Kimi AI 官网 - K3 上线，专为智能体编程与知识工作打造"
+          "Kimi AI 官网：K3.1 Pro 上线，编程与智能体任务全面升级"
         ]
       },
       "github": {},
