@@ -40,16 +40,6 @@
     "fetchedAt": "2026-10-24"
   },
   {
-    "source": "钛媒体",
-    "title": "告别“高级打工仔”：硅谷AI牌桌上，挤满了中国留学生",
-    "summary": "硅谷AI浪潮下，中国留学生创业者与GP群体正在整体性崛起",
-    "url": "https://www.tmtpost.com/8180412.html",
-    "published": "Sat, 24 Oct 2026 16:32:39 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
     "source": "极客公园",
     "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
     "summary": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经预购、直接前往门店购买的用户来说，能否买到新机仍存在较大不确定性。 这次供应紧张，与 iPhone Duo 在预购阶段迅速售罄的情况相吻合。预购于 10 月 16 日开启后，部分配置的预计发货时间很快被推迟。此后，苹果官网显示的新订单交付日期进一步延后，部分订单的预计送达时间已经排到 2027 年 1 月 25 日左右。这意味着，首发需求与现有供应能力之间仍存在明显差距。（来源：cnBeta） 曝",
@@ -321,6 +311,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-24"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Startups don’t need to go viral to win customers",
     "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
     "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
@@ -395,36 +395,6 @@
     "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
     "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
     "published": "Fri, 23 Oct 2026 16:02:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-    "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-    "published": "Thu, 22 Oct 2026 23:50:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-    "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-    "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-    "published": "Thu, 22 Oct 2026 21:05:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-24"
@@ -661,13 +631,27 @@
   },
   {
     "source": "The Verge",
-    "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-    "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]",
-    "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-    "published": "2026-10-23T14:43:30-04:00",
+    "title": "What to expect from Apple’s ‘Pro and tell’ event",
+    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. […]",
+    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+    "published": "2026-10-24T10:15:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-24"
+  },
+  {
+    "source": "V2EX",
+    "title": "智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们",
+    "url": "https://www.v2ex.com/t/1251411",
+    "published": 1792805587,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "replies": 26,
+      "node": "推广"
+    }
   },
   {
     "source": "GitHub新星",
@@ -679,8 +663,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 4137,
-      "forks": 321,
+      "stars": 4355,
+      "forks": 343,
       "language": "Kotlin",
       "createdDaysAgo": 4
     }
@@ -695,10 +679,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 4074,
-      "forks": 636,
+      "stars": 4275,
+      "forks": 689,
       "language": "Java",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -711,9 +695,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 2995,
-      "forks": 685,
+      "stars": 3210,
+      "forks": 740,
       "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Zagitta/gpu-unlock",
+    "summary": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "published": "2026-10-18T01:28:31Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "stars": 2848,
+      "forks": 310,
+      "language": "C",
       "createdDaysAgo": 6
     }
   },
@@ -727,10 +727,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1870,
-      "forks": 305,
+      "stars": 2072,
+      "forks": 351,
       "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -743,8 +743,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1799,
-      "forks": 280,
+      "stars": 1950,
+      "forks": 301,
       "language": "C",
       "createdDaysAgo": 5
     }
@@ -759,9 +759,41 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1726,
-      "forks": 601,
+      "stars": 1753,
+      "forks": 607,
       "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "xevrion/hatchzip",
+    "summary": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+    "url": "https://github.com/xevrion/hatchzip",
+    "published": "2026-10-21T17:29:28Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "stars": 1691,
+      "forks": 40,
+      "language": "Rust",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wesbos/3d-model-anything",
+    "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "published": "2026-10-21T19:38:50Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "stars": 1633,
+      "forks": 254,
+      "language": "Swift",
       "createdDaysAgo": 3
     }
   },
@@ -775,10 +807,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1568,
-      "forks": 154,
+      "stars": 1589,
+      "forks": 155,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -791,8 +823,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1423,
-      "forks": 145,
+      "stars": 1486,
+      "forks": 153,
       "language": "Java",
       "createdDaysAgo": 6
     }
@@ -807,10 +839,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1422,
-      "forks": 127,
+      "stars": 1477,
+      "forks": 133,
       "language": "Java",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -823,26 +855,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1380,
-      "forks": 405,
+      "stars": 1400,
+      "forks": 412,
       "language": "Python",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "wesbos/3d-model-anything",
-    "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-    "url": "https://github.com/wesbos/3d-model-anything",
-    "published": "2026-10-21T19:38:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-24",
-    "meta": {
-      "stars": 1369,
-      "forks": 223,
-      "language": "Swift",
-      "createdDaysAgo": 2
     }
   }
 ]
