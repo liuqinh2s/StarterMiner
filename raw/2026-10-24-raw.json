@@ -41,50 +41,10 @@
   },
   {
     "source": "钛媒体",
-    "title": "国产具身智能出海开启“减重计划”",
-    "summary": "出口爆单，售后拖垮。",
-    "url": "https://www.tmtpost.com/8179676.html",
-    "published": "Sat, 24 Oct 2026 10:06:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "L3将至，华地魔三巨头同台：自动驾驶下半场的生存哲学",
-    "summary": "智驾供应商下半场的三种答案。",
-    "url": "https://www.tmtpost.com/8179664.html",
-    "published": "Sat, 24 Oct 2026 10:01:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "10亿估值的明星机器狗公司，欠薪800万",
-    "summary": "成立八个月，拿到10亿订单，故事太“励志”了点。",
-    "url": "https://www.tmtpost.com/8179895.html",
-    "published": "Sat, 24 Oct 2026 09:45:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（10月24日）",
-    "summary": "AI巨头同时进入资本纪律与安全定价阶段：OpenAI将融资估值从1.4万亿美元下调至1.25万亿美元并推迟IPO至2027年，同时宣布无限期转为离线训练前沿模型，为安全注入溢价；Anthropic以9650亿美元私募估值推进11月IPO，并联合Hg成立欧洲AI咨询公司，标志卖API转向卖落地。",
-    "url": "https://www.tmtpost.com/8179994.html",
-    "published": "Sat, 24 Oct 2026 09:43:18 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "车企造人形机器人，究竟图什么？",
-    "summary": "车企入局人形机器人，依托汽车产业资金、制造与线下网络，先在工厂、门店落地测试迭代。各家路线分化：自研、合作验证、渠道联动并存。短期优化生产与门店体验，长期谋求第二增长曲线，但机器人仍需跨过可靠性、成本门槛，商业化前景尚不确定。",
-    "url": "https://www.tmtpost.com/8179852.html",
-    "published": "Sat, 24 Oct 2026 09:35:00 +0800",
+    "title": "告别“高级打工仔”：硅谷AI牌桌上，挤满了中国留学生",
+    "summary": "硅谷AI浪潮下，中国留学生创业者与GP群体正在整体性崛起",
+    "url": "https://www.tmtpost.com/8180412.html",
+    "published": "Sat, 24 Oct 2026 16:32:39 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-24"
@@ -710,217 +670,19 @@
     "fetchedAt": "2026-10-24"
   },
   {
-    "source": "Hacker News",
-    "title": "Startup raises $200M to create genetically engineered military dogs",
-    "summary": "Article URL: https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/ Comments URL: https://news.ycombinator.com/item?id=50217340 Points: 1 # Comments: 2",
-    "url": "https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/",
-    "published": "Sat, 24 Oct 2026 00:52:44 +0000",
+    "source": "GitHub新星",
+    "title": "pengchujin/aerial-tv",
+    "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "published": "2026-10-20T09:13:06Z",
     "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "iPhone Duo jailbroken on launch day",
-    "summary": "Article URL: https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/ Comments URL: https://news.ycombinator.com/item?id=50216035 Points: 4 # Comments: 1",
-    "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
-    "published": "Fri, 23 Oct 2026 22:08:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Pursues Palmer Luckey's Vision of Enhanced Military Dogs",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs Comments URL: https://news.ycombinator.com/item?id=50214397 Points: 2 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs",
-    "published": "Fri, 23 Oct 2026 19:49:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Palmer Luckey Is Launching a Genetically Engineered War Dog Startup",
-    "summary": "Article URL: https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/ Comments URL: https://news.ycombinator.com/item?id=50213118 Points: 19 # Comments: 0",
-    "url": "https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/",
-    "published": "Fri, 23 Oct 2026 18:10:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Warhound: Palmer Luckey's war dog startup",
-    "summary": "Article URL: https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10 Comments URL: https://news.ycombinator.com/item?id=50210734 Points: 4 # Comments: 1",
-    "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
-    "published": "Fri, 23 Oct 2026 15:32:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Reverse engineering a Beyblade launch tracker",
-    "summary": "Article URL: https://blog.simone.computer/reverse-beyblade-launch-tracker Comments URL: https://news.ycombinator.com/item?id=50208628 Points: 1 # Comments: 0",
-    "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
-    "published": "Fri, 23 Oct 2026 13:25:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anthropic strikes deal to launch European consultancy",
-    "summary": "Article URL: https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4 Comments URL: https://news.ycombinator.com/item?id=50208444 Points: 1 # Comments: 0",
-    "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
-    "published": "Fri, 23 Oct 2026 13:11:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Funding The Web. The web is dying. Let's change that",
-    "summary": "Article URL: https://ftw.fund/ Comments URL: https://news.ycombinator.com/item?id=50204871 Points: 1 # Comments: 0",
-    "url": "https://ftw.fund/",
-    "published": "Fri, 23 Oct 2026 05:39:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
-    "summary": "Article URL: https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022 Comments URL: https://news.ycombinator.com/item?id=50202163 Points: 1 # Comments: 0",
-    "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022",
-    "published": "Thu, 22 Oct 2026 22:48:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
-    "summary": "Article URL: https://github.com/heyyviv/claude-boot-beats Comments URL: https://news.ycombinator.com/item?id=50199611 Points: 1 # Comments: 0",
-    "url": "https://github.com/heyyviv/claude-boot-beats",
-    "published": "Thu, 22 Oct 2026 19:02:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: From our 1.8M-view launch to a library of human reactions",
-    "summary": "Article URL: https://ugcpeople.com Comments URL: https://news.ycombinator.com/item?id=50196452 Points: 3 # Comments: 2",
-    "url": "https://ugcpeople.com",
-    "published": "Thu, 22 Oct 2026 15:08:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Know what your startup offer is worth",
-    "summary": "Article URL: https://compdecoder.com/ Comments URL: https://news.ycombinator.com/item?id=50195852 Points: 2 # Comments: 1",
-    "url": "https://compdecoder.com/",
-    "published": "Thu, 22 Oct 2026 14:25:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Make Your Startup More Powerful, Not Just More Profitable",
-    "summary": "Article URL: https://www.paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=50188564 Points: 5 # Comments: 0",
-    "url": "https://www.paulgraham.com/powerful.html",
-    "published": "Wed, 21 Oct 2026 22:29:18 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Can we immortalize your startup in our Ultracapitalism game?",
-    "summary": "Hello, HN! We've been hard at work building a company-building autobattler that's strategically deep but also doesn't take itself too seriously. Ultracapitalism has you choose a founder and draft assets to fill out your company quarter by quarter: interns, robots, schemes, AI, private planes, and more. Asynchronous multiplayer pits your company against other real companies at the end of each fiscal year, and the goal is to dominate the market. In addition to multiplayer, we also have PvE rivals ",
-    "url": "https://news.ycombinator.com/item?id=50186889",
-    "published": "Wed, 21 Oct 2026 20:07:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The $15B 'viral' AI startup changing how American doctors treat patients",
-    "summary": "Article URL: https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc Comments URL: https://news.ycombinator.com/item?id=50186265 Points: 2 # Comments: 0",
-    "url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
-    "published": "Wed, 21 Oct 2026 19:29:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Claims to Use A.I.-Created Viruses to Treat a Patient",
-    "summary": "Article URL: https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html Comments URL: https://news.ycombinator.com/item?id=50186161 Points: 2 # Comments: 2",
-    "url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
-    "published": "Wed, 21 Oct 2026 19:23:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Is All in on Recursive Self-Improvement. Latest Model Is Scary Good",
-    "summary": "Article URL: https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/ Comments URL: https://news.ycombinator.com/item?id=50184762 Points: 5 # Comments: 0",
-    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-    "published": "Wed, 21 Oct 2026 17:42:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI code-testing startup Blacksmith hits $1B valuation",
-    "summary": "Article URL: https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/ Comments URL: https://news.ycombinator.com/item?id=50182486 Points: 2 # Comments: 1",
-    "url": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
-    "published": "Wed, 21 Oct 2026 15:17:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Blacksmith has raised Series C funding at $1B to build a CI cloud",
-    "summary": "Article URL: https://www.blacksmith.sh/blog/series-c Comments URL: https://news.ycombinator.com/item?id=50180667 Points: 3 # Comments: 0",
-    "url": "https://www.blacksmith.sh/blog/series-c",
-    "published": "Wed, 21 Oct 2026 13:31:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Spread: Launch faster. Break nothing. Know why",
-    "summary": "Article URL: https://www.spread.ai Comments URL: https://news.ycombinator.com/item?id=50177611 Points: 1 # Comments: 0",
-    "url": "https://www.spread.ai",
-    "published": "Wed, 21 Oct 2026 08:25:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-24"
-  },
-  {
-    "source": "V2EX",
-    "title": "做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度",
-    "summary": "平时 Codex 和 Claude Code 都在用，每次想看还剩多少额度都得点开页面,很不方便. EdgeQuota 贴在 Mac 屏幕边上。Codex 或 Claude Code 开始干活时它自己滑出来，干完自动收起。能看到： - 5 小时额度和每周额度，还剩多少、几点重置 - 正在跑的会话，哪个在等你确认 Codex 用的是官方 Codex ，Claude 走 Claude Code 自带的状态栏和 hooks 。不要密码，不读浏览器 cookie ，也没有我自己的服务器。 ![]( https://i.imgur.com/LgRh9FU.png) 几",
-    "url": "https://www.v2ex.com/t/1251299",
-    "published": 1792742574,
-    "lang": "zh",
-    "type": "community",
+    "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "replies": 53,
-      "node": "分享创造"
+      "stars": 4137,
+      "forks": 321,
+      "language": "Kotlin",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -933,26 +695,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 3997,
-      "forks": 622,
+      "stars": 4074,
+      "forks": 636,
       "language": "Java",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "pengchujin/aerial-tv",
-    "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-    "url": "https://github.com/pengchujin/aerial-tv",
-    "published": "2026-10-20T09:13:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-24",
-    "meta": {
-      "stars": 3936,
-      "forks": 296,
-      "language": "Kotlin",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -965,10 +711,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 2884,
-      "forks": 659,
+      "stars": 2995,
+      "forks": 685,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -981,26 +727,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1775,
-      "forks": 280,
+      "stars": 1870,
+      "forks": 305,
       "language": null,
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ikow/php2shell-poc",
-    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-    "url": "https://github.com/ikow/php2shell-poc",
-    "published": "2026-10-21T07:55:16Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-24",
-    "meta": {
-      "stars": 1702,
-      "forks": 593,
-      "language": "Python",
-      "createdDaysAgo": 2
     }
   },
   {
@@ -1013,10 +743,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1650,
-      "forks": 258,
+      "stars": 1799,
+      "forks": 280,
       "language": "C",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ikow/php2shell-poc",
+    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "published": "2026-10-21T07:55:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "stars": 1726,
+      "forks": 601,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1029,25 +775,9 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1546,
-      "forks": 150,
+      "stars": 1568,
+      "forks": 154,
       "language": "JavaScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "humblemuzzu/dumbtv",
-    "summary": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
-    "url": "https://github.com/humblemuzzu/dumbtv",
-    "published": "2026-10-18T17:04:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-24",
-    "meta": {
-      "stars": 1404,
-      "forks": 125,
-      "language": "Java",
       "createdDaysAgo": 5
     }
   },
@@ -1061,8 +791,24 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1394,
-      "forks": 139,
+      "stars": 1423,
+      "forks": 145,
+      "language": "Java",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "humblemuzzu/dumbtv",
+    "summary": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+    "url": "https://github.com/humblemuzzu/dumbtv",
+    "published": "2026-10-18T17:04:12Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "stars": 1422,
+      "forks": 127,
       "language": "Java",
       "createdDaysAgo": 5
     }
@@ -1077,9 +823,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-24",
     "meta": {
-      "stars": 1295,
-      "forks": 396,
+      "stars": 1380,
+      "forks": 405,
       "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wesbos/3d-model-anything",
+    "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "published": "2026-10-21T19:38:50Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-24",
+    "meta": {
+      "stars": 1369,
+      "forks": 223,
+      "language": "Swift",
       "createdDaysAgo": 2
     }
   }
