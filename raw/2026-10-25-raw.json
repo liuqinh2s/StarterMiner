@@ -40,6 +40,66 @@
     "fetchedAt": "2026-10-25"
   },
   {
+    "source": "钛媒体",
+    "title": "连夜蹬了K3.1 pro之后，我觉得Kimi可能真的要做具身智能了",
+    "summary": "终于不用等那么久了。",
+    "url": "https://www.tmtpost.com/8180725.html",
+    "published": "Sun, 25 Oct 2026 18:50:45 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "AI大模型狂飙，面板行业也扛不住了",
+    "summary": "面板厂商集体涨价，但真正的难题在下游。",
+    "url": "https://www.tmtpost.com/8180986.html",
+    "published": "Sun, 25 Oct 2026 18:37:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "中国核电出海三条腿，只有一条站得稳？核电中企出海，供应链、电站合作、上游资源缺一不可",
+    "summary": "核电出海三条腿：实踩资源，嵌供应链，悬于融资。",
+    "url": "https://www.tmtpost.com/8180994.html",
+    "published": "Sun, 25 Oct 2026 18:37:42 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
+    "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数token消耗靠AI短剧？豆包高管回应；AI板块近期遭遇明显抛售……",
+    "url": "https://www.tmtpost.com/8181051.html",
+    "published": "Sun, 25 Oct 2026 17:29:09 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
+    "summary": "AI股连跌四周、业绩却集体爆表，股票型ETF同期净流入近700亿：这轮调整杀的是估值不是业绩。",
+    "url": "https://www.tmtpost.com/8179663.html",
+    "published": "Sun, 25 Oct 2026 11:10:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "新石器再获近4亿美元融资，无人配送进入规模化竞争",
+    "summary": "随着无人配送规模扩大，新石器的商业模式正从车辆销售向运力服务转型。",
+    "url": "https://www.tmtpost.com/8179257.html",
+    "published": "Sun, 25 Oct 2026 09:52:01 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
     "source": "极客公园",
     "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
     "summary": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到清晰的「咔嚓」声，屏幕随即沿铰链裂开，内屏表面与外部铰链均无磕碰或夹痕，他前往 Apple Store 后苹果直接为其更换了故障机。国内也有类似案例。 综合目前反馈，问题可能出在 iPhone Duo 的铰链上，但涉及规模不算大，更可能是装配公差导致，而非设计缺陷，具体情况还有待后续观察。截至发稿，苹果官方尚未就这一批次屏幕问题作出公开说明。 如果苹果售后检测确认非人为导致，将会为用户更换新机。但若被认定为磕碰所致，则需用户自费维修：按苹果官网公示，未购买 AppleCare+时，内屏损坏保外维修预估费用高达 7998 元；购买 AppleCare+后，内屏及意外损坏服务费为 628 元——两",
@@ -641,8 +701,28 @@
   },
   {
     "source": "Hacker News",
+    "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
+    "summary": "Article URL: https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/ Comments URL: https://news.ycombinator.com/item?id=50230059 Points: 1 # Comments: 0",
+    "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+    "published": "Sun, 25 Oct 2026 10:27:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
+    "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Comments URL: https://news.ycombinator.com/item?id=50229386 Points: 1 # Comments: 0",
+    "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
+    "published": "Sun, 25 Oct 2026 08:21:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "Hacker News",
     "title": "UK government sets out $800M of AI security funding",
-    "summary": "Article URL: https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50227867 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50227867 Points: 2 # Comments: 0",
     "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
     "published": "Sun, 25 Oct 2026 03:00:56 +0000",
     "lang": "en",
@@ -702,7 +782,7 @@
   {
     "source": "Hacker News",
     "title": "US-Israeli browser startup valued at $6.4B",
-    "summary": "Article URL: https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/ Comments URL: https://news.ycombinator.com/item?id=50219588 Points: 15 # Comments: 33",
+    "summary": "Article URL: https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/ Comments URL: https://news.ycombinator.com/item?id=50219588 Points: 16 # Comments: 29",
     "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
     "published": "Sat, 24 Oct 2026 09:38:42 +0000",
     "lang": "en",
@@ -820,26 +900,6 @@
     "fetchedAt": "2026-10-25"
   },
   {
-    "source": "Hacker News",
-    "title": "Show HN: From our 1.8M-view launch to a library of human reactions",
-    "summary": "Article URL: https://ugcpeople.com Comments URL: https://news.ycombinator.com/item?id=50196452 Points: 3 # Comments: 2",
-    "url": "https://ugcpeople.com",
-    "published": "Thu, 22 Oct 2026 15:08:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Know what your startup offer is worth",
-    "summary": "Article URL: https://compdecoder.com/ Comments URL: https://news.ycombinator.com/item?id=50195852 Points: 2 # Comments: 1",
-    "url": "https://compdecoder.com/",
-    "published": "Thu, 22 Oct 2026 14:25:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
     "source": "GitHub新星",
     "title": "pengchujin/aerial-tv",
     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
@@ -849,10 +909,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 4453,
-      "forks": 349,
+      "stars": 4707,
+      "forks": 363,
       "language": "Kotlin",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -865,8 +925,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 4335,
-      "forks": 707,
+      "stars": 4402,
+      "forks": 725,
       "language": "Java",
       "createdDaysAgo": 5
     }
@@ -881,8 +941,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 2165,
-      "forks": 366,
+      "stars": 2271,
+      "forks": 395,
       "language": null,
       "createdDaysAgo": 5
     }
@@ -897,40 +957,24 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1999,
-      "forks": 310,
+      "stars": 2038,
+      "forks": 315,
       "language": "C",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ikow/php2shell-poc",
-    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-    "url": "https://github.com/ikow/php2shell-poc",
-    "published": "2026-10-21T07:55:16Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-25",
-    "meta": {
-      "stars": 1758,
-      "forks": 610,
-      "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
     "title": "xevrion/hatchzip",
-    "summary": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+    "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
     "url": "https://github.com/xevrion/hatchzip",
     "published": "2026-10-21T17:29:28Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1743,
-      "forks": 43,
+      "stars": 1843,
+      "forks": 45,
       "language": "Rust",
       "createdDaysAgo": 3
     }
@@ -945,10 +989,42 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1715,
-      "forks": 260,
+      "stars": 1810,
+      "forks": 272,
       "language": "Swift",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ikow/php2shell-poc",
+    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "published": "2026-10-21T07:55:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-25",
+    "meta": {
+      "stars": 1779,
+      "forks": 614,
+      "language": "Python",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "JustAResearcher/gpu-unlock-ada",
+    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "published": "2026-10-23T21:00:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-25",
+    "meta": {
+      "stars": 1756,
+      "forks": 220,
+      "language": "C",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -961,10 +1037,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1404,
-      "forks": 414,
+      "stars": 1415,
+      "forks": 415,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
