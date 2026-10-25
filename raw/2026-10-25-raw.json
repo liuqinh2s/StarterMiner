@@ -41,6 +41,46 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】15%权重红线今日落地：上证指数、科创综指等四只指数编制规则生变；国务院国资委：大力推进国资国企改革，扎实抓好进一步深化国资国企改革任务落地；标普出台新规，3750亿美元基金将受影响",
+    "summary": "申通快递：快递行业的“反内卷”预计有望持续；高盛将韩国Kospi指数12个月目标价下调25%至9000点，因对AI交易担忧加剧；部分QDII专户产品陆续清盘？业内人士：与QDII专户额度比例调整有关；英国宣布设立AI生物安全实验室；马斯克称乌曾违规使用“星链”发动进攻；三星Exynos 2700内部测试得分超过高通旗舰芯片",
+    "url": "https://www.tmtpost.com/8181200.html",
+    "published": "Mon, 26 Oct 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "A股行业估值分化：科技软件PB居前，金融与地产链偏低",
+    "summary": "要理解行业PB，既要看行业之间的差异，也要看到同一个行业内部可能存在的巨大分化。",
+    "url": "https://www.tmtpost.com/8181261.html",
+    "published": "Sun, 25 Oct 2026 21:00:41 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：跌停板的投资机会和风险提示（10月23日）｜上市公司观察",
+    "summary": "本期入选的两只标的均为首次跌停且估值显著高于济安定价，一只来自石材与盐湖提锂、铀资源转型，一只来自建筑与工业铝型材。",
+    "url": "https://www.tmtpost.com/8181245.html",
+    "published": "Sun, 25 Oct 2026 20:50:42 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
+    "title": "价值判断：涨停板的投资机会和风险提示（10月23日）｜上市公司观察",
+    "summary": "本期入选的六只标的因此呈两头分布：三只首次涨停且估值大幅低于济安定价，来自电动工具与机器人集成、集成电路测试、电力造价软件三个方向；三只连板且估值高于济安定价，其中两只六连板属机器人产业链，一只三板属上海本地零售。",
+    "url": "https://www.tmtpost.com/8181241.html",
+    "published": "Sun, 25 Oct 2026 20:50:34 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "钛媒体",
     "title": "连夜蹬了K3.1 pro之后，我觉得Kimi可能真的要做具身智能了",
     "summary": "终于不用等那么久了。",
     "url": "https://www.tmtpost.com/8180725.html",
@@ -75,26 +115,6 @@
     "summary": "（10月19日-10月24日）DeepSeek拟在最新一轮融资中筹得约1000亿元；Today AI累计完成超2亿美元融资；工信部：600亿元国家AI基金投出一批项目，AI企业超6600家；中国半数token消耗靠AI短剧？豆包高管回应；AI板块近期遭遇明显抛售……",
     "url": "https://www.tmtpost.com/8181051.html",
     "published": "Sun, 25 Oct 2026 17:29:09 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
-    "summary": "AI股连跌四周、业绩却集体爆表，股票型ETF同期净流入近700亿：这轮调整杀的是估值不是业绩。",
-    "url": "https://www.tmtpost.com/8179663.html",
-    "published": "Sun, 25 Oct 2026 11:10:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "新石器再获近4亿美元融资，无人配送进入规模化竞争",
-    "summary": "随着无人配送规模扩大，新石器的商业模式正从车辆销售向运力服务转型。",
-    "url": "https://www.tmtpost.com/8179257.html",
-    "published": "Sun, 25 Oct 2026 09:52:01 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-25"
@@ -410,56 +430,6 @@
     "fetchedAt": "2026-10-25"
   },
   {
-    "source": "TechCrunch",
-    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-    "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-    "published": "Fri, 23 Oct 2026 19:25:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "published": "Fri, 23 Oct 2026 19:06:23 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-    "published": "Fri, 23 Oct 2026 16:26:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-    "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-    "published": "Fri, 23 Oct 2026 16:20:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "What some of Anthropic’s backers are worth before its IPO",
-    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-    "published": "Fri, 23 Oct 2026 16:02:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
     "source": "TechNode",
     "title": "Robot chipmaker Huixi completes Series B financing led by Beijing AI fund",
     "summary": "Chinese robotics chip company Huixi Technology has completed Pre-Series B-plus and Series B financing, the company announced on October 22. The financing was led by the Beijing Artificial Intelligence Industry Investment Fund, with participation from the Beijing Robotics Industry Development Investment Fund, Hidden Hill Capital and other investors. Existing shareholders, including Shunwei Capital and Cathay […]",
@@ -691,10 +661,50 @@
   },
   {
     "source": "The Verge",
-    "title": "What to expect from Apple’s ‘Pro and tell’ event",
-    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. […]",
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "published": "2026-10-24T10:15:00-04:00",
+    "title": "Now you can watch Instagram Reels on your Apple TV",
+    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]",
+    "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+    "published": "2026-10-25T12:20:17-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "The Verge",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "published": "2026-10-25T09:25:32-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Launch Directory",
+    "summary": "Article URL: https://thelaunchdirectory.com/ Comments URL: https://news.ycombinator.com/item?id=50236006 Points: 1 # Comments: 0",
+    "url": "https://thelaunchdirectory.com/",
+    "published": "Sun, 25 Oct 2026 20:59:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: OSS framework to launch Instinct like iMessage assistants",
+    "summary": "I built Instinct internally for a product of ours 6 months back, and it got 2000 users within a couple weeks organically. I am now open-sourcing the framework I used so anyone can launch Instinct like experiences on WhatsApp and iMessage. Comments URL: https://news.ycombinator.com/item?id=50234591 Points: 1 # Comments: 0",
+    "url": "https://github.com/flow-engineer/flow",
+    "published": "Sun, 25 Oct 2026 18:34:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-25"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Space Startup Is Coming Out of Stealth with Seven-Figure Deals",
+    "summary": "Article URL: https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/ Comments URL: https://news.ycombinator.com/item?id=50231312 Points: 2 # Comments: 0",
+    "url": "https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/",
+    "published": "Sun, 25 Oct 2026 13:24:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-25"
@@ -712,7 +722,7 @@
   {
     "source": "Hacker News",
     "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
-    "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Comments URL: https://news.ycombinator.com/item?id=50229386 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Comments URL: https://news.ycombinator.com/item?id=50229386 Points: 2 # Comments: 0",
     "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
     "published": "Sun, 25 Oct 2026 08:21:40 +0000",
     "lang": "en",
@@ -782,7 +792,7 @@
   {
     "source": "Hacker News",
     "title": "US-Israeli browser startup valued at $6.4B",
-    "summary": "Article URL: https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/ Comments URL: https://news.ycombinator.com/item?id=50219588 Points: 16 # Comments: 29",
+    "summary": "Article URL: https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/ Comments URL: https://news.ycombinator.com/item?id=50219588 Points: 17 # Comments: 29",
     "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
     "published": "Sat, 24 Oct 2026 09:38:42 +0000",
     "lang": "en",
@@ -832,7 +842,7 @@
   {
     "source": "Hacker News",
     "title": "Palmer Luckey Is Launching a Genetically Engineered War Dog Startup",
-    "summary": "Article URL: https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/ Comments URL: https://news.ycombinator.com/item?id=50213118 Points: 26 # Comments: 0",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/ Comments URL: https://news.ycombinator.com/item?id=50213118 Points: 28 # Comments: 0",
     "url": "https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/",
     "published": "Fri, 23 Oct 2026 18:10:05 +0000",
     "lang": "en",
@@ -852,7 +862,7 @@
   {
     "source": "Hacker News",
     "title": "Reverse engineering a Beyblade launch tracker",
-    "summary": "Article URL: https://blog.simone.computer/reverse-beyblade-launch-tracker Comments URL: https://news.ycombinator.com/item?id=50208628 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://blog.simone.computer/reverse-beyblade-launch-tracker Comments URL: https://news.ycombinator.com/item?id=50208628 Points: 3 # Comments: 0",
     "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
     "published": "Fri, 23 Oct 2026 13:25:12 +0000",
     "lang": "en",
@@ -870,36 +880,6 @@
     "fetchedAt": "2026-10-25"
   },
   {
-    "source": "Hacker News",
-    "title": "Funding The Web. The web is dying. Let's change that",
-    "summary": "Article URL: https://ftw.fund/ Comments URL: https://news.ycombinator.com/item?id=50204871 Points: 1 # Comments: 0",
-    "url": "https://ftw.fund/",
-    "published": "Fri, 23 Oct 2026 05:39:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
-    "summary": "Article URL: https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022 Comments URL: https://news.ycombinator.com/item?id=50202163 Points: 1 # Comments: 0",
-    "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022",
-    "published": "Thu, 22 Oct 2026 22:48:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
-    "summary": "Article URL: https://github.com/heyyviv/claude-boot-beats Comments URL: https://news.ycombinator.com/item?id=50199611 Points: 1 # Comments: 0",
-    "url": "https://github.com/heyyviv/claude-boot-beats",
-    "published": "Thu, 22 Oct 2026 19:02:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-25"
-  },
-  {
     "source": "GitHub新星",
     "title": "pengchujin/aerial-tv",
     "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
@@ -909,8 +889,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 4707,
-      "forks": 363,
+      "stars": 4973,
+      "forks": 391,
       "language": "Kotlin",
       "createdDaysAgo": 5
     }
@@ -925,10 +905,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 4402,
-      "forks": 725,
+      "stars": 4599,
+      "forks": 761,
       "language": "Java",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "JustAResearcher/gpu-unlock-ada",
+    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "published": "2026-10-23T21:00:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-25",
+    "meta": {
+      "stars": 2561,
+      "forks": 320,
+      "language": "C",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -941,10 +937,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 2271,
-      "forks": 395,
-      "language": null,
-      "createdDaysAgo": 5
+      "stars": 2410,
+      "forks": 422,
+      "language": "Batchfile",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -957,8 +953,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 2038,
-      "forks": 315,
+      "stars": 2092,
+      "forks": 323,
       "language": "C",
       "createdDaysAgo": 6
     }
@@ -973,10 +969,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1843,
-      "forks": 45,
+      "stars": 1933,
+      "forks": 50,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -989,10 +985,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1810,
-      "forks": 272,
+      "stars": 1912,
+      "forks": 283,
       "language": "Swift",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1005,42 +1001,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1779,
-      "forks": 614,
+      "stars": 1788,
+      "forks": 620,
       "language": "Python",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "JustAResearcher/gpu-unlock-ada",
-    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-    "published": "2026-10-23T21:00:53Z",
+    "title": "Jakeschincariol/day-trader-skill",
+    "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "published": "2026-10-20T14:17:54Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-25",
     "meta": {
-      "stars": 1756,
-      "forks": 220,
-      "language": "C",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "9bie/php2shell-bypass-aslr-exp",
-    "summary": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-    "published": "2026-10-21T11:11:57Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-25",
-    "meta": {
-      "stars": 1415,
-      "forks": 415,
+      "stars": 1586,
+      "forks": 352,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
