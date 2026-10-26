@@ -51,6 +51,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通",
+    "summary": "上纬新材、宇树科技连续3日涨幅偏离值累超30%，紧急提示风险；寒武纪董事长辟谣“明年芯片出货超100万颗”传闻；药明康德Q3净利润同比增长137%，上调全年收入指引；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市；苹果据称测试折叠屏大尺寸iPad；全球首创，香港首批合规公募数字基金7*24实时交易获批。",
+    "url": "https://www.tmtpost.com/8182711.html",
+    "published": "Tue, 27 Oct 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "钛媒体",
     "title": "武汉和长江存储等了二十年，A股却散席了",
     "summary": "芯片贵，周期短，武汉难。",
     "url": "https://www.tmtpost.com/8181223.html",
@@ -331,30 +341,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+    "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+    "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "published": "Mon, 26 Oct 2026 22:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
     "source": "TechCrunch",
-    "title": "Startups don’t need to go viral to win customers",
-    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-    "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-    "published": "Fri, 23 Oct 2026 23:07:45 +0000",
+    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+    "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+    "published": "Mon, 26 Oct 2026 18:59:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
     "source": "TechCrunch",
-    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-    "published": "Fri, 23 Oct 2026 20:57:13 +0000",
+    "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+    "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "published": "Mon, 26 Oct 2026 17:45:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic officially files for its public debut",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Affordable humanoid robot maker Noetix reportedly files for Hong Kong IPO",
+    "summary": "Chinese humanoid robot company Noetix Robotics has confidentially filed for a Hong Kong initial public offering that could raise several hundred million dollars, Bloomberg reported. The Beijing-based startup could list as early as 2027, although the fundraising amount and timetable have not been finalized. Founded in September 2023, Noetix develops humanoid robots including its consumer-oriented […]",
+    "url": "https://technode.com/2026/10/26/affordable-humanoid-robot-maker-noetix-reportedly-files-for-hong-kong-ipo/",
+    "published": "Mon, 26 Oct 2026 12:22:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "AI model startup Hypersphere raises hundreds of millions of RMB in angel funding",
+    "summary": "Shenzhen-based AI startup Hypersphere Technology has raised hundreds of millions of RMB in angel funding, according to an October 26 report. Investors included Legend Capital, CAS Star, SenseTime Guoxiang Capital and WestSummit Capital. The company was founded by Chinese University of Hong Kong professor Weiyang Liu and focuses on developing next-generation foundation models. Hypersphere’s approach, […]",
+    "url": "https://technode.com/2026/10/26/ai-model-startup-hypersphere-raises-hundreds-of-millions-of-rmb-in-angel-funding/",
+    "published": "Mon, 26 Oct 2026 12:22:10 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-26"
@@ -590,31 +630,51 @@
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "TechNode",
-    "title": "Scientific simulation and AI-data startup SciVisual raises tens of millions of RMB",
-    "summary": "Chinese scientific simulation and AI-data startup SciVisual has completed angel and angel-plus funding rounds totaling tens of millions of RMB, ChinaVenture reported on October 15. Investors include Shanghai Future Industry Fund, Houxue Capital and Pudong Venture Capital. Founded by University of Science and Technology of China researcher Yang Yuanfan, the Hefei-based company converts complex scientific […]",
-    "url": "https://technode.com/2026/10/15/scientific-simulation-and-ai-data-startup-scivisual-raises-tens-of-millions-of-rmb/",
-    "published": "Thu, 15 Oct 2026 06:38:41 +0000",
+    "source": "Hacker News",
+    "title": "Command and Conquer: Red Alert 3D (Alpha) – Launch Trailer [video]",
+    "summary": "Article URL: https://www.youtube.com/watch?v=_-W_Q_vQD_I Comments URL: https://news.ycombinator.com/item?id=50250822 Points: 3 # Comments: 0",
+    "url": "https://www.youtube.com/watch?v=_-W_Q_vQD_I",
+    "published": "Mon, 26 Oct 2026 20:56:28 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "The Verge",
-    "title": "Now you can watch Instagram Reels on your Apple TV",
-    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]",
-    "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-    "published": "2026-10-25T12:20:17-04:00",
+    "source": "Hacker News",
+    "title": "Ask HN: What would your Startup's Halloween costume be?",
+    "summary": "The costume can contain elements of your product, problem statement or anything related to your startup. Comments URL: https://news.ycombinator.com/item?id=50249836 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=50249836",
+    "published": "Mon, 26 Oct 2026 19:44:31 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "The Verge",
-    "title": "r/opensource just banned AI, non-English speakers, and more",
-    "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "published": "2026-10-25T09:25:32-04:00",
+    "source": "Hacker News",
+    "title": "Brazil's Big bank Itau agrees to buy AI startup NeoSpace for $589M",
+    "summary": "Article URL: https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/ Comments URL: https://news.ycombinator.com/item?id=50244801 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/",
+    "published": "Mon, 26 Oct 2026 14:53:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "US startup's demonstration of lighting Earth from space draws critcism",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites Comments URL: https://news.ycombinator.com/item?id=50242543 Points: 11 # Comments: 0",
+    "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+    "published": "Mon, 26 Oct 2026 12:31:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
+    "summary": "Article URL: https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility Comments URL: https://news.ycombinator.com/item?id=50242510 Points: 2 # Comments: 0",
+    "url": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
+    "published": "Mon, 26 Oct 2026 12:27:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-26"
@@ -622,7 +682,7 @@
   {
     "source": "Hacker News",
     "title": "Researchers at cybersecurity startup Cathedral got inside Anthropic",
-    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50241543 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50241543 Points: 8 # Comments: 2",
     "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
     "published": "Mon, 26 Oct 2026 10:16:27 +0000",
     "lang": "en",
@@ -632,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "How to Start a Defence Tech Startup in the UK: Part 1",
-    "summary": "Article URL: https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1 Comments URL: https://news.ycombinator.com/item?id=50240393 Points: 9 # Comments: 0",
+    "summary": "Article URL: https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1 Comments URL: https://news.ycombinator.com/item?id=50240393 Points: 10 # Comments: 0",
     "url": "https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1",
     "published": "Mon, 26 Oct 2026 07:41:15 +0000",
     "lang": "en",
@@ -642,7 +702,7 @@
   {
     "source": "Hacker News",
     "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 66 # Comments: 25",
+    "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 71 # Comments: 28",
     "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
     "published": "Mon, 26 Oct 2026 03:12:05 +0000",
     "lang": "en",
@@ -770,54 +830,18 @@
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "Hacker News",
-    "title": "Startup raises $200M to create genetically engineered military dogs",
-    "summary": "Article URL: https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/ Comments URL: https://news.ycombinator.com/item?id=50217340 Points: 1 # Comments: 2",
-    "url": "https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/",
-    "published": "Sat, 24 Oct 2026 00:52:44 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#上汽奥迪回应聚焦新能源#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23上汽奥迪回应聚焦新能源%23",
+    "published": "2026-10-26",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-10-26"
-  },
-  {
-    "source": "Hacker News",
-    "title": "iPhone Duo jailbroken on launch day",
-    "summary": "Article URL: https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/ Comments URL: https://news.ycombinator.com/item?id=50216035 Points: 5 # Comments: 1",
-    "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
-    "published": "Fri, 23 Oct 2026 22:08:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-26"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Pursues Palmer Luckey's Vision of Enhanced Military Dogs",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs Comments URL: https://news.ycombinator.com/item?id=50214397 Points: 3 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs",
-    "published": "Fri, 23 Oct 2026 19:49:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-26"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Palmer Luckey Is Launching a Genetically Engineered War Dog Startup",
-    "summary": "Article URL: https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/ Comments URL: https://news.ycombinator.com/item?id=50213118 Points: 28 # Comments: 0",
-    "url": "https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/",
-    "published": "Fri, 23 Oct 2026 18:10:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-26"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Warhound: Palmer Luckey's war dog startup",
-    "summary": "Article URL: https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10 Comments URL: https://news.ycombinator.com/item?id=50210734 Points: 4 # Comments: 1",
-    "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
-    "published": "Fri, 23 Oct 2026 15:32:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-10-26",
+    "meta": {
+      "hotValue": 315895,
+      "rank": 5
+    }
   },
   {
     "source": "V2EX",
@@ -829,7 +853,7 @@
     "type": "community",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "replies": 165,
+      "replies": 174,
       "node": "职场话题"
     }
   },
@@ -843,8 +867,22 @@
     "type": "community",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "replies": 74,
+      "replies": 87,
       "node": "问与答"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "媳妇上个月辞职出来创业了",
+    "summary": "行业是青少年脊柱侧弯康复矫正，她是做施罗斯体操私教课的的康复师。 去年她原来的公司黄了，她自己又找个一个机构打工，一年以后因为各种因素辞职了，准备自己单干。我就老老实实上班，没事的时候给她出谋划策，解决 IT 问题，顺便她上课和看诊的时候给她做摄影师。 上个月我们找了一个商业公寓楼租了一个跃层，一楼办公，二楼改造成了训练区。简单收拾了一下就开干了。因为她辞职之前就积累了很多患者，有大概 5 个左右的家长在原来的机构退费了，到她这里重新交了钱继续训练，也就成了我们现在的启动资金。 这一个月跑手续，申请营业执照，注册地图，抖音上团购。前几天又买了个新手机用来运营和录视频，启动资金",
+    "url": "https://www.v2ex.com/t/1251868",
+    "published": 1792991152,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-26",
+    "meta": {
+      "replies": 76,
+      "node": "职场话题"
     }
   },
   {
@@ -857,8 +895,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 5761,
-      "forks": 482,
+      "stars": 6030,
+      "forks": 506,
       "language": "Kotlin",
       "createdDaysAgo": 6
     }
@@ -873,10 +911,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 3464,
-      "forks": 463,
+      "stars": 3805,
+      "forks": 497,
       "language": "C",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -889,10 +927,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 2012,
-      "forks": 297,
+      "stars": 2068,
+      "forks": 305,
       "language": "Swift",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -905,10 +943,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 2001,
-      "forks": 56,
+      "stars": 2055,
+      "forks": 60,
       "language": "Rust",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -921,10 +959,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 1850,
-      "forks": 390,
+      "stars": 2044,
+      "forks": 424,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rddmwmddr/android-ad-cleaner",
+    "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "published": "2026-10-24T05:35:47Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-26",
+    "meta": {
+      "stars": 1847,
+      "forks": 153,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -937,8 +991,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 1818,
-      "forks": 628,
+      "stars": 1830,
+      "forks": 629,
       "language": "Python",
       "createdDaysAgo": 5
     }
