@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "商业火箭完成新一轮发射，航天供应链聚焦可靠交付",
+    "summary": "",
+    "url": "https://www.cyzone.cn/article/850626.html",
+    "published": "Mon, 26 Oct 2026 02:21:00 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "创业邦",
     "title": "垠石汽车完成亿元级A+轮融资 推进重载线控制动量产",
     "summary": "近日，垠石汽车宣布完成亿元级A+轮融资，由北京顺义产投基金独家投资。资金将用于完善团队、建设量产生产线等，推进重载一体式线控制动技术量产。公司称，其液压集成式线控制动系统已获得多个主机厂定点订单。 据天眼查显示，北京垠石汽车技术有限公司曾用名为天津垠石精工技术有限公司。该主体的“液压集成式线控制动系统”发明专利于2025年8月获授权。摘要记载，该方案针对电子液压制动系统冗余能力有限的问题，通过多个液压回路和相互独立的油壶，在制动解耦的同时保证冗余制动效果。",
     "url": "https://www.cyzone.cn/article/849521.html",
@@ -41,40 +51,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "字节掀桌，巨头抱团，短剧出海打响“内战”",
-    "summary": "狂飙的下载量，焦虑的利润表。",
-    "url": "https://www.tmtpost.com/8181419.html",
-    "published": "Mon, 26 Oct 2026 10:54:32 +0800",
+    "title": "武汉和长江存储等了二十年，A股却散席了",
+    "summary": "芯片贵，周期短，武汉难。",
+    "url": "https://www.tmtpost.com/8181223.html",
+    "published": "Mon, 26 Oct 2026 18:33:16 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
     "source": "钛媒体",
-    "title": "七成收入押在欧洲，大金重工对德交付10根单桩，中国风电企业的缺口红利还能吃多久？",
-    "summary": "大金重工运欧单桩，风电出海受欧规则变量约束。",
-    "url": "https://www.tmtpost.com/8181297.html",
-    "published": "Mon, 26 Oct 2026 09:59:00 +0800",
+    "title": "任富佳接班后的第一笔大买卖：老板电器买什么",
+    "summary": "大力出海，还是国内下沉？",
+    "url": "https://www.tmtpost.com/8182206.html",
+    "published": "Mon, 26 Oct 2026 18:25:31 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "钛媒体",
-    "title": "从“天感地算”到“天数天算”：中国企业在太空布局算力枢纽",
-    "summary": "传统航天 “天感地算” 模式下，95% 太空数据因带宽限制被废弃。国内多支科研与商业团队发力**天数天算**，实现卫星在轨 AI 计算、只传有效决策。从数据收集到太空决策，中国太空算力组网加速落地，开启商业航天智能化新变革。",
-    "url": "https://www.tmtpost.com/8181256.html",
-    "published": "Mon, 26 Oct 2026 09:54:08 +0800",
+    "source": "极客公园",
+    "title": "今年的 1024，可能是最后一个程序员节",
+    "summary": "作者｜Wildcard 编辑｜靖宇 今天一整天， X 上都有人在讨论，「 1024 程序员节日快乐，今年会不会是最后一个程序员节了 」。 这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说 AI 工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的黄金键帽，应该发给 AI」。 一家机构的节日推文写得更直白，「今年的程序员节，我们扩招了，会指挥 AI 做东西的，也算程序员」。 而在小红书上，有程序员在「古法编程时代」的标签下清理旧书，《图解 HTTP》三块一本，算法书十块。另一条帖子的标题是「程序员的书，多抓鱼都不收」，最后卖出去的几本里，最贵的竟然是《人月神话》。 一个节日，被放了假，被扩了招，连它的「圣经」都在二手市场上打折。 节日通常不会死于被取消。它死于没有人再需要它来确认自己是谁。要理解这句话，得先回到这个节日是怎么来的。 01 从码农的暗号到所有人的节日 1024 从来不是一个官方节日。它的远亲是俄罗斯 2009 年定下的「第",
+    "url": "http://www.geekpark.net/news/372944",
+    "published": "Mon, 26 Oct 2026 18:16:50 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "钛媒体",
-    "title": "IPO暂缓，智元机器人何去何从？",
-    "summary": "卖机器人也要讲究复购和出海了。",
-    "url": "https://www.tmtpost.com/8181407.html",
-    "published": "Mon, 26 Oct 2026 09:48:33 +0800",
+    "source": "极客公园",
+    "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+    "summary": "作者｜宇航猿 编辑｜靖宇 10 月 23 日上午，Kimi 官方在 X 和视频号上发了一段 24 秒的视频。 画面里是一台复古风格的老式电脑，屏幕上开着 Kimi Code，终端里一行行地写着 Three.js 代码，在生成一个复杂的 3D 场景。眼尖的网友很快在左上角的模型栏里找到了答案——「Model: Kimi K3.1」。 Kimi 官方发布的 K3.1 预热视频｜图片来源：X @Kimi_Moonshot 用一台老古董般的机器，跑一段今天最前沿的 3D 代码，这个反差本身就是月之暗面想说的话。 十几个小时后，10 月 24 日零点刚过，卡着程序员节，Kimi K3.1 Pro 正式上线，同步推出的还有一个速度快 2 到 3 倍的 Highspeed 版本。官方承诺，完整模型权重将在 11 月 4 日前放出。 距离上一代 K3 发布，过去了三个多月。这三个月里，月之暗面经历的事情，比大多数公司一年还多。 01 「加量不加价」的 0.1 先说清楚 K3.1 Pro 是什么。 它不是一个全新的模型。月之暗面明确表示，K3.1 Pro 是 K3 的后训练版本，底座没换——仍然是 2.",
+    "url": "http://www.geekpark.net/news/372943",
+    "published": "Mon, 26 Oct 2026 18:16:08 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-26"
@@ -310,26 +320,6 @@
     "fetchedAt": "2026-10-26"
   },
   {
-    "source": "极客公园",
-    "title": "iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己",
-    "summary": "苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。开售一分钟左右，各大电商平台即显示该机型售罄。 目前官网仍可下单，预计发货时间排至 1 月 22 日，2026 年的备货已全部售罄。受折叠屏铰链、柔性内屏产能爬坡周期长于直板机型、首批备货有限叠加首发集中抢购影响，交期被拉长。后续随着产能释放，发货排期将逐步前移，已抢到 11 月、12 月批次的用户或提前半个月拿到新机。 该机型维修费用极高，非 AppleCare+用户更换内屏需 7998 元，外屏需 3198 元，电池维修费用达 1898 元，建议自用用户选购 AppleCare+。(来源：IT 之家） 马斯克回应 Grok Bot 被亚马逊封禁：不让 AI 智能体网购，就考虑自建电商平台 科技媒体 notateslaapp 10 月 15 日发布博文，报道称有用户反馈亚马逊阻止 Grok Bot ",
-    "url": "http://www.geekpark.net/news/372488",
-    "published": "Sat, 17 Oct 2026 08:22:32 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-26"
-  },
-  {
-    "source": "极客公园",
-    "title": "为什么 Anthropic 不做 Personal AI",
-    "summary": "不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。 它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是： 「 built to handle everything 」，什么都能接。 三周前的 9 月 8 日， Meta 推出了 Muse，同样有独立的云端虚拟机，同样能在后台持续工作，同样顶着一个萌萌的卡通形象，而且直接住进了 WhatsApp。市场的反馈相当热烈，Apptopia 的估算显示，Muse 上线 12 天全平台装机量约 280 万，一度冲上美区 App Store 总榜第一。 OpenAI CEO Sam Altman 发布个人助理 dots｜图片来源：PCMag 再算上 Google 的 Gemini Spark 和 SpacexAI 的 Grok Bot， 「always-on 个人 agent」成了 2026 年秋天最拥挤的赛道 。 不过，名单里少了一个名",
-    "url": "http://www.geekpark.net/news/372461",
-    "published": "Fri, 16 Oct 2026 14:50:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-26"
-  },
-  {
     "source": "爱范儿",
     "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
     "summary": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 · 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND · Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -370,6 +360,246 @@
     "fetchedAt": "2026-10-26"
   },
   {
+    "source": "TechNode",
+    "title": "Unitree’s newly launched H2-X Robot loses a leg in public demonstration",
+    "summary": "Unitree Robotics’ H2-X humanoid robot, which had been unveiled just one day earlier, suffered an accident while performing a side flip at the 2026 World Physical AI Conference and Unitree Robotics Partner Ecosystem Conference in Hangzhou last Thursday. The robot lost its balance upon landing and fell sideways, causing one of its mechanical lower legs […]",
+    "url": "https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/",
+    "published": "Mon, 26 Oct 2026 07:02:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot chipmaker Huixi completes Series B financing led by Beijing AI fund",
+    "summary": "Chinese robotics chip company Huixi Technology has completed Pre-Series B-plus and Series B financing, the company announced on October 22. The financing was led by the Beijing Artificial Intelligence Industry Investment Fund, with participation from the Beijing Robotics Industry Development Investment Fund, Hidden Hill Capital and other investors. Existing shareholders, including Shunwei Capital and Cathay […]",
+    "url": "https://technode.com/2026/10/23/robot-chipmaker-huixi-completes-series-b-financing-led-by-beijing-ai-fund/",
+    "published": "Fri, 23 Oct 2026 13:51:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance launches Seedance 2.5 4K video model for film production",
+    "summary": "ByteDance’s cloud platform Volcano Engine released Seedance 2.5 4K on October 23, targeting film and television production with higher-resolution video generation. The company said additional training improves the rendering of facial expressions, subtle movements and visual details. The model is currently available for trials by selected enterprise customers. A Draft mode allows users to test […]",
+    "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+    "published": "Fri, 23 Oct 2026 13:51:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Desktop CNC startup CubiFab raises tens of millions of RMB to scale production",
+    "summary": "Shenzhen-based CubiFab has raised tens of millions of RMB in a new funding round from Nanshan Strategic Emerging Industries Investment and Longhua Capital, according to an October 23 announcement. The desktop CNC company will use the proceeds to scale production and deliveries of its first product, the CubiFab C1, strengthen its supply chain and expand […]",
+    "url": "https://technode.com/2026/10/23/desktop-cnc-startup-cubifab-raises-tens-of-millions-of-rmb-to-scale-production/",
+    "published": "Fri, 23 Oct 2026 13:51:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek reportedly raises $15 billion ahead of potential Shanghai IPO",
+    "summary": "DeepSeek has completed a $15 billion private funding round, nearly doubling its initial target following strong investor demand, The Wall Street Journal reported on October 22, citing people familiar with the matter. The Chinese AI developer is also accelerating preparations for a potential Shanghai listing early next year, according to the report. The financing would […]",
+    "url": "https://technode.com/2026/10/23/deepseek-reportedly-raises-15-billion-ahead-of-potential-shanghai-ipo/",
+    "published": "Fri, 23 Oct 2026 13:51:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Why This AI Startup Is Taking a Different Path From Wonderful",
+    "summary": "Editor’s note: This article was written by Lucia, a TechNode reporter. For businesses adopting AI, the question is no longer simply which model to use. It is also where AI should run, how much it will cost, and whether sensitive data can remain under the company’s control. PeakVision AI’s answer is to bring more AI […]",
+    "url": "https://technode.com/2026/10/23/why-this-ai-startup-is-taking-a-different-path-from-wonderful/",
+    "published": "Fri, 23 Oct 2026 04:26:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance’s PineDrama targets overseas growth with an ecosystem behind its free model",
+    "summary": "ByteDance is extending the competition in China’s short-drama market to overseas markets. According to Jiemian News, PineDrama, ByteDance’s overseas short-drama platform, is operated independently by a team within TikTok’s business division rather than by the team behind Hongguo Short Drama. Since its launch, the platform has seen sustained download growth and has entered the top […]",
+    "url": "https://technode.com/2026/10/23/bytedances-pinedrama-targets-overseas-growth-with-an-ecosystem-behind-its-free-model/",
+    "published": "Fri, 23 Oct 2026 03:40:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Cleaning robotics startup Jingji Intelligent raises tens of millions of RMB in seed funding",
+    "summary": "Shanghai-based cleaning robotics startup Jingji Intelligent has raised tens of millions of RMB in seed funding from Haowen Tianshu Robotics and Shanghai Lanyun Industrial Development. The financing, disclosed on October 20, comes about a month after the company’s establishment in September. Jingji focuses on cleaning vertical surfaces, countertops and sanitary fixtures, applying force control, machine […]",
+    "url": "https://technode.com/2026/10/21/cleaning-robotics-startup-jingji-intelligent-raises-tens-of-millions-of-rmb-in-seed-funding/",
+    "published": "Wed, 21 Oct 2026 07:46:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot hardware startup YITA secures funding from Galbot and Fourier",
+    "summary": "Chinese robot hardware startup YITA announced on October 20 that it has raised more than RMB 100 million across its seed and seed-plus rounds. Investors included Galbot, Fourier, Matrix Partners China, CCB International, SenseTime Guoxiang Capital and the L2F founder fund. Lighthouse Capital served as the company’s incubator and exclusive financial adviser. Founded in May […]",
+    "url": "https://technode.com/2026/10/21/robot-hardware-startup-yita-secures-funding-from-galbot-and-fourier/",
+    "published": "Wed, 21 Oct 2026 07:46:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches second-generation Seagull from RMB 65,900 with flash charging on higher trims",
+    "summary": "BYD launched its second-generation Seagull electric hatchback in China on October 20, with five variants priced from RMB 65,900 to RMB 99,900. The redesigned model expands from four seats to five and switches from front-wheel drive to rear-wheel drive, while adding more cabin space and a front storage compartment. The new Seagull measures 4,205mm long […]",
+    "url": "https://technode.com/2026/10/21/byd-launches-second-generation-seagull-from-rmb-65900-with-flash-charging-on-higher-trims/",
+    "published": "Wed, 21 Oct 2026 07:46:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "What if AI could remember your adventures for you? Souvi is exploring the idea",
+    "summary": "As more AI hardware focuses on voice assistants, information processing, and workplace productivity, one Chinese startup is taking a different approach by using AI to help people preserve their life experiences. Shanghai-based Vibe Technology has introduced Souvi, an outdoor AI memory device designed for activities such as hiking, camping, travel, and urban exploration. By combining […]",
+    "url": "https://technode.com/2026/10/20/what-if-ai-could-remember-your-adventures-for-you-souvi-is-exploring-the-idea/",
+    "published": "Tue, 20 Oct 2026 08:38:14 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "SenseTime co-founder’s ACE Robotics releases model for robot spatial perception",
+    "summary": "ACE Robotics, founded by SenseTime co-founder Xiaogang Wang, released its ACE-Brain-0.6 embodied AI model on October 19. Built through supervised fine-tuning of Qwen3.5-9B, the model focuses on identifying objects, locating them in images and determining where a robot can interact with them. The company said it trained the model using approximately 1 million spatial-grounding samples. […]",
+    "url": "https://technode.com/2026/10/20/sensetime-co-founders-ace-robotics-releases-model-for-robot-spatial-perception/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Chery unveils automotive chip lineup spanning AI computing, silicon carbide and vehicle control",
+    "summary": "Chery unveiled its Ziwei automotive chip lineup at its global innovation conference on October 20. The portfolio comprises C-series central computing chips, S-series automotive silicon carbide chips and M-series vehicle-control chips, extending the automaker’s semiconductor development across computing and power electronics. The C100 central computing chip targets on-device physical AI. Chery said a vehicle configuration […]",
+    "url": "https://technode.com/2026/10/20/chery-unveils-automotive-chip-lineup-spanning-ai-computing-silicon-carbide-and-vehicle-control/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Autonomous delivery vehicle maker Neolix raises nearly $400 million in Series E funding",
+    "summary": "Chinese autonomous delivery vehicle company Neolix announced on October 20 that it has completed a nearly $400 million Series E funding round. Boyu Capital and a national-level fund jointly led the round. Jiemian, citing people familiar with the investment, identified the latter as China’s National Artificial Intelligence Industry Investment Fund. Other investors included Alibaba’s AEF […]",
+    "url": "https://technode.com/2026/10/20/autonomous-delivery-vehicle-maker-neolix-raises-nearly-400-million-in-series-e-funding/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "China’s AI microdrama boom joins a global surge in mobile viewing",
+    "summary": "Tencent has recently introduced Lüpaopao, a free short-drama service inside WeChat, offering AI-generated series alongside live-action and animated titles. The mini-program adds another distribution channel to China’s expanding market for serialized mobile entertainment. ByteDance’s Hongguo reached 168 million daily active users in July, up 107% year on year, according to QuestMobile figures cited in Nomura […]",
+    "url": "https://technode.com/2026/10/20/china-ai-microdrama-boom-global-mobile-viewing/",
+    "published": "Tue, 20 Oct 2026 05:05:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Rokid brings voice-based ride-hailing to AI glasses through Tencent partnership",
+    "summary": "Rokid has partnered with Tencent Mobility Services to launch ride-hailing through its AI glasses. Announced on October 16, the service lets users state a destination by voice and receive vehicle details and estimated arrival times through the glasses. The integration connects Rokid’s assistant with Tencent’s travel-service agent using the Agent-to-Agent protocol. Tencent provides functions including […]",
+    "url": "https://technode.com/2026/10/19/rokid-brings-voice-based-ride-hailing-to-ai-glasses-through-tencent-partnership/",
+    "published": "Mon, 19 Oct 2026 06:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Former Huawei engineer’s robot AI startup Gewu Tongzhi raises nearly RMB 100 million",
+    "summary": "Hangzhou-based robot AI startup Gewu Tongzhi has completed an angel funding round of nearly RMB 100 million, according to reports published on October 18. Investors include Hongfu Asset Management, Peak Investment, Hangzhou Capital and Hangzhou Talent Group. Founded in 2026, the company develops AI for dexterous robotic manipulation, combining world models with learning from physical […]",
+    "url": "https://technode.com/2026/10/19/former-huawei-engineers-robot-ai-startup-gewu-tongzhi-raises-nearly-rmb-100-million/",
+    "published": "Mon, 19 Oct 2026 06:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Meituan leads Series D funding for collaborative robot maker FAIRINO",
+    "summary": "Chinese collaborative robot maker FAIRINO has completed Series D financing led by Meituan, following a Series C+ round led by Meituan’s Long-Z investment arm. The company disclosed the latest financing in October, with proceeds supporting production expansion and industrial robotics development. The two rounds together raised nearly RMB 1 billion. Other participating investors included Yongxin […]",
+    "url": "https://technode.com/2026/10/19/meituan-leads-series-d-funding-for-collaborative-robot-maker-fairino/",
+    "published": "Mon, 19 Oct 2026 06:41:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "DeepSeek launches web search and page-fetching APIs for AI agents",
+    "summary": "DeepSeek has launched Search and Fetch APIs, opening its proprietary search engine to developers building AI agents and applications that retrieve external information. Search returns structured web results, while Fetch extracts a webpage’s title and content as Markdown. Both services cost RMB 5 per 1,000 successful requests. Failed requests, empty search results and timeouts are […]",
+    "url": "https://technode.com/2026/10/19/deepseek-launches-web-search-and-page-fetching-apis-for-ai-agents/",
+    "published": "Mon, 19 Oct 2026 06:41:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot AI developer Ruoyu secures Pre-A funding led by Sunway Communication",
+    "summary": "Shenzhen-based robot AI developer Ruoyu Technology has completed a nine-figure RMB Pre-A funding round led by Sunway Communication, 36Kr reported on October 15. Other investors include Jinmu Capital, Qindao Capital, Huanghai Capital and Zhongchuang Capital. Founded in 2023 and incubated by Harbin Institute of Technology, Shenzhen, Ruoyu develops AI systems that help robots perceive environments, […]",
+    "url": "https://technode.com/2026/10/16/robot-ai-developer-ruoyu-secures-pre-a-funding-led-by-sunway-communication/",
+    "published": "Fri, 16 Oct 2026 08:32:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple Intelligence to enter China beta testing this month, Tim Cook confirms",
+    "summary": "Apple will release a beta version of Apple Intelligence in China later in October, executive chairman Tim Cook confirmed in an interview in Shanghai on October 15. Cook said the initial features and the associated Alibaba Qwen models had received regulatory approval. The first batch will include live translation, writing tools and photo cleanup, while […]",
+    "url": "https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/",
+    "published": "Fri, 16 Oct 2026 08:32:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Desktop manufacturing startup InfiMaker raises tens of millions of dollars in Pre-A+ funding",
+    "summary": "Chinese desktop manufacturing startup InfiMaker has completed a Pre-A+ funding round worth tens of millions of dollars from IDG Capital and Kunlun Capital, STAR Market Daily reported on October 15. The company develops compact five-axis computer numerical control machines for professional users and creators. Founded in 2024 by former DJI employees and robotics researchers, InfiMaker […]",
+    "url": "https://technode.com/2026/10/16/desktop-manufacturing-startup-infimaker-raises-tens-of-millions-of-dollars-in-pre-a-funding/",
+    "published": "Fri, 16 Oct 2026 08:32:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "XPENG opens MONA L05 SUV presales from RMB 169,800",
+    "summary": "XPENG opened presales for its MONA L05 five-seat SUV in China on October 15, with five variants priced between RMB 169,800 and RMB 191,800. The official launch is scheduled for October 29, with both battery-electric and extended-range versions available. The electric versions offer CLTC ranges of 535 or 635 kilometers, while the extended-range versions have […]",
+    "url": "https://technode.com/2026/10/16/xpeng-opens-mona-l05-suv-presales-from-rmb-169800/",
+    "published": "Fri, 16 Oct 2026 08:32:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "Scientific simulation and AI-data startup SciVisual raises tens of millions of RMB",
+    "summary": "Chinese scientific simulation and AI-data startup SciVisual has completed angel and angel-plus funding rounds totaling tens of millions of RMB, ChinaVenture reported on October 15. Investors include Shanghai Future Industry Fund, Houxue Capital and Pudong Venture Capital. Founded by University of Science and Technology of China researcher Yang Yuanfan, the Hefei-based company converts complex scientific […]",
+    "url": "https://technode.com/2026/10/15/scientific-simulation-and-ai-data-startup-scivisual-raises-tens-of-millions-of-rmb/",
+    "published": "Thu, 15 Oct 2026 06:38:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
     "source": "The Verge",
     "title": "Now you can watch Instagram Reels on your Apple TV",
     "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]",
@@ -390,6 +620,206 @@
     "fetchedAt": "2026-10-26"
   },
   {
+    "source": "Hacker News",
+    "title": "Researchers at cybersecurity startup Cathedral got inside Anthropic",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50241543 Points: 1 # Comments: 0",
+    "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+    "published": "Mon, 26 Oct 2026 10:16:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Start a Defence Tech Startup in the UK: Part 1",
+    "summary": "Article URL: https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1 Comments URL: https://news.ycombinator.com/item?id=50240393 Points: 9 # Comments: 0",
+    "url": "https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1",
+    "published": "Mon, 26 Oct 2026 07:41:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 66 # Comments: 25",
+    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+    "published": "Mon, 26 Oct 2026 03:12:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: OSS framework to launch Instinct like iMessage assistants",
+    "summary": "I built Instinct internally for a product of ours 6 months back, and it got 2000 users within a couple weeks organically. I am now open-sourcing the framework I used so anyone can launch Instinct like experiences on WhatsApp and iMessage. Comments URL: https://news.ycombinator.com/item?id=50234591 Points: 1 # Comments: 0",
+    "url": "https://github.com/flow-engineer/flow",
+    "published": "Sun, 25 Oct 2026 18:34:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Space Startup Is Coming Out of Stealth with Seven-Figure Deals",
+    "summary": "Article URL: https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/ Comments URL: https://news.ycombinator.com/item?id=50231312 Points: 2 # Comments: 0",
+    "url": "https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/",
+    "published": "Sun, 25 Oct 2026 13:24:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
+    "summary": "Article URL: https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/ Comments URL: https://news.ycombinator.com/item?id=50230059 Points: 1 # Comments: 0",
+    "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+    "published": "Sun, 25 Oct 2026 10:27:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
+    "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Comments URL: https://news.ycombinator.com/item?id=50229386 Points: 2 # Comments: 0",
+    "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
+    "published": "Sun, 25 Oct 2026 08:21:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "UK government sets out $800M of AI security funding",
+    "summary": "Article URL: https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50227867 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+    "published": "Sun, 25 Oct 2026 03:00:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI Generated launch videos are starting to get insane",
+    "summary": "Article URL: https://motioncrackers.com Comments URL: https://news.ycombinator.com/item?id=50226290 Points: 3 # Comments: 1",
+    "url": "https://motioncrackers.com",
+    "published": "Sat, 24 Oct 2026 22:58:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Start a Startup Game",
+    "summary": "Article URL: https://www.neuroplusgbrain.net/ Comments URL: https://news.ycombinator.com/item?id=50225603 Points: 1 # Comments: 0",
+    "url": "https://www.neuroplusgbrain.net/",
+    "published": "Sat, 24 Oct 2026 21:36:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "iPhone Duo Preorders Face Months-Long Waits, Walk-Ins Get Phones on Launch Day",
+    "summary": "Article URL: https://www.gadgetreview.com/apples-iphone-duo-preorder-customers-face-months-long-waits-while-walk-in-shoppers-get-phones-on-launch-day Comments URL: https://news.ycombinator.com/item?id=50223663 Points: 1 # Comments: 1",
+    "url": "https://www.gadgetreview.com/apples-iphone-duo-preorder-customers-face-months-long-waits-while-walk-in-shoppers-get-phones-on-launch-day",
+    "published": "Sat, 24 Oct 2026 18:07:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
+    "summary": "Article URL: https://rentry.co/themis-docket-e61b189e37 Comments URL: https://news.ycombinator.com/item?id=50222576 Points: 4 # Comments: 0",
+    "url": "https://rentry.co/themis-docket-e61b189e37",
+    "published": "Sat, 24 Oct 2026 16:01:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: MCP server that answers Steam launch questions with real counts",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50220217 Points: 1 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=50220217",
+    "published": "Sat, 24 Oct 2026 11:21:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "US-Israeli browser startup valued at $6.4B",
+    "summary": "Article URL: https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/ Comments URL: https://news.ycombinator.com/item?id=50219588 Points: 17 # Comments: 30",
+    "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
+    "published": "Sat, 24 Oct 2026 09:38:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+    "summary": "Article URL: https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip Comments URL: https://news.ycombinator.com/item?id=50218965 Points: 4 # Comments: 0",
+    "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+    "published": "Sat, 24 Oct 2026 07:16:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup raises $200M to create genetically engineered military dogs",
+    "summary": "Article URL: https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/ Comments URL: https://news.ycombinator.com/item?id=50217340 Points: 1 # Comments: 2",
+    "url": "https://nypost.com/2026/10/23/business/silicon-valley-startup-raises-200m-to-create-genetically-engineered-military-dogs-captain-america-meets-iron-man/",
+    "published": "Sat, 24 Oct 2026 00:52:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "iPhone Duo jailbroken on launch day",
+    "summary": "Article URL: https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/ Comments URL: https://news.ycombinator.com/item?id=50216035 Points: 5 # Comments: 1",
+    "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
+    "published": "Fri, 23 Oct 2026 22:08:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Pursues Palmer Luckey's Vision of Enhanced Military Dogs",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs Comments URL: https://news.ycombinator.com/item?id=50214397 Points: 3 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs",
+    "published": "Fri, 23 Oct 2026 19:49:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Palmer Luckey Is Launching a Genetically Engineered War Dog Startup",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/ Comments URL: https://news.ycombinator.com/item?id=50213118 Points: 28 # Comments: 0",
+    "url": "https://www.motherjones.com/politics/2026/10/palmer-luckey-anduril-warhound-colossal-genetically-engineered-military-dog/",
+    "published": "Fri, 23 Oct 2026 18:10:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Warhound: Palmer Luckey's war dog startup",
+    "summary": "Article URL: https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10 Comments URL: https://news.ycombinator.com/item?id=50210734 Points: 4 # Comments: 1",
+    "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
+    "published": "Fri, 23 Oct 2026 15:32:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-26"
+  },
+  {
     "source": "V2EX",
     "title": "创业一年了，还活着",
     "summary": "去年有了创业的想法，[说好一年后说说后续]( https://www.v2ex.com/t/1121404#reply115)，后续这就来了 这一年多发生的事情太多了，感觉一直在出现问题解决问题，但是好像也没沉淀下来什么，那就在这记一下，也跟大家分享一下吧。 ## 业绩 很多人最想找到的是有没有赚钱？那就先给大家看看真实的数据（~~商业机密~~） ```plain 实际开售：2025 年 8 月，至今 14 个月 实际投入：14w （旧店 12w ，新店 2w ） 累计支出：49w （采购、物流、工资等） 累计销量：6k+ 累计销售额：76w （人",
@@ -399,8 +829,22 @@
     "type": "community",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "replies": 73,
+      "replies": 165,
       "node": "职场话题"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "来聊聊大家第一次被 AI 真正震撼到的瞬间吧",
+    "summary": "我现在每天写代码、查资料全离不开各种大模型，大伙儿也肯定早就习惯了。刚才改着改着代码，看着终端又自动跑通了一遍逻辑，突然有感而发，想发个帖和大家聊聊： 我最开始接触 ChatBot 时，只觉得是个好玩的新玩具。后来用上 Copilot ，也只当是个更趁手的代码补全插件。真正被震住是第一次用 Coding Agent 的那天晚上：大半夜在房间里，我随手丢了一长串自然语言需求，按下了回车。 结果屏幕上的光标开始自己建文件、写逻辑、跑测试，甚至报了错还能自己停一下回头打补丁。我手直接从键盘上缩了回来，就坐在椅子上愣愣地看着它一行行自己往下滚。 那天晚上我关了电脑躺在床上，整晚都没睡",
+    "url": "https://www.v2ex.com/t/1251765",
+    "published": 1792978355,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-26",
+    "meta": {
+      "replies": 74,
+      "node": "问与答"
     }
   },
   {
@@ -413,10 +857,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 5237,
-      "forks": 425,
+      "stars": 5761,
+      "forks": 482,
       "language": "Kotlin",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -429,26 +873,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 2945,
-      "forks": 378,
+      "stars": 3464,
+      "forks": 463,
       "language": "C",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "xevrion/hatchzip",
-    "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-    "url": "https://github.com/xevrion/hatchzip",
-    "published": "2026-10-21T17:29:28Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-26",
-    "meta": {
-      "stars": 1956,
-      "forks": 52,
-      "language": "Rust",
-      "createdDaysAgo": 4
     }
   },
   {
@@ -461,25 +889,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 1952,
-      "forks": 287,
+      "stars": 2012,
+      "forks": 297,
       "language": "Swift",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "ikow/php2shell-poc",
-    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-    "url": "https://github.com/ikow/php2shell-poc",
-    "published": "2026-10-21T07:55:16Z",
+    "title": "xevrion/hatchzip",
+    "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+    "url": "https://github.com/xevrion/hatchzip",
+    "published": "2026-10-21T17:29:28Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 1799,
-      "forks": 623,
-      "language": "Python",
+      "stars": 2001,
+      "forks": 56,
+      "language": "Rust",
       "createdDaysAgo": 4
     }
   },
@@ -493,8 +921,24 @@
     "type": "signal",
     "fetchedAt": "2026-10-26",
     "meta": {
-      "stars": 1700,
-      "forks": 365,
+      "stars": 1850,
+      "forks": 390,
+      "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ikow/php2shell-poc",
+    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "published": "2026-10-21T07:55:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-26",
+    "meta": {
+      "stars": 1818,
+      "forks": 628,
       "language": "Python",
       "createdDaysAgo": 5
     }
