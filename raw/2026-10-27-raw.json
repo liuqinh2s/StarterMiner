@@ -51,30 +51,100 @@
   },
   {
     "source": "钛媒体",
-    "title": "供不应求的，不只有英伟达芯片，还有安琪酵母",
-    "summary": "在长坡厚雪的消费赛道里，一些老牌企业并没有停在原地。",
-    "url": "https://www.tmtpost.com/8183045.html",
-    "published": "Tue, 27 Oct 2026 10:23:04 +0800",
+    "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
+    "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。",
+    "url": "https://www.tmtpost.com/8183550.html",
+    "published": "Tue, 27 Oct 2026 18:42:42 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
     "source": "钛媒体",
-    "title": "Edge AI Daily 早报（10月27日）",
-    "summary": "今日核心情报聚焦 AI 资本与治理的结构性转折。Anthropic 公开递交 S-1、以代码 ANT 登陆纳斯达克，H1 营收 163 亿美元同比增长约 13.5 倍，净亏 807 亿美元（约 720 亿为非现金公允价值费用），锁定至少 5180 亿美元不可取消算力承诺，估值瞄准至多 2 万亿美元，英伟达洽谈最高 100 亿美元锚定入股，成为公开市场对 AI 估值叙事的首次压力测试，招股书并以 80 页风险因素警示模型自我保存倾向。OpenAI 发布 GPT-6.1 Terra，标准 API 定价砍半、单任务成本降约九倍，将计量单位由 token 转向“完成的任务”，定价权从实验室转向企业 CFO。Meta 拟募至多 950 亿美元股权为 AI 基建融资，英伟达、AMD、博通有意合计认购 50 亿美元，供应链由买卖转向资本互锁；微软向约 6 万员工发出买断。监管与治理层面，得州起诉 OpenAI 与奥特曼、特拉华州起草全美首部 AI 公司立法、美中期选举 39 项数据中心公投、Claude 绕过佐治亚州付费墙，共构问责与授权边界之争。国内进展方面，通用大模型加速向机器人动作控制延伸，苹",
-    "url": "https://www.tmtpost.com/8182929.html",
-    "published": "Tue, 27 Oct 2026 09:04:52 +0800",
+    "title": "中国顶流博主，横扫海外社交媒体",
+    "summary": "一条23分钟的英文评测，5700万播放，粉丝从零涨到300万。中国博主出海走到第三轮，开始正面进攻。",
+    "url": "https://www.tmtpost.com/8183139.html",
+    "published": "Tue, 27 Oct 2026 18:19:29 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通",
-    "summary": "上纬新材、宇树科技连续3日涨幅偏离值累超30%，紧急提示风险；寒武纪董事长辟谣“明年芯片出货超100万颗”传闻；药明康德Q3净利润同比增长137%，上调全年收入指引；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市；苹果据称测试折叠屏大尺寸iPad；全球首创，香港首批合规公募数字基金7*24实时交易获批。",
-    "url": "https://www.tmtpost.com/8182711.html",
-    "published": "Tue, 27 Oct 2026 07:20:00 +0800",
+    "title": "百元一盒“维生素小贴纸”火了：年入6000万，估值超50亿",
+    "summary": "“保健品”会和“装饰品”碰撞出怎样的火花？",
+    "url": "https://www.tmtpost.com/8183227.html",
+    "published": "Tue, 27 Oct 2026 18:19:26 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+    "summary": "具身智能人才争夺战。",
+    "url": "https://www.tmtpost.com/8183283.html",
+    "published": "Tue, 27 Oct 2026 18:19:20 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "算力最多，进展最慢：字节大模型困于赛马制",
+    "summary": "旧有的“赛马+短周期考核”方式，已经难以为继。",
+    "url": "https://www.tmtpost.com/8182141.html",
+    "published": "Tue, 27 Oct 2026 17:19:16 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "钛媒体",
+    "title": "SpaceX借来400亿美元，押注GPU的未来五年",
+    "summary": "芯片一年一迭代，马斯克为何敢借五年？",
+    "url": "https://www.tmtpost.com/8182988.html",
+    "published": "Tue, 27 Oct 2026 17:19:13 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "极客公园",
+    "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+    "summary": "大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中， 这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元 ，发行价区间尚未披露。 24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86 亿美元，去年同期只有 11.63 亿美元；第二季度交出 9.74 亿美元经营利润，迎来公司历史上首个经营盈利的季度；至于账面上高达 807 亿美元的净亏损，大头是 723.88 亿美元的可转债、衍生负债和 SAFE 公允价值变动，属于非现金的会计费用。 但在这些华尔街叙事之外，国内的开发者和日常使用者有着另一种割裂的体感。在中国大陆用户眼里，Claude 大概是目前市面上封号最多、风控最严苛、用起来最让人恼火的 AI 产品。 为什么一家做出顶尖大模型的公司，在面对普通个人用户时总是显得如此冷淡 ？ 翻完招股书的财务附注和风险提示，答案其实就写在账本上。在 Anthropic 的商业版图里，个",
+    "url": "http://www.geekpark.net/news/373006",
+    "published": "Tue, 27 Oct 2026 16:55:13 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "极客公园",
+    "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+    "summary": "10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《 用 Manus 改造 Manus 》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字未改。 更让他意外的是，这位工程师当时同时在处理十几、二十个需求。在今天的 Manus，这已经是常态。 这篇文章信息量很大，有几件事最值得记下来。 Manus 内部做了一个叫 Manus-mono 的统一代码入口，配上一本写给 AI 看的说明书，让 AI 能看到跨仓库的全局。一个需求，一个人就能写完所有端。移动端团队一直只有 7 个人，同时负责 2 个产品、4 个 App，进度和网页版基本同步。 所有产品经理都向 Manus 提交过代码，大约一半能独立把需求做到上线。有的产品经理交出来的需求，已经从文档变成了一段视频。 市场团队有了一位「数字同事」，会自己安排工作、主动提醒项目进度，还会跨团队",
+    "url": "http://www.geekpark.net/news/373004",
+    "published": "Tue, 27 Oct 2026 16:49:29 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "极客公园",
+    "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+    "summary": "10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代——这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。 随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实践提供了一个观察个人机器人产业化进程的具体样本。 01 一个月从 0 到 5000 台， 量产制造体系成形 「自产线启动以来，从 0 台到 5000 台稳定量产下线，仅用时 1 个月。 」启元机器人联席总裁、中央研发部总裁高全中表示，启元机器人的产线目前每 2.5 分钟下线一台机器人，日产能从 10 余台提升至 200 余台。 对个人机器人而言，量产并非简单增加产线或提高装配速度。机器人融合机械结构、运动控制、感知交互与",
+    "url": "http://www.geekpark.net/news/373003",
+    "published": "Tue, 27 Oct 2026 16:46:19 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "极客公园",
+    "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
+    "summary": "作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、工业仿真以及 3D 打印的真实生产流程就立刻原形毕现：结构断裂、背面崩坏、细节粘连、网格不可编辑等问题开始集中爆发，大量人工修补成本吞噬了 AI 带来的效率红利。 正面视图保真度不等于 3D 质量成为新的行业共识。AI 3D 的竞赛，也从 能不能生成」的上半场，进入了能不能落地的下半场。 也正是在这个节点上，头部玩家 Hi3D 接连落下两枚棋子：正式开源经过生产验证的 Hi3D V1.0 底座，同时推出以创作者为核心的 Hi3D Agent，一头连接产业底层，一头深度扎根进入真实的创作全流程。 在此之前，这家成立不到三年的公司已经交出了一份扎实的成绩单：半年内连续完成两轮融资、总额近 5000 万美元，红杉中国",
+    "url": "http://www.geekpark.net/news/372939",
+    "published": "Tue, 27 Oct 2026 15:59:20 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-27"
@@ -290,52 +360,22 @@
     "fetchedAt": "2026-10-27"
   },
   {
-    "source": "极客公园",
-    "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
-    "summary": "DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: WebDev 榜单排名最高的开源模型。 截至目前，DeepSeek-V4.1-Flash-1017 在该榜单上得分为 1670 分，超过了Kimi K3（Max）、Mimo-V2.6 Flash等开源模型，也超过了Muse Spark 1.3（Max）、Claude Opus 5（High）、Grok 4.7（xHigh）等闭源模型，仅落后 GPT-6 Sol（Max）12 分。 该模型于 10 月 17 日推出，在软件工程能力 DeepSWE v1.1 测试中，其得分超GPT-6 Astra、GPT-6.1 Sol、Claude Opus 5等模型，单项任务平均费用较上一版本下降约六成。DeepSeek 称其模型支持「许愿式编程」，可一键生成游戏、3D 建模等。网友实测该模型生成速度比 GPT-6.1 超快模式还要快。 价格方面，",
-    "url": "http://www.geekpark.net/news/372568",
-    "published": "Tue, 20 Oct 2026 09:01:44 +0800",
+    "source": "爱范儿",
+    "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+    "summary": "OpenAI 又卷起了大模型的性价比。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Tue, 27 Oct 2026 05:00:58 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
-    "source": "极客公园",
-    "title": "AI 里没有答案的问题，需要一场「深谈」",
-    "summary": "去年，极客公园创新大会第一次办起「小场深谈」。场子都不大，百人左右围坐在一起。 有些瞬间仍然记忆犹新。 在「超级个体」专场，一位观众站起来。他刚从大厂跳槽到一家小厂，正用 AI 做自己的第一款产品。他向嘉宾说出自己的困惑：我还在打工，做公众号、视频号，早晚会被老板和同事刷到。这个冲突，怎么解？ 在「硬控 AI」专场，有人直接向刚刚离职的小米 AI 眼镜负责人提问：如果给你两个亿，你会去做哪种 AI 眼镜？有人继续追问，你觉得豆包手机助手到底是真需求还是伪需求？ 在「重塑关系」专场，一位精神科医生，问做陪伴机器人的嘉宾：你是希望它把人带回现实社会的交往，还是给这个家添一个新成员？ 这些问题都不「大」，但都很真，带着一个人具体的处境，来自坐在你旁边的人。 有老朋友说，这让他们想起极客公园 17 年前的样子——在借来的索尼探梦地下室里，一群人席地而坐。 如果你参加过去年的「小场深谈」，很可能还记得这种 Vibe。不是发布会式的提问，更像小场子里几个人围坐时，把一个人正在卡住、关心的事摊开来聊。 去年的「小场深谈」，共设置了 4 个主题专场，包涵 12 场深度访谈，数百位观众走进小场，165 ",
-    "url": "http://www.geekpark.net/news/372579",
-    "published": "Mon, 19 Oct 2026 21:57:34 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "极客公园",
-    "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
-    "summary": "过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合作伙伴大会。期间，极客公园创始人 & CEO 张鹏主持了一场圆桌，五位来自不同赛道的人坐到了一起：麒麟软件副总经理 / 生态发展中心总经理姚翎、聊趣智能科技创始人兼 CEO 黄隽实、罗格数据 CTO 刘学鹏、寅谱计算 CMO 陈展凌、后摩智能 AI 系统总工程师陈仲铭。 他们分别来自操作系统、应用、数据工程、整机集成和芯片领域，讨论的是同一件事：端侧 AI 什么时候才能真正成为一门生意？ 黄隽实讲了一个养老院里的故事。他们在上海落地了一套「数字家人」，陪老人聊天、提醒用药、辅助防诈骗。老人每天说了什么、身体状况如何，都是极其敏感的信息，不能随意上传云端；系统又要全天值守，设备还不能嗡嗡作响。到了这样的现场，隐私、算力、功耗和噪声都不再是技术指标，而是老人愿不愿意使用的前提。 在企业市场，答案同样清晰。刘学鹏认为，客户最关心的是私域",
-    "url": "http://www.geekpark.net/news/372578",
-    "published": "Mon, 19 Oct 2026 18:10:03 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "极客公园",
-    "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
-    "summary": "OpenAI 三个神秘模型曝光 10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字： aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。 此次发现来自第三方维护的 OpenAI 模型列表镜像，并非官方公告。因此，这些模型究竟是什么、是否会正式发布，目前都还是未知数。 有网友推测，这些模型极有可能是 GPT-6 Astra 后续版本的内部检查点，专门对标 Fable 5.5 的强项，创意编码、长程 agent、视觉 / 3D。也有网友推测：三个模型对应 OpenAI 三个图像模型。（消息来源：机器之心） Anthropic 与法律专家讨论 AI Agent 谈判规则，未来可替用户砍价、处理纠纷 据《金融时报》最新报道，Anthropic 正在与律师事务所及法律专家合作，研究 AI Agent 代表用户进行谈判时应遵循的行为规范。 随着 Agent 逐渐能够独立执行任务，未来可能出现大量 A",
-    "url": "http://www.geekpark.net/news/372514",
-    "published": "Mon, 19 Oct 2026 09:18:11 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "极客公园",
-    "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
-    "summary": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 在提升性能的同时，模型的任务运行时间与输出长度还缩短了，让用户能够以更低成本、更快速度完成任务，在多个 Harness 下达到了新的性能-费用帕累托最优。 特别地，此次优化着重针对 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 等平台框架进行了优化。（消息来源：DeepSeek） 马斯克盯上了砍价生意 号称一年为全球省下 6 万亿美元 10 月 17 日消息，特斯拉创始人马斯克在社交平台 X 发文称，团队正投入大量资源，开发面向商业场景的专用议价机器人（Hagglebot）。 Hagglebot 是依托 Grok 打造的软件 AI Bot，主打企业议价场景，和普通对话 AI 定位完全不同。目前马斯克没有放出太多细节，这套 ",
-    "url": "http://www.geekpark.net/news/372512",
-    "published": "Sun, 18 Oct 2026 08:39:02 +0800",
-    "lang": "zh",
+    "source": "TechCrunch",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
@@ -375,6 +415,56 @@
     "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Ant launches LingGuang 2.0 AI assistant for ongoing personal tasks",
+    "summary": "Ant Group has launched LingGuang 2.0, upgrading its AI assistant with persistent memory and the ability to continue managing tasks after users leave a conversation. With authorization, the assistant can identify needs, monitor changes and follow up over time, rather than waiting for a new instruction at every step. Supported uses include checking Alipay bills […]",
+    "url": "https://technode.com/2026/10/27/ant-launches-lingguang-2-0-ai-assistant-for-ongoing-personal-tasks/",
+    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches third-generation Qin Plus DM-i",
+    "summary": "BYD launched its third-generation Qin Plus DM-i plug-in hybrid sedan on October 27, with limited-time prices ranging from RMB 76,900 to RMB 97,900. Standard list prices range from RMB 79,900 to RMB 100,900 across three variants. The new model offers electric-only range of up to 220 km and a stated combined range of up to […]",
+    "url": "https://technode.com/2026/10/27/byd-launches-third-generation-qin-plus-dm-i/",
+    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot electronic-skin startup MoSense raises around RMB 100 million in angel-plus funding",
+    "summary": "Shanghai-based MoSense, which develops full-body tactile sensing systems for robots, has raised around RMB 100 million in an angel-plus round led by CDH Investments and Oasis Capital. Other investors include LimX Dynamics, Loongson Venture Capital, CAS Star, Hua Capital and Pudong Venture Capital Group. Founded in May 2026 by a team with Hong Kong University […]",
+    "url": "https://technode.com/2026/10/27/robot-electronic-skin-startup-mosense-raises-around-rmb-100-million-in-angel-plus-funding/",
+    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Desktop robot startup CyboPal secures investment from TCL and Shenzhen Capital Group",
+    "summary": "Chinese desktop robot startup CyboPal has secured a new strategic funding round from TCL Industries’ investment arm and Shenzhen Capital Group. The amount was not disclosed. The company develops hardware that connects users, personal AI agents and existing computer workflows. Its first product, CyboPal ONE, is a desktop robotic terminal that combines movement, vision and […]",
+    "url": "https://technode.com/2026/10/27/desktop-robot-startup-cybopal-secures-investment-from-tcl-and-shenzhen-capital-group/",
+    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "ByteDance launches AI studio for short-drama production",
+    "summary": "ByteDance’s Jimeng AI has launched a short-drama studio that brings script development, character and scene creation, storyboarding, video production and post-production into one workflow. The platform uses three in-house models: DreamScript for scripts, Anycook for images and DreamShot for storyboards. DreamScript supports original stories, adaptations and scripts for overseas audiences, while the image and storyboard […]",
+    "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
@@ -580,109 +670,31 @@
     "fetchedAt": "2026-10-27"
   },
   {
-    "source": "TechNode",
-    "title": "DeepSeek launches web search and page-fetching APIs for AI agents",
-    "summary": "DeepSeek has launched Search and Fetch APIs, opening its proprietary search engine to developers building AI agents and applications that retrieve external information. Search returns structured web results, while Fetch extracts a webpage’s title and content as Markdown. Both services cost RMB 5 per 1,000 successful requests. Failed requests, empty search results and timeouts are […]",
-    "url": "https://technode.com/2026/10/19/deepseek-launches-web-search-and-page-fetching-apis-for-ai-agents/",
-    "published": "Mon, 19 Oct 2026 06:41:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "TechNode",
-    "title": "Robot AI developer Ruoyu secures Pre-A funding led by Sunway Communication",
-    "summary": "Shenzhen-based robot AI developer Ruoyu Technology has completed a nine-figure RMB Pre-A funding round led by Sunway Communication, 36Kr reported on October 15. Other investors include Jinmu Capital, Qindao Capital, Huanghai Capital and Zhongchuang Capital. Founded in 2023 and incubated by Harbin Institute of Technology, Shenzhen, Ruoyu develops AI systems that help robots perceive environments, […]",
-    "url": "https://technode.com/2026/10/16/robot-ai-developer-ruoyu-secures-pre-a-funding-led-by-sunway-communication/",
-    "published": "Fri, 16 Oct 2026 08:32:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "TechNode",
-    "title": "Apple Intelligence to enter China beta testing this month, Tim Cook confirms",
-    "summary": "Apple will release a beta version of Apple Intelligence in China later in October, executive chairman Tim Cook confirmed in an interview in Shanghai on October 15. Cook said the initial features and the associated Alibaba Qwen models had received regulatory approval. The first batch will include live translation, writing tools and photo cleanup, while […]",
-    "url": "https://technode.com/2026/10/16/apple-intelligence-to-enter-china-beta-testing-this-month-tim-cook-confirms/",
-    "published": "Fri, 16 Oct 2026 08:32:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "TechNode",
-    "title": "Desktop manufacturing startup InfiMaker raises tens of millions of dollars in Pre-A+ funding",
-    "summary": "Chinese desktop manufacturing startup InfiMaker has completed a Pre-A+ funding round worth tens of millions of dollars from IDG Capital and Kunlun Capital, STAR Market Daily reported on October 15. The company develops compact five-axis computer numerical control machines for professional users and creators. Founded in 2024 by former DJI employees and robotics researchers, InfiMaker […]",
-    "url": "https://technode.com/2026/10/16/desktop-manufacturing-startup-infimaker-raises-tens-of-millions-of-dollars-in-pre-a-funding/",
-    "published": "Fri, 16 Oct 2026 08:32:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "TechNode",
-    "title": "XPENG opens MONA L05 SUV presales from RMB 169,800",
-    "summary": "XPENG opened presales for its MONA L05 five-seat SUV in China on October 15, with five variants priced between RMB 169,800 and RMB 191,800. The official launch is scheduled for October 29, with both battery-electric and extended-range versions available. The electric versions offer CLTC ranges of 535 or 635 kilometers, while the extended-range versions have […]",
-    "url": "https://technode.com/2026/10/16/xpeng-opens-mona-l05-suv-presales-from-rmb-169800/",
-    "published": "Fri, 16 Oct 2026 08:32:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
     "source": "微博",
-    "title": "#上汽奥迪回应聚焦新能源#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23上汽奥迪回应聚焦新能源%23",
-    "published": "2026-10-27",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "hotValue": 415036,
-      "rank": 5
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#存储芯片股集体上涨#",
+    "title": "#极客湾谈韬芯片轻舟已过万重山#",
     "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23存储芯片股集体上涨%23",
+    "url": "https://s.weibo.com/weibo?q=%23极客湾谈韬芯片轻舟已过万重山%23",
     "published": "2026-10-27",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "hotValue": 202593,
-      "rank": 49
+      "hotValue": 1642811,
+      "rank": 4
     }
   },
   {
-    "source": "V2EX",
-    "title": "媳妇上个月辞职出来创业了",
-    "summary": "行业是青少年脊柱侧弯康复矫正，她是做施罗斯体操私教课的的康复师。 去年她原来的公司黄了，她自己又找个一个机构打工，一年以后因为各种因素辞职了，准备自己单干。我就老老实实上班，没事的时候给她出谋划策，解决 IT 问题，顺便她上课和看诊的时候给她做摄影师。 上个月我们找了一个商业公寓楼租了一个跃层，一楼办公，二楼改造成了训练区。简单收拾了一下就开干了。因为她辞职之前就积累了很多患者，有大概 5 个左右的家长在原来的机构退费了，到她这里重新交了钱继续训练，也就成了我们现在的启动资金。 这一个月跑手续，申请营业执照，注册地图，抖音上团购。前几天又买了个新手机用来运营和录视频，启动资金",
-    "url": "https://www.v2ex.com/t/1251868",
-    "published": 1792991152,
+    "source": "微博",
+    "title": "#极客湾旗舰芯片大横评#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23极客湾旗舰芯片大横评%23",
+    "published": "2026-10-27",
     "lang": "zh",
-    "type": "community",
+    "type": "news",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "replies": 100,
-      "node": "职场话题"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "AI vibe coding 的进展，不知道程序员还能存活多久？",
-    "summary": "我那开劳斯莱斯的朋友，7 月份时候还是 coding 白痴， 但经过几个月的 vibe coding, 现在已经成功上线了工厂的 erp ，并且是那种可以当生产力工具用的，且按照他的说法，简直完美的和他工厂所有流程吻合。他正在慢慢的把周边模块一点一点的加上，不断的接入周边硬件，基本上都是许愿式的提交需求，大部分一次可以搞定。 而最关键的是，他已经知道利用 github actions 通过 Claude 做自动化部署实施，前 2 个月他还孤军奋战，现在他在 erp 中做了 issue/function request 提交界面，员工可以在该页面上直接提交到 github issue 中，",
-    "url": "https://www.v2ex.com/t/1251976",
-    "published": 1793005709,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "replies": 74,
-      "node": "职场话题"
+      "hotValue": 560096,
+      "rank": 14
     }
   },
   {
@@ -695,8 +707,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 3929,
-      "forks": 510,
+      "stars": 4085,
+      "forks": 532,
       "language": "C",
       "createdDaysAgo": 3
     }
@@ -711,9 +723,25 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 2173,
-      "forks": 178,
+      "stars": 2794,
+      "forks": 236,
       "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "designfuchen/word-atlas",
+    "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "published": "2026-10-25T08:27:22Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-27",
+    "meta": {
+      "stars": 2159,
+      "forks": 524,
+      "language": "TypeScript",
       "createdDaysAgo": 2
     }
   },
@@ -727,8 +755,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 2092,
-      "forks": 309,
+      "stars": 2141,
+      "forks": 315,
       "language": "Swift",
       "createdDaysAgo": 5
     }
@@ -743,26 +771,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 2068,
-      "forks": 63,
+      "stars": 2095,
+      "forks": 64,
       "language": "Rust",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "designfuchen/word-atlas",
-    "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-    "url": "https://github.com/designfuchen/word-atlas",
-    "published": "2026-10-25T08:27:22Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "stars": 1862,
-      "forks": 473,
-      "language": "TypeScript",
-      "createdDaysAgo": 1
     }
   },
   {
@@ -775,10 +787,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 1841,
-      "forks": 631,
+      "stars": 1855,
+      "forks": 633,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "t3dotgg/tstack",
+    "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "url": "https://github.com/t3dotgg/tstack",
+    "published": "2026-10-24T05:00:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-27",
+    "meta": {
+      "stars": 1767,
+      "forks": 103,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   }
 ]
