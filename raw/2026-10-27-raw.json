@@ -51,6 +51,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "佛塑科技Q3净利增逾14倍后再推扩产，面临新一轮供给竞争｜看财报",
+    "summary": "并表增利，扩产承压。",
+    "url": "https://www.tmtpost.com/8183790.html",
+    "published": "Tue, 27 Oct 2026 19:36:46 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-27"
+  },
+  {
+    "source": "钛媒体",
     "title": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
     "summary": "旧榜跑分逼近满分，新榜实战却集体不及格。当大模型评测本身变成生意，企业选型正从看排名转向算成本账。",
     "url": "https://www.tmtpost.com/8183550.html",
@@ -85,26 +95,6 @@
     "summary": "具身智能人才争夺战。",
     "url": "https://www.tmtpost.com/8183283.html",
     "published": "Tue, 27 Oct 2026 18:19:20 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "钛媒体",
-    "title": "算力最多，进展最慢：字节大模型困于赛马制",
-    "summary": "旧有的“赛马+短周期考核”方式，已经难以为继。",
-    "url": "https://www.tmtpost.com/8182141.html",
-    "published": "Tue, 27 Oct 2026 17:19:16 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27"
-  },
-  {
-    "source": "钛媒体",
-    "title": "SpaceX借来400亿美元，押注GPU的未来五年",
-    "summary": "芯片一年一迭代，马斯克为何敢借五年？",
-    "url": "https://www.tmtpost.com/8182988.html",
-    "published": "Tue, 27 Oct 2026 17:19:13 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-27"
@@ -371,50 +361,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+    "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+    "published": "Tue, 27 Oct 2026 20:31:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-    "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-    "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-    "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "published": "Tue, 27 Oct 2026 18:55:35 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-    "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-    "published": "Mon, 26 Oct 2026 18:59:52 +0000",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "published": "Tue, 27 Oct 2026 14:59:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
     "source": "TechCrunch",
-    "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-    "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-    "published": "Mon, 26 Oct 2026 17:45:00 +0000",
+    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+    "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic officially files for its public debut",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-27"
@@ -670,32 +660,14 @@
     "fetchedAt": "2026-10-27"
   },
   {
-    "source": "微博",
-    "title": "#极客湾谈韬芯片轻舟已过万重山#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23极客湾谈韬芯片轻舟已过万重山%23",
-    "published": "2026-10-27",
-    "lang": "zh",
+    "source": "The Verge",
+    "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+    "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]",
+    "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+    "published": "2026-10-27T18:55:05-04:00",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "hotValue": 1642811,
-      "rank": 4
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#极客湾旗舰芯片大横评#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23极客湾旗舰芯片大横评%23",
-    "published": "2026-10-27",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "hotValue": 560096,
-      "rank": 14
-    }
+    "fetchedAt": "2026-10-27"
   },
   {
     "source": "GitHub新星",
@@ -707,10 +679,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 4085,
-      "forks": 532,
+      "stars": 4266,
+      "forks": 556,
       "language": "C",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -723,8 +695,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 2794,
-      "forks": 236,
+      "stars": 3201,
+      "forks": 270,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -739,8 +711,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 2159,
-      "forks": 524,
+      "stars": 2450,
+      "forks": 576,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -755,58 +727,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-27",
     "meta": {
-      "stars": 2141,
-      "forks": 315,
+      "stars": 2212,
+      "forks": 324,
       "language": "Swift",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "xevrion/hatchzip",
-    "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-    "url": "https://github.com/xevrion/hatchzip",
-    "published": "2026-10-21T17:29:28Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "stars": 2095,
-      "forks": 64,
-      "language": "Rust",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ikow/php2shell-poc",
-    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-    "url": "https://github.com/ikow/php2shell-poc",
-    "published": "2026-10-21T07:55:16Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "stars": 1855,
-      "forks": 633,
-      "language": "Python",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "t3dotgg/tstack",
-    "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
-    "url": "https://github.com/t3dotgg/tstack",
-    "published": "2026-10-24T05:00:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-27",
-    "meta": {
-      "stars": 1767,
-      "forks": 103,
-      "language": "Python",
-      "createdDaysAgo": 3
     }
   }
 ]
