@@ -51,6 +51,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "Anthropic巨亏背后，藏着行业什么秘密？",
+    "summary": "模型公司，估值寄生于基础设施供应商。",
+    "url": "https://www.tmtpost.com/8183803.html",
+    "published": "Wed, 28 Oct 2026 21:21:46 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-28"
+  },
+  {
+    "source": "钛媒体",
     "title": "第六届数字经济投融资机构川渝行在蓉举行，释放融资需求超10亿元",
     "summary": "聚焦AI赛道。",
     "url": "https://www.tmtpost.com/8185010.html",
@@ -70,21 +80,11 @@
     "fetchedAt": "2026-10-28"
   },
   {
-    "source": "钛媒体",
-    "title": "“AI之王”Anthropic，给马斯克、黄仁勋们打工",
-    "summary": "Anthropic是处在狂奔阶段的现象级公司。其身处一个可能决定人类走势的行业，又是这个行业的王者，估值注定不会低。但这个王者透支了自己未来的营收，领先优势也并非永恒。现阶段是上市的最佳时机。",
-    "url": "https://www.tmtpost.com/8184181.html",
-    "published": "Wed, 28 Oct 2026 14:11:56 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "钛媒体",
-    "title": "史上最大IPO临门，腾讯、阿里、字节抢卡：Anthropic和中国大厂一起为算力上头",
-    "summary": "为什么中国互联网大厂还要集中采购一款性能逊于顶级数据中心芯片的英伟达显卡？推理算力的需求究竟增长到了什么程度？这场抢卡潮，又会如何影响国产芯片的商业化进程？",
-    "url": "https://www.tmtpost.com/8184064.html",
-    "published": "Wed, 28 Oct 2026 14:11:47 +0800",
+    "source": "极客公园",
+    "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+    "summary": "搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple 2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放。演示效果很好，但用一会儿你就会累，用久了，胳膊都要掉下来。这行不通，人体工学上糟透了。」 16 年后的今天凌晨，苹果发布了第一台带触屏的 Mac：搭载 PROLED XDR 显示屏的 MacBook Pro，14 英寸和 16 英寸两个尺寸，芯片是 M5 Pro 和 M5 Max。国行 14 英寸 22999 元起，16 英寸 27999 元起，10 月 30 日上午 9 点开始预购，比美国晚一天多，11 月 6 日发售。 14 英寸和 16 英寸两个尺寸，刘海换成了灵动岛｜图片来源：Apple 芯片还是今年 3 月发布的那一代。原来那款 mini-LED 屏的 MacBook Pro 没有下架，两条产品线并排卖，起步配置一模一样：14 英寸 M5 Pro 都是 24GB 内存、1TB 存储，mini-LED 版国行 19999",
+    "url": "http://www.geekpark.net/news/373084",
+    "published": "Thu, 29 Oct 2026 02:27:03 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-28"
@@ -320,16 +320,6 @@
     "fetchedAt": "2026-10-28"
   },
   {
-    "source": "极客公园",
-    "title": "亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点",
-    "summary": "在 2026 年 亚马逊云科技软件企业峰会创业加速营巅峰路演 上，亚马逊副总裁兼首席技术官 Werner Vogels 博士与极客公园创始人 & CEO 张鹏进行了一场极具深度的炉边对谈。 面对当下狂热的 AI 创业潮与复杂的技术演进，Vogels 博士分享了亚马逊云科技走过二十年的底层商业逻辑，并为初创企业给出了极具实操性的避坑建议。 左：亚马逊副总裁兼首席技术官 Werner Vogels 博士 右：极客公园创始人 & CEO 张鹏 以下是两位对谈内容的精华梳理： 01 起点与颠覆： 被逼出来的创新与 彻底改变的 IT 商业模式 张鹏：您在二十年前加入了亚马逊，那时的亚马逊还只是一家相对较小的初创公司。究竟是什么真正吸引了您，并让您在这里坚守了二十多年？ Dr. Werner Vogels： 吸引我留下的， 首先是那些在外部根本看不到的、被现实「逼」出来的硬核技术挑战，我们不断在底层技术上做出了创新。 二十年前，当我真正走进亚马逊的「技术厨房」时，我被震撼了。 当时市面上没有任何现成的商业软件能支撑亚马逊电商海量并发的规模。比如，我们曾试图用传统的、单体架构的商业关系型数据库去承载",
-    "url": "http://www.geekpark.net/news/372671",
-    "published": "Wed, 21 Oct 2026 12:16:25 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
     "source": "爱范儿",
     "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
     "summary": "OpenAI 又卷起了大模型的性价比。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -341,30 +331,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-    "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-    "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-    "published": "Tue, 27 Oct 2026 20:31:17 +0000",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "published": "Wed, 28 Oct 2026 23:15:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-28"
   },
   {
     "source": "TechCrunch",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "published": "Tue, 27 Oct 2026 18:55:35 +0000",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "published": "Wed, 28 Oct 2026 19:19:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-28"
   },
   {
     "source": "TechCrunch",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "published": "Tue, 27 Oct 2026 14:59:09 +0000",
+    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-28"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+    "published": "Wed, 28 Oct 2026 17:26:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-28"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Xreal Aura is a new wired headset powered by Android XR",
+    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+    "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-28"
@@ -601,203 +611,37 @@
   },
   {
     "source": "The Verge",
-    "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-    "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]",
-    "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-    "published": "2026-10-27T18:55:05-04:00",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "published": "2026-10-28T19:05:39-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-28"
   },
   {
-    "source": "Hacker News",
-    "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
-    "summary": "Article URL: https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/ Comments URL: https://news.ycombinator.com/item?id=50267799 Points: 1 # Comments: 0",
-    "url": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
-    "published": "Wed, 28 Oct 2026 00:23:38 +0000",
+    "source": "The Verge",
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "published": "2026-10-28T16:03:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-28"
   },
   {
-    "source": "Hacker News",
-    "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20k AI data centers",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=50264210 Points: 1 # Comments: 1",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-    "published": "Tue, 27 Oct 2026 19:10:17 +0000",
-    "lang": "en",
+    "source": "微博",
+    "title": "#华为麒麟9050芯片发布#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23华为麒麟9050芯片发布%23",
+    "published": "2026-10-28",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "An Account Fit for an Agent (Pool MCP Launch)",
-    "summary": "Article URL: https://poolmoney.com/blog/agent-financial-account Comments URL: https://news.ycombinator.com/item?id=50264108 Points: 2 # Comments: 1",
-    "url": "https://poolmoney.com/blog/agent-financial-account",
-    "published": "Tue, 27 Oct 2026 19:03:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-    "summary": "Article URL: https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military Comments URL: https://news.ycombinator.com/item?id=50262753 Points: 7 # Comments: 1",
-    "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-    "published": "Tue, 27 Oct 2026 17:36:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ukrainian launch test military-purpose communications satellite into orbit",
-    "summary": "Article URL: https://www.pravda.com.ua/eng/news/2026/10/27/8059951/ Comments URL: https://news.ycombinator.com/item?id=50262370 Points: 9 # Comments: 2",
-    "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059951/",
-    "published": "Tue, 27 Oct 2026 17:12:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "summary": "Article URL: https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/ Comments URL: https://news.ycombinator.com/item?id=50258127 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "published": "Tue, 27 Oct 2026 12:29:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push Comments URL: https://news.ycombinator.com/item?id=50257531 Points: 3 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
-    "published": "Tue, 27 Oct 2026 11:28:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sunlight at night: US startup's demo of lighting Earth from space draws critics",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites Comments URL: https://news.ycombinator.com/item?id=50257193 Points: 5 # Comments: 0",
-    "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-    "published": "Tue, 27 Oct 2026 10:53:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Command and Conquer: Red Alert 3D (Alpha) – Launch Trailer [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=_-W_Q_vQD_I Comments URL: https://news.ycombinator.com/item?id=50250822 Points: 3 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=_-W_Q_vQD_I",
-    "published": "Mon, 26 Oct 2026 20:56:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: What would your Startup's Halloween costume be?",
-    "summary": "The costume can contain elements of your product, problem statement or anything related to your startup. Comments URL: https://news.ycombinator.com/item?id=50249836 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=50249836",
-    "published": "Mon, 26 Oct 2026 19:44:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Brazil's Big bank Itau agrees to buy AI startup NeoSpace for $589M",
-    "summary": "Article URL: https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/ Comments URL: https://news.ycombinator.com/item?id=50244801 Points: 2 # Comments: 0",
-    "url": "https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/",
-    "published": "Mon, 26 Oct 2026 14:53:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
-    "summary": "Article URL: https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility Comments URL: https://news.ycombinator.com/item?id=50242510 Points: 2 # Comments: 0",
-    "url": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
-    "published": "Mon, 26 Oct 2026 12:27:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Researchers at cybersecurity startup Cathedral got inside Anthropic",
-    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50241543 Points: 9 # Comments: 3",
-    "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
-    "published": "Mon, 26 Oct 2026 10:16:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How to Start a Defence Tech Startup in the UK: Part 1",
-    "summary": "Article URL: https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1 Comments URL: https://news.ycombinator.com/item?id=50240393 Points: 10 # Comments: 0",
-    "url": "https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1",
-    "published": "Mon, 26 Oct 2026 07:41:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 71 # Comments: 31",
-    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-    "published": "Mon, 26 Oct 2026 03:12:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: OSS framework to launch Instinct like iMessage assistants",
-    "summary": "I built Instinct internally for a product of ours 6 months back, and it got 2000 users within a couple weeks organically. I am now open-sourcing the framework I used so anyone can launch Instinct like experiences on WhatsApp and iMessage. Comments URL: https://news.ycombinator.com/item?id=50234591 Points: 1 # Comments: 0",
-    "url": "https://github.com/flow-engineer/flow",
-    "published": "Sun, 25 Oct 2026 18:34:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Space Startup Is Coming Out of Stealth with Seven-Figure Deals",
-    "summary": "Article URL: https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/ Comments URL: https://news.ycombinator.com/item?id=50231312 Points: 2 # Comments: 0",
-    "url": "https://newsbywire.com/a-space-startup-is-coming-out-of-stealth-with-seven-figure-deals/",
-    "published": "Sun, 25 Oct 2026 13:24:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
-    "summary": "Article URL: https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/ Comments URL: https://news.ycombinator.com/item?id=50230059 Points: 1 # Comments: 0",
-    "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
-    "published": "Sun, 25 Oct 2026 10:27:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
-    "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Comments URL: https://news.ycombinator.com/item?id=50229386 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
-    "published": "Sun, 25 Oct 2026 08:21:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-28"
+    "fetchedAt": "2026-10-28",
+    "meta": {
+      "hotValue": 92036,
+      "rank": 19
+    }
   },
   {
     "source": "V2EX",
@@ -809,7 +653,7 @@
     "type": "community",
     "fetchedAt": "2026-10-28",
     "meta": {
-      "replies": 107,
+      "replies": 130,
       "node": "奇思妙想"
     }
   },
@@ -823,7 +667,7 @@
     "type": "community",
     "fetchedAt": "2026-10-28",
     "meta": {
-      "replies": 78,
+      "replies": 79,
       "node": "MacBook Pro"
     }
   },
@@ -837,10 +681,10 @@
     "type": "signal",
     "fetchedAt": "2026-10-28",
     "meta": {
-      "stars": 4351,
-      "forks": 561,
+      "stars": 4412,
+      "forks": 566,
       "language": "C",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -853,8 +697,8 @@
     "type": "signal",
     "fetchedAt": "2026-10-28",
     "meta": {
-      "stars": 4018,
-      "forks": 365,
+      "stars": 4266,
+      "forks": 382,
       "language": "Python",
       "createdDaysAgo": 4
     }
