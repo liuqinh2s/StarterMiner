@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "marcin-dudek-4992a297"
+          "linkedin": "breck7"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -669,6 +669,7 @@
           "name@domain.com",
           "u003esupport@meshy.ai",
           "careers@meshy.ai",
+          "meshy-webapp@v2026.10.28.post",
           "jane@company.com"
         ],
         "socials": {
@@ -1536,13 +1537,8 @@
       "fetchedAt": "2026-10-28",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [
-          "info@latitudemedia.com"
-        ],
-        "socials": {
-          "twitter": "intent",
-          "linkedin": "latitude-media-inc"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
