@@ -117,15 +117,8 @@
       "fetchedAt": "2026-10-29",
       "website": {
         "website": "https://deepseek.com",
-        "emails": [
-          "service@deepseek.com",
-          "security@deepseek.com"
-        ],
-        "socials": {
-          "twitter": "deepseek_ai",
-          "github": "deepseek-ai",
-          "wechat": "Tooltip"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
@@ -155,7 +148,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "escamoteur"
+          "linkedin": "thijs-smudde"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -1540,10 +1533,11 @@
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
         "emails": [
-          "info@latitudemedia.com"
+          "info@latitudemedia.com",
+          "events@latitudemedia.com"
         ],
         "socials": {
-          "twitter": "intent",
+          "twitter": "_LatitudeMedia",
           "linkedin": "latitude-media-inc"
         },
         "careerPage": null,

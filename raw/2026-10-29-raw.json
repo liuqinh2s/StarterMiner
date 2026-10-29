@@ -1,6 +1,26 @@
 [
   {
     "source": "创业邦",
+    "title": "小米关联公司近期入股两家芯片企业",
+    "summary": "天眼查App显示，近日，武汉阿基米德半导体有限公司、芯词元半导体（杭州）有限责任公司均发生工商变更，新增瀚星创业投资有限公司为股东。其中，武汉阿基米德同时新增宁德时代新能源科技股份有限公司为股东；芯词元注册资本由124.375万元增至约132.02万元。 股东信息显示，瀚星创业投资有限公司由小米科技有限责任公司全资持股。目前，瀚星创投分别持有武汉阿基米德2%、芯词元4.014%的股份，宁德时代持有武汉阿基米德4%的股份。两家被投企业经营范围均包含集成电路设计、集成电路芯片设计及服务等。",
+    "url": "https://www.cyzone.cn/article/852277.html",
+    "published": "Thu, 29 Oct 2026 08:46:27 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "创业邦",
+    "title": "出品方三年前已注册影之刃零商标",
+    "summary": "据媒体报道，国产3A武侠动作游戏《影之刃零》正式发售，以Metacritic开分91分的成绩刷新国产单机最高分，并迅速登上Steam全球热销榜第一。 天眼查App显示，出品方关联公司北京灵游坊网络科技有限公司成立于2011年8月，法定代表人为梁其伟，注册资本约356万人民币，经营范围包括专业设计服务、货物进出口、技术进出口等，由天津艾思软件开发合伙企业（有限合伙）、梁其伟、广西腾讯创业投资有限公司等共同持股。知识产权信息显示，该公司于2023年成功注册“影之刃零”商标，国际分类为科学仪器。",
+    "url": "https://www.cyzone.cn/article/852276.html",
+    "published": "Thu, 29 Oct 2026 03:28:09 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "创业邦",
     "title": "商业火箭完成新一轮发射，航天供应链聚焦可靠交付",
     "summary": "",
     "url": "https://www.cyzone.cn/article/850626.html",
@@ -51,50 +71,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "出海这笔账，补课补不平",
-    "summary": "蔚小理出海失血，被普遍当成补课问题。",
-    "url": "https://www.tmtpost.com/8185118.html",
-    "published": "Thu, 29 Oct 2026 11:39:00 +0800",
+    "title": "字节跳动招人，入局具身智能",
+    "summary": "字节下场布局具身智能人形机器人。",
+    "url": "https://www.tmtpost.com/8185152.html",
+    "published": "Thu, 29 Oct 2026 18:15:55 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
     "source": "钛媒体",
-    "title": "Optimus的第一份工作是插枪：人形机器人的主战场，从来不在工厂",
-    "summary": "人形机器人正在批量进工厂，市场叙事是“替代产线工人”。本文给出反共识判断：标准场景早被传送带与机械臂吃透，进厂只是练兵；真正的主战场，是非标服务业的“移动缝隙”。机器负责干活，人负责生活。",
-    "url": "https://www.tmtpost.com/8185429.html",
-    "published": "Thu, 29 Oct 2026 11:32:00 +0800",
+    "title": "靠卖液冷零部件撑起IPO，新富科技闯注册关，2026年业绩为何变脸？",
+    "summary": "前三季净利预降三成，液冷小巨人迎大考。",
+    "url": "https://www.tmtpost.com/8185300.html",
+    "published": "Thu, 29 Oct 2026 17:02:41 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "钛媒体",
-    "title": "药企的钱，开始往芯片和AI那边挪了",
-    "summary": "钱变紧了，药也就没那么好投了。",
-    "url": "https://www.tmtpost.com/8185448.html",
-    "published": "Thu, 29 Oct 2026 11:09:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "推特创始人重出江湖，断网聊天“神器”爆火",
-    "summary": "Bitchat登顶法国App Store。",
-    "url": "https://www.tmtpost.com/8185576.html",
-    "published": "Thu, 29 Oct 2026 11:02:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "钛媒体",
-    "title": "AI芯片，逼近掩模极限",
-    "summary": "先进封装正在逼近掩模尺寸极限，CoWoS-L与EMIB也由此展开新一轮竞争。",
-    "url": "https://www.tmtpost.com/8184899.html",
-    "published": "Thu, 29 Oct 2026 10:39:03 +0800",
+    "source": "极客公园",
+    "title": "大众把三年在中国攒的家底，打包成了一颗「星」",
+    "summary": "头图来源：极客公园 10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。 这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。 按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。 大众汽车集团（中国）董事长兼 CEO 贝瑞德在台上说，短短三年，大众在中国打造出了一套一体化的技术矩阵，在国际汽车制造商之中，能做到这一点的应该屈指可数。 这句话的背后，是大众这几年在面对激烈的「中式竞争」后，第一次重新找到了方向的自信。 「在中国造」到「在中国研」 把时间往回拨四年。 2022 年，大众把在华战略从「在欧洲，为中国」改成了「在中国，为中国」。贝瑞德的解释是，大众要从过去在中国生产制造，走向在中国自主创新。 2023 年，大众在德国以外规模最大的研发中心 VCTC 在合肥成立。如今这里有 3000 多名员工，中国团队从执行方变成了主导方，本土工程师拿到了在本地自主决策的权力。 这个转向背后有现实的压力。2025 年，大众集团全球营业利润 89 ",
+    "url": "http://www.geekpark.net/news/373086",
+    "published": "Thu, 29 Oct 2026 15:09:14 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-29"
@@ -350,16 +350,6 @@
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "爱范儿",
-    "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
-    "summary": "OpenAI 又卷起了大模型的性价比。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Tue, 27 Oct 2026 05:00:58 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
     "source": "TechCrunch",
     "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
     "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
@@ -405,6 +395,56 @@
     "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
     "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
     "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Phantom Blade Zero Puts Wuxia Swordplay on a 66-Day Timer",
+    "summary": "An 88 Metascore and 91 OpenCritic average have put S-Game’s dark martial-arts RPG in the conversation as China’s next potential global breakout. Phantom Blade Zero, Chinese developer S-Game’s new wuxia action RPG, launches today on PC and PlayStation 5. The game opens with its protagonist, Soul, impaled through the chest. He chooses an artificial heart […]",
+    "url": "https://technode.com/2026/10/29/phantom-blade-zero-puts-wuxia-swordplay-on-a-66-day-timer/",
+    "published": "Thu, 29 Oct 2026 09:17:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Can the upgraded Li Auto i6 hold its ground in China’s crowded electric SUV market?",
+    "summary": "Li Auto launched the 2026 Li Auto i6 on Wednesday, marking the model’s first annual update since its debut a year ago. Rather than relying on aggressive price cuts, the updated version introduces a series of changes to its battery system, intelligent cockpit, driver-assistance technology, and comfort features. The model starts at RMB 249,800 ($37,500). […]",
+    "url": "https://technode.com/2026/10/29/can-the-upgraded-li-auto-i6-hold-its-ground-in-chinas-crowded-electric-suv-market/",
+    "published": "Thu, 29 Oct 2026 07:27:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Chinese AAA wuxia action game Phantom Blade Zero launches on PS5 and PC",
+    "summary": "Chinese developer S-GAME released its AAA wuxia action game Phantom Blade Zero on October 29 for PlayStation 5 and PC. The standard PC edition is priced at RMB 268 in China, while the deluxe edition costs RMB 328. Built with Unreal Engine 5, the game combines Chinese martial arts with dark fantasy and a visual […]",
+    "url": "https://technode.com/2026/10/29/chinese-aaa-wuxia-action-game-phantom-blade-zero-launches-on-ps5-and-pc/",
+    "published": "Thu, 29 Oct 2026 05:16:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "WeRide’s physical AI data subsidiary raises tens of millions of dollars",
+    "summary": "Jingshuo, a subsidiary of autonomous driving company WeRide that develops data infrastructure for physical AI, has raised tens of millions of dollars in pre-Series A funding. Investors include Vision Knight Capital, Hong Kong Science and Technology Parks Corporation, and Sirius Capital. The company will use the funding to expand its research and development team and […]",
+    "url": "https://technode.com/2026/10/29/werides-physical-ai-data-subsidiary-raises-tens-of-millions-of-dollars/",
+    "published": "Thu, 29 Oct 2026 05:16:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "TechNode",
+    "title": "Li Auto launches updated i6 SUV with in-house driving chip and larger battery",
+    "summary": "Li Auto launched the 2026 version of its i6 electric SUV on October 28, introducing an in-house assisted-driving chip and a larger battery. The model has a starting list price of RMB 249,800, with a limited-time price of RMB 239,800 available through November 30. The updated i6 uses Li Auto’s Mach M100 chip, which delivers […]",
+    "url": "https://technode.com/2026/10/29/li-auto-launches-updated-i6-suv-with-in-house-driving-chip-and-larger-battery/",
+    "published": "Thu, 29 Oct 2026 05:16:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
@@ -600,46 +640,6 @@
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "TechNode",
-    "title": "BYD launches second-generation Seagull from RMB 65,900 with flash charging on higher trims",
-    "summary": "BYD launched its second-generation Seagull electric hatchback in China on October 20, with five variants priced from RMB 65,900 to RMB 99,900. The redesigned model expands from four seats to five and switches from front-wheel drive to rear-wheel drive, while adding more cabin space and a front storage compartment. The new Seagull measures 4,205mm long […]",
-    "url": "https://technode.com/2026/10/21/byd-launches-second-generation-seagull-from-rmb-65900-with-flash-charging-on-higher-trims/",
-    "published": "Wed, 21 Oct 2026 07:46:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "TechNode",
-    "title": "What if AI could remember your adventures for you? Souvi is exploring the idea",
-    "summary": "As more AI hardware focuses on voice assistants, information processing, and workplace productivity, one Chinese startup is taking a different approach by using AI to help people preserve their life experiences. Shanghai-based Vibe Technology has introduced Souvi, an outdoor AI memory device designed for activities such as hiking, camping, travel, and urban exploration. By combining […]",
-    "url": "https://technode.com/2026/10/20/what-if-ai-could-remember-your-adventures-for-you-souvi-is-exploring-the-idea/",
-    "published": "Tue, 20 Oct 2026 08:38:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "TechNode",
-    "title": "SenseTime co-founder’s ACE Robotics releases model for robot spatial perception",
-    "summary": "ACE Robotics, founded by SenseTime co-founder Xiaogang Wang, released its ACE-Brain-0.6 embodied AI model on October 19. Built through supervised fine-tuning of Qwen3.5-9B, the model focuses on identifying objects, locating them in images and determining where a robot can interact with them. The company said it trained the model using approximately 1 million spatial-grounding samples. […]",
-    "url": "https://technode.com/2026/10/20/sensetime-co-founders-ace-robotics-releases-model-for-robot-spatial-perception/",
-    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "TechNode",
-    "title": "Chery unveils automotive chip lineup spanning AI computing, silicon carbide and vehicle control",
-    "summary": "Chery unveiled its Ziwei automotive chip lineup at its global innovation conference on October 20. The portfolio comprises C-series central computing chips, S-series automotive silicon carbide chips and M-series vehicle-control chips, extending the automaker’s semiconductor development across computing and power electronics. The C100 central computing chip targets on-device physical AI. Chery said a vehicle configuration […]",
-    "url": "https://technode.com/2026/10/20/chery-unveils-automotive-chip-lineup-spanning-ai-computing-silicon-carbide-and-vehicle-control/",
-    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
     "source": "The Verge",
     "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
     "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
@@ -671,8 +671,28 @@
   },
   {
     "source": "Hacker News",
+    "title": "Dutch startup Elysian says electric flight may be closer than you think",
+    "summary": "Article URL: https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/ Comments URL: https://news.ycombinator.com/item?id=50287213 Points: 1 # Comments: 0",
+    "url": "https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/",
+    "published": "Thu, 29 Oct 2026 11:09:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase Comments URL: https://news.ycombinator.com/item?id=50285992 Points: 3 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+    "published": "Thu, 29 Oct 2026 08:24:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "Hacker News",
     "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
-    "summary": "Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages Comments URL: https://news.ycombinator.com/item?id=50284115 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages Comments URL: https://news.ycombinator.com/item?id=50284115 Points: 4 # Comments: 2",
     "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
     "published": "Thu, 29 Oct 2026 03:06:03 +0000",
     "lang": "en",
@@ -830,53 +850,16 @@
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "Hacker News",
-    "title": "How to Start a Defence Tech Startup in the UK: Part 1",
-    "summary": "Article URL: https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1 Comments URL: https://news.ycombinator.com/item?id=50240393 Points: 10 # Comments: 0",
-    "url": "https://foxandlion.pub/analysis/how-to-start-a-defence-tech-startup-in-the-uk-part-1",
-    "published": "Mon, 26 Oct 2026 07:41:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 71 # Comments: 31",
-    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-    "published": "Mon, 26 Oct 2026 03:12:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "V2EX",
-    "title": "我写了一个开源工具，想让 AI 像 Java 开发一样工作",
-    "summary": "## 背景 我本人是一个 Java 后端开发，大概有两次接触 AI 写代码，第一次是去年十一月份左右，用的是 Cursor,当时高强度使用了一个月后 发现很容易出现幻觉，而且括号经常搞不明白，当时体验是比较差的，就没用了；第二次是今年四月份左右，使用的是 Copilot 说实话我被 AI 的成长给震惊到了，随后我逐步将自己的开发工作转移给 ai 去完成，经过我几个月的使用，很明显的发现 AI 写代码有个短板就是: ai 是根据代码去推测结果的 他几乎不会去运行代码 最多只会根据某些场景写单元测试，这样会导致出什么结果呢 第一个 写完代码后 实际的运行结果达不",
-    "url": "https://www.v2ex.com/t/1252535",
-    "published": 1793167031,
+    "source": "B站",
+    "title": "脑机接口超声波唤醒植物人",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=脑机接口超声波唤醒植物人",
+    "published": "2026-10-29",
     "lang": "zh",
-    "type": "community",
+    "type": "news",
     "fetchedAt": "2026-10-29",
     "meta": {
-      "replies": 42,
-      "node": "程序员"
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "JustAResearcher/gpu-unlock-ada",
-    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-    "published": "2026-10-23T21:00:53Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-29",
-    "meta": {
-      "stars": 4433,
-      "forks": 569,
-      "language": "C",
-      "createdDaysAgo": 5
+      "hotValue": 279595
     }
   },
   {
@@ -889,10 +872,26 @@
     "type": "signal",
     "fetchedAt": "2026-10-29",
     "meta": {
-      "stars": 4413,
-      "forks": 400,
+      "stars": 4594,
+      "forks": 415,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "JustAResearcher/gpu-unlock-ada",
+    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "published": "2026-10-23T21:00:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-10-29",
+    "meta": {
+      "stars": 4469,
+      "forks": 572,
+      "language": "C",
+      "createdDaysAgo": 5
     }
   }
 ]
