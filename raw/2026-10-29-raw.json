@@ -71,20 +71,30 @@
   },
   {
     "source": "钛媒体",
-    "title": "字节跳动招人，入局具身智能",
-    "summary": "字节下场布局具身智能人形机器人。",
-    "url": "https://www.tmtpost.com/8185152.html",
-    "published": "Thu, 29 Oct 2026 18:15:55 +0800",
+    "title": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报",
+    "summary": "具身智能是否能撑起第三曲线有待观察",
+    "url": "https://www.tmtpost.com/8186722.html",
+    "published": "Thu, 29 Oct 2026 19:53:40 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
     "source": "钛媒体",
-    "title": "靠卖液冷零部件撑起IPO，新富科技闯注册关，2026年业绩为何变脸？",
-    "summary": "前三季净利预降三成，液冷小巨人迎大考。",
-    "url": "https://www.tmtpost.com/8185300.html",
-    "published": "Thu, 29 Oct 2026 17:02:41 +0800",
+    "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+    "summary": "10月29日，深兰科技举办新品发布会，正式推出全球首款大模型 AI 智能体工作手机 Wowoker。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。",
+    "url": "https://www.tmtpost.com/8186683.html",
+    "published": "Thu, 29 Oct 2026 19:19:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "钛媒体",
+    "title": "字节跳动招人，入局具身智能",
+    "summary": "字节下场布局具身智能人形机器人。",
+    "url": "https://www.tmtpost.com/8185152.html",
+    "published": "Thu, 29 Oct 2026 18:15:55 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-29"
@@ -351,57 +361,47 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-    "published": "Wed, 28 Oct 2026 23:15:00 +0000",
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "published": "Thu, 29 Oct 2026 19:14:36 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "published": "Thu, 29 Oct 2026 16:21:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
     "source": "TechCrunch",
-    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-    "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+    "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+    "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
+    "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "published": "Thu, 29 Oct 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
     "source": "TechCrunch",
-    "title": "Apple launches its new touchscreen MacBook Pro",
-    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-    "published": "Wed, 28 Oct 2026 17:26:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Xreal Aura is a new wired headset powered by Android XR",
-    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-    "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-    "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "published": "Thu, 29 Oct 2026 14:35:26 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
     "source": "TechNode",
-    "title": "Phantom Blade Zero Puts Wuxia Swordplay on a 66-Day Timer",
+    "title": "Phantom Blade Zero Puts Chinese Wuxia Swordplay on a 66-Day Timer",
     "summary": "An 88 Metascore and 91 OpenCritic average have put S-Game’s dark martial-arts RPG in the conversation as China’s next potential global breakout. Phantom Blade Zero, Chinese developer S-Game’s new wuxia action RPG, launches today on PC and PlayStation 5. The game opens with its protagonist, Soul, impaled through the chest. He chooses an artificial heart […]",
     "url": "https://technode.com/2026/10/29/phantom-blade-zero-puts-wuxia-swordplay-on-a-66-day-timer/",
     "published": "Thu, 29 Oct 2026 09:17:05 +0000",
@@ -640,31 +640,51 @@
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "The Verge",
-    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-    "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
-    "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-    "published": "2026-10-28T22:22:46-04:00",
+    "source": "Hacker News",
+    "title": "Show HN: Academic Ancestry – See Who taught the people who taught you (Launch)",
+    "summary": "I've built this completely solo over the last month. I posted here once a few weeks ago at a very early stage, but since it has greatly matured and I feel is legitimate for a repost. We all know \"We stand on the shoulders of giants\", but who's shoulders exactly? This application is meant to help anyone answer this for themselves, their advisor, or just a scholar they are curious about - anywhere in the world. Current Challenges I'm facing are largely surrounding PDF extractions which I aim to co",
+    "url": "https://academicancestry.org/",
+    "published": "Thu, 29 Oct 2026 19:13:13 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "The Verge",
-    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-    "published": "2026-10-28T19:05:39-04:00",
+    "source": "Hacker News",
+    "title": "Stealth Israeli cyber startup valued at over $1.5B recruits former 8200 chief",
+    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/noua2b4u0 Comments URL: https://news.ycombinator.com/item?id=50291958 Points: 2 # Comments: 0",
+    "url": "https://www.calcalistech.com/ctechnews/article/noua2b4u0",
+    "published": "Thu, 29 Oct 2026 16:43:07 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "The Verge",
-    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-    "published": "2026-10-28T16:03:00-04:00",
+    "source": "Hacker News",
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+    "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much",
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "published": "Thu, 29 Oct 2026 15:56:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Vibecheck – a pre-launch security audit for AI-built apps",
+    "summary": "Article URL: https://github.com/ribato22/vibecheck Comments URL: https://news.ycombinator.com/item?id=50288337 Points: 1 # Comments: 0",
+    "url": "https://github.com/ribato22/vibecheck",
+    "published": "Thu, 29 Oct 2026 13:05:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-29"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ukraine Develops Ground Robots That Launch Interceptor Drones",
+    "summary": "Article URL: https://www.kyivpost.com/post/88325 Comments URL: https://news.ycombinator.com/item?id=50287807 Points: 3 # Comments: 0",
+    "url": "https://www.kyivpost.com/post/88325",
+    "published": "Thu, 29 Oct 2026 12:23:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-29"
@@ -810,56 +830,31 @@
     "fetchedAt": "2026-10-29"
   },
   {
-    "source": "Hacker News",
-    "title": "Ask HN: What would your Startup's Halloween costume be?",
-    "summary": "The costume can contain elements of your product, problem statement or anything related to your startup. Comments URL: https://news.ycombinator.com/item?id=50249836 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=50249836",
-    "published": "Mon, 26 Oct 2026 19:44:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Brazil's Big bank Itau agrees to buy AI startup NeoSpace for $589M",
-    "summary": "Article URL: https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/ Comments URL: https://news.ycombinator.com/item?id=50244801 Points: 2 # Comments: 0",
-    "url": "https://www.reuters.com/world/americas/brazils-itau-agrees-buy-ai-startup-neospace-589-million-2026-10-26/",
-    "published": "Mon, 26 Oct 2026 14:53:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
-    "summary": "Article URL: https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility Comments URL: https://news.ycombinator.com/item?id=50242510 Points: 2 # Comments: 0",
-    "url": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
-    "published": "Mon, 26 Oct 2026 12:27:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Researchers at cybersecurity startup Cathedral got inside Anthropic",
-    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50241543 Points: 10 # Comments: 3",
-    "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
-    "published": "Mon, 26 Oct 2026 10:16:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-29"
-  },
-  {
-    "source": "B站",
-    "title": "脑机接口超声波唤醒植物人",
+    "source": "微博",
+    "title": "#王腾创业首款智能戒指#",
     "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=脑机接口超声波唤醒植物人",
+    "url": "https://s.weibo.com/weibo?q=%23王腾创业首款智能戒指%23",
     "published": "2026-10-29",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-29",
     "meta": {
-      "hotValue": 279595
+      "hotValue": 186222,
+      "rank": 6
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#李玉刚承认自己创业一败涂地#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23李玉刚承认自己创业一败涂地%23",
+    "published": "2026-10-29",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-29",
+    "meta": {
+      "hotValue": 99848,
+      "rank": 45
     }
   },
   {
@@ -872,25 +867,9 @@
     "type": "signal",
     "fetchedAt": "2026-10-29",
     "meta": {
-      "stars": 4594,
-      "forks": 415,
+      "stars": 4715,
+      "forks": 425,
       "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "JustAResearcher/gpu-unlock-ada",
-    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-    "published": "2026-10-23T21:00:53Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-10-29",
-    "meta": {
-      "stars": 4469,
-      "forks": 572,
-      "language": "C",
       "createdDaysAgo": 5
     }
   }

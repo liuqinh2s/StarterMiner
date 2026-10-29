@@ -386,8 +386,15 @@
         "fetchedAt": "2026-10-29",
         "website": {
           "website": "https://deepseek.com",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "service@deepseek.com",
+            "security@deepseek.com"
+          ],
+          "socials": {
+            "twitter": "deepseek_ai",
+            "github": "deepseek-ai",
+            "wechat": "Tooltip"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -461,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "thijs-smudde"
+            "linkedin": "clairewagner91"
           },
           "careerPage": "https://buildhop.io/careers",
           "jobListings": []
@@ -1888,7 +1895,7 @@
             "name@domain.com",
             "u003esupport@meshy.ai",
             "careers@meshy.ai",
-            "meshy-webapp@v2026.10.28.post",
+            "meshy-webapp@v2026.10.29.post",
             "jane@company.com"
           ],
           "socials": {
@@ -4115,9 +4122,7 @@
         "fetchedAt": "2026-10-29",
         "website": {
           "website": "https://pitchpit.app",
-          "emails": [
-            "hello@pitchpit.app"
-          ],
+          "emails": [],
           "socials": {},
           "careerPage": null,
           "jobListings": []
@@ -4208,14 +4213,8 @@
         "fetchedAt": "2026-10-29",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [
-            "info@latitudemedia.com",
-            "events@latitudemedia.com"
-          ],
-          "socials": {
-            "twitter": "_LatitudeMedia",
-            "linkedin": "latitude-media-inc"
-          },
+          "emails": [],
+          "socials": {},
           "careerPage": null,
           "jobListings": []
         },
