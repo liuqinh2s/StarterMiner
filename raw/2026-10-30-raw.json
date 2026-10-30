@@ -71,20 +71,60 @@
   },
   {
     "source": "钛媒体",
-    "title": "Anthropic赌万亿未来，智谱算眼前毛利，谁能活过AI下半场？",
-    "summary": "当大洋彼岸的Anthropic带着上万亿美元的估值预期叩响华尔街大门时，以智谱为代表的中国大模型厂商，正低头在财报里一分一毫地核算着API生意的毛利。",
-    "url": "https://www.tmtpost.com/8186459.html",
-    "published": "Fri, 30 Oct 2026 10:33:47 +0800",
+    "title": "具身智能患上了焦虑症",
+    "summary": "具身智能投资，正从狂热到冷静",
+    "url": "https://www.tmtpost.com/8187761.html",
+    "published": "Fri, 30 Oct 2026 19:01:28 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-30"
   },
   {
     "source": "钛媒体",
-    "title": "沐曦股份做LP了，3600万牵手上海国资",
-    "summary": "在科创板募走数十亿的沐曦股份，又把钱砸进了一级市场",
-    "url": "https://www.tmtpost.com/8186617.html",
-    "published": "Fri, 30 Oct 2026 09:40:39 +0800",
+    "title": "DeepSeek千亿融资曝光：估值达6155亿元",
+    "summary": "DeepSeek的融资故事讲到这里，真正的考验也才刚刚开始。",
+    "url": "https://www.tmtpost.com/8187857.html",
+    "published": "Fri, 30 Oct 2026 18:56:57 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "钛媒体",
+    "title": "出海非洲：铁矿石与铝土矿如何影响中国原料供应链？",
+    "summary": "新增矿源拓宽采购选择，运输成本与资源国政策正在重塑原料供应链。",
+    "url": "https://www.tmtpost.com/8187673.html",
+    "published": "Fri, 30 Oct 2026 17:34:51 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "钛媒体",
+    "title": "XHEART的炼芯术士",
+    "summary": "被大模型定义的芯，能够充分释放模型能力，支持中国智驾实现L4级别自动驾驶。",
+    "url": "https://www.tmtpost.com/8187542.html",
+    "published": "Fri, 30 Oct 2026 16:50:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "钛媒体",
+    "title": "联想的“算力”重估：ISG狂飙与PC失速之间",
+    "summary": "联想正处新旧增长曲线间的估值关键十字路口。",
+    "url": "https://www.tmtpost.com/8187174.html",
+    "published": "Fri, 30 Oct 2026 16:50:43 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "极客公园",
+    "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
+    "summary": "作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务…… 但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。 时间去了哪里？ 写提示词、等待 AI 生成是一部分；生成效果不理想，手动在 IDE 中 修改是另一部分。甚至，开发完成后，代码还需要打开终端测试；准备项目汇报，又要切换到文档和演示工具。 每换一个应用、开启一段新会话，都可能需要重新解释：项目在做什么，为什么这样设计，刚才改到了哪里，还有哪些问题没解决 。 AI 的生产力跑在了前面，而承载它的开发基建：任务调度、状态管理、验证闭环、产物沉淀、跨工具协同，还停留在前 AI 时代 。 于是，到了 2026 年，一些变化开始发生了。这一年，AI 个人助理赛道的热度彻底走到了爆发节点：Meta 推出的个人助理 Muse 上线两周便登顶美加 iOS 免费榜，下载量突破 340 万；此后，OpenAI、Google、字节、腾讯",
+    "url": "http://www.geekpark.net/news/373190",
+    "published": "Fri, 30 Oct 2026 13:49:25 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-30"
@@ -341,6 +381,16 @@
   },
   {
     "source": "爱范儿",
+    "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
+    "summary": "据说是 Anthropic 的 AGI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Fri, 30 Oct 2026 07:42:58 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "爱范儿",
     "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
     "summary": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
     "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -370,11 +420,41 @@
     "fetchedAt": "2026-10-30"
   },
   {
-    "source": "TechCrunch",
-    "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-    "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-    "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-    "published": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "source": "TechNode",
+    "title": "AI inference chip startup Nano-core Chip raises over RMB 1 billion in Series C2 funding",
+    "summary": "Hangzhou-based AI inference chip developer Nano-core Chip has raised more than RMB 1 billion in Series C2 funding, the company announced on October 28. The round was led by JianTou Investment, with participation from Hangzhou Capital, Kaitai Capital, and other investors. The company will use the proceeds for product development and preparation for volume production. […]",
+    "url": "https://technode.com/2026/10/30/ai-inference-chip-startup-nano-core-chip-raises-over-rmb-1-billion-in-series-c2-funding/",
+    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Former Xiaomi executive launches smart ring and AI-powered sleep system",
+    "summary": "ISHO, the sleep technology startup founded by former Xiaomi executive Wang Teng, unveiled its first products on October 29: the ISHO Ring smart ring and the iFlow bed temperature-control system. Prices start at RMB 1,799 and RMB 9,999, respectively. The ring monitors physiological signals to track sleep and provide daily energy-management insights. It offers a […]",
+    "url": "https://technode.com/2026/10/30/former-xiaomi-executive-launches-smart-ring-and-ai-powered-sleep-system/",
+    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xpeng launches MONA L05 SUV with electric and extended-range versions",
+    "summary": "Xpeng launched the MONA L05 on October 29, expanding its lower-priced MONA lineup with its first five-seat SUV. Official list prices start at RMB 144,800, while a limited-time launch offer brings the entry price to RMB 139,800. The model comes in battery-electric and extended-range versions. Electric variants offer up to 635 kilometers of CLTC-rated range, […]",
+    "url": "https://technode.com/2026/10/30/xpeng-launches-mona-l05-suv-with-electric-and-extended-range-versions/",
+    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechNode",
+    "title": "Genshin Impact developer sets December 4 launch for life simulation game Petit Planet",
+    "summary": "HoYoverse, the global brand of Chinese game developer miHoYo, will launch its life simulation game Petit Planet worldwide on December 4 for PC, iOS, and Android. The company announced the date on October 30, following the game’s final beta test. Petit Planet lets players build and customize their own small planets, with activities including farming, […]",
+    "url": "https://technode.com/2026/10/30/genshin-impact-developer-sets-december-4-launch-for-life-simulation-game-petit-planet/",
+    "published": "Fri, 30 Oct 2026 05:46:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-30"
@@ -600,227 +680,13 @@
     "fetchedAt": "2026-10-30"
   },
   {
-    "source": "TechNode",
-    "title": "ByteDance’s PineDrama targets overseas growth with an ecosystem behind its free model",
-    "summary": "ByteDance is extending the competition in China’s short-drama market to overseas markets. According to Jiemian News, PineDrama, ByteDance’s overseas short-drama platform, is operated independently by a team within TikTok’s business division rather than by the team behind Hongguo Short Drama. Since its launch, the platform has seen sustained download growth and has entered the top […]",
-    "url": "https://technode.com/2026/10/23/bytedances-pinedrama-targets-overseas-growth-with-an-ecosystem-behind-its-free-model/",
-    "published": "Fri, 23 Oct 2026 03:40:04 +0000",
+    "source": "The Verge",
+    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "published": "2026-10-30T05:00:00-04:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "TechNode",
-    "title": "Cleaning robotics startup Jingji Intelligent raises tens of millions of RMB in seed funding",
-    "summary": "Shanghai-based cleaning robotics startup Jingji Intelligent has raised tens of millions of RMB in seed funding from Haowen Tianshu Robotics and Shanghai Lanyun Industrial Development. The financing, disclosed on October 20, comes about a month after the company’s establishment in September. Jingji focuses on cleaning vertical surfaces, countertops and sanitary fixtures, applying force control, machine […]",
-    "url": "https://technode.com/2026/10/21/cleaning-robotics-startup-jingji-intelligent-raises-tens-of-millions-of-rmb-in-seed-funding/",
-    "published": "Wed, 21 Oct 2026 07:46:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Academic Ancestry – See Who taught the people who taught you (Launch)",
-    "summary": "I've built this completely solo over the last month. I posted here once a few weeks ago at a very early stage, but since it has greatly matured and I feel is legitimate for a repost. We all know \"We stand on the shoulders of giants\", but who's shoulders exactly? This application is meant to help anyone answer this for themselves, their advisor, or just a scholar they are curious about - anywhere in the world. Current Challenges I'm facing are largely surrounding PDF extractions which I aim to co",
-    "url": "https://academicancestry.org/",
-    "published": "Thu, 29 Oct 2026 19:13:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Stealth Israeli cyber startup valued at over $1.5B recruits former 8200 chief",
-    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/noua2b4u0 Comments URL: https://news.ycombinator.com/item?id=50291958 Points: 2 # Comments: 0",
-    "url": "https://www.calcalistech.com/ctechnews/article/noua2b4u0",
-    "published": "Thu, 29 Oct 2026 16:43:07 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-    "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much",
-    "url": "https://news.ycombinator.com/item?id=50291116",
-    "published": "Thu, 29 Oct 2026 15:56:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Vibecheck – a pre-launch security audit for AI-built apps",
-    "summary": "Article URL: https://github.com/ribato22/vibecheck Comments URL: https://news.ycombinator.com/item?id=50288337 Points: 1 # Comments: 0",
-    "url": "https://github.com/ribato22/vibecheck",
-    "published": "Thu, 29 Oct 2026 13:05:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ukraine Develops Ground Robots That Launch Interceptor Drones",
-    "summary": "Article URL: https://www.kyivpost.com/post/88325 Comments URL: https://news.ycombinator.com/item?id=50287807 Points: 3 # Comments: 0",
-    "url": "https://www.kyivpost.com/post/88325",
-    "published": "Thu, 29 Oct 2026 12:23:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Dutch startup Elysian says electric flight may be closer than you think",
-    "summary": "Article URL: https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/ Comments URL: https://news.ycombinator.com/item?id=50287213 Points: 1 # Comments: 0",
-    "url": "https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/",
-    "published": "Thu, 29 Oct 2026 11:09:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase Comments URL: https://news.ycombinator.com/item?id=50285992 Points: 3 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
-    "published": "Thu, 29 Oct 2026 08:24:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
-    "summary": "Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages Comments URL: https://news.ycombinator.com/item?id=50284115 Points: 4 # Comments: 2",
-    "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
-    "published": "Thu, 29 Oct 2026 03:06:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Breakout coordinator (Launch cross-vendor breakout sessions instantly)",
-    "summary": "Article URL: https://github.com/saranyan/breakout-coordinator Comments URL: https://news.ycombinator.com/item?id=50279166 Points: 4 # Comments: 0",
-    "url": "https://github.com/saranyan/breakout-coordinator",
-    "published": "Wed, 28 Oct 2026 19:04:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Sunlight at night: US startup's demonstration of lighting Earth from space",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites Comments URL: https://news.ycombinator.com/item?id=50273268 Points: 2 # Comments: 1",
-    "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-    "published": "Wed, 28 Oct 2026 13:32:35 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I Used Claude Code to Speed Up My Shell Startup by 95%",
-    "summary": "Article URL: https://www.nickyt.co/blog/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95percent Comments URL: https://news.ycombinator.com/item?id=50272247 Points: 1 # Comments: 0",
-    "url": "https://www.nickyt.co/blog/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95percent",
-    "published": "Wed, 28 Oct 2026 12:03:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
-    "summary": "Article URL: https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/ Comments URL: https://news.ycombinator.com/item?id=50267799 Points: 1 # Comments: 0",
-    "url": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
-    "published": "Wed, 28 Oct 2026 00:23:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20k AI data centers",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=50264210 Points: 1 # Comments: 1",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-    "published": "Tue, 27 Oct 2026 19:10:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "An Account Fit for an Agent (Pool MCP Launch)",
-    "summary": "Article URL: https://poolmoney.com/blog/agent-financial-account Comments URL: https://news.ycombinator.com/item?id=50264108 Points: 2 # Comments: 1",
-    "url": "https://poolmoney.com/blog/agent-financial-account",
-    "published": "Tue, 27 Oct 2026 19:03:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-    "summary": "Article URL: https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military Comments URL: https://news.ycombinator.com/item?id=50262753 Points: 7 # Comments: 1",
-    "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-    "published": "Tue, 27 Oct 2026 17:36:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ukrainian launch test military-purpose communications satellite into orbit",
-    "summary": "Article URL: https://www.pravda.com.ua/eng/news/2026/10/27/8059951/ Comments URL: https://news.ycombinator.com/item?id=50262370 Points: 9 # Comments: 2",
-    "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059951/",
-    "published": "Tue, 27 Oct 2026 17:12:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "summary": "Article URL: https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/ Comments URL: https://news.ycombinator.com/item?id=50258127 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "published": "Tue, 27 Oct 2026 12:29:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push Comments URL: https://news.ycombinator.com/item?id=50257531 Points: 3 # Comments: 0",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
-    "published": "Tue, 27 Oct 2026 11:28:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Command and Conquer: Red Alert 3D (Alpha) – Launch Trailer [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=_-W_Q_vQD_I Comments URL: https://news.ycombinator.com/item?id=50250822 Points: 3 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=_-W_Q_vQD_I",
-    "published": "Mon, 26 Oct 2026 20:56:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
-    "source": "V2EX",
-    "title": "我们只是普通人吗",
-    "summary": "午休时刷小红书 一个博主采访硅谷 AI 的创业者/或则员工的视频，随机路人（不知道是不是演员） 感觉他们都很有目标 也有一定的成就 反观自己 毕业近 10 年了 就是随波逐流 公司倒闭就换个公司 公司裁员就换个公司 没有目标 没有特意培养自己的能力 只是找个工作而已 现在 AI 马上快把我取代了 我再想 我还要这样吗？ 有没一直有职业规划的朋友说一下 如果规划会更好吗？",
-    "url": "https://www.v2ex.com/t/1252838",
-    "published": 1793253290,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-10-30",
-    "meta": {
-      "replies": 71,
-      "node": "职场话题"
-    }
   }
 ]
