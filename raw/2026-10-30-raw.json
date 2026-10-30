@@ -71,6 +71,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "代谢创新药进入“中国时间”：从产品出海到能力出海的行业跃迁丨行业风向标",
+    "summary": "中国药企在全球代谢赛道的位置正在重排，下一步较量的重心，是研发、临床、供应链、商业化全链条能力的出海。",
+    "url": "https://www.tmtpost.com/8187920.html",
+    "published": "Fri, 30 Oct 2026 23:18:18 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "钛媒体",
     "title": "具身智能患上了焦虑症",
     "summary": "具身智能投资，正从狂热到冷静",
     "url": "https://www.tmtpost.com/8187761.html",
@@ -110,11 +120,11 @@
     "fetchedAt": "2026-10-30"
   },
   {
-    "source": "钛媒体",
-    "title": "联想的“算力”重估：ISG狂飙与PC失速之间",
-    "summary": "联想正处新旧增长曲线间的估值关键十字路口。",
-    "url": "https://www.tmtpost.com/8187174.html",
-    "published": "Fri, 30 Oct 2026 16:50:43 +0800",
+    "source": "极客公园",
+    "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+    "summary": "头图图片来源：Apple 10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。 苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPhone Duo 发布时，国行产品页上 Apple 智能后面跟着的是一句「推出时间依监管部门审批情况而定」，到这周新款 MacBook Pro 发布，国行页面还是这句话。现在页面顶部写的是：「Apple 智能的首批核心功能将于今年稍晚推出。」 从 2024 年 6 月在 WWDC 上亮相算起，国行 iPhone 等了整整两年半。 今年 3 月 31 日凌晨，有国行 iPhone 用户发现设置里的「Siri」变成了「Apple 智能与 Siri」，据当时的报道，两个小时左右又被撤了回去，苹果的解释是软件问题。 7 月 15 日，网信办公告 7 款手机端侧生成式 AI 服务完成备案，苹果技术开发（上海）有限公司的「",
+    "url": "http://www.geekpark.net/news/373238",
+    "published": "Sat, 31 Oct 2026 06:26:23 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-10-30"
@@ -370,16 +380,6 @@
     "fetchedAt": "2026-10-30"
   },
   {
-    "source": "极客公园",
-    "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
-    "summary": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默契：聊天框该翻篇了，AI 应该自己找事做。 美国时间 10 月 21 日，Anthropic 终于拿出了自己的答案：Claude Duet。 Claude Duet 的早报界面｜图片来源：Anthropic 这是四家里最晚亮相的一个，也是最「奇怪」的一个。在所有人都急着证明自家 AI 无所不能的时候，Anthropic 像个严肃过头的管家，不仅是唯一主动承认「订票这类生活杂事我们做得没那么好」的厂商，还在发布文档里白纸黑字地给自己画下一道又一道红线。 这恰恰触到了整场竞赛里很少有人愿意直视的问题。 主动型智能体真正的分水岭，不在于能替你发多少封邮件，而在于它有没有足够的判断力，知道什么时候闭嘴",
-    "url": "http://www.geekpark.net/news/372740",
-    "published": "Thu, 22 Oct 2026 15:23:08 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-10-30"
-  },
-  {
     "source": "爱范儿",
     "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
     "summary": "据说是 Anthropic 的 AGI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -401,20 +401,70 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "published": "Thu, 29 Oct 2026 19:14:36 +0000",
+    "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+    "published": "Fri, 30 Oct 2026 23:21:23 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-30"
   },
   {
     "source": "TechCrunch",
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "published": "Thu, 29 Oct 2026 16:21:00 +0000",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "published": "Fri, 30 Oct 2026 22:56:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "published": "Fri, 30 Oct 2026 21:52:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "published": "Fri, 30 Oct 2026 16:03:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "published": "Fri, 30 Oct 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "published": "Fri, 30 Oct 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "published": "Fri, 30 Oct 2026 13:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-30"
@@ -681,10 +731,220 @@
   },
   {
     "source": "The Verge",
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
-    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "published": "2026-10-30T05:00:00-04:00",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "published": "2026-10-30T18:32:53-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Exclusive details about Akai’s MPC Sample Key",
+    "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]",
+    "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+    "published": "2026-10-30T17:01:32-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/ Comments URL: https://news.ycombinator.com/item?id=50311300 Points: 4 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+    "published": "Fri, 30 Oct 2026 23:07:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Spotify aims to launch AI music remix service early next year",
+    "summary": "Article URL: https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b Comments URL: https://news.ycombinator.com/item?id=50301102 Points: 4 # Comments: 0",
+    "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
+    "published": "Fri, 30 Oct 2026 08:16:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Academic Ancestry – See Who taught the people who taught you (Launch)",
+    "summary": "I've built this completely solo over the last month. I posted here once a few weeks ago at a very early stage, but since it has greatly matured and I feel is legitimate for a repost. We all know \"We stand on the shoulders of giants\", but who's shoulders exactly? This application is meant to help anyone answer this for themselves, their advisor, or just a scholar they are curious about - anywhere in the world. Current Challenges I'm facing are largely surrounding PDF extractions which I aim to co",
+    "url": "https://academicancestry.org/",
+    "published": "Thu, 29 Oct 2026 19:13:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Stealth Israeli cyber startup valued at over $1.5B recruits former 8200 chief",
+    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/noua2b4u0 Comments URL: https://news.ycombinator.com/item?id=50291958 Points: 2 # Comments: 0",
+    "url": "https://www.calcalistech.com/ctechnews/article/noua2b4u0",
+    "published": "Thu, 29 Oct 2026 16:43:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+    "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes. We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much",
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "published": "Thu, 29 Oct 2026 15:56:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Vibecheck – a pre-launch security audit for AI-built apps",
+    "summary": "Article URL: https://github.com/ribato22/vibecheck Comments URL: https://news.ycombinator.com/item?id=50288337 Points: 1 # Comments: 0",
+    "url": "https://github.com/ribato22/vibecheck",
+    "published": "Thu, 29 Oct 2026 13:05:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ukraine Develops Ground Robots That Launch Interceptor Drones",
+    "summary": "Article URL: https://www.kyivpost.com/post/88325 Comments URL: https://news.ycombinator.com/item?id=50287807 Points: 3 # Comments: 0",
+    "url": "https://www.kyivpost.com/post/88325",
+    "published": "Thu, 29 Oct 2026 12:23:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Dutch startup Elysian says electric flight may be closer than you think",
+    "summary": "Article URL: https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/ Comments URL: https://news.ycombinator.com/item?id=50287213 Points: 1 # Comments: 0",
+    "url": "https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/",
+    "published": "Thu, 29 Oct 2026 11:09:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase Comments URL: https://news.ycombinator.com/item?id=50285992 Points: 3 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+    "published": "Thu, 29 Oct 2026 08:24:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
+    "summary": "Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages Comments URL: https://news.ycombinator.com/item?id=50284115 Points: 4 # Comments: 2",
+    "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+    "published": "Thu, 29 Oct 2026 03:06:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Breakout coordinator (Launch cross-vendor breakout sessions instantly)",
+    "summary": "Article URL: https://github.com/saranyan/breakout-coordinator Comments URL: https://news.ycombinator.com/item?id=50279166 Points: 4 # Comments: 0",
+    "url": "https://github.com/saranyan/breakout-coordinator",
+    "published": "Wed, 28 Oct 2026 19:04:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sunlight at night: US startup's demonstration of lighting Earth from space",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites Comments URL: https://news.ycombinator.com/item?id=50273268 Points: 2 # Comments: 1",
+    "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+    "published": "Wed, 28 Oct 2026 13:32:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I Used Claude Code to Speed Up My Shell Startup by 95%",
+    "summary": "Article URL: https://www.nickyt.co/blog/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95percent Comments URL: https://news.ycombinator.com/item?id=50272247 Points: 1 # Comments: 0",
+    "url": "https://www.nickyt.co/blog/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95percent",
+    "published": "Wed, 28 Oct 2026 12:03:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
+    "summary": "Article URL: https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/ Comments URL: https://news.ycombinator.com/item?id=50267799 Points: 1 # Comments: 0",
+    "url": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
+    "published": "Wed, 28 Oct 2026 00:23:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20k AI data centers",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=50264210 Points: 1 # Comments: 1",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+    "published": "Tue, 27 Oct 2026 19:10:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "An Account Fit for an Agent (Pool MCP Launch)",
+    "summary": "Article URL: https://poolmoney.com/blog/agent-financial-account Comments URL: https://news.ycombinator.com/item?id=50264108 Points: 2 # Comments: 1",
+    "url": "https://poolmoney.com/blog/agent-financial-account",
+    "published": "Tue, 27 Oct 2026 19:03:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "summary": "Article URL: https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military Comments URL: https://news.ycombinator.com/item?id=50262753 Points: 7 # Comments: 1",
+    "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+    "published": "Tue, 27 Oct 2026 17:36:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ukrainian launch test military-purpose communications satellite into orbit",
+    "summary": "Article URL: https://www.pravda.com.ua/eng/news/2026/10/27/8059951/ Comments URL: https://news.ycombinator.com/item?id=50262370 Points: 9 # Comments: 2",
+    "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059951/",
+    "published": "Tue, 27 Oct 2026 17:12:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "summary": "Article URL: https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/ Comments URL: https://news.ycombinator.com/item?id=50258127 Points: 2 # Comments: 0",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "published": "Tue, 27 Oct 2026 12:29:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-10-30"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push Comments URL: https://news.ycombinator.com/item?id=50257531 Points: 3 # Comments: 0",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
+    "published": "Tue, 27 Oct 2026 11:28:28 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-30"
