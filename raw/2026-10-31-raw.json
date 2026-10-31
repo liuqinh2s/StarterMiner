@@ -772,7 +772,7 @@
   {
     "source": "Hacker News",
     "title": "OpenAI slashes funding target by $10B as tech anxieties mount",
-    "summary": "Article URL: https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f Comments URL: https://news.ycombinator.com/item?id=50312013 Points: 5 # Comments: 2",
+    "summary": "Article URL: https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f Comments URL: https://news.ycombinator.com/item?id=50312013 Points: 7 # Comments: 2",
     "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f",
     "published": "Sat, 31 Oct 2026 00:33:17 +0000",
     "lang": "en",
@@ -782,7 +782,7 @@
   {
     "source": "Hacker News",
     "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/ Comments URL: https://news.ycombinator.com/item?id=50311300 Points: 5 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/ Comments URL: https://news.ycombinator.com/item?id=50311300 Points: 6 # Comments: 0",
     "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
     "published": "Fri, 30 Oct 2026 23:07:28 +0000",
     "lang": "en",
@@ -968,5 +968,33 @@
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-10-31"
+  },
+  {
+    "source": "V2EX",
+    "title": "AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗",
+    "summary": "前几天，我在一个平台发了条动态，预告自己在做的一个写作发布工具。底下有人说没啥用，不如做个抢优惠券的；也有人说别自嗨。 我没有生气，也没往心里去，但它让我想了很久。平台上的读者来自四面八方，关心的东西差别很大，同一件事在不同的人眼里，价值完全不同，这很正常。我真正在意的是另一件事：我想写的东西，是不是只能放进推荐流里，等一个不确定的结果？ 这让我重新审视了一个老问题：在 AI 时代，个人博客还有什么位置，能起什么作用。 先说难听的：我知道现在开独立博客很傻。 平台有推荐，AI 有摘要，人连搜索结果都懒得点。新域名没有权重，没有外链，没有推荐位，写一篇长文发出去，阅读量个",
+    "url": "https://www.v2ex.com/t/1253343",
+    "published": 1793408773,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-31",
+    "meta": {
+      "replies": 58,
+      "node": "程序员"
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "Loon 用可莉插件的注意一下，后续插件内容会被加密",
+    "summary": "好像是有人不遵守协议肆意转发把作者搞生气了，然后 Loon 光速推出了之前的废案，现在允许插件加密了。我作为白嫖党很感谢大佬的贡献，不过后面我是真不敢用了... 当然有人说你平时也不看插件源码，对你有影响吗？这个例子就像路边的摄像头，我平时也没法看，但是我知道这么多用户里面总有几个盯着更新的（我身边知道的就有一个，从来不开自动更新，都是手动维护），而且在大众的监督下，做手脚的风险很低，也能追溯。后续插件全面加密之后，只能通过抓包分析流量来判断插件的内容了，就像把大街上的摄像头全拆了，一举一动全靠大家的良心。作者用爱发电了好几年，我也信任最近一段时间的插件肯定没有问题，就怕在用一两年之后，人总",
+    "url": "https://www.v2ex.com/t/1253305",
+    "published": 1793371234,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-10-31",
+    "meta": {
+      "replies": 39,
+      "node": "Apple"
+    }
   }
 ]
