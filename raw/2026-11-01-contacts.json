@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "get-your-hustle"
+          "linkedin": "thijs-smudde"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -1537,13 +1537,8 @@
       "fetchedAt": "2026-11-01",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [
-          "info@latitudemedia.com"
-        ],
-        "socials": {
-          "twitter": "intent",
-          "linkedin": "latitude-media-inc"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },

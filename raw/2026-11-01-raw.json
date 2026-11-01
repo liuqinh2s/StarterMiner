@@ -71,6 +71,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "南十字星下的中国能源军团：All-Energy Australia 2026 背后的光储棋局",
+    "summary": "不是内卷外溢，也不是简单出海。是一场从“卖产品”到“卖系统能力”的产业位移，正在南半球悄然发生。",
+    "url": "https://www.tmtpost.com/8189075.html",
+    "published": "Sun, 01 Nov 2026 17:13:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "钛媒体",
+    "title": "从效率到效能，真正的AI组织",
+    "summary": "现在全网都在热炒“AI原生组织”和“智能组织”，以为给各部门配几个大模型、放几个Multi-Agent自由博弈，组织就进化了。",
+    "url": "https://www.tmtpost.com/8188900.html",
+    "published": "Sun, 01 Nov 2026 16:26:36 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "钛媒体",
     "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
     "summary": "（10 月 26 日-31 日）OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元；谷歌推出最新世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成；Meta拟融资350亿美元并计划推出600亿美元股票发行计划；中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点...",
     "url": "https://www.tmtpost.com/8188997.html",
@@ -110,31 +130,11 @@
     "fetchedAt": "2026-11-01"
   },
   {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月1日）",
-    "summary": "AI叙事进入资本配置的周期性重估：纳斯达克录得2025年3月以来最差单月，Meta、Alphabet、Amazon财报利好却遭抛售，四巨头AI资本开支把自由现金流砸回负值，高盛预计2026年合计达7250亿美元；标普将Meta信用展望下调至负面，为其首次因AI基建支出获负面展望。一级市场同步降温，OpenAI融资目标从300亿美元砍至约200亿美元、估值降至1.25万亿美元，年化营收信号由700亿美元修正至500亿美元，2030年算力支出从1.4万亿美元削至约6000亿美元。Anthropic提交IPO招股文件，披露近9000亿美元未来算力义务，远超1175亿美元负债与1120亿美元现金；英伟达拟为Nscale西弗吉尼亚Anthropic数据中心提供数十亿美元剩余价值担保，AI基建信用链条收紧。",
-    "url": "https://www.tmtpost.com/8188908.html",
-    "published": "Sun, 01 Nov 2026 09:23:03 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-01"
-  },
-  {
-    "source": "钛媒体",
-    "title": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
-    "summary": "我耗时 12 天拼完 1000 片纯白地狱拼图，尝试交给大模型挑战，它 5 小时便陷入崩溃。不是 AI 不能拼，而是擅长看图描述的生成式大模型缺少精密测量与全局约束能力；传统机器视觉方案反倒可行。这件实验，也照见我们当下思考外包、本末倒置的认知困境。",
-    "url": "https://www.tmtpost.com/8188396.html",
-    "published": "Sat, 31 Oct 2026 20:18:13 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-01"
-  },
-  {
     "source": "极客公园",
     "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
-    "summary": "豆包手机的问题，也是蚂蚁灵光的问题。 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse， 购物 是 Muse 最常见的用途，超过 四分之一 的用户在用它买东西，平均客单价超过 200 美元 ；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。 六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「 记得住、盯得牢、办得了 」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。 但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。 灵光 2.0 界面 我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet",
-    "url": "http://www.geekpark.net/news/373244",
-    "published": "Sun, 01 Nov 2026 09:41:45 +0800",
+    "summary": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse， 购物 是 Muse 最常见的用途，超过 四分之一 的用户在用它买东西，平均客单价超过 200 美元 ；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。 六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「 记得住、盯得牢、办得了 」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。 但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。 灵光 2.0 界面 我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet。实测表明，",
+    "url": "http://www.geekpark.net/news/373249",
+    "published": "Sun, 01 Nov 2026 18:03:12 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-01"
@@ -731,8 +731,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "Show HN: What [67] MCP servers do at startup, with the internet cut off",
+    "summary": "Article URL: https://mcp.brydge-ai.com Comments URL: https://news.ycombinator.com/item?id=50322794 Points: 2 # Comments: 0",
+    "url": "https://mcp.brydge-ai.com",
+    "published": "Sun, 01 Nov 2026 04:48:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "Hacker News",
     "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-    "summary": "Article URL: https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/ Comments URL: https://news.ycombinator.com/item?id=50321606 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/ Comments URL: https://news.ycombinator.com/item?id=50321606 Points: 3 # Comments: 0",
     "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
     "published": "Sun, 01 Nov 2026 00:25:05 +0000",
     "lang": "en",
@@ -752,7 +762,7 @@
   {
     "source": "Hacker News",
     "title": "OpenAI slashes funding target by $10B amid tech rout, FT reports",
-    "summary": "Article URL: https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50318079 Points: 4 # Comments: 1",
+    "summary": "Article URL: https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50318079 Points: 5 # Comments: 1",
     "url": "https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/",
     "published": "Sat, 31 Oct 2026 17:23:55 +0000",
     "lang": "en",
@@ -910,14 +920,20 @@
     "fetchedAt": "2026-11-01"
   },
   {
-    "source": "Hacker News",
-    "title": "Sunlight at night: US startup's demonstration of lighting Earth from space",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites Comments URL: https://news.ycombinator.com/item?id=50273268 Points: 2 # Comments: 1",
-    "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-    "published": "Wed, 28 Oct 2026 13:32:35 +0000",
+    "source": "GitHub新星",
+    "title": "deepseek-ai/dsh-superagent-prototype",
+    "summary": "Towards a More Autonomous Agent System",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "published": "2026-10-31T09:32:46Z",
     "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-01"
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 5056,
+      "forks": 482,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
+    }
   },
   {
     "source": "GitHub新星",
@@ -929,8 +945,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 4779,
-      "forks": 1216,
+      "stars": 4981,
+      "forks": 1267,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -945,26 +961,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 3680,
-      "forks": 182,
+      "stars": 4093,
+      "forks": 202,
       "language": "JavaScript",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System",
-    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-    "published": "2026-10-31T09:32:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 3458,
-      "forks": 315,
-      "language": "TypeScript",
-      "createdDaysAgo": 0
     }
   },
   {
@@ -977,8 +977,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 2909,
-      "forks": 465,
+      "stars": 3282,
+      "forks": 549,
       "language": "Kotlin",
       "createdDaysAgo": 2
     }
@@ -993,9 +993,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 2698,
-      "forks": 211,
+      "stars": 2872,
+      "forks": 232,
       "language": "C",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "patch-gg/pixelfx",
+    "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "published": "2026-10-30T06:43:25Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1960,
+      "forks": 257,
+      "language": "JavaScript",
       "createdDaysAgo": 2
     }
   },
@@ -1009,10 +1025,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1757,
-      "forks": 470,
+      "stars": 1824,
+      "forks": 479,
       "language": "Go",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1025,8 +1041,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1652,
-      "forks": 4,
+      "stars": 1673,
+      "forks": 5,
       "language": null,
       "createdDaysAgo": 4
     }
@@ -1041,42 +1057,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1595,
-      "forks": 365,
+      "stars": 1611,
+      "forks": 366,
       "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "patch-gg/pixelfx",
-    "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "url": "https://github.com/patch-gg/pixelfx",
-    "published": "2026-10-30T06:43:25Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1594,
-      "forks": 195,
-      "language": "JavaScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "lexifina/global-law",
-    "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-    "url": "https://github.com/lexifina/global-law",
-    "published": "2026-10-28T13:34:16Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1438,
-      "forks": 118,
-      "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1089,9 +1073,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1380,
-      "forks": 178,
+      "stars": 1556,
+      "forks": 191,
       "language": "C++",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "lexifina/global-law",
+    "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+    "url": "https://github.com/lexifina/global-law",
+    "published": "2026-10-28T13:34:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1490,
+      "forks": 124,
+      "language": "HTML",
       "createdDaysAgo": 3
     }
   },
@@ -1105,10 +1105,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1306,
-      "forks": 132,
+      "stars": 1342,
+      "forks": 134,
       "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1121,10 +1121,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1206,
-      "forks": 319,
+      "stars": 1232,
+      "forks": 327,
       "language": "HTML",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1137,10 +1137,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1169,
-      "forks": 30,
+      "stars": 1210,
+      "forks": 31,
       "language": "Lua",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1161,22 +1161,6 @@
   },
   {
     "source": "GitHub新星",
-    "title": "BryceYuuu/RUN",
-    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "url": "https://github.com/BryceYuuu/RUN",
-    "published": "2026-10-29T11:28:43Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 965,
-      "forks": 56,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
     "title": "haydenschmitty/floorplan",
     "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
     "url": "https://github.com/haydenschmitty/floorplan",
@@ -1185,26 +1169,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 941,
-      "forks": 65,
+      "stars": 1111,
+      "forks": 77,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "HRuiCcc/RuiC-PoseAtlas",
-    "summary": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-    "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-    "published": "2026-10-28T07:00:53Z",
+    "title": "BryceYuuu/RUN",
+    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "published": "2026-10-29T11:28:43Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 875,
-      "forks": 222,
-      "language": "JavaScript",
-      "createdDaysAgo": 3
+      "stars": 1066,
+      "forks": 64,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1217,10 +1201,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 847,
-      "forks": 136,
+      "stars": 937,
+      "forks": 142,
       "language": "TypeScript",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "HRuiCcc/RuiC-PoseAtlas",
+    "summary": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+    "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+    "published": "2026-10-28T07:00:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 922,
+      "forks": 233,
+      "language": "JavaScript",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Arjun-Ingole/hop",
+    "summary": "Install Linux next to Windows without a USB stick",
+    "url": "https://github.com/Arjun-Ingole/hop",
+    "published": "2026-10-30T19:40:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 914,
+      "forks": 31,
+      "language": "PowerShell",
+      "createdDaysAgo": 1
     }
   }
 ]
