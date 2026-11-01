@@ -120,16 +120,6 @@
     "fetchedAt": "2026-11-01"
   },
   {
-    "source": "钛媒体",
-    "title": "L4需要更大的模型，芯片得换个造法了",
-    "summary": "L4需要更大的模型，芯片得换个造法了",
-    "url": "https://www.tmtpost.com/8188662.html",
-    "published": "Sun, 01 Nov 2026 10:13:22 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-01"
-  },
-  {
     "source": "极客公园",
     "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
     "summary": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse， 购物 是 Muse 最常见的用途，超过 四分之一 的用户在用它买东西，平均客单价超过 200 美元 ；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。 六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「 记得住、盯得牢、办得了 」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。 但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。 灵光 2.0 界面 我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet。实测表明，",
@@ -406,6 +396,16 @@
     "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Thu, 29 Oct 2026 00:00:32 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+    "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+    "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+    "published": "Sun, 01 Nov 2026 14:00:00 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-01"
   },
@@ -721,10 +721,40 @@
   },
   {
     "source": "The Verge",
-    "title": "Get in the spirit with these horrors from YouTube",
+    "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+    "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than […]",
+    "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+    "published": "2026-11-01T09:00:00-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "The Verge",
+    "title": "Get in the spooky spirit with these horrors from YouTube",
     "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
     "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
     "published": "2026-10-31T17:06:58-04:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Quarter – A TUI launcher to browse, search and launch your games",
+    "summary": "Quarter sits on top of the launcher client you already have. It grabs your library and hands every action back to the launcher, there's no login or password, no API key or data collection. Your client does everything else. Quarter is just a fast shortcut to play your favorite games from the terminal you live in every day. That was my main mission when I created Quarter; just insert quarter, pick a game, press Enter. Written in Go with Bubble Tea, reads Steam's own files on disk; game logos are d",
+    "url": "https://github.com/stronxyo/quarter",
+    "published": "Sun, 01 Nov 2026 20:40:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-01"
+  },
+  {
+    "source": "Hacker News",
+    "title": "\"Theranos 2.0\" startup has patents, investors but no product",
+    "summary": "Article URL: https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/ Comments URL: https://news.ycombinator.com/item?id=50329606 Points: 3 # Comments: 1",
+    "url": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/",
+    "published": "Sun, 01 Nov 2026 20:39:58 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-01"
@@ -762,7 +792,7 @@
   {
     "source": "Hacker News",
     "title": "OpenAI slashes funding target by $10B amid tech rout, FT reports",
-    "summary": "Article URL: https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50318079 Points: 5 # Comments: 1",
+    "summary": "Article URL: https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/ Comments URL: https://news.ycombinator.com/item?id=50318079 Points: 6 # Comments: 1",
     "url": "https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/",
     "published": "Sat, 31 Oct 2026 17:23:55 +0000",
     "lang": "en",
@@ -802,7 +832,7 @@
   {
     "source": "Hacker News",
     "title": "YC funded a startup $1.3M to build silent speech – a dev on x built it in 9mins",
-    "summary": "Article URL: https://startupfortune.com/a-startup-raised-13-million-for-silent-speech-glasses-and-a-developer-built-the-free-version-in-nine-minutes/ Comments URL: https://news.ycombinator.com/item?id=50315496 Points: 9 # Comments: 4",
+    "summary": "Article URL: https://startupfortune.com/a-startup-raised-13-million-for-silent-speech-glasses-and-a-developer-built-the-free-version-in-nine-minutes/ Comments URL: https://news.ycombinator.com/item?id=50315496 Points: 10 # Comments: 4",
     "url": "https://startupfortune.com/a-startup-raised-13-million-for-silent-speech-glasses-and-a-developer-built-the-free-version-in-nine-minutes/",
     "published": "Sat, 31 Oct 2026 12:24:49 +0000",
     "lang": "en",
@@ -900,26 +930,6 @@
     "fetchedAt": "2026-11-01"
   },
   {
-    "source": "Hacker News",
-    "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
-    "summary": "Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages Comments URL: https://news.ycombinator.com/item?id=50284115 Points: 4 # Comments: 2",
-    "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
-    "published": "Thu, 29 Oct 2026 03:06:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-01"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Breakout coordinator (Launch cross-vendor breakout sessions instantly)",
-    "summary": "Article URL: https://github.com/saranyan/breakout-coordinator Comments URL: https://news.ycombinator.com/item?id=50279166 Points: 4 # Comments: 0",
-    "url": "https://github.com/saranyan/breakout-coordinator",
-    "published": "Wed, 28 Oct 2026 19:04:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-01"
-  },
-  {
     "source": "GitHub新星",
     "title": "deepseek-ai/dsh-superagent-prototype",
     "summary": "Towards a More Autonomous Agent System",
@@ -929,8 +939,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 5056,
-      "forks": 482,
+      "stars": 7130,
+      "forks": 719,
       "language": "TypeScript",
       "createdDaysAgo": 1
     }
@@ -945,10 +955,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 4981,
-      "forks": 1267,
+      "stars": 5128,
+      "forks": 1312,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -961,10 +971,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 4093,
-      "forks": 202,
+      "stars": 4815,
+      "forks": 239,
       "language": "JavaScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -977,10 +987,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 3282,
-      "forks": 549,
+      "stars": 3791,
+      "forks": 691,
       "language": "Kotlin",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -993,10 +1003,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 2872,
-      "forks": 232,
+      "stars": 3174,
+      "forks": 255,
       "language": "C",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1009,58 +1019,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1960,
-      "forks": 257,
+      "stars": 2528,
+      "forks": 325,
       "language": "JavaScript",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "paipiange/nvzhuang",
-    "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "url": "https://github.com/paipiange/nvzhuang",
-    "published": "2026-10-29T06:08:00Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1824,
-      "forks": 479,
-      "language": "Go",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "aschmelyun/print-my-profile-pic",
-    "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
-    "url": "https://github.com/aschmelyun/print-my-profile-pic",
-    "published": "2026-10-27T20:40:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1673,
-      "forks": 5,
-      "language": null,
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "andyhuo520/digital-human-koubo",
-    "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-    "url": "https://github.com/andyhuo520/digital-human-koubo",
-    "published": "2026-10-26T04:34:09Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1611,
-      "forks": 366,
-      "language": "TypeScript",
-      "createdDaysAgo": 6
     }
   },
   {
@@ -1073,90 +1035,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1556,
-      "forks": 191,
+      "stars": 1972,
+      "forks": 234,
       "language": "C++",
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "lexifina/global-law",
-    "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-    "url": "https://github.com/lexifina/global-law",
-    "published": "2026-10-28T13:34:16Z",
+    "title": "paipiange/nvzhuang",
+    "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "published": "2026-10-29T06:08:00Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1490,
-      "forks": 124,
-      "language": "HTML",
+      "stars": 1861,
+      "forks": 490,
+      "language": "Go",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Motionsites-AI/claude-skill",
-    "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-    "url": "https://github.com/Motionsites-AI/claude-skill",
-    "published": "2026-10-26T06:58:45Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1342,
-      "forks": 134,
-      "language": "Python",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "smithjohn78390/tongjiang-lab",
-    "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-    "url": "https://github.com/smithjohn78390/tongjiang-lab",
-    "published": "2026-10-28T04:29:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1232,
-      "forks": 327,
-      "language": "HTML",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "kevinraymond/florilegium",
-    "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "url": "https://github.com/kevinraymond/florilegium",
-    "published": "2026-10-30T07:49:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1210,
-      "forks": 31,
-      "language": "Lua",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "deepopen-com/deepopen-3d-webs",
-    "summary": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian po",
-    "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-    "published": "2026-10-26T12:13:47Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1131,
-      "forks": 111,
-      "language": "Python",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -1169,57 +1067,105 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 1111,
-      "forks": 77,
+      "stars": 1720,
+      "forks": 118,
       "language": "JavaScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "BryceYuuu/RUN",
-    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "url": "https://github.com/BryceYuuu/RUN",
-    "published": "2026-10-29T11:28:43Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 1066,
-      "forks": 64,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "D3voz/openjutsu",
-    "summary": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
-    "url": "https://github.com/D3voz/openjutsu",
-    "published": "2026-10-26T13:48:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-01",
-    "meta": {
-      "stars": 937,
-      "forks": 142,
-      "language": "TypeScript",
       "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "HRuiCcc/RuiC-PoseAtlas",
-    "summary": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-    "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-    "published": "2026-10-28T07:00:53Z",
+    "title": "aschmelyun/print-my-profile-pic",
+    "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+    "url": "https://github.com/aschmelyun/print-my-profile-pic",
+    "published": "2026-10-27T20:40:05Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 922,
-      "forks": 233,
-      "language": "JavaScript",
+      "stars": 1692,
+      "forks": 6,
+      "language": null,
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "andyhuo520/digital-human-koubo",
+    "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "published": "2026-10-26T04:34:09Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1637,
+      "forks": 368,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "lexifina/global-law",
+    "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+    "url": "https://github.com/lexifina/global-law",
+    "published": "2026-10-28T13:34:16Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1588,
+      "forks": 142,
+      "language": "HTML",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Motionsites-AI/claude-skill",
+    "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "url": "https://github.com/Motionsites-AI/claude-skill",
+    "published": "2026-10-26T06:58:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1403,
+      "forks": 136,
+      "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "kevinraymond/florilegium",
+    "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "published": "2026-10-30T07:49:05Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1285,
+      "forks": 32,
+      "language": "Lua",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "smithjohn78390/tongjiang-lab",
+    "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+    "url": "https://github.com/smithjohn78390/tongjiang-lab",
+    "published": "2026-10-28T04:29:29Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1250,
+      "forks": 333,
+      "language": "HTML",
       "createdDaysAgo": 4
     }
   },
@@ -1233,10 +1179,74 @@
     "type": "signal",
     "fetchedAt": "2026-11-01",
     "meta": {
-      "stars": 914,
-      "forks": 31,
+      "stars": 1202,
+      "forks": 41,
       "language": "PowerShell",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "BryceYuuu/RUN",
+    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "published": "2026-10-29T11:28:43Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1146,
+      "forks": 67,
+      "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "deepopen-com/deepopen-3d-webs",
+    "summary": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian po",
+    "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+    "published": "2026-10-26T12:13:47Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1130,
+      "forks": 111,
+      "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "D3voz/openjutsu",
+    "summary": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+    "url": "https://github.com/D3voz/openjutsu",
+    "published": "2026-10-26T13:48:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1043,
+      "forks": 155,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "physicsdolphin/nv-uefi-unlocker",
+    "summary": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
+    "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+    "published": "2026-10-26T06:22:24Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-01",
+    "meta": {
+      "stars": 1030,
+      "forks": 94,
+      "language": "Rust",
+      "createdDaysAgo": 6
     }
   }
 ]
