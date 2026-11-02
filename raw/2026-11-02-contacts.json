@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "leo-guinan-4211761bb"
+          "linkedin": "toddembleton"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -535,12 +535,8 @@
       "fetchedAt": "2026-11-02",
       "website": {
         "website": "https://www.ideavalu.com",
-        "emails": [
-          "ideavalu@gmail.com"
-        ],
-        "socials": {
-          "twitter": "ideavalu79057"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
@@ -1469,8 +1465,11 @@
       "website": {
         "website": "https://aisle.com",
         "emails": [],
-        "socials": {},
-        "careerPage": null,
+        "socials": {
+          "twitter": "AISLE_Inc",
+          "linkedin": "weareaisle"
+        },
+        "careerPage": "https://aisle.com/careers",
         "jobListings": []
       },
       "github": {},
