@@ -1,7 +1,8 @@
 {
-  "lastUpdate": "2026-11-01",
+  "lastUpdate": "2026-11-02",
   "totalProjects": 237,
   "files": [
+    "projects-2026-11-02.json",
     "projects-2026-11-01.json",
     "projects-2026-10-31.json",
     "projects-2026-10-30.json",
@@ -194,5 +195,5 @@
     "projects-2026-04-26.json",
     "projects-2026-04-25.json"
   ],
-  "generatedAt": "2026-11-01T23:28:45.632367"
+  "generatedAt": "2026-11-02T04:28:40.797800"
 }
