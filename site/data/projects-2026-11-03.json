@@ -468,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "damjan-dabo"
+            "linkedin": "gkotte"
           },
           "careerPage": "https://buildhop.io/careers",
           "jobListings": []
@@ -715,8 +715,8 @@
           "website": "https://exe.dev",
           "emails": [],
           "socials": {
-            "twitter": "ssh_exe_dev",
-            "linkedin": "crawshaw"
+            "twitter": "exedev",
+            "linkedin": "ssh-exe-dev"
           },
           "careerPage": "https://exe.dev/jobs",
           "jobListings": []
@@ -4179,8 +4179,10 @@
             "linkedin": "viralbshah",
             "github": "JuliaComputing"
           },
-          "careerPage": "https://juliahub.com/jobs",
-          "jobListings": []
+          "careerPage": "https://juliahub.com/careers",
+          "jobListings": [
+            "Careers: Build the Future of Engineering AI | JuliaHub"
+          ]
         },
         "github": {},
         "hiring": [],
@@ -4216,8 +4218,13 @@
         "fetchedAt": "2026-11-03",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "info@latitudemedia.com"
+          ],
+          "socials": {
+            "twitter": "intent",
+            "linkedin": "latitude-media-inc"
+          },
           "careerPage": null,
           "jobListings": []
         },

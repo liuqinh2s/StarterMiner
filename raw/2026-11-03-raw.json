@@ -101,6 +101,26 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】报告提出下一步中国金融工作有5方面考虑；中兴拟成立合资公司出售手机业务，回应称“不属实”｜独家；百度否认昆仑芯IPO推迟",
+    "summary": "姚顺宇否认创业：目前仍是DeepMind员工；Seedance海外收入占比已达50%，国内市场腾讯、B站等互联网企业为主要客户；Anthropic到2026年底算力规模将超过3.5吉瓦；多家券商中标第三次互换便利，数百亿资金将用来增持股票和股票ETF；电子布11月涨价落地，多家产业链上市公司回应；世界黄金协会：三季度全球实物黄金ETF重回净流入态势，合计净流入211吨；苹果预计存储芯片成本压力或持续至明年",
+    "url": "https://www.tmtpost.com/8192223.html",
+    "published": "Wed, 04 Nov 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "钛媒体",
+    "title": "九赴进博，西门子把工业 AI 推上产线",
+    "summary": "本届进博会上，西门子将持续聚焦以工业AI为引领的数智化、低碳化技术创新，重点展示高增长行业应用（数据中心、人形机器人等）、绿色转型成果（从企业自身运营到供应链），以及40余家企业数智化、低碳化转型与工业AI应用落地案例，彰显“全球经验、本土创新、中国速度”的乘数效应。",
+    "url": "https://www.tmtpost.com/8192212.html",
+    "published": "Tue, 03 Nov 2026 21:33:10 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "钛媒体",
     "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
     "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。",
     "url": "https://www.tmtpost.com/8191692.html",
@@ -115,6 +135,16 @@
     "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
     "url": "https://www.tmtpost.com/8191572.html",
     "published": "Tue, 03 Nov 2026 18:13:15 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "极客公园",
+    "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
+    "summary": "作者｜苏子华 编辑｜郑玄 博尔赫斯 写过一则著名的寓言。一个帝国的制图师们绘制了一张与领土等大的地图，精确到每一寸土地、每一条河流。后代人发现这张地图毫无用处，把它弃置在荒野中，任其腐烂。 真正在一个地方走路的人，靠的从来不是一张一比一的图纸，而是脚底的感觉、眼睛的判断，以及走错了再调整的能力。 具身智能行业正在上演这则寓言的现实版。 过去两年，人形机器人学会了跳舞、翻跟头、弹钢琴。但一个略显尴尬的事实是，这些编排的动作，大多是提前反复排练，且发生在受控的封闭环境里。如果放在现实社会的开放环境中，这些机器人该怎么办，它们到底能帮你干什么？ 费莫一科技 （PHYMI）试图回答这个命题。成立初期便完成近亿美元种子轮融资，由 IDG 资本领投，云启资本、滴滴出行、复星锐正、耀途资本、禾赛科技跟投。融资消息仅公布一个月后，它便推出首款行动伙伴。 行动伙伴 Sagi｜图片来源：PHYMI 10 月 28 日，Sagi（萨其玛）正式发布，是行业内首个定位「行动伙伴」的 Physical Agent。Sagi 采用 四轮足 、人形上身、背着小型货箱的机器人，英文名取自人马座。辨识度鲜明的身体，它没有",
+    "url": "http://www.geekpark.net/news/373424",
+    "published": "Tue, 03 Nov 2026 19:54:26 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-03"
@@ -360,16 +390,6 @@
     "fetchedAt": "2026-11-03"
   },
   {
-    "source": "极客公园",
-    "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
-    "summary": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一， 先造一个入口，再把 AI 慢慢塞进去 。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。Nothing 在耳机上加了一个物理开关，可以一键切换道监听调音模式。这些原本属于专业设备的能力，正在被一件件压进可以随手带的小东西里。 而且它们做的方向越来越窄，这样意味着不用跟大厂比算力，只要把一个小痛点解得足够深。众筹页上的数字也说明有人买单，NOPIA 的目标是 5 万美元，最后筹到 161.9 万。不过用户得足够认这个痛点，才肯为一件只做一件事的东西付 650 美元。在众筹之后更考验小公司的是交付能力，NOPIA 要等到 2027 年初才发货。把能力下放到口袋里不难，难的是让它在口袋里待得住。 以下，是「造物 100」栏目第 9 期推荐的最新造物。 降噪耳机 Nothing Hea",
-    "url": "http://www.geekpark.net/news/372803",
-    "published": "Fri, 23 Oct 2026 14:03:13 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-03"
-  },
-  {
     "source": "爱范儿",
     "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
     "summary": "内卷见顶，出海将是下一站。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -391,50 +411,60 @@
   },
   {
     "source": "TechCrunch",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+    "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+    "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+    "published": "Tue, 03 Nov 2026 17:56:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+    "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+    "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+    "published": "Tue, 03 Nov 2026 16:49:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-    "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+    "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
     "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
     "published": "Tue, 03 Nov 2026 08:01:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "published": "Tue, 03 Nov 2026 07:20:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-    "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-    "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-    "published": "Tue, 03 Nov 2026 01:12:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "published": "Tue, 03 Nov 2026 00:35:52 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "summary": "The one-year-old startup is now valued at $300 million.",
-    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "published": "Mon, 02 Nov 2026 23:13:53 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-03"
@@ -691,20 +721,50 @@
   },
   {
     "source": "The Verge",
-    "title": "Apple set an iPhone sales record even without a new standard iPhone",
-    "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's […]",
-    "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-    "published": "2026-11-02T17:02:36-05:00",
+    "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+    "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have […]",
+    "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+    "published": "2026-11-03T17:59:36-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-03"
   },
   {
     "source": "The Verge",
-    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-    "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navigation. While driving in town, […]",
-    "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-    "published": "2026-11-02T15:03:52-05:00",
+    "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+    "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you […]",
+    "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+    "published": "2026-11-03T17:20:50-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "The Verge",
+    "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+    "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]",
+    "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+    "published": "2026-11-03T16:21:04-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "The Verge",
+    "title": "Those Jeff Bezos hair transplant photos are very fake",
+    "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
+    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "published": "2026-11-03T16:01:07-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-03"
+  },
+  {
+    "source": "The Verge",
+    "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+    "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike, including a larger battery […]",
+    "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+    "published": "2026-11-03T15:16:54-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-03"
@@ -719,9 +779,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 15426,
-      "forks": 1648,
+      "stars": 16645,
+      "forks": 1803,
       "language": "TypeScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "storytold/craft-anything",
+    "summary": "Craft Anything: understand how any software works, and craft your own.",
+    "url": "https://github.com/storytold/craft-anything",
+    "published": "2026-10-31T14:50:00Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-03",
+    "meta": {
+      "stars": 8227,
+      "forks": 1384,
+      "language": "Rust",
       "createdDaysAgo": 3
     }
   },
@@ -735,26 +811,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 6850,
-      "forks": 350,
+      "stars": 7500,
+      "forks": 379,
       "language": "JavaScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "storytold/craft-anything",
-    "summary": "Craft Anything: understand how any software works, and craft your own.",
-    "url": "https://github.com/storytold/craft-anything",
-    "published": "2026-10-31T14:50:00Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-03",
-    "meta": {
-      "stars": 5964,
-      "forks": 1030,
-      "language": "Rust",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 5
     }
   },
   {
@@ -767,10 +827,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 5830,
-      "forks": 1135,
+      "stars": 6032,
+      "forks": 1173,
       "language": "Kotlin",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -783,10 +843,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 4272,
-      "forks": 341,
+      "stars": 4492,
+      "forks": 361,
       "language": "C",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -799,8 +859,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 3829,
-      "forks": 524,
+      "stars": 4094,
+      "forks": 558,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -815,8 +875,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 2740,
-      "forks": 320,
+      "stars": 3010,
+      "forks": 348,
       "language": "C++",
       "createdDaysAgo": 5
     }
@@ -831,10 +891,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 2547,
-      "forks": 183,
+      "stars": 3005,
+      "forks": 217,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -847,25 +907,9 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 2092,
-      "forks": 538,
+      "stars": 2120,
+      "forks": 545,
       "language": "Go",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "lexifina/global-law",
-    "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-    "url": "https://github.com/lexifina/global-law",
-    "published": "2026-10-28T13:34:16Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-03",
-    "meta": {
-      "stars": 1725,
-      "forks": 156,
-      "language": "HTML",
       "createdDaysAgo": 5
     }
   },
@@ -879,24 +923,24 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1617,
-      "forks": 117,
+      "stars": 1756,
+      "forks": 132,
       "language": "Kotlin",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "smithjohn78390/tongjiang-lab",
-    "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-    "url": "https://github.com/smithjohn78390/tongjiang-lab",
-    "published": "2026-10-28T04:29:29Z",
+    "title": "lexifina/global-law",
+    "summary": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+    "url": "https://github.com/lexifina/global-law",
+    "published": "2026-10-28T13:34:16Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1504,
-      "forks": 386,
+      "stars": 1739,
+      "forks": 159,
       "language": "HTML",
       "createdDaysAgo": 6
     }
@@ -911,42 +955,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1459,
-      "forks": 220,
+      "stars": 1634,
+      "forks": 249,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Arjun-Ingole/hop",
-    "summary": "Install Linux next to Windows without a USB stick",
-    "url": "https://github.com/Arjun-Ingole/hop",
-    "published": "2026-10-30T19:40:45Z",
+    "title": "smithjohn78390/tongjiang-lab",
+    "summary": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+    "url": "https://github.com/smithjohn78390/tongjiang-lab",
+    "published": "2026-10-28T04:29:29Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1415,
-      "forks": 49,
-      "language": "PowerShell",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "kevinraymond/florilegium",
-    "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "url": "https://github.com/kevinraymond/florilegium",
-    "published": "2026-10-30T07:49:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-03",
-    "meta": {
-      "stars": 1394,
-      "forks": 39,
-      "language": "Lua",
-      "createdDaysAgo": 4
+      "stars": 1526,
+      "forks": 390,
+      "language": "HTML",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -959,8 +987,72 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1371,
-      "forks": 59,
+      "stars": 1517,
+      "forks": 64,
+      "language": "TypeScript",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Arjun-Ingole/hop",
+    "summary": "Install Linux next to Windows without a USB stick",
+    "url": "https://github.com/Arjun-Ingole/hop",
+    "published": "2026-10-30T19:40:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-03",
+    "meta": {
+      "stars": 1453,
+      "forks": 51,
+      "language": "PowerShell",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "kevinraymond/florilegium",
+    "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "published": "2026-10-30T07:49:05Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-03",
+    "meta": {
+      "stars": 1406,
+      "forks": 39,
+      "language": "Lua",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Pika-Labs/Pika-H3-Flex",
+    "summary": "Pika H3 Flex: video and audio generation inference",
+    "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+    "published": "2026-10-29T17:08:59Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-03",
+    "meta": {
+      "stars": 1275,
+      "forks": 28,
+      "language": "Python",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "mromidev/claude-animated-shorts",
+    "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "published": "2026-11-01T05:50:38Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-03",
+    "meta": {
+      "stars": 1202,
+      "forks": 270,
       "language": "TypeScript",
       "createdDaysAgo": 2
     }
@@ -975,8 +1067,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1101,
-      "forks": 273,
+      "stars": 1128,
+      "forks": 275,
       "language": "JavaScript",
       "createdDaysAgo": 6
     }
@@ -991,42 +1083,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-03",
     "meta": {
-      "stars": 1019,
-      "forks": 97,
+      "stars": 1091,
+      "forks": 103,
       "language": "JavaScript",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "jacke-pp/open-yoki",
-    "summary": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-    "url": "https://github.com/jacke-pp/open-yoki",
-    "published": "2026-10-28T08:58:27Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-03",
-    "meta": {
-      "stars": 950,
-      "forks": 61,
-      "language": "JavaScript",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "mromidev/claude-animated-shorts",
-    "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-    "url": "https://github.com/mromidev/claude-animated-shorts",
-    "published": "2026-11-01T05:50:38Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-03",
-    "meta": {
-      "stars": 920,
-      "forks": 217,
-      "language": "TypeScript",
-      "createdDaysAgo": 2
     }
   }
 ]
