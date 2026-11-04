@@ -1,10 +1,30 @@
 [
   {
     "source": "少数派",
+    "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。 查看全文",
+    "url": "https://sspai.com/post/115819",
+    "published": "Wed, 04 Nov 2026 14:50:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "少数派",
     "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
     "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。 查看全文",
     "url": "https://sspai.com/post/118317",
     "published": "Tue, 03 Nov 2026 15:12:54 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "创业邦",
+    "title": "存储芯片工程样片完成验证，工艺迭代迈向量产考验",
+    "summary": "",
+    "url": "https://www.cyzone.cn/article/852901.html",
+    "published": "Wed, 04 Nov 2026 02:08:36 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-04"
@@ -90,41 +110,21 @@
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "创业邦",
-    "title": "通用世界模型北京市重点实验室在京揭牌",
-    "summary": "10月11日上午，2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在北京中关村皇冠假日酒店举行，通用世界模型北京市重点实验室正式揭牌。据介绍，该实验室于今年5月获批，是国内首个世界模型方向的省部级重点实验室，由北京极佳视界科技有限公司作为依托单位。 全国政协委员、中国可持续发展研究会理事长、科技部原副部长李萌，中国电子学会副秘书长王天虹出席并致辞。北京市科委、中关村管委会信息科技处处长、信息中心主任李顺超，中关村科学城管理委员会产业促进四处处长孟庆文出席活动。 揭牌仪式上，李顺超、王天虹、鲁继文、孟庆文、黄冠、朱政共同为实验室揭牌。清华大学自动化系长聘教授、系副主任鲁继文受聘担任实验室学术委员会主任，极佳视界联合创始人、首席科学家朱政受聘担任实验室主任。 实验室依托单位极佳视界创始人兼CEO黄冠在致辞中表示，AGI不能只停留在语言智能，更需要在物理三维空间中理解、生成、预测和行动的能力，而这些能力的实现有赖于通用世界模型的突破。实验室将锚定\"通用世界模型方法与技术\"核心科学问题，围绕基础理论、关键技术体系与典型应用系统开展系统性攻关，面向具身智能、自动驾驶、内容创作等场景",
-    "url": "https://www.cyzone.cn/article/848738.html",
-    "published": "Sun, 11 Oct 2026 10:48:58 GMT",
+    "source": "钛媒体",
+    "title": "大模型时代，智驾芯片的算力赢学失效了",
+    "summary": "玩不过通用芯片，就玩定制芯片。",
+    "url": "https://www.tmtpost.com/8193596.html",
+    "published": "Wed, 04 Nov 2026 18:44:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
     "source": "钛媒体",
-    "title": "“太空AI第一股”来了，80后造出百亿独角兽",
-    "summary": "43岁学者下海，把大模型搬上太空。",
-    "url": "https://www.tmtpost.com/8192734.html",
-    "published": "Wed, 04 Nov 2026 12:13:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "AI被“催收”的财报季，腾讯、阿里开启智力产能重估",
-    "summary": "AI的资本狂热退烧。但有意思的是，随着AI资本开支扩张担忧被消化，港股先一步出现了利好催化的估值修复迹象。",
-    "url": "https://www.tmtpost.com/8192640.html",
-    "published": "Wed, 04 Nov 2026 12:03:00 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
-    "source": "钛媒体",
-    "title": "打印机国产替代，任重道远",
-    "summary": "没有弯道，全是硬刚。",
-    "url": "https://www.tmtpost.com/8192421.html",
-    "published": "Wed, 04 Nov 2026 11:38:00 +0800",
+    "title": "宇树CEO王兴兴：2027年或是机器人产业临界点，正探索物理AI自进化",
+    "summary": "他认为，除数据和算力外，芯片产能以及背后的能源、矿产资源也将成为全球科技产业发展的关键资源。",
+    "url": "https://www.tmtpost.com/8193141.html",
+    "published": "Wed, 04 Nov 2026 17:06:56 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-04"
@@ -390,16 +390,6 @@
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "爱范儿",
-    "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
-    "summary": "内卷见顶，出海将是下一站。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Mon, 02 Nov 2026 07:37:31 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
     "source": "TechCrunch",
     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
     "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
@@ -450,11 +440,51 @@
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "TechCrunch",
-    "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-    "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
-    "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-    "published": "Tue, 03 Nov 2026 08:01:00 +0000",
+    "source": "TechNode",
+    "title": "Tencent launches Hy4 with vision and computer-use capabilities",
+    "summary": "Tencent launched Hy4 on November 4, adding visual understanding and computer-use capabilities to its flagship AI model. The company said Hy4 can interpret charts and documents, reason across multiple images, and operate command-line tools and graphical interfaces. Targeted training covers applications such as Blender and CAD software, alongside tasks spanning multiple programs. The 770-billion-parameter model […]",
+    "url": "https://technode.com/2026/11/04/tencent-launches-hy4-with-vision-and-computer-use-capabilities/",
+    "published": "Wed, 04 Nov 2026 09:15:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple Intelligence enters developer beta in China with Qwen integration",
+    "summary": "Apple began testing Apple Intelligence in mainland China on November 4 Beijing time with the iOS 27.3 developer beta. Developers with compatible iPhones can enable the features after installing the update, bringing Apple’s system-level AI tools to the market ahead of a planned public release in December. The beta includes Writing Tools, Live Translation, Visual […]",
+    "url": "https://technode.com/2026/11/04/apple-intelligence-enters-developer-beta-in-china-with-qwen-integration/",
+    "published": "Wed, 04 Nov 2026 08:03:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent reportedly preparing consumer AI search engine",
+    "summary": "Tencent is preparing to launch an AI search engine for consumers that combines AI-generated answers with web search, Huxiu reported on November 3. The product will feature a minimal interface and prioritize authoritative sources, according to the report. A Tencent insider told Huxiu that the planned search engine shares its underlying capabilities with search inside […]",
+    "url": "https://technode.com/2026/11/04/tencent-reportedly-preparing-consumer-ai-search-engine/",
+    "published": "Wed, 04 Nov 2026 08:02:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechNode",
+    "title": "Baidu launches Apollo World model to train robotaxis in simulated environments",
+    "summary": "Baidu unveiled Apollo World on November 3, a world model that simulates interactive road environments to train and test autonomous vehicles. The company said the system is already being used to support Apollo Go’s global robotaxi development and can generate up to 100,000 kilometers of simulated driving per day. Apollo World produces real-time camera and […]",
+    "url": "https://technode.com/2026/11/04/baidu-launches-apollo-world-model-to-train-robotaxis-in-simulated-environments/",
+    "published": "Wed, 04 Nov 2026 07:58:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechNode",
+    "title": "Why Meta Turned to China’s Fourier for Its Humanoid Robot",
+    "summary": "Editor’s note: Meta has tapped Shanghai-based Fourier to help build “Max,” a five-foot-tall humanoid developed in about three months, with a second version already underway. The deal puts a spotlight on a startup company that has grown from rehabilitation robotics into humanoids, ranked sixth globally in 2025 humanoid-robot shipments by Omdia, and attracted investors including […]",
+    "url": "https://technode.com/2026/11/04/why-meta-turned-to-chinas-fourier-for-its-humanoid-robot/",
+    "published": "Wed, 04 Nov 2026 07:33:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
@@ -660,56 +690,6 @@
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "TechNode",
-    "title": "Ant launches LingGuang 2.0 AI assistant for ongoing personal tasks",
-    "summary": "Ant Group has launched LingGuang 2.0, upgrading its AI assistant with persistent memory and the ability to continue managing tasks after users leave a conversation. With authorization, the assistant can identify needs, monitor changes and follow up over time, rather than waiting for a new instruction at every step. Supported uses include checking Alipay bills […]",
-    "url": "https://technode.com/2026/10/27/ant-launches-lingguang-2-0-ai-assistant-for-ongoing-personal-tasks/",
-    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "BYD launches third-generation Qin Plus DM-i",
-    "summary": "BYD launched its third-generation Qin Plus DM-i plug-in hybrid sedan on October 27, with limited-time prices ranging from RMB 76,900 to RMB 97,900. Standard list prices range from RMB 79,900 to RMB 100,900 across three variants. The new model offers electric-only range of up to 220 km and a stated combined range of up to […]",
-    "url": "https://technode.com/2026/10/27/byd-launches-third-generation-qin-plus-dm-i/",
-    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Robot electronic-skin startup MoSense raises around RMB 100 million in angel-plus funding",
-    "summary": "Shanghai-based MoSense, which develops full-body tactile sensing systems for robots, has raised around RMB 100 million in an angel-plus round led by CDH Investments and Oasis Capital. Other investors include LimX Dynamics, Loongson Venture Capital, CAS Star, Hua Capital and Pudong Venture Capital Group. Founded in May 2026 by a team with Hong Kong University […]",
-    "url": "https://technode.com/2026/10/27/robot-electronic-skin-startup-mosense-raises-around-rmb-100-million-in-angel-plus-funding/",
-    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "Desktop robot startup CyboPal secures investment from TCL and Shenzhen Capital Group",
-    "summary": "Chinese desktop robot startup CyboPal has secured a new strategic funding round from TCL Industries’ investment arm and Shenzhen Capital Group. The amount was not disclosed. The company develops hardware that connects users, personal AI agents and existing computer workflows. Its first product, CyboPal ONE, is a desktop robotic terminal that combines movement, vision and […]",
-    "url": "https://technode.com/2026/10/27/desktop-robot-startup-cybopal-secures-investment-from-tcl-and-shenzhen-capital-group/",
-    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
-    "source": "TechNode",
-    "title": "ByteDance launches AI studio for short-drama production",
-    "summary": "ByteDance’s Jimeng AI has launched a short-drama studio that brings script development, character and scene creation, storyboarding, video production and post-production into one workflow. The platform uses three in-house models: DreamScript for scripts, Anycook for images and DreamShot for storyboards. DreamScript supports original stories, adaptations and scripts for overseas audiences, while the image and storyboard […]",
-    "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
-    "published": "Tue, 27 Oct 2026 05:51:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
     "source": "The Verge",
     "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
     "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and […]",
@@ -750,16 +730,6 @@
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "The Verge",
-    "title": "Those Jeff Bezos hair transplant photos are very fake",
-    "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
-    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-    "published": "2026-11-03T16:01:07-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
     "source": "GitHub新星",
     "title": "deepseek-ai/dsh-superagent-prototype",
     "summary": "Towards a More Autonomous Agent System",
@@ -769,10 +739,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 17283,
-      "forks": 1869,
+      "stars": 18095,
+      "forks": 1966,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -785,8 +755,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 8925,
-      "forks": 1482,
+      "stars": 9832,
+      "forks": 1621,
       "language": "Rust",
       "createdDaysAgo": 3
     }
@@ -801,8 +771,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 7668,
-      "forks": 383,
+      "stars": 7957,
+      "forks": 396,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -817,8 +787,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 6167,
-      "forks": 1199,
+      "stars": 6365,
+      "forks": 1284,
       "language": "Kotlin",
       "createdDaysAgo": 5
     }
@@ -833,8 +803,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 4572,
-      "forks": 368,
+      "stars": 4669,
+      "forks": 376,
       "language": "C",
       "createdDaysAgo": 5
     }
@@ -849,10 +819,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 4225,
-      "forks": 570,
+      "stars": 4463,
+      "forks": 598,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -865,8 +835,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 3202,
-      "forks": 236,
+      "stars": 3464,
+      "forks": 249,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -881,8 +851,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 3123,
-      "forks": 358,
+      "stars": 3275,
+      "forks": 374,
       "language": "C++",
       "createdDaysAgo": 6
     }
@@ -897,10 +867,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 2137,
-      "forks": 549,
+      "stars": 2172,
+      "forks": 551,
       "language": "Go",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "KKKKhazix/agent-autoloop",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "published": "2026-11-03T08:02:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 1897,
+      "forks": 383,
+      "language": "TypeScript",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -913,8 +899,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1813,
-      "forks": 140,
+      "stars": 1861,
+      "forks": 146,
       "language": "Kotlin",
       "createdDaysAgo": 3
     }
@@ -929,10 +915,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1700,
-      "forks": 257,
+      "stars": 1793,
+      "forks": 271,
       "language": "JavaScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -945,10 +931,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1603,
-      "forks": 67,
+      "stars": 1683,
+      "forks": 73,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Pika-Labs/Pika-H3-Flex",
+    "summary": "Pika H3 Flex: video and audio generation inference",
+    "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+    "published": "2026-10-29T17:08:59Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 1527,
+      "forks": 31,
+      "language": "Python",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -961,8 +963,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1461,
-      "forks": 51,
+      "stars": 1490,
+      "forks": 53,
       "language": "PowerShell",
       "createdDaysAgo": 4
     }
@@ -977,25 +979,9 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1414,
+      "stars": 1419,
       "forks": 40,
       "language": "Lua",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Pika-Labs/Pika-H3-Flex",
-    "summary": "Pika H3 Flex: video and audio generation inference",
-    "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
-    "published": "2026-10-29T17:08:59Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 1357,
-      "forks": 29,
-      "language": "Python",
       "createdDaysAgo": 5
     }
   },
@@ -1009,10 +995,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1277,
-      "forks": 287,
+      "stars": 1359,
+      "forks": 316,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1025,58 +1011,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1113,
-      "forks": 105,
+      "stars": 1132,
+      "forks": 108,
       "language": "JavaScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "KKKKhazix/agent-autoloop",
-    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "published": "2026-11-03T08:02:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 967,
-      "forks": 193,
-      "language": "TypeScript",
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "hyz317/HairDeck",
-    "summary": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-    "url": "https://github.com/hyz317/HairDeck",
-    "published": "2026-10-29T17:16:13Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 786,
-      "forks": 53,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "RikiyaT/lm_understand-logs",
-    "summary": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-    "url": "https://github.com/RikiyaT/lm_understand-logs",
-    "published": "2026-10-29T04:17:30Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 773,
-      "forks": 92,
-      "language": "Python",
       "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "govijr/terminal-mac",
+    "summary": "Entire MacOS running in your terminal.",
+    "url": "https://github.com/govijr/terminal-mac",
+    "published": "2026-11-03T03:22:56Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 891,
+      "forks": 64,
+      "language": "Swift",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wquguru/cicada",
+    "summary": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+    "url": "https://github.com/wquguru/cicada",
+    "published": "2026-11-01T05:41:23Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 891,
+      "forks": 179,
+      "language": "Swift",
+      "createdDaysAgo": 3
     }
   }
 ]
