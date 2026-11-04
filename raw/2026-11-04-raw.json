@@ -120,16 +120,6 @@
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "钛媒体",
-    "title": "宇树CEO王兴兴：2027年或是机器人产业临界点，正探索物理AI自进化",
-    "summary": "他认为，除数据和算力外，芯片产能以及背后的能源、矿产资源也将成为全球科技产业发展的关键资源。",
-    "url": "https://www.tmtpost.com/8193141.html",
-    "published": "Wed, 04 Nov 2026 17:06:56 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-04"
-  },
-  {
     "source": "极客公园",
     "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
     "summary": "国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 这次开放的是开发者测试版，正式版计划于 12 月推出。首批支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air 和 iPhone Duo；WWDC 2026 发布的新版 Siri AI 暂未包含在内。（来源：快科技） 腾讯 12.8 亿用户蝉联中国互联网第一，绿泡泡月活破 1.5 亿，手游 top10 独占 8 款 11 月 3 日，QuestMobile 发布最新《中国移动互联网秋季大报告》。报告显示，截至 2026 年 9 月，腾讯控股以 12.80 亿去重总用户量（APP + 小程序）位列中国互联网公司用户规模榜首，第九年蝉联榜",
@@ -391,50 +381,90 @@
   },
   {
     "source": "TechCrunch",
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "published": "Wed, 04 Nov 2026 22:45:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
     "source": "TechCrunch",
-    "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-    "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-    "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-    "published": "Tue, 03 Nov 2026 17:56:52 +0000",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "published": "Wed, 04 Nov 2026 22:13:16 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
     "source": "TechCrunch",
-    "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-    "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-    "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-    "published": "Tue, 03 Nov 2026 16:49:09 +0000",
+    "title": "Meta acquires AI coding startup Conductor",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "published": "Wed, 04 Nov 2026 21:10:56 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
     "source": "TechCrunch",
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-    "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "published": "Wed, 04 Nov 2026 19:30:04 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
     "source": "TechCrunch",
-    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "published": "Wed, 04 Nov 2026 16:17:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+    "summary": "Titan OS has raised $110 million in funding to date.",
+    "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+    "published": "Wed, 04 Nov 2026 15:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+    "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+    "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+    "published": "Wed, 04 Nov 2026 14:10:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tech Odyssey Series: From Portugal to China, a New Conversation Begins",
+    "summary": "In the previous episode of Tech Odyssey, we visited Startup Braga to see how a former police building became a startup hub with global ambitions. For the season finale, we speak with AICEP, Portugal’s trade and investment agency and the series’ co-producer, about what might come next for technology cooperation between Portugal and China. “Have […]",
+    "url": "https://technode.com/2026/11/04/tech-odyssey-series-from-portugal-to-china-a-new-conversation-begins/",
+    "published": "Wed, 04 Nov 2026 12:31:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
@@ -691,40 +721,220 @@
   },
   {
     "source": "The Verge",
-    "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-    "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and […]",
-    "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-    "published": "2026-11-03T20:02:53-05:00",
+    "title": "Bose’s QuietComfort Headphones are more than half off",
+    "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down […]",
+    "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+    "published": "2026-11-04T16:13:11-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
     "source": "The Verge",
-    "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-    "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have […]",
-    "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-    "published": "2026-11-03T17:59:36-05:00",
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "published": "2026-11-04T13:26:07-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "The Verge",
-    "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-    "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you […]",
-    "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-    "published": "2026-11-03T17:20:50-05:00",
+    "source": "Hacker News",
+    "title": "A startup wants to build a nuclear-powered data center on public land in Utah",
+    "summary": "Article URL: https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah Comments URL: https://news.ycombinator.com/item?id=50371936 Points: 1 # Comments: 0",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+    "published": "Wed, 04 Nov 2026 21:39:51 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
   },
   {
-    "source": "The Verge",
-    "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-    "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]",
-    "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-    "published": "2026-11-03T16:21:04-05:00",
+    "source": "Hacker News",
+    "title": "Visualizing the Chip Startup Landcape",
+    "summary": "Article URL: https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/ Comments URL: https://news.ycombinator.com/item?id=50371903 Points: 1 # Comments: 0",
+    "url": "https://aolofsson.github.io/awesome-semiconductor-startups/dashboard/",
+    "published": "Wed, 04 Nov 2026 21:36:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Travis Kalanick's Startup Seed Raising Skilzzz (2009)",
+    "summary": "Article URL: https://swooshing.wordpress.com/2009/03/19/startup-seed-raising-skillzzz/ Comments URL: https://news.ycombinator.com/item?id=50370995 Points: 1 # Comments: 0",
+    "url": "https://swooshing.wordpress.com/2009/03/19/startup-seed-raising-skillzzz/",
+    "published": "Wed, 04 Nov 2026 20:24:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Kenyan startup builds AI around mobile money and low-cost phones",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-small-business-mobile-money-startup Comments URL: https://news.ycombinator.com/item?id=50370899 Points: 1 # Comments: 0",
+    "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+    "published": "Wed, 04 Nov 2026 20:17:13 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "summary": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video and our launch video (made entirely with Kino!) at https://kino.ai/launch-video Opus 5.5 can edit v",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "published": "Wed, 04 Nov 2026 17:31:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI targets Microsoft's GitHub with deal to acquire dev tools startup",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/exclusive-openai-targets-microsofts-github-112906674.html Comments URL: https://news.ycombinator.com/item?id=50367590 Points: 2 # Comments: 1",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-openai-targets-microsofts-github-112906674.html",
+    "published": "Wed, 04 Nov 2026 16:07:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tell HN: Claude Code queries raw GitHub token on startup",
+    "summary": "It's probably known but I was caught off guard yesterday when I noticed that Claude Code (CC) runs `gh auth token --hostname github.com` on every startup which typically returns raw token. e.g. $ gh auth token --hostname github.com gho_0000000000000000000000000000000000000000 I noticed this behaviour by chance when I configured gh to use 1Password for auth[1] and I kept getting prompted by 1Password for authorization repeatedly even when just launching an empty CC session. I don't feel comfortab",
+    "url": "https://news.ycombinator.com/item?id=50365442",
+    "published": "Wed, 04 Nov 2026 13:46:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Red Flags",
+    "summary": "Article URL: https://endlessfootnote.substack.com/p/startup-red-flags Comments URL: https://news.ycombinator.com/item?id=50358580 Points: 3 # Comments: 0",
+    "url": "https://endlessfootnote.substack.com/p/startup-red-flags",
+    "published": "Tue, 03 Nov 2026 21:40:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Speedrunner – Faster Startup: Python, Ruby, PHP and Node CLI Tools",
+    "summary": "Article URL: https://github.com/anthonyGosme/speedrunner Comments URL: https://news.ycombinator.com/item?id=50354212 Points: 2 # Comments: 1",
+    "url": "https://github.com/anthonyGosme/speedrunner",
+    "published": "Tue, 03 Nov 2026 16:37:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Negative Space – Startup ideas from the gaps between YC companies",
+    "summary": "There was a tweet[1] a while ago describing a simple way to come up with new game ideas: embed the descriptions of every game on Steam, find the areas of the space where there’s nothing, and turn those points back into descriptions. It’s a fun idea, so I vibe coded something quick and dirty to do the same for companies, using the YC directory. It embeds 6,304 company descriptions, blends a few related companies, pushes that point away from everything else, and has Claude write up what could live",
+    "url": "https://nh66.ai/negative-space/",
+    "published": "Tue, 03 Nov 2026 16:26:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Advice at Major Events Is Shit",
+    "summary": "Article URL: https://pawelbrodzinski.substack.com/p/startup-advice-at-major-events-is Comments URL: https://news.ycombinator.com/item?id=50353616 Points: 2 # Comments: 1",
+    "url": "https://pawelbrodzinski.substack.com/p/startup-advice-at-major-events-is",
+    "published": "Tue, 03 Nov 2026 15:59:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Future startup ideas, excavated from science fiction",
+    "summary": "Article URL: https://absurd.website/startup-archaeology/ Comments URL: https://news.ycombinator.com/item?id=50347135 Points: 3 # Comments: 0",
+    "url": "https://absurd.website/startup-archaeology/",
+    "published": "Tue, 03 Nov 2026 02:15:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Alphabet in talks to acquire assistant startup Howie AI",
+    "summary": "Article URL: https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant Comments URL: https://news.ycombinator.com/item?id=50345068 Points: 3 # Comments: 0",
+    "url": "https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant",
+    "published": "Mon, 02 Nov 2026 22:41:23 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Trump could launch nuclear strike on Iran within days, commentator claims",
+    "summary": "Article URL: https://aa.com.tr/en/americas/trump-could-launch-nuclear-strike-on-iran-within-days-commentator-claims/4108399 Comments URL: https://news.ycombinator.com/item?id=50343231 Points: 4 # Comments: 1",
+    "url": "https://aa.com.tr/en/americas/trump-could-launch-nuclear-strike-on-iran-within-days-commentator-claims/4108399",
+    "published": "Mon, 02 Nov 2026 20:28:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+    "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 151 # Comments: 56",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+    "published": "Mon, 02 Nov 2026 18:12:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern ",
+    "url": "https://momentic.ai/",
+    "published": "Mon, 02 Nov 2026 17:05:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Claims to Use A.I.-Created Viruses to Treat a Patient",
+    "summary": "Article URL: https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html Comments URL: https://news.ycombinator.com/item?id=50337864 Points: 3 # Comments: 0",
+    "url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
+    "published": "Mon, 02 Nov 2026 15:11:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "OpenAI slashes funding target by $10B as tech anxieties mount",
+    "summary": "Article URL: https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f Comments URL: https://news.ycombinator.com/item?id=50337610 Points: 3 # Comments: 2",
+    "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f",
+    "published": "Mon, 02 Nov 2026 14:52:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Paste your MCP config, see what each server does at startup",
+    "summary": "Article URL: https://mcp.brydge-ai.com Comments URL: https://news.ycombinator.com/item?id=50332827 Points: 1 # Comments: 0",
+    "url": "https://mcp.brydge-ai.com",
+    "published": "Mon, 02 Nov 2026 03:30:50 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-04"
+  },
+  {
+    "source": "Hacker News",
+    "title": "In LLM era, can software startup survive?",
+    "summary": "Nowadays, vibe coding is everywhere. Turning an idea into software is just matter of tokens. I was joking the other day. Creating a tax return softwar is much faster than purchasing Turbotax at Costco. Large companies still have compute resources and customer bases. For startup, users are expecting open source and free software. Posts of subscription or one-time purchase software on Reddit will get tons of downvotes instantly. Comments URL: https://news.ycombinator.com/item?id=50331001 Points: 3",
+    "url": "https://news.ycombinator.com/item?id=50331001",
+    "published": "Sun, 01 Nov 2026 23:28:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-04"
@@ -739,8 +949,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 18095,
-      "forks": 1966,
+      "stars": 18531,
+      "forks": 2072,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -755,10 +965,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 9832,
-      "forks": 1621,
+      "stars": 11566,
+      "forks": 1894,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -771,10 +981,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 7957,
-      "forks": 396,
+      "stars": 8635,
+      "forks": 429,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -787,10 +997,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 6365,
-      "forks": 1284,
+      "stars": 6606,
+      "forks": 1415,
       "language": "Kotlin",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -803,10 +1013,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 4669,
-      "forks": 376,
+      "stars": 4837,
+      "forks": 390,
       "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -819,25 +1029,9 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 4463,
-      "forks": 598,
+      "stars": 4691,
+      "forks": 626,
       "language": "JavaScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "BryceYuuu/RUN",
-    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "url": "https://github.com/BryceYuuu/RUN",
-    "published": "2026-10-29T11:28:43Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 3464,
-      "forks": 249,
-      "language": "Python",
       "createdDaysAgo": 5
     }
   },
@@ -851,25 +1045,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 3275,
-      "forks": 374,
+      "stars": 3627,
+      "forks": 408,
       "language": "C++",
       "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "paipiange/nvzhuang",
-    "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "url": "https://github.com/paipiange/nvzhuang",
-    "published": "2026-10-29T06:08:00Z",
+    "title": "BryceYuuu/RUN",
+    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "published": "2026-10-29T11:28:43Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 2172,
-      "forks": 551,
-      "language": "Go",
+      "stars": 3622,
+      "forks": 260,
+      "language": "Python",
       "createdDaysAgo": 6
     }
   },
@@ -883,10 +1077,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1897,
-      "forks": 383,
+      "stars": 2435,
+      "forks": 486,
       "language": "TypeScript",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "paipiange/nvzhuang",
+    "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "published": "2026-10-29T06:08:00Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 2193,
+      "forks": 555,
+      "language": "HTML",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -899,10 +1109,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1861,
-      "forks": 146,
+      "stars": 2013,
+      "forks": 167,
       "language": "Kotlin",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -915,8 +1125,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1793,
-      "forks": 271,
+      "stars": 1901,
+      "forks": 287,
       "language": "JavaScript",
       "createdDaysAgo": 5
     }
@@ -931,8 +1141,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1683,
-      "forks": 73,
+      "stars": 1740,
+      "forks": 76,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -947,42 +1157,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1527,
-      "forks": 31,
+      "stars": 1629,
+      "forks": 32,
       "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Arjun-Ingole/hop",
-    "summary": "Install Linux next to Windows without a USB stick",
-    "url": "https://github.com/Arjun-Ingole/hop",
-    "published": "2026-10-30T19:40:45Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 1490,
-      "forks": 53,
-      "language": "PowerShell",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "kevinraymond/florilegium",
-    "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "url": "https://github.com/kevinraymond/florilegium",
-    "published": "2026-10-30T07:49:05Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-04",
-    "meta": {
-      "stars": 1419,
-      "forks": 40,
-      "language": "Lua",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -995,26 +1173,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1359,
-      "forks": 316,
+      "stars": 1506,
+      "forks": 346,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "NiazMorshed2007/reanimate",
-    "summary": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-    "url": "https://github.com/NiazMorshed2007/reanimate",
-    "published": "2026-10-29T06:20:59Z",
+    "title": "Arjun-Ingole/hop",
+    "summary": "Install Linux next to Windows without a USB stick",
+    "url": "https://github.com/Arjun-Ingole/hop",
+    "published": "2026-10-30T19:40:45Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 1132,
-      "forks": 108,
-      "language": "JavaScript",
-      "createdDaysAgo": 6
+      "stars": 1505,
+      "forks": 53,
+      "language": "PowerShell",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1027,10 +1205,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 891,
-      "forks": 64,
+      "stars": 1483,
+      "forks": 90,
       "language": "Swift",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "kevinraymond/florilegium",
+    "summary": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "published": "2026-10-30T07:49:05Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 1426,
+      "forks": 39,
+      "language": "TeX",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "NiazMorshed2007/reanimate",
+    "summary": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+    "url": "https://github.com/NiazMorshed2007/reanimate",
+    "published": "2026-10-29T06:20:59Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-04",
+    "meta": {
+      "stars": 1173,
+      "forks": 108,
+      "language": "JavaScript",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1043,8 +1253,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-04",
     "meta": {
-      "stars": 891,
-      "forks": 179,
+      "stars": 1117,
+      "forks": 221,
       "language": "Swift",
       "createdDaysAgo": 3
     }
