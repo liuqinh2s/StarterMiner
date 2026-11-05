@@ -111,30 +111,70 @@
   },
   {
     "source": "钛媒体",
-    "title": "门店即将破2万家，百胜中国三季度收入超35亿美元",
-    "summary": "下沉市场仍然是增量。",
-    "url": "https://www.tmtpost.com/8194100.html",
-    "published": "Thu, 05 Nov 2026 11:42:21 +0800",
+    "title": "具身智能，变天了",
+    "summary": "数采爆单，具身大脑公司慌了。",
+    "url": "https://www.tmtpost.com/8194393.html",
+    "published": "Thu, 05 Nov 2026 18:31:01 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-05"
   },
   {
     "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月5日）",
-    "summary": "AI资本竞赛步入重定价期：Meta连发美元与欧元债，Anthropic以五类差异化股权结构备战最高2万亿美元估值IPO，市场对资本开支回报率的质疑显性化。",
-    "url": "https://www.tmtpost.com/8194179.html",
-    "published": "Thu, 05 Nov 2026 08:36:37 +0800",
+    "title": "中国CXO的暗战，前移到了“种子轮”",
+    "summary": "一家做动物试验的公司，为什么要去投种子轮？",
+    "url": "https://www.tmtpost.com/8194492.html",
+    "published": "Thu, 05 Nov 2026 18:02:25 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-05"
   },
   {
     "source": "钛媒体",
-    "title": "大模型时代，智驾芯片的算力赢学失效了",
-    "summary": "玩不过通用芯片，就玩定制芯片。",
-    "url": "https://www.tmtpost.com/8193596.html",
-    "published": "Wed, 04 Nov 2026 18:44:24 +0800",
+    "title": "嘉加资本对话Normal Computing创始人：在硅谷，创始人只需做对三件事",
+    "summary": "嘉加资本郑泓对话Normal Computing创始人Faris，探讨如何利用DRAM中的噪声降低AI计算能耗，以及EDA工具如何成为商业化入口。对话还涉及供应链壁垒、小团队的人才优势，以及创始人为何应聚焦融资、销售与工程。",
+    "url": "https://www.tmtpost.com/8194735.html",
+    "published": "Thu, 05 Nov 2026 18:02:22 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "海外收入占比据报达50%，Seedance争夺AI视频的商业入口 ｜出海参考",
+    "summary": "只有当用户能够把Seedance稳定地纳入制作预算，其商业化增长才有更可持续的基础。",
+    "url": "https://www.tmtpost.com/8194483.html",
+    "published": "Thu, 05 Nov 2026 17:45:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-05"
+  },
+  {
+    "source": "钛媒体",
+    "title": "具身大脑行业迎来“终极反派”",
+    "summary": "Astra突破具身智能边界，展现通用大模型操控机械臂画金门大桥的能力，引发行业对机器人大脑的热议。",
+    "url": "https://www.tmtpost.com/8194579.html",
+    "published": "Thu, 05 Nov 2026 17:22:36 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-05"
+  },
+  {
+    "source": "极客公园",
+    "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
+    "summary": "2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定程度上，它的评选也预示了未来几年潮水的走向。 这一年，传统互联网的光环逐渐退去，AI 成了最大的关键词。其中，仅工程研发组的 8 项获奖成果，从 AMD 的 AI 处理器，到蚂蚁的大模型健康服务平台，再到地平线的整车智能体……就有至少 5 项与 AI 有关。 而在通用 Agent 这一领域， 阿里旗下智能体平台 Qoder，成为了国内唯一获此殊荣的通用 Agent 产品。 至此，在领先科技奖诞生的第 10 个年头，命运形成了一个有趣的回环。 那时的领先科技奖，名字还叫世界互联网领先科技成果发布活动。而那一年在首届活动中，与特斯拉自动辅助驾驶、微软 HoloLens、「神威·太湖之光」超级计算机并列入选的，正式阿里云飞天开放平台为基础的大规模分布式交易处理平台。 那时的飞天，立项已经超过 7 年，逐渐从承托阿里庞大业务的基础设施，转变为连接超过百万台服务器，能把计算",
+    "url": "http://www.geekpark.net/news/373542",
+    "published": "Thu, 05 Nov 2026 17:19:17 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-05"
+  },
+  {
+    "source": "极客公园",
+    "title": "一个人用得好 AI，为什么一家公司却用不好？",
+    "summary": "今天的 Agent，已经能够独立完成不少具体的工作。 写方案、写代码、做分析报告，过去可能需要员工花费几天才能完成的任务，如今 Agent 往往能在较短时间里交出不错的结果。 但在企业里，完成一份方案，可能只是一项工作的开始。比如，Agent 可以很快制定一份员工考核方案。但要用它真正完成一次考核，还需要获取员工的考勤、业绩等数据，处理特殊情况，并经过业务负责人和 HR 的确认，才能最终确定绩效。 能够交付阶段性的工作产物，和能进入真实业务、创造实际价值，是两回事。 随着 Agent 能力快速进化，企业开始面对一个新的问题： 如何让这些越来越能干的 AI，真正参与到现有的工作体系中？ 在今年的腾讯全球数字生态大会上，腾讯专门设置了 AI 产品发布台，用两天时间、七场议题、40 多场产品发布，集中展示企业 AI 从应用到基础设施的一系列新能力。 腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生在大会上提出，腾讯将围绕办公协同、数据管理和业务执行三大场景，持续开放 WorkBuddy Agent 平台能力，帮助企业打造可运营、可进化的智能生产力系统。 从应用、数据、安全到工程，腾",
+    "url": "http://www.geekpark.net/news/373541",
+    "published": "Thu, 05 Nov 2026 17:15:38 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-05"
@@ -380,26 +420,6 @@
     "fetchedAt": "2026-11-05"
   },
   {
-    "source": "极客公园",
-    "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
-    "summary": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到清晰的「咔嚓」声，屏幕随即沿铰链裂开，内屏表面与外部铰链均无磕碰或夹痕，他前往 Apple Store 后苹果直接为其更换了故障机。国内也有类似案例。 综合目前反馈，问题可能出在 iPhone Duo 的铰链上，但涉及规模不算大，更可能是装配公差导致，而非设计缺陷，具体情况还有待后续观察。截至发稿，苹果官方尚未就这一批次屏幕问题作出公开说明。 如果苹果售后检测确认非人为导致，将会为用户更换新机。但若被认定为磕碰所致，则需用户自费维修：按苹果官网公示，未购买 AppleCare+时，内屏损坏保外维修预估费用高达 7998 元；购买 AppleCare+后，内屏及意外损坏服务费为 628 元——两",
-    "url": "http://www.geekpark.net/news/372860",
-    "published": "Sun, 25 Oct 2026 08:52:41 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-05"
-  },
-  {
-    "source": "极客公园",
-    "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
-    "summary": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经预购、直接前往门店购买的用户来说，能否买到新机仍存在较大不确定性。 这次供应紧张，与 iPhone Duo 在预购阶段迅速售罄的情况相吻合。预购于 10 月 16 日开启后，部分配置的预计发货时间很快被推迟。此后，苹果官网显示的新订单交付日期进一步延后，部分订单的预计送达时间已经排到 2027 年 1 月 25 日左右。这意味着，首发需求与现有供应能力之间仍存在明显差距。（来源：cnBeta） 曝",
-    "url": "http://www.geekpark.net/news/372858",
-    "published": "Sat, 24 Oct 2026 08:34:27 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-05"
-  },
-  {
     "source": "TechCrunch",
     "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
     "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
@@ -475,6 +495,26 @@
     "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
     "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-05"
+  },
+  {
+    "source": "TechNode",
+    "title": "Oracle reportedly cancels $7 billion Tencent AI chip lease under US pressure",
+    "summary": "Oracle has canceled a five-year agreement to lease advanced AI chips to Tencent after pressure from the Trump administration, the Financial Times reported on November 4. The deal, valued at approximately $7 billion, would have given Tencent access to around 100,000 advanced AI chips across Oracle data centers in Southeast Asia. US officials raised concerns […]",
+    "url": "https://technode.com/2026/11/05/oracle-reportedly-cancels-7-billion-tencent-ai-chip-lease-under-us-pressure/",
+    "published": "Thu, 05 Nov 2026 06:03:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-05"
+  },
+  {
+    "source": "TechNode",
+    "title": "Nothing plans December launch for first AI-native device",
+    "summary": "Nothing plans to launch its first AI-native hardware product in December, founder and CEO Carl Pei said on November 4. Pei described the forthcoming device as a productivity tool without a screen, adding that its functions could not have been delivered through an app alone. In an essay titled “Toolmakers,” Pei argued that AI tools […]",
+    "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/",
+    "published": "Thu, 05 Nov 2026 06:02:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-05"
@@ -710,36 +750,6 @@
     "fetchedAt": "2026-11-05"
   },
   {
-    "source": "TechNode",
-    "title": "Desktop 3D-printer startup Baishida secures angel-plus funding",
-    "summary": "Chinese desktop 3D-printer startup Baishida has completed an angel-plus funding round exclusively backed by Still Water Lake Venture Partners. The amount was not disclosed. The financing follows an earlier angel round funded solely by GL Ventures, with the latest proceeds earmarked for manufacturing, research and development, hiring and working capital. The Ningbo-based company develops consumer […]",
-    "url": "https://technode.com/2026/10/28/desktop-3d-printer-startup-baishida-secures-angel-plus-funding/",
-    "published": "Wed, 28 Oct 2026 05:14:46 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-05"
-  },
-  {
-    "source": "TechNode",
-    "title": "HOVERAir maker Zero Zero Robotics reportedly becomes a unicorn",
-    "summary": "Zero Zero Robotics, the Chinese company behind HOVERAir self-flying cameras, has reportedly reached a $1 billion valuation in its latest funding round. Leiphone reported the valuation on October 28, alongside estimates from people close to the company that fourth-quarter revenue could reach RMB 600 million to RMB 700 million. The company disclosed Series D and […]",
-    "url": "https://technode.com/2026/10/28/hoverair-maker-zero-zero-robotics-reportedly-becomes-a-unicorn/",
-    "published": "Wed, 28 Oct 2026 05:14:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-05"
-  },
-  {
-    "source": "TechNode",
-    "title": "Brain-computer interface startup NeuroXess raises RMB 700 million in Series B funding",
-    "summary": "Chinese brain-computer interface startup NeuroXess has raised RMB 700 million in Series B funding, co-led by SDIC Juli, Shenzhen Capital Group and Qinzhi Capital. The proceeds will support multicenter clinical trials, regulatory submissions, manufacturing capacity and next-generation product development. NeuroXess develops implantable systems that combine flexible electrodes with wireless power and data transmission. Its system […]",
-    "url": "https://technode.com/2026/10/28/brain-computer-interface-startup-neuroxess-raises-rmb-700-million-in-series-b-funding/",
-    "published": "Wed, 28 Oct 2026 05:14:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-05"
-  },
-  {
     "source": "The Verge",
     "title": "Bose’s QuietComfort Headphones are more than half off",
     "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down […]",
@@ -769,21 +779,21 @@
     "type": "community",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "replies": 73,
+      "replies": 94,
       "node": "职场话题"
     }
   },
   {
     "source": "V2EX",
-    "title": "[送兑换码] 做了个 iOS 翻译 App，用自己的 API Key，多个大模型译文并排对比，送 30 个永久解锁码",
-    "summary": "平时翻译我习惯同一段话丢给好几个模型，DeepSeek 一份、Claude 一份、Gemini 一份，再挑读起来最顺的那句。来回切 App 、复制粘贴实在太烦，于是做了 **Transory**： - **多模型并排对比**：一次请求多个服务，每个模型一张卡片，流式输出。支持 DeepSeek 、Claude 、Gemini 、OpenAI 、OpenRouter 、硅基流动、Kimi 、智谱、通义千问，以及任何 OpenAI / Anthropic 兼容接口 - **局域网本地模型**：可以连电脑上的 Ollama 、LM Studio - **拍照翻译**：文字在本机用 Visi",
-    "url": "https://www.v2ex.com/t/1254448",
-    "published": 1793779858,
+    "title": "在快 AI 时代，如何做一款慢产品？",
+    "summary": "![《在快 AI 时代，如何做一款慢产品？》文章封面]( https://cdn.tw93.fun/blog/pic/mole-product-cover-poem.png) 距离写完上一篇在 V 站发的 [Mole 出 Mac 版后，用户教会了我做产品]( https://www.v2ex.com/t/1239372) 已经过去两个多月。这段时间里，Mole 从 1.13 一路发到了 1.19 ，加上了 AI 工具清理和系统数据清理，Windows 版也在 10 月 14 日晚上发了出来，GitHub 上的 Star 一转眼也到了 73.9K 。 回头看这段时间，花时间最多的反而",
+    "url": "https://www.v2ex.com/t/1254590",
+    "published": 1793839588,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "replies": 60,
+      "replies": 65,
       "node": "分享创造"
     }
   },
@@ -797,10 +807,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 18774,
-      "forks": 2106,
+      "stars": 19153,
+      "forks": 2177,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -813,8 +823,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 12523,
-      "forks": 2106,
+      "stars": 13728,
+      "forks": 2319,
       "language": "Rust",
       "createdDaysAgo": 4
     }
@@ -829,10 +839,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 4822,
-      "forks": 645,
+      "stars": 5054,
+      "forks": 674,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -845,10 +855,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 2728,
-      "forks": 532,
+      "stars": 3014,
+      "forks": 571,
       "language": "TypeScript",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -861,8 +871,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 2133,
-      "forks": 182,
+      "stars": 2324,
+      "forks": 204,
       "language": "Kotlin",
       "createdDaysAgo": 4
     }
@@ -877,10 +887,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1948,
-      "forks": 301,
+      "stars": 2028,
+      "forks": 313,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -893,10 +903,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1771,
-      "forks": 81,
+      "stars": 1817,
+      "forks": 84,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -909,8 +919,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1634,
-      "forks": 97,
+      "stars": 1773,
+      "forks": 109,
       "language": "Swift",
       "createdDaysAgo": 2
     }
@@ -925,10 +935,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1552,
-      "forks": 350,
+      "stars": 1619,
+      "forks": 365,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -941,10 +951,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1513,
+      "stars": 1518,
       "forks": 53,
       "language": "PowerShell",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "published": "2026-11-04T14:54:56Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-05",
+    "meta": {
+      "stars": 1474,
+      "forks": 714,
+      "language": "Python",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -957,10 +983,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1427,
-      "forks": 39,
+      "stars": 1433,
+      "forks": 40,
       "language": "TeX",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -973,10 +999,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 1235,
-      "forks": 231,
+      "stars": 1390,
+      "forks": 252,
       "language": "Swift",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -989,8 +1015,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 960,
-      "forks": 111,
+      "stars": 1313,
+      "forks": 172,
       "language": "C++",
       "createdDaysAgo": 4
     }
@@ -1005,26 +1031,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 920,
-      "forks": 613,
+      "stars": 1151,
+      "forks": 696,
       "language": "Python",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "published": "2026-11-04T14:54:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-05",
-    "meta": {
-      "stars": 873,
-      "forks": 538,
-      "language": "Python",
-      "createdDaysAgo": 0
     }
   },
   {
@@ -1037,10 +1047,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 849,
-      "forks": 702,
+      "stars": 1034,
+      "forks": 836,
       "language": "TypeScript",
       "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "s1dashu/quiet-md",
+    "summary": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "published": "2026-11-01T14:22:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-05",
+    "meta": {
+      "stars": 925,
+      "forks": 82,
+      "language": "Rust",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1053,10 +1079,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 837,
-      "forks": 75,
+      "stars": 875,
+      "forks": 81,
       "language": "Lean",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "UncensoredLabs/uncensored-ai-api",
+    "summary": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+    "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+    "published": "2026-11-01T20:53:34Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-05",
+    "meta": {
+      "stars": 794,
+      "forks": 52,
+      "language": "JavaScript",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1069,7 +1111,7 @@
     "type": "signal",
     "fetchedAt": "2026-11-05",
     "meta": {
-      "stars": 758,
+      "stars": 788,
       "forks": 57,
       "language": "Python",
       "createdDaysAgo": 3
