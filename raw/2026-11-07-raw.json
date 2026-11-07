@@ -1,0 +1,850 @@
+[
+  {
+    "source": "少数派",
+    "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+    "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。 查看全文",
+    "url": "https://sspai.com/post/118570",
+    "published": "Fri, 06 Nov 2026 11:06:53 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "全面节约方案部署电池循环，生命周期管理连接回收与制造",
+    "summary": "11 月 4 日公开的《实施全面节约战略行动方案》提出，构建新能源汽车动力电池全生命周期管理体系，推动汽车、家电、日化行业再生材料应用升级。政策重心从废弃物处置，转向推动再生资源回流生产线，对电池产业链提出三项核心要求：溯源清晰、处理适配、材料可再利用。 退役电池原料规格差异较大，材料体系、使用履历、退役状态各不相同，直接影响运输、拆解与回收产出。全生命周期管理旨在打通电池生产、使用到退役的全流程信息，让回收处理环节提前掌握来料特征，把物料差异纳入工艺管控，避免拆解后再被动识别物料。 从回收到再生制造，需要收集、运输、检测、加工多方协同。物料交接环节极易发生信息断档，如果只流转实物、不同步数据，下游只能凭经验处置。只有物料与信息同步传递，才能保障资源化效果，并非所有市场主体都具备全链条作业能力。 天眼查数据显示，截至 2026 年 5 月 15 日，国内在业、存续电池回收相关企业超 19.9 万家，年内新增约 3300 家；广东、江苏、安徽存量分别超 1.7 万家、1.4 万家、1.4 万家。该数据仅反映市场参与主体规模，不等于实际回收处理能力；合作需核验企业接收品类与处理条件，入局企",
+    "url": "https://www.cyzone.cn/article/853154.html",
+    "published": "Fri, 06 Nov 2026 09:44:46 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "存储芯片工程样片完成验证，工艺迭代迈向量产考验",
+    "summary": "",
+    "url": "https://www.cyzone.cn/article/852901.html",
+    "published": "Wed, 04 Nov 2026 02:08:36 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "共绩科技完成新一轮数亿元融资",
+    "summary": "近日，共绩科技完成新一轮数亿元融资，中国互联网投资基金、宁波问鼎、溥泉资本、元禾璞华等参与投资。公司从事分布式算力调度，连接分散的GPU资源，为模型训练、推理及AI应用提供按需调用的算力。 据天眼查显示，北京共绩科技有限公司申请的\"一种互联网故障算力节点快速处置的冷热备份方法及系统\"发明专利于2026年10月20日公布，目前处于审中状态。摘要显示，冷备份节点提前下载并部署运行环境，热备份则在运行节点之外另设备用节点，用于缩短节点故障离线后的文件下载和程序启动等待时间。",
+    "url": "https://www.cyzone.cn/article/852764.html",
+    "published": "Tue, 03 Nov 2026 05:52:48 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "高争民爆披露重大资产重组预案拟购紫源铜业51%股权 拓展矿山开发业务",
+    "summary": "高争民爆披露重大资产重组预案，拟通过发行股份方式购买西藏地质矿产集团有限公司持有的紫源铜业51%股权、晟源矿业100%股权，并募集配套资金，标的资产评估值及交易作价尚未确定。交易完成后，公司主营业务将拓展为矿山投资开发、民爆生产销售服务两大板块，公司股票自11月2日开市起复牌。 据天眼查显示，西藏高争民爆股份有限公司成立于2007-06-08，注册资本27704.6万人民币，法定代表人余文荣，登记状态为存续，注册地址位于拉萨市经济技术开发区A区林琼岗路18号，曾用名西藏高争民爆物资有限责任公司。",
+    "url": "https://www.cyzone.cn/article/852641.html",
+    "published": "Mon, 02 Nov 2026 03:48:07 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "小米关联公司近期入股两家芯片企业",
+    "summary": "天眼查App显示，近日，武汉阿基米德半导体有限公司、芯词元半导体（杭州）有限责任公司均发生工商变更，新增瀚星创业投资有限公司为股东。其中，武汉阿基米德同时新增宁德时代新能源科技股份有限公司为股东；芯词元注册资本由124.375万元增至约132.02万元。 股东信息显示，瀚星创业投资有限公司由小米科技有限责任公司全资持股。目前，瀚星创投分别持有武汉阿基米德2%、芯词元4.014%的股份，宁德时代持有武汉阿基米德4%的股份。两家被投企业经营范围均包含集成电路设计、集成电路芯片设计及服务等。",
+    "url": "https://www.cyzone.cn/article/852277.html",
+    "published": "Thu, 29 Oct 2026 08:46:27 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "出品方三年前已注册影之刃零商标",
+    "summary": "据媒体报道，国产3A武侠动作游戏《影之刃零》正式发售，以Metacritic开分91分的成绩刷新国产单机最高分，并迅速登上Steam全球热销榜第一。 天眼查App显示，出品方关联公司北京灵游坊网络科技有限公司成立于2011年8月，法定代表人为梁其伟，注册资本约356万人民币，经营范围包括专业设计服务、货物进出口、技术进出口等，由天津艾思软件开发合伙企业（有限合伙）、梁其伟、广西腾讯创业投资有限公司等共同持股。知识产权信息显示，该公司于2023年成功注册“影之刃零”商标，国际分类为科学仪器。",
+    "url": "https://www.cyzone.cn/article/852276.html",
+    "published": "Thu, 29 Oct 2026 03:28:09 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "商业火箭完成新一轮发射，航天供应链聚焦可靠交付",
+    "summary": "",
+    "url": "https://www.cyzone.cn/article/850626.html",
+    "published": "Mon, 26 Oct 2026 02:21:00 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "垠石汽车完成亿元级A+轮融资 推进重载线控制动量产",
+    "summary": "近日，垠石汽车宣布完成亿元级A+轮融资，由北京顺义产投基金独家投资。资金将用于完善团队、建设量产生产线等，推进重载一体式线控制动技术量产。公司称，其液压集成式线控制动系统已获得多个主机厂定点订单。 据天眼查显示，北京垠石汽车技术有限公司曾用名为天津垠石精工技术有限公司。该主体的“液压集成式线控制动系统”发明专利于2025年8月获授权。摘要记载，该方案针对电子液压制动系统冗余能力有限的问题，通过多个液压回路和相互独立的油壶，在制动解耦的同时保证冗余制动效果。",
+    "url": "https://www.cyzone.cn/article/849521.html",
+    "published": "Mon, 19 Oct 2026 03:28:38 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "创业邦",
+    "title": "威马汽车参保人数5年归零",
+    "summary": "据媒体报道，近日，威马汽车官方微信公众号突然更新，发布了一条题为“第一天：B能汽车，请发我们工资”的内容，随后不久便被删除，相关话题引发热议。 天眼查App显示，威马汽车科技集团有限公司成立于2012年5月，法定代表人为SHEN HUI，注册资本60亿人民币，经营范围包括新能源智能汽车的技术设计和研发、销售及售后服务等，由苏州威马智慧出行科技有限公司全资持股。参保人数信息显示，该公司参保人数从2018年的770人降至2023年的0人，且2024年和2025年的参保人数均为0人。法律诉讼信息显示，该公司现存多条股权冻结信息，股权所在企业包括该公司、威马融资租赁（天津）有限公司等。此外，该公司还存在多条被执行人、限制消费令、失信被执行人（老赖）及破产案件信息。",
+    "url": "https://www.cyzone.cn/article/849160.html",
+    "published": "Thu, 15 Oct 2026 06:05:05 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Edge AI Daily 早报（11月7日）",
+    "summary": "Anthropic递交修订版S-1，机构将估值由2万亿美元压至1.5万亿至1.6万亿；OpenAI完成110亿美元首期交割，投前估值1.25万亿，总额由300亿砍至约200亿，AI一级市场进入现金流定价期。中期选举后10州41项数据中心公投多数通过限制，得州、弗吉尼亚监管转向与微软终止甲骨文逾30亿美元租约共振；英伟达单日跌9.26%、纳指周跌5.52%，麦格理套现560亿美元离场转投电力。",
+    "url": "https://www.tmtpost.com/8196982.html",
+    "published": "Sat, 07 Nov 2026 08:28:54 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "钛媒体",
+    "title": "Waymo不想再当“技术供应商”了",
+    "summary": "Waymo 用了七八年时间证明自动驾驶能安全地跑起来。接下来它要证明的是另一件事：一家自动驾驶公司，能不能同时成为一家有人愿意打开、愿意信任、愿意直接付钱的出行品牌。",
+    "url": "https://www.tmtpost.com/8195043.html",
+    "published": "Fri, 06 Nov 2026 18:09:38 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "钛媒体",
+    "title": "创始人扶90后表弟“上位”，百亿辣条帝国面临双重挑战",
+    "summary": "卫龙高管喜欢用自家人。",
+    "url": "https://www.tmtpost.com/8195224.html",
+    "published": "Fri, 06 Nov 2026 17:40:30 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
+    "summary": "头图来源：腾讯云 过去一年，智能体是 AI 行业最受关注的方向之一。 从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复杂的系统、权限与规则，持续产出可量化的经营价值。 在腾讯云副总裁吴永坚看来，未来企业级智能体的核心赛道，对话式的桌面办公 Agent 和服务经营的 Service Agent 会是两个长期并行的赛道。大模型提供了理解与推理能力，但想让 AI 真正参与业务经营，还需要一套能够打通系统、管好权限、支撑长期稳定运行的企业级平台。 在 2026 腾讯全球数字生态大会企业级 Agent 产业实践专场上，腾讯云 ADP 宣布完成全生命周期产品升级，同时推出 FDE 交付方法论与生态共建体系，试图回答的正是这一问题：当办公场景的提效已经形成共识，要让智能体真的走进业务经营场景，底层的智能体平台，到底需要补哪些能力。 过去用来搭建单点应用的开发工具，正在成为 Service Agent 扎根企业业务流的核心基础设施。 一、从办公到经营，企业级 A",
+    "url": "http://www.geekpark.net/news/373642",
+    "published": "Sat, 07 Nov 2026 11:31:37 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道",
+    "summary": "电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成 11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车型扩产腾出产能空间。 Cybertruck 首席工程师随后回应称，Cybertruck 是特斯拉研发新技术的重要载体，其线控转向等技术已应用于 Cybercab，产品技术生命将在新车型上延续。 市场表现方面，Cybertruck 实际销量与规划目标差距悬殊， 马斯克曾在 2023 年股东大会上预计，产能完全爬坡后该车年销量可达 25 万至 50 万辆。 特斯拉未单独披露该车型交付数据，据行业估算，今年三季度 Cybertruck 交付量约 7000 至 8000 辆， 折合年销量约 3 万辆，仅为原规划年产能 25 万辆的 12%左右。 美国市场数据显示，Cybertruck 2025 年在美销量为 20237 辆，同比下滑 48%，今年一季度更是跌至 3519 辆的历史低点。（来源：快科技） 消息称 OpenAI 完成 110 ",
+    "url": "http://www.geekpark.net/news/373639",
+    "published": "Sat, 07 Nov 2026 08:48:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
+    "summary": "作者｜Wildcard 编辑｜靖宇 11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（简称 TML）同一天出了两条新闻。 当天，公司发布了第二代模型 Inkling 2 Small，第三方评测机构 Artificial Analysis（AA）给的评价相当高：权重放出后，它将成为「 中国以外得分最高的开放权重模型 」。同一天，据报道，这家公司正以 400 亿美元的投前估值筹集 50 亿美元新融资。 TML 在 2025 年 2 月对外亮相，至今一年半多。这期间，他们拿过 a16z 领投的 20 亿美元种子轮，也经历了联合创始人 Andrew Tulloch 转投 Meta，以及联合创始人 Barret Zoph、Luke Metz 等人今年 1 月回归 OpenAI 的动荡，之后由 PyTorch 联合创始人 Soumith Chintala 接任 CTO。 今年 1 月还有报道称， 团队 以约 500 亿美元估值融资的谈判陷入停滞 。新一轮融资能不能谈成，很大程度上要看二代模型的成色。 翻开 Inkling 2 S",
+    "url": "http://www.geekpark.net/news/373637",
+    "published": "Fri, 06 Nov 2026 20:13:06 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "AI 时代没有标准答案的问题，我们面对面聊",
+    "summary": "我们刚刚官宣了极客公园创新大会 2027 的首批嘉宾。 今天，再来揭晓「小场深谈」的最新进展。 10 月底，我们在「小场深谈」的预热文章里做了一次调研，请大家投票选出最想聊的话题。最终，我们选定了最受关注的五组主题，设下了五场专场，每一场都从大家最想聊的那个问题开始。 这五场专场，恰好瞄向当下行业最受关注、也最要紧的议题上：Personal AI 怎么接管日常、AI 创作怎么重写内容、具身智能怎么走进现实、硬件与制造怎么长出「新图纸」、AI 落地怎么用结果说话。 每一场，三组话题，深谈 + 现场问答，80 分钟左右。场子都不大，百余人左右。 IF 2026「小场深谈」现场 还记得去年的「小场深谈」，有人刚从大厂跳槽、正用 AI 做自己的第一款产品，当场把困惑摊给嘉宾；有精神科医生，追问做陪伴机器人的创业者：你希望它把人带回现实交往，还是给这个家添一个新成员？——现场的发问，往往带着一个人具体的处境，比文字更触动人心。 今年五场「小场深谈」的主题与要讨论的核心议题已经基本确认： Day1 Personal AI 是如今最热门的创投叙事，每个人都有不同的理解。但能真正谈论这个话题的创业者并",
+    "url": "http://www.geekpark.net/news/373636",
+    "published": "Fri, 06 Nov 2026 20:09:13 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+    "summary": "芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日 据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。 当地时间周四，美国科技股遭遇大规模抛售， 华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元） 。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 10 月初创下的历史高点累计下跌近 12%，进入技术性回调区间。 此次抛售席卷整个 AI 产业链。费城半导体指数暴跌约 12.3%，英伟达下跌约 9.3%，基本抹去 2026 年以来的累计涨幅；闪迪（SanDisk）暴跌约 22%，美光科技、西部数据和 AMD 跌幅均在 17% 左右。此前受到资金追捧的 AI 芯片、存储及数据中心相关股票成为重灾区。 这轮抛售与美国中期选举结果密切相关。民主党赢得国会控制权，并在多个关键州取得胜利，使投资者担心美国未来可能对 AI 基础设施建设实施更严格的监管。 随着 AI 数据中心规模不断扩大，其庞大的电力和水资源需求正引发越来越多当地居民的反对。部分社区担心，新建数据中心",
+    "url": "http://www.geekpark.net/news/373554",
+    "published": "Fri, 06 Nov 2026 09:01:57 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "极客公园创新大会 2027 首批嘉宾揭晓！",
+    "summary": "今年 12 月 5 日—6 日，北京 798艺术区，还是老地方。 极客公园创新大会（GEEKPARK IF），我们又要见面了。 IF 将进入第 17 年。它像一本记录中国科技行业的「年鉴」，一场科技爱好者的年终盛宴，一次号召创新者聚集、留下历史回音的年度认知集结。 今年，我们的主题是： Revaluation 价值，另有答案 我们要探讨的不再是 AI 可以有多厉害，而是更落地的一面—— 工作、创作、生意，你原本笃定的经验，正在一件件被 AI 重新算账。你以为已经看懂的赛道，换个角度，结论可能完全不一样。 哪些老优势正在缩水？哪些被低估的人和机会，正在悄悄长出新的价值？ Revaluation 价值，另有答案 每年办会，最让人期待的，就是把那些跑在最前面的「Outlier」和积极行动者们拉到一块儿。一群从全国各地飞来的人，思想和实践在同一片空间流动，碰撞、激发。 今年，他们也将如期而至。 主舞台之外，我们还在 751图书馆、艺文空间和极客公园，准备了五场小场深谈。 没有大礼堂，没有台上台下的距离感。做研究的人、造产品的人、在一线踩过坑的人，坐下来，把那些真正难、真正关键的问题聊透。 Pe",
+    "url": "http://www.geekpark.net/news/373553",
+    "published": "Thu, 05 Nov 2026 21:15:49 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
+    "summary": "作者｜Cynthia 编辑｜郑玄 2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定程度上，它的评选也预示了未来几年潮水的走向。 这一年，传统互联网的光环逐渐退去，AI 成了最大的关键词。其中，仅工程研发组的 8 项获奖成果，从 AMD 的 AI 处理器，到蚂蚁的大模型健康服务平台，再到地平线的整车智能体……就有至少 5 项与 AI 有关。 而在通用 Agent 这一领域， 阿里旗下智能体平台 Qoder，成为了国内唯一获此殊荣的通用 Agent 产品。 至此，在领先科技奖诞生的第 10 个年头，命运形成了一个有趣的回环。 那时的领先科技奖，名字还叫世界互联网领先科技成果发布活动。而那一年在首届活动中，与特斯拉自动辅助驾驶、微软 HoloLens、「神威·太湖之光」超级计算机并列入选的，正式阿里云飞天开放平台为基础的大规模分布式交易处理平台。 那时的飞天，立项已经超过 7 年，逐渐从承托阿里庞大业务的基础设施，转",
+    "url": "http://www.geekpark.net/news/373542",
+    "published": "Thu, 05 Nov 2026 17:19:17 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "一个人用得好 AI，为什么一家公司却用不好？",
+    "summary": "作者｜老 S 编辑｜郑玄 今天的 Agent，已经能够独立完成不少具体的工作。 写方案、写代码、做分析报告，过去可能需要员工花费几天才能完成的任务，如今 Agent 往往能在较短时间里交出不错的结果。 但在企业里，完成一份方案，可能只是一项工作的开始。比如，Agent 可以很快制定一份员工考核方案。但要用它真正完成一次考核，还需要获取员工的考勤、业绩等数据，处理特殊情况，并经过业务负责人和 HR 的确认，才能最终确定绩效。 能够交付阶段性的工作产物，和能进入真实业务、创造实际价值，是两回事。 随着 Agent 能力快速进化，企业开始面对一个新的问题： 如何让这些越来越能干的 AI，真正参与到现有的工作体系中？ 在今年的腾讯全球数字生态大会上，腾讯专门设置了 AI 产品发布台，用两天时间、七场议题、40 多场产品发布，集中展示企业 AI 从应用到基础设施的一系列新能力。 腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生在大会上提出，腾讯将围绕办公协同、数据管理和业务执行三大场景，持续开放 WorkBuddy Agent 平台能力，帮助企业打造可运营、可进化的智能生产力系统。 从",
+    "url": "http://www.geekpark.net/news/373541",
+    "published": "Thu, 05 Nov 2026 17:15:38 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
+    "summary": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。 不过，这一次上线的并不是完整版 Apple 智能。首批功能主要包括实时翻译、写作工具、视觉智能、照片消除、智绘表情、通知摘要等，而苹果此前展示的新一代 Siri AI，以及 WWDC26 公布的部分下一代 AI 能力，仍然不在此次更新范围内。 当日，苹果 (AAPL.US) 大涨超 6%，报 353.05 美元，总市值再度突破 5 万亿美元，重返美股市值第一。(来源：格隆汇) OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画 11 月 5 日，据 The Verge 报道，ChatGPT 现在可以通过提示词或上传到人工智能聊天机器人的照片来创建 GIF。此次更新与 OpenAI 的新 Images 2",
+    "url": "http://www.geekpark.net/news/373494",
+    "published": "Thu, 05 Nov 2026 08:45:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
+    "summary": "国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 这次开放的是开发者测试版，正式版计划于 12 月推出。首批支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air 和 iPhone Duo；WWDC 2026 发布的新版 Siri AI 暂未包含在内。（来源：快科技） 腾讯 12.8 亿用户蝉联中国互联网第一，绿泡泡月活破 1.5 亿，手游 top10 独占 8 款 11 月 3 日，QuestMobile 发布最新《中国移动互联网秋季大报告》。报告显示，截至 2026 年 9 月，腾讯控股以 12.80 亿去重总用户量（APP + 小程序）位列中国互联网公司用户规模榜首，第九年蝉联榜",
+    "url": "http://www.geekpark.net/news/373427",
+    "published": "Wed, 04 Nov 2026 08:28:02 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
+    "summary": "作者｜苏子华 编辑｜郑玄 博尔赫斯 写过一则著名的寓言。一个帝国的制图师们绘制了一张与领土等大的地图，精确到每一寸土地、每一条河流。后代人发现这张地图毫无用处，把它弃置在荒野中，任其腐烂。 真正在一个地方走路的人，靠的从来不是一张一比一的图纸，而是脚底的感觉、眼睛的判断，以及走错了再调整的能力。 具身智能行业正在上演这则寓言的现实版。 过去两年，人形机器人学会了跳舞、翻跟头、弹钢琴。但一个略显尴尬的事实是，这些编排的动作，大多是提前反复排练，且发生在受控的封闭环境里。如果放在现实社会的开放环境中，这些机器人该怎么办，它们到底能帮你干什么？ 费莫一科技 （PHYMI）试图回答这个命题。成立初期便完成近亿美元种子轮融资，由 IDG 资本领投，云启资本、滴滴出行、复星锐正、耀途资本、禾赛科技跟投。融资消息仅公布一个月后，它便推出首款行动伙伴。 行动伙伴 Sagi｜图片来源：PHYMI 10 月 28 日，Sagi（萨其玛）正式发布，是行业内首个定位「行动伙伴」的 Physical Agent。Sagi 采用 四轮足 、人形上身、背着小型货箱的机器人，英文名取自人马座。辨识度鲜明的身体，它没有",
+    "url": "http://www.geekpark.net/news/373424",
+    "published": "Tue, 03 Nov 2026 19:54:26 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
+    "summary": "头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成员。产品即日起在京东等官方渠道发售，售价 9499 元，前 1000 名订购者可享 7999 元。 在心言机器人创始人、Bubbo 1 首席设计师任永亮看来， 「 技术决定体验的下限，交互决定体验的上限。 」 过去的 AI，是你不开口它就不在的工具；而巴布要做的，是从「外部」视角搭起一个 Family Agent—— 识别家里的每一个人，也关注他们之间的关系。 为此，它在身上装了 13 类、26 个传感器，用 6 个自由度和两块表情屏理解复杂情感，再靠记忆、多模态感知和分级对话，给出有「延迟感、呼吸感、边界感」的回应。 发布环节结束后，任永亮与主持人、极客公园创始人张鹏，全国政协常委、国家统计局原副局长贾楠，哈尔滨工业大学计算学部长聘教授、博士生导师赵妍妍围坐在一起，讨论了一个问题：当机器人真正走进一个家庭，它该如何理解人、陪伴人",
+    "url": "http://www.geekpark.net/news/373399",
+    "published": "Tue, 03 Nov 2026 15:11:52 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+    "summary": "Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。 与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果相关资金出现问题，可能影响交付时间和成本。（来源：Reuters） Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级 11 月 2 日消息，Meta 首席财务官 Susan Li（李苏珊）在 2026 年第三季度财报电话会议上表示，Meta 旗下 Reality Labs 部门第三季度营收为 4.43 亿美元（现汇率约合 29.51 亿元人民币",
+    "url": "http://www.geekpark.net/news/373358",
+    "published": "Tue, 03 Nov 2026 08:40:51 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+    "summary": "苹果 CEO：不会为了做 AI 而做产品 苹果 CEO 约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。 特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段很满意。」 特努斯补充，苹果一定会在新产品中运用人工智能，但他表示：「我们不想为了做 AI 而推出 AI。如果我们做得好，用户不会去思考这个功能到底是 AI 实现的，还是传统软件实现的。重点在于，我们是否打造出用户真正喜爱的产品。」（来源：环球市场播报） OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。 该标准由 Anth",
+    "url": "http://www.geekpark.net/news/373252",
+    "published": "Mon, 02 Nov 2026 08:27:02 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
+    "summary": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse， 购物 是 Muse 最常见的用途，超过 四分之一 的用户在用它买东西，平均客单价超过 200 美元 ；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。 六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「 记得住、盯得牢、办得了 」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。 但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。 灵光 2.0 界面 我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet。实测表明，",
+    "url": "http://www.geekpark.net/news/373249",
+    "published": "Sun, 01 Nov 2026 18:03:12 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
+    "summary": "​DeepSeek 发布全新 Agent 架构 10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。 DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。 要突破这些限制，需要打破 Agent 与单次手动会话的绑定，使其成为一个能跨会话保持上下文、同时推进多项复杂任务且互不干扰的连续实体。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent。 通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。 目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek ",
+    "url": "http://www.geekpark.net/news/373243",
+    "published": "Sun, 01 Nov 2026 08:29:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+    "summary": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air、iPhone Duo。 阿里巴巴强调，在任何问题、文档和图片发送给千问之前，都会先征得用户同意。 苹果表示，这些功能由其自有模型驱动；用户也可以选择接入阿里巴巴千问，在 Siri、写作工具和视觉智能中处理部分请求。不过，首批更新不包含新版 Siri AI，iPad、Mac 等其他平台还需等待必要审批。（来源：极客公园） OpenAI 撤回 Pro 200 降额计划，同时提高 Work 和 Codex 用量 当地时间 10 月 29 日，OpenAI 宣布调整 Pro 和 Business Premium 订阅中的 Work、Codex 使用额度。Pro 100 和 Pro 500 的",
+    "url": "http://www.geekpark.net/news/373220",
+    "published": "Sat, 31 Oct 2026 08:03:20 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+    "summary": "头图图片来源：Apple 10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。 苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPhone Duo 发布时，国行产品页上 Apple 智能后面跟着的是一句「推出时间依监管部门审批情况而定」，到这周新款 MacBook Pro 发布，国行页面还是这句话。现在页面顶部写的是：「Apple 智能的首批核心功能将于今年稍晚推出。」 从 2024 年 6 月在 WWDC 上亮相算起，国行 iPhone 等了整整两年半。 今年 3 月 31 日凌晨，有国行 iPhone 用户发现设置里的「Siri」变成了「Apple 智能与 Siri」，据当时的报道，两个小时左右又被撤了回去，苹果的解释是软件问题。 7 月 15 日，网信办公告 7 款手机端侧生成式 AI 服务完成备案，苹果技术开发（上海）有限公司的「",
+    "url": "http://www.geekpark.net/news/373238",
+    "published": "Sat, 31 Oct 2026 06:26:23 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
+    "summary": "作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务…… 但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。 时间去了哪里？ 写提示词、等待 AI 生成是一部分；生成效果不理想，手动在 IDE 中 修改是另一部分。甚至，开发完成后，代码还需要打开终端测试；准备项目汇报，又要切换到文档和演示工具。 每换一个应用、开启一段新会话，都可能需要重新解释：项目在做什么，为什么这样设计，刚才改到了哪里，还有哪些问题没解决 。 AI 的生产力跑在了前面，而承载它的开发基建：任务调度、状态管理、验证闭环、产物沉淀、跨工具协同，还停留在前 AI 时代 。 于是，到了 2026 年，一些变化开始发生了。这一年，AI 个人助理赛道的热度彻底走到了爆发节点：Meta 推出的个人助理 Muse 上线两周便登顶美加 iOS 免费榜，下载量突破 340 万；此后，OpenAI、Google、字节、腾讯",
+    "url": "http://www.geekpark.net/news/373190",
+    "published": "Fri, 30 Oct 2026 13:49:25 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
+    "summary": "谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收 Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最慢。这项业务约占公司总营收的一半，也是为巨额 AI 投资提供资金的关键来源。 摩根大通分析师 Doug Anmuth 等人在研报中表示，业绩和股价反应显示，对于投入数千亿美元建设 AI 基础设施的超大规模云服务商而言，一旦核心业务业绩令人失望，容错空间有多小。 截至纽约时间上午 9：35，Alphabet 股价下跌 13%，至 281.37 美元，市值蒸发 5110 亿美元。这跟竞争对手微软的表现形成鲜明反差。微软云业务增速超出华尔街预期，同时控制支出，推动股价上涨。 谷歌首席商务官 Philipp Schindler 周三晚间在财报电话会议上表示，谷歌搜索中新推出的 AI Mode 标签页日",
+    "url": "http://www.geekpark.net/news/373154",
+    "published": "Fri, 30 Oct 2026 08:15:04 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "大众把三年在中国攒的家底，打包成了一颗「星」",
+    "summary": "头图来源：极客公园 10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。 这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。 按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。 大众汽车集团（中国）董事长兼 CEO 贝瑞德在台上说，短短三年，大众在中国打造出了一套一体化的技术矩阵，在国际汽车制造商之中，能做到这一点的应该屈指可数。 这句话的背后，是大众这几年在面对激烈的「中式竞争」后，第一次重新找到了方向的自信。 「在中国造」到「在中国研」 把时间往回拨四年。 2022 年，大众把在华战略从「在欧洲，为中国」改成了「在中国，为中国」。贝瑞德的解释是，大众要从过去在中国生产制造，走向在中国自主创新。 2023 年，大众在德国以外规模最大的研发中心 VCTC 在合肥成立。如今这里有 3000 多名员工，中国团队从执行方变成了主导方，本土工程师拿到了在本地自主决策的权力。 这个转向背后有现实的压力。2025 年，大众集团全球营业利润 89 ",
+    "url": "http://www.geekpark.net/news/373086",
+    "published": "Thu, 29 Oct 2026 15:09:14 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%",
+    "summary": "苹果发布首款触屏 MacBook Pro，顶配超 11 万 元 北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。 新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启预购，11 月 6 日正式发售，起售价 22999 元。 在交互方面，用户可直接触摸屏幕滚动网页、缩放照片、拖放幻灯片，以及操作 3D 模型或演奏虚拟乐器。苹果表示，触控传感器直接内嵌于显示面板，macOS 可将触控输入转换为点按，让许多现有应用直接支持触控。新机还调整了铰链设计，以提升触屏操作时的稳定性。 新机最高可选 128GB 统一内存和 16TB 存储，苹果标称电池续航最长可达 24 小时，支持约 30 分钟充至最高 50%电量。搭载 M5 Max 处理器、128G 统一内存和 16TB 硬盘的 16.3 寸触屏 MacBook Pro，官网标价来到 11.26 万元。（来源：凤凰网科技） 宇树科技公布首",
+    "url": "http://www.geekpark.net/news/373085",
+    "published": "Thu, 29 Oct 2026 08:05:58 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+    "summary": "搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple 2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放。演示效果很好，但用一会儿你就会累，用久了，胳膊都要掉下来。这行不通，人体工学上糟透了。」 16 年后的今天凌晨，苹果发布了第一台带触屏的 Mac：搭载 PROLED XDR 显示屏的 MacBook Pro，14 英寸和 16 英寸两个尺寸，芯片是 M5 Pro 和 M5 Max。国行 14 英寸 22999 元起，16 英寸 27999 元起，10 月 30 日上午 9 点开始预购，比美国晚一天多，11 月 6 日发售。 14 英寸和 16 英寸两个尺寸，刘海换成了灵动岛｜图片来源：Apple 芯片还是今年 3 月发布的那一代。原来那款 mini-LED 屏的 MacBook Pro 没有下架，两条产品线并排卖，起步配置一模一样：14 英寸 M5 Pro 都是 24GB 内存、1TB 存储，mini-LED 版国行 19999",
+    "url": "http://www.geekpark.net/news/373084",
+    "published": "Thu, 29 Oct 2026 02:27:03 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "斯坦福的研究，红海的珊瑚，与一个中国模型",
+    "summary": "2026 年 9 月 4 日，又一年柏林国际消费电子展 IFA 大会开幕，会展中心的创新舞台座无虚席。 IFA 2026 的开幕主题演讲题目是《个人 AI 时代：想象力的未来》，主讲人是 AMD 高级副总裁、计算与图形事业部总经理 Jack Huynh。 作为消费电子圈每年最重要的场合之一，台下所有人都在等 AMD 拿出年度最重磅的内容。Huynh 的前半段演讲照例讲硬件：新一代 Ryzen AI Max PRO 处理器，AMD 历经多年打磨、专为个人 AI 设计的笔记本「Sundance」。 到演示环节，他话锋一转：「如果说，用一句 prompt 就创造一整个世界呢？」 他双手托着笔记本，屏幕上没有播放键，镜头平稳地向前推进，穿过中国小镇的街巷，又走上欧洲乡村的小路，光影随着视角移动自然变化，世界一路向前铺展，仿佛没有尽头。 这不是一段提前渲染好的视频，而是一个正在实时生成、可以交互的三维世界。 过去一段时间，这类能力更多出现在实验室和论文演示里，能以这么高的完成度，出现在消费电子展的主舞台上，还是行业第一次。 演示结束时，Huynh 对着话筒说了句：「This is the fut",
+    "url": "http://www.geekpark.net/news/373059",
+    "published": "Wed, 28 Oct 2026 15:37:30 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+    "summary": "大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中， 这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元 ，发行价区间尚未披露。 24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86 亿美元，去年同期只有 11.63 亿美元；第二季度交出 9.74 亿美元经营利润，迎来公司历史上首个经营盈利的季度；至于账面上高达 807 亿美元的净亏损，大头是 723.88 亿美元的可转债、衍生负债和 SAFE 公允价值变动，属于非现金的会计费用。 但在这些华尔街叙事之外，国内的开发者和日常使用者有着另一种割裂的体感。在中国大陆用户眼里，Claude 大概是目前市面上封号最多、风控最严苛、用起来最让人恼火的 AI 产品。 为什么一家做出顶尖大模型的公司，在面对普通个人用户时总是显得如此冷淡 ？ 翻完招股书的财务附注和风险提示，答案其实就写在账本上。在 Anthropic 的商业版图里，个",
+    "url": "http://www.geekpark.net/news/373006",
+    "published": "Tue, 27 Oct 2026 16:55:13 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
+    "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+    "summary": "10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《 用 Manus 改造 Manus 》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字未改。 更让他意外的是，这位工程师当时同时在处理十几、二十个需求。在今天的 Manus，这已经是常态。 这篇文章信息量很大，有几件事最值得记下来。 Manus 内部做了一个叫 Manus-mono 的统一代码入口，配上一本写给 AI 看的说明书，让 AI 能看到跨仓库的全局。一个需求，一个人就能写完所有端。移动端团队一直只有 7 个人，同时负责 2 个产品、4 个 App，进度和网页版基本同步。 所有产品经理都向 Manus 提交过代码，大约一半能独立把需求做到上线。有的产品经理交出来的需求，已经从文档变成了一段视频。 市场团队有了一位「数字同事」，会自己安排工作、主动提醒项目进度，还会跨团队",
+    "url": "http://www.geekpark.net/news/373004",
+    "published": "Tue, 27 Oct 2026 16:49:29 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "published": "Fri, 06 Nov 2026 16:50:01 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Serve Robotics launches new business to become the AWS for robots",
+    "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+    "published": "Thu, 05 Nov 2026 21:15:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple’s China AI partner has had a rough ride",
+    "summary": "Editor’s note: On Nov. 4, Apple Intelligence began beta testing in China, with Alibaba’s Qwen available in selected Siri, Writing Tools and Visual Intelligence experiences. The partnership crowns an unusually fast ascent for a model family launched in 2023. Hugging Face counted more than 2 billion Qwen downloads on its own Hub in the first […]",
+    "url": "https://technode.com/2026/11/06/apples-china-ai-partner-has-had-a-rough-ride/",
+    "published": "Fri, 06 Nov 2026 08:19:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Updated Xiaomi SU7 Ultra spotted testing at Nürburgring",
+    "summary": "An updated Xiaomi SU7 Ultra has been spotted testing at Germany’s Nürburgring. Automotive video creator Misha filmed the car during a track session, according to MyDrivers’ November 4 report. Images show the car retaining its distinctive yellow paintwork and featuring a large rear wing. The updated model is reportedly due to launch in 2027. [MyDrivers, […]",
+    "url": "https://technode.com/2026/11/06/updated-xiaomi-su7-ultra-spotted-testing-at-nurburgring/",
+    "published": "Fri, 06 Nov 2026 07:48:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Ant launches Ling-3.2-flash multimodal model with million-token context",
+    "summary": "Ant Group released Ling-3.2-flash on November 5, adding a native multimodal model that accepts text, images, and video. The model has 560 billion total parameters, activates 25 billion per inference step, and supports a one-million-token context window. Ant says the model focuses on complex visual understanding, multistep agent tasks, 3D understanding and interaction, and medical […]",
+    "url": "https://technode.com/2026/11/06/ant-launches-ling-3-2-flash-multimodal-model-with-million-token-context/",
+    "published": "Fri, 06 Nov 2026 07:47:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Sand.ai raises $200 million ahead of MAGI-2 video model release",
+    "summary": "Chinese video-generation company Sand.ai announced a $200 million Series A+ funding round on November 5. The company said the investment gave it unicorn status and brought its fundraising this year to $300 million across three rounds. Cornerstone Capital and Wangsu Science & Technology jointly led the round. Sand.ai will use the proceeds for video-model research, […]",
+    "url": "https://technode.com/2026/11/06/sand-ai-raises-200-million-ahead-of-magi-2-video-model-release/",
+    "published": "Fri, 06 Nov 2026 07:47:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei launches first HarmonyOS desktop with Kirin X90 processor",
+    "summary": "Huawei unveiled its first HarmonyOS desktop, the Qingyun HM650 series, at its enterprise computing summit on November 5. The computers run HarmonyOS and use Huawei’s Kirin X90 processor. Huawei said the machines’ components achieved 100% domestic sourcing. It also announced that cumulative HarmonyOS computer shipments had surpassed one million units, with more than 21,000 compatible […]",
+    "url": "https://technode.com/2026/11/06/huawei-launches-first-harmonyos-desktop-with-kirin-x90-processor/",
+    "published": "Fri, 06 Nov 2026 07:46:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Oracle reportedly cancels $7 billion Tencent AI chip lease under US pressure",
+    "summary": "Oracle has canceled a five-year agreement to lease advanced AI chips to Tencent after pressure from the Trump administration, the Financial Times reported on November 4. The deal, valued at approximately $7 billion, would have given Tencent access to around 100,000 advanced AI chips across Oracle data centers in Southeast Asia. US officials raised concerns […]",
+    "url": "https://technode.com/2026/11/05/oracle-reportedly-cancels-7-billion-tencent-ai-chip-lease-under-us-pressure/",
+    "published": "Thu, 05 Nov 2026 06:03:02 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Nothing plans December launch for first AI-native device",
+    "summary": "Nothing plans to launch its first AI-native hardware product in December, founder and CEO Carl Pei said on November 4. Pei described the forthcoming device as a productivity tool without a screen, adding that its functions could not have been delivered through an app alone. In an essay titled “Toolmakers,” Pei argued that AI tools […]",
+    "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/",
+    "published": "Thu, 05 Nov 2026 06:02:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tech Odyssey Series: From Portugal to China, a New Conversation Begins",
+    "summary": "In the previous episode of Tech Odyssey, we visited Startup Braga to see how a former police building became a startup hub with global ambitions. For the season finale, we speak with AICEP, Portugal’s trade and investment agency and the series’ co-producer, about what might come next for technology cooperation between Portugal and China. “Have […]",
+    "url": "https://technode.com/2026/11/04/tech-odyssey-series-from-portugal-to-china-a-new-conversation-begins/",
+    "published": "Wed, 04 Nov 2026 12:31:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent launches Hy4 with vision and computer-use capabilities",
+    "summary": "Tencent launched Hy4 on November 4, adding visual understanding and computer-use capabilities to its flagship AI model. The company said Hy4 can interpret charts and documents, reason across multiple images, and operate command-line tools and graphical interfaces. Targeted training covers applications such as Blender and CAD software, alongside tasks spanning multiple programs. The 770-billion-parameter model […]",
+    "url": "https://technode.com/2026/11/04/tencent-launches-hy4-with-vision-and-computer-use-capabilities/",
+    "published": "Wed, 04 Nov 2026 09:15:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple Intelligence enters developer beta in China with Qwen integration",
+    "summary": "Apple began testing Apple Intelligence in mainland China on November 4 Beijing time with the iOS 27.3 developer beta. Developers with compatible iPhones can enable the features after installing the update, bringing Apple’s system-level AI tools to the market ahead of a planned public release in December. The beta includes Writing Tools, Live Translation, Visual […]",
+    "url": "https://technode.com/2026/11/04/apple-intelligence-enters-developer-beta-in-china-with-qwen-integration/",
+    "published": "Wed, 04 Nov 2026 08:03:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent reportedly preparing consumer AI search engine",
+    "summary": "Tencent is preparing to launch an AI search engine for consumers that combines AI-generated answers with web search, Huxiu reported on November 3. The product will feature a minimal interface and prioritize authoritative sources, according to the report. A Tencent insider told Huxiu that the planned search engine shares its underlying capabilities with search inside […]",
+    "url": "https://technode.com/2026/11/04/tencent-reportedly-preparing-consumer-ai-search-engine/",
+    "published": "Wed, 04 Nov 2026 08:02:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Baidu launches Apollo World model to train robotaxis in simulated environments",
+    "summary": "Baidu unveiled Apollo World on November 3, a world model that simulates interactive road environments to train and test autonomous vehicles. The company said the system is already being used to support Apollo Go’s global robotaxi development and can generate up to 100,000 kilometers of simulated driving per day. Apollo World produces real-time camera and […]",
+    "url": "https://technode.com/2026/11/04/baidu-launches-apollo-world-model-to-train-robotaxis-in-simulated-environments/",
+    "published": "Wed, 04 Nov 2026 07:58:39 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Why Meta Turned to China’s Fourier for Its Humanoid Robot",
+    "summary": "Editor’s note: Meta has tapped Shanghai-based Fourier to help build “Max,” a five-foot-tall humanoid developed in about three months, with a second version already underway. The deal puts a spotlight on a startup company that has grown from rehabilitation robotics into humanoids, ranked sixth globally in 2025 humanoid-robot shipments by Omdia, and attracted investors including […]",
+    "url": "https://technode.com/2026/11/04/why-meta-turned-to-chinas-fourier-for-its-humanoid-robot/",
+    "published": "Wed, 04 Nov 2026 07:33:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "SenseTime launches SenseNova 6.8 Flash for office and design workflows",
+    "summary": "SenseTime released the official version of SenseNova 6.8 Flash on November 2, expanding its multimodal agent capabilities for office collaboration and design. The model supports animated presentations, posters, websites, SVG graphics, and 3D creation through tools such as Blender. The company is also emphasizing long-term memory and collaboration across conversations. These capabilities are intended to […]",
+    "url": "https://technode.com/2026/11/03/sensetime-launches-sensenova-6-8-flash-for-office-and-design-workflows/",
+    "published": "Tue, 03 Nov 2026 05:15:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Visual brain-computer interface developer Nanochap raises RMB 500 million",
+    "summary": "Nanochap, a Hangzhou-based developer of brain-computer interfaces for vision restoration, announced RMB 500 million in Series C+ funding on November 3. Gaorong Ventures led the round, with participation from investors including PICC Equity, Monolith, and C&D Emerging Industry Investment. The financing is Nanochap’s second round this year and brings its cumulative funding to RMB 1 […]",
+    "url": "https://technode.com/2026/11/03/visual-brain-computer-interface-developer-nanochap-raises-rmb-500-million/",
+    "published": "Tue, 03 Nov 2026 05:14:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "AI inference chipmaker Moffett AI raises nearly RMB 1 billion in Series C+ funding",
+    "summary": "Moffett AI, a Shenzhen-based developer of AI inference chips, announced on November 3 that it had completed nearly RMB 1 billion in Series C+ funding. The financing follows another round of nearly RMB 1 billion approximately five months earlier. The proceeds will support upgrades to its sparse-computing inference chips, research into next-generation processors, and collaboration […]",
+    "url": "https://technode.com/2026/11/03/ai-inference-chipmaker-moffett-ai-raises-nearly-rmb-1-billion-in-series-c-funding/",
+    "published": "Tue, 03 Nov 2026 05:14:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Mercedes-Benz brings Doubao AI and China-developed cockpit to updated E-Class",
+    "summary": "Mercedes-Benz launched its updated long-wheelbase E-Class in China on November 2, introducing an AI cockpit independently developed under the leadership of its Chinese research team. The three E 300 L variants are priced from RMB 423,800 to RMB 509,800. The cockpit integrates ByteDance’s Doubao model into Mercedes-Benz’s virtual assistant and adds Huawei HiCar alongside Apple […]",
+    "url": "https://technode.com/2026/11/03/mercedes-benz-brings-doubao-ai-and-china-developed-cockpit-to-updated-e-class/",
+    "published": "Tue, 03 Nov 2026 05:13:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Meituan launches LongCat-2.5 multimodal AI model for extended coding tasks",
+    "summary": "Meituan released LongCat-2.5 on November 2, adding stronger visual understanding and coding capabilities to its AI model lineup. The model has 1.6 trillion total parameters, with approximately 48 billion activated for each token, and is designed for tasks requiring sustained execution by AI agents. The company said it expanded training on long task sequences and […]",
+    "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+    "published": "Mon, 02 Nov 2026 04:32:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Robot-training data startup GenRobot AI raises $100 million in Series A+ funding",
+    "summary": "GenRobot AI, a Beijing-based company providing data infrastructure for robot development, has completed a $100 million Series A+ funding round. The financing closed in the third quarter and was disclosed on November 2. Participating investors include SAIC Motor, Malaysia’s Eastworlds, Baidu, Shoucheng Holdings, and Galaxy General Robotics, alongside financial investors including GL Ventures, CITIC Goldstone, […]",
+    "url": "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding/",
+    "published": "Mon, 02 Nov 2026 04:32:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Apple confirms Qwen integration for China AI rollout, with beta testing starting November 4",
+    "summary": "Apple will begin testing Apple Intelligence in mainland China on November 4, integrating Alibaba’s Qwen into Siri, Writing Tools, and Visual Intelligence. The features will arrive through an iOS developer beta before a wider release with iOS 27.3 in December, Apple announced on October 31. Users will be able to ask Qwen questions about text, […]",
+    "url": "https://technode.com/2026/11/02/apple-confirms-qwen-integration-for-china-ai-rollout-with-beta-testing-starting-november-4/",
+    "published": "Mon, 02 Nov 2026 04:32:40 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "AI inference chip startup Nano-core Chip raises over RMB 1 billion in Series C2 funding",
+    "summary": "Hangzhou-based AI inference chip developer Nano-core Chip has raised more than RMB 1 billion in Series C2 funding, the company announced on October 28. The round was led by JianTou Investment, with participation from Hangzhou Capital, Kaitai Capital, and other investors. The company will use the proceeds for product development and preparation for volume production. […]",
+    "url": "https://technode.com/2026/10/30/ai-inference-chip-startup-nano-core-chip-raises-over-rmb-1-billion-in-series-c2-funding/",
+    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Former Xiaomi executive launches smart ring and AI-powered sleep system",
+    "summary": "ISHO, the sleep technology startup founded by former Xiaomi executive Wang Teng, unveiled its first products on October 29: the ISHO Ring smart ring and the iFlow bed temperature-control system. Prices start at RMB 1,799 and RMB 9,999, respectively. The ring monitors physiological signals to track sleep and provide daily energy-management insights. It offers a […]",
+    "url": "https://technode.com/2026/10/30/former-xiaomi-executive-launches-smart-ring-and-ai-powered-sleep-system/",
+    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xpeng launches MONA L05 SUV with electric and extended-range versions",
+    "summary": "Xpeng launched the MONA L05 on October 29, expanding its lower-priced MONA lineup with its first five-seat SUV. Official list prices start at RMB 144,800, while a limited-time launch offer brings the entry price to RMB 139,800. The model comes in battery-electric and extended-range versions. Electric variants offer up to 635 kilometers of CLTC-rated range, […]",
+    "url": "https://technode.com/2026/10/30/xpeng-launches-mona-l05-suv-with-electric-and-extended-range-versions/",
+    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Genshin Impact developer sets December 4 launch for life simulation game Petit Planet",
+    "summary": "HoYoverse, the global brand of Chinese game developer miHoYo, will launch its life simulation game Petit Planet worldwide on December 4 for PC, iOS, and Android. The company announced the date on October 30, following the game’s final beta test. Petit Planet lets players build and customize their own small planets, with activities including farming, […]",
+    "url": "https://technode.com/2026/10/30/genshin-impact-developer-sets-december-4-launch-for-life-simulation-game-petit-planet/",
+    "published": "Fri, 30 Oct 2026 05:46:55 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent’s WorkBuddy adds remote control, letting users manage AI tasks from their phones",
+    "summary": "On Thursday, WorkBuddy, Tencent’s AI agent platform, launched a remote control feature supported by Tencent’s Edge One team. The feature allows users to connect to a computer logged into the same account via the mobile app, view the desktop in real time, and take control of operations when necessary. Unlike traditional remote desktop tools, which […]",
+    "url": "https://technode.com/2026/10/30/tencents-workbuddy-adds-remote-control-letting-users-manage-ai-tasks-from-their-phones/",
+    "published": "Fri, 30 Oct 2026 03:32:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Phantom Blade Zero Puts Chinese Wuxia Swordplay on a 66-Day Timer",
+    "summary": "An 88 Metascore and 91 OpenCritic average have put S-Game’s dark martial-arts RPG in the conversation as China’s next potential global breakout. Phantom Blade Zero, Chinese developer S-Game’s new wuxia action RPG, launches today on PC and PlayStation 5. The game opens with its protagonist, Soul, impaled through the chest. He chooses an artificial heart […]",
+    "url": "https://technode.com/2026/10/29/phantom-blade-zero-puts-wuxia-swordplay-on-a-66-day-timer/",
+    "published": "Thu, 29 Oct 2026 09:17:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "TechNode",
+    "title": "Can the upgraded Li Auto i6 hold its ground in China’s crowded electric SUV market?",
+    "summary": "Li Auto launched the 2026 Li Auto i6 on Wednesday, marking the model’s first annual update since its debut a year ago. Rather than relying on aggressive price cuts, the updated version introduces a series of changes to its battery system, intelligent cockpit, driver-assistance technology, and comfort features. The model starts at RMB 249,800 ($37,500). […]",
+    "url": "https://technode.com/2026/10/29/can-the-upgraded-li-auto-i6-hold-its-ground-in-chinas-crowded-electric-suv-market/",
+    "published": "Thu, 29 Oct 2026 07:27:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "published": "2026-11-06T18:46:18-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "GitHub新星",
+    "title": "KKKKhazix/agent-autoloop",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "published": "2026-11-03T08:02:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 3739,
+      "forks": 681,
+      "language": "TypeScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "published": "2026-11-04T14:54:56Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 2919,
+      "forks": 1141,
+      "language": "Python",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "govijr/terminal-mac",
+    "summary": "Entire MacOS running in your terminal.",
+    "url": "https://github.com/govijr/terminal-mac",
+    "published": "2026-11-03T03:22:56Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 2168,
+      "forks": 139,
+      "language": "Swift",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "mromidev/claude-animated-shorts",
+    "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "published": "2026-11-01T05:50:38Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 2048,
+      "forks": 434,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "caru-ini/stack-diagram",
+    "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "published": "2026-11-01T05:35:12Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 1979,
+      "forks": 90,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Minireel/HGhub",
+    "summary": "YellowFruit third-party client",
+    "url": "https://github.com/Minireel/HGhub",
+    "published": "2026-11-03T14:04:27Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 1777,
+      "forks": 1018,
+      "language": "TypeScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "wquguru/cicada",
+    "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+    "url": "https://github.com/wquguru/cicada",
+    "published": "2026-11-01T05:41:23Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 1566,
+      "forks": 286,
+      "language": "Swift",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "s1dashu/quiet-md",
+    "summary": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "published": "2026-11-01T14:22:53Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 1193,
+      "forks": 105,
+      "language": "Rust",
+      "createdDaysAgo": 5
+    }
+  }
+]
