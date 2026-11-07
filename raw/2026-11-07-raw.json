@@ -101,30 +101,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月7日）",
-    "summary": "Anthropic递交修订版S-1，机构将估值由2万亿美元压至1.5万亿至1.6万亿；OpenAI完成110亿美元首期交割，投前估值1.25万亿，总额由300亿砍至约200亿，AI一级市场进入现金流定价期。中期选举后10州41项数据中心公投多数通过限制，得州、弗吉尼亚监管转向与微软终止甲骨文逾30亿美元租约共振；英伟达单日跌9.26%、纳指周跌5.52%，麦格理套现560亿美元离场转投电力。",
-    "url": "https://www.tmtpost.com/8196982.html",
-    "published": "Sat, 07 Nov 2026 08:28:54 +0800",
+    "title": "当芯片抢着上太空，半导体下一轮增量有了？",
+    "summary": "巨头争建太空机房，算力竞赛再度提速。",
+    "url": "https://www.tmtpost.com/8197078.html",
+    "published": "Sat, 07 Nov 2026 17:33:06 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-07"
   },
   {
     "source": "钛媒体",
-    "title": "Waymo不想再当“技术供应商”了",
-    "summary": "Waymo 用了七八年时间证明自动驾驶能安全地跑起来。接下来它要证明的是另一件事：一家自动驾驶公司，能不能同时成为一家有人愿意打开、愿意信任、愿意直接付钱的出行品牌。",
-    "url": "https://www.tmtpost.com/8195043.html",
-    "published": "Fri, 06 Nov 2026 18:09:38 +0800",
+    "title": "英伟达四处替客户找钱买芯片",
+    "summary": "给账期、买客户股票、替客户担保，还要找保险公司。英伟达正在变成客户的融资方。",
+    "url": "https://www.tmtpost.com/8197111.html",
+    "published": "Sat, 07 Nov 2026 17:32:20 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-07"
   },
   {
     "source": "钛媒体",
-    "title": "创始人扶90后表弟“上位”，百亿辣条帝国面临双重挑战",
-    "summary": "卫龙高管喜欢用自家人。",
-    "url": "https://www.tmtpost.com/8195224.html",
-    "published": "Fri, 06 Nov 2026 17:40:30 +0800",
+    "title": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
+    "summary": "（11月2日~11月7日）OpenAI与Cathedral Systems达成网络安全合作；2026年世界互联网大会乌镇峰会举办；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业。",
+    "url": "https://www.tmtpost.com/8197131.html",
+    "published": "Sat, 07 Nov 2026 17:28:42 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "钛媒体",
+    "title": "“不想打工”的人形机器人，在仓库里吃灰 | 潮向",
+    "summary": "问题不是机器人还能翻多高，是离车间还有多远。",
+    "url": "https://www.tmtpost.com/8196856.html",
+    "published": "Sat, 07 Nov 2026 16:36:29 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-07"
@@ -430,16 +440,6 @@
     "fetchedAt": "2026-11-07"
   },
   {
-    "source": "TechCrunch",
-    "title": "Serve Robotics launches new business to become the AWS for robots",
-    "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-    "published": "Thu, 05 Nov 2026 21:15:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-07"
-  },
-  {
     "source": "TechNode",
     "title": "Apple’s China AI partner has had a rough ride",
     "summary": "Editor’s note: On Nov. 4, Apple Intelligence began beta testing in China, with Alibaba’s Qwen available in selected Siri, Writing Tools and Visual Intelligence experiences. The partnership crowns an unusually fast ascent for a model family launched in 2023. Hugging Face counted more than 2 billion Qwen downloads on its own Hub in the first […]",
@@ -720,6 +720,33 @@
     "fetchedAt": "2026-11-07"
   },
   {
+    "source": "B站",
+    "title": "S赛怀旧金曲云南山歌版",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=S赛怀旧金曲云南山歌版",
+    "published": "2026-11-07",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "hotValue": 281138
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "智友社回馈 V 站新老客户，抽送第 13 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。 我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的价格实惠的特殊渠道 AI 产品，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售，我们也欢迎各位佬友跟我们推荐稳定的特殊渠道 AI ，我们会自费购买进行稳定性测试，测试通过后也能让更多的人能受益！ 由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台—链动小铺，您有问题可以随时联系我们",
+    "url": "https://www.v2ex.com/t/1255146",
+    "published": 1794020170,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "replies": 19,
+      "node": "推广"
+    }
+  },
+  {
     "source": "GitHub新星",
     "title": "KKKKhazix/agent-autoloop",
     "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -729,10 +756,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 3739,
-      "forks": 681,
+      "stars": 3854,
+      "forks": 699,
       "language": "TypeScript",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -745,8 +772,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2919,
-      "forks": 1141,
+      "stars": 2983,
+      "forks": 1159,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -761,8 +788,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2168,
-      "forks": 139,
+      "stars": 2201,
+      "forks": 141,
       "language": "Swift",
       "createdDaysAgo": 4
     }
@@ -777,10 +804,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2048,
-      "forks": 434,
+      "stars": 2109,
+      "forks": 452,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -793,10 +820,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 1979,
-      "forks": 90,
+      "stars": 2014,
+      "forks": 93,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -809,8 +836,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 1777,
-      "forks": 1018,
+      "stars": 1925,
+      "forks": 1048,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -825,26 +852,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 1566,
-      "forks": 286,
+      "stars": 1593,
+      "forks": 289,
       "language": "Swift",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "s1dashu/quiet-md",
-    "summary": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
-    "url": "https://github.com/s1dashu/quiet-md",
-    "published": "2026-11-01T14:22:53Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-07",
-    "meta": {
-      "stars": 1193,
-      "forks": 105,
-      "language": "Rust",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   }
 ]
