@@ -141,6 +141,16 @@
   },
   {
     "source": "极客公园",
+    "title": "「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车",
+    "summary": "中东，阿联酋阿布扎比酋长皇宫酒店草坪上，比亚迪正式曝光了仰望旗下一款超豪华新车「鼎曜」YANGWANG ALTIOR。 Altior源自拉丁语，意思是「更高」。这也是仰望品牌诞生以来，第一次脱离U7、U8、U9的字母数字序列，单独起了一个名字。 仰望鼎曜 Altior 正式亮相|图片来源：极客公园 这台新车很可能有 5米 5 的车长，双拼车身和大饼轮毂、对开门，仅从外观设计上就表明，这是一款瞄准超级老钱如劳斯莱斯市场的新竞争者。 就在一天前，仰望 U9 Extreme 刚刚凭借超过 503 公里每小时的时速，成为受到 FIA 认证的全球最速量产车。 现在，Altior 的亮相，表明中国车企，正在从技术和豪华两方面，不断挑战新的极限。 「更高」的仰望 在介绍这款超豪华新车时，比亚迪集团执行副总裁李柯用的最多的一句话不是「豪华」，而是「皇宫」（Palace），用她的话是，「鼎曜」Altior 本身就是「一座移动皇宫」。 很显然，发布会本身在阿布扎比的酋长皇宫酒店，「鼎」这个汉字本身就就让人想到一统天下的皇权——「问鼎天下」。 比亚迪设计总监介绍鼎曜的设计理念｜图片来源：极客公园 「鼎」字本",
+    "url": "http://www.geekpark.net/news/373647",
+    "published": "Sat, 07 Nov 2026 23:37:50 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "极客公园",
     "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
     "summary": "头图来源：腾讯云 过去一年，智能体是 AI 行业最受关注的方向之一。 从查资料、写文档到处理日常办公事务，桌面办公智能体完成了第一轮普及，办公提效的价值已经成为行业共识。但当 AI 进一步走向企业核心业务，搭出一个智能体不难，难的是让它真正跑进业务流程，适配复杂的系统、权限与规则，持续产出可量化的经营价值。 在腾讯云副总裁吴永坚看来，未来企业级智能体的核心赛道，对话式的桌面办公 Agent 和服务经营的 Service Agent 会是两个长期并行的赛道。大模型提供了理解与推理能力，但想让 AI 真正参与业务经营，还需要一套能够打通系统、管好权限、支撑长期稳定运行的企业级平台。 在 2026 腾讯全球数字生态大会企业级 Agent 产业实践专场上，腾讯云 ADP 宣布完成全生命周期产品升级，同时推出 FDE 交付方法论与生态共建体系，试图回答的正是这一问题：当办公场景的提效已经形成共识，要让智能体真的走进业务经营场景，底层的智能体平台，到底需要补哪些能力。 过去用来搭建单点应用的开发工具，正在成为 Service Agent 扎根企业业务流的核心基础设施。 一、从办公到经营，企业级 A",
     "url": "http://www.geekpark.net/news/373642",
@@ -390,16 +400,6 @@
     "fetchedAt": "2026-11-07"
   },
   {
-    "source": "极客公园",
-    "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
-    "summary": "10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《 用 Manus 改造 Manus 》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字未改。 更让他意外的是，这位工程师当时同时在处理十几、二十个需求。在今天的 Manus，这已经是常态。 这篇文章信息量很大，有几件事最值得记下来。 Manus 内部做了一个叫 Manus-mono 的统一代码入口，配上一本写给 AI 看的说明书，让 AI 能看到跨仓库的全局。一个需求，一个人就能写完所有端。移动端团队一直只有 7 个人，同时负责 2 个产品、4 个 App，进度和网页版基本同步。 所有产品经理都向 Manus 提交过代码，大约一半能独立把需求做到上线。有的产品经理交出来的需求，已经从文档变成了一段视频。 市场团队有了一位「数字同事」，会自己安排工作、主动提醒项目进度，还会跨团队",
-    "url": "http://www.geekpark.net/news/373004",
-    "published": "Tue, 27 Oct 2026 16:49:29 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-07"
-  },
-  {
     "source": "TechCrunch",
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
@@ -415,26 +415,6 @@
     "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
     "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
     "published": "Fri, 06 Nov 2026 16:50:01 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-07"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "published": "Fri, 06 Nov 2026 06:28:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-07"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "published": "Thu, 05 Nov 2026 22:40:55 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-07"
@@ -711,10 +691,220 @@
   },
   {
     "source": "The Verge",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "published": "2026-11-07T10:43:45-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "The Verge",
+    "title": "Zelda is back and better than ever",
+    "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Andrew Garfield and GTA […]",
+    "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+    "published": "2026-11-07T08:49:01-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "The Verge",
     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
     "published": "2026-11-06T18:46:18-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Start a Startup Game",
+    "summary": "Article URL: https://www.neuroplusgbrain.net/ Comments URL: https://news.ycombinator.com/item?id=50406166 Points: 1 # Comments: 0",
+    "url": "https://www.neuroplusgbrain.net/",
+    "published": "Sat, 07 Nov 2026 17:12:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Germany just told us we'd have fire one of our founders to qualify for funding",
+    "summary": "Article URL: https://twitter.com/sjdedic/status/2118688674548265131 Comments URL: https://news.ycombinator.com/item?id=50403964 Points: 2 # Comments: 2",
+    "url": "https://twitter.com/sjdedic/status/2118688674548265131",
+    "published": "Sat, 07 Nov 2026 12:26:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Daily game guess what old tech cost at launch (and where it was invented)",
+    "summary": "Article URL: https://pricetimemachine.com/ Comments URL: https://news.ycombinator.com/item?id=50402136 Points: 2 # Comments: 0",
+    "url": "https://pricetimemachine.com/",
+    "published": "Sat, 07 Nov 2026 06:19:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Church quits role at AI startup claims 'sleazy' behavior stole credit",
+    "summary": "Article URL: https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/ Comments URL: https://news.ycombinator.com/item?id=50402123 Points: 5 # Comments: 0",
+    "url": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+    "published": "Sat, 07 Nov 2026 06:16:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Artemis II launch tore a hole in upper atmosphere so it disrupted GPS",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals Comments URL: https://news.ycombinator.com/item?id=50397817 Points: 4 # Comments: 1",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+    "published": "Fri, 06 Nov 2026 20:15:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The launch market is tough as satellite companies start building rockets",
+    "summary": "Article URL: https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/ Comments URL: https://news.ycombinator.com/item?id=50397319 Points: 4 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+    "published": "Fri, 06 Nov 2026 19:41:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "See the startup time difference with Rusty Discord",
+    "summary": "Article URL: https://twitter.com/discord/status/2118755849367896539 Comments URL: https://news.ycombinator.com/item?id=50395814 Points: 2 # Comments: 0",
+    "url": "https://twitter.com/discord/status/2118755849367896539",
+    "published": "Fri, 06 Nov 2026 17:56:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Better Launch",
+    "summary": "Article URL: https://www.betterlaunch.co Comments URL: https://news.ycombinator.com/item?id=50395748 Points: 3 # Comments: 0",
+    "url": "https://www.betterlaunch.co",
+    "published": "Fri, 06 Nov 2026 17:52:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "GrapheneOS accuses YC of funding surveillance and enabling HN harassment",
+    "summary": "Article URL: https://twitter.com/GrapheneOS/status/2118490356958597210 Comments URL: https://news.ycombinator.com/item?id=50395623 Points: 22 # Comments: 6",
+    "url": "https://twitter.com/GrapheneOS/status/2118490356958597210",
+    "published": "Fri, 06 Nov 2026 17:42:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "World of Warcraft Forever's Launch Was Running on over 200k Gigabytes of RAM",
+    "summary": "Article URL: https://www.ign.com/articles/world-of-warcraft-forevers-launch-was-running-on-over-200000-gigabytes-of-ram Comments URL: https://news.ycombinator.com/item?id=50394827 Points: 3 # Comments: 0",
+    "url": "https://www.ign.com/articles/world-of-warcraft-forevers-launch-was-running-on-over-200000-gigabytes-of-ram",
+    "published": "Fri, 06 Nov 2026 16:48:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A weekly launch board for indie products ranked by unique clicks",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50394666 Points: 2 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=50394666",
+    "published": "Fri, 06 Nov 2026 16:37:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Building a niche travel marketplace without outside funding",
+    "summary": "Article URL: https://stayatspa.com/ Comments URL: https://news.ycombinator.com/item?id=50394628 Points: 2 # Comments: 0",
+    "url": "https://stayatspa.com/",
+    "published": "Fri, 06 Nov 2026 16:35:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Warby Parker spilled the beans on Google's Android XR smart glasses launch",
+    "summary": "Article URL: https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/ Comments URL: https://news.ycombinator.com/item?id=50393745 Points: 2 # Comments: 0",
+    "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+    "published": "Fri, 06 Nov 2026 15:43:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Supercharging XLA-Based Inference: Announcing the Launch of XLA Serving Engine",
+    "summary": "Article URL: https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html Comments URL: https://news.ycombinator.com/item?id=50393410 Points: 3 # Comments: 0",
+    "url": "https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html",
+    "published": "Fri, 06 Nov 2026 15:21:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Mercury 3 cost calculator (launch promo vs. list pricing)",
+    "summary": "Article URL: https://pulse.llmendpoint.com/mercury-3/calculator/ Comments URL: https://news.ycombinator.com/item?id=50392413 Points: 2 # Comments: 0",
+    "url": "https://pulse.llmendpoint.com/mercury-3/calculator/",
+    "published": "Fri, 06 Nov 2026 14:03:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
+    "summary": "Article URL: https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/ Comments URL: https://news.ycombinator.com/item?id=50392256 Points: 3 # Comments: 0",
+    "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
+    "published": "Fri, 06 Nov 2026 13:48:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch a swarm of obliterated AI agents to hack your site",
+    "summary": "Article URL: https://mockhack.com Comments URL: https://news.ycombinator.com/item?id=50391195 Points: 4 # Comments: 3",
+    "url": "https://mockhack.com",
+    "published": "Fri, 06 Nov 2026 11:45:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I turned 100 old science fiction books into a database of 6,222 startup ideas",
+    "summary": "Article URL: https://www.reddit.com/r/SideProject/comments/1xly9r8/i_turned_100_old_science_fiction_books_into_a/ Comments URL: https://news.ycombinator.com/item?id=50383975 Points: 12 # Comments: 5",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xly9r8/i_turned_100_old_science_fiction_books_into_a/",
+    "published": "Thu, 05 Nov 2026 20:22:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-07"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Keychron Orca echo (split key) Pre-launch Campaign",
+    "summary": "Article URL: https://www.keychron.com/pages/keychron-orca-echo-pre-launch-campaign Comments URL: https://news.ycombinator.com/item?id=50383007 Points: 2 # Comments: 0",
+    "url": "https://www.keychron.com/pages/keychron-orca-echo-pre-launch-campaign",
+    "published": "Thu, 05 Nov 2026 19:04:25 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-07"
@@ -742,7 +932,7 @@
     "type": "community",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "replies": 19,
+      "replies": 27,
       "node": "推广"
     }
   },
@@ -756,8 +946,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 3854,
-      "forks": 699,
+      "stars": 3950,
+      "forks": 721,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -772,10 +962,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2983,
-      "forks": 1159,
+      "stars": 3050,
+      "forks": 1174,
       "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Minireel/HGhub",
+    "summary": "YellowFruit third-party client",
+    "url": "https://github.com/Minireel/HGhub",
+    "published": "2026-11-03T14:04:27Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-07",
+    "meta": {
+      "stars": 2273,
+      "forks": 1112,
+      "language": "TypeScript",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -788,8 +994,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2201,
-      "forks": 141,
+      "stars": 2240,
+      "forks": 145,
       "language": "Swift",
       "createdDaysAgo": 4
     }
@@ -804,8 +1010,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2109,
-      "forks": 452,
+      "stars": 2221,
+      "forks": 479,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -820,42 +1026,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 2014,
-      "forks": 93,
+      "stars": 2067,
+      "forks": 98,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Minireel/HGhub",
-    "summary": "YellowFruit third-party client",
-    "url": "https://github.com/Minireel/HGhub",
-    "published": "2026-11-03T14:04:27Z",
+    "title": "NotRexed/Hookshot",
+    "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "url": "https://github.com/NotRexed/Hookshot",
+    "published": "2026-11-05T12:18:58Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-07",
     "meta": {
-      "stars": 1925,
-      "forks": 1048,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "wquguru/cicada",
-    "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-    "url": "https://github.com/wquguru/cicada",
-    "published": "2026-11-01T05:41:23Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-07",
-    "meta": {
-      "stars": 1593,
-      "forks": 289,
-      "language": "Swift",
-      "createdDaysAgo": 6
+      "stars": 1755,
+      "forks": 155,
+      "language": "C++",
+      "createdDaysAgo": 2
     }
   }
 ]
