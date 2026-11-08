@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "oluwatobi-a-731075b3"
+          "linkedin": "breck7"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -671,7 +671,6 @@
           "name@domain.com",
           "u003esupport@meshy.ai",
           "careers@meshy.ai",
-          "meshy-webapp@v2026.11.07.post",
           "jane@company.com"
         ],
         "socials": {
@@ -1283,7 +1282,6 @@
         },
         "careerPage": "https://www.minimax.com/career",
         "jobListings": [
-          "On this page you will find all the \"Technical Product information\" to our product portfolio.",
           "Data Center",
           "Data privacy policy"
         ]
@@ -1542,13 +1540,8 @@
       "fetchedAt": "2026-11-08",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [
-          "info@latitudemedia.com"
-        ],
-        "socials": {
-          "twitter": "intent",
-          "linkedin": "latitude-media-inc"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
