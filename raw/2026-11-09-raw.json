@@ -10,16 +10,6 @@
     "fetchedAt": "2026-11-09"
   },
   {
-    "source": "少数派",
-    "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-    "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。 查看全文",
-    "url": "https://sspai.com/post/118570",
-    "published": "Fri, 06 Nov 2026 11:06:53 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
     "source": "创业邦",
     "title": "全面节约方案部署电池循环，生命周期管理连接回收与制造",
     "summary": "11 月 4 日公开的《实施全面节约战略行动方案》提出，构建新能源汽车动力电池全生命周期管理体系，推动汽车、家电、日化行业再生材料应用升级。政策重心从废弃物处置，转向推动再生资源回流生产线，对电池产业链提出三项核心要求：溯源清晰、处理适配、材料可再利用。 退役电池原料规格差异较大，材料体系、使用履历、退役状态各不相同，直接影响运输、拆解与回收产出。全生命周期管理旨在打通电池生产、使用到退役的全流程信息，让回收处理环节提前掌握来料特征，把物料差异纳入工艺管控，避免拆解后再被动识别物料。 从回收到再生制造，需要收集、运输、检测、加工多方协同。物料交接环节极易发生信息断档，如果只流转实物、不同步数据，下游只能凭经验处置。只有物料与信息同步传递，才能保障资源化效果，并非所有市场主体都具备全链条作业能力。 天眼查数据显示，截至 2026 年 5 月 15 日，国内在业、存续电池回收相关企业超 19.9 万家，年内新增约 3300 家；广东、江苏、安徽存量分别超 1.7 万家、1.4 万家、1.4 万家。该数据仅反映市场参与主体规模，不等于实际回收处理能力；合作需核验企业接收品类与处理条件，入局企",
@@ -410,21 +400,51 @@
     "fetchedAt": "2026-11-09"
   },
   {
+    "source": "爱范儿",
+    "title": "刚刚，马斯克评价黄仁勋出轨事件",
+    "summary": "当创始人成为公司的代名词 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1688626?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Mon, 09 Nov 2026 02:56:41 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
     "source": "TechCrunch",
-    "title": "Apps to distract you from the endless cycle of doomscrolling",
-    "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-    "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-    "published": "Sun, 08 Nov 2026 22:00:00 +0000",
+    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+    "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "published": "Mon, 09 Nov 2026 19:21:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-09"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+    "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+    "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+    "published": "Mon, 09 Nov 2026 19:19:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+    "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+    "published": "Mon, 09 Nov 2026 17:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla expands robotaxi service to San Antonio",
+    "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
+    "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+    "published": "Mon, 09 Nov 2026 11:30:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-09"
@@ -671,30 +691,60 @@
   },
   {
     "source": "The Verge",
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "published": "2026-11-08T17:54:50-05:00",
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "published": "2026-11-09T14:00:00-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-09"
   },
   {
     "source": "The Verge",
-    "title": "Epic Games Launcher is coming to SteamOS",
-    "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]",
-    "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-    "published": "2026-11-08T15:52:05-05:00",
+    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+    "published": "2026-11-09T13:07:23-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-09"
   },
   {
     "source": "The Verge",
-    "title": "Chatbots might be coming to Apple’s HomeView",
-    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]",
-    "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-    "published": "2026-11-08T10:00:30-05:00",
+    "title": "Uber wants to park your car now, too",
+    "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's […]",
+    "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+    "published": "2026-11-09T12:00:00-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Claude Fable 5.2 launch offers",
+    "summary": "Article URL: https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers Comments URL: https://news.ycombinator.com/item?id=50430176 Points: 12 # Comments: 2",
+    "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+    "published": "Mon, 09 Nov 2026 19:12:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A visualization map of the funding of public companies",
+    "summary": "I made this webapp (vibecoded) with Meta's AI models during the Meta AI hackathon that just ended (Oct 26-Nov 4). So far it contains public 33,000 companies, and 100k+ 'flows'. A company X has a flow to another company Y if X funds Y or owns its shares, or vice versa. It collects business data from SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval), Wikidata company lists, and other regional company indices of Europe and Asia to build a database of companies to display on the map. ",
+    "url": "https://github.com/feeRnt/whofundsit/tree/post_demo_cloudflare_cdn",
+    "published": "Mon, 09 Nov 2026 17:00:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 438 # Comments: 248",
+    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "published": "Mon, 09 Nov 2026 16:00:45 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-09"
@@ -702,7 +752,7 @@
   {
     "source": "Hacker News",
     "title": "Returning Starship to the Launch Site",
-    "summary": "Article URL: https://www.spacex.com/updates#starship-catch Comments URL: https://news.ycombinator.com/item?id=50419906 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://www.spacex.com/updates#starship-catch Comments URL: https://news.ycombinator.com/item?id=50419906 Points: 4 # Comments: 0",
     "url": "https://www.spacex.com/updates#starship-catch",
     "published": "Mon, 09 Nov 2026 01:40:31 +0000",
     "lang": "en",
@@ -752,7 +802,7 @@
   {
     "source": "Hacker News",
     "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-    "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/ Comments URL: https://news.ycombinator.com/item?id=50414427 Points: 199 # Comments: 265",
+    "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/ Comments URL: https://news.ycombinator.com/item?id=50414427 Points: 203 # Comments: 285",
     "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
     "published": "Sun, 08 Nov 2026 16:07:42 +0000",
     "lang": "en",
@@ -870,50 +920,6 @@
     "fetchedAt": "2026-11-09"
   },
   {
-    "source": "Hacker News",
-    "title": "Building a niche travel marketplace without outside funding",
-    "summary": "Article URL: https://stayatspa.com/ Comments URL: https://news.ycombinator.com/item?id=50394628 Points: 2 # Comments: 0",
-    "url": "https://stayatspa.com/",
-    "published": "Fri, 06 Nov 2026 16:35:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Warby Parker spilled the beans on Google's Android XR smart glasses launch",
-    "summary": "Article URL: https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/ Comments URL: https://news.ycombinator.com/item?id=50393745 Points: 2 # Comments: 0",
-    "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
-    "published": "Fri, 06 Nov 2026 15:43:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Supercharging XLA-Based Inference: Announcing the Launch of XLA Serving Engine",
-    "summary": "Article URL: https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html Comments URL: https://news.ycombinator.com/item?id=50393410 Points: 3 # Comments: 0",
-    "url": "https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html",
-    "published": "Fri, 06 Nov 2026 15:21:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "微博",
-    "title": "#黄仁勋出轨对象公司曾采购300亿芯片#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23黄仁勋出轨对象公司曾采购300亿芯片%23",
-    "published": "2026-11-09",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-09",
-    "meta": {
-      "hotValue": 327462,
-      "rank": 31
-    }
-  },
-  {
     "source": "B站",
     "title": "让九个AI大模型玩造桥",
     "summary": "",
@@ -928,16 +934,16 @@
   },
   {
     "source": "V2EX",
-    "title": "重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
-    "summary": "做了几个月，发上来给大家鉴定鉴定。 TiviMini 跟常见的 IPTV 播放器不太一样的地方： - 没用 FFmpeg 。TS 拆包、DASH （.mpd ）解析和 fMP4 拆包、码流分析都是自己用 Rust 写的，解完直接交给芯片硬解，界面是各平台原生控件（ UIKit / AppKit / Android View ） - 起播快：从点击到画面动起来约 0.26 秒，系统播放器同一个源大概 1.1 秒 - 轻：Android 安装包 3.3 MB ，两万个频道的列表解析 12 ms - 1080i 隔行台专门处理过，没有梳齿、不黑屏； Apple 设备上做了 25i→",
-    "url": "https://www.v2ex.com/t/1255416",
-    "published": 1794179732,
+    "title": "[送会员] 为了学好 英语 和 日语，我做了这个...",
+    "summary": "地址在： https://www.lingodew.com/ 目前支持 Web/iOS/Android 三端同步, App Store 和 Google Play 搜 “lingodew” 即可。 ## 简介 首先我自己坚信语言学习的最有效途径就是**大量可理解的输入**，所以为了**大量**，**可理解**的**输入**，以及确保自己有持续的学习兴趣，我做了这个项目： 收集了适合语言学习的 YouTube 视频 - 提供双语字幕 - 提供单词级别的时间戳同步 - 点击即查的内置词典 - 内置类似 Anki 的单词本，遗忘曲线复习，单词会包含来源视频的来源句",
+    "url": "https://www.v2ex.com/t/1255556",
+    "published": 1794204494,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "replies": 62,
-      "node": "Apple"
+      "replies": 74,
+      "node": "分享创造"
     }
   },
   {
@@ -950,24 +956,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 4690,
-      "forks": 1815,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "KKKKhazix/agent-autoloop",
-    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "published": "2026-11-03T08:02:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-09",
-    "meta": {
-      "stars": 4232,
-      "forks": 768,
+      "stars": 5829,
+      "forks": 2135,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -982,10 +972,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 3699,
-      "forks": 354,
+      "stars": 4912,
+      "forks": 427,
       "language": "C++",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "KKKKhazix/agent-autoloop",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "published": "2026-11-03T08:02:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-09",
+    "meta": {
+      "stars": 4270,
+      "forks": 776,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -998,8 +1004,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 2456,
-      "forks": 168,
+      "stars": 2505,
+      "forks": 172,
       "language": "Swift",
       "createdDaysAgo": 6
     }
