@@ -20,31 +20,121 @@
     "fetchedAt": "2026-11-09"
   },
   {
-    "source": "钛媒体",
-    "title": "英伟达启动独立调查：黄仁勋继续担任CEO",
-    "summary": "亚洲芯片股反弹，英伟达场外合约仍在下跌。",
-    "url": "https://www.tmtpost.com/8198079.html",
-    "published": "Mon, 09 Nov 2026 11:12:00 +0800",
+    "source": "创业邦",
+    "title": "全面节约方案部署电池循环，生命周期管理连接回收与制造",
+    "summary": "11 月 4 日公开的《实施全面节约战略行动方案》提出，构建新能源汽车动力电池全生命周期管理体系，推动汽车、家电、日化行业再生材料应用升级。政策重心从废弃物处置，转向推动再生资源回流生产线，对电池产业链提出三项核心要求：溯源清晰、处理适配、材料可再利用。 退役电池原料规格差异较大，材料体系、使用履历、退役状态各不相同，直接影响运输、拆解与回收产出。全生命周期管理旨在打通电池生产、使用到退役的全流程信息，让回收处理环节提前掌握来料特征，把物料差异纳入工艺管控，避免拆解后再被动识别物料。 从回收到再生制造，需要收集、运输、检测、加工多方协同。物料交接环节极易发生信息断档，如果只流转实物、不同步数据，下游只能凭经验处置。只有物料与信息同步传递，才能保障资源化效果，并非所有市场主体都具备全链条作业能力。 天眼查数据显示，截至 2026 年 5 月 15 日，国内在业、存续电池回收相关企业超 19.9 万家，年内新增约 3300 家；广东、江苏、安徽存量分别超 1.7 万家、1.4 万家、1.4 万家。该数据仅反映市场参与主体规模，不等于实际回收处理能力；合作需核验企业接收品类与处理条件，入局企",
+    "url": "https://www.cyzone.cn/article/853154.html",
+    "published": "Fri, 06 Nov 2026 09:44:46 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "存储芯片工程样片完成验证，工艺迭代迈向量产考验",
+    "summary": "",
+    "url": "https://www.cyzone.cn/article/852901.html",
+    "published": "Wed, 04 Nov 2026 02:08:36 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "共绩科技完成新一轮数亿元融资",
+    "summary": "近日，共绩科技完成新一轮数亿元融资，中国互联网投资基金、宁波问鼎、溥泉资本、元禾璞华等参与投资。公司从事分布式算力调度，连接分散的GPU资源，为模型训练、推理及AI应用提供按需调用的算力。 据天眼查显示，北京共绩科技有限公司申请的\"一种互联网故障算力节点快速处置的冷热备份方法及系统\"发明专利于2026年10月20日公布，目前处于审中状态。摘要显示，冷备份节点提前下载并部署运行环境，热备份则在运行节点之外另设备用节点，用于缩短节点故障离线后的文件下载和程序启动等待时间。",
+    "url": "https://www.cyzone.cn/article/852764.html",
+    "published": "Tue, 03 Nov 2026 05:52:48 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "高争民爆披露重大资产重组预案拟购紫源铜业51%股权 拓展矿山开发业务",
+    "summary": "高争民爆披露重大资产重组预案，拟通过发行股份方式购买西藏地质矿产集团有限公司持有的紫源铜业51%股权、晟源矿业100%股权，并募集配套资金，标的资产评估值及交易作价尚未确定。交易完成后，公司主营业务将拓展为矿山投资开发、民爆生产销售服务两大板块，公司股票自11月2日开市起复牌。 据天眼查显示，西藏高争民爆股份有限公司成立于2007-06-08，注册资本27704.6万人民币，法定代表人余文荣，登记状态为存续，注册地址位于拉萨市经济技术开发区A区林琼岗路18号，曾用名西藏高争民爆物资有限责任公司。",
+    "url": "https://www.cyzone.cn/article/852641.html",
+    "published": "Mon, 02 Nov 2026 03:48:07 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "小米关联公司近期入股两家芯片企业",
+    "summary": "天眼查App显示，近日，武汉阿基米德半导体有限公司、芯词元半导体（杭州）有限责任公司均发生工商变更，新增瀚星创业投资有限公司为股东。其中，武汉阿基米德同时新增宁德时代新能源科技股份有限公司为股东；芯词元注册资本由124.375万元增至约132.02万元。 股东信息显示，瀚星创业投资有限公司由小米科技有限责任公司全资持股。目前，瀚星创投分别持有武汉阿基米德2%、芯词元4.014%的股份，宁德时代持有武汉阿基米德4%的股份。两家被投企业经营范围均包含集成电路设计、集成电路芯片设计及服务等。",
+    "url": "https://www.cyzone.cn/article/852277.html",
+    "published": "Thu, 29 Oct 2026 08:46:27 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "出品方三年前已注册影之刃零商标",
+    "summary": "据媒体报道，国产3A武侠动作游戏《影之刃零》正式发售，以Metacritic开分91分的成绩刷新国产单机最高分，并迅速登上Steam全球热销榜第一。 天眼查App显示，出品方关联公司北京灵游坊网络科技有限公司成立于2011年8月，法定代表人为梁其伟，注册资本约356万人民币，经营范围包括专业设计服务、货物进出口、技术进出口等，由天津艾思软件开发合伙企业（有限合伙）、梁其伟、广西腾讯创业投资有限公司等共同持股。知识产权信息显示，该公司于2023年成功注册“影之刃零”商标，国际分类为科学仪器。",
+    "url": "https://www.cyzone.cn/article/852276.html",
+    "published": "Thu, 29 Oct 2026 03:28:09 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "商业火箭完成新一轮发射，航天供应链聚焦可靠交付",
+    "summary": "",
+    "url": "https://www.cyzone.cn/article/850626.html",
+    "published": "Mon, 26 Oct 2026 02:21:00 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "垠石汽车完成亿元级A+轮融资 推进重载线控制动量产",
+    "summary": "近日，垠石汽车宣布完成亿元级A+轮融资，由北京顺义产投基金独家投资。资金将用于完善团队、建设量产生产线等，推进重载一体式线控制动技术量产。公司称，其液压集成式线控制动系统已获得多个主机厂定点订单。 据天眼查显示，北京垠石汽车技术有限公司曾用名为天津垠石精工技术有限公司。该主体的“液压集成式线控制动系统”发明专利于2025年8月获授权。摘要记载，该方案针对电子液压制动系统冗余能力有限的问题，通过多个液压回路和相互独立的油壶，在制动解耦的同时保证冗余制动效果。",
+    "url": "https://www.cyzone.cn/article/849521.html",
+    "published": "Mon, 19 Oct 2026 03:28:38 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "创业邦",
+    "title": "威马汽车参保人数5年归零",
+    "summary": "据媒体报道，近日，威马汽车官方微信公众号突然更新，发布了一条题为“第一天：B能汽车，请发我们工资”的内容，随后不久便被删除，相关话题引发热议。 天眼查App显示，威马汽车科技集团有限公司成立于2012年5月，法定代表人为SHEN HUI，注册资本60亿人民币，经营范围包括新能源智能汽车的技术设计和研发、销售及售后服务等，由苏州威马智慧出行科技有限公司全资持股。参保人数信息显示，该公司参保人数从2018年的770人降至2023年的0人，且2024年和2025年的参保人数均为0人。法律诉讼信息显示，该公司现存多条股权冻结信息，股权所在企业包括该公司、威马融资租赁（天津）有限公司等。此外，该公司还存在多条被执行人、限制消费令、失信被执行人（老赖）及破产案件信息。",
+    "url": "https://www.cyzone.cn/article/849160.html",
+    "published": "Thu, 15 Oct 2026 06:05:05 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-09"
   },
   {
     "source": "钛媒体",
-    "title": "价值判断：涨停板的投资机会和风险提示（11月6日）｜上市公司观察",
-    "summary": "11月6日是外部冲击落地、内部缩量承压的一天：五大指数全部收跌，创业板指跌近四个点，成交额缩到一万六千五百亿，涨停家数从八十四只降到三十三只，跌停则重新出现。杀跌集中在与海外算力绑定的硬件，防御性板块与低价题材承接了流出的资金。市场没有主线时，资金会去找辨识度最高、又不必研究基本面的容器，这一天的答案是两个字。",
-    "url": "https://www.tmtpost.com/8197859.html",
-    "published": "Mon, 09 Nov 2026 08:31:56 +0800",
+    "title": "黄仁勋婚外情背后：黄乐的神秘履历、48亿美元芯片生意与美国政策博弈",
+    "summary": "接下来，英伟达要查清这段关系有没有越过公司的制度边界；华盛顿则会借这场风波，重新计算黄仁勋、英伟达与美国AI政策之间的距离。",
+    "url": "https://www.tmtpost.com/8198370.html",
+    "published": "Mon, 09 Nov 2026 19:00:11 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-09"
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】国常会：完善资本市场稳市机制，增强股市内在稳定性；伯克希尔Q3营业利润小幅下滑，回购为年内单季最高，现金攀升至3774亿美元；中国央行连续第24个月增持黄金",
-    "summary": "小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理；火山引擎汽车研发苏杰被曝离职，知情人士称非技术负责人；马斯克放话：Q4营收料将增长70%，明年剑指5000亿美元；苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%；谷歌母公司Alphabet斥资约5.48亿美元建仓高通，押注AI数据中心芯片赛道；中国首个科技法学院在雄安新区成立；国家发改委：抓紧出台配套政策，支持“六网协同”新场景培育打造；七部门发布《关于加快航运保险高质量发展的指导意见》；上交所：沪市上市公司总市值超65万亿元；消息称OpenAI完成110亿美元首期新融资，估值1.25万亿美元；市场监管总局：前三季度广告业头部企事业单位收入同比增长8.5%",
-    "url": "https://www.tmtpost.com/8197696.html",
-    "published": "Mon, 09 Nov 2026 07:20:00 +0800",
+    "title": "短剧出海泰国，重走了一遍当年移动梦网的老路",
+    "summary": "短剧在泰国，绕不开的两大卡点：支付和买量",
+    "url": "https://www.tmtpost.com/8197795.html",
+    "published": "Mon, 09 Nov 2026 15:35:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "极客公园",
+    "title": "一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场",
+    "summary": "作者｜徐珊 编辑｜ 郑玄 这可能是你见过最安静的一块「草莓地」。 没有虫鸣，没有鸟叫，50 平方米的房间里，草莓植株一层层码到头顶，叶片舒展，几乎找不到一个虫眼，枝头挂满了还没转红的青果，也有不少已经熟透。不靠天、不靠地，草莓在这个赛博农场里被「种上了天」。 这里是第五届「多多农研科技大赛」一等奖赛博农人团队的植物工厂。从 5 月 12 日定植算起，这些草莓等了 113 天才迎来第一次采收，采收 50 天累计产量达到 284.45 公斤，而日常照料它们的，只有 1 名工人。评委贺冬仙说，如果再给它半年，这一架草莓产量会相当可观。 但每一束光、每一度低温背后都是成本。过去几年，Plenty、Bowery、Infarm 等明星垂直农业公司相继破产或停运。到 2024 年，中国已经有了 493 座植物工厂，研究机构、照明企业等都在入场，但其中不少也处于亏损状态。 植物工厂离商业化，始终只差临门一脚。 种出植物并不是结果，过去几年，植物工厂的技术一直在进步，但成本的账却始终算不平。这两年，前沿技术更深地介入种植，光配方、环控算法和立体栽培，迭代明显提速。据大赛评委、中国农业大学水利与土木工程学",
+    "url": "http://www.geekpark.net/news/373715",
+    "published": "Mon, 09 Nov 2026 16:15:03 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-09"
@@ -310,11 +400,11 @@
     "fetchedAt": "2026-11-09"
   },
   {
-    "source": "极客公园",
-    "title": "大众把三年在中国攒的家底，打包成了一颗「星」",
-    "summary": "头图来源：极客公园 10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。 这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。 按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。 大众汽车集团（中国）董事长兼 CEO 贝瑞德在台上说，短短三年，大众在中国打造出了一套一体化的技术矩阵，在国际汽车制造商之中，能做到这一点的应该屈指可数。 这句话的背后，是大众这几年在面对激烈的「中式竞争」后，第一次重新找到了方向的自信。 「在中国造」到「在中国研」 把时间往回拨四年。 2022 年，大众把在华战略从「在欧洲，为中国」改成了「在中国，为中国」。贝瑞德的解释是，大众要从过去在中国生产制造，走向在中国自主创新。 2023 年，大众在德国以外规模最大的研发中心 VCTC 在合肥成立。如今这里有 3000 多名员工，中国团队从执行方变成了主导方，本土工程师拿到了在本地自主决策的权力。 这个转向背后有现实的压力。2025 年，大众集团全球营业利润 89 ",
-    "url": "http://www.geekpark.net/news/373086",
-    "published": "Thu, 29 Oct 2026 15:09:14 +0800",
+    "source": "爱范儿",
+    "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
+    "summary": "终于不是后空翻、跳舞、跑步了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Mon, 09 Nov 2026 07:56:58 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-09"
@@ -335,6 +425,26 @@
     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "TechNode",
+    "title": "Elon Musk praises Chinese automakers as Tesla competes in China",
+    "summary": "Tesla CEO Elon Musk praised the competitiveness of Chinese automakers in a November 6 interview with investor Ron Baron. Musk described the Model Y as China’s best-selling electric vehicle and said achieving that position was difficult given the strength of local rivals. Musk also recalled spending several years in discussions with Chinese officials before Tesla […]",
+    "url": "https://technode.com/2026/11/09/elon-musk-praises-chinese-automakers-as-tesla-competes-in-china/",
+    "published": "Mon, 09 Nov 2026 04:52:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD unveils Yangwang Altior luxury sedan, with top trim priced over $300,000",
+    "summary": "BYD’s luxury brand Yangwang unveiled its Altior flagship sedan in Abu Dhabi on November 7, marking the brand’s first global launch event outside China. Yangwang subsequently opened reservations for a limited edition of the sedan, listing a preliminary price of RMB 2.08 million (over $300,000) and a deposit of RMB 300,000. The Altior measures 5.6 […]",
+    "url": "https://technode.com/2026/11/09/byd-unveils-yangwang-altior-luxury-sedan-with-top-trim-priced-over-300000/",
+    "published": "Mon, 09 Nov 2026 04:49:11 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-09"
@@ -560,56 +670,6 @@
     "fetchedAt": "2026-11-09"
   },
   {
-    "source": "TechNode",
-    "title": "Xpeng launches MONA L05 SUV with electric and extended-range versions",
-    "summary": "Xpeng launched the MONA L05 on October 29, expanding its lower-priced MONA lineup with its first five-seat SUV. Official list prices start at RMB 144,800, while a limited-time launch offer brings the entry price to RMB 139,800. The model comes in battery-electric and extended-range versions. Electric variants offer up to 635 kilometers of CLTC-rated range, […]",
-    "url": "https://technode.com/2026/10/30/xpeng-launches-mona-l05-suv-with-electric-and-extended-range-versions/",
-    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "TechNode",
-    "title": "Genshin Impact developer sets December 4 launch for life simulation game Petit Planet",
-    "summary": "HoYoverse, the global brand of Chinese game developer miHoYo, will launch its life simulation game Petit Planet worldwide on December 4 for PC, iOS, and Android. The company announced the date on October 30, following the game’s final beta test. Petit Planet lets players build and customize their own small planets, with activities including farming, […]",
-    "url": "https://technode.com/2026/10/30/genshin-impact-developer-sets-december-4-launch-for-life-simulation-game-petit-planet/",
-    "published": "Fri, 30 Oct 2026 05:46:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent’s WorkBuddy adds remote control, letting users manage AI tasks from their phones",
-    "summary": "On Thursday, WorkBuddy, Tencent’s AI agent platform, launched a remote control feature supported by Tencent’s Edge One team. The feature allows users to connect to a computer logged into the same account via the mobile app, view the desktop in real time, and take control of operations when necessary. Unlike traditional remote desktop tools, which […]",
-    "url": "https://technode.com/2026/10/30/tencents-workbuddy-adds-remote-control-letting-users-manage-ai-tasks-from-their-phones/",
-    "published": "Fri, 30 Oct 2026 03:32:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "TechNode",
-    "title": "Phantom Blade Zero Puts Chinese Wuxia Swordplay on a 66-Day Timer",
-    "summary": "An 88 Metascore and 91 OpenCritic average have put S-Game’s dark martial-arts RPG in the conversation as China’s next potential global breakout. Phantom Blade Zero, Chinese developer S-Game’s new wuxia action RPG, launches today on PC and PlayStation 5. The game opens with its protagonist, Soul, impaled through the chest. He chooses an artificial heart […]",
-    "url": "https://technode.com/2026/10/29/phantom-blade-zero-puts-wuxia-swordplay-on-a-66-day-timer/",
-    "published": "Thu, 29 Oct 2026 09:17:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
-    "source": "TechNode",
-    "title": "Can the upgraded Li Auto i6 hold its ground in China’s crowded electric SUV market?",
-    "summary": "Li Auto launched the 2026 Li Auto i6 on Wednesday, marking the model’s first annual update since its debut a year ago. Rather than relying on aggressive price cuts, the updated version introduces a series of changes to its battery system, intelligent cockpit, driver-assistance technology, and comfort features. The model starts at RMB 249,800 ($37,500). […]",
-    "url": "https://technode.com/2026/10/29/can-the-upgraded-li-auto-i6-hold-its-ground-in-chinas-crowded-electric-suv-market/",
-    "published": "Thu, 29 Oct 2026 07:27:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-09"
-  },
-  {
     "source": "The Verge",
     "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
     "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
@@ -640,32 +700,244 @@
     "fetchedAt": "2026-11-09"
   },
   {
-    "source": "B站",
-    "title": "S赛怀旧金曲云南山歌版",
+    "source": "Hacker News",
+    "title": "Returning Starship to the Launch Site",
+    "summary": "Article URL: https://www.spacex.com/updates#starship-catch Comments URL: https://news.ycombinator.com/item?id=50419906 Points: 3 # Comments: 0",
+    "url": "https://www.spacex.com/updates#starship-catch",
+    "published": "Mon, 09 Nov 2026 01:40:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+    "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation Comments URL: https://news.ycombinator.com/item?id=50417726 Points: 5 # Comments: 1",
+    "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+    "published": "Sun, 08 Nov 2026 21:52:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Future startup ideas, excavated from science fiction",
+    "summary": "Article URL: https://absurd.website/startup-archaeology/ Comments URL: https://news.ycombinator.com/item?id=50417324 Points: 4 # Comments: 0",
+    "url": "https://absurd.website/startup-archaeology/",
+    "published": "Sun, 08 Nov 2026 21:14:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Claude Opus 5.5 (Max) best at generating startup ideas",
+    "summary": "Article URL: https://asiprize.com/ Comments URL: https://news.ycombinator.com/item?id=50416651 Points: 3 # Comments: 0",
+    "url": "https://asiprize.com/",
+    "published": "Sun, 08 Nov 2026 20:11:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Thinking Machines Lab $5B funding round at a $40B valuation",
+    "summary": "Article URL: https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11 Comments URL: https://news.ycombinator.com/item?id=50414770 Points: 2 # Comments: 0",
+    "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+    "published": "Sun, 08 Nov 2026 16:39:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+    "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/ Comments URL: https://news.ycombinator.com/item?id=50414427 Points: 199 # Comments: 265",
+    "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+    "published": "Sun, 08 Nov 2026 16:07:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How to Start a Startup Game",
+    "summary": "Article URL: https://www.neuroplusgbrain.net/ Comments URL: https://news.ycombinator.com/item?id=50406166 Points: 1 # Comments: 0",
+    "url": "https://www.neuroplusgbrain.net/",
+    "published": "Sat, 07 Nov 2026 17:12:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Germany just told us we'd have fire one of our founders to qualify for funding",
+    "summary": "Article URL: https://twitter.com/sjdedic/status/2118688674548265131 Comments URL: https://news.ycombinator.com/item?id=50403964 Points: 2 # Comments: 2",
+    "url": "https://twitter.com/sjdedic/status/2118688674548265131",
+    "published": "Sat, 07 Nov 2026 12:26:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Daily game guess what old tech cost at launch (and where it was invented)",
+    "summary": "Article URL: https://pricetimemachine.com/ Comments URL: https://news.ycombinator.com/item?id=50402136 Points: 2 # Comments: 0",
+    "url": "https://pricetimemachine.com/",
+    "published": "Sat, 07 Nov 2026 06:19:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Church quits role at AI startup claims 'sleazy' behavior stole credit",
+    "summary": "Article URL: https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/ Comments URL: https://news.ycombinator.com/item?id=50402123 Points: 5 # Comments: 0",
+    "url": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+    "published": "Sat, 07 Nov 2026 06:16:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Artemis II launch tore a hole in upper atmosphere so it disrupted GPS",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals Comments URL: https://news.ycombinator.com/item?id=50397817 Points: 4 # Comments: 1",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+    "published": "Fri, 06 Nov 2026 20:15:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The launch market is tough as satellite companies start building rockets",
+    "summary": "Article URL: https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/ Comments URL: https://news.ycombinator.com/item?id=50397319 Points: 4 # Comments: 0",
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+    "published": "Fri, 06 Nov 2026 19:41:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "See the startup time difference with Rusty Discord",
+    "summary": "Article URL: https://twitter.com/discord/status/2118755849367896539 Comments URL: https://news.ycombinator.com/item?id=50395814 Points: 2 # Comments: 0",
+    "url": "https://twitter.com/discord/status/2118755849367896539",
+    "published": "Fri, 06 Nov 2026 17:56:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Better Launch",
+    "summary": "Article URL: https://www.betterlaunch.co Comments URL: https://news.ycombinator.com/item?id=50395748 Points: 3 # Comments: 0",
+    "url": "https://www.betterlaunch.co",
+    "published": "Fri, 06 Nov 2026 17:52:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "GrapheneOS accuses YC of funding surveillance and enabling HN harassment",
+    "summary": "Article URL: https://twitter.com/GrapheneOS/status/2118490356958597210 Comments URL: https://news.ycombinator.com/item?id=50395623 Points: 22 # Comments: 6",
+    "url": "https://twitter.com/GrapheneOS/status/2118490356958597210",
+    "published": "Fri, 06 Nov 2026 17:42:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "World of Warcraft Forever's Launch Was Running on over 200k Gigabytes of RAM",
+    "summary": "Article URL: https://www.ign.com/articles/world-of-warcraft-forevers-launch-was-running-on-over-200000-gigabytes-of-ram Comments URL: https://news.ycombinator.com/item?id=50394827 Points: 3 # Comments: 0",
+    "url": "https://www.ign.com/articles/world-of-warcraft-forevers-launch-was-running-on-over-200000-gigabytes-of-ram",
+    "published": "Fri, 06 Nov 2026 16:48:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: A weekly launch board for indie products ranked by unique clicks",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50394666 Points: 2 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=50394666",
+    "published": "Fri, 06 Nov 2026 16:37:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Building a niche travel marketplace without outside funding",
+    "summary": "Article URL: https://stayatspa.com/ Comments URL: https://news.ycombinator.com/item?id=50394628 Points: 2 # Comments: 0",
+    "url": "https://stayatspa.com/",
+    "published": "Fri, 06 Nov 2026 16:35:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Warby Parker spilled the beans on Google's Android XR smart glasses launch",
+    "summary": "Article URL: https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/ Comments URL: https://news.ycombinator.com/item?id=50393745 Points: 2 # Comments: 0",
+    "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+    "published": "Fri, 06 Nov 2026 15:43:45 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Supercharging XLA-Based Inference: Announcing the Launch of XLA Serving Engine",
+    "summary": "Article URL: https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html Comments URL: https://news.ycombinator.com/item?id=50393410 Points: 3 # Comments: 0",
+    "url": "https://opensource.googleblog.com/2026/11/supercharging-xla-inference-xla-serving-engine.html",
+    "published": "Fri, 06 Nov 2026 15:21:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-09"
+  },
+  {
+    "source": "微博",
+    "title": "#黄仁勋出轨对象公司曾采购300亿芯片#",
     "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=S赛怀旧金曲云南山歌版",
+    "url": "https://s.weibo.com/weibo?q=%23黄仁勋出轨对象公司曾采购300亿芯片%23",
     "published": "2026-11-09",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "hotValue": 281138
+      "hotValue": 327462,
+      "rank": 31
     }
   },
   {
-    "source": "GitHub新星",
-    "title": "KKKKhazix/agent-autoloop",
-    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "url": "https://github.com/KKKKhazix/agent-autoloop",
-    "published": "2026-11-03T08:02:11Z",
-    "lang": "en",
-    "type": "signal",
+    "source": "B站",
+    "title": "让九个AI大模型玩造桥",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=让九个AI大模型玩造桥",
+    "published": "2026-11-09",
+    "lang": "zh",
+    "type": "news",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 4157,
-      "forks": 754,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
+      "hotValue": 281432
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
+    "summary": "做了几个月，发上来给大家鉴定鉴定。 TiviMini 跟常见的 IPTV 播放器不太一样的地方： - 没用 FFmpeg 。TS 拆包、DASH （.mpd ）解析和 fMP4 拆包、码流分析都是自己用 Rust 写的，解完直接交给芯片硬解，界面是各平台原生控件（ UIKit / AppKit / Android View ） - 起播快：从点击到画面动起来约 0.26 秒，系统播放器同一个源大概 1.1 秒 - 轻：Android 安装包 3.3 MB ，两万个频道的列表解析 12 ms - 1080i 隔行台专门处理过，没有梳齿、不黑屏； Apple 设备上做了 25i→",
+    "url": "https://www.v2ex.com/t/1255416",
+    "published": 1794179732,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-11-09",
+    "meta": {
+      "replies": 62,
+      "node": "Apple"
     }
   },
   {
@@ -678,10 +950,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 3738,
-      "forks": 1495,
+      "stars": 4690,
+      "forks": 1815,
       "language": "TypeScript",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "KKKKhazix/agent-autoloop",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "published": "2026-11-03T08:02:11Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-09",
+    "meta": {
+      "stars": 4232,
+      "forks": 768,
+      "language": "TypeScript",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -694,26 +982,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 3305,
-      "forks": 313,
+      "stars": 3699,
+      "forks": 354,
       "language": "C++",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "published": "2026-11-04T14:54:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-09",
-    "meta": {
-      "stars": 3281,
-      "forks": 1206,
-      "language": "Python",
-      "createdDaysAgo": 4
     }
   },
   {
@@ -726,8 +998,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-09",
     "meta": {
-      "stars": 2412,
-      "forks": 165,
+      "stars": 2456,
+      "forks": 168,
       "language": "Swift",
       "createdDaysAgo": 6
     }
