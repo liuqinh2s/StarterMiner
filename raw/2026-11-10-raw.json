@@ -130,16 +130,6 @@
     "fetchedAt": "2026-11-10"
   },
   {
-    "source": "钛媒体",
-    "title": "AI的收费站正在搬家：端侧抢的不是算力，是云端的收银台",
-    "summary": "11月4日，信通院联合20家单位在乌镇发布《智能体发展自律公约》，同日，端侧芯片公司后摩智能宣布数十亿元B轮。两件事被分开解读，本文判断它们是同一场搬家的两个截面：端侧拆的不是云端的算力，是云端按token计费的收银台。大模型的收费对象，正从每一次调用，转向每一台装机的设备。",
-    "url": "https://www.tmtpost.com/8199775.html",
-    "published": "Tue, 10 Nov 2026 16:34:58 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
     "source": "极客公园",
     "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
     "summary": "作者｜Cynthia 编辑｜郑玄 传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被遗漏的槲寄生投向巴德尔。光明之神轰然倒下，诸神的黄昏由此拉开序章。 这是北欧神话中巴德尔之死的故事。危险早已被预见，人们也采取了行动，却仍然自欺欺人，把一次次看似成功的演示，当成了问题已经解决的证明 。 2026 年上半年的企业级 Agent 市场，也曾有过这样的笃定。 每一场发布会上，AI 写方案、做表格、敲代码、生成海报的单任务能力都会轮番刷新上限。台上演示环节的百发百中，带动台下掌声雷动， 所有人都觉得——企业级 AI 已经成熟了。 但年中效率复盘，所有人都尴尬地发现： 个人用 Agent 提效能翻三到十倍，落到整个团队、整个企业里，整体效率提升往往不到两倍 。一个人把报告写快十倍，并不能让另外三个部门提前给出确认。设计师更快做出了十套方案，运营可能还在等商家确认价格，仓库也还没有更新库存。单个员工的产出增加伴随的，是整个项",
@@ -411,50 +401,60 @@
   },
   {
     "source": "TechCrunch",
-    "title": "California’s proposed ‘billionaire tax’ fails to pass",
-    "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
-    "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-    "published": "Tue, 10 Nov 2026 05:18:43 +0000",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "published": "Tue, 10 Nov 2026 21:08:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "published": "Tue, 10 Nov 2026 20:47:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
   {
     "source": "TechCrunch",
-    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-    "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-    "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-    "published": "Mon, 09 Nov 2026 19:21:46 +0000",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "published": "Tue, 10 Nov 2026 19:57:52 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
   {
     "source": "TechCrunch",
-    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-    "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-    "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-    "published": "Mon, 09 Nov 2026 19:19:24 +0000",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "published": "Tue, 10 Nov 2026 19:23:34 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
   {
     "source": "TechCrunch",
-    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-    "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-    "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-    "published": "Mon, 09 Nov 2026 17:00:00 +0000",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "published": "Tue, 10 Nov 2026 14:01:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
@@ -671,23 +671,37 @@
   },
   {
     "source": "The Verge",
-    "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-    "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of […]",
-    "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
-    "published": "2026-11-10T06:00:00-05:00",
+    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their […]",
+    "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+    "published": "2026-11-10T16:40:31-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
   {
     "source": "The Verge",
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-    "published": "2026-11-09T14:00:00-05:00",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "published": "2026-11-10T13:00:00-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
+  },
+  {
+    "source": "微博",
+    "title": "#曝平头哥估值200亿至300亿美元#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23曝平头哥估值200亿至300亿美元%23",
+    "published": "2026-11-10",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-10",
+    "meta": {
+      "hotValue": 115573,
+      "rank": 14
+    }
   },
   {
     "source": "B站",
@@ -712,10 +726,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-10",
     "meta": {
-      "stars": 5798,
-      "forks": 512,
+      "stars": 6482,
+      "forks": 575,
       "language": "C++",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -728,8 +742,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-10",
     "meta": {
-      "stars": 3805,
-      "forks": 1449,
+      "stars": 4670,
+      "forks": 1785,
       "language": "Swift",
       "createdDaysAgo": 1
     }
