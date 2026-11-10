@@ -21,6 +21,26 @@
   },
   {
     "source": "创业邦",
+    "title": "腾讯等入股沛塬电子",
+    "summary": "天眼查App显示，近日，上海沛塬电子有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、社保基金中关村自主创新投资基金（北京）合伙企业（有限合伙）等为股东，同时，注册资本由约884万元人民币增至约1072万元人民币。 该公司成立于2021年12月，法定代表人为曾剑鸿，经营范围包括集成电路设计、集成电路芯片设计及服务、电子专用材料研发等，现由上海萍末企业管理合伙企业（有限合伙）、上海晓本企业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
+    "url": "https://www.cyzone.cn/article/853464.html",
+    "published": "Tue, 10 Nov 2026 06:45:26 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "source": "创业邦",
+    "title": "粤芯三期集成电路制造公司增资至90亿",
+    "summary": "天眼查App显示，近日，广州粤芯三期集成电路制造有限公司发生工商变更，注册资本由75亿元人民币增至90亿元人民币，增幅20%。 该公司成立于2022年9月，法定代表人为陈谨，经营范围包括集成电路芯片及产品制造、半导体分立器件制造、光电子器件制造等，由广州粤芯集成电路有限公司、广州产投中鑫产业股权投资合伙企业（有限合伙）、中鑫产投（广州）产业股权投资合伙企业（有限合伙）、工融金投（北京）新兴产业股权投资基金合伙企业（有限合伙）共同持股。",
+    "url": "https://www.cyzone.cn/article/853463.html",
+    "published": "Tue, 10 Nov 2026 02:53:47 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "source": "创业邦",
     "title": "全面节约方案部署电池循环，生命周期管理连接回收与制造",
     "summary": "11 月 4 日公开的《实施全面节约战略行动方案》提出，构建新能源汽车动力电池全生命周期管理体系，推动汽车、家电、日化行业再生材料应用升级。政策重心从废弃物处置，转向推动再生资源回流生产线，对电池产业链提出三项核心要求：溯源清晰、处理适配、材料可再利用。 退役电池原料规格差异较大，材料体系、使用履历、退役状态各不相同，直接影响运输、拆解与回收产出。全生命周期管理旨在打通电池生产、使用到退役的全流程信息，让回收处理环节提前掌握来料特征，把物料差异纳入工艺管控，避免拆解后再被动识别物料。 从回收到再生制造，需要收集、运输、检测、加工多方协同。物料交接环节极易发生信息断档，如果只流转实物、不同步数据，下游只能凭经验处置。只有物料与信息同步传递，才能保障资源化效果，并非所有市场主体都具备全链条作业能力。 天眼查数据显示，截至 2026 年 5 月 15 日，国内在业、存续电池回收相关企业超 19.9 万家，年内新增约 3300 家；广东、江苏、安徽存量分别超 1.7 万家、1.4 万家、1.4 万家。该数据仅反映市场参与主体规模，不等于实际回收处理能力；合作需核验企业接收品类与处理条件，入局企",
     "url": "https://www.cyzone.cn/article/853154.html",
@@ -111,40 +131,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "瑞士清洁科技企业Climada研发气候风险分析SaaS软件，量化自然灾害经济损失",
-    "summary": "可提供超200项气候风险指标。",
-    "url": "https://www.tmtpost.com/8199316.html",
-    "published": "Tue, 10 Nov 2026 11:37:36 +0800",
+    "title": "AI的收费站正在搬家：端侧抢的不是算力，是云端的收银台",
+    "summary": "11月4日，信通院联合20家单位在乌镇发布《智能体发展自律公约》，同日，端侧芯片公司后摩智能宣布数十亿元B轮。两件事被分开解读，本文判断它们是同一场搬家的两个截面：端侧拆的不是云端的算力，是云端按token计费的收银台。大模型的收费对象，正从每一次调用，转向每一台装机的设备。",
+    "url": "https://www.tmtpost.com/8199775.html",
+    "published": "Tue, 10 Nov 2026 16:34:58 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
   {
-    "source": "钛媒体",
-    "title": "美股AI巨震，如何把握港A的AI产业链分化机遇？",
-    "summary": "美国中期选举的选情，正在为全球AI估值体系增添新的变数。",
-    "url": "https://www.tmtpost.com/8198218.html",
-    "published": "Tue, 10 Nov 2026 11:16:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "钛媒体",
-    "title": "“不赚钱”的Token经济：半小时卖出2万亿、日均消耗增长5000倍",
-    "summary": "抢入口、抢分发、抢结算……新一轮“生态圈地”开始了。",
-    "url": "https://www.tmtpost.com/8198866.html",
-    "published": "Tue, 10 Nov 2026 10:56:47 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "钛媒体",
-    "title": "手机芯片困在AI的繁荣里",
-    "summary": "手机销量下滑，涨价难以弥补芯片订单流失。AI基础设施扩张推高供应链成本，端侧AI尚未兑现换机需求，手机芯片厂商在持续投入的同时，正加速转向数据中心寻找增长。",
-    "url": "https://www.tmtpost.com/8198787.html",
-    "published": "Tue, 10 Nov 2026 10:43:15 +0800",
+    "source": "极客公园",
+    "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
+    "summary": "作者｜Cynthia 编辑｜郑玄 传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被遗漏的槲寄生投向巴德尔。光明之神轰然倒下，诸神的黄昏由此拉开序章。 这是北欧神话中巴德尔之死的故事。危险早已被预见，人们也采取了行动，却仍然自欺欺人，把一次次看似成功的演示，当成了问题已经解决的证明 。 2026 年上半年的企业级 Agent 市场，也曾有过这样的笃定。 每一场发布会上，AI 写方案、做表格、敲代码、生成海报的单任务能力都会轮番刷新上限。台上演示环节的百发百中，带动台下掌声雷动， 所有人都觉得——企业级 AI 已经成熟了。 但年中效率复盘，所有人都尴尬地发现： 个人用 Agent 提效能翻三到十倍，落到整个团队、整个企业里，整体效率提升往往不到两倍 。一个人把报告写快十倍，并不能让另外三个部门提前给出确认。设计师更快做出了十套方案，运营可能还在等商家确认价格，仓库也还没有更新库存。单个员工的产出增加伴随的，是整个项",
+    "url": "http://www.geekpark.net/news/373760",
+    "published": "Tue, 10 Nov 2026 12:52:07 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-10"
@@ -390,26 +390,6 @@
     "fetchedAt": "2026-11-10"
   },
   {
-    "source": "极客公园",
-    "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
-    "summary": "头图图片来源：Apple 10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。 苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPhone Duo 发布时，国行产品页上 Apple 智能后面跟着的是一句「推出时间依监管部门审批情况而定」，到这周新款 MacBook Pro 发布，国行页面还是这句话。现在页面顶部写的是：「Apple 智能的首批核心功能将于今年稍晚推出。」 从 2024 年 6 月在 WWDC 上亮相算起，国行 iPhone 等了整整两年半。 今年 3 月 31 日凌晨，有国行 iPhone 用户发现设置里的「Siri」变成了「Apple 智能与 Siri」，据当时的报道，两个小时左右又被撤了回去，苹果的解释是软件问题。 7 月 15 日，网信办公告 7 款手机端侧生成式 AI 服务完成备案，苹果技术开发（上海）有限公司的「",
-    "url": "http://www.geekpark.net/news/373238",
-    "published": "Sat, 31 Oct 2026 06:26:23 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "极客公园",
-    "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
-    "summary": "作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务…… 但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。 时间去了哪里？ 写提示词、等待 AI 生成是一部分；生成效果不理想，手动在 IDE 中 修改是另一部分。甚至，开发完成后，代码还需要打开终端测试；准备项目汇报，又要切换到文档和演示工具。 每换一个应用、开启一段新会话，都可能需要重新解释：项目在做什么，为什么这样设计，刚才改到了哪里，还有哪些问题没解决 。 AI 的生产力跑在了前面，而承载它的开发基建：任务调度、状态管理、验证闭环、产物沉淀、跨工具协同，还停留在前 AI 时代 。 于是，到了 2026 年，一些变化开始发生了。这一年，AI 个人助理赛道的热度彻底走到了爆发节点：Meta 推出的个人助理 Muse 上线两周便登顶美加 iOS 免费榜，下载量突破 340 万；此后，OpenAI、Google、字节、腾讯",
-    "url": "http://www.geekpark.net/news/373190",
-    "published": "Fri, 30 Oct 2026 13:49:25 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
     "source": "爱范儿",
     "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
     "summary": "终于不是后空翻、跳舞、跑步了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -426,6 +406,16 @@
     "url": "https://www.ifanr.com/1688626?utm_source=rss&utm_medium=rss&utm_campaign=",
     "published": "Mon, 09 Nov 2026 02:56:41 +0000",
     "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "California’s proposed ‘billionaire tax’ fails to pass",
+    "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+    "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "published": "Tue, 10 Nov 2026 05:18:43 +0000",
+    "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
   },
@@ -680,31 +670,11 @@
     "fetchedAt": "2026-11-10"
   },
   {
-    "source": "TechNode",
-    "title": "Apple confirms Qwen integration for China AI rollout, with beta testing starting November 4",
-    "summary": "Apple will begin testing Apple Intelligence in mainland China on November 4, integrating Alibaba’s Qwen into Siri, Writing Tools, and Visual Intelligence. The features will arrive through an iOS developer beta before a wider release with iOS 27.3 in December, Apple announced on October 31. Users will be able to ask Qwen questions about text, […]",
-    "url": "https://technode.com/2026/11/02/apple-confirms-qwen-integration-for-china-ai-rollout-with-beta-testing-starting-november-4/",
-    "published": "Mon, 02 Nov 2026 04:32:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "TechNode",
-    "title": "AI inference chip startup Nano-core Chip raises over RMB 1 billion in Series C2 funding",
-    "summary": "Hangzhou-based AI inference chip developer Nano-core Chip has raised more than RMB 1 billion in Series C2 funding, the company announced on October 28. The round was led by JianTou Investment, with participation from Hangzhou Capital, Kaitai Capital, and other investors. The company will use the proceeds for product development and preparation for volume production. […]",
-    "url": "https://technode.com/2026/10/30/ai-inference-chip-startup-nano-core-chip-raises-over-rmb-1-billion-in-series-c2-funding/",
-    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "TechNode",
-    "title": "Former Xiaomi executive launches smart ring and AI-powered sleep system",
-    "summary": "ISHO, the sleep technology startup founded by former Xiaomi executive Wang Teng, unveiled its first products on October 29: the ISHO Ring smart ring and the iFlow bed temperature-control system. Prices start at RMB 1,799 and RMB 9,999, respectively. The ring monitors physiological signals to track sleep and provide daily energy-management insights. It offers a […]",
-    "url": "https://technode.com/2026/10/30/former-xiaomi-executive-launches-smart-ring-and-ai-powered-sleep-system/",
-    "published": "Fri, 30 Oct 2026 05:46:56 +0000",
+    "source": "The Verge",
+    "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+    "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of […]",
+    "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+    "published": "2026-11-10T06:00:00-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
@@ -715,216 +685,6 @@
     "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
     "published": "2026-11-09T14:00:00-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "The Verge",
-    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
-    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-    "published": "2026-11-09T13:07:23-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OSS devtool seed stage startup looking to hire DevRel In SF",
-    "summary": "Hey! We are looking to hire our first DevRel in SF, looking to understand what are market standards around starting pay and skill set we should expect. Also, we are not exactly AI infra and more like Data infra which is fairly technical and niche so trying to figure out what are the best channels to get to right people. Comments URL: https://news.ycombinator.com/item?id=50436036 Points: 1 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=50436036",
-    "published": "Tue, 10 Nov 2026 04:22:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Slonbase update: Lessons from the Show HN launch, trade-offs, and what's next",
-    "summary": "Article URL: https://slonbase.com/ Comments URL: https://news.ycombinator.com/item?id=50435281 Points: 2 # Comments: 0",
-    "url": "https://slonbase.com/",
-    "published": "Tue, 10 Nov 2026 02:18:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Claude Fable 5.2 launch offers",
-    "summary": "Article URL: https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers Comments URL: https://news.ycombinator.com/item?id=50430176 Points: 20 # Comments: 3",
-    "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
-    "published": "Mon, 09 Nov 2026 19:12:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A visualization map of the funding of public companies",
-    "summary": "I made this webapp (vibecoded) with Meta's AI models during the Meta AI hackathon that just ended (Oct 26-Nov 4). So far it contains public 33,000 companies, and 100k+ 'flows'. A company X has a flow to another company Y if X funds Y or owns its shares, or vice versa. It collects business data from SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval), Wikidata company lists, and other regional company indices of Europe and Asia to build a database of companies to display on the map. ",
-    "url": "https://github.com/feeRnt/whofundsit/tree/post_demo_cloudflare_cdn",
-    "published": "Mon, 09 Nov 2026 17:00:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-    "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 490 # Comments: 272",
-    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-    "published": "Mon, 09 Nov 2026 16:00:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Returning Starship to the Launch Site",
-    "summary": "Article URL: https://www.spacex.com/updates#starship-catch Comments URL: https://news.ycombinator.com/item?id=50419906 Points: 4 # Comments: 0",
-    "url": "https://www.spacex.com/updates#starship-catch",
-    "published": "Mon, 09 Nov 2026 01:40:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
-    "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation Comments URL: https://news.ycombinator.com/item?id=50417726 Points: 5 # Comments: 1",
-    "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
-    "published": "Sun, 08 Nov 2026 21:52:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Future startup ideas, excavated from science fiction",
-    "summary": "Article URL: https://absurd.website/startup-archaeology/ Comments URL: https://news.ycombinator.com/item?id=50417324 Points: 4 # Comments: 0",
-    "url": "https://absurd.website/startup-archaeology/",
-    "published": "Sun, 08 Nov 2026 21:14:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Claude Opus 5.5 (Max) best at generating startup ideas",
-    "summary": "Article URL: https://asiprize.com/ Comments URL: https://news.ycombinator.com/item?id=50416651 Points: 3 # Comments: 0",
-    "url": "https://asiprize.com/",
-    "published": "Sun, 08 Nov 2026 20:11:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Thinking Machines Lab $5B funding round at a $40B valuation",
-    "summary": "Article URL: https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11 Comments URL: https://news.ycombinator.com/item?id=50414770 Points: 2 # Comments: 0",
-    "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
-    "published": "Sun, 08 Nov 2026 16:39:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-    "summary": "Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/ Comments URL: https://news.ycombinator.com/item?id=50414427 Points: 206 # Comments: 286",
-    "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-    "published": "Sun, 08 Nov 2026 16:07:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "How to Start a Startup Game",
-    "summary": "Article URL: https://www.neuroplusgbrain.net/ Comments URL: https://news.ycombinator.com/item?id=50406166 Points: 1 # Comments: 0",
-    "url": "https://www.neuroplusgbrain.net/",
-    "published": "Sat, 07 Nov 2026 17:12:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Germany just told us we'd have fire one of our founders to qualify for funding",
-    "summary": "Article URL: https://twitter.com/sjdedic/status/2118688674548265131 Comments URL: https://news.ycombinator.com/item?id=50403964 Points: 2 # Comments: 2",
-    "url": "https://twitter.com/sjdedic/status/2118688674548265131",
-    "published": "Sat, 07 Nov 2026 12:26:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Daily game guess what old tech cost at launch (and where it was invented)",
-    "summary": "Article URL: https://pricetimemachine.com/ Comments URL: https://news.ycombinator.com/item?id=50402136 Points: 2 # Comments: 0",
-    "url": "https://pricetimemachine.com/",
-    "published": "Sat, 07 Nov 2026 06:19:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Church quits role at AI startup claims 'sleazy' behavior stole credit",
-    "summary": "Article URL: https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/ Comments URL: https://news.ycombinator.com/item?id=50402123 Points: 5 # Comments: 0",
-    "url": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
-    "published": "Sat, 07 Nov 2026 06:16:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Artemis II launch tore a hole in upper atmosphere so it disrupted GPS",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals Comments URL: https://news.ycombinator.com/item?id=50397817 Points: 4 # Comments: 1",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
-    "published": "Fri, 06 Nov 2026 20:15:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The launch market is tough as satellite companies start building rockets",
-    "summary": "Article URL: https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/ Comments URL: https://news.ycombinator.com/item?id=50397319 Points: 4 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-    "published": "Fri, 06 Nov 2026 19:41:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "See the startup time difference with Rusty Discord",
-    "summary": "Article URL: https://twitter.com/discord/status/2118755849367896539 Comments URL: https://news.ycombinator.com/item?id=50395814 Points: 2 # Comments: 0",
-    "url": "https://twitter.com/discord/status/2118755849367896539",
-    "published": "Fri, 06 Nov 2026 17:56:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Better Launch",
-    "summary": "Article URL: https://www.betterlaunch.co Comments URL: https://news.ycombinator.com/item?id=50395748 Points: 3 # Comments: 0",
-    "url": "https://www.betterlaunch.co",
-    "published": "Fri, 06 Nov 2026 17:52:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-10"
-  },
-  {
-    "source": "Hacker News",
-    "title": "GrapheneOS accuses YC of funding surveillance and enabling HN harassment",
-    "summary": "Article URL: https://twitter.com/GrapheneOS/status/2118490356958597210 Comments URL: https://news.ycombinator.com/item?id=50395623 Points: 22 # Comments: 6",
-    "url": "https://twitter.com/GrapheneOS/status/2118490356958597210",
-    "published": "Fri, 06 Nov 2026 17:42:49 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-10"
@@ -943,34 +703,6 @@
     }
   },
   {
-    "source": "V2EX",
-    "title": "[送会员] 为了学好 英语 和 日语，我做了这个...",
-    "summary": "地址在： https://www.lingodew.com/ 目前支持 Web/iOS/Android 三端同步, App Store 和 Google Play 搜 “lingodew” 即可。 ## 简介 首先我自己坚信语言学习的最有效途径就是**大量可理解的输入**，所以为了**大量**，**可理解**的**输入**，以及确保自己有持续的学习兴趣，我做了这个项目： 收集了适合语言学习的 YouTube 视频 - 提供双语字幕 - 提供单词级别的时间戳同步 - 点击即查的内置词典 - 内置类似 Anki 的单词本，遗忘曲线复习，单词会包含来源视频的来源句",
-    "url": "https://www.v2ex.com/t/1255556",
-    "published": 1794204494,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-11-10",
-    "meta": {
-      "replies": 104,
-      "node": "分享创造"
-    }
-  },
-  {
-    "source": "V2EX",
-    "title": "工作以及求职解惑",
-    "summary": "背景： 我们公司现在全面推 AI ，前段时间裁了几个人，目前只剩 5 个主力开发。 困境： 老板是技术出身，自己用 Claude 很溜，最近几个月派活儿完全按他自己的预估来，还搞了绩效考核，一直在扣我和另一个同事的绩效。我是前端，现在靠 AI 也能写后端功能，但运维部署这块不熟，偶尔进度会拖，我也清楚这是自己需要补的地方。 最近朋友介绍了一个 CMS 的小活，做的过程中我就在想，要不要干脆离职、彻底转自由职业。现在受限于工作地点，工资也不高，还经常被 PUA ，心情挺受影响。 能力： 说下我目前的情况，全栈开发基本没问题，App （ iOS 已经上架）、小程序、Web 和后端都能做。借助",
-    "url": "https://www.v2ex.com/t/1255587",
-    "published": 1794210274,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-11-10",
-    "meta": {
-      "replies": 59,
-      "node": "求职"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "NotRexed/Hookshot",
     "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
@@ -980,10 +712,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-10",
     "meta": {
-      "stars": 5297,
-      "forks": 472,
+      "stars": 5798,
+      "forks": 512,
       "language": "C++",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "huamidev/GestaltX",
+    "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+    "url": "https://github.com/huamidev/GestaltX",
+    "published": "2026-11-09T05:15:48Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-10",
+    "meta": {
+      "stars": 3805,
+      "forks": 1449,
+      "language": "Swift",
+      "createdDaysAgo": 1
     }
   }
 ]
