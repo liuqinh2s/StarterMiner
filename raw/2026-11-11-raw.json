@@ -1,5 +1,15 @@
 [
   {
+    "source": "少数派",
+    "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+    "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
+    "url": "https://sspai.com/post/118854",
+    "published": "Tue, 10 Nov 2026 08:24:40 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-11"
+  },
+  {
     "source": "创业邦",
     "title": "腾讯等入股沛塬电子",
     "summary": "天眼查App显示，近日，上海沛塬电子有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、社保基金中关村自主创新投资基金（北京）合伙企业（有限合伙）等为股东，同时，注册资本由约884万元人民币增至约1072万元人民币。 该公司成立于2021年12月，法定代表人为曾剑鸿，经营范围包括集成电路设计、集成电路芯片设计及服务、电子专用材料研发等，现由上海萍末企业管理合伙企业（有限合伙）、上海晓本企业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
@@ -100,31 +110,11 @@
     "fetchedAt": "2026-11-11"
   },
   {
-    "source": "创业邦",
-    "title": "威马汽车参保人数5年归零",
-    "summary": "据媒体报道，近日，威马汽车官方微信公众号突然更新，发布了一条题为“第一天：B能汽车，请发我们工资”的内容，随后不久便被删除，相关话题引发热议。 天眼查App显示，威马汽车科技集团有限公司成立于2012年5月，法定代表人为SHEN HUI，注册资本60亿人民币，经营范围包括新能源智能汽车的技术设计和研发、销售及售后服务等，由苏州威马智慧出行科技有限公司全资持股。参保人数信息显示，该公司参保人数从2018年的770人降至2023年的0人，且2024年和2025年的参保人数均为0人。法律诉讼信息显示，该公司现存多条股权冻结信息，股权所在企业包括该公司、威马融资租赁（天津）有限公司等。此外，该公司还存在多条被执行人、限制消费令、失信被执行人（老赖）及破产案件信息。",
-    "url": "https://www.cyzone.cn/article/849160.html",
-    "published": "Thu, 15 Oct 2026 06:05:05 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-11"
-  },
-  {
-    "source": "钛媒体",
-    "title": "平头哥要上市，阿里AI的第一个“大结果”",
-    "summary": "大厂芯片再加速。",
-    "url": "https://www.tmtpost.com/8200714.html",
-    "published": "Wed, 11 Nov 2026 09:40:48 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-11"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月11日）",
-    "summary": "Anthropic以发行8.25亿股、70—78美元定价冲刺纳斯达克（代码ANT），含七家芯片与云巨头260亿美元私募配售，募资上限约900亿美元，估值自2万亿美元退守至1.2万亿—1.3万亿美元区间；招股书显示前九月营收332亿美元、净亏损1040亿美元，8954亿美元算力承诺与Q3算力成本占营收58%构成核心矛盾。同期发布Fable 5.2与Mythos 5.2，千级智能体8天从零构建可启动操作系统、30小时完成费马大定理形式化，API降价20%。谷歌一年四发TPU并以Gemini Intelligence扩分发，Meta用Muse Ember把竞争推向单位任务成本，OpenAI收购旅行代理Odessia构建服务闭环。纽约、澳大利亚同步推进强制性AI监管。",
-    "url": "https://www.tmtpost.com/8200609.html",
-    "published": "Wed, 11 Nov 2026 08:34:54 +0800",
+    "source": "极客公园",
+    "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
+    "summary": "作者｜Techno 之王 编辑｜靖宇 2026 年 11 月 4 日，美国中期选举结果落定后的第二天上午，OpenAI 的高管们坐到了一起。 据外媒援引知情人士的消息，他们讨论的是要不要重设 2027 年的数据中心容量预期。讨论还没有形成决定，但焦虑已经摆上了台面。 过去几个月，美国各地的大型数据中心项目接连被按下暂停键。得州前任州长 Abbott 从 8 月起冻结了数据中心的并网和空气许可，要求审计到年底；新当选的州长 Gina Hinojosa 承诺，在州议会立法保护居民之前，暂停所有新数据中心审批，而议会会期要到 2027 年 5 月才结束。 俄亥俄新州长 Amy Acton 提出有条件暂停，要求新项目承担全部电力成本、只能建在旧工业用地上；佐治亚新州长 Keisha Lance Bottoms 则准备上任后直接签行政令，暂停全州新建。 据 Tokenpost 统计， 今年 7 月到 11 月 4 日，美国至少有 21 个大型数据中心项目被取消，已经接近 2025 年全年的 23 个 。Anthropic 在 10 月 26 日提交的招股书里，也把暂停令写进了风险因素：一些辖区正",
+    "url": "http://www.geekpark.net/news/373816",
+    "published": "Wed, 11 Nov 2026 13:23:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-11"
@@ -365,16 +355,6 @@
     "summary": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse， 购物 是 Muse 最常见的用途，超过 四分之一 的用户在用它买东西，平均客单价超过 200 美元 ；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。 六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「 记得住、盯得牢、办得了 」。它打通了支付宝账单、钉钉、飞书、米家等服务，让 AI 替你管日常事务，试图成为中国版 Muse。 但 Muse 和灵光面对的问题截然不同。美国电子商务分散在大量独立网站中，Muse 可以通过云端浏览器直接访问店铺；而中国的日常消费与沟通高度集中在少数几个超级 App 内部，数据与交易链路彼此独立。 灵光 2.0 界面 我们花了两天实测了灵光 2.0，并横向对比了千问、Muse 和 Claude Duet。实测表明，",
     "url": "http://www.geekpark.net/news/373249",
     "published": "Sun, 01 Nov 2026 18:03:12 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-11"
-  },
-  {
-    "source": "极客公园",
-    "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
-    "summary": "​DeepSeek 发布全新 Agent 架构 10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。 DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。 要突破这些限制，需要打破 Agent 与单次手动会话的绑定，使其成为一个能跨会话保持上下文、同时推进多项复杂任务且互不干扰的连续实体。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent。 通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。 目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek ",
-    "url": "http://www.geekpark.net/news/373243",
-    "published": "Sun, 01 Nov 2026 08:29:48 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-11"
@@ -650,26 +630,6 @@
     "fetchedAt": "2026-11-11"
   },
   {
-    "source": "TechNode",
-    "title": "Meituan launches LongCat-2.5 multimodal AI model for extended coding tasks",
-    "summary": "Meituan released LongCat-2.5 on November 2, adding stronger visual understanding and coding capabilities to its AI model lineup. The model has 1.6 trillion total parameters, with approximately 48 billion activated for each token, and is designed for tasks requiring sustained execution by AI agents. The company said it expanded training on long task sequences and […]",
-    "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
-    "published": "Mon, 02 Nov 2026 04:32:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-11"
-  },
-  {
-    "source": "TechNode",
-    "title": "Robot-training data startup GenRobot AI raises $100 million in Series A+ funding",
-    "summary": "GenRobot AI, a Beijing-based company providing data infrastructure for robot development, has completed a $100 million Series A+ funding round. The financing closed in the third quarter and was disclosed on November 2. Participating investors include SAIC Motor, Malaysia’s Eastworlds, Baidu, Shoucheng Holdings, and Galaxy General Robotics, alongside financial investors including GL Ventures, CITIC Goldstone, […]",
-    "url": "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding/",
-    "published": "Mon, 02 Nov 2026 04:32:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-11"
-  },
-  {
     "source": "The Verge",
     "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
     "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their […]",
@@ -680,30 +640,17 @@
     "fetchedAt": "2026-11-11"
   },
   {
-    "source": "B站",
-    "title": "让九个AI大模型玩造桥",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=让九个AI大模型玩造桥",
-    "published": "2026-11-11",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-11",
-    "meta": {
-      "hotValue": 281432
-    }
-  },
-  {
     "source": "V2EX",
-    "title": "突然收到律师函！一脸懵",
-    "summary": "今天早上摸鱼摸着摸着就看到邮箱来了新邮件 打开一看是律师函？？？一脸懵 UDRP 域名争议，案号 HK‑2602201 ，域名 `aiping.icu` 我是该域名原始注册人，在 Cloudflare 注册。收到 ADNDRC 香港办事处发来的 UDRP 投诉通知。 现状：我搭建的是**大模型 API 公开测评榜单网站**，和投诉方 [aiping.cn]( https://aiping.cn) 都不是同一个东西，对方是售卖 token 的。 注册域名的时候出于对公开 WHOIS 隐私泄露的顾虑，填写了占位虚拟注册信息，结果拿这点说我虚假信息。 投诉方主张自己拥有",
-    "url": "https://www.v2ex.com/t/1255843",
-    "published": 1794285649,
+    "title": "大模型千千万，为什么非要用 Claude？",
+    "summary": "## 不理解，实在不理解... 如题，大模型千千万，包括国外的 GPT 、Gemini 、Grok 等，国内的 Qwen 、DeepSeek 、GLM 、Kimi 、豆包等，为什么非要去买敌意这么大的 Claude ？动不动封号，钱也不退。",
+    "url": "https://www.v2ex.com/t/1256081",
+    "published": 1794364884,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-11",
     "meta": {
-      "replies": 51,
-      "node": "问与答"
+      "replies": 168,
+      "node": "程序员"
     }
   },
   {
@@ -716,8 +663,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-11",
     "meta": {
-      "stars": 6747,
-      "forks": 592,
+      "stars": 7051,
+      "forks": 615,
       "language": "C++",
       "createdDaysAgo": 5
     }
@@ -732,10 +679,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-11",
     "meta": {
-      "stars": 5227,
-      "forks": 2007,
+      "stars": 5731,
+      "forks": 2263,
       "language": "Swift",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   }
 ]
