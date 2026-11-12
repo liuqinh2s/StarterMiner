@@ -101,6 +101,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】李强主持国务院第二十二次专题学习，聚焦健全多层次社会保障体系；英伟达换帅！黄仁勋辞任CEO，CFO克雷斯临时接棒；国内首个口服GLP-1类减肥药获批上市",
+    "summary": "国家发改委：11月12日24时起汽、柴油价格每吨分别下调645元、625元；存储涨价潮仍将延续，产品需求现分化；美国FDA终止药物快速审评计划；张一鸣：字节AI最早2029年或2030年追平OpenAI与Anthropic；百度推出大模型交易平台词元所；腾讯相关知情人士：微信“看一看”正在小范围测试短剧入口；台积电回应“6.9GB员工资料外泄”：将向相关人员提供必要协助",
+    "url": "https://www.tmtpost.com/8203507.html",
+    "published": "Fri, 13 Nov 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-12"
+  },
+  {
+    "source": "钛媒体",
     "title": "00后华人女孩们，成硅谷AI新贵",
     "summary": "名校退学、大厂离职， 5位华人女孩拿下600亿估值。",
     "url": "https://www.tmtpost.com/8203090.html",
@@ -125,6 +135,16 @@
     "summary": "具身智能融资仍热，星尘智能新一轮 10 亿、估值 150 亿；但部分老股东按上轮估值六五至八折出让老股，买家谨慎。新资金看能否量产和订单能否接续，老股看谁等得起，退出预期先松动。",
     "url": "https://www.tmtpost.com/8203031.html",
     "published": "Thu, 12 Nov 2026 17:42:30 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-12"
+  },
+  {
+    "source": "极客公园",
+    "title": "穿了 33 年皮衣的那个人，离开了英伟达",
+    "summary": "美国时间 11 月 12 日美股开盘前， 英伟达 官方 宣布，黄仁勋辞去总裁、首席执行官和董事会成员职务，即刻生效 。 首席财务官科莱特·克雷斯（Colette Kress）出任临时 CEO，同时继续兼管财务；董事哈维·琼斯（Harvey C. Jones）出任董事会主席。董事会已经开始物色正式 CEO，公司内外的人选都会考虑。 黄仁勋 1993 年和两位合伙人创办英伟达， 从那时起一直是这家公司的 CEO，到今天 33 年 。 消息公布后，英伟达股价在盘前下跌 10%。 从报道到辞职 虽然外界众说纷纭，但这份公告中并没有直接写辞职理由，只简单感谢了黄仁勋「 对公司和行业不可估量的贡献 」。 10 月 29 日，《纽约时报》报道，美国情报官员认为，与黄仁勋关系密切的女商人 Alice Huang 曾任新加坡数据中心公司 Megaspeed 的董事总经理，而 Megaspeed 是英伟达的客户，被指帮受美国出口管制地区拿到英伟达的 AI 芯片。外交部随后否认，称报道纯属捏造。 11 月 8 日是周日，黄仁勋给员工发了一封信，承认自己有婚外情：「我对妻子不忠。我的行为伤害了她和我们的孩子，",
+    "url": "http://www.geekpark.net/news/373906",
+    "published": "Thu, 12 Nov 2026 23:55:51 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-12"
@@ -380,16 +400,6 @@
     "fetchedAt": "2026-11-12"
   },
   {
-    "source": "极客公园",
-    "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
-    "summary": "头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成员。产品即日起在京东等官方渠道发售，售价 9499 元，前 1000 名订购者可享 7999 元。 在心言机器人创始人、Bubbo 1 首席设计师任永亮看来， 「 技术决定体验的下限，交互决定体验的上限。 」 过去的 AI，是你不开口它就不在的工具；而巴布要做的，是从「外部」视角搭起一个 Family Agent—— 识别家里的每一个人，也关注他们之间的关系。 为此，它在身上装了 13 类、26 个传感器，用 6 个自由度和两块表情屏理解复杂情感，再靠记忆、多模态感知和分级对话，给出有「延迟感、呼吸感、边界感」的回应。 发布环节结束后，任永亮与主持人、极客公园创始人张鹏，全国政协常委、国家统计局原副局长贾楠，哈尔滨工业大学计算学部长聘教授、博士生导师赵妍妍围坐在一起，讨论了一个问题：当机器人真正走进一个家庭，它该如何理解人、陪伴人",
-    "url": "http://www.geekpark.net/news/373399",
-    "published": "Tue, 03 Nov 2026 15:11:52 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
     "source": "爱范儿",
     "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
     "summary": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -401,50 +411,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "published": "Wed, 11 Nov 2026 23:28:45 +0000",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "published": "Thu, 12 Nov 2026 22:42:51 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
   },
   {
     "source": "TechCrunch",
-    "title": "Siri co-founder backs Helix for its voice ID tech",
-    "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
-    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-    "published": "Wed, 11 Nov 2026 15:02:47 +0000",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "published": "Thu, 12 Nov 2026 19:11:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
   },
   {
     "source": "TechCrunch",
-    "title": "X launches its own clipping feature to spur influencer engagement",
-    "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-    "published": "Wed, 11 Nov 2026 01:02:13 +0000",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "published": "Thu, 12 Nov 2026 18:39:23 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "published": "Tue, 10 Nov 2026 21:08:52 +0000",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "published": "Thu, 12 Nov 2026 17:36:40 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
   },
   {
     "source": "TechCrunch",
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-    "published": "Tue, 10 Nov 2026 20:47:05 +0000",
+    "title": "Whoop just launched a social network",
+    "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+    "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+    "published": "Thu, 12 Nov 2026 16:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
@@ -631,210 +641,20 @@
   },
   {
     "source": "The Verge",
-    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing […]",
-    "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-    "published": "2026-11-11T17:00:00-05:00",
+    "title": "Here are the 25 original Xbox games you can now play on PC",
+    "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just […]",
+    "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+    "published": "2026-11-12T16:00:00-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
   },
   {
     "source": "The Verge",
-    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-    "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying […]",
-    "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-    "published": "2026-11-11T12:09:58-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A fake startup made a launch film about the Nvidia board meeting",
-    "summary": "Article URL: https://horny.ceo/ Comments URL: https://news.ycombinator.com/item?id=50465665 Points: 1 # Comments: 0",
-    "url": "https://horny.ceo/",
-    "published": "Thu, 12 Nov 2026 11:21:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Employees taking 32% more leave for GTA 6 launch day",
-    "summary": "Article URL: https://remote.com/gta Comments URL: https://news.ycombinator.com/item?id=50464720 Points: 2 # Comments: 0",
-    "url": "https://remote.com/gta",
-    "published": "Thu, 12 Nov 2026 08:58:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
-    "summary": "Article URL: https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a Comments URL: https://news.ycombinator.com/item?id=50460744 Points: 3 # Comments: 1",
-    "url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-    "published": "Wed, 11 Nov 2026 23:51:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Would you launch a developer tool with only macOS support?",
-    "summary": "I'm building Headwig, a devtool that lets me run multiple agents on my app, isolate their changes across services, and test and iterate on each independently. I've built the macOS version and have been using it on my own webapp. It works particularly well for applications with multiple services. Now I'm thinking of launching it, but I'm debating one thing. Would you guys launch a developer tool with just macOS support, or wait until Windows and Linux are ready too? In the developer surveys I con",
-    "url": "https://news.ycombinator.com/item?id=50457926",
-    "published": "Wed, 11 Nov 2026 20:04:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Making of a Startup Simulator",
-    "summary": "Article URL: https://foundrs.com/the-making-of-a-startup-simulator.html Comments URL: https://news.ycombinator.com/item?id=50455955 Points: 1 # Comments: 0",
-    "url": "https://foundrs.com/the-making-of-a-startup-simulator.html",
-    "published": "Wed, 11 Nov 2026 17:25:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-    "summary": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browse",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "published": "Wed, 11 Nov 2026 17:11:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "India ordered website takedowns on fake court orders, police launch probe",
-    "summary": "Article URL: https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-reuters-finds-police-launch-2026-11-11/ Comments URL: https://news.ycombinator.com/item?id=50455720 Points: 3 # Comments: 0",
-    "url": "https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-reuters-finds-police-launch-2026-11-11/",
-    "published": "Wed, 11 Nov 2026 17:05:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A Silicon Valley Startup Simulation Game",
-    "summary": "Hi All. I have been working on this idea for more than a year. My goal was to educate new entrepreneurs so they get a feel for what starting a startup really is. And also teach them some hard-learned lessons, from my own experience as well as the many founders I have met over the years in Silicon Valley. I couldn’t have built this without AI, but the creative ideas and decisions are all mine. The project has 500+ commits over a year, all me changing my mind, trying things, keeping what worked. I",
-    "url": "https://foundrs.com/game.html",
-    "published": "Wed, 11 Nov 2026 15:33:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "BioWare: Canadian petition seeks government funding for independence from EA",
-    "summary": "Article URL: https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7898 Comments URL: https://news.ycombinator.com/item?id=50454550 Points: 1 # Comments: 0",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7898",
-    "published": "Wed, 11 Nov 2026 15:26:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We Run a Bootstrapped AI Startup on Almost Zero Operating Costs",
-    "summary": "Article URL: https://dmv.is-a.dev/writing/how-we-run-a-bootstrapped-ai-startup-on-almost-zero-operating-costs Comments URL: https://news.ycombinator.com/item?id=50451335 Points: 1 # Comments: 0",
-    "url": "https://dmv.is-a.dev/writing/how-we-run-a-bootstrapped-ai-startup-on-almost-zero-operating-costs",
-    "published": "Wed, 11 Nov 2026 09:30:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "28 Days in an underground pipe (to launch an attack on Russian positions)",
-    "summary": "Article URL: https://www.ukrinform.net/rubric-ato/4182745-28-days-in-an-underground-pipe.html Comments URL: https://news.ycombinator.com/item?id=50450011 Points: 7 # Comments: 0",
-    "url": "https://www.ukrinform.net/rubric-ato/4182745-28-days-in-an-underground-pipe.html",
-    "published": "Wed, 11 Nov 2026 05:26:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "'Flying cars' could launch in China next summer, maker of two-seat model says",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng Comments URL: https://news.ycombinator.com/item?id=50446221 Points: 2 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-    "published": "Tue, 10 Nov 2026 20:56:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Clone Any Launch Video with 1 shot",
-    "summary": "Article URL: https://twitter.com/SerenaTaN5/status/2120231516676768070 Comments URL: https://news.ycombinator.com/item?id=50445410 Points: 1 # Comments: 0",
-    "url": "https://twitter.com/SerenaTaN5/status/2120231516676768070",
-    "published": "Tue, 10 Nov 2026 19:51:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We checked 312 AI-built apps: how ready are they to launch?",
-    "summary": "Article URL: https://launchpal.app/guides/vibe-coded-app-statistics Comments URL: https://news.ycombinator.com/item?id=50440586 Points: 2 # Comments: 0",
-    "url": "https://launchpal.app/guides/vibe-coded-app-statistics",
-    "published": "Tue, 10 Nov 2026 14:06:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
-    "summary": "Article URL: https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/ Comments URL: https://news.ycombinator.com/item?id=50438975 Points: 2 # Comments: 0",
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
-    "published": "Tue, 10 Nov 2026 11:48:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OSS devtool seed stage startup looking to hire DevRel In SF",
-    "summary": "Hey! We are looking to hire our first DevRel in SF, looking to understand what are market standards around starting pay and skill set we should expect. Also, we are not exactly AI infra and more like Data infra which is fairly technical and niche so trying to figure out what are the best channels to get to right people. Comments URL: https://news.ycombinator.com/item?id=50436036 Points: 1 # Comments: 2",
-    "url": "https://news.ycombinator.com/item?id=50436036",
-    "published": "Tue, 10 Nov 2026 04:22:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Slonbase update: Lessons from the Show HN launch, trade-offs, and what's next",
-    "summary": "Article URL: https://slonbase.com/ Comments URL: https://news.ycombinator.com/item?id=50435281 Points: 2 # Comments: 0",
-    "url": "https://slonbase.com/",
-    "published": "Tue, 10 Nov 2026 02:18:21 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Claude Fable 5.2 launch offers",
-    "summary": "Article URL: https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers Comments URL: https://news.ycombinator.com/item?id=50430176 Points: 30 # Comments: 5",
-    "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
-    "published": "Mon, 09 Nov 2026 19:12:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-12"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A visualization map of the funding of public companies",
-    "summary": "I made this webapp (vibecoded) with Meta's AI models during the Meta AI hackathon that just ended (Oct 26-Nov 4). So far it contains public 33,000 companies, and 100k+ 'flows'. A company X has a flow to another company Y if X funds Y or owns its shares, or vice versa. It collects business data from SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval), Wikidata company lists, and other regional company indices of Europe and Asia to build a database of companies to display on the map. ",
-    "url": "https://github.com/feeRnt/whofundsit/tree/post_demo_cloudflare_cdn",
-    "published": "Mon, 09 Nov 2026 17:00:42 +0000",
+    "title": "Oh, Palantir is ‘progressive’ now, is it?",
+    "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "published": "2026-11-12T13:06:54-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-12"
@@ -849,8 +669,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-12",
     "meta": {
-      "stars": 6745,
-      "forks": 2504,
+      "stars": 6927,
+      "forks": 2545,
       "language": "Swift",
       "createdDaysAgo": 3
     }
