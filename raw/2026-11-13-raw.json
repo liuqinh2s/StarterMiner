@@ -90,51 +90,21 @@
     "fetchedAt": "2026-11-13"
   },
   {
-    "source": "创业邦",
-    "title": "垠石汽车完成亿元级A+轮融资 推进重载线控制动量产",
-    "summary": "近日，垠石汽车宣布完成亿元级A+轮融资，由北京顺义产投基金独家投资。资金将用于完善团队、建设量产生产线等，推进重载一体式线控制动技术量产。公司称，其液压集成式线控制动系统已获得多个主机厂定点订单。 据天眼查显示，北京垠石汽车技术有限公司曾用名为天津垠石精工技术有限公司。该主体的“液压集成式线控制动系统”发明专利于2025年8月获授权。摘要记载，该方案针对电子液压制动系统冗余能力有限的问题，通过多个液压回路和相互独立的油壶，在制动解耦的同时保证冗余制动效果。",
-    "url": "https://www.cyzone.cn/article/849521.html",
-    "published": "Mon, 19 Oct 2026 03:28:38 GMT",
+    "source": "钛媒体",
+    "title": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
+    "summary": "谷歌推两款专业TPU，向英伟达通用芯片路线发起挑战。",
+    "url": "https://www.tmtpost.com/8201775.html",
+    "published": "Fri, 13 Nov 2026 15:45:31 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-13"
   },
   {
-    "source": "钛媒体",
-    "title": "黄仁勋辞职，对中国企业影响几何？",
-    "summary": "“达链”集体承压，国产芯片股强势走高。",
-    "url": "https://www.tmtpost.com/8204069.html",
-    "published": "Fri, 13 Nov 2026 11:47:08 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "钛媒体",
-    "title": "美元定价体系：财富分配、阶层变迁与世界格局",
-    "summary": "美国债务风险释放，会触发一套由美债收益率、全球美元信贷、资产估值、汇率、实体经济构成的多米诺链式反应。区分急性危机踩踏和长期计价基准慢性漂移，后者可能性更高。",
-    "url": "https://www.tmtpost.com/8203846.html",
-    "published": "Fri, 13 Nov 2026 09:31:47 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "钛媒体",
-    "title": "上一个让CFO接班的芯片巨头，是英特尔",
-    "summary": "财务训练给人的本能是比较回报率。回购的回报当期可见，基带业务的亏损当期可见，把制造外包能省多少资本开支也算得出来。",
-    "url": "https://www.tmtpost.com/8203641.html",
-    "published": "Fri, 13 Nov 2026 09:17:54 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月13日）",
-    "summary": "英伟达黄仁勋辞任触发创始人风险重定价，盘前跌超13%，董事会启动独立调查与永久CEO搜寻；出口管制延伸至交付后审计，百亿美元注资Anthropic。Anthropic IPO认购数倍而估值预期收紧，Claude连接器切入办公。谷歌AI Mode强化搜索分发权，Gemini接入CarPlay；AWS推进Agent生产化与开源资产复用。",
-    "url": "https://www.tmtpost.com/8203715.html",
-    "published": "Fri, 13 Nov 2026 08:58:59 +0800",
+    "source": "极客公园",
+    "title": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
+    "summary": "北京时间 11 月 4 日，苹果推送了 iOS 27.3 和 watchOS 27.3 的第一个开发者测试版，除了带来国行 Apple 智能，还给 Apple Watch 加入了两个全新的 AI 功能：一个是 Live Rewind，可以随时帮你回顾过去 15 秒内的对话；另一个则是 Siri Recap，手表会在一整天里记下你和别人的对话，再整理成摘要。不过这两个功能目前只有英文版，苹果也写明暂不在中国提供。 左为 Live Rewind，右为 Siri 回顾（Siri Recap）｜图片来源：Apple 在这两个功能发布之后，硬件创业者纷纷表示「巨头开始下场抢创业者的赛道了」。按苹果的说明，Apple Watch 把收到的音频加密传给 iPhone，由 iPhone 转写成文字，再交给苹果的私有云计算生成摘要。整个过程与市面上类似的 AI 录音转录功能异曲同工，不同的是，Apple Watch 并不需要你购买额外的硬件，它同样支持几乎全天候的录音，并且没有任何学习成本。 苹果称音频不录也不存，也不识别说话人｜图片来源：极客公园 Recap 暂时没有面向中国发布，但想要获得类似的体验",
+    "url": "http://www.geekpark.net/news/373946",
+    "published": "Fri, 13 Nov 2026 12:57:38 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-13"
@@ -390,16 +360,6 @@
     "fetchedAt": "2026-11-13"
   },
   {
-    "source": "极客公园",
-    "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
-    "summary": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。 不过，这一次上线的并不是完整版 Apple 智能。首批功能主要包括实时翻译、写作工具、视觉智能、照片消除、智绘表情、通知摘要等，而苹果此前展示的新一代 Siri AI，以及 WWDC26 公布的部分下一代 AI 能力，仍然不在此次更新范围内。 当日，苹果 (AAPL.US) 大涨超 6%，报 353.05 美元，总市值再度突破 5 万亿美元，重返美股市值第一。(来源：格隆汇) OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画 11 月 5 日，据 The Verge 报道，ChatGPT 现在可以通过提示词或上传到人工智能聊天机器人的照片来创建 GIF。此次更新与 OpenAI 的新 Images 2",
-    "url": "http://www.geekpark.net/news/373494",
-    "published": "Thu, 05 Nov 2026 08:45:25 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
     "source": "爱范儿",
     "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
     "summary": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -455,6 +415,26 @@
     "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
     "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
     "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-13"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD’s Denza launches five-seat N8 SUV with up to 1,003 km of electric range",
+    "summary": "BYD’s premium brand Denza has launched the N8 in China, with prices ranging from RMB 269,900 to RMB 329,900. The five-seat SUV comes in four battery-electric and two plug-in hybrid versions. Its longest-range electric variant pairs rear-wheel drive with a 130.15 kWh Blade Battery and is rated for 1,003 km under China’s CLTC test cycle. […]",
+    "url": "https://technode.com/2026/11/13/byds-denza-launches-five-seat-n8-suv-with-up-to-1003-km-of-electric-range/",
+    "published": "Fri, 13 Nov 2026 08:20:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-13"
+  },
+  {
+    "source": "TechNode",
+    "title": "MetaX and UBTech-backed robotics chip startup Xilect raises RMB 500 million",
+    "summary": "Xilect, a robotics chip startup jointly founded by Chinese GPU maker MetaX and humanoid robot maker UBTech Robotics, has raised RMB 500 million in an angel round. The company will use the funding to develop its first chip and supporting software, expand its engineering team and test the platform with robot manufacturers. Xilect is designing […]",
+    "url": "https://technode.com/2026/11/13/metax-and-ubtech-backed-robotics-chip-startup-xilect-raises-rmb-500-million/",
+    "published": "Fri, 13 Nov 2026 08:20:28 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-13"
@@ -600,46 +580,6 @@
     "fetchedAt": "2026-11-13"
   },
   {
-    "source": "TechNode",
-    "title": "Apple Intelligence enters developer beta in China with Qwen integration",
-    "summary": "Apple began testing Apple Intelligence in mainland China on November 4 Beijing time with the iOS 27.3 developer beta. Developers with compatible iPhones can enable the features after installing the update, bringing Apple’s system-level AI tools to the market ahead of a planned public release in December. The beta includes Writing Tools, Live Translation, Visual […]",
-    "url": "https://technode.com/2026/11/04/apple-intelligence-enters-developer-beta-in-china-with-qwen-integration/",
-    "published": "Wed, 04 Nov 2026 08:03:40 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "TechNode",
-    "title": "Tencent reportedly preparing consumer AI search engine",
-    "summary": "Tencent is preparing to launch an AI search engine for consumers that combines AI-generated answers with web search, Huxiu reported on November 3. The product will feature a minimal interface and prioritize authoritative sources, according to the report. A Tencent insider told Huxiu that the planned search engine shares its underlying capabilities with search inside […]",
-    "url": "https://technode.com/2026/11/04/tencent-reportedly-preparing-consumer-ai-search-engine/",
-    "published": "Wed, 04 Nov 2026 08:02:17 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "TechNode",
-    "title": "Baidu launches Apollo World model to train robotaxis in simulated environments",
-    "summary": "Baidu unveiled Apollo World on November 3, a world model that simulates interactive road environments to train and test autonomous vehicles. The company said the system is already being used to support Apollo Go’s global robotaxi development and can generate up to 100,000 kilometers of simulated driving per day. Apollo World produces real-time camera and […]",
-    "url": "https://technode.com/2026/11/04/baidu-launches-apollo-world-model-to-train-robotaxis-in-simulated-environments/",
-    "published": "Wed, 04 Nov 2026 07:58:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "TechNode",
-    "title": "Why Meta Turned to China’s Fourier for Its Humanoid Robot",
-    "summary": "Editor’s note: Meta has tapped Shanghai-based Fourier to help build “Max,” a five-foot-tall humanoid developed in about three months, with a second version already underway. The deal puts a spotlight on a startup company that has grown from rehabilitation robotics into humanoids, ranked sixth globally in 2025 humanoid-robot shipments by Omdia, and attracted investors including […]",
-    "url": "https://technode.com/2026/11/04/why-meta-turned-to-chinas-fourier-for-its-humanoid-robot/",
-    "published": "Wed, 04 Nov 2026 07:33:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
     "source": "The Verge",
     "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
     "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" […]",
@@ -660,231 +600,17 @@
     "fetchedAt": "2026-11-13"
   },
   {
-    "source": "Hacker News",
-    "title": "The State of Startup Hiring 2026",
-    "summary": "Article URL: https://www.jackandjill.ai/jill/state-of-hiring Comments URL: https://news.ycombinator.com/item?id=50477041 Points: 2 # Comments: 0",
-    "url": "https://www.jackandjill.ai/jill/state-of-hiring",
-    "published": "Fri, 13 Nov 2026 01:46:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bill Gross is giving away 300k climate tech startup ideas – for free",
-    "summary": "Article URL: https://impactloop.com/article/serial-entrepreneur-bill-gross-is-giving-away-300-000-climate-tech-startup-ideas-for-free Comments URL: https://news.ycombinator.com/item?id=50477039 Points: 2 # Comments: 3",
-    "url": "https://impactloop.com/article/serial-entrepreneur-bill-gross-is-giving-away-300-000-climate-tech-startup-ideas-for-free",
-    "published": "Fri, 13 Nov 2026 01:45:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: BitPlay Launch",
-    "summary": "You can share this with others, too! Comments URL: https://news.ycombinator.com/item?id=50475921 Points: 1 # Comments: 0",
-    "url": "https://bitframe.pages.dev/bitplay/",
-    "published": "Thu, 12 Nov 2026 23:29:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "summary": "Article URL: https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare Comments URL: https://news.ycombinator.com/item?id=50465984 Points: 1 # Comments: 0",
-    "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
-    "published": "Thu, 12 Nov 2026 12:06:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A fake startup made a launch film about the Nvidia board meeting",
-    "summary": "Article URL: https://horny.ceo/ Comments URL: https://news.ycombinator.com/item?id=50465665 Points: 1 # Comments: 0",
-    "url": "https://horny.ceo/",
-    "published": "Thu, 12 Nov 2026 11:21:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Employees taking 32% more leave for GTA 6 launch day",
-    "summary": "Article URL: https://remote.com/gta Comments URL: https://news.ycombinator.com/item?id=50464720 Points: 2 # Comments: 0",
-    "url": "https://remote.com/gta",
-    "published": "Thu, 12 Nov 2026 08:58:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
-    "summary": "Article URL: https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a Comments URL: https://news.ycombinator.com/item?id=50460744 Points: 3 # Comments: 1",
-    "url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-    "published": "Wed, 11 Nov 2026 23:51:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Would you launch a developer tool with only macOS support?",
-    "summary": "I'm building Headwig, a devtool that lets me run multiple agents on my app, isolate their changes across services, and test and iterate on each independently. I've built the macOS version and have been using it on my own webapp. It works particularly well for applications with multiple services. Now I'm thinking of launching it, but I'm debating one thing. Would you guys launch a developer tool with just macOS support, or wait until Windows and Linux are ready too? In the developer surveys I con",
-    "url": "https://news.ycombinator.com/item?id=50457926",
-    "published": "Wed, 11 Nov 2026 20:04:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Making of a Startup Simulator",
-    "summary": "Article URL: https://foundrs.com/the-making-of-a-startup-simulator.html Comments URL: https://news.ycombinator.com/item?id=50455955 Points: 1 # Comments: 0",
-    "url": "https://foundrs.com/the-making-of-a-startup-simulator.html",
-    "published": "Wed, 11 Nov 2026 17:25:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-    "summary": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browse",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "published": "Wed, 11 Nov 2026 17:11:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "India ordered website takedowns on fake court orders, police launch probe",
-    "summary": "Article URL: https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-reuters-finds-police-launch-2026-11-11/ Comments URL: https://news.ycombinator.com/item?id=50455720 Points: 3 # Comments: 0",
-    "url": "https://www.reuters.com/world/india-ordered-website-takedowns-fake-court-orders-reuters-finds-police-launch-2026-11-11/",
-    "published": "Wed, 11 Nov 2026 17:05:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: A Silicon Valley Startup Simulation Game",
-    "summary": "Hi All. I have been working on this idea for more than a year. My goal was to educate new entrepreneurs so they get a feel for what starting a startup really is. And also teach them some hard-learned lessons, from my own experience as well as the many founders I have met over the years in Silicon Valley. I couldn’t have built this without AI, but the creative ideas and decisions are all mine. The project has 500+ commits over a year, all me changing my mind, trying things, keeping what worked. I",
-    "url": "https://foundrs.com/game.html",
-    "published": "Wed, 11 Nov 2026 15:33:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "BioWare: Canadian petition seeks government funding for independence from EA",
-    "summary": "Article URL: https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7898 Comments URL: https://news.ycombinator.com/item?id=50454550 Points: 1 # Comments: 0",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7898",
-    "published": "Wed, 11 Nov 2026 15:26:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We Run a Bootstrapped AI Startup on Almost Zero Operating Costs",
-    "summary": "Article URL: https://dmv.is-a.dev/writing/how-we-run-a-bootstrapped-ai-startup-on-almost-zero-operating-costs Comments URL: https://news.ycombinator.com/item?id=50451335 Points: 1 # Comments: 0",
-    "url": "https://dmv.is-a.dev/writing/how-we-run-a-bootstrapped-ai-startup-on-almost-zero-operating-costs",
-    "published": "Wed, 11 Nov 2026 09:30:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "28 Days in an underground pipe (to launch an attack on Russian positions)",
-    "summary": "Article URL: https://www.ukrinform.net/rubric-ato/4182745-28-days-in-an-underground-pipe.html Comments URL: https://news.ycombinator.com/item?id=50450011 Points: 7 # Comments: 0",
-    "url": "https://www.ukrinform.net/rubric-ato/4182745-28-days-in-an-underground-pipe.html",
-    "published": "Wed, 11 Nov 2026 05:26:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "summary": "Article URL: https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/ Comments URL: https://news.ycombinator.com/item?id=50449821 Points: 4 # Comments: 2",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "published": "Wed, 11 Nov 2026 04:42:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "'Flying cars' could launch in China next summer, maker of two-seat model says",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng Comments URL: https://news.ycombinator.com/item?id=50446221 Points: 2 # Comments: 0",
-    "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-    "published": "Tue, 10 Nov 2026 20:56:16 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Clone Any Launch Video with 1 shot",
-    "summary": "Article URL: https://twitter.com/SerenaTaN5/status/2120231516676768070 Comments URL: https://news.ycombinator.com/item?id=50445410 Points: 1 # Comments: 0",
-    "url": "https://twitter.com/SerenaTaN5/status/2120231516676768070",
-    "published": "Tue, 10 Nov 2026 19:51:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "We checked 312 AI-built apps: how ready are they to launch?",
-    "summary": "Article URL: https://launchpal.app/guides/vibe-coded-app-statistics Comments URL: https://news.ycombinator.com/item?id=50440586 Points: 2 # Comments: 0",
-    "url": "https://launchpal.app/guides/vibe-coded-app-statistics",
-    "published": "Tue, 10 Nov 2026 14:06:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
-    "summary": "Article URL: https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/ Comments URL: https://news.ycombinator.com/item?id=50438975 Points: 2 # Comments: 0",
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
-    "published": "Tue, 10 Nov 2026 11:48:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-13"
-  },
-  {
-    "source": "微博",
-    "title": "#英伟达更新黄仁勋为创始人#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23英伟达更新黄仁勋为创始人%23",
-    "published": "2026-11-13",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-13",
-    "meta": {
-      "hotValue": 517003,
-      "rank": 10
-    }
-  },
-  {
     "source": "V2EX",
-    "title": "烧了 2000 万做电商系统，公司清算，复盘几个坑，也想听听这套东西还有没有残余价值",
-    "summary": "背景：公司做电商，投资人投了 2000 多万，系统完整做出来了：C 端商城（包含完整的会员，营销）、C 端 AI 导购、B 端商家端、商家入驻、平台管理端。运营没跑通，公司倒闭清算。我是合伙人，不卖东西，想复盘，也想听听懂行的人对这套资产残余价值的判断。 几个判断错的地方： 一、多商户入驻体系在冷启动阶段是纯负担。一开始就做平台梦，入驻审核、分账、结算全成了维护成本，商家都招不满。重来的话，单商户商城先跑通一个店。 二、AI 导购做出来了，没转化成购买。对话式推荐、商品知识库都做了，但用户来电商站是带着明确购买意图的，AI 导购解决“不知道买什么”，这个场景在流量结构里占比极",
-    "url": "https://www.v2ex.com/t/1256523",
-    "published": 1794472759,
+    "title": "做了个好看的 Mac 系统监控软件 Ebb，送 15 个激活码，求 v 友拍砖",
+    "summary": "做 Ebb 的初衷就一句话：想要一个好看、原生、轻量的系统监控软件。 好看：我很喜欢 tw93 的 Mole ，克制、干净，又有点小趣味，Ebb 整体的设计气质就是参考 Mole 做的。每一页都有自己的图表，比如处理器是\"核心花\"，内存是\"气泡\"，网络是\"星图\"。 原生、轻量：SwiftUI 原生开发，不套壳。数据全部存在本机，不上传。 除了好看，也塞了几个我自己天天用的功能： - 刚才怎么了：按 ⌃⌥E 回放最近 60 秒，看是哪个进程在哪一秒把 CPU 吃满了 - 失控进程：后台进程长时间占着 CPU ，或者内存只涨不降，会直接标出来 - 睡眠体检：合盖再打开，",
+    "url": "https://www.v2ex.com/t/1256714",
+    "published": 1794536479,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-13",
     "meta": {
-      "replies": 45,
-      "node": "问与答"
+      "replies": 70,
+      "node": "分享创造"
     }
   },
   {
@@ -897,10 +623,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-13",
     "meta": {
-      "stars": 6997,
-      "forks": 2563,
+      "stars": 7143,
+      "forks": 2585,
       "language": "Swift",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
