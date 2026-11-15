@@ -91,6 +91,36 @@
   },
   {
     "source": "钛媒体",
+    "title": "鱼你在一起落子海外百店，中餐出海开启“体系化时代”",
+    "summary": "企业的使命是让世界爱上中国味道，一定是要历经走出去、走进去、走上去的过程，“不止输出一道菜，更要输出中国餐饮出海范式”。",
+    "url": "https://www.tmtpost.com/8205846.html",
+    "published": "Sun, 15 Nov 2026 18:58:04 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "钛媒体",
+    "title": "国产芯片融资潮，来势凶猛",
+    "summary": "从新架构到新产线，资本加注整条产业链。",
+    "url": "https://www.tmtpost.com/8205694.html",
+    "published": "Sun, 15 Nov 2026 14:48:19 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "钛媒体",
+    "title": "【数智周报】黄仁勋辞任英伟达CEO ，CFO克雷斯任临时CEO；阿里拟分拆平头哥港股独立上市；Anthropic启动IPO路演，估值较峰值近腰斩……",
+    "summary": "（11月9日-14日） DeepSeek发布全家桶应用API；谷歌发布Gemini 4 Hydrogen；微软全球服务中断十小时致歉；美国人工智能建设遭遇电力瓶颈……",
+    "url": "https://www.tmtpost.com/8205592.html",
+    "published": "Sun, 15 Nov 2026 14:19:18 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "钛媒体",
     "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
     "summary": "非AI板块却创了新高。",
     "url": "https://www.tmtpost.com/8205717.html",
@@ -115,26 +145,6 @@
     "summary": "只看估值，月之暗面的故事已经足够耀眼。",
     "url": "https://www.tmtpost.com/8205584.html",
     "published": "Sun, 15 Nov 2026 10:30:39 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月15日）",
-    "summary": "黄仁勋离任英伟达触发多线连锁：超11.5万人联署要求其回任，马斯克等科技高管声援，董事会曾就继任接触Arm CEO雷内·哈斯的传闻浮出，创始人依赖与制度化治理的张力凸显。亚洲政府重估单一AI基础设施供应商风险，韩国锁定26万颗先进GPU供应并叠加本土芯片，中国重申出口管制，台湾推进台北总部项目。",
-    "url": "https://www.tmtpost.com/8205610.html",
-    "published": "Sun, 15 Nov 2026 09:09:35 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "钛媒体",
-    "title": "营收增长与PS变化：A股一级行业五年估值位移的经济含义",
-    "summary": "PS的变化，本质是两条曲线的差。五年合起来看，扩张落在收入与市值两端，利润没有跟上——市值跑赢收入的那一段距离，来自估值水位与收入结构，不是盈利改善。",
-    "url": "https://www.tmtpost.com/8205450.html",
-    "published": "Sat, 14 Nov 2026 17:57:36 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-15"
@@ -650,17 +660,207 @@
     "fetchedAt": "2026-11-15"
   },
   {
+    "source": "Hacker News",
+    "title": "Robot startup cant pay staff after founder takes $4.6M from company to buy home",
+    "summary": "Article URL: https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html Comments URL: https://news.ycombinator.com/item?id=50498135 Points: 16 # Comments: 3",
+    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    "published": "Sat, 14 Nov 2026 16:08:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Why Every Startup Needs an Origin Myth",
+    "summary": "Article URL: https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin Comments URL: https://news.ycombinator.com/item?id=50497012 Points: 11 # Comments: 0",
+    "url": "https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin",
+    "published": "Sat, 14 Nov 2026 13:48:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "I received a job offer, and they hid a way to launch malicious code",
+    "summary": "Article URL: https://www.reddit.com/r/programming/comments/1xvwjeh/how_i_received_a_job_offer_and_they_hid_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50495479 Points: 1 # Comments: 1",
+    "url": "https://www.reddit.com/r/programming/comments/1xvwjeh/how_i_received_a_job_offer_and_they_hid_a_way_to/",
+    "published": "Sat, 14 Nov 2026 09:29:11 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: OpenAI Astra post-launch slump?",
+    "summary": "Anyone frustrated with GPT-6 Astra lately? The quality swings wildly from session to session. It feels like the backend is silently redirecting to Luna or other models. I wasn't aware OpenAI did this, but now it makes so much sense because some of the answers and performance read very much like a different model. Lately it misses obvious details in the code, only to say \"oh yeah, I should have mentioned that!\" I explicitly tell it to look at the code in the context, then I start to realize it's ",
+    "url": "https://news.ycombinator.com/item?id=50493498",
+    "published": "Sat, 14 Nov 2026 03:27:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1075 # Comments: 638",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Building a list of places to launch your app",
+    "summary": "It's manually reviewed (with AI help ofc) and I'll keep it up to date. Feel free to add your suggestions. Comments URL: https://news.ycombinator.com/item?id=50492076 Points: 2 # Comments: 0",
+    "url": "https://another.directory/where-to-launch",
+    "published": "Sat, 14 Nov 2026 00:18:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Starship Launch 15 Live",
+    "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50490811 Points: 19 # Comments: 2",
+    "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+    "published": "Fri, 13 Nov 2026 22:18:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "California startup aims to turn cow manure into sustainable jet fuel",
+    "summary": "Article URL: https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel Comments URL: https://news.ycombinator.com/item?id=50490340 Points: 2 # Comments: 1",
+    "url": "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel",
+    "published": "Fri, 13 Nov 2026 21:47:51 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Jensen Huang's Resignation from Nvidia Worries the A.I. Startup World",
+    "summary": "Article URL: https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html Comments URL: https://news.ycombinator.com/item?id=50487611 Points: 3 # Comments: 0",
+    "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+    "published": "Fri, 13 Nov 2026 18:24:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Newly Startup – Discover emerging startups, SaaS and AI tools",
+    "summary": "Article URL: https://newlystartup.com/ Comments URL: https://news.ycombinator.com/item?id=50487027 Points: 1 # Comments: 0",
+    "url": "https://newlystartup.com/",
+    "published": "Fri, 13 Nov 2026 17:45:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: Altar: Open-source launch command center for indie devs",
+    "summary": "Article URL: https://github.com/iampal/altar Comments URL: https://news.ycombinator.com/item?id=50486200 Points: 1 # Comments: 0",
+    "url": "https://github.com/iampal/altar",
+    "published": "Fri, 13 Nov 2026 16:52:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "India's funding market runs on $3M cheques",
+    "summary": "Article URL: https://justraised.io/blog/india-runs-on-3-million-cheques Comments URL: https://news.ycombinator.com/item?id=50483153 Points: 2 # Comments: 0",
+    "url": "https://justraised.io/blog/india-runs-on-3-million-cheques",
+    "published": "Fri, 13 Nov 2026 13:23:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Build Your Career Through Startup Networking",
+    "summary": "Article URL: https://lobox.com Comments URL: https://news.ycombinator.com/item?id=50481205 Points: 1 # Comments: 0",
+    "url": "https://lobox.com",
+    "published": "Fri, 13 Nov 2026 10:19:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The State of Startup Hiring 2026",
+    "summary": "Article URL: https://www.jackandjill.ai/jill/state-of-hiring Comments URL: https://news.ycombinator.com/item?id=50477041 Points: 2 # Comments: 0",
+    "url": "https://www.jackandjill.ai/jill/state-of-hiring",
+    "published": "Fri, 13 Nov 2026 01:46:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Bill Gross is giving away 300k climate tech startup ideas – for free",
+    "summary": "Article URL: https://impactloop.com/article/serial-entrepreneur-bill-gross-is-giving-away-300-000-climate-tech-startup-ideas-for-free Comments URL: https://news.ycombinator.com/item?id=50477039 Points: 2 # Comments: 3",
+    "url": "https://impactloop.com/article/serial-entrepreneur-bill-gross-is-giving-away-300-000-climate-tech-startup-ideas-for-free",
+    "published": "Fri, 13 Nov 2026 01:45:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Show HN: BitPlay Launch",
+    "summary": "You can share this with others, too! Comments URL: https://news.ycombinator.com/item?id=50475921 Points: 1 # Comments: 0",
+    "url": "https://bitframe.pages.dev/bitplay/",
+    "published": "Thu, 12 Nov 2026 23:29:22 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "summary": "Article URL: https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare Comments URL: https://news.ycombinator.com/item?id=50465984 Points: 1 # Comments: 0",
+    "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
+    "published": "Thu, 12 Nov 2026 12:06:06 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A fake startup made a launch film about the Nvidia board meeting",
+    "summary": "Article URL: https://horny.ceo/ Comments URL: https://news.ycombinator.com/item?id=50465665 Points: 1 # Comments: 0",
+    "url": "https://horny.ceo/",
+    "published": "Thu, 12 Nov 2026 11:21:20 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Employees taking 32% more leave for GTA 6 launch day",
+    "summary": "Article URL: https://remote.com/gta Comments URL: https://news.ycombinator.com/item?id=50464720 Points: 2 # Comments: 0",
+    "url": "https://remote.com/gta",
+    "published": "Thu, 12 Nov 2026 08:58:12 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
     "source": "V2EX",
-    "title": "有没有 V 友自己搭建过云手机？想实现网页远程操作，不想再用第三方云手机了",
-    "summary": "想问一下，有没有 V 友尝试过自己用服务器搭建开源项目的云手机？ 比如在自己的服务器上部署云手机环境，然后通过网页端远程访问和操作，平时用来刷视频、玩游戏，测试 app 等等。 如果整个环境都部署在自己的服务器上，数据和操作也由自己掌控，理论上隐私和安全性也会更有保障。 不知道有没有大佬实践过？目前有哪些比较成熟的开源方案值得推荐？求分享经验！",
-    "url": "https://www.v2ex.com/t/1257073",
-    "published": 1794651219,
+    "title": "闲聊聊到了我司当前接入 AI 的年度成本",
+    "summary": "前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本 我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖 员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。 公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到打工人自己头上。明年应该是砍额度+裁员，",
+    "url": "https://www.v2ex.com/t/1257169",
+    "published": 1794711278,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "replies": 25,
-      "node": "Android"
+      "replies": 24,
+      "node": "职场话题"
     }
   },
   {
@@ -673,10 +873,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 7601,
-      "forks": 2643,
+      "stars": 7664,
+      "forks": 2655,
       "language": "Swift",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -689,26 +889,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 2067,
-      "forks": 424,
+      "stars": 2101,
+      "forks": 426,
       "language": "Swift",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute",
-    "url": "https://github.com/apex-compute/ANR",
-    "published": "2026-11-11T04:27:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 1866,
-      "forks": 29,
-      "language": "C++",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -721,10 +905,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1848,
-      "forks": 307,
+      "stars": 2000,
+      "forks": 337,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "apex-compute/ANR",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+    "url": "https://github.com/apex-compute/ANR",
+    "published": "2026-11-11T04:27:17Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 1928,
+      "forks": 30,
+      "language": "C++",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -737,8 +937,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1511,
-      "forks": 83,
+      "stars": 1554,
+      "forks": 88,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -753,10 +953,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1506,
-      "forks": 103,
+      "stars": 1525,
+      "forks": 104,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -769,8 +969,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1413,
-      "forks": 249,
+      "stars": 1452,
+      "forks": 255,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -785,9 +985,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1195,
+      "stars": 1216,
       "forks": 61,
       "language": "Go",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "adriadam10/mkw-recomp",
+    "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+    "url": "https://github.com/adriadam10/mkw-recomp",
+    "published": "2026-11-09T15:40:06Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 1054,
+      "forks": 60,
+      "language": "C",
       "createdDaysAgo": 5
     }
   },
@@ -801,26 +1017,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1050,
+      "stars": 1053,
       "forks": 1,
       "language": "Visual Basic .NET",
       "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "adriadam10/mkw-recomp",
-    "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-    "url": "https://github.com/adriadam10/mkw-recomp",
-    "published": "2026-11-09T15:40:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 948,
-      "forks": 52,
-      "language": "C",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -833,8 +1033,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 866,
-      "forks": 64,
+      "stars": 883,
+      "forks": 66,
       "language": "Objective-C",
       "createdDaysAgo": 5
     }
@@ -849,8 +1049,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 839,
-      "forks": 88,
+      "stars": 850,
+      "forks": 89,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
@@ -865,8 +1065,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 814,
-      "forks": 63,
+      "stars": 823,
+      "forks": 65,
       "language": "PHP",
       "createdDaysAgo": 6
     }
@@ -881,10 +1081,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 774,
+      "stars": 801,
       "forks": 125,
       "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Eynnzerr/TelemetryCleaner",
+    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+    "published": "2026-11-11T06:25:10Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 801,
+      "forks": 72,
+      "language": "Kotlin",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "duwqijlk/muse-protocol",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "published": "2026-11-14T01:24:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 730,
+      "forks": 342,
+      "language": "Python",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -897,7 +1129,7 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 685,
+      "stars": 704,
       "forks": 56,
       "language": "TypeScript",
       "createdDaysAgo": 1
@@ -929,7 +1161,7 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 672,
+      "stars": 673,
       "forks": 12,
       "language": "Rust",
       "createdDaysAgo": 0
@@ -948,38 +1180,6 @@
       "stars": 672,
       "forks": 12,
       "language": null,
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "TrapAccountant/GitHub-Copilot-app",
-    "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
-    "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
-    "published": "2026-11-14T19:16:47Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 670,
-      "forks": 12,
-      "language": null,
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "TurquoiseDetective/IPTV_Player_2.0",
-    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes.",
-    "url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
-    "published": "2026-11-14T19:25:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 669,
-      "forks": 12,
-      "language": "Rust",
       "createdDaysAgo": 0
     }
   }
