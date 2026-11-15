@@ -431,6 +431,16 @@
   },
   {
     "source": "TechCrunch",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "published": "Sun, 15 Nov 2026 20:20:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-15"
+  },
+  {
+    "source": "TechCrunch",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -465,16 +475,6 @@
     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "published": "Fri, 13 Nov 2026 19:37:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "published": "Fri, 13 Nov 2026 12:52:19 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-15"
@@ -641,210 +641,20 @@
   },
   {
     "source": "The Verge",
-    "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-    "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
-    "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-    "published": "2026-11-14T16:44:44-05:00",
+    "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]",
+    "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "published": "2026-11-15T16:05:02-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-15"
   },
   {
     "source": "The Verge",
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
-    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-    "published": "2026-11-14T07:00:00-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Robot startup cant pay staff after founder takes $4.6M from company to buy home",
-    "summary": "Article URL: https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html Comments URL: https://news.ycombinator.com/item?id=50498135 Points: 16 # Comments: 3",
-    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-    "published": "Sat, 14 Nov 2026 16:08:58 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Why Every Startup Needs an Origin Myth",
-    "summary": "Article URL: https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin Comments URL: https://news.ycombinator.com/item?id=50497012 Points: 11 # Comments: 0",
-    "url": "https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin",
-    "published": "Sat, 14 Nov 2026 13:48:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "I received a job offer, and they hid a way to launch malicious code",
-    "summary": "Article URL: https://www.reddit.com/r/programming/comments/1xvwjeh/how_i_received_a_job_offer_and_they_hid_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50495479 Points: 1 # Comments: 1",
-    "url": "https://www.reddit.com/r/programming/comments/1xvwjeh/how_i_received_a_job_offer_and_they_hid_a_way_to/",
-    "published": "Sat, 14 Nov 2026 09:29:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: OpenAI Astra post-launch slump?",
-    "summary": "Anyone frustrated with GPT-6 Astra lately? The quality swings wildly from session to session. It feels like the backend is silently redirecting to Luna or other models. I wasn't aware OpenAI did this, but now it makes so much sense because some of the answers and performance read very much like a different model. Lately it misses obvious details in the code, only to say \"oh yeah, I should have mentioned that!\" I explicitly tell it to look at the code in the context, then I start to realize it's ",
-    "url": "https://news.ycombinator.com/item?id=50493498",
-    "published": "Sat, 14 Nov 2026 03:27:09 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1075 # Comments: 638",
-    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "published": "Sat, 14 Nov 2026 02:52:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Building a list of places to launch your app",
-    "summary": "It's manually reviewed (with AI help ofc) and I'll keep it up to date. Feel free to add your suggestions. Comments URL: https://news.ycombinator.com/item?id=50492076 Points: 2 # Comments: 0",
-    "url": "https://another.directory/where-to-launch",
-    "published": "Sat, 14 Nov 2026 00:18:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Starship Launch 15 Live",
-    "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka Comments URL: https://news.ycombinator.com/item?id=50490811 Points: 19 # Comments: 2",
-    "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-    "published": "Fri, 13 Nov 2026 22:18:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "California startup aims to turn cow manure into sustainable jet fuel",
-    "summary": "Article URL: https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel Comments URL: https://news.ycombinator.com/item?id=50490340 Points: 2 # Comments: 1",
-    "url": "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel",
-    "published": "Fri, 13 Nov 2026 21:47:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Jensen Huang's Resignation from Nvidia Worries the A.I. Startup World",
-    "summary": "Article URL: https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html Comments URL: https://news.ycombinator.com/item?id=50487611 Points: 3 # Comments: 0",
-    "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
-    "published": "Fri, 13 Nov 2026 18:24:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Newly Startup – Discover emerging startups, SaaS and AI tools",
-    "summary": "Article URL: https://newlystartup.com/ Comments URL: https://news.ycombinator.com/item?id=50487027 Points: 1 # Comments: 0",
-    "url": "https://newlystartup.com/",
-    "published": "Fri, 13 Nov 2026 17:45:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Altar: Open-source launch command center for indie devs",
-    "summary": "Article URL: https://github.com/iampal/altar Comments URL: https://news.ycombinator.com/item?id=50486200 Points: 1 # Comments: 0",
-    "url": "https://github.com/iampal/altar",
-    "published": "Fri, 13 Nov 2026 16:52:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "India's funding market runs on $3M cheques",
-    "summary": "Article URL: https://justraised.io/blog/india-runs-on-3-million-cheques Comments URL: https://news.ycombinator.com/item?id=50483153 Points: 2 # Comments: 0",
-    "url": "https://justraised.io/blog/india-runs-on-3-million-cheques",
-    "published": "Fri, 13 Nov 2026 13:23:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Build Your Career Through Startup Networking",
-    "summary": "Article URL: https://lobox.com Comments URL: https://news.ycombinator.com/item?id=50481205 Points: 1 # Comments: 0",
-    "url": "https://lobox.com",
-    "published": "Fri, 13 Nov 2026 10:19:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The State of Startup Hiring 2026",
-    "summary": "Article URL: https://www.jackandjill.ai/jill/state-of-hiring Comments URL: https://news.ycombinator.com/item?id=50477041 Points: 2 # Comments: 0",
-    "url": "https://www.jackandjill.ai/jill/state-of-hiring",
-    "published": "Fri, 13 Nov 2026 01:46:03 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Bill Gross is giving away 300k climate tech startup ideas – for free",
-    "summary": "Article URL: https://impactloop.com/article/serial-entrepreneur-bill-gross-is-giving-away-300-000-climate-tech-startup-ideas-for-free Comments URL: https://news.ycombinator.com/item?id=50477039 Points: 2 # Comments: 3",
-    "url": "https://impactloop.com/article/serial-entrepreneur-bill-gross-is-giving-away-300-000-climate-tech-startup-ideas-for-free",
-    "published": "Fri, 13 Nov 2026 01:45:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: BitPlay Launch",
-    "summary": "You can share this with others, too! Comments URL: https://news.ycombinator.com/item?id=50475921 Points: 1 # Comments: 0",
-    "url": "https://bitframe.pages.dev/bitplay/",
-    "published": "Thu, 12 Nov 2026 23:29:22 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "summary": "Article URL: https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare Comments URL: https://news.ycombinator.com/item?id=50465984 Points: 1 # Comments: 0",
-    "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
-    "published": "Thu, 12 Nov 2026 12:06:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A fake startup made a launch film about the Nvidia board meeting",
-    "summary": "Article URL: https://horny.ceo/ Comments URL: https://news.ycombinator.com/item?id=50465665 Points: 1 # Comments: 0",
-    "url": "https://horny.ceo/",
-    "published": "Thu, 12 Nov 2026 11:21:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-15"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Employees taking 32% more leave for GTA 6 launch day",
-    "summary": "Article URL: https://remote.com/gta Comments URL: https://news.ycombinator.com/item?id=50464720 Points: 2 # Comments: 0",
-    "url": "https://remote.com/gta",
-    "published": "Thu, 12 Nov 2026 08:58:12 +0000",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "published": "2026-11-15T15:43:49-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-15"
@@ -859,7 +669,7 @@
     "type": "community",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "replies": 24,
+      "replies": 36,
       "node": "职场话题"
     }
   },
@@ -873,26 +683,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 7664,
-      "forks": 2655,
+      "stars": 7732,
+      "forks": 2661,
       "language": "Swift",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Kianuni/Erosion-CN",
-    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "url": "https://github.com/Kianuni/Erosion-CN",
-    "published": "2026-11-10T02:37:31Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 2101,
-      "forks": 426,
-      "language": "Swift",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -905,8 +699,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 2000,
-      "forks": 337,
+      "stars": 2912,
+      "forks": 564,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -921,10 +715,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1928,
-      "forks": 30,
+      "stars": 2192,
+      "forks": 39,
       "language": "C++",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Kianuni/Erosion-CN",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "url": "https://github.com/Kianuni/Erosion-CN",
+    "published": "2026-11-10T02:37:31Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 2126,
+      "forks": 430,
+      "language": "Swift",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -937,10 +747,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1554,
-      "forks": 88,
+      "stars": 1636,
+      "forks": 93,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -953,8 +763,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1525,
-      "forks": 104,
+      "stars": 1554,
+      "forks": 108,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -969,8 +779,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1452,
-      "forks": 255,
+      "stars": 1502,
+      "forks": 268,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -985,25 +795,9 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1216,
-      "forks": 61,
+      "stars": 1257,
+      "forks": 65,
       "language": "Go",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "adriadam10/mkw-recomp",
-    "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-    "url": "https://github.com/adriadam10/mkw-recomp",
-    "published": "2026-11-09T15:40:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 1054,
-      "forks": 60,
-      "language": "C",
       "createdDaysAgo": 5
     }
   },
@@ -1017,10 +811,90 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 1053,
-      "forks": 1,
+      "stars": 1228,
+      "forks": 2,
       "language": "Visual Basic .NET",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "adriadam10/mkw-recomp",
+    "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+    "url": "https://github.com/adriadam10/mkw-recomp",
+    "published": "2026-11-09T15:40:06Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 1218,
+      "forks": 74,
+      "language": "C",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Noniv/abyssal-garden",
+    "summary": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+    "url": "https://github.com/Noniv/abyssal-garden",
+    "published": "2026-11-12T13:57:34Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 1046,
+      "forks": 154,
+      "language": "JavaScript",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "duwqijlk/muse-protocol",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "published": "2026-11-14T01:24:58Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 995,
+      "forks": 443,
+      "language": "Python",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "hitkeeen/blender-ai-mcp-addon",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "published": "2026-11-12T14:32:15Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 984,
+      "forks": 27,
+      "language": null,
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Eynnzerr/TelemetryCleaner",
+    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+    "published": "2026-11-11T06:25:10Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-15",
+    "meta": {
+      "stars": 978,
+      "forks": 86,
+      "language": "Kotlin",
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1033,10 +907,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 883,
-      "forks": 66,
+      "stars": 922,
+      "forks": 75,
       "language": "Objective-C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1049,10 +923,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 850,
-      "forks": 89,
+      "stars": 887,
+      "forks": 94,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -1065,8 +939,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 823,
-      "forks": 65,
+      "stars": 846,
+      "forks": 66,
       "language": "PHP",
       "createdDaysAgo": 6
     }
@@ -1081,42 +955,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 801,
-      "forks": 125,
+      "stars": 828,
+      "forks": 129,
       "language": "TypeScript",
       "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Eynnzerr/TelemetryCleaner",
-    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-    "published": "2026-11-11T06:25:10Z",
+    "title": "ZiChuanLan/freebie-radar",
+    "summary": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+    "url": "https://github.com/ZiChuanLan/freebie-radar",
+    "published": "2026-11-12T09:08:11Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 801,
-      "forks": 72,
-      "language": "Kotlin",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "duwqijlk/muse-protocol",
-    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "url": "https://github.com/duwqijlk/muse-protocol",
-    "published": "2026-11-14T01:24:58Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 730,
-      "forks": 342,
-      "language": "Python",
-      "createdDaysAgo": 1
+      "stars": 792,
+      "forks": 129,
+      "language": "TypeScript",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1129,58 +987,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-15",
     "meta": {
-      "stars": 704,
-      "forks": 56,
+      "stars": 732,
+      "forks": 57,
       "language": "TypeScript",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Topkiflare74/ai--manus2.0",
-    "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "url": "https://github.com/Topkiflare74/ai--manus2.0",
-    "published": "2026-11-14T19:15:24Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 678,
-      "forks": 5,
-      "language": null,
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "WarriorRemember/IPTV_Player_2.0",
-    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes.",
-    "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
-    "published": "2026-11-14T19:25:25Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 673,
-      "forks": 12,
-      "language": "Rust",
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "trackboatwrightplan/GitHub-Copilot-app",
-    "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
-    "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
-    "published": "2026-11-14T19:16:41Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-15",
-    "meta": {
-      "stars": 672,
-      "forks": 12,
-      "language": null,
-      "createdDaysAgo": 0
+      "createdDaysAgo": 2
     }
   }
 ]
