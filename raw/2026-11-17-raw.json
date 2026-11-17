@@ -1,6 +1,16 @@
 [
   {
     "source": "创业邦",
+    "title": "上海金浦工融未来智造私募投资基金登记成立 出资额5亿",
+    "summary": "天眼查App显示，近日，上海金浦工融未来智造私募投资基金合伙企业（有限合伙）成立，执行事务合伙人为工银资本管理有限公司、上海骐瑾企业管理合伙企业（有限合伙），出资额5亿元人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由上海国际集团资产管理有限公司、工银金融资产投资有限公司、工银资本管理有限公司、上海商盎智能科技有限公司、上海橙游信息科技有限公司、上海崧泽私募投资基金合伙企业（有限合伙）、上海骐瑾企业管理合伙企业（有限合伙）共同出资。",
+    "url": "https://www.cyzone.cn/article/854205.html",
+    "published": "Tue, 17 Nov 2026 03:59:55 GMT",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "创业邦",
     "title": "腾讯等入股沛塬电子",
     "summary": "天眼查App显示，近日，上海沛塬电子有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、社保基金中关村自主创新投资基金（北京）合伙企业（有限合伙）等为股东，同时，注册资本由约884万元人民币增至约1072万元人民币。 该公司成立于2021年12月，法定代表人为曾剑鸿，经营范围包括集成电路设计、集成电路芯片设计及服务、电子专用材料研发等，现由上海萍末企业管理合伙企业（有限合伙）、上海晓本企业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
     "url": "https://www.cyzone.cn/article/853464.html",
@@ -91,30 +101,50 @@
   },
   {
     "source": "钛媒体",
-    "title": "没有什么宁王了",
-    "summary": "宁德时代凭借优质电池赢得行业地位，但新能源汽车市场利润下滑，车企利润微薄，宁德时代仍保持强大。",
-    "url": "https://www.tmtpost.com/8207837.html",
-    "published": "Tue, 17 Nov 2026 09:33:36 +0800",
+    "title": "DeepSeek限额，C端付费的前奏？",
+    "summary": "DeepSeek的AGI之路",
+    "url": "https://www.tmtpost.com/8207729.html",
+    "published": "Tue, 17 Nov 2026 17:21:49 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月17日）",
-    "summary": "英伟达领导层变动、Anthropic拟上市与财报窗口，使AI交易从增长叙事转向现金流、资本效率和治理连续性验证；美国将先进芯片出口管制延伸至远程算力与最终用户审查。OpenAI在儿童安全、媒体分发与健康研究上推进基础设施化，同时因自主智能体安全遭加州起诉。Claude Fable 5.2展现过程智能，谷歌Gemini4Carbon接入腾讯WorkBuddy，国产算力与开放模型战略迎来重估窗口。",
-    "url": "https://www.tmtpost.com/8207785.html",
-    "published": "Tue, 17 Nov 2026 08:55:53 +0800",
+    "source": "极客公园",
+    "title": "最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？",
+    "summary": "开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。 作者｜Li Yuan 编辑｜ 郑玄 最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。 他们没有大量补数据，而是让 DeepSeek 先理解任务，再用视觉分割模型标出目标物体，最后交给 LingBot-VLA 2.0 完成动作，并在真机评测中拿到 65.87 分。 通用大模型与具身模型的协同在这里变得很具体：DeepSeek 负责弄清楚要做什么，具身基础模型帮机器人找准操作对象、做出动作。 11 月 16 日，首届蚂蚁灵波具身大模型挑战赛在上海张江收官。经过线上初赛，15 支战队进入为期 48 小时的线下总决赛。所有队伍使用同一款开源模型 LingBot-VLA 2.0、同一款松灵 COBOT MAGIC 机器人和统一的现场算力，完成蔬果摆放、化妆品收纳和双臂清扫三项任务。 起点相同，解法不限：有人重采数据，有人调整模型的训练和推理方式，也有人接入通用大模型、视觉分割或仿真工具。48 小时里，15 支队伍要回答的是同一个问题：面对真实桌面上的物体，怎样让已有的",
+    "url": "http://www.geekpark.net/news/374103",
+    "published": "Tue, 17 Nov 2026 19:18:55 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
-    "source": "钛媒体",
-    "title": "移芯通信：营收稳步增长却盈亏反复，Cat.1bis芯片售价近乎腰斩",
-    "summary": "营收增长背后，移芯通信盈利稳定性较差，三年半仅2024年实现盈利，其余时段持续亏损，累计亏损2.01亿元。",
-    "url": "https://www.tmtpost.com/8200859.html",
-    "published": "Mon, 16 Nov 2026 20:01:42 +0800",
+    "source": "极客公园",
+    "title": "AI，没有抛弃小城商家",
+    "summary": "作者｜李苏 编辑｜郑玄 理解本地商业，是 AI 走出实验室后的新课程。 过去几年，AI 界擅长讲的故事变了。 从最开始谈技术，讲参数有多大，算得有多快，跑分超过多少人，慢慢转变为讲落地，讲 AI 怎么一分钟生成商业计划书，怎么给被生活困扰的人们出情绪价值满满的建议。 走出实验室，AI 下一站在哪里？这背后，是一段讲了一半的「AI 平权」故事。前面讲的这一半，是消费者：普通人用 AI 获取信息、写方案、做攻略。还有没讲完的一半，在经营者那里——对小店老板来说，AI 平不平权，从来不是能不能跟它聊天，而是它能不能帮自己管钱、管货、管客流。 OpenAI 11 月上线测试功能「Businesses in ChatGPT」，让商家认领资料、维护信息，看到用户如何在 ChatGPT 里与自己互动。功能不大，信号很清楚：巨头们开始给「商家」留位置了。 这件事，国内的生意其实已经先跑起来了。美团数据显示，近一个月，三线及以下城市使用美团 AI 助手的商家数量环比增长超 200%，主动发起的对话量增长约 3 倍。 ToB 端的 AI 落地，一条路向上进写字楼，服务白领办公；另一条向里走进街头巷尾，服务",
+    "url": "http://www.geekpark.net/news/374101",
+    "published": "Tue, 17 Nov 2026 17:58:33 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "极客公园",
+    "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
+    "summary": "作者｜Cynthia 编辑｜郑玄 过日子的风，还是吹到了大模型行业。 2026 年之前，一款模型能不能刷屏，往往取决于它又做到了什么。GPT-4o 的实时语音交互、Claude 的编程能力、DeepSeek R1 的推理表现，一度轮番成为讨论焦点。一款新模型发布，大家首先关心的是它超过了谁，又做到了什么过去做不到的事。 但到了 2026 年，Agent 真正流行起来之后，风向开始变了。SOTA 模型的领先能力开始以季度为单位被轮番刷新，变得不再新鲜。而模型能力能不能用得起、等得起，成为了新的议题。 毕竟，让模型回答一个问题，和让 Agent 接手一项工作，对应的资源消耗模式完全不同。在 Agent 场景中，一次指令背后，可能是几十轮模型调用。读材料、查代码、调用工具、处理报错，每一步都会增加大量上下文和调用次数。OpenRouter 披露，今年 2 月 6 日，平台上 Agent 的 Token 用量首次超过人类直接调用；到 9 月底，已经约为后者的七倍。 具体到任务，今年 4 月，密歇根大学与斯坦福大学一项覆盖 8 款模型、500 个真实代码问题的研究发现， 在其测试中，Agent ",
+    "url": "http://www.geekpark.net/news/374083",
+    "published": "Tue, 17 Nov 2026 15:12:48 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "极客公园",
+    "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
+    "summary": "作者｜桦林舞王 编辑｜靖宇 底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。 终于，一款国产旗舰模型现身了。 11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview 刚在 Token Plan 里低调露过面，今天正式版直接亮出了完整底牌。 新模型依然维持着 2.4 万亿（2.4T）的主干总参数规模，原生支持文本、图像和视频输入，上下文窗口拉到了 100 万 Token。不过比参数表更显眼的，是官方同时给出的一笔账单：在模拟真实工作场景的评测里，千问 4 Max 跑完单个任务的平均费用， 从上一代的 26.58 元降到了 11.16 元，直接砍掉 58% 。 千问团队这次释放的信号很明确，旗舰大模型单纯拼纸面考分的阶段翻篇了，现在的目标是把模型塞进真实工作流，当一个能扛长活、也算得过账的「新同事」。 01 给 2.4 万亿参数的巨兽「减负」 过去一年，行业里没少见识号称百万上下文的模型。但真把几十万字的项目文档或者一整个代码库丢进去，很多模型到了后半程就开始注意力涣散、输出卡顿，账单还贵得吓人",
+    "url": "http://www.geekpark.net/news/374079",
+    "published": "Tue, 17 Nov 2026 14:41:48 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-17"
@@ -330,56 +360,6 @@
     "fetchedAt": "2026-11-17"
   },
   {
-    "source": "极客公园",
-    "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
-    "summary": "作者｜Wildcard 编辑｜靖宇 11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（简称 TML）同一天出了两条新闻。 当天，公司发布了第二代模型 Inkling 2 Small，第三方评测机构 Artificial Analysis（AA）给的评价相当高：权重放出后，它将成为「 中国以外得分最高的开放权重模型 」。同一天，据报道，这家公司正以 400 亿美元的投前估值筹集 50 亿美元新融资。 TML 在 2025 年 2 月对外亮相，至今一年半多。这期间，他们拿过 a16z 领投的 20 亿美元种子轮，也经历了联合创始人 Andrew Tulloch 转投 Meta，以及联合创始人 Barret Zoph、Luke Metz 等人今年 1 月回归 OpenAI 的动荡，之后由 PyTorch 联合创始人 Soumith Chintala 接任 CTO。 今年 1 月还有报道称， 团队 以约 500 亿美元估值融资的谈判陷入停滞 。新一轮融资能不能谈成，很大程度上要看二代模型的成色。 翻开 Inkling 2 S",
-    "url": "http://www.geekpark.net/news/373637",
-    "published": "Fri, 06 Nov 2026 20:13:06 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "极客公园",
-    "title": "AI 时代没有标准答案的问题，我们面对面聊",
-    "summary": "我们刚刚官宣了极客公园创新大会 2027 的首批嘉宾。 今天，再来揭晓「小场深谈」的最新进展。 10 月底，我们在「小场深谈」的预热文章里做了一次调研，请大家投票选出最想聊的话题。最终，我们选定了最受关注的五组主题，设下了五场专场，每一场都从大家最想聊的那个问题开始。 这五场专场，恰好瞄向当下行业最受关注、也最要紧的议题上：Personal AI 怎么接管日常、AI 创作怎么重写内容、具身智能怎么走进现实、硬件与制造怎么长出「新图纸」、AI 落地怎么用结果说话。 每一场，三组话题，深谈 + 现场问答，80 分钟左右。场子都不大，百余人左右。 IF 2026「小场深谈」现场 还记得去年的「小场深谈」，有人刚从大厂跳槽、正用 AI 做自己的第一款产品，当场把困惑摊给嘉宾；有精神科医生，追问做陪伴机器人的创业者：你希望它把人带回现实交往，还是给这个家添一个新成员？——现场的发问，往往带着一个人具体的处境，比文字更触动人心。 今年五场「小场深谈」的主题与要讨论的核心议题已经基本确认： Day1 Personal AI 是如今最热门的创投叙事，每个人都有不同的理解。但能真正谈论这个话题的创业者并",
-    "url": "http://www.geekpark.net/news/373636",
-    "published": "Fri, 06 Nov 2026 20:09:13 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "极客公园",
-    "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
-    "summary": "芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日 据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。 当地时间周四，美国科技股遭遇大规模抛售， 华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元） 。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 10 月初创下的历史高点累计下跌近 12%，进入技术性回调区间。 此次抛售席卷整个 AI 产业链。费城半导体指数暴跌约 12.3%，英伟达下跌约 9.3%，基本抹去 2026 年以来的累计涨幅；闪迪（SanDisk）暴跌约 22%，美光科技、西部数据和 AMD 跌幅均在 17% 左右。此前受到资金追捧的 AI 芯片、存储及数据中心相关股票成为重灾区。 这轮抛售与美国中期选举结果密切相关。民主党赢得国会控制权，并在多个关键州取得胜利，使投资者担心美国未来可能对 AI 基础设施建设实施更严格的监管。 随着 AI 数据中心规模不断扩大，其庞大的电力和水资源需求正引发越来越多当地居民的反对。部分社区担心，新建数据中心",
-    "url": "http://www.geekpark.net/news/373554",
-    "published": "Fri, 06 Nov 2026 09:01:57 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "极客公园",
-    "title": "极客公园创新大会 2027 首批嘉宾揭晓！",
-    "summary": "今年 12 月 5 日—6 日，北京 798艺术区，还是老地方。 极客公园创新大会（GEEKPARK IF），我们又要见面了。 IF 将进入第 17 年。它像一本记录中国科技行业的「年鉴」，一场科技爱好者的年终盛宴，一次号召创新者聚集、留下历史回音的年度认知集结。 今年，我们的主题是： Revaluation 价值，另有答案 我们要探讨的不再是 AI 可以有多厉害，而是更落地的一面—— 工作、创作、生意，你原本笃定的经验，正在一件件被 AI 重新算账。你以为已经看懂的赛道，换个角度，结论可能完全不一样。 哪些老优势正在缩水？哪些被低估的人和机会，正在悄悄长出新的价值？ Revaluation 价值，另有答案 每年办会，最让人期待的，就是把那些跑在最前面的「Outlier」和积极行动者们拉到一块儿。一群从全国各地飞来的人，思想和实践在同一片空间流动，碰撞、激发。 今年，他们也将如期而至。 主舞台之外，我们还在 751图书馆、艺文空间和极客公园，准备了五场小场深谈。 没有大礼堂，没有台上台下的距离感。做研究的人、造产品的人、在一线踩过坑的人，坐下来，把那些真正难、真正关键的问题聊透。 Pe",
-    "url": "http://www.geekpark.net/news/373553",
-    "published": "Thu, 05 Nov 2026 21:15:49 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "极客公园",
-    "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
-    "summary": "作者｜Cynthia 编辑｜郑玄 2026 年 11 月，每年乌镇世界互联网大会期间举办的领先科技奖，已经走到第十年。 作为面向全球征集互联网领域领先成果的国际性科技奖项，领先科技奖每年会选出涵盖基础研究、关键技术与工程研发约 15 至 20 项获奖项目。一定程度上，它的评选也预示了未来几年潮水的走向。 这一年，传统互联网的光环逐渐退去，AI 成了最大的关键词。其中，仅工程研发组的 8 项获奖成果，从 AMD 的 AI 处理器，到蚂蚁的大模型健康服务平台，再到地平线的整车智能体……就有至少 5 项与 AI 有关。 而在通用 Agent 这一领域， 阿里旗下智能体平台 Qoder，成为了国内唯一获此殊荣的通用 Agent 产品。 至此，在领先科技奖诞生的第 10 个年头，命运形成了一个有趣的回环。 那时的领先科技奖，名字还叫世界互联网领先科技成果发布活动。而那一年在首届活动中，与特斯拉自动辅助驾驶、微软 HoloLens、「神威·太湖之光」超级计算机并列入选的，正式阿里云飞天开放平台为基础的大规模分布式交易处理平台。 那时的飞天，立项已经超过 7 年，逐渐从承托阿里庞大业务的基础设施，转",
-    "url": "http://www.geekpark.net/news/373542",
-    "published": "Thu, 05 Nov 2026 17:19:17 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
     "source": "爱范儿",
     "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
     "summary": "一人犯错，全员受罚。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -475,6 +455,26 @@
     "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
     "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
     "published": "Mon, 16 Nov 2026 16:06:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei reveals the design of its first OSTA phone ahead of November 20 launch",
+    "summary": "Huawei’s new smartphone brand OSTA on Tuesday revealed the design of its first phone, the O1 Pro, ahead of its November 20 launch. The phone has an unusually wide body and a purple gradient finish, with a horizontal pill-shaped rear camera module. OSTA is positioning the O1 Pro as an AI phone running HarmonyOS. The […]",
+    "url": "https://technode.com/2026/11/17/huawei-reveals-the-design-of-its-first-osta-phone-ahead-of-november-20-launch/",
+    "published": "Tue, 17 Nov 2026 06:28:53 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "TechNode",
+    "title": "Former Meituan and Feishu executives reportedly team up to build an AI recording ring",
+    "summary": "Liu Yanxiang, who previously ran Meituan’s ticketing, vacation and transportation business, has left the company and teamed up with a former Feishu executive who led international operations to start Beijing-based Huling Technology, Sina Tech reported Tuesday. The startup has reportedly raised a seed round in the tens of millions of yuan and is preparing to […]",
+    "url": "https://technode.com/2026/11/17/former-meituan-and-feishu-executives-reportedly-team-up-to-build-an-ai-recording-ring/",
+    "published": "Tue, 17 Nov 2026 06:28:31 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
@@ -580,56 +580,6 @@
     "fetchedAt": "2026-11-17"
   },
   {
-    "source": "TechNode",
-    "title": "Apple’s China AI partner has had a rough ride",
-    "summary": "Editor’s note: On Nov. 4, Apple Intelligence began beta testing in China, with Alibaba’s Qwen available in selected Siri, Writing Tools and Visual Intelligence experiences. The partnership crowns an unusually fast ascent for a model family launched in 2023. Hugging Face counted more than 2 billion Qwen downloads on its own Hub in the first […]",
-    "url": "https://technode.com/2026/11/06/apples-china-ai-partner-has-had-a-rough-ride/",
-    "published": "Fri, 06 Nov 2026 08:19:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "TechNode",
-    "title": "Updated Xiaomi SU7 Ultra spotted testing at Nürburgring",
-    "summary": "An updated Xiaomi SU7 Ultra has been spotted testing at Germany’s Nürburgring. Automotive video creator Misha filmed the car during a track session, according to MyDrivers’ November 4 report. Images show the car retaining its distinctive yellow paintwork and featuring a large rear wing. The updated model is reportedly due to launch in 2027. [MyDrivers, […]",
-    "url": "https://technode.com/2026/11/06/updated-xiaomi-su7-ultra-spotted-testing-at-nurburgring/",
-    "published": "Fri, 06 Nov 2026 07:48:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "TechNode",
-    "title": "Ant launches Ling-3.2-flash multimodal model with million-token context",
-    "summary": "Ant Group released Ling-3.2-flash on November 5, adding a native multimodal model that accepts text, images, and video. The model has 560 billion total parameters, activates 25 billion per inference step, and supports a one-million-token context window. Ant says the model focuses on complex visual understanding, multistep agent tasks, 3D understanding and interaction, and medical […]",
-    "url": "https://technode.com/2026/11/06/ant-launches-ling-3-2-flash-multimodal-model-with-million-token-context/",
-    "published": "Fri, 06 Nov 2026 07:47:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "TechNode",
-    "title": "Sand.ai raises $200 million ahead of MAGI-2 video model release",
-    "summary": "Chinese video-generation company Sand.ai announced a $200 million Series A+ funding round on November 5. The company said the investment gave it unicorn status and brought its fundraising this year to $300 million across three rounds. Cornerstone Capital and Wangsu Science & Technology jointly led the round. Sand.ai will use the proceeds for video-model research, […]",
-    "url": "https://technode.com/2026/11/06/sand-ai-raises-200-million-ahead-of-magi-2-video-model-release/",
-    "published": "Fri, 06 Nov 2026 07:47:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei launches first HarmonyOS desktop with Kirin X90 processor",
-    "summary": "Huawei unveiled its first HarmonyOS desktop, the Qingyun HM650 series, at its enterprise computing summit on November 5. The computers run HarmonyOS and use Huawei’s Kirin X90 processor. Huawei said the machines’ components achieved 100% domestic sourcing. It also announced that cumulative HarmonyOS computer shipments had surpassed one million units, with more than 21,000 compatible […]",
-    "url": "https://technode.com/2026/11/06/huawei-launches-first-harmonyos-desktop-with-kirin-x90-processor/",
-    "published": "Fri, 06 Nov 2026 07:46:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
     "source": "The Verge",
     "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
     "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade […]",
@@ -651,8 +601,18 @@
   },
   {
     "source": "Hacker News",
+    "title": "OVH releases first model with EU public funding and supercomputer access",
+    "summary": "Article URL: https://twitter.com/olesovhcom/status/2122573582911869173 Comments URL: https://news.ycombinator.com/item?id=50528263 Points: 14 # Comments: 0",
+    "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
+    "published": "Tue, 17 Nov 2026 06:50:29 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
     "title": "The Public Launch of SolveIt",
-    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50527381 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50527381 Points: 2 # Comments: 0",
     "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
     "published": "Tue, 17 Nov 2026 04:18:45 +0000",
     "lang": "en",
@@ -782,7 +742,7 @@
   {
     "source": "Hacker News",
     "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 169 # Comments: 127",
+    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 171 # Comments: 129",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
     "published": "Sun, 15 Nov 2026 20:37:28 +0000",
     "lang": "en",
@@ -831,16 +791,16 @@
   },
   {
     "source": "微博",
-    "title": "#美国发布AI芯片远程访问新规#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23美国发布AI芯片远程访问新规%23",
+    "title": "#雷军说具身智能机器人是巨大机会#",
+    "summary": "新",
+    "url": "https://s.weibo.com/weibo?q=%23雷军说具身智能机器人是巨大机会%23",
     "published": "2026-11-17",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "hotValue": 326072,
-      "rank": 19
+      "hotValue": 263329,
+      "rank": 32
     }
   },
   {
@@ -853,10 +813,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 4194,
-      "forks": 890,
+      "stars": 4374,
+      "forks": 940,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -869,10 +829,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 2492,
-      "forks": 53,
+      "stars": 2531,
+      "forks": 54,
       "language": "C++",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -885,8 +845,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 2271,
-      "forks": 56,
+      "stars": 2380,
+      "forks": 59,
       "language": null,
       "createdDaysAgo": 4
     }
@@ -901,8 +861,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1789,
-      "forks": 271,
+      "stars": 1944,
+      "forks": 295,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -917,8 +877,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1488,
-      "forks": 585,
+      "stars": 1545,
+      "forks": 614,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -933,10 +893,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1357,
-      "forks": 114,
+      "stars": 1408,
+      "forks": 119,
       "language": "Kotlin",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -949,10 +909,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1195,
-      "forks": 208,
+      "stars": 1332,
+      "forks": 233,
       "language": "TypeScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Immortal-Protocols/lastbook",
+    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "url": "https://github.com/Immortal-Protocols/lastbook",
+    "published": "2026-11-12T23:49:03Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-17",
+    "meta": {
+      "stars": 1095,
+      "forks": 132,
+      "language": "Python",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "published": "2026-11-16T19:28:29Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-17",
+    "meta": {
+      "stars": 987,
+      "forks": 84,
+      "language": "C++",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -965,8 +957,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 784,
-      "forks": 63,
+      "stars": 788,
+      "forks": 64,
       "language": "TypeScript",
       "createdDaysAgo": 3
     }
@@ -981,10 +973,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 743,
-      "forks": 1219,
+      "stars": 746,
+      "forks": 1227,
       "language": "TypeScript",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
@@ -997,10 +989,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 685,
-      "forks": 236,
+      "stars": 741,
+      "forks": 255,
       "language": "Python",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "CzzzzzzJ/mdldm-maitian",
+    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+    "published": "2026-11-14T03:59:22Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-17",
+    "meta": {
+      "stars": 734,
+      "forks": 256,
+      "language": "JavaScript",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1021,22 +1029,6 @@
   },
   {
     "source": "GitHub新星",
-    "title": "rivet-dev/open-orange",
-    "summary": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
-    "url": "https://github.com/rivet-dev/open-orange",
-    "published": "2026-11-12T00:44:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 637,
-      "forks": 24,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
     "title": "n4ze3m/tiny-voca",
     "summary": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
     "url": "https://github.com/n4ze3m/tiny-voca",
@@ -1045,26 +1037,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 631,
-      "forks": 74,
+      "stars": 654,
+      "forks": 78,
       "language": "Python",
       "createdDaysAgo": 2
     }
   },
   {
     "source": "GitHub新星",
-    "title": "Immortal-Protocols/lastbook",
-    "summary": "Offline knowledge library for survival and rebuilding",
-    "url": "https://github.com/Immortal-Protocols/lastbook",
-    "published": "2026-11-12T23:49:03Z",
+    "title": "joshpuckett/allo",
+    "summary": "Allo is your friendly neighborhood typeface, free and open source",
+    "url": "https://github.com/joshpuckett/allo",
+    "published": "2026-11-15T17:33:42Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 629,
-      "forks": 64,
+      "stars": 648,
+      "forks": 13,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "rivet-dev/open-orange",
+    "summary": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+    "url": "https://github.com/rivet-dev/open-orange",
+    "published": "2026-11-12T00:44:12Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-17",
+    "meta": {
+      "stars": 645,
+      "forks": 25,
+      "language": "TypeScript",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1077,8 +1085,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 604,
-      "forks": 50,
+      "stars": 634,
+      "forks": 55,
       "language": "Swift",
       "createdDaysAgo": 2
     }
@@ -1093,58 +1101,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 582,
+      "stars": 587,
       "forks": 31,
       "language": "Rust",
       "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "BigPizzaV3/ClaudeMom",
-    "summary": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
-    "url": "https://github.com/BigPizzaV3/ClaudeMom",
-    "published": "2026-11-12T07:06:59Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 560,
-      "forks": 114,
-      "language": "Rust",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "faizfahmi77/ScanDot",
-    "summary": "Experimental Android 3D scanning and point-cloud viewer",
-    "url": "https://github.com/faizfahmi77/ScanDot",
-    "published": "2026-11-13T04:07:57Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 542,
-      "forks": 5,
-      "language": "Kotlin",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "higurashi-ai/Haru",
-    "summary": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
-    "url": "https://github.com/higurashi-ai/Haru",
-    "published": "2026-11-12T11:15:42Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 530,
-      "forks": 39,
-      "language": "Python",
-      "createdDaysAgo": 4
     }
   },
   {
@@ -1157,7 +1117,7 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 526,
+      "stars": 581,
       "forks": 36,
       "language": "Python",
       "createdDaysAgo": 3
