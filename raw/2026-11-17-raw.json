@@ -100,16 +100,6 @@
     "fetchedAt": "2026-11-17"
   },
   {
-    "source": "钛媒体",
-    "title": "DeepSeek限额，C端付费的前奏？",
-    "summary": "DeepSeek的AGI之路",
-    "url": "https://www.tmtpost.com/8207729.html",
-    "published": "Tue, 17 Nov 2026 17:21:49 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
     "source": "极客公园",
     "title": "最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？",
     "summary": "开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。 作者｜Li Yuan 编辑｜ 郑玄 最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。 他们没有大量补数据，而是让 DeepSeek 先理解任务，再用视觉分割模型标出目标物体，最后交给 LingBot-VLA 2.0 完成动作，并在真机评测中拿到 65.87 分。 通用大模型与具身模型的协同在这里变得很具体：DeepSeek 负责弄清楚要做什么，具身基础模型帮机器人找准操作对象、做出动作。 11 月 16 日，首届蚂蚁灵波具身大模型挑战赛在上海张江收官。经过线上初赛，15 支战队进入为期 48 小时的线下总决赛。所有队伍使用同一款开源模型 LingBot-VLA 2.0、同一款松灵 COBOT MAGIC 机器人和统一的现场算力，完成蔬果摆放、化妆品收纳和双臂清扫三项任务。 起点相同，解法不限：有人重采数据，有人调整模型的训练和推理方式，也有人接入通用大模型、视觉分割或仿真工具。48 小时里，15 支队伍要回答的是同一个问题：面对真实桌面上的物体，怎样让已有的",
@@ -401,60 +391,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "published": "Mon, 16 Nov 2026 23:32:32 +0000",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "published": "Tue, 17 Nov 2026 19:32:11 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-    "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-    "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-    "published": "Mon, 16 Nov 2026 19:26:55 +0000",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "published": "Tue, 17 Nov 2026 17:20:41 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Island is a new screen-time app that turns staying off your phone into a game",
-    "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-    "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-    "published": "Mon, 16 Nov 2026 18:54:18 +0000",
+    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+    "published": "Tue, 17 Nov 2026 16:44:15 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
     "source": "TechCrunch",
-    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "published": "Mon, 16 Nov 2026 17:36:43 +0000",
+    "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
+    "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+    "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+    "published": "Tue, 17 Nov 2026 15:01:46 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
     "source": "TechCrunch",
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-    "published": "Mon, 16 Nov 2026 17:10:00 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-    "summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-    "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-    "published": "Mon, 16 Nov 2026 16:06:30 +0000",
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "published": "Tue, 17 Nov 2026 15:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
@@ -581,20 +561,100 @@
   },
   {
     "source": "The Verge",
-    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-    "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade […]",
-    "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-    "published": "2026-11-16T16:41:57-05:00",
+    "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+    "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos […]",
+    "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+    "published": "2026-11-17T17:38:41-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
   },
   {
     "source": "The Verge",
-    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-    "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]",
-    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-    "published": "2026-11-16T14:50:47-05:00",
+    "title": "Instagram is helping creators crack down on copycat videos",
+    "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and […]",
+    "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+    "published": "2026-11-17T15:46:31-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "In the age of AI, startup speed is not a strategy",
+    "summary": "Article URL: https://www.geekwire.com/2026/etzioni-on-ai-startup-speed-is-not-a-strategy/ Comments URL: https://news.ycombinator.com/item?id=50538310 Points: 3 # Comments: 0",
+    "url": "https://www.geekwire.com/2026/etzioni-on-ai-startup-speed-is-not-a-strategy/",
+    "published": "Tue, 17 Nov 2026 21:16:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How an Italian startup is using smart tractors to fight landslides",
+    "summary": "Article URL: https://www.repubblica.it/en/europe/fashion-design/2026/11/17/news/how_an_italian_start-up_is_using_smart_tractors_to_fight_landslides-425727098/ Comments URL: https://news.ycombinator.com/item?id=50536508 Points: 2 # Comments: 0",
+    "url": "https://www.repubblica.it/en/europe/fashion-design/2026/11/17/news/how_an_italian_start-up_is_using_smart_tractors_to_fight_landslides-425727098/",
+    "published": "Tue, 17 Nov 2026 19:04:32 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an",
+    "url": "https://starsling.dev",
+    "published": "Tue, 17 Nov 2026 19:01:43 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Grand Theft Auto VI heads to launch amid feverish anticipation",
+    "summary": "Article URL: https://www.reuters.com/lifestyle/grand-theft-auto-vi-heads-launch-amid-feverish-anticipation-2026-11-17/ Comments URL: https://news.ycombinator.com/item?id=50534297 Points: 2 # Comments: 0",
+    "url": "https://www.reuters.com/lifestyle/grand-theft-auto-vi-heads-launch-amid-feverish-anticipation-2026-11-17/",
+    "published": "Tue, 17 Nov 2026 16:52:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "An AI startup decided to help GTA 6 gamers before the game is even out",
+    "summary": "Article URL: https://gtacheat.codes/ Comments URL: https://news.ycombinator.com/item?id=50533852 Points: 1 # Comments: 0",
+    "url": "https://gtacheat.codes/",
+    "published": "Tue, 17 Nov 2026 16:30:26 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "DigitalOcean, this is not how you launch an \"Advanced\" Postgres database",
+    "summary": "Article URL: https://smokentar.com/blog/digitalocean-postgres-benchmark/ Comments URL: https://news.ycombinator.com/item?id=50532818 Points: 3 # Comments: 0",
+    "url": "https://smokentar.com/blog/digitalocean-postgres-benchmark/",
+    "published": "Tue, 17 Nov 2026 15:36:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/ Comments URL: https://news.ycombinator.com/item?id=50531958 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "published": "Tue, 17 Nov 2026 14:36:38 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-17"
+  },
+  {
+    "source": "Hacker News",
+    "title": "How Do You Evaluate Candidates When Hiring for a Small Startup?",
+    "summary": "Hiring for a small startup is different from hiring for a large organization. You often don't have a dedicated HR team, and every new hire can directly impact execution. One approach that makes interviews more useful is asking questions around actual work situations rather than relying on generic questions. For example: - Tell me about a time you made a mistake and how you handled it. - How would you approach a problem from our current product or business? - What would you prioritize in your fir",
+    "url": "https://lobox.com/articles/98",
+    "published": "Tue, 17 Nov 2026 12:03:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-17"
@@ -602,7 +662,7 @@
   {
     "source": "Hacker News",
     "title": "OVH releases first model with EU public funding and supercomputer access",
-    "summary": "Article URL: https://twitter.com/olesovhcom/status/2122573582911869173 Comments URL: https://news.ycombinator.com/item?id=50528263 Points: 14 # Comments: 0",
+    "summary": "Article URL: https://twitter.com/olesovhcom/status/2122573582911869173 Comments URL: https://news.ycombinator.com/item?id=50528263 Points: 15 # Comments: 0",
     "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
     "published": "Tue, 17 Nov 2026 06:50:29 +0000",
     "lang": "en",
@@ -612,7 +672,7 @@
   {
     "source": "Hacker News",
     "title": "The Public Launch of SolveIt",
-    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50527381 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50527381 Points: 6 # Comments: 0",
     "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
     "published": "Tue, 17 Nov 2026 04:18:45 +0000",
     "lang": "en",
@@ -622,7 +682,7 @@
   {
     "source": "Hacker News",
     "title": "Habits PhDs Must Unlearn to Build a Startup [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=u-8KpXcPYCw Comments URL: https://news.ycombinator.com/item?id=50526301 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.youtube.com/watch?v=u-8KpXcPYCw Comments URL: https://news.ycombinator.com/item?id=50526301 Points: 3 # Comments: 0",
     "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
     "published": "Tue, 17 Nov 2026 01:39:32 +0000",
     "lang": "en",
@@ -632,7 +692,7 @@
   {
     "source": "Hacker News",
     "title": "Show HN: Fundlark-open source tool help early-career researcher find funding",
-    "summary": "I just finished my PhD and am trying to get some funding to start off. I found that opportunities are scattered and it is a pain to find and validate. Hence,I build Fundlark to make it easier. Comments URL: https://news.ycombinator.com/item?id=50526177 Points: 3 # Comments: 0",
+    "summary": "I just finished my PhD and am trying to get some funding to start off. I found that opportunities are scattered and it is a pain to find and validate. Hence,I build Fundlark to make it easier. Comments URL: https://news.ycombinator.com/item?id=50526177 Points: 4 # Comments: 0",
     "url": "https://github.com/dryang21/Fundlark",
     "published": "Tue, 17 Nov 2026 01:21:51 +0000",
     "lang": "en",
@@ -720,90 +780,6 @@
     "fetchedAt": "2026-11-17"
   },
   {
-    "source": "Hacker News",
-    "title": "Duffy pins ground stop on Congress's lack of funding",
-    "summary": "Article URL: https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/ Comments URL: https://news.ycombinator.com/item?id=50511227 Points: 1 # Comments: 3",
-    "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
-    "published": "Sun, 15 Nov 2026 21:53:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Vulcan launch of Amazon Leo satellites fails",
-    "summary": "Article URL: https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/ Comments URL: https://news.ycombinator.com/item?id=50510490 Points: 4 # Comments: 6",
-    "url": "https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/",
-    "published": "Sun, 15 Nov 2026 20:41:43 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-    "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 171 # Comments: 129",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-    "published": "Sun, 15 Nov 2026 20:37:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "ULA Vulcan suffers anomaly after return-to-flight launch from Cape Canaveral",
-    "summary": "Article URL: https://www.floridatoday.com/story/tech/science/space/2026/11/15/ula-vulcan-rocket-suffers-anomaly-after-return-to-flight-launch-from-cape-canaveral-florida/92797037007/ Comments URL: https://news.ycombinator.com/item?id=50509949 Points: 4 # Comments: 1",
-    "url": "https://www.floridatoday.com/story/tech/science/space/2026/11/15/ula-vulcan-rocket-suffers-anomaly-after-return-to-flight-launch-from-cape-canaveral-florida/92797037007/",
-    "published": "Sun, 15 Nov 2026 19:39:12 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Prediction: In less than 24 hour after launch GTA 6 will run on PC",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=50506375 Points: 3 # Comments: 1",
-    "url": "https://news.ycombinator.com/item?id=50506375",
-    "published": "Sun, 15 Nov 2026 12:14:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Stockholm's Startup Ecosystem",
-    "summary": "Article URL: https://sthlm.world/ Comments URL: https://news.ycombinator.com/item?id=50506341 Points: 2 # Comments: 0",
-    "url": "https://sthlm.world/",
-    "published": "Sun, 15 Nov 2026 12:09:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Jensen Huang's departure blasts big hole in AI startup funding",
-    "summary": "Article URL: https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/ Comments URL: https://news.ycombinator.com/item?id=50498492 Points: 7 # Comments: 0",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "published": "Sat, 14 Nov 2026 16:52:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-17"
-  },
-  {
-    "source": "微博",
-    "title": "#雷军说具身智能机器人是巨大机会#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23雷军说具身智能机器人是巨大机会%23",
-    "published": "2026-11-17",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "hotValue": 263329,
-      "rank": 32
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "deepseek-ai/chat-demo",
     "summary": "Chat Demo",
@@ -813,10 +789,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 4374,
-      "forks": 940,
+      "stars": 4514,
+      "forks": 981,
       "language": "TypeScript",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "published": "2026-11-16T19:28:29Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-17",
+    "meta": {
+      "stars": 2597,
+      "forks": 231,
+      "language": "C++",
+      "createdDaysAgo": 1
     }
   },
   {
@@ -829,26 +821,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 2531,
-      "forks": 54,
+      "stars": 2587,
+      "forks": 55,
       "language": "C++",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "hitkeeen/blender-ai-mcp-addon",
-    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-    "published": "2026-11-12T14:32:15Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 2380,
-      "forks": 59,
-      "language": null,
-      "createdDaysAgo": 4
     }
   },
   {
@@ -861,9 +837,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1944,
-      "forks": 295,
+      "stars": 2144,
+      "forks": 322,
       "language": "JavaScript",
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Immortal-Protocols/lastbook",
+    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "url": "https://github.com/Immortal-Protocols/lastbook",
+    "published": "2026-11-12T23:49:03Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-17",
+    "meta": {
+      "stars": 1730,
+      "forks": 219,
+      "language": "Python",
       "createdDaysAgo": 4
     }
   },
@@ -877,8 +869,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1545,
-      "forks": 614,
+      "stars": 1580,
+      "forks": 623,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -893,234 +885,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-17",
     "meta": {
-      "stars": 1408,
-      "forks": 119,
+      "stars": 1470,
+      "forks": 123,
       "language": "Kotlin",
       "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "ZiChuanLan/freebie-radar",
-    "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
-    "url": "https://github.com/ZiChuanLan/freebie-radar",
-    "published": "2026-11-12T09:08:11Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 1332,
-      "forks": 233,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Immortal-Protocols/lastbook",
-    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
-    "url": "https://github.com/Immortal-Protocols/lastbook",
-    "published": "2026-11-12T23:49:03Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 1095,
-      "forks": 132,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-    "published": "2026-11-16T19:28:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 987,
-      "forks": 84,
-      "language": "C++",
-      "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "opencoredev/islandcn",
-    "summary": "The open-source Dynamic Island for React, installed with shadcn.",
-    "url": "https://github.com/opencoredev/islandcn",
-    "published": "2026-11-13T11:50:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 788,
-      "forks": 64,
-      "language": "TypeScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "AIRzZ90/study-materials-fork",
-    "summary": "A cross-platform Tauri 2 interface and interaction practice project",
-    "url": "https://github.com/AIRzZ90/study-materials-fork",
-    "published": "2026-11-12T10:52:32Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 746,
-      "forks": 1227,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "haziqahmedqasmi/PeakCut",
-    "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-    "url": "https://github.com/haziqahmedqasmi/PeakCut",
-    "published": "2026-11-14T07:38:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 741,
-      "forks": 255,
-      "language": "Python",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "CzzzzzzJ/mdldm-maitian",
-    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-    "published": "2026-11-14T03:59:22Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 734,
-      "forks": 256,
-      "language": "JavaScript",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "linknimiball1974/ai-texture-forge",
-    "summary": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dre",
-    "url": "https://github.com/linknimiball1974/ai-texture-forge",
-    "published": "2026-11-11T19:09:18Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 685,
-      "forks": 31,
-      "language": null,
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "n4ze3m/tiny-voca",
-    "summary": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
-    "url": "https://github.com/n4ze3m/tiny-voca",
-    "published": "2026-11-14T16:02:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 654,
-      "forks": 78,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "joshpuckett/allo",
-    "summary": "Allo is your friendly neighborhood typeface, free and open source",
-    "url": "https://github.com/joshpuckett/allo",
-    "published": "2026-11-15T17:33:42Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 648,
-      "forks": 13,
-      "language": "Python",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "rivet-dev/open-orange",
-    "summary": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
-    "url": "https://github.com/rivet-dev/open-orange",
-    "published": "2026-11-12T00:44:12Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 645,
-      "forks": 25,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "yetanotherbrowser/yab",
-    "summary": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
-    "url": "https://github.com/yetanotherbrowser/yab",
-    "published": "2026-11-14T23:56:32Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 634,
-      "forks": 55,
-      "language": "Swift",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "makepad/relax",
-    "summary": "Relax Rust JIT",
-    "url": "https://github.com/makepad/relax",
-    "published": "2026-11-11T19:12:58Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 587,
-      "forks": 31,
-      "language": "Rust",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "mit-han-lab/pear",
-    "summary": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-    "url": "https://github.com/mit-han-lab/pear",
-    "published": "2026-11-13T17:43:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-17",
-    "meta": {
-      "stars": 581,
-      "forks": 36,
-      "language": "Python",
-      "createdDaysAgo": 3
     }
   }
 ]
