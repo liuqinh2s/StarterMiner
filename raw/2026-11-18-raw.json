@@ -121,6 +121,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
+    "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
+    "url": "https://www.tmtpost.com/8210449.html",
+    "published": "Thu, 19 Nov 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "钛媒体",
     "title": "黄天鹅创始人的前东家冲击IPO：90后创二代接管，一年卖出30亿枚高端鸡蛋",
     "summary": "在这场革命里，鸡蛋究竟能在多大程度上摆脱大宗商品的宿命，走出一条属于民生食材的品牌之路。",
     "url": "https://www.tmtpost.com/8208824.html",
@@ -140,11 +150,11 @@
     "fetchedAt": "2026-11-18"
   },
   {
-    "source": "钛媒体",
-    "title": "诺奖得主做AI制药，20个月狂揽550亿",
-    "summary": "Isomorphic Labs完成C轮融资。",
-    "url": "https://www.tmtpost.com/8209976.html",
-    "published": "Wed, 18 Nov 2026 17:51:26 +0800",
+    "source": "极客公园",
+    "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+    "summary": "「 基本不可用，不推荐 」。 OpenAI 新模型上线仅仅 8 分钟，硅谷知名创业者 Matt Shumer，就在社交平台上扔下一句毫不留情的评价。 紧接着，拥有大批开发者拥趸的 Theo Browne，发了一篇长文《我为什么讨厌 GPT-6.2 Astra》。向来对前沿模型保持温和耐心的沃顿商学院教授 Ethan Mollick，测完后也给出了罕见的严厉定调，「非常不稳定且古怪」，直言这是「自 GPT-4.5 以来 OpenAI 前沿发布首次未见明显进步」。 这原本该是 OpenAI 是一场漂亮的反击战。 北京时间 11 月 18 日凌晨，OpenAI 正式推出新一代旗舰 GPT-6.2 Astra 与日常主力 GPT-6.2 Sol。官方把 Astra 的 API 单价直接砍掉 20%，还交出了一张从智能体到科研全面刷新纪录的成绩单。 当纸面跑分的狂飙撞上一线开发者的集体吐槽，这种极致的割裂感，恰恰揭开了 OpenAI 当下最真实的窘境。 01 文字游戏和算力暗箭 单看官方海报和第三方综合榜单的头部数据，GPT-6.2 两款模型确实很能打。 两款模型均配备 105 万上下文窗口，输",
+    "url": "http://www.geekpark.net/news/374175",
+    "published": "Wed, 18 Nov 2026 21:40:28 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-18"
@@ -431,70 +441,50 @@
   },
   {
     "source": "TechCrunch",
-    "title": "China dominates battery graphite, but this startup could break the monopoly",
-    "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-    "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-    "published": "Wed, 18 Nov 2026 11:00:00 +0000",
+    "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+    "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+    "published": "Wed, 18 Nov 2026 22:04:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-    "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-    "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "published": "Wed, 18 Nov 2026 21:34:13 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-    "published": "Wed, 18 Nov 2026 00:16:50 +0000",
+    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "published": "Wed, 18 Nov 2026 19:29:41 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "published": "Tue, 17 Nov 2026 23:04:35 +0000",
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "published": "Wed, 18 Nov 2026 16:14:09 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
   },
   {
     "source": "TechCrunch",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "published": "Tue, 17 Nov 2026 19:32:11 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "published": "Tue, 17 Nov 2026 17:20:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-    "published": "Tue, 17 Nov 2026 16:44:15 +0000",
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "published": "Wed, 18 Nov 2026 12:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
@@ -651,20 +641,100 @@
   },
   {
     "source": "The Verge",
-    "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-    "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos […]",
-    "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-    "published": "2026-11-17T17:38:41-05:00",
+    "title": "Nvidia’s rise, visualized",
+    "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]",
+    "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "published": "2026-11-18T14:30:00-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
   },
   {
-    "source": "The Verge",
-    "title": "Instagram is helping creators crack down on copycat videos",
-    "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and […]",
-    "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
-    "published": "2026-11-17T15:46:31-05:00",
+    "source": "Hacker News",
+    "title": "GTA 6 live launch coverage: how the biggest game of the decade is landing",
+    "summary": "Article URL: https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/ Comments URL: https://news.ycombinator.com/item?id=50553640 Points: 1 # Comments: 0",
+    "url": "https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/",
+    "published": "Wed, 18 Nov 2026 23:05:17 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "In France and Germany, the state backs one startup round in three",
+    "summary": "Article URL: https://justraised.io/blog/state-backs-one-startup-round-in-three Comments URL: https://news.ycombinator.com/item?id=50552859 Points: 1 # Comments: 0",
+    "url": "https://justraised.io/blog/state-backs-one-startup-round-in-three",
+    "published": "Wed, 18 Nov 2026 22:04:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+    "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is: You buy Hetzner/OVH Cloud bare metal servers, use Firec",
+    "url": "https://news.ycombinator.com/item?id=50549188",
+    "published": "Wed, 18 Nov 2026 17:26:28 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Cerebras Readies CS-5 Systems for 2027 Launch as It Bags Another Hyperscaler",
+    "summary": "Article URL: https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932 Comments URL: https://news.ycombinator.com/item?id=50547969 Points: 7 # Comments: 0",
+    "url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
+    "published": "Wed, 18 Nov 2026 16:04:21 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "FIRST and Qualcomm Launch Next Generation of K-8 Robotics Education",
+    "summary": "Article URL: https://www.firstinspires.org/about/press-room/first-and-qualcomm-technologies-inc.-launch-next-generation-of-k-8-robotics-education Comments URL: https://news.ycombinator.com/item?id=50547847 Points: 2 # Comments: 1",
+    "url": "https://www.firstinspires.org/about/press-room/first-and-qualcomm-technologies-inc.-launch-next-generation-of-k-8-robotics-education",
+    "published": "Wed, 18 Nov 2026 15:54:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Using a \"chaos loop\" to harden the Claude Docs launch",
+    "summary": "Article URL: https://claude.dev/blog/chaos-loop-claude-docs-launch/ Comments URL: https://news.ycombinator.com/item?id=50546867 Points: 3 # Comments: 0",
+    "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+    "published": "Wed, 18 Nov 2026 14:39:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Startup Makes Headway Towards Formalizing All of Math with AI",
+    "summary": "Article URL: https://spectrum.ieee.org/enormous-theorem-ai Comments URL: https://news.ycombinator.com/item?id=50546562 Points: 2 # Comments: 0",
+    "url": "https://spectrum.ieee.org/enormous-theorem-ai",
+    "published": "Wed, 18 Nov 2026 14:13:48 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Public Launch of SolveIt",
+    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50546513 Points: 2 # Comments: 0",
+    "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
+    "published": "Wed, 18 Nov 2026 14:08:56 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-18"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Steve Martin Helps Launch Fund for Australian Indigenous Artists",
+    "summary": "Article URL: https://www.art-insider.com/steve-martin-helps-launch-fund-for-australian-indigenous-artists/1922 Comments URL: https://news.ycombinator.com/item?id=50546290 Points: 2 # Comments: 0",
+    "url": "https://www.art-insider.com/steve-martin-helps-launch-fund-for-australian-indigenous-artists/1922",
+    "published": "Wed, 18 Nov 2026 13:49:02 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-18"
@@ -692,7 +762,7 @@
   {
     "source": "Hacker News",
     "title": "Interesting Learnings Working for a Startup",
-    "summary": "1. product isn't important, sales is important 2. infra isn't important, talent to build it is important 3. which stack you use to build the product isn't important, business taste is important 4. pushing employees isn't the fastest way to ship, building a process from learnings is much more efficient share your learnings below Comments URL: https://news.ycombinator.com/item?id=50542361 Points: 11 # Comments: 1",
+    "summary": "1. product isn't important, sales is important 2. infra isn't important, talent to build it is important 3. which stack you use to build the product isn't important, business taste is important 4. pushing employees isn't the fastest way to ship, building a process from learnings is much more efficient share your learnings below Comments URL: https://news.ycombinator.com/item?id=50542361 Points: 18 # Comments: 3",
     "url": "https://news.ycombinator.com/item?id=50542361",
     "published": "Wed, 18 Nov 2026 05:52:37 +0000",
     "lang": "en",
@@ -702,7 +772,7 @@
   {
     "source": "Hacker News",
     "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-    "summary": "Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/ Comments URL: https://news.ycombinator.com/item?id=50542135 Points: 411 # Comments: 109",
+    "summary": "Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/ Comments URL: https://news.ycombinator.com/item?id=50542135 Points: 484 # Comments: 125",
     "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
     "published": "Wed, 18 Nov 2026 05:11:30 +0000",
     "lang": "en",
@@ -780,96 +850,6 @@
     "fetchedAt": "2026-11-18"
   },
   {
-    "source": "Hacker News",
-    "title": "How Do You Evaluate Candidates When Hiring for a Small Startup?",
-    "summary": "Hiring for a small startup is different from hiring for a large organization. You often don't have a dedicated HR team, and every new hire can directly impact execution. One approach that makes interviews more useful is asking questions around actual work situations rather than relying on generic questions. For example: - Tell me about a time you made a mistake and how you handled it. - How would you approach a problem from our current product or business? - What would you prioritize in your fir",
-    "url": "https://lobox.com/articles/98",
-    "published": "Tue, 17 Nov 2026 12:03:39 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "OVH releases first model with EU public funding and supercomputer access",
-    "summary": "Article URL: https://twitter.com/olesovhcom/status/2122573582911869173 Comments URL: https://news.ycombinator.com/item?id=50528263 Points: 15 # Comments: 0",
-    "url": "https://twitter.com/olesovhcom/status/2122573582911869173",
-    "published": "Tue, 17 Nov 2026 06:50:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Public Launch of SolveIt",
-    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50527381 Points: 6 # Comments: 0",
-    "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
-    "published": "Tue, 17 Nov 2026 04:18:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Habits PhDs Must Unlearn to Build a Startup [video]",
-    "summary": "Article URL: https://www.youtube.com/watch?v=u-8KpXcPYCw Comments URL: https://news.ycombinator.com/item?id=50526301 Points: 3 # Comments: 0",
-    "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
-    "published": "Tue, 17 Nov 2026 01:39:32 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Fundlark-open source tool help early-career researcher find funding",
-    "summary": "I just finished my PhD and am trying to get some funding to start off. I found that opportunities are scattered and it is a pain to find and validate. Hence,I build Fundlark to make it easier. Comments URL: https://news.ycombinator.com/item?id=50526177 Points: 4 # Comments: 0",
-    "url": "https://github.com/dryang21/Fundlark",
-    "published": "Tue, 17 Nov 2026 01:21:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-    "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video: https://youtube.com/shorts/xBrocTc9cfA We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not",
-    "url": "https://news.ycombinator.com/item?id=50522776",
-    "published": "Mon, 16 Nov 2026 20:29:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Mistakes and learnings from 2 years of working at a startup",
-    "summary": "Article URL: https://kol3x.com/blog/mistakes_and_learnings_from_2_years_of_working_at_a_start_up/ Comments URL: https://news.ycombinator.com/item?id=50518985 Points: 1 # Comments: 1",
-    "url": "https://kol3x.com/blog/mistakes_and_learnings_from_2_years_of_working_at_a_start_up/",
-    "published": "Mon, 16 Nov 2026 15:56:14 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Build your startup on a private open-source enterprise AI stack",
-    "summary": "Article URL: https://cloud.ametnes.com/startups/ Comments URL: https://news.ycombinator.com/item?id=50518438 Points: 1 # Comments: 0",
-    "url": "https://cloud.ametnes.com/startups/",
-    "published": "Mon, 16 Nov 2026 15:11:51 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Why Every Startup Needs an Origin Myth",
-    "summary": "Article URL: https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin Comments URL: https://news.ycombinator.com/item?id=50515705 Points: 1 # Comments: 0",
-    "url": "https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin",
-    "published": "Mon, 16 Nov 2026 09:33:20 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-18"
-  },
-  {
     "source": "V2EX",
     "title": "[送码+抽奖] Fotilo：Mac 的截图+录屏软件（用心打磨了很久）",
     "summary": "大家好，我是 foam，我又做了一个 Mac app。 前几天刚把 Fotilo 更新到了 1.1.0。这是一个 Mac 上的截图 + 录屏工具：如果你用过 Snipaste、CleanShot X、Shottr 这类截图 App，或者 Screen Studio 这类录屏 App，那么 Fotilo 差不多就是把这两类合在了一起。现在核心功能都打磨得挺不错了。所以请各位老哥来体验体验。 官网和下载地址： https://fotilo.app/?utm_source=v2ex 。官网里有大部分功能的演示，也可以去看看。 ## 截图 **原地标注** 功能上大家都做",
@@ -879,7 +859,7 @@
     "type": "community",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "replies": 93,
+      "replies": 113,
       "node": "分享创造"
     }
   },
@@ -893,8 +873,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 4680,
-      "forks": 1038,
+      "stars": 4816,
+      "forks": 1075,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -909,10 +889,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 3434,
-      "forks": 293,
+      "stars": 3923,
+      "forks": 341,
       "language": "C++",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -925,10 +905,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 2340,
-      "forks": 184,
+      "stars": 3298,
+      "forks": 261,
       "language": "Rust",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -941,10 +921,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 2292,
-      "forks": 339,
+      "stars": 2389,
+      "forks": 362,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -957,8 +937,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 1972,
-      "forks": 262,
+      "stars": 2155,
+      "forks": 279,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -973,8 +953,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 1617,
-      "forks": 635,
+      "stars": 1627,
+      "forks": 641,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -989,8 +969,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 1535,
-      "forks": 259,
+      "stars": 1613,
+      "forks": 268,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -1005,10 +985,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 1216,
-      "forks": 396,
+      "stars": 1302,
+      "forks": 411,
       "language": "JavaScript",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Hut-hzf/ung220z-tool",
+    "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "url": "https://github.com/Hut-hzf/ung220z-tool",
+    "published": "2026-11-15T11:16:46Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-18",
+    "meta": {
+      "stars": 1144,
+      "forks": 276,
+      "language": "Python",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1021,24 +1017,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 1013,
-      "forks": 88,
-      "language": "Python",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "joshpuckett/allo",
-    "summary": "Allo is your friendly neighborhood typeface, free and open source",
-    "url": "https://github.com/joshpuckett/allo",
-    "published": "2026-11-15T17:33:42Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-18",
-    "meta": {
-      "stars": 969,
-      "forks": 24,
+      "stars": 1102,
+      "forks": 99,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -1053,56 +1033,24 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 960,
-      "forks": 326,
+      "stars": 1078,
+      "forks": 366,
       "language": "Python",
       "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "chuanqisun/spaceship",
-    "summary": "Steer your ideas in realtime",
-    "url": "https://github.com/chuanqisun/spaceship",
-    "published": "2026-11-16T14:43:45Z",
+    "title": "joshpuckett/allo",
+    "summary": "Allo is your friendly neighborhood typeface, free and open source",
+    "url": "https://github.com/joshpuckett/allo",
+    "published": "2026-11-15T17:33:42Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 814,
-      "forks": 78,
-      "language": "HTML",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "opencoredev/islandcn",
-    "summary": "The open-source Dynamic Island for React, installed with shadcn.",
-    "url": "https://github.com/opencoredev/islandcn",
-    "published": "2026-11-13T11:50:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-18",
-    "meta": {
-      "stars": 801,
-      "forks": 65,
-      "language": "TypeScript",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Hut-hzf/ung220z-tool",
-    "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-    "url": "https://github.com/Hut-hzf/ung220z-tool",
-    "published": "2026-11-15T11:16:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-18",
-    "meta": {
-      "stars": 791,
-      "forks": 202,
+      "stars": 1040,
+      "forks": 28,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -1117,10 +1065,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 757,
-      "forks": 47,
+      "stars": 907,
+      "forks": 63,
       "language": "Swift",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "chuanqisun/spaceship",
+    "summary": "Steer your ideas in realtime",
+    "url": "https://github.com/chuanqisun/spaceship",
+    "published": "2026-11-16T14:43:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-18",
+    "meta": {
+      "stars": 863,
+      "forks": 84,
+      "language": "HTML",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1133,9 +1097,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 753,
-      "forks": 72,
+      "stars": 832,
+      "forks": 80,
       "language": "Python",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "opencoredev/islandcn",
+    "summary": "The open-source Dynamic Island for React, installed with shadcn.",
+    "url": "https://github.com/opencoredev/islandcn",
+    "published": "2026-11-13T11:50:50Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-18",
+    "meta": {
+      "stars": 809,
+      "forks": 65,
+      "language": "TypeScript",
       "createdDaysAgo": 5
     }
   },
@@ -1149,8 +1129,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 748,
-      "forks": 1231,
+      "stars": 751,
+      "forks": 1233,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }
@@ -1165,10 +1145,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 720,
-      "forks": 92,
+      "stars": 744,
+      "forks": 95,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1181,8 +1161,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 699,
-      "forks": 65,
+      "stars": 719,
+      "forks": 67,
       "language": "Swift",
       "createdDaysAgo": 3
     }
@@ -1197,8 +1177,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-18",
     "meta": {
-      "stars": 667,
-      "forks": 25,
+      "stars": 679,
+      "forks": 28,
       "language": "TypeScript",
       "createdDaysAgo": 6
     }

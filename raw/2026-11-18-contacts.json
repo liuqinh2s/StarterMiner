@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "marcin-dudek-4992a297"
+          "linkedin": "justinhammon"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -371,12 +371,8 @@
       "fetchedAt": "2026-11-18",
       "website": {
         "website": "https://www.aluqos.com/",
-        "emails": [
-          "hello@aluqos.ai"
-        ],
-        "socials": {
-          "linkedin": "nicolas2007"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
@@ -1531,8 +1527,13 @@
       "fetchedAt": "2026-11-18",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [],
-        "socials": {},
+        "emails": [
+          "info@latitudemedia.com"
+        ],
+        "socials": {
+          "twitter": "intent",
+          "linkedin": "latitude-media-inc"
+        },
         "careerPage": null,
         "jobListings": []
       },
@@ -2334,7 +2335,7 @@
         "socials": {
           "linkedin": "designverseai"
         },
-        "careerPage": null,
+        "careerPage": "https://designverse.ai/careers",
         "jobListings": []
       },
       "github": {},
