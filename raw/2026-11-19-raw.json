@@ -141,6 +141,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
+    "summary": "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？格力电器最新回应；OpenAI进军手机领域；马斯克披露多项业务时间表，Optimus拟18个月内胜任家务。",
+    "url": "https://www.tmtpost.com/8211593.html",
+    "published": "Fri, 20 Nov 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-19"
+  },
+  {
+    "source": "钛媒体",
     "title": "国产芯片正在准备三级跳",
     "summary": "国产芯片迎来新一轮资本投入，从产品量产、工艺迭代到争夺客户订单，产业竞争正在升级。长鑫、长江存储加速进入高端市场，国产AI芯片则面临英伟达整套计算系统的挑战。融资只是起点，能否持续迭代、赢得下一代产品订单，才是国产芯片实现“三级跳”的关键。",
     "url": "https://www.tmtpost.com/8210830.html",
@@ -450,51 +460,31 @@
     "fetchedAt": "2026-11-19"
   },
   {
-    "source": "爱范儿",
-    "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
-    "summary": "别让营销高于安全。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "url": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "published": "Mon, 16 Nov 2026 10:27:22 +0000",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-19"
-  },
-  {
     "source": "TechCrunch",
-    "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-    "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-    "published": "Wed, 18 Nov 2026 22:04:03 +0000",
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "published": "Thu, 19 Nov 2026 17:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "published": "Wed, 18 Nov 2026 21:34:13 +0000",
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "published": "Thu, 19 Nov 2026 16:59:23 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-19"
   },
   {
     "source": "TechCrunch",
-    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-    "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-    "published": "Wed, 18 Nov 2026 19:29:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-    "published": "Wed, 18 Nov 2026 16:14:09 +0000",
+    "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+    "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+    "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+    "published": "Thu, 19 Nov 2026 14:00:00 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-19"
@@ -680,14 +670,32 @@
     "fetchedAt": "2026-11-19"
   },
   {
-    "source": "The Verge",
-    "title": "Nvidia’s rise, visualized",
-    "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]",
-    "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-    "published": "2026-11-18T14:30:00-05:00",
-    "lang": "en",
+    "source": "微博",
+    "title": "#Anthropic七位创始人百亿美元#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23Anthropic七位创始人百亿美元%23",
+    "published": "2026-11-19",
+    "lang": "zh",
     "type": "news",
-    "fetchedAt": "2026-11-19"
+    "fetchedAt": "2026-11-19",
+    "meta": {
+      "hotValue": 117722,
+      "rank": 8
+    }
+  },
+  {
+    "source": "微博",
+    "title": "#泰国总理携夫人在深圳南山吃宵夜#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23泰国总理携夫人在深圳南山吃宵夜%23",
+    "published": "2026-11-19",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-19",
+    "meta": {
+      "hotValue": 97190,
+      "rank": 25
+    }
   },
   {
     "source": "V2EX",
@@ -699,24 +707,8 @@
     "type": "community",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "replies": 95,
-      "node": "程序员"
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-    "published": "2026-11-16T19:28:29Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 4289,
-      "forks": 368,
-      "language": "C++",
-      "createdDaysAgo": 2
+      "replies": 100,
+      "node": "职场话题"
     }
   },
   {
@@ -729,218 +721,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 4177,
-      "forks": 349,
+      "stars": 5117,
+      "forks": 410,
       "language": "Rust",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "duwqijlk/muse-protocol",
-    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "url": "https://github.com/duwqijlk/muse-protocol",
-    "published": "2026-11-14T01:24:58Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1640,
-      "forks": 648,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Hut-hzf/ung220z-tool",
-    "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-    "url": "https://github.com/Hut-hzf/ung220z-tool",
-    "published": "2026-11-15T11:16:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1584,
-      "forks": 374,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "CzzzzzzJ/mdldm-maitian",
-    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-    "published": "2026-11-14T03:59:22Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1521,
-      "forks": 463,
-      "language": "JavaScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "haziqahmedqasmi/PeakCut",
-    "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-    "url": "https://github.com/haziqahmedqasmi/PeakCut",
-    "published": "2026-11-14T07:38:20Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1188,
-      "forks": 407,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "sybil-solutions/inference-optimisation-skill",
-    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "published": "2026-11-16T18:40:04Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1182,
-      "forks": 110,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "joshpuckett/allo",
-    "summary": "Allo is your friendly neighborhood typeface, free and open source",
-    "url": "https://github.com/joshpuckett/allo",
-    "published": "2026-11-15T17:33:42Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1100,
-      "forks": 31,
-      "language": "Python",
       "createdDaysAgo": 3
     }
   },
   {
     "source": "GitHub新星",
-    "title": "zephyr4123/snug",
-    "summary": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
-    "url": "https://github.com/zephyr4123/snug",
-    "published": "2026-11-13T03:26:21Z",
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "published": "2026-11-16T19:28:29Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 1073,
-      "forks": 82,
-      "language": "Swift",
-      "createdDaysAgo": 6
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "chuanqisun/spaceship",
-    "summary": "Steer your ideas in realtime",
-    "url": "https://github.com/chuanqisun/spaceship",
-    "published": "2026-11-16T14:43:45Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 898,
-      "forks": 92,
-      "language": "HTML",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "opencoredev/islandcn",
-    "summary": "The open-source Dynamic Island for React, installed with shadcn.",
-    "url": "https://github.com/opencoredev/islandcn",
-    "published": "2026-11-13T11:50:50Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 815,
-      "forks": 65,
-      "language": "TypeScript",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "n4ze3m/tiny-voca",
-    "summary": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
-    "url": "https://github.com/n4ze3m/tiny-voca",
-    "published": "2026-11-14T16:02:56Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 757,
-      "forks": 97,
-      "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "yetanotherbrowser/yab",
-    "summary": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
-    "url": "https://github.com/yetanotherbrowser/yab",
-    "published": "2026-11-14T23:56:32Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 730,
-      "forks": 71,
-      "language": "Swift",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "mit-han-lab/pear",
-    "summary": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-    "url": "https://github.com/mit-han-lab/pear",
-    "published": "2026-11-13T17:43:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 712,
-      "forks": 45,
-      "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "boringmarketer/boring-marketing-skills",
-    "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-    "url": "https://github.com/boringmarketer/boring-marketing-skills",
-    "published": "2026-11-16T15:09:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 689,
-      "forks": 255,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "stars": 4645,
+      "forks": 399,
+      "language": "C++",
+      "createdDaysAgo": 3
     }
   }
 ]
