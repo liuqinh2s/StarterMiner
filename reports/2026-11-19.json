@@ -468,7 +468,7 @@
           "emails": [],
           "socials": {
             "twitter": "tinytechfox",
-            "linkedin": "james-mckay-ven"
+            "linkedin": "oluwatobi-a-731075b3"
           },
           "careerPage": "https://buildhop.io/careers",
           "jobListings": []
@@ -4203,8 +4203,14 @@
         "fetchedAt": "2026-11-19",
         "website": {
           "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-          "emails": [],
-          "socials": {},
+          "emails": [
+            "info@latitudemedia.com",
+            "events@latitudemedia.com"
+          ],
+          "socials": {
+            "twitter": "_LatitudeMedia",
+            "linkedin": "latitude-media-inc"
+          },
           "careerPage": null,
           "jobListings": []
         },
@@ -4328,7 +4334,14 @@
             "linkedin": "aippt"
           },
           "careerPage": "https://www.aippt.com/careers",
-          "jobListings": []
+          "jobListings": [
+            "function loadMarketingScript(src, attributes) {",
+            "loadMarketingScript('https://scripts.ahalab.io/track.js', {",
+            "window.__AIPPT_EMAIL_SUBSCRIPTION_PAGE__ =",
+            "if (window.__AIPPT_EMAIL_SUBSCRIPTION_PAGE__) {",
+            "if (window.__AIPPT_EMAIL_SUBSCRIPTION_PAGE__) return",
+            "if (!window.__AIPPT_EMAIL_SUBSCRIPTION_PAGE__) {"
+          ]
         },
         "github": {},
         "hiring": [],

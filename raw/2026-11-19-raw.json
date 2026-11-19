@@ -1,10 +1,30 @@
 [
   {
     "source": "少数派",
+    "title": "给 Apple 的 2026 年打分，请你一起参与",
+    "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+    "url": "https://sspai.com/post/119191",
+    "published": "Thu, 19 Nov 2026 18:25:05 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-19"
+  },
+  {
+    "source": "少数派",
     "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
     "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
     "url": "https://sspai.com/post/119210",
     "published": "Wed, 18 Nov 2026 08:46:03 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-19"
+  },
+  {
+    "source": "创业邦",
+    "title": "腾讯等入股速芯微电子",
+    "summary": "天眼查App显示，近日，合肥市速芯微电子科技有限公司发生工商变更，新增广西腾讯创业投资有限公司、深圳君联君智创业投资基金合伙企业（有限合伙）等为股东，同时，注册资本由100万元人民币增至约215万元人民币。 该公司成立于2025年8月，法定代表人为余玉揆，经营范围包括集成电路设计、集成电路芯片及产品销售、集成电路销售等，现由深圳市速芯微领航企业管理合伙企业（有限合伙）、深圳市速芯微同创企业管理合伙企业（有限合伙）及上述新增股东等共同持股。",
+    "url": "https://www.cyzone.cn/article/854456.html",
+    "published": "Thu, 19 Nov 2026 08:30:19 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-19"
@@ -121,40 +141,40 @@
   },
   {
     "source": "钛媒体",
-    "title": "征祥医药：八年累计烧钱超10亿，同期股权交易价差引争议",
-    "summary": "征祥医药前后进行了9轮融资，合计募资9.42亿元，但在C轮、D轮融资当日，增资入股与老股转让价格出现明显背离，特别是D轮两组交易单价差距接近一倍，这一点也成为本次IPO中值得重点关注方向。",
-    "url": "https://www.tmtpost.com/8209803.html",
-    "published": "Thu, 19 Nov 2026 09:51:51 +0800",
+    "title": "国产芯片正在准备三级跳",
+    "summary": "国产芯片迎来新一轮资本投入，从产品量产、工艺迭代到争夺客户订单，产业竞争正在升级。长鑫、长江存储加速进入高端市场，国产AI芯片则面临英伟达整套计算系统的挑战。融资只是起点，能否持续迭代、赢得下一代产品订单，才是国产芯片实现“三级跳”的关键。",
+    "url": "https://www.tmtpost.com/8210830.html",
+    "published": "Thu, 19 Nov 2026 18:48:26 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-19"
   },
   {
     "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月19日）",
-    "summary": "英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。Anthropic拟以约1.4万亿美元估值IPO，算力成本进入公开验证。微软Ignite将Office/Copilot升级为智能体工作系统，推跨供应商AI透明度治理；OpenAI加码销售入口。Claude三日适配AMD、OVHcloud开源Olala，冲击CUDA与云模型入口。速卖通联合CJ、阿里参与系统战，中国出海升温。",
-    "url": "https://www.tmtpost.com/8210615.html",
-    "published": "Thu, 19 Nov 2026 09:05:50 +0800",
+    "title": "钛媒体硅谷峰会震撼开启，马斯克背后传奇投资人、Google X创始人、全球AI及投资领军者齐聚斯坦福",
+    "summary": "Google X创始人、马斯克背后长期资本创始人、洛克菲勒国际主席、斯坦福顶尖科学家，哥伦比亚大学AI监管权威专家、还有多位AI创新与生命科技领军人物齐聚，提前预判2027，全球技术与资金将走向何处？",
+    "url": "https://www.tmtpost.com/8210519.html",
+    "published": "Thu, 19 Nov 2026 18:05:15 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-19"
   },
   {
     "source": "钛媒体",
-    "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
-    "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
-    "url": "https://www.tmtpost.com/8210449.html",
-    "published": "Thu, 19 Nov 2026 07:20:00 +0800",
+    "title": "Banks Are Turning AI Compute Bills Into Working Capital",
+    "summary": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than permanent dilution.",
+    "url": "https://www.tmtpost.com/8211189.html",
+    "published": "Thu, 19 Nov 2026 17:18:06 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-19"
   },
   {
-    "source": "钛媒体",
-    "title": "英伟达股票很划算，但有一个大问题",
-    "summary": "英伟达在发布强劲的财报后，股价看起来反而更便宜了，但这家芯片制造商头上仍悬着一项重大风险。",
-    "url": "https://www.tmtpost.com/8210477.html",
-    "published": "Wed, 18 Nov 2026 22:03:22 +0800",
+    "source": "极客公园",
+    "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
+    "summary": "作者｜Wildcard 编辑｜靖宇 谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了 Gemini 4 Neon 的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型 。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成本砍到了竞争对手的一半左右。 在 Reddit 技术社区里，挑剔的开发者们罕见地给出了一边倒的好评，直呼它「 便宜得离谱又强得可怕 」。每月花 19.99 美元订阅 Google AI Pro 的普通用户更是喜出望外，不用咬牙上 Ultra 档位，就能在 Gemini App 里直接用上准旗舰水准的模型。加上整个 11 月密集落地的模型与工具矩阵，那个曾经在牌桌边缘徘徊的谷歌 AI，终于重新杀回了牌桌中央。 唯一让全球程序员一头雾水的，大概只有谷歌神秘的命名学。从 9 月底的 Argon（氩）、10 月底的 Carbon（碳），到 11 月中旬的 Hydrogen（氢）和如今的 Neon（氖），既不按原子序数排",
+    "url": "http://www.geekpark.net/news/374196",
+    "published": "Thu, 19 Nov 2026 14:10:00 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-19"
@@ -410,16 +430,6 @@
     "fetchedAt": "2026-11-19"
   },
   {
-    "source": "极客公园",
-    "title": "收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案",
-    "summary": "收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。（来源：cnBeta） Meta 重大人事变动！扎克伯格的首席战略官也走了 11 月 7 日，Meta 首席战略官戴夫·韦纳确认将从 Meta 离职，转而出任 AI 推理初创企业 Fireworks 的首席财务官。戴夫·韦纳 2012 年加入 ",
-    "url": "http://www.geekpark.net/news/373649",
-    "published": "Sun, 08 Nov 2026 08:57:46 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-19"
-  },
-  {
     "source": "爱范儿",
     "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
     "summary": "一人犯错，全员受罚。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -485,6 +495,36 @@
     "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
     "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
     "published": "Wed, 18 Nov 2026 16:14:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent says Hunyuan Hy4 flash surpasses 50 trillion tokens in first-day usage",
+    "summary": "The rise of lightweight AI models is challenging the notion that bigger is always better. Tencent’s Hunyuan said on Wednesday that Hy4 flash processed more than 50 trillion tokens on its first day after launching on November 16, marking the highest first-day usage among models in the Hunyuan series. Hy4 flash’s strong debut was also […]",
+    "url": "https://technode.com/2026/11/19/tencent-says-hunyuan-hy4-flash-surpasses-50-trillion-tokens-in-first-day-usage/",
+    "published": "Thu, 19 Nov 2026 07:24:19 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent releases Hy4 flash model weights for local deployment",
+    "summary": "Tencent released the weights for its Hy4 flash AI model on Wednesday, two days after launching it through its apps and cloud API. Developers can download the standard model, an FP8 version and a base model for further training. The release makes good on Tencent’s announcement that it planned to make the model’s weights available. […]",
+    "url": "https://technode.com/2026/11/19/tencent-releases-hy4-flash-model-weights-for-local-deployment/",
+    "published": "Thu, 19 Nov 2026 05:43:24 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-19"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent cuts Yuanbao spending after AI app falls short of expectations",
+    "summary": "Tencent has substantially reduced spending on its Yuanbao AI app after it failed to achieve the success the company initially expected, President Martin Lau said on Wednesday. Speaking on Tencent’s earnings call, Lau said Yuanbao’s focus had shifted from expanding its user base to improving its capabilities. Its recently launched AI search service is also […]",
+    "url": "https://technode.com/2026/11/19/tencent-cuts-yuanbao-spending-after-ai-app-falls-short-of-expectations/",
+    "published": "Thu, 19 Nov 2026 05:42:31 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-19"
@@ -659,7 +699,7 @@
     "type": "community",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "replies": 58,
+      "replies": 95,
       "node": "程序员"
     }
   },
@@ -673,8 +713,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 4104,
-      "forks": 355,
+      "stars": 4289,
+      "forks": 368,
       "language": "C++",
       "createdDaysAgo": 2
     }
@@ -689,8 +729,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 3589,
-      "forks": 295,
+      "stars": 4177,
+      "forks": 349,
       "language": "Rust",
       "createdDaysAgo": 2
     }
@@ -705,25 +745,9 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 1630,
-      "forks": 641,
+      "stars": 1640,
+      "forks": 648,
       "language": "Python",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "CzzzzzzJ/mdldm-maitian",
-    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-    "published": "2026-11-14T03:59:22Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-19",
-    "meta": {
-      "stars": 1372,
-      "forks": 429,
-      "language": "JavaScript",
       "createdDaysAgo": 5
     }
   },
@@ -737,26 +761,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 1344,
-      "forks": 333,
+      "stars": 1584,
+      "forks": 374,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
     "source": "GitHub新星",
-    "title": "sybil-solutions/inference-optimisation-skill",
-    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "published": "2026-11-16T18:40:04Z",
+    "title": "CzzzzzzJ/mdldm-maitian",
+    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+    "published": "2026-11-14T03:59:22Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 1138,
-      "forks": 106,
-      "language": "Python",
-      "createdDaysAgo": 2
+      "stars": 1521,
+      "forks": 463,
+      "language": "JavaScript",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -769,10 +793,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 1112,
-      "forks": 376,
+      "stars": 1188,
+      "forks": 407,
       "language": "Python",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "sybil-solutions/inference-optimisation-skill",
+    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "published": "2026-11-16T18:40:04Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-19",
+    "meta": {
+      "stars": 1182,
+      "forks": 110,
+      "language": "Python",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -785,8 +825,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 1059,
-      "forks": 28,
+      "stars": 1100,
+      "forks": 31,
       "language": "Python",
       "createdDaysAgo": 3
     }
@@ -794,15 +834,15 @@
   {
     "source": "GitHub新星",
     "title": "zephyr4123/snug",
-    "summary": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
+    "summary": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
     "url": "https://github.com/zephyr4123/snug",
     "published": "2026-11-13T03:26:21Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 995,
-      "forks": 75,
+      "stars": 1073,
+      "forks": 82,
       "language": "Swift",
       "createdDaysAgo": 6
     }
@@ -817,8 +857,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 875,
-      "forks": 88,
+      "stars": 898,
+      "forks": 92,
       "language": "HTML",
       "createdDaysAgo": 2
     }
@@ -833,7 +873,7 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 814,
+      "stars": 815,
       "forks": 65,
       "language": "TypeScript",
       "createdDaysAgo": 5
@@ -849,8 +889,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 752,
-      "forks": 96,
+      "stars": 757,
+      "forks": 97,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -865,8 +905,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 724,
-      "forks": 68,
+      "stars": 730,
+      "forks": 71,
       "language": "Swift",
       "createdDaysAgo": 4
     }
@@ -881,8 +921,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 687,
-      "forks": 43,
+      "stars": 712,
+      "forks": 45,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -897,8 +937,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-19",
     "meta": {
-      "stars": 673,
-      "forks": 250,
+      "stars": 689,
+      "forks": 255,
       "language": "Python",
       "createdDaysAgo": 2
     }
