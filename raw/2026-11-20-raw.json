@@ -431,6 +431,36 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Super-hot rock geothermal could end data center energy woes",
+    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+    "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+    "published": "Fri, 20 Nov 2026 18:34:00 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+    "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+    "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+    "published": "Fri, 20 Nov 2026 15:46:07 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
@@ -450,31 +480,41 @@
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "TechCrunch",
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+    "source": "TechNode",
+    "title": "Tencent releases Hy4 model weights with million-token context",
+    "summary": "Tencent released the weights of its flagship Hy4 AI model on Friday, allowing developers to download and deploy the model themselves. The release follows Hy4’s initial launch on November 4 and makes the flagship available under the Apache 2.0 license, which permits commercial use and modification. Hy4 supports text, image and video understanding, with a […]",
+    "url": "https://technode.com/2026/11/20/tencent-releases-hy4-model-weights-with-million-token-context/",
+    "published": "Fri, 20 Nov 2026 14:14:26 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "TechCrunch",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "published": "Thu, 19 Nov 2026 16:59:23 +0000",
+    "source": "TechNode",
+    "title": "Ex-Qwen chief’s Pragmatik Labs raises funding at $5 billion valuation",
+    "summary": "Pragmatik Labs, the AI startup founded by former Alibaba Qwen leader Lin Junyang, has raised new funding at a $5 billion valuation, Bloomberg reported on Friday, citing people familiar with the matter. The round raised tens of millions of dollars, with new investors including HyT Capital, CDH Investments and automaker Geely. The valuation is 2.5 […]",
+    "url": "https://technode.com/2026/11/20/ex-qwen-chiefs-pragmatik-labs-raises-funding-at-5-billion-valuation/",
+    "published": "Fri, 20 Nov 2026 14:14:22 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "TechCrunch",
-    "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-    "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
-    "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-    "published": "Thu, 19 Nov 2026 14:00:00 +0000",
+    "source": "TechNode",
+    "title": "BYD launches six-seat Ti9 SUV from RMB 279,900, offers folding steering wheel",
+    "summary": "BYD’s Fang Cheng Bao brand launched the Ti9 plug-in hybrid SUV on Thursday, priced from RMB 279,900 to RMB 329,900. The six-seat model introduces BYD’s DMS hybrid platform, while the top trim features a steering wheel that folds away to free up cabin space. The Ti9 measures 5.27 meters long, with a 3.13-meter wheelbase and […]",
+    "url": "https://technode.com/2026/11/20/byd-launches-six-seat-ti9-suv-from-rmb-279900-offers-folding-steering-wheel/",
+    "published": "Fri, 20 Nov 2026 14:14:16 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei debuts OSTA smartphone brand with O1 Pro, starting at RMB 5,499",
+    "summary": "Huawei launched its new smartphone brand OSTA and its first handset, the O1 Pro, on Friday, with introductory prices ranging from RMB 5,499 to RMB 8,799. Powered by the Kirin 9030S chip, the wide-screen handset debuts an AI-focused edition of HarmonyOS 7 that lets users request services through natural-language conversations. The phone puts an animated […]",
+    "url": "https://technode.com/2026/11/20/huawei-debuts-osta-smartphone-brand-with-o1-pro-starting-at-rmb-5499/",
+    "published": "Fri, 20 Nov 2026 14:14:13 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-20"
@@ -650,11 +690,51 @@
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "TechNode",
-    "title": "Rockstar Games joins Douyin ahead of GTA 6 launch",
-    "summary": "Rockstar Games has opened a verified account on Douyin, ByteDance’s Chinese short-video platform, GamerSky reported Thursday. Its first post is a Chinese-language promotion for Grand Theft Auto VI, telling players they can preload the game ahead of its November 19 release on PlayStation 5 and Xbox Series X and S. Rockstar posted the same clip […]",
-    "url": "https://technode.com/2026/11/12/rockstar-games-joins-douyin-ahead-of-gta-6-launch/",
-    "published": "Thu, 12 Nov 2026 07:10:15 +0000",
+    "source": "Hacker News",
+    "title": "Cutting my Zsh startup time: count the processes, not the lines",
+    "summary": "Article URL: https://www.michelebologna.net/2026/zsh-startup-count-processes/ Comments URL: https://news.ycombinator.com/item?id=50581760 Points: 2 # Comments: 0",
+    "url": "https://www.michelebologna.net/2026/zsh-startup-count-processes/",
+    "published": "Fri, 20 Nov 2026 20:42:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Can you launch a solo business with AI?",
+    "summary": "Article URL: https://blog.bytester.net/posts/launch-solo-business-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50578767 Points: 2 # Comments: 3",
+    "url": "https://blog.bytester.net/posts/launch-solo-business-with-ai/",
+    "published": "Fri, 20 Nov 2026 17:42:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+    "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50575429 Points: 4 # Comments: 1",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "published": "Fri, 20 Nov 2026 14:50:18 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Claude Docs launch: 60 server errors across billions of requests",
+    "summary": "Article URL: https://claude.dev/blog/chaos-loop-claude-docs-launch/ Comments URL: https://news.ycombinator.com/item?id=50575101 Points: 1 # Comments: 0",
+    "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+    "published": "Fri, 20 Nov 2026 14:27:34 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "Hacker News",
+    "title": "US investors now supply 52% of the money in Europe's Series C startup rounds",
+    "summary": "Article URL: https://maccus.fr/en/us-investors-european-startups/ Comments URL: https://news.ycombinator.com/item?id=50573465 Points: 2 # Comments: 0",
+    "url": "https://maccus.fr/en/us-investors-european-startups/",
+    "published": "Fri, 20 Nov 2026 11:54:17 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-20"
@@ -682,7 +762,7 @@
   {
     "source": "Hacker News",
     "title": "'Flying cars' could launch in China next summer, maker of two-seat model says",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng Comments URL: https://news.ycombinator.com/item?id=50569287 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng Comments URL: https://news.ycombinator.com/item?id=50569287 Points: 2 # Comments: 1",
     "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
     "published": "Fri, 20 Nov 2026 02:08:52 +0000",
     "lang": "en",
@@ -810,56 +890,6 @@
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "Hacker News",
-    "title": "Using a \"chaos loop\" to harden the Claude Docs launch",
-    "summary": "Article URL: https://claude.dev/blog/chaos-loop-claude-docs-launch/ Comments URL: https://news.ycombinator.com/item?id=50546867 Points: 3 # Comments: 0",
-    "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
-    "published": "Wed, 18 Nov 2026 14:39:57 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup Makes Headway Towards Formalizing All of Math with AI",
-    "summary": "Article URL: https://spectrum.ieee.org/enormous-theorem-ai Comments URL: https://news.ycombinator.com/item?id=50546562 Points: 2 # Comments: 0",
-    "url": "https://spectrum.ieee.org/enormous-theorem-ai",
-    "published": "Wed, 18 Nov 2026 14:13:48 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Public Launch of SolveIt",
-    "summary": "Article URL: https://www.fast.ai/posts/2026-11-16-solveit-launch/ Comments URL: https://news.ycombinator.com/item?id=50546513 Points: 2 # Comments: 0",
-    "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
-    "published": "Wed, 18 Nov 2026 14:08:56 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Steve Martin Helps Launch Fund for Australian Indigenous Artists",
-    "summary": "Article URL: https://www.art-insider.com/steve-martin-helps-launch-fund-for-australian-indigenous-artists/1922 Comments URL: https://news.ycombinator.com/item?id=50546290 Points: 2 # Comments: 0",
-    "url": "https://www.art-insider.com/steve-martin-helps-launch-fund-for-australian-indigenous-artists/1922",
-    "published": "Wed, 18 Nov 2026 13:49:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "Hacker News",
-    "title": "PS5 firmware 14.22 game binary dumped just three days before GTA VI launch",
-    "summary": "Article URL: https://videocardz.com/newz/ps5-hacker-gezine-claims-to-have-dumped-game-executable-on-gta-vi-compatible-firmware-14-22 Comments URL: https://news.ycombinator.com/item?id=50544254 Points: 3 # Comments: 0",
-    "url": "https://videocardz.com/newz/ps5-hacker-gezine-claims-to-have-dumped-game-executable-on-gta-vi-compatible-firmware-14-22",
-    "published": "Wed, 18 Nov 2026 10:01:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
     "source": "V2EX",
     "title": "我的 App 火了，然后苹果威胁要关闭我的开发者账号",
     "summary": "我是 iOS 上安卓模拟器[Andarium](https://apps.apple.com/us/app/andarium/id6827505184)的开发者。 昨天这个 App 通过苹果审核上架 App Store，结果很快在国内外都火了： - X：https://x.com/imxieyi/status/2123113325710225595 - IT 之家：https://mp.weixin.qq.com/s/ujoPBioGoiKZM_bo8QSVQg - GitHub: https://github.com/imxieyi/Kernarium 这个 App 也很快",
@@ -869,7 +899,7 @@
     "type": "community",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "replies": 208,
+      "replies": 222,
       "node": "iDev"
     }
   },
@@ -883,7 +913,7 @@
     "type": "community",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "replies": 100,
+      "replies": 106,
       "node": "程序员"
     }
   },
@@ -897,10 +927,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "stars": 5915,
-      "forks": 469,
+      "stars": 6606,
+      "forks": 518,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -913,10 +943,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "stars": 4938,
-      "forks": 416,
+      "stars": 5276,
+      "forks": 442,
       "language": "C++",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   }
 ]
