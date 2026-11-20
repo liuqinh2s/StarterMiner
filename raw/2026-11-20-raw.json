@@ -110,101 +110,51 @@
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "创业邦",
-    "title": "小米关联公司近期入股两家芯片企业",
-    "summary": "天眼查App显示，近日，武汉阿基米德半导体有限公司、芯词元半导体（杭州）有限责任公司均发生工商变更，新增瀚星创业投资有限公司为股东。其中，武汉阿基米德同时新增宁德时代新能源科技股份有限公司为股东；芯词元注册资本由124.375万元增至约132.02万元。 股东信息显示，瀚星创业投资有限公司由小米科技有限责任公司全资持股。目前，瀚星创投分别持有武汉阿基米德2%、芯词元4.014%的股份，宁德时代持有武汉阿基米德4%的股份。两家被投企业经营范围均包含集成电路设计、集成电路芯片设计及服务等。",
-    "url": "https://www.cyzone.cn/article/852277.html",
-    "published": "Thu, 29 Oct 2026 08:46:27 GMT",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "创业邦",
-    "title": "出品方三年前已注册影之刃零商标",
-    "summary": "据媒体报道，国产3A武侠动作游戏《影之刃零》正式发售，以Metacritic开分91分的成绩刷新国产单机最高分，并迅速登上Steam全球热销榜第一。 天眼查App显示，出品方关联公司北京灵游坊网络科技有限公司成立于2011年8月，法定代表人为梁其伟，注册资本约356万人民币，经营范围包括专业设计服务、货物进出口、技术进出口等，由天津艾思软件开发合伙企业（有限合伙）、梁其伟、广西腾讯创业投资有限公司等共同持股。知识产权信息显示，该公司于2023年成功注册“影之刃零”商标，国际分类为科学仪器。",
-    "url": "https://www.cyzone.cn/article/852276.html",
-    "published": "Thu, 29 Oct 2026 03:28:09 GMT",
+    "source": "钛媒体",
+    "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
+    "summary": "一文看完本周大公司出海全全球化动态。",
+    "url": "https://www.tmtpost.com/8213045.html",
+    "published": "Fri, 20 Nov 2026 18:58:48 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-20"
   },
   {
     "source": "钛媒体",
-    "title": "北汽押注千TOPS算力芯片，舱驾融合还有多远？",
-    "summary": "北汽与新紫光布局千TOPS芯片，探索舱驾融合，算力如何转化为量产竞争力？",
-    "url": "https://www.tmtpost.com/8210564.html",
-    "published": "Fri, 20 Nov 2026 11:50:49 +0800",
+    "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+    "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+    "url": "https://www.tmtpost.com/8212798.html",
+    "published": "Fri, 20 Nov 2026 18:31:54 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-20"
   },
   {
     "source": "钛媒体",
-    "title": "阿里云加速增长，平头哥走向台前 | 看财报",
-    "summary": "2027年之后，阿里绝大部分新增AI芯片供给将以平头哥芯片为主。",
-    "url": "https://www.tmtpost.com/8211922.html",
-    "published": "Fri, 20 Nov 2026 11:40:58 +0800",
+    "title": "贵航股份抛5.5亿定增扩产：控股股东拟斥不超1亿认购，高增业绩下的扩张成色几何",
+    "summary": "三季度扣非净利增近 250%，汽车新能源化与航空技术改造同步押注。",
+    "url": "https://www.tmtpost.com/8212908.html",
+    "published": "Fri, 20 Nov 2026 18:29:24 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-20"
   },
   {
     "source": "钛媒体",
-    "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
-    "summary": "从抢用户到“赶”用户，AI行业变天了。",
-    "url": "https://www.tmtpost.com/8212022.html",
-    "published": "Fri, 20 Nov 2026 11:39:27 +0800",
+    "title": "Waymo被迫退出高速公路，无人驾驶的商业化开始碰到监管天花板",
+    "summary": "自动驾驶行业一直在回答一个问题：机器能不能像人一样开车？但当Robotaxi真正走向商业化，问题开始变得复杂。",
+    "url": "https://www.tmtpost.com/8211917.html",
+    "published": "Fri, 20 Nov 2026 17:22:50 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "钛媒体",
-    "title": "人形机器人遇冷：日租价从3000继续掉到1800，7月后融资普遍下滑",
-    "summary": "市场上的钱还在，但如何分变了。",
-    "url": "https://www.tmtpost.com/8211952.html",
-    "published": "Fri, 20 Nov 2026 11:39:11 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "钛媒体",
-    "title": "最近，创投圈冒出了一批神秘GP",
-    "summary": "第一笔融资，等来了保龄球老板。",
-    "url": "https://www.tmtpost.com/8212032.html",
-    "published": "Fri, 20 Nov 2026 11:39:02 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "钛媒体",
-    "title": "刚刚，七位亿万富豪同时诞生",
-    "summary": "598名非创始人员工，持股账面价值将超1亿美元。",
-    "url": "https://www.tmtpost.com/8212028.html",
-    "published": "Fri, 20 Nov 2026 11:25:35 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "钛媒体",
-    "title": "高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始",
-    "summary": "产业资本互相 “输血”，万亿估值能撑多久？",
-    "url": "https://www.tmtpost.com/8212110.html",
-    "published": "Fri, 20 Nov 2026 10:58:50 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
-    "source": "钛媒体",
-    "title": "从Anthropic敲钟，看中国大模型怎么定价？",
-    "summary": "Anthropic上市，更像是一次针对整个AI行业的压力测试。",
-    "url": "https://www.tmtpost.com/8211889.html",
-    "published": "Fri, 20 Nov 2026 10:47:09 +0800",
+    "source": "极客公园",
+    "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+    "summary": "作者｜宇航猿 编辑｜靖宇 AI 吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊 CEO 五年后，杰夫·贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克·巴贾杰（Vik Bajaj）罕见同台。 他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO 。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。 早在 2024 年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴奋，直言项目进展太快，自己根本「没法坐在场边干看着」。 能让贝佐斯重返战场的，是个大赌局。 点开 Prometheus 的官网首页，目前只有极简的品牌标识与暖色光晕背景，几乎看不到任何公开的产品细节。但在水面之下， 这家仅有约 250 名员工的神秘公司，估值已经飙升至 410 亿美元，累计筹集了约 145 亿美元资金 。 极度低调的 Prometheus 官网首页目前仅展示品牌标识，尚未向公众开放工具集｜图片来源：Prometheus 官网 在长达 32 分钟的",
+    "url": "http://www.geekpark.net/news/374282",
+    "published": "Fri, 20 Nov 2026 16:24:30 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-20"
@@ -470,6 +420,16 @@
     "fetchedAt": "2026-11-20"
   },
   {
+    "source": "爱范儿",
+    "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+    "summary": "最好的智驾芯片，是让你彻底忘掉它。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "published": "Fri, 20 Nov 2026 10:39:47 +0000",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
     "source": "TechCrunch",
     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
@@ -701,6 +661,16 @@
   },
   {
     "source": "Hacker News",
+    "title": "Google will launch Android app verification requirement globally in January 2027",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/ Comments URL: https://news.ycombinator.com/item?id=50571917 Points: 1 # Comments: 0",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+    "published": "Fri, 20 Nov 2026 08:47:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-20"
+  },
+  {
+    "source": "Hacker News",
     "title": "Launch-at-Login for Windows | Firefox Help",
     "summary": "Article URL: https://support.mozilla.org/en-US/kb/launch-login-firefox Comments URL: https://news.ycombinator.com/item?id=50569614 Points: 1 # Comments: 0",
     "url": "https://support.mozilla.org/en-US/kb/launch-login-firefox",
@@ -890,16 +860,6 @@
     "fetchedAt": "2026-11-20"
   },
   {
-    "source": "Hacker News",
-    "title": "Human-written Launch HN posts get more upvotes than AI-generated ones",
-    "summary": "Article URL: https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts Comments URL: https://news.ycombinator.com/item?id=50543224 Points: 1 # Comments: 0",
-    "url": "https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts",
-    "published": "Wed, 18 Nov 2026 08:04:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-20"
-  },
-  {
     "source": "V2EX",
     "title": "我的 App 火了，然后苹果威胁要关闭我的开发者账号",
     "summary": "我是 iOS 上安卓模拟器[Andarium](https://apps.apple.com/us/app/andarium/id6827505184)的开发者。 昨天这个 App 通过苹果审核上架 App Store，结果很快在国内外都火了： - X：https://x.com/imxieyi/status/2123113325710225595 - IT 之家：https://mp.weixin.qq.com/s/ujoPBioGoiKZM_bo8QSVQg - GitHub: https://github.com/imxieyi/Kernarium 这个 App 也很快",
@@ -909,22 +869,22 @@
     "type": "community",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "replies": 133,
+      "replies": 208,
       "node": "iDev"
     }
   },
   {
     "source": "V2EX",
-    "title": "没有人会不爱上 Gemini 4 Neon",
-    "summary": "没想到仅过去两三个月，我就从 Grok 吹变成了 Opus 5.5 吹，再到现在的 Gemini 吹。 没有人会不爱上 Neon，作为目前速度与质量兼顾，最能听懂人话、说人话、创意性最高、最紧跟时事、道德底线最低的大模型，在干活之余还能享受心理按摩，体验极佳。 之前 Argon 好用但幻觉率太高，Carbon 聪明但太慢，现在 Neon 真是又快又好。 --- 除此之外日常还能使用 Gemini 的学习辅导、Deep Research 做其它领域的学习研究，已经成了我离不开的日常，柏拉图式询问完全改变学习的方式。20T 的 Google Drive 存放各种学习资料",
-    "url": "https://www.v2ex.com/t/1258290",
-    "published": 1795072748,
+    "title": "因为工作老生气,然后想了解一下看的观点是不是信息茧房",
+    "summary": "## 起因 - 同事 A 平时就吹国外模型牛,用 gpt pro 会员. - 最近和 A 冲突, 他不懂我项目代码,但是之前开发一直用我的系统,知道业务. 一直想完全用 AI 改我代码, 我很反感. 闹到大领导那,也就是打马虎眼, 说不要吵架.尽量不要互相改. ## 目前想法 - 我还是觉得 vibe coding ,harness ,agent 之类要有约束,审核之类还是需要人来有把控, 最近反正是经常看各种开源项目,能快速理解不同场景/行业/不同开发语言的 项目, 然后遇到各种需求可以快速应对.反正是想这离职. - 还是感觉自己太较真, 对工作, 不管是加班还是",
+    "url": "https://www.v2ex.com/t/1258423",
+    "published": 1795136945,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "replies": 80,
-      "node": "🤖Vibe Coding"
+      "replies": 100,
+      "node": "程序员"
     }
   },
   {
@@ -937,8 +897,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "stars": 5406,
-      "forks": 437,
+      "stars": 5915,
+      "forks": 469,
       "language": "Rust",
       "createdDaysAgo": 3
     }
@@ -953,8 +913,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-20",
     "meta": {
-      "stars": 4729,
-      "forks": 407,
+      "stars": 4938,
+      "forks": 416,
       "language": "C++",
       "createdDaysAgo": 3
     }
