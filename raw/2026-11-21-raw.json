@@ -101,40 +101,20 @@
   },
   {
     "source": "钛媒体",
-    "title": "旧面板厂不愁卖，芯片巨头为什么排队接盘",
-    "summary": "最关键的原因不是成本而是时间。",
-    "url": "https://www.tmtpost.com/8213412.html",
-    "published": "Sat, 21 Nov 2026 11:44:01 +0800",
+    "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+    "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元...",
+    "url": "https://www.tmtpost.com/8213535.html",
+    "published": "Sat, 21 Nov 2026 19:19:38 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-21"
   },
   {
     "source": "钛媒体",
-    "title": "做科学家创业路上的“一致行动人”—— 从一间工位到一桌夜话，海淀“接得住”科学家的每一步",
-    "summary": "11月18日，未名·AIPark人工智能创新街区在北大西门旁正式揭牌。依托中关村国际创新大厦、未来科技大厦两大核心载体，这个“从实验室到公司”的新空间开门迎客——教授在实验室里做出成果，出门走一公里，就能找到拎包入驻的办公室，还能对接算力、政策、资本和客户。这是海淀为科学家打开空间。",
-    "url": "https://www.tmtpost.com/8213414.html",
-    "published": "Sat, 21 Nov 2026 11:43:55 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-21"
-  },
-  {
-    "source": "钛媒体",
-    "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
-    "summary": "一文看完本周大公司出海全全球化动态。",
-    "url": "https://www.tmtpost.com/8213045.html",
-    "published": "Fri, 20 Nov 2026 18:58:48 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-21"
-  },
-  {
-    "source": "钛媒体",
-    "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
-    "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
-    "url": "https://www.tmtpost.com/8212798.html",
-    "published": "Fri, 20 Nov 2026 18:31:54 +0800",
+    "title": "清析智研王欢：大模型学完了人类知识，下一步去哪儿？",
+    "summary": "AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？",
+    "url": "https://www.tmtpost.com/8213250.html",
+    "published": "Sat, 21 Nov 2026 12:44:41 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-21"
@@ -690,20 +670,6 @@
     "fetchedAt": "2026-11-21"
   },
   {
-    "source": "V2EX",
-    "title": "许愿式编程会取代程序员吗？",
-    "summary": "在这周 [Tab 星期四](https://tabthursday.com/about)认识一个团队，他们在做一个用 app 许愿编程做 app 的 agent app，开发了几个月，已经拿到天使轮。 团队自己的开发也在用许愿式编程，跟我 chat 那位开发者认为绝大部分编码能力很快会被模型吃掉、且前沿模型（specifically, Fable 5.2）已经超越大多数程序员。 按这个预测观点的势头下去，不久之后不仅编码不需要，架构都不用人去学了。开发者还是早点转行为妙。 不知使用前沿模型的各位，日常用模型编码的感觉更多是相似、还是相反？你认为这个场景还有多久到达，亦或不可能",
-    "url": "https://www.v2ex.com/t/1258629",
-    "published": 1795171151,
-    "lang": "zh",
-    "type": "community",
-    "fetchedAt": "2026-11-21",
-    "meta": {
-      "replies": 31,
-      "node": "职场话题"
-    }
-  },
-  {
     "source": "GitHub新星",
     "title": "erkamyaman/rust-anything",
     "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
@@ -713,8 +679,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-21",
     "meta": {
-      "stars": 6768,
-      "forks": 536,
+      "stars": 6997,
+      "forks": 554,
       "language": "Rust",
       "createdDaysAgo": 4
     }
@@ -729,8 +695,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-21",
     "meta": {
-      "stars": 5385,
-      "forks": 449,
+      "stars": 5554,
+      "forks": 466,
       "language": "C++",
       "createdDaysAgo": 4
     }
