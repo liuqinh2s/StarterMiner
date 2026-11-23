@@ -111,6 +111,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "【钛晨报】英伟达董事会一致同意恢复黄仁勋CEO职务；荣耀CEO李健：荣耀阔折叠明年3月发布｜独家；中汽协：1-10月，销量排名前十位的MPV生产企业共销售64.8万辆",
+    "summary": "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品；人社部：非法骗取社保基金支出或者社保待遇，拟处骗取金额2倍以上5倍以下的罚款；市场监管总局发布《婴幼儿辅助食品生产许可审查细则（2026版）》；“固态锂电池标准项目组”将成立，正式编制《固态锂离子电池和电池组安全技术规范》；中国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项；监管明确两融调整要求，违约处置要稳妥审慎；中金所增加10年期国债期货合约可交割国债；深交所首批主动ETF平稳上市，引入180亿元增量资金；首批主动ETF在沪深交易所上市；乘联分会秘书长崔东树：2026年动力电池市场竞争趋向多元化",
+    "url": "https://www.tmtpost.com/8215026.html",
+    "published": "Tue, 24 Nov 2026 07:20:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-23"
+  },
+  {
+    "source": "钛媒体",
     "title": "杉数完成数亿元D轮融资：十年“冷门创业”，走到AI产业的关键处",
     "summary": "从数学优化算法到GPU加速，再到AI原生求解器，杉数十年的技术积累有了新的时代坐标。",
     "url": "https://www.tmtpost.com/8214351.html",
@@ -125,6 +135,16 @@
     "summary": "机器人圈的老板们做自媒体，本身就是创业的一部分。",
     "url": "https://www.tmtpost.com/8214356.html",
     "published": "Mon, 23 Nov 2026 17:08:46 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-23"
+  },
+  {
+    "source": "极客公园",
+    "title": "字节，该造手机了",
+    "summary": "11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链消息就没有断过。 而在中国，一家 AI 公司的手机其实已经卖到了第二代，这就是豆包手机。只不过在这台手机上，让助手帮你叫一辆车已经不算难事，但想让它接着给朋友回一条「我上车了」的微信，目前还做不到。 按曹操出行公布的用法，看到想去的地方，按一下手机侧面的 AI 键，豆包就能认出屏幕上的地址，路线和车型也都可以在对话里选。但等你上了车，它却没办法替你在微信里点下「发送」。 车之所以叫得到，是因为曹操出行把服务直接接给了豆包。微信并没有这么做：它和淘宝、美团一起，被列在豆包手机助手 10 月 14 日公布的一份清单里。清单上的应用超过 150 款，都不允许豆包代替用户在自己的页面上操作。 豆包公示的拒绝操作清单节选｜图片来源：豆包手机助手 要知道，这已经是第二代豆包手机了。去年 12 月，第一代努比亚 M153 还只是少量发售的工程样机，售价 3499 ",
+    "url": "http://www.geekpark.net/news/374374",
+    "published": "Mon, 23 Nov 2026 23:47:18 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-23"
@@ -390,16 +410,6 @@
     "fetchedAt": "2026-11-23"
   },
   {
-    "source": "极客公园",
-    "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
-    "summary": "作者｜Techno 之王 编辑｜靖宇 2026 年 11 月 4 日，美国中期选举结果落定后的第二天上午，OpenAI 的高管们坐到了一起。 据外媒援引知情人士的消息，他们讨论的是要不要重设 2027 年的数据中心容量预期。讨论还没有形成决定，但焦虑已经摆上了台面。 过去几个月，美国各地的大型数据中心项目接连被按下暂停键。得州前任州长 Abbott 从 8 月起冻结了数据中心的并网和空气许可，要求审计到年底；新当选的州长 Gina Hinojosa 承诺，在州议会立法保护居民之前，暂停所有新数据中心审批，而议会会期要到 2027 年 5 月才结束。 俄亥俄新州长 Amy Acton 提出有条件暂停，要求新项目承担全部电力成本、只能建在旧工业用地上；佐治亚新州长 Keisha Lance Bottoms 则准备上任后直接签行政令，暂停全州新建。 据 Tokenpost 统计， 今年 7 月到 11 月 4 日，美国至少有 21 个大型数据中心项目被取消，已经接近 2025 年全年的 23 个 。Anthropic 在 10 月 26 日提交的招股书里，也把暂停令写进了风险因素：一些辖区正",
-    "url": "http://www.geekpark.net/news/373816",
-    "published": "Wed, 11 Nov 2026 13:23:24 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-23"
-  },
-  {
     "source": "爱范儿",
     "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
     "summary": "具身智能的「大结果」终于有了实感 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -421,40 +431,30 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "published": "Mon, 23 Nov 2026 22:05:50 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-23"
   },
   {
     "source": "TechCrunch",
-    "title": "Startup sues Apple in India over tap-to-share contacts feature",
-    "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-    "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-    "published": "Sat, 21 Nov 2026 04:00:00 +0000",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "published": "Mon, 23 Nov 2026 22:02:05 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-23"
   },
   {
     "source": "TechCrunch",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "published": "Fri, 20 Nov 2026 19:53:41 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-23"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Super-hot rock geothermal could end data center energy woes",
-    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-    "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-    "published": "Fri, 20 Nov 2026 18:34:00 +0000",
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "published": "Mon, 23 Nov 2026 14:43:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-23"
@@ -670,34 +670,99 @@
     "fetchedAt": "2026-11-23"
   },
   {
+    "source": "The Verge",
+    "title": "Ladybird, the first new browser engine in years, is now available to test",
+    "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]",
+    "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+    "published": "2026-11-23T17:38:09-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-23"
+  },
+  {
+    "source": "The Verge",
+    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "published": "2026-11-23T17:10:32-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-23"
+  },
+  {
+    "source": "The Verge",
+    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+    "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price […]",
+    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+    "published": "2026-11-23T16:36:48-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-23"
+  },
+  {
+    "source": "The Verge",
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "published": "2026-11-23T15:00:00-05:00",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-23"
+  },
+  {
+    "source": "微博",
+    "title": "#美股芯片股涨疯了#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23美股芯片股涨疯了%23",
+    "published": "2026-11-23",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "hotValue": 280007,
+      "rank": 4
+    }
+  },
+  {
+    "source": "B站",
+    "title": "麻辣烫出海成为韩国顶流",
+    "summary": "",
+    "url": "https://search.bilibili.com/all?keyword=麻辣烫出海成为韩国顶流",
+    "published": "2026-11-23",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "hotValue": 283742
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "敢写代码问路在何方？2027 年准备转行",
+    "summary": "我是软件工程师，有工科博士学历，现在每天语音和 ai 结对编程。 现在很怕 AI 把程序员这条路冲垮，想转技工手艺活，争取退休前稳一点。但又担心以后人形机器人慢慢把体力活也替代掉，想找一条能安稳干到退休的路子，大家觉得手艺活真的稳吗？",
+    "url": "https://www.v2ex.com/t/1259114",
+    "published": 1795413478,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "replies": 51,
+      "node": "程序员"
+    }
+  },
+  {
     "source": "GitHub新星",
-    "title": "ItsNotRexed/Leonida",
+    "title": "ProjectLeonida/Leonida",
     "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "url": "https://github.com/ItsNotRexed/Leonida",
+    "url": "https://github.com/ProjectLeonida/Leonida",
     "published": "2026-11-20T20:07:13Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 18771,
-      "forks": 1584,
+      "stars": 34014,
+      "forks": 3098,
       "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-    "published": "2026-11-19T14:43:10Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-23",
-    "meta": {
-      "stars": 2760,
-      "forks": 40,
-      "language": null,
       "createdDaysAgo": 3
     }
   },
@@ -711,10 +776,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 2593,
-      "forks": 163,
+      "stars": 3095,
+      "forks": 199,
       "language": "Rust",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 2
     }
   },
   {
@@ -727,74 +792,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 2218,
-      "forks": 134,
+      "stars": 2304,
+      "forks": 147,
       "language": "Python",
       "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "omonkeyz/xbox-emulator",
-    "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-    "url": "https://github.com/omonkeyz/xbox-emulator",
-    "published": "2026-11-21T08:08:39Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-23",
-    "meta": {
-      "stars": 1470,
-      "forks": 89,
-      "language": "Rust",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "R0Y00/Xbox2Windows",
-    "summary": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
-    "url": "https://github.com/R0Y00/Xbox2Windows",
-    "published": "2026-11-20T17:43:52Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-23",
-    "meta": {
-      "stars": 1392,
-      "forks": 137,
-      "language": "Python",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Lemxy/WinRust",
-    "summary": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
-    "url": "https://github.com/Lemxy/WinRust",
-    "published": "2026-11-17T14:27:06Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-23",
-    "meta": {
-      "stars": 1312,
-      "forks": 75,
-      "language": "Rust",
-      "createdDaysAgo": 5
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "os6/nospeaker",
-    "summary": "make your macbook's trackpad talk using its haptic motor",
-    "url": "https://github.com/os6/nospeaker",
-    "published": "2026-11-22T12:05:54Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-23",
-    "meta": {
-      "stars": 848,
-      "forks": 47,
-      "language": "Swift",
-      "createdDaysAgo": 0
     }
   },
   {
@@ -807,10 +808,106 @@
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 790,
-      "forks": 28,
+      "stars": 1970,
+      "forks": 74,
       "language": "Objective-C++",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "omonkeyz/xbox-emulator",
+    "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "published": "2026-11-21T08:08:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 1653,
+      "forks": 106,
+      "language": "Rust",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "R0Y00/Xbox2Windows",
+    "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "published": "2026-11-20T17:43:52Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 1493,
+      "forks": 155,
+      "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "os6/nospeaker",
+    "summary": "make your macbook's trackpad talk using its haptic motor",
+    "url": "https://github.com/os6/nospeaker",
+    "published": "2026-11-22T12:05:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 1402,
+      "forks": 66,
+      "language": "Swift",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Lemxy/WinRust",
+    "summary": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+    "url": "https://github.com/Lemxy/WinRust",
+    "published": "2026-11-17T14:27:06Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 1363,
+      "forks": 79,
+      "language": "Rust",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ivall/xcl",
+    "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "url": "https://github.com/ivall/xcl",
+    "published": "2026-11-20T20:03:21Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 1337,
+      "forks": 154,
+      "language": "Rust",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Marvisak/VIctory",
+    "summary": "An attempt at running GTA VI on PC",
+    "url": "https://github.com/Marvisak/VIctory",
+    "published": "2026-11-23T21:47:25Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 963,
+      "forks": 67,
+      "language": "Rust",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -823,25 +920,9 @@
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 719,
-      "forks": 193,
+      "stars": 861,
+      "forks": 301,
       "language": "Lean",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "MSNightmare/FastUnlock",
-    "summary": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-    "url": "https://github.com/MSNightmare/FastUnlock",
-    "published": "2026-11-19T12:37:51Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-23",
-    "meta": {
-      "stars": 688,
-      "forks": 114,
-      "language": null,
       "createdDaysAgo": 3
     }
   },
@@ -855,8 +936,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 685,
-      "forks": 40,
+      "stars": 777,
+      "forks": 45,
       "language": "TypeScript",
       "createdDaysAgo": 4
     }
@@ -871,10 +952,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-23",
     "meta": {
-      "stars": 659,
-      "forks": 543,
+      "stars": 702,
+      "forks": 579,
       "language": "Python",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "MSNightmare/FastUnlock",
+    "summary": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "published": "2026-11-19T12:37:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 701,
+      "forks": 118,
+      "language": null,
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "danielwh2/sprite-stacking",
+    "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+    "url": "https://github.com/danielwh2/sprite-stacking",
+    "published": "2026-11-20T14:32:43Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-23",
+    "meta": {
+      "stars": 645,
+      "forks": 49,
+      "language": "HTML",
+      "createdDaysAgo": 3
     }
   }
 ]
