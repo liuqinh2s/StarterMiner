@@ -101,6 +101,16 @@
   },
   {
     "source": "钛媒体",
+    "title": "编造检验记录，宝莱特华北唯一透析粉液基地遭飞检停产",
+    "summary": "叠加血透耗材集采持续降价、主业连续亏损的经营压力，宝莱特把目光投向存储芯片赛道，试图寻找新的增长支点。",
+    "url": "https://www.tmtpost.com/8216634.html",
+    "published": "Tue, 24 Nov 2026 21:40:24 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "钛媒体",
     "title": "AI办公，不再只拼大模型",
     "summary": "AI办公竞争升维。",
     "url": "https://www.tmtpost.com/8215293.html",
@@ -135,16 +145,6 @@
     "summary": "2026年末具身智能热钱逃离整机，转向务实赛道。",
     "url": "https://www.tmtpost.com/8216201.html",
     "published": "Tue, 24 Nov 2026 17:10:45 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "钛媒体",
-    "title": "这些一流大模型，为什么选择不同的 Benchmark？",
-    "summary": "Benchmark正成为观察各家AI战略押注的窗口之一。",
-    "url": "https://www.tmtpost.com/8216115.html",
-    "published": "Tue, 24 Nov 2026 17:10:35 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-24"
@@ -431,6 +431,66 @@
   },
   {
     "source": "TechCrunch",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "published": "Tue, 24 Nov 2026 22:27:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "published": "Tue, 24 Nov 2026 21:48:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "published": "Tue, 24 Nov 2026 21:19:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "published": "Tue, 24 Nov 2026 18:30:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+    "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+    "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+    "published": "Tue, 24 Nov 2026 17:29:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+    "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+    "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+    "published": "Tue, 24 Nov 2026 16:40:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-24"
+  },
+  {
+    "source": "TechCrunch",
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
@@ -445,16 +505,6 @@
     "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
     "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
     "published": "Mon, 23 Nov 2026 22:02:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "published": "Mon, 23 Nov 2026 14:43:03 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-24"
@@ -721,210 +771,10 @@
   },
   {
     "source": "The Verge",
-    "title": "Google alternative Kagi launches an email service",
-    "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]",
-    "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-    "published": "2026-11-23T19:02:52-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "The Verge",
-    "title": "Ladybird, the first new browser engine in years, is now available to test",
-    "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]",
-    "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-    "published": "2026-11-23T17:38:09-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "The Verge",
-    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-    "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "published": "2026-11-23T17:10:32-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "The Verge",
-    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-    "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price […]",
-    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-    "published": "2026-11-23T16:36:48-05:00",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Russia May Launch a Nuclear-Armed Satellite Far Sooner Than We Thought",
-    "summary": "Article URL: https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/ Comments URL: https://news.ycombinator.com/item?id=50626654 Points: 1 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-    "published": "Tue, 24 Nov 2026 11:24:55 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
-    "summary": "Article URL: https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/ Comments URL: https://news.ycombinator.com/item?id=50625553 Points: 1 # Comments: 1",
-    "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
-    "published": "Tue, 24 Nov 2026 08:52:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Russia will launch a routine ISS supply mission tomorrow",
-    "summary": "Article URL: https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/ Comments URL: https://news.ycombinator.com/item?id=50620433 Points: 2 # Comments: 0",
-    "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-    "published": "Mon, 23 Nov 2026 22:39:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-    "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 24 # Comments: 19",
-    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-    "published": "Mon, 23 Nov 2026 21:56:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Bottleneck Above Us: Launch capacity is the real constraint in space",
-    "summary": "Article URL: https://intrinsiq.substack.com/p/the-bottleneck-above-us Comments URL: https://news.ycombinator.com/item?id=50618171 Points: 1 # Comments: 0",
-    "url": "https://intrinsiq.substack.com/p/the-bottleneck-above-us",
-    "published": "Mon, 23 Nov 2026 19:54:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "NATO believes Russia is ready to launch nuclear-armed satellite",
-    "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/ Comments URL: https://news.ycombinator.com/item?id=50616384 Points: 9 # Comments: 2",
-    "url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/",
-    "published": "Mon, 23 Nov 2026 18:12:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
-    "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/g0mtcg4mi Comments URL: https://news.ycombinator.com/item?id=50613229 Points: 8 # Comments: 2",
-    "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi",
-    "published": "Mon, 23 Nov 2026 15:17:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: Site-kit – five static-site launch tools in one local CLI",
-    "summary": "Article URL: https://github.com/jasveerai88/site-kit Comments URL: https://news.ycombinator.com/item?id=50612425 Points: 2 # Comments: 0",
-    "url": "https://github.com/jasveerai88/site-kit",
-    "published": "Mon, 23 Nov 2026 14:38:06 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Show HN: First Trillion $ per month Startup is here (parody)",
-    "summary": "Article URL: https://tusharsrivastava.github.io/infiverse/ Comments URL: https://news.ycombinator.com/item?id=50610486 Points: 4 # Comments: 3",
-    "url": "https://tusharsrivastava.github.io/infiverse/",
-    "published": "Mon, 23 Nov 2026 11:54:13 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Is selling an AI version of your face to this startup the future of Hollywood?",
-    "summary": "Article URL: https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/ Comments URL: https://news.ycombinator.com/item?id=50608139 Points: 1 # Comments: 0",
-    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "published": "Mon, 23 Nov 2026 06:21:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Canada recommits to federal funding for news",
-    "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 126 # Comments: 130",
-    "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-    "published": "Sun, 22 Nov 2026 19:10:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon nearing $7.5B deal to buy AI startup Decart: FT",
-    "summary": "Article URL: https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart Comments URL: https://news.ycombinator.com/item?id=50601445 Points: 1 # Comments: 0",
-    "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
-    "published": "Sun, 22 Nov 2026 16:59:28 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Startup sues Apple in India over tap-to-share contacts feature",
-    "summary": "Article URL: https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/ Comments URL: https://news.ycombinator.com/item?id=50600224 Points: 2 # Comments: 0",
-    "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-    "published": "Sun, 22 Nov 2026 14:51:02 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: Where the company's employees launch the tools that Claude created",
-    "summary": "Hi everyone, Here is a situation: In a typical company these days, many employees are creating tools using AI (Claude & Cursor) to help with their work. They run these tools on their own computers, which no one else can use or on a builder platform with a public URL and either no login or a hand-rolled one the agent wrote. Question: Where do they run this? Who can see it? What happens if an employee leaves the company? Comments URL: https://news.ycombinator.com/item?id=50598355 Points: 5 # Comme",
-    "url": "https://news.ycombinator.com/item?id=50598355",
-    "published": "Sun, 22 Nov 2026 10:47:34 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Why founders say launch directories send little traffic, and how they judge them",
-    "summary": "Article URL: https://mambatxhub.com Comments URL: https://news.ycombinator.com/item?id=50596460 Points: 1 # Comments: 0",
-    "url": "https://mambatxhub.com",
-    "published": "Sun, 22 Nov 2026 05:05:29 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Open-Source FPGA The \"startup idea\" to \"go big fast\"",
-    "summary": "FPGAs are general purpose and can be made to do anything. They are basically a function of the number of repeated elements. They are \"commodity items\" except for one fact. The current FPGA manufacturers won't disclose the details of the design internals to \"protect their intellectual property\". Only small FPGAs have been reverse engineered and there are some high-quality tools that have been developed. Their limitation is information. Because of high costs set by the big players the ability to b",
-    "url": "https://news.ycombinator.com/item?id=50595097",
-    "published": "Sun, 22 Nov 2026 00:41:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-24"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Amazon closes in on $7.5B deal to buy AI startup Decart",
-    "summary": "Article URL: https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616 Comments URL: https://news.ycombinator.com/item?id=50592314 Points: 2 # Comments: 0",
-    "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
-    "published": "Sat, 21 Nov 2026 18:50:27 +0000",
+    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+    "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+    "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+    "published": "2026-11-24T13:15:00-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-24"
@@ -939,26 +789,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 7933,
-      "forks": 1052,
+      "stars": 11212,
+      "forks": 1641,
       "language": "Rust",
-      "createdDaysAgo": 0
+      "createdDaysAgo": 1
     }
   },
   {
     "source": "GitHub新星",
-    "title": "ivall/xcl",
+    "title": "xcl-dev/xcl",
     "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-    "url": "https://github.com/ivall/xcl",
+    "url": "https://github.com/xcl-dev/xcl",
     "published": "2026-11-20T20:03:21Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 6206,
-      "forks": 762,
+      "stars": 7789,
+      "forks": 1026,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -971,10 +821,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 3415,
-      "forks": 232,
+      "stars": 3587,
+      "forks": 255,
       "language": "Rust",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -987,10 +837,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 2799,
-      "forks": 113,
+      "stars": 3329,
+      "forks": 149,
       "language": "Objective-C++",
       "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "4lwayz/portwatch-vi",
+    "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "url": "https://github.com/4lwayz/portwatch-vi",
+    "published": "2026-11-21T23:16:41Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-24",
+    "meta": {
+      "stars": 2779,
+      "forks": 70,
+      "language": "JavaScript",
+      "createdDaysAgo": 3
     }
   },
   {
@@ -1003,8 +869,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 2379,
-      "forks": 150,
+      "stars": 2480,
+      "forks": 155,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -1019,10 +885,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 1767,
-      "forks": 195,
+      "stars": 1896,
+      "forks": 215,
       "language": "Python",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ubiquitarianism/leonida",
+    "summary": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+    "url": "https://github.com/ubiquitarianism/leonida",
+    "published": "2026-11-23T23:54:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-24",
+    "meta": {
+      "stars": 1843,
+      "forks": 400,
+      "language": "Python",
+      "createdDaysAgo": 0
     }
   },
   {
@@ -1035,8 +917,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 1740,
-      "forks": 115,
+      "stars": 1817,
+      "forks": 120,
       "language": "Rust",
       "createdDaysAgo": 3
     }
@@ -1051,58 +933,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 1615,
-      "forks": 82,
+      "stars": 1748,
+      "forks": 88,
       "language": "Swift",
-      "createdDaysAgo": 1
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "4lwayz/portwatch-vi",
-    "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-    "url": "https://github.com/4lwayz/portwatch-vi",
-    "published": "2026-11-21T23:16:41Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-24",
-    "meta": {
-      "stars": 1558,
-      "forks": 35,
-      "language": "JavaScript",
       "createdDaysAgo": 2
     }
   },
   {
     "source": "GitHub新星",
-    "title": "ubiquitarianism/leonida",
-    "summary": "A continuation of Leonida, the Xbox > PC port of GTA VI",
-    "url": "https://github.com/ubiquitarianism/leonida",
-    "published": "2026-11-23T23:54:39Z",
+    "title": "fxceless/victory-fork",
+    "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "url": "https://github.com/fxceless/victory-fork",
+    "published": "2026-11-24T18:02:37Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 1017,
-      "forks": 223,
-      "language": "Python",
+      "stars": 1641,
+      "forks": 369,
+      "language": "Rust",
       "createdDaysAgo": 0
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "leanprover-community/riemann-hypothesis",
-    "summary": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
-    "url": "https://github.com/leanprover-community/riemann-hypothesis",
-    "published": "2026-11-20T14:47:49Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-24",
-    "meta": {
-      "stars": 951,
-      "forks": 352,
-      "language": "Lean",
-      "createdDaysAgo": 3
     }
   },
   {
@@ -1115,10 +965,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 858,
-      "forks": 54,
+      "stars": 1163,
+      "forks": 67,
       "language": "TypeScript",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "leanprover-community/riemann-hypothesis",
+    "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "published": "2026-11-20T14:47:49Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-24",
+    "meta": {
+      "stars": 1040,
+      "forks": 405,
+      "language": "Lean",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "published": "2026-11-22T18:50:17Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-24",
+    "meta": {
+      "stars": 862,
+      "forks": 62,
+      "language": "Rust",
+      "createdDaysAgo": 2
     }
   },
   {
@@ -1131,26 +1013,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 726,
-      "forks": 51,
+      "stars": 770,
+      "forks": 57,
       "language": "HTML",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-    "summary": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
-    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-    "published": "2026-11-19T10:40:46Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-24",
-    "meta": {
-      "stars": 721,
-      "forks": 600,
-      "language": "Python",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 4
     }
   },
   {
@@ -1163,74 +1029,42 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 711,
-      "forks": 120,
+      "stars": 724,
+      "forks": 123,
       "language": null,
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   },
   {
     "source": "GitHub新星",
-    "title": "ItsNotRexed/Hookshot",
-    "summary": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
-    "url": "https://github.com/ItsNotRexed/Hookshot",
-    "published": "2026-11-20T20:06:20Z",
+    "title": "deterministic-machines/deslop-please",
+    "summary": "Bring (back) sanity to your code",
+    "url": "https://github.com/deterministic-machines/deslop-please",
+    "published": "2026-11-22T05:36:03Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 663,
+      "stars": 723,
       "forks": 32,
-      "language": "C++",
-      "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-    "summary": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
-    "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-    "published": "2026-11-21T17:08:48Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-24",
-    "meta": {
-      "stars": 641,
-      "forks": 28,
-      "language": "HTML",
+      "language": "Rust",
       "createdDaysAgo": 2
     }
   },
   {
     "source": "GitHub新星",
-    "title": "ThreatDefence/agentic-attack-detections",
-    "summary": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-    "published": "2026-11-20T00:06:24Z",
+    "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "summary": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "published": "2026-11-19T10:40:46Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 600,
-      "forks": 123,
+      "stars": 722,
+      "forks": 600,
       "language": "Python",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "erkamyaman/safe-anything",
-    "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-    "url": "https://github.com/erkamyaman/safe-anything",
-    "published": "2026-11-22T16:44:10Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-24",
-    "meta": {
-      "stars": 564,
-      "forks": 45,
-      "language": "Rust",
-      "createdDaysAgo": 1
+      "createdDaysAgo": 5
     }
   },
   {
@@ -1243,10 +1077,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-24",
     "meta": {
-      "stars": 560,
-      "forks": 49,
+      "stars": 712,
+      "forks": 54,
       "language": "Python",
       "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ItsNotRexed/Hookshot",
+    "summary": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+    "url": "https://github.com/ItsNotRexed/Hookshot",
+    "published": "2026-11-20T20:06:20Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-24",
+    "meta": {
+      "stars": 702,
+      "forks": 37,
+      "language": "C++",
+      "createdDaysAgo": 4
     }
   }
 ]
