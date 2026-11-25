@@ -155,7 +155,7 @@
         "emails": [],
         "socials": {
           "twitter": "tinytechfox",
-          "linkedin": "will-ballentine-a34908222"
+          "linkedin": "amw"
         },
         "careerPage": "https://buildhop.io/careers",
         "jobListings": []
@@ -1527,14 +1527,8 @@
       "fetchedAt": "2026-11-25",
       "website": {
         "website": "https://www.latitudemedia.com/news/span-to-launch-mini-ai-data-centers-for-distributed-at-home-compute/",
-        "emails": [
-          "info@latitudemedia.com",
-          "events@latitudemedia.com"
-        ],
-        "socials": {
-          "twitter": "_LatitudeMedia",
-          "linkedin": "latitude-media-inc"
-        },
+        "emails": [],
+        "socials": {},
         "careerPage": null,
         "jobListings": []
       },
