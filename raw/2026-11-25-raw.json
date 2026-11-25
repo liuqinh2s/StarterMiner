@@ -80,41 +80,31 @@
     "fetchedAt": "2026-11-25"
   },
   {
-    "source": "创业邦",
-    "title": "共绩科技完成新一轮数亿元融资",
-    "summary": "近日，共绩科技完成新一轮数亿元融资，中国互联网投资基金、宁波问鼎、溥泉资本、元禾璞华等参与投资。公司从事分布式算力调度，连接分散的GPU资源，为模型训练、推理及AI应用提供按需调用的算力。 据天眼查显示，北京共绩科技有限公司申请的\"一种互联网故障算力节点快速处置的冷热备份方法及系统\"发明专利于2026年10月20日公布，目前处于审中状态。摘要显示，冷备份节点提前下载并部署运行环境，热备份则在运行节点之外另设备用节点，用于缩短节点故障离线后的文件下载和程序启动等待时间。",
-    "url": "https://www.cyzone.cn/article/852764.html",
-    "published": "Tue, 03 Nov 2026 05:52:48 GMT",
+    "source": "极客公园",
+    "title": "Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会",
+    "summary": "在模型飞速演进的 2026 年，硬件世界反而开始告别「爽文叙事」。 前两年聊 AI 硬件，行业里经常讨论做出一个取代智能手机的「下一代超级入口」的终局命题。听着很过瘾，但真干起来才发现，做硬件这事儿，哪有那么多一步登天。 今年，气氛明显不一样了。 创业者们扎进一个个具体的生活场景里，一批新形态的产品，正在一些新场景里逐渐成为共识。 所以，今年跑得最快的几个方向，都没有「下一代入口」那么性感的叙事，但又都挺有意思： 健康可穿戴 AI 加入后，原本冰冷的身体信号，变成了普通消费者随时能看懂的身体状态、训练指导和睡眠建议。可穿戴，正在从记录仪变成随身教练。 录音卡 录音也正在从单纯的「存储」，向可以随时调取的个人记忆，甚至工作助手演进。以至于行业已经开始讨论，这类可以在特定场景里采集大量物理世界上下文的设备，也许会成为 Personal Agent 的第一个硬件形态。 墨水屏 一个典型的「反参数叙事」品类。彩墨屏技术的成熟，加上开源插件生态的繁荣，墨水屏从阅读器，演进出了 AI 画框、桌面信息板、影像相纸、手机背屏等一众形态。靠低打扰、常显的纸感体验，长出了完全不一样的功能和情绪价值。 Ma",
+    "url": "http://www.geekpark.net/news/374487",
+    "published": "Wed, 25 Nov 2026 17:33:01 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-25"
   },
   {
-    "source": "钛媒体",
-    "title": "Edge AI Daily 早报（11月25日）",
-    "summary": "OpenAI与Anthropic因安全证明暂缓前沿模型，发布转向可控性验证；Anthropic跌破发行价，AI估值进入资本纪律期。GPT-6.2 Sol、Meta Muse、Google Personal Intelligence争夺默认入口，Claude Ship切入代码交付责任链。英伟达复职黄仁勋后仍面临听证与出口审计，OpenAI与思科开源Shirudo前移运行时防御。国内腾讯WorkBuddy推进办公Agent，阿里子公司列实体清单，超节点应对供应链收紧；数据中心自建燃气与AI黑客推高基础设施与安全成本。",
-    "url": "https://www.tmtpost.com/8216877.html",
-    "published": "Wed, 25 Nov 2026 08:29:56 +0800",
+    "source": "极客公园",
+    "title": "从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo",
+    "summary": "随身可穿戴，是智能硬件领域里一个非常清晰且明确的产品方向。 背后的逻辑，是把硬件「传感化」，用传感器在物理世界里拿到过去模型很难获得的上下文数据，再经过 AI 处理，最终兑现成高价值的个人服务。 落在具体产品上，目前已经可以看到两个「超级共识」的形态： 一类是以语音采集为抓手的个人效率工具，代表公司 Plaud 目前估值已经突破百亿；另一类是个人健康监测设备，这个赛道里既有超级巨头苹果旗下的 Apple Watch，也已经出现了 WHOOP、Oura 这样的新锐独角兽企业。 所以，对新晋入场的创业者们而言，要想在激烈竞争的共识里找到机会， 大概率需要找到一个新的「非共识」切口：要么是新的数据，要么是新的场景。 2025 年在深圳成立的 Heygo，正是希望在单板滑雪这个垂直场景里，重新挖掘数据的价值。 创始人 Edward 是一个有着 7 年雪龄的资深滑雪用户。在他看来，滑雪一直缺少一把评估表现的「尺子」。教练只能隔着雪服凭经验判断，AI 看不懂全景相机拍的视频，智能手表能记下心率和里程，却读不懂一次换刃…… 而单板滑雪的所有身体动作，最后都会通过双脚传到雪板上。所以，看明白了脚上的数",
+    "url": "http://www.geekpark.net/news/374470",
+    "published": "Wed, 25 Nov 2026 14:45:34 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-25"
   },
   {
-    "source": "钛媒体",
-    "title": "编造检验记录，宝莱特华北唯一透析粉液基地遭飞检停产",
-    "summary": "叠加血透耗材集采持续降价、主业连续亏损的经营压力，宝莱特把目光投向存储芯片赛道，试图寻找新的增长支点。",
-    "url": "https://www.tmtpost.com/8216634.html",
-    "published": "Tue, 24 Nov 2026 21:40:24 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
-    "source": "钛媒体",
-    "title": "AI办公，不再只拼大模型",
-    "summary": "AI办公竞争升维。",
-    "url": "https://www.tmtpost.com/8215293.html",
-    "published": "Tue, 24 Nov 2026 17:21:45 +0800",
+    "source": "极客公园",
+    "title": "荣耀眼里的 AI 手机：前沿模型可以进来，但入口不能拿走",
+    "summary": "作者｜张勇毅 编辑｜郑玄 11 月 23 日下午，荣耀在武汉发布了荣耀 700 系列，包括 700S、700 和 700 Pro 三款机型，补贴后 2899 元起，11 月 27 日开售。发布会上，全系 2 亿像素主摄、9000mAh 电池和背面那块 1.72 英寸小屏占了不少篇幅。 AI 手机助手 YOYO 豆包，这一代在荣耀 700 上有了专属的背屏显示载体｜图片来源：极客公园 但真正让手机圈竖起耳朵的，是荣耀官方通稿里的一个新称呼。荣耀手机上的 AI 助手一直叫 YOYO，到了荣耀 700 系列，它的正式名称变成了「AI 手机助手 YOYO 豆包」。 此前市面上搭载豆包手机助手的手机只有努比亚两代产品，荣耀 700 系列成了第二款搭载豆包的手机，只不过豆包在这台手机上的位置，和在努比亚手机上并不一样。 AI 能力，从手机正面到背面 荣耀 700 系列的 AI 能力，大半围绕这次机身背面的「AI 灵动背屏」和「YOYO 豆包」展开。 按荣耀官方介绍，新机首发了「AI 定制随心贴」，对助手说一句想要的画面，生成的图片就能贴到背屏上，平时看到喜欢的图片或表情包，长按拖一下也能放上去。官",
+    "url": "http://www.geekpark.net/news/374462",
+    "published": "Wed, 25 Nov 2026 13:02:43 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-25"
@@ -360,31 +350,11 @@
     "fetchedAt": "2026-11-25"
   },
   {
-    "source": "极客公园",
-    "title": "曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
-    "summary": "曝黄仁勋考虑重返英伟达担任 CEO，盟友正施压董事会 据英国《金融时报》周日报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。 报道称，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。 一位黄仁勋的盟友表示，他们正在组建一个由硅谷高管构成的「作战室」，游说黄仁勋重返英伟达，并计划争取白宫方面支持。该人士透露：「除了那些前沿 AI 实验室外，科技界所有大腕都爱戴黄仁勋。」他还补充称，这些行动得到了黄仁勋本人的支持。 不过，与其他创始人、CEO 不同，黄仁勋并没有英伟达的控股股份，因此无法推翻董事会任何决定。（来源：IT之家） 传苹果计划明年 WWDC 发布首款智能眼镜 据彭博社记者 Mark Gurman 披露，苹果计划在 2027 年 6 月举行的 WWDC 全球开发者大会上发布首款 AI 智能眼镜，并于当年年底前正式上市。这款产品内部代号为 N50，目前硬件设计已基本定型。 外观方面，苹果智能眼镜比 Meta 第二代 Ray-Ban 智能眼镜更加纤薄，摄像头直接集成在镜框内部，没有明显凸起。苹果",
-    "url": "http://www.geekpark.net/news/373994",
-    "published": "Mon, 16 Nov 2026 08:47:39 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
-    "source": "极客公园",
-    "title": "传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生",
-    "summary": "曝小米与「AMG 之父」创办的 HWA 秘密合作，希望打造「载入史册」新车 当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。 双方据称希望打造一款性能前所未有、足以载入汽车史册的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。 过去几周，多辆采用更激进设计的 SU7 Ultra 测试车现身纽博格林赛道。该媒体分析称，不排除小米已在开发更侧重赛道性能的 SU7 Ultra 升级版。 接近项目的技术人员此前透露，小米主要针对 SU7 Ultra 现有的薄弱环节进行改进。 新车的底盘经过重新调校，以更好地适应纽北赛道，车轮定位设定更加激进，尤其是外倾角；制动系统也进行了强化，不仅增大了规格，还改进了散热设计。 动力系统则将进一步提高输出功率和散热效率，空气动力学设计也有所优化，以增加下压力，并改善热气流的排出。 目前仍无法确定 HWA 是否参与了 SU7 Ultra 升级方案的研发，还是双方计划共同推出一",
-    "url": "http://www.geekpark.net/news/373993",
-    "published": "Sun, 15 Nov 2026 08:02:41 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
-    "source": "极客公园",
-    "title": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
-    "summary": "北京时间 11 月 4 日，苹果推送了 iOS 27.3 和 watchOS 27.3 的第一个开发者测试版，除了带来国行 Apple 智能，还给 Apple Watch 加入了两个全新的 AI 功能：一个是 Live Rewind，可以随时帮你回顾过去 15 秒内的对话；另一个则是 Siri Recap，手表会在一整天里记下你和别人的对话，再整理成摘要。不过这两个功能目前只有英文版，苹果也写明暂不在中国提供。 左为 Live Rewind，右为 Siri 回顾（Siri Recap）｜图片来源：Apple 在这两个功能发布之后，硬件创业者纷纷表示「巨头开始下场抢创业者的赛道了」。按苹果的说明，Apple Watch 把收到的音频加密传给 iPhone，由 iPhone 转写成文字，再交给苹果的私有云计算生成摘要。整个过程与市面上类似的 AI 录音转录功能异曲同工，不同的是，Apple Watch 并不需要你购买额外的硬件，它同样支持几乎全天候的录音，并且没有任何学习成本。 苹果称音频不录也不存，也不识别说话人｜图片来源：极客公园 Recap 暂时没有面向中国发布，但想要获得类似的体验",
-    "url": "http://www.geekpark.net/news/373946",
-    "published": "Fri, 13 Nov 2026 12:57:38 +0800",
+    "source": "爱范儿",
+    "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+    "summary": "AI 视频「烧钱」终结者 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "url": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
+    "published": "Wed, 25 Nov 2026 05:21:04 +0000",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-25"
@@ -455,6 +425,66 @@
     "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
     "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
     "published": "Tue, 24 Nov 2026 16:40:46 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-25"
+  },
+  {
+    "source": "TechNode",
+    "title": "Insta360 sets December 1 Ace Pro 3 launch, teasing interchangeable lenses",
+    "summary": "Insta360 will unveil its Ace Pro 3 action camera on December 1 at 8 p.m. Beijing time, the company announced in a teaser released Tuesday evening. The video points to interchangeable lenses, a variable aperture, focusing controls and background blur as the product’s main imaging upgrades. Those features would give users greater control over framing, […]",
+    "url": "https://technode.com/2026/11/25/insta360-sets-december-1-ace-pro-3-launch-teasing-interchangeable-lenses/",
+    "published": "Wed, 25 Nov 2026 05:13:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-25"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi targets Germany car launch in third quarter of 2027",
+    "summary": "Xiaomi plans to begin selling cars in Germany in the third quarter of 2027, management said during the company’s quarterly earnings call on Tuesday. The announcement gives a more specific timetable for its European launch, which the company had previously scheduled for the second half of next year. President Lu Weibing said Xiaomi has established […]",
+    "url": "https://technode.com/2026/11/25/xiaomi-targets-germany-car-launch-in-third-quarter-of-2027/",
+    "published": "Wed, 25 Nov 2026 05:13:31 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-25"
+  },
+  {
+    "source": "TechNode",
+    "title": "Bambu Lab launches $1,149 P3C with seven-slot tool changer",
+    "summary": "Bambu Lab launched its P3C desktop 3D printer worldwide on Tuesday, bringing the tool-changing architecture of its flagship H3C to a $1,149 package. The P3C AMS Combo includes the printer, an AMS 3P filament-management system and five print tools, with two additional slots available for expansion. Each print tool has an independent filament path. The […]",
+    "url": "https://technode.com/2026/11/25/bambu-lab-launches-1149-p3c-with-seven-slot-tool-changer/",
+    "published": "Wed, 25 Nov 2026 05:13:03 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-25"
+  },
+  {
+    "source": "TechNode",
+    "title": "BMW launches China-made Neue Klasse iX3 from RMB269,900",
+    "summary": "BMW launched its China-made Neue Klasse iX3 and began deliveries on Wednesday, with three versions priced from RMB269,900 to RMB339,900. The electric SUV has been lengthened for Chinese buyers, with a 3,005mm wheelbase that is 108mm longer than the international version. The iX3 uses BMW’s sixth-generation eDrive technology and an 800V electrical architecture. Its three […]",
+    "url": "https://technode.com/2026/11/25/bmw-launches-china-made-neue-klasse-ix3-from-rmb269900/",
+    "published": "Wed, 25 Nov 2026 05:11:35 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-25"
+  },
+  {
+    "source": "TechNode",
+    "title": "BYD launches new Tang EV from RMB187,900 with up to 850km range",
+    "summary": "BYD launched its third-generation Tang EV on Tuesday evening, pricing the five-seat electric SUV between RMB187,900 and RMB219,900. The three versions offer advertised CLTC ranges of 730km or 850km, pairing BYD’s second-generation Blade Battery with its flash-charging technology. The SUV measures more than five meters long and offers a rear-wheel-drive powertrain producing 300kW. An optional […]",
+    "url": "https://technode.com/2026/11/25/byd-launches-new-tang-ev-from-rmb187900-with-up-to-850km-range/",
+    "published": "Wed, 25 Nov 2026 05:10:08 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-25"
+  },
+  {
+    "source": "TechNode",
+    "title": "Huawei launches Mate X8 foldable with Kirin 9050 Pro, starting at RMB12,999",
+    "summary": "Huawei launched its Mate X8 foldable smartphone in China on Tuesday, with prices starting at RMB12,999 for a model with 12GB of RAM and 256GB of storage. The lineup extends to a 16GB/2TB version priced at RMB20,999. The device measures about 4.2mm unfolded and 8.95mm folded, making it Huawei’s thinnest book-style foldable to date. The […]",
+    "url": "https://technode.com/2026/11/25/huawei-launches-mate-x8-foldable-with-kirin-9050-pro-starting-at-rmb12999/",
+    "published": "Wed, 25 Nov 2026 05:08:39 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-25"
@@ -670,57 +700,31 @@
     "fetchedAt": "2026-11-25"
   },
   {
-    "source": "TechNode",
-    "title": "Kuaishou launches Kling Image 4.0 with native 8K generation",
-    "summary": "Kuaishou launched Kling Image 4.0 on Tuesday night, adding native 8K image generation and the ability to produce up to 10 coordinated images from a single prompt. The model is also available through an API for developers and enterprise customers. It combines visual understanding and image generation in one architecture, targeting work such as advertising, […]",
-    "url": "https://technode.com/2026/11/18/kuaishou-launches-kling-image-4-0-with-native-8k-generation/",
-    "published": "Wed, 18 Nov 2026 06:43:38 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei’s new sub-brand OSTA set to launch first phone, reportedly featuring Kirin 9030S chip",
-    "summary": "Huawei’s smartphone lineup is about to welcome a new brand. Last week, Huawei announced its new sub-brand, OSTA (Xingmang), would make its public debut on November 20. Huawei said the brand aims to explore new possibilities in AI. OSTA is expected to focus on AI-powered smartphones, adding another category to Huawei’s existing smartphone lineup. Huawei’s […]",
-    "url": "https://technode.com/2026/11/18/huaweis-new-sub-brand-osta-set-to-launch-first-phone-reportedly-featuring-kirin-9030s-chip/",
-    "published": "Wed, 18 Nov 2026 03:01:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
-    "source": "TechNode",
-    "title": "Huawei reveals the design of its first OSTA phone ahead of November 20 launch",
-    "summary": "Huawei’s new smartphone brand OSTA on Tuesday revealed the design of its first phone, the O1 Pro, ahead of its November 20 launch. The phone has an unusually wide body and a purple gradient finish, with a horizontal pill-shaped rear camera module. OSTA is positioning the O1 Pro as an AI phone running HarmonyOS. The […]",
-    "url": "https://technode.com/2026/11/17/huawei-reveals-the-design-of-its-first-osta-phone-ahead-of-november-20-launch/",
-    "published": "Tue, 17 Nov 2026 06:28:53 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
-    "source": "TechNode",
-    "title": "Former Meituan and Feishu executives reportedly team up to build an AI recording ring",
-    "summary": "Liu Yanxiang, who previously ran Meituan’s ticketing, vacation and transportation business, has left the company and teamed up with a former Feishu executive who led international operations to start Beijing-based Huling Technology, Sina Tech reported Tuesday. The startup has reportedly raised a seed round in the tens of millions of yuan and is preparing to […]",
-    "url": "https://technode.com/2026/11/17/former-meituan-and-feishu-executives-reportedly-team-up-to-build-an-ai-recording-ring/",
-    "published": "Tue, 17 Nov 2026 06:28:31 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-25"
-  },
-  {
     "source": "微博",
-    "title": "#郎永淳离开央视创业后现在怎么样了#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23郎永淳离开央视创业后现在怎么样了%23",
+    "title": "#斗鱼及创始人陈少杰被执行1.9亿余元#",
+    "summary": "",
+    "url": "https://s.weibo.com/weibo?q=%23斗鱼及创始人陈少杰被执行1.9亿余元%23",
     "published": "2026-11-25",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "hotValue": 524383,
-      "rank": 7
+      "hotValue": 355099,
+      "rank": 9
+    }
+  },
+  {
+    "source": "V2EX",
+    "title": "Mac 原生监控软件 Ebb 更新了磁盘清理和一波优化，再抽 10 个激活码",
+    "summary": "前阵子在站里发过自己做的原生 Mac 系统监控软件 **Ebb**（原帖：https://v2ex.com/t/1256714 ），收到很多 V 友的反馈，非常感谢。 这两周顺着大家的建议更新到了 **v0.11.0**，新增了**磁盘清理**功能，顺便做了一波性能优化，再来抽 **10 个永久激活码**回馈一下。 官网：https://ebbapp.top （macOS 13+，Apple 芯片 / Intel 通用，14 天免费试用，买断 $5） ### 主要更新 - **原生磁盘清理**（入口在「磁盘」页，参考了 Mole 的公开设计）： - 支持扫描应用/",
+    "url": "https://www.v2ex.com/t/1259642",
+    "published": 1795573679,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-11-25",
+    "meta": {
+      "replies": 55,
+      "node": "分享创造"
     }
   },
   {
@@ -733,8 +737,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 11575,
-      "forks": 1720,
+      "stars": 11942,
+      "forks": 1783,
       "language": "Rust",
       "createdDaysAgo": 1
     }
@@ -749,8 +753,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 7934,
-      "forks": 1059,
+      "stars": 8094,
+      "forks": 1094,
       "language": "Rust",
       "createdDaysAgo": 4
     }
@@ -765,8 +769,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 3675,
-      "forks": 264,
+      "stars": 3780,
+      "forks": 271,
       "language": "Rust",
       "createdDaysAgo": 3
     }
@@ -781,10 +785,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 3482,
-      "forks": 160,
-      "language": "Objective-C++",
-      "createdDaysAgo": 4
+      "stars": 3707,
+      "forks": 174,
+      "language": "C",
+      "createdDaysAgo": 5
     }
   },
   {
@@ -797,26 +801,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 3028,
-      "forks": 79,
+      "stars": 3270,
+      "forks": 89,
       "language": "JavaScript",
       "createdDaysAgo": 3
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "iamajmeena/neonclipping",
-    "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-    "url": "https://github.com/iamajmeena/neonclipping",
-    "published": "2026-11-19T10:00:43Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-25",
-    "meta": {
-      "stars": 2507,
-      "forks": 155,
-      "language": "Python",
-      "createdDaysAgo": 5
     }
   },
   {
@@ -829,10 +817,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 2174,
-      "forks": 557,
+      "stars": 2626,
+      "forks": 693,
       "language": "Rust",
       "createdDaysAgo": 0
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "iamajmeena/neonclipping",
+    "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "published": "2026-11-19T10:00:43Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-25",
+    "meta": {
+      "stars": 2559,
+      "forks": 162,
+      "language": "Python",
+      "createdDaysAgo": 6
     }
   },
   {
@@ -845,8 +849,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 1967,
-      "forks": 433,
+      "stars": 2108,
+      "forks": 465,
       "language": "Python",
       "createdDaysAgo": 1
     }
@@ -861,8 +865,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 1921,
-      "forks": 219,
+      "stars": 1937,
+      "forks": 224,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -877,10 +881,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 1829,
-      "forks": 121,
+      "stars": 1837,
+      "forks": 120,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -893,8 +897,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 1779,
-      "forks": 91,
+      "stars": 1818,
+      "forks": 95,
       "language": "Swift",
       "createdDaysAgo": 2
     }
@@ -909,58 +913,26 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 1255,
-      "forks": 74,
+      "stars": 1412,
+      "forks": 81,
       "language": "TypeScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
-    "title": "leanprover-community/riemann-hypothesis",
-    "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
-    "url": "https://github.com/leanprover-community/riemann-hypothesis",
-    "published": "2026-11-20T14:47:49Z",
+    "title": "Zettrox/ztrx",
+    "summary": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+    "url": "https://github.com/Zettrox/ztrx",
+    "published": "2026-11-25T01:12:08Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 1079,
-      "forks": 430,
-      "language": "Lean",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
-    "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-    "published": "2026-11-22T18:50:17Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-25",
-    "meta": {
-      "stars": 905,
-      "forks": 63,
+      "stars": 1360,
+      "forks": 256,
       "language": "Rust",
-      "createdDaysAgo": 2
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "deterministic-machines/deslop-please",
-    "summary": "Bring (back) sanity to your code",
-    "url": "https://github.com/deterministic-machines/deslop-please",
-    "published": "2026-11-22T05:36:03Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-25",
-    "meta": {
-      "stars": 817,
-      "forks": 38,
-      "language": "Rust",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 0
     }
   },
   {
@@ -973,7 +945,55 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 810,
+      "stars": 1298,
+      "forks": 0,
+      "language": "Rust",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Umbra9179/clipboard-history-manager-windows",
+    "summary": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+    "published": "2026-11-23T21:40:15Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-25",
+    "meta": {
+      "stars": 1265,
+      "forks": 0,
+      "language": "C#",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "leanprover-community/riemann-hypothesis",
+    "summary": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "published": "2026-11-20T14:47:49Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-25",
+    "meta": {
+      "stars": 1141,
+      "forks": 460,
+      "language": "Lean",
+      "createdDaysAgo": 4
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "solv4626/steam-achievement-manager-windows",
+    "summary": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+    "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+    "published": "2026-11-23T21:31:33Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-25",
+    "meta": {
+      "stars": 1063,
       "forks": 0,
       "language": "Rust",
       "createdDaysAgo": 1
@@ -989,57 +1009,41 @@
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 799,
-      "forks": 0,
+      "stars": 1060,
+      "forks": 1,
       "language": "Python",
       "createdDaysAgo": 1
     }
   },
   {
     "source": "GitHub新星",
-    "title": "rowanbyte3329/stardew-valley-mod-manager",
-    "summary": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
-    "url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
-    "published": "2026-11-23T21:21:35Z",
+    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "published": "2026-11-22T18:50:17Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 799,
-      "forks": 0,
-      "language": "C#",
-      "createdDaysAgo": 1
+      "stars": 1046,
+      "forks": 74,
+      "language": "Rust",
+      "createdDaysAgo": 2
     }
   },
   {
     "source": "GitHub新星",
-    "title": "danielwh2/sprite-stacking",
-    "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-    "url": "https://github.com/danielwh2/sprite-stacking",
-    "published": "2026-11-20T14:32:43Z",
+    "title": "kai415-debug/ffmpeg-video-audio-converter",
+    "summary": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+    "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+    "published": "2026-11-23T21:32:56Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-25",
     "meta": {
-      "stars": 799,
-      "forks": 62,
-      "language": "HTML",
-      "createdDaysAgo": 4
-    }
-  },
-  {
-    "source": "GitHub新星",
-    "title": "Umbra9179/clipboard-history-manager-windows",
-    "summary": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
-    "published": "2026-11-23T21:40:15Z",
-    "lang": "en",
-    "type": "signal",
-    "fetchedAt": "2026-11-25",
-    "meta": {
-      "stars": 785,
+      "stars": 1024,
       "forks": 0,
-      "language": "C#",
+      "language": "C++",
       "createdDaysAgo": 1
     }
   }
