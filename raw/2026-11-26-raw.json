@@ -1,10 +1,30 @@
 [
   {
     "source": "少数派",
+    "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+    "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+    "url": "https://sspai.com/post/116773",
+    "published": "Thu, 26 Nov 2026 17:30:00 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-26"
+  },
+  {
+    "source": "少数派",
     "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
     "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
     "url": "https://sspai.com/post/119560",
     "published": "Thu, 26 Nov 2026 08:08:07 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-26"
+  },
+  {
+    "source": "创业邦",
+    "title": "中国商飞等在上海成立私募投资基金 出资额20亿",
+    "summary": "天眼查App显示，近日，商飞私募投资基金（上海）合伙企业（有限合伙）成立，执行事务合伙人为商飞私募基金管理（上海）有限责任公司，出资额20亿元人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由中国商飞旗下商飞资本有限公司、建信信托有限责任公司、国开科技创业投资有限责任公司、上海浦东引领区投资中心（有限合伙）、上海国盛（集团）有限公司、商飞私募基金管理（上海）有限责任公司共同出资。",
+    "url": "https://www.cyzone.cn/article/855173.html",
+    "published": "Thu, 26 Nov 2026 03:50:33 GMT",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-26"
@@ -80,21 +100,41 @@
     "fetchedAt": "2026-11-26"
   },
   {
-    "source": "创业邦",
-    "title": "存储芯片工程样片完成验证，工艺迭代迈向量产考验",
-    "summary": "",
-    "url": "https://www.cyzone.cn/article/852901.html",
-    "published": "Wed, 04 Nov 2026 02:08:36 GMT",
+    "source": "钛媒体",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月24日）｜上市公司观察",
+    "summary": "盘面上人形机器人与消费电子走强，工业金属与贵金属领跌。本期两只标的均为首次跌停且处高估值一端：英力特因重大资产重组复牌，停牌前累积的涨幅在首日一字跌停中回吐，收盘约为定价的近五倍；鑫铂股份受光伏铝型材板块走低与业绩由盈转亏拖累，高开后跌停，收盘约为定价的两倍二。本期无连续跌停＋负偏离标的，第三部分不列示。",
+    "url": "https://www.tmtpost.com/8219199.html",
+    "published": "Thu, 26 Nov 2026 17:11:34 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-26"
   },
   {
     "source": "钛媒体",
-    "title": "四成收入系于恒瑞，碘造影剂原料药隐形冠军宇田医药冲刺北交所",
-    "summary": "真正的风险不在客户是谁，而在于集采中标价下调后，成本压力沿产业链向上游原料药传导。",
-    "url": "https://www.tmtpost.com/8218387.html",
-    "published": "Thu, 26 Nov 2026 09:56:34 +0800",
+    "title": "价值判断：涨停板的投资机会和风险提示（11月24日）｜上市公司观察",
+    "summary": "盘面主线是猪肉与机器人双线活跃，生猪价格走强带动养殖股，人形机器人延续热度。本期六只标的分为两端：三只首板折价，东方精工收在定价的三成四，阳光照明与天龙股份约在七成二与七成四；一只四连板与两只三连板溢价，中京电子收在一点九倍，金新农达四点二倍，克来机电约一点六倍。",
+    "url": "https://www.tmtpost.com/8219191.html",
+    "published": "Thu, 26 Nov 2026 17:10:53 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-26"
+  },
+  {
+    "source": "极客公园",
+    "title": "好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI",
+    "summary": "麻烦交给 AI，生活还给用户。 网上冲浪这么多年，你一定有过这样的经历：想取消一项自动续费，却怎么都找不到入口；明明是商家多扣了钱，申请退款却要层层转接；为了几十块钱，和客服解释半个小时，最后听到一句「非常抱歉，暂时无法为您处理」。 钱不一定很多，但就是咽不下这口气。更憋屈的是，你明明有道理，却没时间跟它耗。企业有一整套客服系统，而你可能只有一个午休时间。 现在，这种不对称的关系，终于迎来改变了。 AI，尤其是 Personal AI 的出现，让消费者可以把这些生活琐事，交给 AI 来处理，无论是邮件往来，或者是 App 上的申诉，Agent 都能一键代劳。 但是，新的问题，也出现了。 好消息是，AI 终于可以替你打客服电话了。坏消息是，电话那头可能也是 AI。 一边是企业派出的 AI 客服，一边是消费者派出的 AI 助理。双方不知疲倦地讨论一笔十几美元的账单争议，真正的消费者早就去忙别的了，只剩两个 AI 还在礼貌地交涉。 听起来像个黑色幽默，但在 2026 年的硅谷，这已经是创业公司认真研究的商业问题。 10 月，企业客服 AI 公司 Decagon 推出了 Personal Ag",
+    "url": "http://www.geekpark.net/news/374536",
+    "published": "Thu, 26 Nov 2026 17:04:47 +0800",
+    "lang": "zh",
+    "type": "news",
+    "fetchedAt": "2026-11-26"
+  },
+  {
+    "source": "极客公园",
+    "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+    "summary": "2026 年的视频大模型圈子，有一个心照不宣的保留节目：无论哪家推出新模型，最终的成绩页上，永远会留一行和 Seedance 2.5 的对标数据。 这款上半年坐稳行业标杆的闭源模型，如今成了整条赛道公认的「基准线」—— 快手可灵 Kling 3.0 上线，要比镜头控制与生成时长；阿里 Wan 3.0 推出，主打同画质下的性价比；MiniMax 发 H3 系列，也要在 AA 榜单上标清和 Seedance 的 Elo 分差。 你方唱罢我登场，榜首的排位刷了一轮又一轮，但行业的底色没变：顶尖能力始终攥在闭源厂商手里，靠云端 API 和创作平台对外输出。即便是开放基础模型权重的 MiniMax H3，其完整生成系统中仍有部分能力未开放。 直到 11 月 25 日，作为开源视频模型代表的 Sand.ai 正式 掀桌，公司宣布： 旗下 480B 总参数的 MAGI-2 音视频统一模型，计划尽快开源全量权重，把 Seedance 2.5 级别的顶尖生成能力，直接交到全球开发者手里。 上传《星月夜》《睡莲》《大碗岛的星期天下午》等五幅名画，让 MAGI-2 生成的一段 30 秒的第一人称奇幻短片 更",
+    "url": "http://www.geekpark.net/news/374532",
+    "published": "Thu, 26 Nov 2026 16:38:54 +0800",
     "lang": "zh",
     "type": "news",
     "fetchedAt": "2026-11-26"
@@ -360,16 +400,6 @@
     "fetchedAt": "2026-11-26"
   },
   {
-    "source": "极客公园",
-    "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
-    "summary": "作者｜桦林舞王 编辑｜靖宇 底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。 终于，一款国产旗舰模型现身了。 11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview 刚在 Token Plan 里低调露过面，今天正式版直接亮出了完整底牌。 新模型依然维持着 2.4 万亿（2.4T）的主干总参数规模，原生支持文本、图像和视频输入，上下文窗口拉到了 100 万 Token。不过比参数表更显眼的，是官方同时给出的一笔账单：在模拟真实工作场景的评测里，千问 4 Max 跑完单个任务的平均费用， 从上一代的 26.58 元降到了 11.16 元，直接砍掉 58% 。 千问团队这次释放的信号很明确，旗舰大模型单纯拼纸面考分的阶段翻篇了，现在的目标是把模型塞进真实工作流，当一个能扛长活、也算得过账的「新同事」。 01 给 2.4 万亿参数的巨兽「减负」 过去一年，行业里没少见识号称百万上下文的模型。但真把几十万字的项目文档或者一整个代码库丢进去，很多模型到了后半程就开始注意力涣散、输出卡顿，账单还贵得吓人",
-    "url": "http://www.geekpark.net/news/374079",
-    "published": "Tue, 17 Nov 2026 14:41:48 +0800",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-26"
-  },
-  {
     "source": "爱范儿",
     "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
     "summary": "AI 视频「烧钱」终结者 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -395,6 +425,16 @@
     "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
     "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
     "published": "Tue, 24 Nov 2026 22:27:52 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-26"
+  },
+  {
+    "source": "TechNode",
+    "title": "XPeng plans January production of IRON humanoid robot, with showroom deployment to follow",
+    "summary": "XPeng plans to begin hardware production of its IRON humanoid robot in January 2027, with an external launch targeted for the second quarter, CEO He Xiaopeng said at the company’s technology event on Wednesday. The robot will first work as a trainee sales assistant in XPeng’s Chinese showrooms during the first quarter. IRON walked onto […]",
+    "url": "https://technode.com/2026/11/26/xpeng-plans-january-production-of-iron-humanoid-robot-with-showroom-deployment-to-follow/",
+    "published": "Thu, 26 Nov 2026 06:21:24 +0000",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-26"
@@ -640,64 +680,6 @@
     "fetchedAt": "2026-11-26"
   },
   {
-    "source": "TechNode",
-    "title": "BYD brings premium Denza brand to India with D9 and Z9 GT",
-    "summary": "BYD’s premium brand Denza has entered India with the D9 electric MPV and Z9 GT electric shooting brake. The company announced the expansion on Tuesday following a launch event in Mumbai on November 13. The two models give Denza an initial lineup spanning luxury passenger transport and performance cars. The D9 is aimed at family […]",
-    "url": "https://technode.com/2026/11/18/byd-brings-premium-denza-brand-to-india-with-d9-and-z9-gt/",
-    "published": "Wed, 18 Nov 2026 06:44:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-26"
-  },
-  {
-    "source": "TechNode",
-    "title": "DJI raises Pocket camera prices in China as component costs climb",
-    "summary": "DJI raised prices for several handheld cameras and bundles in China on Wednesday, implementing the adjustment it announced last week in response to rising semiconductor, memory and other component costs. The Osmo Pocket 4 Standard Combo increased from RMB 2,999 to RMB 3,199, while the Pocket 4P Standard Combo rose from RMB 3,799 to RMB […]",
-    "url": "https://technode.com/2026/11/18/dji-raises-pocket-camera-prices-in-china-as-component-costs-climb/",
-    "published": "Wed, 18 Nov 2026 06:44:19 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-26"
-  },
-  {
-    "source": "TechNode",
-    "title": "Xiaomi takes its rear-screen flagship phones overseas, starting at €1,399",
-    "summary": "Xiaomi launched the international versions of its 18 Pro and 18 Pro Max smartphones in Paris on Tuesday, bringing the series’ rear displays to overseas markets. European prices start at €1,399 for the 18 Pro and €1,599 for the Pro Max. The top Pro Max configuration, with 16 GB of RAM and 1 TB of […]",
-    "url": "https://technode.com/2026/11/18/xiaomi-takes-its-rear-screen-flagship-phones-overseas-starting-at-e1399/",
-    "published": "Wed, 18 Nov 2026 06:44:04 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-26"
-  },
-  {
-    "source": "微博",
-    "title": "#蔡磊融资失败妻子放弃事业全职直播#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23蔡磊融资失败妻子放弃事业全职直播%23",
-    "published": "2026-11-26",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-26",
-    "meta": {
-      "hotValue": 922478,
-      "rank": 3
-    }
-  },
-  {
-    "source": "微博",
-    "title": "#梁文锋成全球最富AI模型创始人#",
-    "summary": "",
-    "url": "https://s.weibo.com/weibo?q=%23梁文锋成全球最富AI模型创始人%23",
-    "published": "2026-11-26",
-    "lang": "zh",
-    "type": "news",
-    "fetchedAt": "2026-11-26",
-    "meta": {
-      "hotValue": 189049,
-      "rank": 34
-    }
-  },
-  {
     "source": "V2EX",
     "title": "认真问，现在是不是可以抄底了？",
     "summary": "本人不是专家，之前炒股小亏过，仅发帖请教。目前看历史 k 线，创业板指和中证 500 都处于阶段性低位，还要跌多少到底部我不知道，但是向上空间还是很大的。如果现在入场、分批买入这两个的 ETF，不加杠杆、拿闲钱投入、持有 3 至 5 年年以上，预期收益达到 20% 应该不算异想天开吧？长期持有这种宽基指数风险也不大，这样年化收益能到 5 个点左右，是不是也算是个不错的理财方式？",
@@ -707,21 +689,21 @@
     "type": "community",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "replies": 113,
+      "replies": 157,
       "node": "投资"
     }
   },
   {
     "source": "V2EX",
-    "title": "回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
-    "summary": "各位 V 友好，我们是林易 API（[linyiapi.ai](https://linyiapi.ai)）团队，做 AI 大模型 API 中转。这次发帖推广：回帖送 $8，加群再送 $10，一共 $18。欢迎来试、来挑刺。 **活动时间：帖子还在，活动就一直有效。** ## 🎁 福利 | 福利 | 额度 | 怎么领 | | --- | --- | --- | | 回帖送 | $8 | 在本帖回帖注册邮箱前缀即可领取，或者用户名（注册后右上角个人资料里编辑） | | 加群送 | $10 | 站点右上角 [客服] 按钮点开，扫码进群发「注册账号 + 领额度」 | 步骤： 1.",
-    "url": "https://www.v2ex.com/t/1259773",
-    "published": 1795597931,
+    "title": "2026 赣南脐橙给 v 友抽几箱",
+    "summary": "各位 V 友大家好，感谢大家的支持,自家种的橙子(产地为赣州全南县，华家兄弟同县）又熟了。老规矩，为了回馈 V 友的支持，搞一波抽奖。 往年帖子： /t/1174571 🎁抽奖规则 机制： 同 2024 年帖子 /t/996196 每 100 楼抽 1 箱，上限 4 箱每箱 算法： 同 2023 帖子 /t/1091646 今年用上证 11 月 27 号收盘价 + 11 月 27 日本帖最高楼数为随机数种子，抽奖代码链接如下：https://gist.github.com/zzerding/d80d25149a74c0dd96516d949e9e52b7 奖品： 同去年 5 斤",
+    "url": "https://www.v2ex.com/t/1260059",
+    "published": 1795683067,
     "lang": "zh",
     "type": "community",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "replies": 50,
+      "replies": 70,
       "node": "推广"
     }
   },
@@ -735,8 +717,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 12696,
-      "forks": 2078,
+      "stars": 12911,
+      "forks": 2115,
       "language": "Rust",
       "createdDaysAgo": 2
     }
@@ -751,8 +733,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 8348,
-      "forks": 1150,
+      "stars": 8422,
+      "forks": 1163,
       "language": "Rust",
       "createdDaysAgo": 5
     }
@@ -767,8 +749,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 4368,
-      "forks": 132,
+      "stars": 4849,
+      "forks": 148,
       "language": "JavaScript",
       "createdDaysAgo": 4
     }
@@ -783,8 +765,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 4033,
-      "forks": 289,
+      "stars": 4111,
+      "forks": 294,
       "language": "Rust",
       "createdDaysAgo": 4
     }
@@ -799,10 +781,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 3993,
-      "forks": 190,
+      "stars": 4095,
+      "forks": 199,
       "language": "C",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
@@ -815,8 +797,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 3117,
-      "forks": 909,
+      "stars": 3187,
+      "forks": 946,
       "language": "Rust",
       "createdDaysAgo": 1
     }
@@ -831,8 +813,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 2360,
-      "forks": 536,
+      "stars": 2417,
+      "forks": 547,
       "language": "Python",
       "createdDaysAgo": 2
     }
@@ -847,8 +829,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 1959,
-      "forks": 230,
+      "stars": 1962,
+      "forks": 234,
       "language": "Python",
       "createdDaysAgo": 5
     }
@@ -863,8 +845,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-26",
     "meta": {
-      "stars": 1900,
-      "forks": 99,
+      "stars": 1919,
+      "forks": 101,
       "language": "Swift",
       "createdDaysAgo": 3
     }
@@ -880,9 +862,9 @@
     "fetchedAt": "2026-11-26",
     "meta": {
       "stars": 1849,
-      "forks": 122,
+      "forks": 124,
       "language": "Rust",
-      "createdDaysAgo": 4
+      "createdDaysAgo": 5
     }
   }
 ]
