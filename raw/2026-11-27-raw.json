@@ -421,6 +421,36 @@
   },
   {
     "source": "TechNode",
+    "title": "Mercedes launches hybrid CLA in China with Doubao AI and Momenta driving system",
+    "summary": "Mercedes-Benz launched its new hybrid CLA at the Guangzhou Auto Show on Friday, with introductory prices ranging from RMB199,000 to RMB245,600. The two versions have official list prices of RMB229,000 and RMB285,600. The model combines a 48V hybrid powertrain with Chinese-developed AI services for the cabin and driver assistance. Built on Mercedes’ MB.OS software architecture, […]",
+    "url": "https://technode.com/2026/11/27/mercedes-launches-hybrid-cla-in-china-with-doubao-ai-and-momenta-driving-system/",
+    "published": "Fri, 27 Nov 2026 13:47:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Xiaomi reportedly plans December launch for second-generation AI glasses, including display version",
+    "summary": "Xiaomi plans to launch its second-generation AI glasses in mid-December alongside the standard Xiaomi 18 smartphone, with sales expected to begin the same day, according to a report published Friday. The lineup reportedly includes a Q95 Pro model, an electrochromic-lens version with four tint settings, and a version equipped with a display. A display-equipped model […]",
+    "url": "https://technode.com/2026/11/27/xiaomi-reportedly-plans-december-launch-for-second-generation-ai-glasses-including-display-version/",
+    "published": "Fri, 27 Nov 2026 13:46:04 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "TechNode",
+    "title": "Tencent launches Hy3D 3.6 for professional 3D asset generation",
+    "summary": "Tencent released Hy3D 3.6 on Friday, upgrading its 3D generation model with more detailed geometry and improved physically based rendering materials. The model is available through Tencent Cloud’s Token Hub API and has been integrated into the company’s Miora creative agent, LAP game-asset platform and WorkRally filmmaking platform. Hy3D 3.6 learns the geometry, textures and […]",
+    "url": "https://technode.com/2026/11/27/tencent-launches-hy3d-3-6-for-professional-3d-asset-generation/",
+    "published": "Fri, 27 Nov 2026 13:44:57 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "TechNode",
     "title": "XREAL’s Google bet meets the holiday season",
     "summary": "Editor’s Note: Founded in 2017, XREAL has become a leading consumer AR-glasses maker. iResearch data cited in its Hong Kong listing application ranked it No. 1 in global AR-glasses revenue for four straight years through 2025. In October 2026, XREAL and Google launched AURA, the first wired XR glasses powered by Android XR. But can […]",
     "url": "https://technode.com/2026/11/27/xreals-google-bet-meets-the-holiday-season/",
@@ -670,51 +700,204 @@
     "fetchedAt": "2026-11-27"
   },
   {
-    "source": "TechNode",
-    "title": "Tencent releases Hy4 flash model weights for local deployment",
-    "summary": "Tencent released the weights for its Hy4 flash AI model on Wednesday, two days after launching it through its apps and cloud API. Developers can download the standard model, an FP8 version and a base model for further training. The release makes good on Tencent’s announcement that it planned to make the model’s weights available. […]",
-    "url": "https://technode.com/2026/11/19/tencent-releases-hy4-flash-model-weights-for-local-deployment/",
-    "published": "Thu, 19 Nov 2026 05:43:24 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-27"
-  },
-  {
     "source": "The Verge",
     "title": "The absolute best Black Friday deals we’ve found (so far)",
     "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had […]",
     "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-    "published": "2026-11-27T04:35:30-05:00",
+    "published": "2026-11-27T17:43:57-05:00",
     "lang": "en",
     "type": "news",
     "fetchedAt": "2026-11-27"
   },
   {
-    "source": "微博",
-    "title": "#科创板一天收复全年跌幅#",
-    "summary": "新",
-    "url": "https://s.weibo.com/weibo?q=%23科创板一天收复全年跌幅%23",
-    "published": "2026-11-27",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "208 startup directories checked by hand: the 71 that give a followed link",
+    "summary": "Article URL: https://listhero.app/directories/ Comments URL: https://news.ycombinator.com/item?id=50671833 Points: 2 # Comments: 0",
+    "url": "https://listhero.app/directories/",
+    "published": "Fri, 27 Nov 2026 21:27:27 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-11-27",
-    "meta": {
-      "hotValue": 358149,
-      "rank": 49
-    }
+    "fetchedAt": "2026-11-27"
   },
   {
-    "source": "B站",
-    "title": "四个AI大模型修BUG谁最快",
-    "summary": "",
-    "url": "https://search.bilibili.com/all?keyword=四个AI大模型修BUG谁最快",
-    "published": "2026-11-27",
-    "lang": "zh",
+    "source": "Hacker News",
+    "title": "South Africa Launches $5.9M AI Startup Fund",
+    "summary": "Article URL: https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements Comments URL: https://news.ycombinator.com/item?id=50663999 Points: 2 # Comments: 0",
+    "url": "https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements",
+    "published": "Fri, 27 Nov 2026 07:46:45 +0000",
+    "lang": "en",
     "type": "news",
-    "fetchedAt": "2026-11-27",
-    "meta": {
-      "hotValue": 284364
-    }
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 Rdimm Launch",
+    "summary": "Article URL: https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/ Comments URL: https://news.ycombinator.com/item?id=50661634 Points: 1 # Comments: 0",
+    "url": "https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/",
+    "published": "Fri, 27 Nov 2026 01:11:59 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "ESO statement on approval of launch of one million space data centres",
+    "summary": "Article URL: https://www.eso.org/public/news/eso2614/ Comments URL: https://news.ycombinator.com/item?id=50661224 Points: 47 # Comments: 62",
+    "url": "https://www.eso.org/public/news/eso2614/",
+    "published": "Fri, 27 Nov 2026 00:03:44 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Ask HN: What is the OpenRouter equivalent to launch in 2026?",
+    "summary": "What type of AI related business would you start that A) has a real value for its users and B) could realistically be bootstrapped and build by single person? I know OpenRouter wasn't launched by single person, but you get what I mean, it wouldn't have been overwhelming for a single good developer to build and launch. Since I don't only want to leech value I will give one idea myself: Hosting and access to unrestricted open source LLMs for cybersecurity, agent testing, defense & biological resea",
+    "url": "https://news.ycombinator.com/item?id=50660683",
+    "published": "Thu, 26 Nov 2026 22:44:05 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "UK to launch first licensing scheme for knife sales",
+    "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme Comments URL: https://news.ycombinator.com/item?id=50660324 Points: 2 # Comments: 1",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
+    "published": "Thu, 26 Nov 2026 22:04:36 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+    "summary": "Article URL: https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/ Comments URL: https://news.ycombinator.com/item?id=50657724 Points: 27 # Comments: 4",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
+    "published": "Thu, 26 Nov 2026 17:55:10 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Microsoft GitHub Deletes Tweet Celebrating PS5 Repo after GTA VI launch",
+    "summary": "Article URL: https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617 Comments URL: https://news.ycombinator.com/item?id=50657637 Points: 4 # Comments: 0",
+    "url": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617",
+    "published": "Thu, 26 Nov 2026 17:46:49 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "CheeseDB 0.5: 8x faster startup with snapshots, plus a server, Docker and Helm",
+    "summary": "Article URL: https://github.com/govinargo-labs/cheesedb Comments URL: https://news.ycombinator.com/item?id=50657523 Points: 2 # Comments: 0",
+    "url": "https://github.com/govinargo-labs/cheesedb",
+    "published": "Thu, 26 Nov 2026 17:36:33 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Neuralink Receives FDA Approval to Launch Link Pivotal Study",
+    "summary": "Article URL: https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/ Comments URL: https://news.ycombinator.com/item?id=50654405 Points: 3 # Comments: 0",
+    "url": "https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/",
+    "published": "Thu, 26 Nov 2026 12:06:37 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles",
+    "summary": "Article URL: https://twitter.com/shneural/status/2125658847323017291 Comments URL: https://news.ycombinator.com/item?id=50652214 Points: 5 # Comments: 0",
+    "url": "https://twitter.com/shneural/status/2125658847323017291",
+    "published": "Thu, 26 Nov 2026 06:37:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+    "summary": "Article URL: https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/ Comments URL: https://news.ycombinator.com/item?id=50646034 Points: 3 # Comments: 1",
+    "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+    "published": "Wed, 25 Nov 2026 19:04:25 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "The Art of the Terrible Startup Name",
+    "summary": "Article URL: https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/ Comments URL: https://news.ycombinator.com/item?id=50643687 Points: 4 # Comments: 0",
+    "url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+    "published": "Wed, 25 Nov 2026 15:56:42 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "xAI Founders Unveil New AI Startup to Predict Future Events",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events Comments URL: https://news.ycombinator.com/item?id=50641332 Points: 4 # Comments: 3",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+    "published": "Wed, 25 Nov 2026 12:01:15 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "A Deep Dive into JVM Startup",
+    "summary": "Article URL: https://inside.java/2025/01/28/jvm-start-up/ Comments URL: https://news.ycombinator.com/item?id=50641193 Points: 1 # Comments: 0",
+    "url": "https://inside.java/2025/01/28/jvm-start-up/",
+    "published": "Wed, 25 Nov 2026 11:37:27 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers",
+    "summary": "Article URL: https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup Comments URL: https://news.ycombinator.com/item?id=50641015 Points: 4 # Comments: 0",
+    "url": "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup",
+    "published": "Wed, 25 Nov 2026 11:12:54 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Immigration and Federal Funding Sustain American AI Leadership",
+    "summary": "Article URL: https://cacm.acm.org/research/how-immigration-and-federal-funding-sustain-american-ai-leadership/ Comments URL: https://news.ycombinator.com/item?id=50640943 Points: 1 # Comments: 0",
+    "url": "https://cacm.acm.org/research/how-immigration-and-federal-funding-sustain-american-ai-leadership/",
+    "published": "Wed, 25 Nov 2026 11:02:30 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "T3 Code v0.1.11 sends hashed OpenAI and Claude account IDs at first launch",
+    "summary": "Article URL: https://www.everydev.ai/p/tool-t3-code-v0111-sends-hashed-openai-and-claude-account-ids-at-first-launch Comments URL: https://news.ycombinator.com/item?id=50636552 Points: 10 # Comments: 3",
+    "url": "https://www.everydev.ai/p/tool-t3-code-v0111-sends-hashed-openai-and-claude-account-ids-at-first-launch",
+    "published": "Tue, 24 Nov 2026 23:51:09 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
+  },
+  {
+    "source": "Hacker News",
+    "title": "Account Funding Trump's D.C. Makeover Got $300M Boost",
+    "summary": "Article URL: https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html Comments URL: https://news.ycombinator.com/item?id=50635370 Points: 3 # Comments: 0",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+    "published": "Tue, 24 Nov 2026 21:58:58 +0000",
+    "lang": "en",
+    "type": "news",
+    "fetchedAt": "2026-11-27"
   },
   {
     "source": "GitHub新星",
@@ -726,10 +909,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-27",
     "meta": {
-      "stars": 13595,
-      "forks": 2304,
+      "stars": 13799,
+      "forks": 2366,
       "language": "Rust",
-      "createdDaysAgo": 3
+      "createdDaysAgo": 4
     }
   },
   {
@@ -742,26 +925,138 @@
     "type": "signal",
     "fetchedAt": "2026-11-27",
     "meta": {
-      "stars": 6212,
-      "forks": 177,
+      "stars": 6712,
+      "forks": 196,
       "language": "JavaScript",
-      "createdDaysAgo": 5
+      "createdDaysAgo": 6
     }
   },
   {
     "source": "GitHub新星",
     "title": "EL4CTEO/fast-anything",
-    "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
     "url": "https://github.com/EL4CTEO/fast-anything",
     "published": "2026-11-21T14:40:27Z",
     "lang": "en",
     "type": "signal",
     "fetchedAt": "2026-11-27",
     "meta": {
-      "stars": 4364,
-      "forks": 314,
+      "stars": 4455,
+      "forks": 318,
       "language": "Rust",
+      "createdDaysAgo": 6
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "fxceless/victory-fork",
+    "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "url": "https://github.com/fxceless/victory-fork",
+    "published": "2026-11-24T18:02:37Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 3357,
+      "forks": 1015,
+      "language": "Rust",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "trustno1-coder/VIctory-NVIDIA",
+    "summary": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA f",
+    "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+    "published": "2026-11-25T23:35:29Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 3020,
+      "forks": 1031,
+      "language": "Rust",
+      "createdDaysAgo": 1
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "ProjectLeonida/mandy",
+    "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+    "url": "https://github.com/ProjectLeonida/mandy",
+    "published": "2026-11-23T23:54:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 2680,
+      "forks": 595,
+      "language": "Python",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "nexu-io/opengame",
+    "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "url": "https://github.com/nexu-io/opengame",
+    "published": "2026-11-25T10:35:45Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 2213,
+      "forks": 357,
+      "language": "TypeScript",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "alesha-pro/llm.asm",
+    "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+    "url": "https://github.com/alesha-pro/llm.asm",
+    "published": "2026-11-25T07:28:51Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 2180,
+      "forks": 332,
+      "language": "Assembly",
+      "createdDaysAgo": 2
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "os6/nospeaker",
+    "summary": "make your macbook's trackpad talk using its haptic motor",
+    "url": "https://github.com/os6/nospeaker",
+    "published": "2026-11-22T12:05:54Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 1992,
+      "forks": 107,
+      "language": "Swift",
       "createdDaysAgo": 5
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "omonkeyz/xbox-emulator",
+    "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "published": "2026-11-21T08:08:39Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-27",
+    "meta": {
+      "stars": 1850,
+      "forks": 125,
+      "language": "Rust",
+      "createdDaysAgo": 6
     }
   }
 ]
