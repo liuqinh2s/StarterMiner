@@ -720,194 +720,32 @@
     "fetchedAt": "2026-11-28"
   },
   {
-    "source": "Hacker News",
-    "title": "Ask HN: YC startup not paying for a take-home. What to do?",
-    "summary": "First of all, using a throwaway as I am not comfortable going fully public yet, but this post has enough information that the involved parties will know who I am and how to reach out. Earlier in the year I was approached by a prominent YC startup of a recent batch for an interview process, which included a fairly lengthy take home, took me 14 hours of work. After submitting the project and going through a debrief interview, communication with the company became increasingly difficult. Eventually",
-    "url": "https://news.ycombinator.com/item?id=50673800",
-    "published": "Sat, 28 Nov 2026 02:23:08 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
+    "source": "V2EX",
+    "title": "用闪极充电头充电导致 MacBook Pro 损坏",
+    "summary": "有一段时间持续用闪极充电头给 M 芯片的 MacBook Pro 充电，有一天电脑突然黑屏断电，然后再也无法开机，用原装磁吸充电也没反应了。天才吧说主板已无任何响应，需要更换主板，最后找第三方把主板上的电源芯片换了就好了。再也不敢用第三方的充电头了，用了很久都没问题，但是一出问题就是大问题。 ![](https://i.imgur.com/LJY2D0i.jpeg)",
+    "url": "https://www.v2ex.com/t/1260509",
+    "published": 1795831053,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-11-28",
+    "meta": {
+      "replies": 26,
+      "node": "MacBook Pro"
+    }
   },
   {
-    "source": "Hacker News",
-    "title": "GTA 6 crashes into top end of music chart after its record launch",
-    "summary": "Article URL: https://www.bbc.com/news/articles/ckp80d8vz1ego Comments URL: https://news.ycombinator.com/item?id=50673756 Points: 2 # Comments: 0",
-    "url": "https://www.bbc.com/news/articles/ckp80d8vz1ego",
-    "published": "Sat, 28 Nov 2026 02:15:26 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "208 startup directories checked by hand: the 71 that give a followed link",
-    "summary": "Article URL: https://listhero.app/directories/ Comments URL: https://news.ycombinator.com/item?id=50671833 Points: 3 # Comments: 1",
-    "url": "https://listhero.app/directories/",
-    "published": "Fri, 27 Nov 2026 21:27:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "South Africa Launches $5.9M AI Startup Fund",
-    "summary": "Article URL: https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements Comments URL: https://news.ycombinator.com/item?id=50663999 Points: 2 # Comments: 0",
-    "url": "https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements",
-    "published": "Fri, 27 Nov 2026 07:46:45 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 Rdimm Launch",
-    "summary": "Article URL: https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/ Comments URL: https://news.ycombinator.com/item?id=50661634 Points: 1 # Comments: 0",
-    "url": "https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/",
-    "published": "Fri, 27 Nov 2026 01:11:59 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "ESO statement on approval of launch of one million space data centres",
-    "summary": "Article URL: https://www.eso.org/public/news/eso2614/ Comments URL: https://news.ycombinator.com/item?id=50661224 Points: 48 # Comments: 62",
-    "url": "https://www.eso.org/public/news/eso2614/",
-    "published": "Fri, 27 Nov 2026 00:03:44 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Ask HN: What is the OpenRouter equivalent to launch in 2026?",
-    "summary": "What type of AI related business would you start that A) has a real value for its users and B) could realistically be bootstrapped and build by single person? I know OpenRouter wasn't launched by single person, but you get what I mean, it wouldn't have been overwhelming for a single good developer to build and launch. Since I don't only want to leech value I will give one idea myself: Hosting and access to unrestricted open source LLMs for cybersecurity, agent testing, defense & biological resea",
-    "url": "https://news.ycombinator.com/item?id=50660683",
-    "published": "Thu, 26 Nov 2026 22:44:05 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "UK to launch first licensing scheme for knife sales",
-    "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme Comments URL: https://news.ycombinator.com/item?id=50660324 Points: 2 # Comments: 1",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-    "published": "Thu, 26 Nov 2026 22:04:36 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
-    "summary": "Article URL: https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/ Comments URL: https://news.ycombinator.com/item?id=50657724 Points: 27 # Comments: 4",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
-    "published": "Thu, 26 Nov 2026 17:55:10 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Microsoft GitHub Deletes Tweet Celebrating PS5 Repo after GTA VI launch",
-    "summary": "Article URL: https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617 Comments URL: https://news.ycombinator.com/item?id=50657637 Points: 4 # Comments: 0",
-    "url": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617",
-    "published": "Thu, 26 Nov 2026 17:46:49 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "CheeseDB 0.5: 8x faster startup with snapshots, plus a server, Docker and Helm",
-    "summary": "Article URL: https://github.com/govinargo-labs/cheesedb Comments URL: https://news.ycombinator.com/item?id=50657523 Points: 2 # Comments: 0",
-    "url": "https://github.com/govinargo-labs/cheesedb",
-    "published": "Thu, 26 Nov 2026 17:36:33 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Neuralink Receives FDA Approval to Launch Link Pivotal Study",
-    "summary": "Article URL: https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/ Comments URL: https://news.ycombinator.com/item?id=50654405 Points: 3 # Comments: 0",
-    "url": "https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/",
-    "published": "Thu, 26 Nov 2026 12:06:37 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles",
-    "summary": "Article URL: https://twitter.com/shneural/status/2125658847323017291 Comments URL: https://news.ycombinator.com/item?id=50652214 Points: 5 # Comments: 0",
-    "url": "https://twitter.com/shneural/status/2125658847323017291",
-    "published": "Thu, 26 Nov 2026 06:37:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-    "summary": "Article URL: https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/ Comments URL: https://news.ycombinator.com/item?id=50646034 Points: 3 # Comments: 1",
-    "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-    "published": "Wed, 25 Nov 2026 19:04:25 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "The Art of the Terrible Startup Name",
-    "summary": "Article URL: https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/ Comments URL: https://news.ycombinator.com/item?id=50643687 Points: 4 # Comments: 0",
-    "url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
-    "published": "Wed, 25 Nov 2026 15:56:42 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "xAI Founders Unveil New AI Startup to Predict Future Events",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events Comments URL: https://news.ycombinator.com/item?id=50641332 Points: 4 # Comments: 3",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
-    "published": "Wed, 25 Nov 2026 12:01:15 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "A Deep Dive into JVM Startup",
-    "summary": "Article URL: https://inside.java/2025/01/28/jvm-start-up/ Comments URL: https://news.ycombinator.com/item?id=50641193 Points: 1 # Comments: 0",
-    "url": "https://inside.java/2025/01/28/jvm-start-up/",
-    "published": "Wed, 25 Nov 2026 11:37:27 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Engineers Do Not Get to Make Startup Mistakes When They Build Ledgers",
-    "summary": "Article URL: https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup Comments URL: https://news.ycombinator.com/item?id=50641015 Points: 4 # Comments: 0",
-    "url": "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup",
-    "published": "Wed, 25 Nov 2026 11:12:54 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
-  },
-  {
-    "source": "Hacker News",
-    "title": "Immigration and Federal Funding Sustain American AI Leadership",
-    "summary": "Article URL: https://cacm.acm.org/research/how-immigration-and-federal-funding-sustain-american-ai-leadership/ Comments URL: https://news.ycombinator.com/item?id=50640943 Points: 1 # Comments: 0",
-    "url": "https://cacm.acm.org/research/how-immigration-and-federal-funding-sustain-american-ai-leadership/",
-    "published": "Wed, 25 Nov 2026 11:02:30 +0000",
-    "lang": "en",
-    "type": "news",
-    "fetchedAt": "2026-11-28"
+    "source": "V2EX",
+    "title": "译哥 Poly：Mac 本机把视频换成另一种语言，并用原片音色配音（v 站用户送 10 个买断码）",
+    "summary": "我平时做视频，经常要把一条视频换成另一种语言：要么把中文视频发到海外，要么把生肉英文教程转成中文看。只翻字幕准确率堪忧，云端 AI 配音按分钟收费、声音还是那几个熟悉的「傲娇大姐孤独小帅」，自己手搓「扒词 → 翻译 → TTS → 对轨 → 压字幕」一条 5 分钟的片子能耗掉一下午。 所以我用原生 Swift 写了个 macOS 应用：**译哥 Poly**。视频拖进去点开始，不到 1 分钟出成片：换了语言、保留原片音色，双语字幕一并压好（目前中 ↔ 英）。 效果（47 秒中文口播 → 英文配音成片），官网首页能直接看视频：https://poly.uulili.com ![",
+    "url": "https://www.v2ex.com/t/1260512",
+    "published": 1795832010,
+    "lang": "zh",
+    "type": "community",
+    "fetchedAt": "2026-11-28",
+    "meta": {
+      "replies": 25,
+      "node": "分享创造"
+    }
   },
   {
     "source": "GitHub新星",
@@ -919,8 +757,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 13855,
-      "forks": 2398,
+      "stars": 13969,
+      "forks": 2434,
       "language": "Rust",
       "createdDaysAgo": 4
     }
@@ -935,8 +773,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 3880,
-      "forks": 1385,
+      "stars": 5016,
+      "forks": 1765,
       "language": "Rust",
       "createdDaysAgo": 2
     }
@@ -951,8 +789,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 3364,
-      "forks": 1015,
+      "stars": 3372,
+      "forks": 1016,
       "language": "Rust",
       "createdDaysAgo": 3
     }
@@ -967,8 +805,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 2968,
-      "forks": 644,
+      "stars": 3084,
+      "forks": 669,
       "language": "Python",
       "createdDaysAgo": 4
     }
@@ -983,10 +821,10 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 2391,
-      "forks": 384,
+      "stars": 2629,
+      "forks": 407,
       "language": "TypeScript",
-      "createdDaysAgo": 2
+      "createdDaysAgo": 3
     }
   },
   {
@@ -999,9 +837,25 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 2296,
-      "forks": 354,
+      "stars": 2473,
+      "forks": 378,
       "language": "Assembly",
+      "createdDaysAgo": 3
+    }
+  },
+  {
+    "source": "GitHub新星",
+    "title": "Reukix/Reloc",
+    "summary": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+    "url": "https://github.com/Reukix/Reloc",
+    "published": "2026-11-25T17:29:48Z",
+    "lang": "en",
+    "type": "signal",
+    "fetchedAt": "2026-11-28",
+    "meta": {
+      "stars": 2077,
+      "forks": 431,
+      "language": "Swift",
       "createdDaysAgo": 2
     }
   },
@@ -1015,8 +869,8 @@
     "type": "signal",
     "fetchedAt": "2026-11-28",
     "meta": {
-      "stars": 1994,
-      "forks": 108,
+      "stars": 2002,
+      "forks": 109,
       "language": "Swift",
       "createdDaysAgo": 5
     }
